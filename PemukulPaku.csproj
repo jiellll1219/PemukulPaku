@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Common\**" />
+    <EmbeddedResource Remove="Common\**" />
+    <None Remove="Common\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="HttpServer\**" />
+    <EmbeddedResource Remove="HttpServer\**" />
+    <None Remove="HttpServer\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="Common\Common.csproj" />
+    <ProjectReference Include="HttpServer\HttpServer.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="GameServer\Handlers\Generalactivity\" />
+  </ItemGroup>
+
+</Project>
