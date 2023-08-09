@@ -1,0 +1,137 @@
+[
+	{
+		"Icon": "SpriteOutput/QCandyPVP/SkillV2/Bomb",
+		"Name": {
+			"hash": -127692502
+		},
+		"Desc": {
+			"hash": -410113104
+		},
+		"CD": 6,
+		"MaxUseTimes": 9999,
+		"AbilityName": "FallGuys_Common_Bomb1",
+		"ParamList": [],
+		"DataImpl": {},
+		"ID": 101
+	},
+	{
+		"Icon": "SpriteOutput/QCandyPVP/SkillV2/Run",
+		"Name": {
+			"hash": -127692501
+		},
+		"Desc": {
+			"hash": -410113103
+		},
+		"CD": 6,
+		"MaxUseTimes": 2,
+		"AbilityName": "FallGuys_Common_FastRun",
+		"ParamList": [],
+		"DataImpl": {},
+		"ID": 102
+	},
+	{
+		"Icon": "SpriteOutput/QCandyPVP/SkillV2/Immu",
+		"Name": {
+			"hash": -127692500
+		},
+		"Desc": {
+			"hash": -410113102
+		},
+		"CD": 6,
+		"MaxUseTimes": 2,
+		"AbilityName": "FallGuys_Common_Invinciable",
+		"ParamList": [],
+		"DataImpl": {},
+		"ID": 103
+	},
+	{
+		"Icon": "SpriteOutput/QCandyPVP/SkillV2/Slow",
+		"Name": {
+			"hash": -127692499
+		},
+		"Desc": {
+			"hash": -410113101
+		},
+		"CD": 8,
+		"MaxUseTimes": 2,
+		"AbilityName": "FallGuys_Common_Float",
+		"ParamList": [],
+		"DataImpl": {},
+		"ID": 104
+	},
+	{
+		"Icon": "SpriteOutput/QCandyPVP/SkillV2/JumpUp",
+		"Name": {
+			"hash": -127692498
+		},
+		"Desc": {
+			"hash": -410113100
+		},
+		"CD": 6,
+		"MaxUseTimes": 2,
+		"AbilityName": "FallGuys_Common_HighJump",
+		"ParamList": [],
+		"DataImpl": {},
+		"ID": 105
+	},
+	{
+		"Icon": "SpriteOutput/QCandyPVP/SkillV2/Bomb",
+		"Name": {
+			"hash": -127692502
+		},
+		"Desc": {
+			"hash": -410113104
+		},
+		"CD": 6,
+		"MaxUseTimes": 1,
+		"AbilityName": "FallGuys_Common_Bomb2",
+		"ParamList": [],
+		"DataImpl": {},
+		"ID": 106
+	},
+	{
+		"Icon": "SpriteOutput/QCandyPVP/SkillV2/JumpUp",
+		"Name": {
+			"hash": -127692498
+		},
+		"Desc": {
+			"hash": -410113100
+		},
+		"CD": 6,
+		"MaxUseTimes": 2,
+		"AbilityName": "FallGuys_Common_HighJump_2",
+		"ParamList": [],
+		"DataImpl": {},
+		"ID": 107
+	},
+	{
+		"Icon": "SpriteOutput/QCandyPVP/SkillV2/Empty",
+		"Name": {
+			"hash": -127692495
+		},
+		"Desc": {
+			"hash": -410113097
+		},
+		"CD": 6,
+		"MaxUseTimes": 0,
+		"AbilityName": "FallGuys_Common_Empty",
+		"ParamList": [],
+		"DataImpl": {},
+		"ID": 108
+	},
+	{
+		"Icon": "SpriteOutput/QCandyPVP/SkillV2/Bomb",
+		"Name": {
+			"hash": -127692502
+		},
+		"Desc": {
+			"hash": -410113104
+		},
+		"CD": 6,
+		"MaxUseTimes": 2,
+		"AbilityName": "FallGuys_Common_Bomb3",
+		"ParamList": [],
+		"DataImpl": {},
+		"ID": 109
+	}
+]

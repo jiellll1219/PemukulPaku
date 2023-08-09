@@ -1,0 +1,248 @@
+[
+	{
+		"PoolIDList": [
+			1,
+			2,
+			3,
+			4,
+			5
+		],
+		"ReduceMinScore": [
+			{
+				"AddPercent": 10,
+				"MaterialID": 114519,
+				"MinCount": 1
+			},
+			{
+				"AddPercent": 20,
+				"MaterialID": 114519,
+				"MinCount": 2
+			}
+		],
+		"SiteLockTipsParam": 0,
+		"BaseHeal": 30,
+		"ExtraHeal": [
+			{
+				"AddPercent": 5,
+				"CostNum": 1,
+				"MaterialID": 144598
+			},
+			{
+				"AddPercent": 5,
+				"CostNum": 2,
+				"MaterialID": 144598
+			}
+		],
+		"RogueTowerCoin": 114514,
+		"BuffReset": [
+			{
+				"CostNum": 1,
+				"MaterialID": 144598,
+				"MaxResetTime": 1
+			},
+			{
+				"CostNum": 2,
+				"MaterialID": 144598,
+				"MaxResetTime": 2
+			},
+			{
+				"CostNum": 3,
+				"MaterialID": 144598,
+				"MaxResetTime": 3
+			}
+		],
+		"BuffResetCost": [
+			200,
+			500,
+			800
+		],
+		"BuffLevelupCost": [
+			200,
+			500,
+			800
+		],
+		"MaxSaveDataNum": 0,
+		"DataImpl": {},
+		"ID": 1
+	},
+	{
+		"PoolIDList": [
+			19
+		],
+		"ReduceMinScore": [
+			{
+				"AddPercent": 10,
+				"MaterialID": 115310,
+				"MinCount": 1
+			},
+			{
+				"AddPercent": 20,
+				"MaterialID": 115310,
+				"MinCount": 2
+			}
+		],
+		"SiteLockTipsParam": 891,
+		"BaseHeal": 30,
+		"ExtraHeal": [
+			{
+				"AddPercent": 10,
+				"CostNum": 1,
+				"MaterialID": 115305
+			},
+			{
+				"AddPercent": 20,
+				"CostNum": 2,
+				"MaterialID": 115305
+			}
+		],
+		"RogueTowerCoin": 115800,
+		"BuffReset": [
+			{
+				"CostNum": 1,
+				"MaterialID": 115303,
+				"MaxResetTime": 1
+			},
+			{
+				"CostNum": 2,
+				"MaterialID": 115303,
+				"MaxResetTime": 2
+			},
+			{
+				"CostNum": 3,
+				"MaterialID": 115303,
+				"MaxResetTime": 3
+			}
+		],
+		"BuffResetCost": [
+			100,
+			200,
+			300
+		],
+		"BuffLevelupCost": [
+			300
+		],
+		"MaxSaveDataNum": 3,
+		"DataImpl": {},
+		"ID": 2
+	},
+	{
+		"PoolIDList": [
+			33
+		],
+		"ReduceMinScore": [
+			{
+				"AddPercent": 10,
+				"MaterialID": 118310,
+				"MinCount": 1
+			},
+			{
+				"AddPercent": 20,
+				"MaterialID": 118310,
+				"MinCount": 2
+			}
+		],
+		"SiteLockTipsParam": 891,
+		"BaseHeal": 30,
+		"ExtraHeal": [
+			{
+				"AddPercent": 10,
+				"CostNum": 1,
+				"MaterialID": 118305
+			},
+			{
+				"AddPercent": 20,
+				"CostNum": 2,
+				"MaterialID": 118305
+			}
+		],
+		"RogueTowerCoin": 115801,
+		"BuffReset": [
+			{
+				"CostNum": 1,
+				"MaterialID": 118303,
+				"MaxResetTime": 1
+			},
+			{
+				"CostNum": 2,
+				"MaterialID": 118303,
+				"MaxResetTime": 2
+			},
+			{
+				"CostNum": 3,
+				"MaterialID": 118303,
+				"MaxResetTime": 3
+			}
+		],
+		"BuffResetCost": [
+			100,
+			200,
+			300
+		],
+		"BuffLevelupCost": [
+			300
+		],
+		"MaxSaveDataNum": 3,
+		"DataImpl": {},
+		"ID": 3
+	},
+	{
+		"PoolIDList": [
+			33
+		],
+		"ReduceMinScore": [
+			{
+				"AddPercent": 10,
+				"MaterialID": 118310,
+				"MinCount": 1
+			},
+			{
+				"AddPercent": 20,
+				"MaterialID": 118310,
+				"MinCount": 2
+			}
+		],
+		"SiteLockTipsParam": 891,
+		"BaseHeal": 30,
+		"ExtraHeal": [
+			{
+				"AddPercent": 10,
+				"CostNum": 1,
+				"MaterialID": 118305
+			},
+			{
+				"AddPercent": 20,
+				"CostNum": 2,
+				"MaterialID": 118305
+			}
+		],
+		"RogueTowerCoin": 115801,
+		"BuffReset": [
+			{
+				"CostNum": 1,
+				"MaterialID": 118303,
+				"MaxResetTime": 1
+			},
+			{
+				"CostNum": 2,
+				"MaterialID": 118303,
+				"MaxResetTime": 2
+			},
+			{
+				"CostNum": 3,
+				"MaterialID": 118303,
+				"MaxResetTime": 3
+			}
+		],
+		"BuffResetCost": [
+			100,
+			200,
+			300
+		],
+		"BuffLevelupCost": [
+			300
+		],
+		"MaxSaveDataNum": 3,
+		"DataImpl": {},
+		"ID": 4
+	}
+]

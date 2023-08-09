@@ -1,0 +1,751 @@
+[
+	{
+		"Dec": {
+			"hash": 1963305139
+		},
+		"Price": 3,
+		"StoreType": [
+			2,
+			3,
+			4,
+			9,
+			10
+		],
+		"Ability": "Rogue_Price_Trigger_Cost_HP",
+		"Param1": -0.1,
+		"DataImpl": {},
+		"PriceID": 1
+	},
+	{
+		"Dec": {
+			"hash": 1963305140
+		},
+		"Price": 6,
+		"StoreType": [
+			2,
+			3,
+			4,
+			9,
+			10
+		],
+		"Ability": "Rogue_Price_Trigger_Cost_HP",
+		"Param1": -0.2,
+		"DataImpl": {},
+		"PriceID": 2
+	},
+	{
+		"Dec": {
+			"hash": 1963305141
+		},
+		"Price": 9,
+		"StoreType": [
+			2,
+			3,
+			4,
+			9,
+			10
+		],
+		"Ability": "Rogue_Price_Trigger_Cost_HP",
+		"Param1": -0.3,
+		"DataImpl": {},
+		"PriceID": 3
+	},
+	{
+		"Dec": {
+			"hash": 1963305142
+		},
+		"Price": 12,
+		"StoreType": [
+			2,
+			3,
+			4,
+			9,
+			10
+		],
+		"Ability": "Rogue_Price_Trigger_Cost_HP",
+		"Param1": -0.4,
+		"DataImpl": {},
+		"PriceID": 4
+	},
+	{
+		"Dec": {
+			"hash": 1963305143
+		},
+		"Price": 15,
+		"StoreType": [
+			2,
+			3,
+			4,
+			9,
+			10
+		],
+		"Ability": "Rogue_Price_Trigger_Cost_HP",
+		"Param1": -0.5,
+		"DataImpl": {},
+		"PriceID": 5
+	},
+	{
+		"Dec": {
+			"hash": 1963305143
+		},
+		"Price": 20,
+		"StoreType": [
+			2,
+			3,
+			4,
+			9,
+			10
+		],
+		"Ability": "Rogue_Price_Trigger_Cost_HP",
+		"Param1": -0.5,
+		"DataImpl": {},
+		"PriceID": 6
+	},
+	{
+		"Dec": {
+			"hash": 1963305144
+		},
+		"Price": 20,
+		"StoreType": [
+			9,
+			24
+		],
+		"Ability": "Rogue_Price_Trigger_Kill_Avatar",
+		"Param1": 0,
+		"DataImpl": {},
+		"PriceID": 7
+	},
+	{
+		"Dec": {
+			"hash": 1963305145
+		},
+		"Price": 6,
+		"StoreType": [
+			3,
+			4,
+			9,
+			10
+		],
+		"Ability": "Rogue_Price_Trigger_Cost_MaxHP",
+		"Param1": -0.1,
+		"DataImpl": {},
+		"PriceID": 8
+	},
+	{
+		"Dec": {
+			"hash": 1963305146
+		},
+		"Price": 9,
+		"StoreType": [
+			3,
+			4,
+			9,
+			10
+		],
+		"Ability": "Rogue_Price_Trigger_Cost_MaxHP",
+		"Param1": -0.15,
+		"DataImpl": {},
+		"PriceID": 9
+	},
+	{
+		"Dec": {
+			"hash": 1963305147
+		},
+		"Price": 12,
+		"StoreType": [
+			3,
+			4,
+			9,
+			10
+		],
+		"Ability": "Rogue_Price_Trigger_Cost_MaxHP",
+		"Param1": -0.2,
+		"DataImpl": {},
+		"PriceID": 10
+	},
+	{
+		"Dec": {
+			"hash": 732917213
+		},
+		"Price": 15,
+		"StoreType": [
+			3,
+			4,
+			9,
+			10
+		],
+		"Ability": "Rogue_Price_Trigger_Cost_MaxHP",
+		"Param1": -0.25,
+		"DataImpl": {},
+		"PriceID": 11
+	},
+	{
+		"Dec": {
+			"hash": 732917214
+		},
+		"Price": 18,
+		"StoreType": [
+			3,
+			4,
+			9,
+			10
+		],
+		"Ability": "Rogue_Price_Trigger_Cost_MaxHP",
+		"Param1": -0.3,
+		"DataImpl": {},
+		"PriceID": 12
+	},
+	{
+		"Dec": {
+			"hash": 732917215
+		},
+		"Price": 5,
+		"StoreType": [
+			2,
+			4,
+			8,
+			9,
+			10
+		],
+		"Ability": "Rogue_Price_Trigger_Cost_MaxSP",
+		"Param1": -0.1,
+		"DataImpl": {},
+		"PriceID": 13
+	},
+	{
+		"Dec": {
+			"hash": 732917216
+		},
+		"Price": 10,
+		"StoreType": [
+			2,
+			4,
+			8,
+			9,
+			10
+		],
+		"Ability": "Rogue_Price_Trigger_Cost_MaxSP",
+		"Param1": -0.2,
+		"DataImpl": {},
+		"PriceID": 14
+	},
+	{
+		"Dec": {
+			"hash": 732917217
+		},
+		"Price": 15,
+		"StoreType": [
+			2,
+			4,
+			8,
+			9,
+			10
+		],
+		"Ability": "Rogue_Price_Trigger_Cost_MaxSP",
+		"Param1": -0.3,
+		"DataImpl": {},
+		"PriceID": 15
+	},
+	{
+		"Dec": {
+			"hash": 732917218
+		},
+		"Price": 20,
+		"StoreType": [
+			2,
+			4,
+			8,
+			9,
+			10
+		],
+		"Ability": "Rogue_Price_Trigger_Cost_MaxSP",
+		"Param1": -0.4,
+		"DataImpl": {},
+		"PriceID": 16
+	},
+	{
+		"Dec": {
+			"hash": 732917219
+		},
+		"Price": 5,
+		"StoreType": [
+			5,
+			7,
+			10,
+			20,
+			22,
+			25
+		],
+		"Ability": "",
+		"Param1": 0,
+		"DataImpl": {},
+		"PriceID": 17
+	},
+	{
+		"Dec": {
+			"hash": 732917220
+		},
+		"Price": 10,
+		"StoreType": [
+			5,
+			7,
+			10,
+			20,
+			22,
+			25
+		],
+		"Ability": "",
+		"Param1": 0,
+		"DataImpl": {},
+		"PriceID": 18
+	},
+	{
+		"Dec": {
+			"hash": 732917221
+		},
+		"Price": 15,
+		"StoreType": [
+			5,
+			7,
+			10,
+			20,
+			22,
+			25
+		],
+		"Ability": "",
+		"Param1": 0,
+		"DataImpl": {},
+		"PriceID": 19
+	},
+	{
+		"Dec": {
+			"hash": 732917222
+		},
+		"Price": 20,
+		"StoreType": [
+			5,
+			7,
+			10,
+			20,
+			22,
+			25
+		],
+		"Ability": "",
+		"Param1": 0,
+		"DataImpl": {},
+		"PriceID": 20
+	},
+	{
+		"Dec": {
+			"hash": 732917244
+		},
+		"Price": 5,
+		"StoreType": [
+			6,
+			7,
+			21,
+			22,
+			25
+		],
+		"Ability": "",
+		"Param1": 0,
+		"DataImpl": {},
+		"PriceID": 21
+	},
+	{
+		"Dec": {
+			"hash": 732917245
+		},
+		"Price": 10,
+		"StoreType": [
+			6,
+			7,
+			21,
+			22,
+			25
+		],
+		"Ability": "",
+		"Param1": 0,
+		"DataImpl": {},
+		"PriceID": 22
+	},
+	{
+		"Dec": {
+			"hash": 732917246
+		},
+		"Price": 15,
+		"StoreType": [
+			6,
+			7
+		],
+		"Ability": "",
+		"Param1": 0,
+		"DataImpl": {},
+		"PriceID": 23
+	},
+	{
+		"Dec": {
+			"hash": 732917247
+		},
+		"Price": 20,
+		"StoreType": [
+			6,
+			7,
+			21,
+			22,
+			25
+		],
+		"Ability": "",
+		"Param1": 0,
+		"DataImpl": {},
+		"PriceID": 24
+	},
+	{
+		"Dec": {
+			"hash": 732917248
+		},
+		"Price": 5,
+		"StoreType": [
+			11,
+			26
+		],
+		"Ability": "",
+		"Param1": 0,
+		"DataImpl": {},
+		"PriceID": 25
+	},
+	{
+		"Dec": {
+			"hash": 732917249
+		},
+		"Price": 10,
+		"StoreType": [
+			11,
+			26
+		],
+		"Ability": "",
+		"Param1": 0,
+		"DataImpl": {},
+		"PriceID": 26
+	},
+	{
+		"Dec": {
+			"hash": 732917250
+		},
+		"Price": 15,
+		"StoreType": [
+			11,
+			26
+		],
+		"Ability": "",
+		"Param1": 0,
+		"DataImpl": {},
+		"PriceID": 27
+	},
+	{
+		"Dec": {
+			"hash": 732917251
+		},
+		"Price": 20,
+		"StoreType": [
+			11,
+			26
+		],
+		"Ability": "",
+		"Param1": 0,
+		"DataImpl": {},
+		"PriceID": 28
+	},
+	{
+		"Dec": {
+			"hash": 732917252
+		},
+		"Price": 5,
+		"StoreType": [
+			12
+		],
+		"Ability": "",
+		"Param1": 0,
+		"DataImpl": {},
+		"PriceID": 29
+	},
+	{
+		"Dec": {
+			"hash": 732917253
+		},
+		"Price": 10,
+		"StoreType": [
+			12
+		],
+		"Ability": "",
+		"Param1": 0,
+		"DataImpl": {},
+		"PriceID": 30
+	},
+	{
+		"Dec": {
+			"hash": 732917275
+		},
+		"Price": 15,
+		"StoreType": [
+			12
+		],
+		"Ability": "",
+		"Param1": 0,
+		"DataImpl": {},
+		"PriceID": 31
+	},
+	{
+		"Dec": {
+			"hash": 732917276
+		},
+		"Price": 20,
+		"StoreType": [
+			12
+		],
+		"Ability": "",
+		"Param1": 0,
+		"DataImpl": {},
+		"PriceID": 32
+	},
+	{
+		"Dec": {
+			"hash": 732917277
+		},
+		"Price": 15,
+		"StoreType": [
+			24
+		],
+		"Ability": "Rogue_Price_Trigger_Cost_HP",
+		"Param1": -0.1,
+		"DataImpl": {},
+		"PriceID": 33
+	},
+	{
+		"Dec": {
+			"hash": 732917278
+		},
+		"Price": 18,
+		"StoreType": [
+			24
+		],
+		"Ability": "Rogue_Price_Trigger_Cost_HP",
+		"Param1": -0.2,
+		"DataImpl": {},
+		"PriceID": 34
+	},
+	{
+		"Dec": {
+			"hash": 732917279
+		},
+		"Price": 25,
+		"StoreType": [
+			24
+		],
+		"Ability": "Rogue_Price_Trigger_Cost_HP",
+		"Param1": -0.3,
+		"DataImpl": {},
+		"PriceID": 35
+	},
+	{
+		"Dec": {
+			"hash": 732917280
+		},
+		"Price": 5,
+		"StoreType": [
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			23,
+			24
+		],
+		"Ability": "Rogue_Price_Trigger_Cost_Avatar_HP",
+		"Param1": -0.25,
+		"DataImpl": {},
+		"PriceID": 36
+	},
+	{
+		"Dec": {
+			"hash": 732917280
+		},
+		"Price": 10,
+		"StoreType": [
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			23,
+			24
+		],
+		"Ability": "Rogue_Price_Trigger_Cost_Avatar_HP",
+		"Param1": -0.25,
+		"DataImpl": {},
+		"PriceID": 37
+	},
+	{
+		"Dec": {
+			"hash": 732917280
+		},
+		"Price": 15,
+		"StoreType": [
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			23,
+			24
+		],
+		"Ability": "Rogue_Price_Trigger_Cost_Avatar_HP",
+		"Param1": -0.25,
+		"DataImpl": {},
+		"PriceID": 38
+	},
+	{
+		"Dec": {
+			"hash": 732917281
+		},
+		"Price": 18,
+		"StoreType": [
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			23,
+			24
+		],
+		"Ability": "Rogue_Price_Trigger_Cost_Avatar_HP",
+		"Param1": -0.5,
+		"DataImpl": {},
+		"PriceID": 39
+	},
+	{
+		"Dec": {
+			"hash": 732917282
+		},
+		"Price": 25,
+		"StoreType": [
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			23,
+			24
+		],
+		"Ability": "Rogue_Price_Trigger_Cost_Avatar_HP",
+		"Param1": -0.9,
+		"DataImpl": {},
+		"PriceID": 40
+	},
+	{
+		"Dec": {
+			"hash": 732917283
+		},
+		"Price": 25,
+		"StoreType": [
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			23,
+			24
+		],
+		"Ability": "Rogue_Price_Trigger_Cost_SP",
+		"Param1": -1000,
+		"DataImpl": {},
+		"PriceID": 41
+	},
+	{
+		"Dec": {
+			"hash": 732917284
+		},
+		"Price": 20,
+		"StoreType": [
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			24
+		],
+		"Ability": "RogueLua_Price_Trigger_LoseRandomBuff",
+		"Param1": 0,
+		"DataImpl": {},
+		"PriceID": 42
+	},
+	{
+		"Dec": {
+			"hash": 732917306
+		},
+		"Price": 12,
+		"StoreType": [
+			13,
+			17,
+			24
+		],
+		"Ability": "RogueLua_Price_Trigger_LoseMinSuperposeBuff",
+		"Param1": 0,
+		"DataImpl": {},
+		"PriceID": 43
+	},
+	{
+		"Dec": {
+			"hash": 732917219
+		},
+		"Price": 100,
+		"StoreType": [
+			0,
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9,
+			10,
+			11,
+			12,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25,
+			26
+		],
+		"Ability": "",
+		"Param1": 0,
+		"DataImpl": {},
+		"PriceID": 44
+	}
+]

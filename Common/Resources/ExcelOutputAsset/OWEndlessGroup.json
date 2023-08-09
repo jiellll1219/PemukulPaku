@@ -1,0 +1,728 @@
+[
+	{
+		"playerGroup": 1,
+		"GroupName": {
+			"hash": -535858201
+		},
+		"groupHardLevel": 1,
+		"EliteRatio": 0.25,
+		"ExtraScore": 1000,
+		"ExtraScoreTime": 300,
+		"maxCapacity": 20,
+		"promoteRank": 7,
+		"demoteRank": 21,
+		"promoteDesc": {
+			"hash": 786934588
+		},
+		"normalDesc": {
+			"hash": -798154407
+		},
+		"demoteDesc": {
+			"hash": 1550176780
+		},
+		"unSelectColor": "#b4d35bFF",
+		"bgColor": "#4DB10080",
+		"unselectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_3",
+		"selectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_3u",
+		"unopenPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_3G",
+		"minSkipLevel": 1,
+		"maxSkipLevel": 0,
+		"skipLevelTime": 90,
+		"DataImpl": {},
+		"GroupLevel": 11,
+		"Type": 3
+	},
+	{
+		"playerGroup": 1,
+		"GroupName": {
+			"hash": -535858200
+		},
+		"groupHardLevel": 1,
+		"EliteRatio": 0.3,
+		"ExtraScore": 1000,
+		"ExtraScoreTime": 300,
+		"maxCapacity": 20,
+		"promoteRank": 5,
+		"demoteRank": 16,
+		"promoteDesc": {
+			"hash": 786934589
+		},
+		"normalDesc": {
+			"hash": -798154406
+		},
+		"demoteDesc": {
+			"hash": 1550176781
+		},
+		"unSelectColor": "#18c7feFF",
+		"bgColor": "#2896FA80",
+		"unselectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_4",
+		"selectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_4u",
+		"unopenPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_4G",
+		"minSkipLevel": 1,
+		"maxSkipLevel": 0,
+		"skipLevelTime": 90,
+		"DataImpl": {},
+		"GroupLevel": 12,
+		"Type": 3
+	},
+	{
+		"playerGroup": 1,
+		"GroupName": {
+			"hash": -535858199
+		},
+		"groupHardLevel": 2,
+		"EliteRatio": 0.4,
+		"ExtraScore": 1000,
+		"ExtraScoreTime": 300,
+		"maxCapacity": 20,
+		"promoteRank": 3,
+		"demoteRank": 16,
+		"promoteDesc": {
+			"hash": 786934590
+		},
+		"normalDesc": {
+			"hash": -798154405
+		},
+		"demoteDesc": {
+			"hash": 1550176782
+		},
+		"unSelectColor": "#ff9900FF",
+		"bgColor": "#FF7D009B",
+		"unselectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_5",
+		"selectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_5u",
+		"unopenPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_5G",
+		"minSkipLevel": 1,
+		"maxSkipLevel": 0,
+		"skipLevelTime": 90,
+		"DataImpl": {},
+		"GroupLevel": 13,
+		"Type": 3
+	},
+	{
+		"playerGroup": 1,
+		"GroupName": {
+			"hash": -535858198
+		},
+		"groupHardLevel": 3,
+		"EliteRatio": 0.5,
+		"ExtraScore": 1000,
+		"ExtraScoreTime": 300,
+		"maxCapacity": 20,
+		"promoteRank": 0,
+		"demoteRank": 11,
+		"promoteDesc": {
+			"hash": 786934591
+		},
+		"normalDesc": {
+			"hash": -798154404
+		},
+		"demoteDesc": {
+			"hash": 1550176783
+		},
+		"unSelectColor": "#ff6d6dFF",
+		"bgColor": "#FF000080",
+		"unselectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_6",
+		"selectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_6u",
+		"unopenPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_6G",
+		"minSkipLevel": 1,
+		"maxSkipLevel": 0,
+		"skipLevelTime": 90,
+		"DataImpl": {},
+		"GroupLevel": 14,
+		"Type": 3
+	},
+	{
+		"playerGroup": 2,
+		"GroupName": {
+			"hash": 1347131604
+		},
+		"groupHardLevel": 2,
+		"EliteRatio": 0.3,
+		"ExtraScore": 1000,
+		"ExtraScoreTime": 300,
+		"maxCapacity": 20,
+		"promoteRank": 7,
+		"demoteRank": 21,
+		"promoteDesc": {
+			"hash": 786934588
+		},
+		"normalDesc": {
+			"hash": -798154407
+		},
+		"demoteDesc": {
+			"hash": 1550176780
+		},
+		"unSelectColor": "#b4d35bFF",
+		"bgColor": "#4DB10080",
+		"unselectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_3",
+		"selectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_3u",
+		"unopenPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_3G",
+		"minSkipLevel": 0,
+		"maxSkipLevel": 0,
+		"skipLevelTime": 60,
+		"DataImpl": {},
+		"GroupLevel": 21,
+		"Type": 2
+	},
+	{
+		"playerGroup": 2,
+		"GroupName": {
+			"hash": -535858201
+		},
+		"groupHardLevel": 4,
+		"EliteRatio": 0.3,
+		"ExtraScore": 1000,
+		"ExtraScoreTime": 300,
+		"maxCapacity": 20,
+		"promoteRank": 7,
+		"demoteRank": 21,
+		"promoteDesc": {
+			"hash": 786934588
+		},
+		"normalDesc": {
+			"hash": -798154407
+		},
+		"demoteDesc": {
+			"hash": 1550176780
+		},
+		"unSelectColor": "#b4d35bFF",
+		"bgColor": "#4DB10080",
+		"unselectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_3",
+		"selectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_3u",
+		"unopenPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_3G",
+		"minSkipLevel": 1,
+		"maxSkipLevel": 0,
+		"skipLevelTime": 90,
+		"DataImpl": {},
+		"GroupLevel": 21,
+		"Type": 3
+	},
+	{
+		"playerGroup": 2,
+		"GroupName": {
+			"hash": 1347131605
+		},
+		"groupHardLevel": 3,
+		"EliteRatio": 0.4,
+		"ExtraScore": 1000,
+		"ExtraScoreTime": 300,
+		"maxCapacity": 20,
+		"promoteRank": 5,
+		"demoteRank": 16,
+		"promoteDesc": {
+			"hash": 786934589
+		},
+		"normalDesc": {
+			"hash": -798154406
+		},
+		"demoteDesc": {
+			"hash": 1550176781
+		},
+		"unSelectColor": "#18c7feFF",
+		"bgColor": "#2896FA80",
+		"unselectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_4",
+		"selectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_4u",
+		"unopenPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_4G",
+		"minSkipLevel": 0,
+		"maxSkipLevel": 0,
+		"skipLevelTime": 60,
+		"DataImpl": {},
+		"GroupLevel": 22,
+		"Type": 2
+	},
+	{
+		"playerGroup": 2,
+		"GroupName": {
+			"hash": -535858200
+		},
+		"groupHardLevel": 4,
+		"EliteRatio": 0.4,
+		"ExtraScore": 1000,
+		"ExtraScoreTime": 300,
+		"maxCapacity": 20,
+		"promoteRank": 5,
+		"demoteRank": 16,
+		"promoteDesc": {
+			"hash": 786934589
+		},
+		"normalDesc": {
+			"hash": -798154406
+		},
+		"demoteDesc": {
+			"hash": 1550176781
+		},
+		"unSelectColor": "#18c7feFF",
+		"bgColor": "#2896FA80",
+		"unselectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_4",
+		"selectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_4u",
+		"unopenPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_4G",
+		"minSkipLevel": 1,
+		"maxSkipLevel": 0,
+		"skipLevelTime": 90,
+		"DataImpl": {},
+		"GroupLevel": 22,
+		"Type": 3
+	},
+	{
+		"playerGroup": 2,
+		"GroupName": {
+			"hash": 1347131606
+		},
+		"groupHardLevel": 4,
+		"EliteRatio": 0.5,
+		"ExtraScore": 1000,
+		"ExtraScoreTime": 300,
+		"maxCapacity": 20,
+		"promoteRank": 3,
+		"demoteRank": 16,
+		"promoteDesc": {
+			"hash": 786934590
+		},
+		"normalDesc": {
+			"hash": -798154405
+		},
+		"demoteDesc": {
+			"hash": 1550176782
+		},
+		"unSelectColor": "#ff9900FF",
+		"bgColor": "#FF7D009B",
+		"unselectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_5",
+		"selectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_5u",
+		"unopenPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_5G",
+		"minSkipLevel": 0,
+		"maxSkipLevel": 0,
+		"skipLevelTime": 60,
+		"DataImpl": {},
+		"GroupLevel": 23,
+		"Type": 2
+	},
+	{
+		"playerGroup": 2,
+		"GroupName": {
+			"hash": -535858199
+		},
+		"groupHardLevel": 5,
+		"EliteRatio": 0.5,
+		"ExtraScore": 1000,
+		"ExtraScoreTime": 300,
+		"maxCapacity": 20,
+		"promoteRank": 3,
+		"demoteRank": 16,
+		"promoteDesc": {
+			"hash": 786934590
+		},
+		"normalDesc": {
+			"hash": -798154405
+		},
+		"demoteDesc": {
+			"hash": 1550176782
+		},
+		"unSelectColor": "#ff9900FF",
+		"bgColor": "#FF7D009B",
+		"unselectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_5",
+		"selectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_5u",
+		"unopenPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_5G",
+		"minSkipLevel": 1,
+		"maxSkipLevel": 0,
+		"skipLevelTime": 90,
+		"DataImpl": {},
+		"GroupLevel": 23,
+		"Type": 3
+	},
+	{
+		"playerGroup": 2,
+		"GroupName": {
+			"hash": 1347131607
+		},
+		"groupHardLevel": 5,
+		"EliteRatio": 0.6,
+		"ExtraScore": 1000,
+		"ExtraScoreTime": 300,
+		"maxCapacity": 20,
+		"promoteRank": 0,
+		"demoteRank": 11,
+		"promoteDesc": {
+			"hash": 786934591
+		},
+		"normalDesc": {
+			"hash": -798154404
+		},
+		"demoteDesc": {
+			"hash": 1550176783
+		},
+		"unSelectColor": "#ff6d6dFF",
+		"bgColor": "#FF000080",
+		"unselectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_6",
+		"selectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_6u",
+		"unopenPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_6G",
+		"minSkipLevel": 0,
+		"maxSkipLevel": 0,
+		"skipLevelTime": 60,
+		"DataImpl": {},
+		"GroupLevel": 24,
+		"Type": 2
+	},
+	{
+		"playerGroup": 2,
+		"GroupName": {
+			"hash": -535858198
+		},
+		"groupHardLevel": 6,
+		"EliteRatio": 0.6,
+		"ExtraScore": 1000,
+		"ExtraScoreTime": 300,
+		"maxCapacity": 20,
+		"promoteRank": 0,
+		"demoteRank": 11,
+		"promoteDesc": {
+			"hash": 786934591
+		},
+		"normalDesc": {
+			"hash": -798154404
+		},
+		"demoteDesc": {
+			"hash": 1550176783
+		},
+		"unSelectColor": "#ff6d6dFF",
+		"bgColor": "#FF000080",
+		"unselectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_6",
+		"selectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_6u",
+		"unopenPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_6G",
+		"minSkipLevel": 1,
+		"maxSkipLevel": 0,
+		"skipLevelTime": 90,
+		"DataImpl": {},
+		"GroupLevel": 24,
+		"Type": 3
+	},
+	{
+		"playerGroup": 3,
+		"GroupName": {
+			"hash": 1347131604
+		},
+		"groupHardLevel": 3,
+		"EliteRatio": 0.4,
+		"ExtraScore": 1000,
+		"ExtraScoreTime": 300,
+		"maxCapacity": 20,
+		"promoteRank": 7,
+		"demoteRank": 21,
+		"promoteDesc": {
+			"hash": 786934588
+		},
+		"normalDesc": {
+			"hash": -798154407
+		},
+		"demoteDesc": {
+			"hash": 1550176780
+		},
+		"unSelectColor": "#b4d35bFF",
+		"bgColor": "#4DB10080",
+		"unselectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_3",
+		"selectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_3u",
+		"unopenPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_3G",
+		"minSkipLevel": 0,
+		"maxSkipLevel": 0,
+		"skipLevelTime": 60,
+		"DataImpl": {},
+		"GroupLevel": 31,
+		"Type": 2
+	},
+	{
+		"playerGroup": 3,
+		"GroupName": {
+			"hash": -535858201
+		},
+		"groupHardLevel": 7,
+		"EliteRatio": 0.4,
+		"ExtraScore": 1000,
+		"ExtraScoreTime": 300,
+		"maxCapacity": 20,
+		"promoteRank": 7,
+		"demoteRank": 21,
+		"promoteDesc": {
+			"hash": 786934588
+		},
+		"normalDesc": {
+			"hash": -798154407
+		},
+		"demoteDesc": {
+			"hash": 1550176780
+		},
+		"unSelectColor": "#b4d35bFF",
+		"bgColor": "#4DB10080",
+		"unselectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_3",
+		"selectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_3u",
+		"unopenPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_3G",
+		"minSkipLevel": 1,
+		"maxSkipLevel": 0,
+		"skipLevelTime": 90,
+		"DataImpl": {},
+		"GroupLevel": 31,
+		"Type": 3
+	},
+	{
+		"playerGroup": 3,
+		"GroupName": {
+			"hash": 1347131605
+		},
+		"groupHardLevel": 4,
+		"EliteRatio": 0.5,
+		"ExtraScore": 1000,
+		"ExtraScoreTime": 300,
+		"maxCapacity": 20,
+		"promoteRank": 5,
+		"demoteRank": 16,
+		"promoteDesc": {
+			"hash": 786934589
+		},
+		"normalDesc": {
+			"hash": -798154406
+		},
+		"demoteDesc": {
+			"hash": 1550176781
+		},
+		"unSelectColor": "#18c7feFF",
+		"bgColor": "#2896FA80",
+		"unselectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_4",
+		"selectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_4u",
+		"unopenPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_4G",
+		"minSkipLevel": 0,
+		"maxSkipLevel": 0,
+		"skipLevelTime": 60,
+		"DataImpl": {},
+		"GroupLevel": 32,
+		"Type": 2
+	},
+	{
+		"playerGroup": 3,
+		"GroupName": {
+			"hash": -535858200
+		},
+		"groupHardLevel": 8,
+		"EliteRatio": 0.5,
+		"ExtraScore": 1000,
+		"ExtraScoreTime": 300,
+		"maxCapacity": 20,
+		"promoteRank": 5,
+		"demoteRank": 16,
+		"promoteDesc": {
+			"hash": 786934589
+		},
+		"normalDesc": {
+			"hash": -798154406
+		},
+		"demoteDesc": {
+			"hash": 1550176781
+		},
+		"unSelectColor": "#18c7feFF",
+		"bgColor": "#2896FA80",
+		"unselectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_4",
+		"selectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_4u",
+		"unopenPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_4G",
+		"minSkipLevel": 1,
+		"maxSkipLevel": 0,
+		"skipLevelTime": 90,
+		"DataImpl": {},
+		"GroupLevel": 32,
+		"Type": 3
+	},
+	{
+		"playerGroup": 3,
+		"GroupName": {
+			"hash": 1347131606
+		},
+		"groupHardLevel": 5,
+		"EliteRatio": 0.6,
+		"ExtraScore": 1000,
+		"ExtraScoreTime": 300,
+		"maxCapacity": 20,
+		"promoteRank": 3,
+		"demoteRank": 16,
+		"promoteDesc": {
+			"hash": 786934590
+		},
+		"normalDesc": {
+			"hash": -798154405
+		},
+		"demoteDesc": {
+			"hash": 1550176782
+		},
+		"unSelectColor": "#ff9900FF",
+		"bgColor": "#FF7D009B",
+		"unselectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_5",
+		"selectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_5u",
+		"unopenPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_5G",
+		"minSkipLevel": 0,
+		"maxSkipLevel": 0,
+		"skipLevelTime": 60,
+		"DataImpl": {},
+		"GroupLevel": 33,
+		"Type": 2
+	},
+	{
+		"playerGroup": 3,
+		"GroupName": {
+			"hash": -535858199
+		},
+		"groupHardLevel": 9,
+		"EliteRatio": 0.6,
+		"ExtraScore": 1000,
+		"ExtraScoreTime": 300,
+		"maxCapacity": 20,
+		"promoteRank": 3,
+		"demoteRank": 16,
+		"promoteDesc": {
+			"hash": 786934590
+		},
+		"normalDesc": {
+			"hash": -798154405
+		},
+		"demoteDesc": {
+			"hash": 1550176782
+		},
+		"unSelectColor": "#ff9900FF",
+		"bgColor": "#FF7D009B",
+		"unselectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_5",
+		"selectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_5u",
+		"unopenPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_5G",
+		"minSkipLevel": 1,
+		"maxSkipLevel": 0,
+		"skipLevelTime": 90,
+		"DataImpl": {},
+		"GroupLevel": 33,
+		"Type": 3
+	},
+	{
+		"playerGroup": 3,
+		"GroupName": {
+			"hash": 1347131607
+		},
+		"groupHardLevel": 6,
+		"EliteRatio": 0.7,
+		"ExtraScore": 1000,
+		"ExtraScoreTime": 300,
+		"maxCapacity": 20,
+		"promoteRank": 0,
+		"demoteRank": 11,
+		"promoteDesc": {
+			"hash": 786934653
+		},
+		"normalDesc": {
+			"hash": -798154342
+		},
+		"demoteDesc": {
+			"hash": 1550176845
+		},
+		"unSelectColor": "#ff6d6dFF",
+		"bgColor": "#FF000080",
+		"unselectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_6",
+		"selectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_6u",
+		"unopenPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_6G",
+		"minSkipLevel": 0,
+		"maxSkipLevel": 0,
+		"skipLevelTime": 60,
+		"DataImpl": {},
+		"GroupLevel": 34,
+		"Type": 2
+	},
+	{
+		"playerGroup": 3,
+		"GroupName": {
+			"hash": -535858198
+		},
+		"groupHardLevel": 10,
+		"EliteRatio": 0.7,
+		"ExtraScore": 1000,
+		"ExtraScoreTime": 300,
+		"maxCapacity": 20,
+		"promoteRank": 0,
+		"demoteRank": 11,
+		"promoteDesc": {
+			"hash": 786934653
+		},
+		"normalDesc": {
+			"hash": -798154342
+		},
+		"demoteDesc": {
+			"hash": 1550176845
+		},
+		"unSelectColor": "#ff6d6dFF",
+		"bgColor": "#FF000080",
+		"unselectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_6",
+		"selectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_6u",
+		"unopenPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_6G",
+		"minSkipLevel": 1,
+		"maxSkipLevel": 0,
+		"skipLevelTime": 90,
+		"DataImpl": {},
+		"GroupLevel": 34,
+		"Type": 3
+	},
+	{
+		"playerGroup": 3,
+		"GroupName": {
+			"hash": 1347131608
+		},
+		"groupHardLevel": 7,
+		"EliteRatio": 0.8,
+		"ExtraScore": 1000,
+		"ExtraScoreTime": 300,
+		"maxCapacity": 25,
+		"promoteRank": 0,
+		"demoteRank": 6,
+		"promoteDesc": {
+			"hash": 786934654
+		},
+		"normalDesc": {
+			"hash": -798154341
+		},
+		"demoteDesc": {
+			"hash": 1550176846
+		},
+		"unSelectColor": "#111111FF",
+		"bgColor": "#630068FF",
+		"unselectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_7",
+		"selectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_7u",
+		"unopenPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_7G",
+		"minSkipLevel": 0,
+		"maxSkipLevel": 0,
+		"skipLevelTime": 60,
+		"DataImpl": {},
+		"GroupLevel": 35,
+		"Type": 2
+	},
+	{
+		"playerGroup": 3,
+		"GroupName": {
+			"hash": -535858197
+		},
+		"groupHardLevel": 11,
+		"EliteRatio": 0.8,
+		"ExtraScore": 1000,
+		"ExtraScoreTime": 300,
+		"maxCapacity": 25,
+		"promoteRank": 0,
+		"demoteRank": 6,
+		"promoteDesc": {
+			"hash": 786934654
+		},
+		"normalDesc": {
+			"hash": -798154341
+		},
+		"demoteDesc": {
+			"hash": 1550176846
+		},
+		"unSelectColor": "#111111FF",
+		"bgColor": "#630068FF",
+		"unselectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_7",
+		"selectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_7u",
+		"unopenPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_7G",
+		"minSkipLevel": 1,
+		"maxSkipLevel": 0,
+		"skipLevelTime": 90,
+		"DataImpl": {},
+		"GroupLevel": 35,
+		"Type": 3
+	}
+]

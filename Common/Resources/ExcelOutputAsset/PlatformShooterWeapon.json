@@ -1,0 +1,922 @@
+[
+	{
+		"WeaponTitle": {
+			"hash": 1020607950
+		},
+		"WeaponDesc": {
+			"hash": 0
+		},
+		"icon": "SpriteOutput/PlatformShooter/Weapon/Weapon_Q_PlantformShoot_GatLin",
+		"WeaponAtk": 10,
+		"AffixNum": 1,
+		"AffixPoolMap": [
+			{
+				"PoolID": 1,
+				"RefineType": 1
+			}
+		],
+		"DataImpl": {},
+		"WeaponId": 101,
+		"Level": 1
+	},
+	{
+		"WeaponTitle": {
+			"hash": 1020607950
+		},
+		"WeaponDesc": {
+			"hash": 0
+		},
+		"icon": "SpriteOutput/PlatformShooter/Weapon/Weapon_Q_PlantformShoot_GatLin",
+		"WeaponAtk": 20,
+		"AffixNum": 2,
+		"AffixPoolMap": [
+			{
+				"PoolID": 1,
+				"RefineType": 1
+			}
+		],
+		"DataImpl": {},
+		"WeaponId": 101,
+		"Level": 2
+	},
+	{
+		"WeaponTitle": {
+			"hash": 1020607950
+		},
+		"WeaponDesc": {
+			"hash": 0
+		},
+		"icon": "SpriteOutput/PlatformShooter/Weapon/Weapon_Q_PlantformShoot_GatLin",
+		"WeaponAtk": 30,
+		"AffixNum": 3,
+		"AffixPoolMap": [
+			{
+				"PoolID": 1,
+				"RefineType": 1
+			},
+			{
+				"PoolID": 2,
+				"RefineType": 2
+			}
+		],
+		"DataImpl": {},
+		"WeaponId": 101,
+		"Level": 3
+	},
+	{
+		"WeaponTitle": {
+			"hash": 1020607950
+		},
+		"WeaponDesc": {
+			"hash": 0
+		},
+		"icon": "SpriteOutput/PlatformShooter/Weapon/Weapon_Q_PlantformShoot_GatLin",
+		"WeaponAtk": 40,
+		"AffixNum": 4,
+		"AffixPoolMap": [
+			{
+				"PoolID": 1,
+				"RefineType": 1
+			},
+			{
+				"PoolID": 2,
+				"RefineType": 2
+			},
+			{
+				"PoolID": 11,
+				"RefineType": 3
+			}
+		],
+		"DataImpl": {},
+		"WeaponId": 101,
+		"Level": 4
+	},
+	{
+		"WeaponTitle": {
+			"hash": 1020607951
+		},
+		"WeaponDesc": {
+			"hash": 0
+		},
+		"icon": "SpriteOutput/PlatformShooter/Weapon/Weapon_Q_PlantformShoot_Baseball",
+		"WeaponAtk": 10,
+		"AffixNum": 1,
+		"AffixPoolMap": [
+			{
+				"PoolID": 1,
+				"RefineType": 1
+			}
+		],
+		"DataImpl": {},
+		"WeaponId": 102,
+		"Level": 1
+	},
+	{
+		"WeaponTitle": {
+			"hash": 1020607951
+		},
+		"WeaponDesc": {
+			"hash": 0
+		},
+		"icon": "SpriteOutput/PlatformShooter/Weapon/Weapon_Q_PlantformShoot_Baseball",
+		"WeaponAtk": 20,
+		"AffixNum": 2,
+		"AffixPoolMap": [
+			{
+				"PoolID": 1,
+				"RefineType": 1
+			}
+		],
+		"DataImpl": {},
+		"WeaponId": 102,
+		"Level": 2
+	},
+	{
+		"WeaponTitle": {
+			"hash": 1020607951
+		},
+		"WeaponDesc": {
+			"hash": 0
+		},
+		"icon": "SpriteOutput/PlatformShooter/Weapon/Weapon_Q_PlantformShoot_Baseball",
+		"WeaponAtk": 30,
+		"AffixNum": 3,
+		"AffixPoolMap": [
+			{
+				"PoolID": 1,
+				"RefineType": 1
+			},
+			{
+				"PoolID": 2,
+				"RefineType": 2
+			}
+		],
+		"DataImpl": {},
+		"WeaponId": 102,
+		"Level": 3
+	},
+	{
+		"WeaponTitle": {
+			"hash": 1020607951
+		},
+		"WeaponDesc": {
+			"hash": 0
+		},
+		"icon": "SpriteOutput/PlatformShooter/Weapon/Weapon_Q_PlantformShoot_Baseball",
+		"WeaponAtk": 40,
+		"AffixNum": 4,
+		"AffixPoolMap": [
+			{
+				"PoolID": 1,
+				"RefineType": 1
+			},
+			{
+				"PoolID": 2,
+				"RefineType": 2
+			},
+			{
+				"PoolID": 12,
+				"RefineType": 3
+			}
+		],
+		"DataImpl": {},
+		"WeaponId": 102,
+		"Level": 4
+	},
+	{
+		"WeaponTitle": {
+			"hash": 1020607952
+		},
+		"WeaponDesc": {
+			"hash": 0
+		},
+		"icon": "SpriteOutput/PlatformShooter/Weapon/Weapon_Q_PlantformShoot_Laser",
+		"WeaponAtk": 10,
+		"AffixNum": 1,
+		"AffixPoolMap": [
+			{
+				"PoolID": 1,
+				"RefineType": 1
+			}
+		],
+		"DataImpl": {},
+		"WeaponId": 103,
+		"Level": 1
+	},
+	{
+		"WeaponTitle": {
+			"hash": 1020607952
+		},
+		"WeaponDesc": {
+			"hash": 0
+		},
+		"icon": "SpriteOutput/PlatformShooter/Weapon/Weapon_Q_PlantformShoot_Laser",
+		"WeaponAtk": 20,
+		"AffixNum": 2,
+		"AffixPoolMap": [
+			{
+				"PoolID": 1,
+				"RefineType": 1
+			}
+		],
+		"DataImpl": {},
+		"WeaponId": 103,
+		"Level": 2
+	},
+	{
+		"WeaponTitle": {
+			"hash": 1020607952
+		},
+		"WeaponDesc": {
+			"hash": 0
+		},
+		"icon": "SpriteOutput/PlatformShooter/Weapon/Weapon_Q_PlantformShoot_Laser",
+		"WeaponAtk": 30,
+		"AffixNum": 3,
+		"AffixPoolMap": [
+			{
+				"PoolID": 1,
+				"RefineType": 1
+			},
+			{
+				"PoolID": 2,
+				"RefineType": 2
+			}
+		],
+		"DataImpl": {},
+		"WeaponId": 103,
+		"Level": 3
+	},
+	{
+		"WeaponTitle": {
+			"hash": 1020607952
+		},
+		"WeaponDesc": {
+			"hash": 0
+		},
+		"icon": "SpriteOutput/PlatformShooter/Weapon/Weapon_Q_PlantformShoot_Laser",
+		"WeaponAtk": 40,
+		"AffixNum": 4,
+		"AffixPoolMap": [
+			{
+				"PoolID": 1,
+				"RefineType": 1
+			},
+			{
+				"PoolID": 2,
+				"RefineType": 2
+			},
+			{
+				"PoolID": 13,
+				"RefineType": 3
+			}
+		],
+		"DataImpl": {},
+		"WeaponId": 103,
+		"Level": 4
+	},
+	{
+		"WeaponTitle": {
+			"hash": 1020607953
+		},
+		"WeaponDesc": {
+			"hash": 0
+		},
+		"icon": "SpriteOutput/PlatformShooter/Weapon/Weapon_Q_PlantformShoot_Shotgun",
+		"WeaponAtk": 10,
+		"AffixNum": 1,
+		"AffixPoolMap": [
+			{
+				"PoolID": 1,
+				"RefineType": 1
+			}
+		],
+		"DataImpl": {},
+		"WeaponId": 104,
+		"Level": 1
+	},
+	{
+		"WeaponTitle": {
+			"hash": 1020607953
+		},
+		"WeaponDesc": {
+			"hash": 0
+		},
+		"icon": "SpriteOutput/PlatformShooter/Weapon/Weapon_Q_PlantformShoot_Shotgun",
+		"WeaponAtk": 20,
+		"AffixNum": 2,
+		"AffixPoolMap": [
+			{
+				"PoolID": 1,
+				"RefineType": 1
+			}
+		],
+		"DataImpl": {},
+		"WeaponId": 104,
+		"Level": 2
+	},
+	{
+		"WeaponTitle": {
+			"hash": 1020607953
+		},
+		"WeaponDesc": {
+			"hash": 0
+		},
+		"icon": "SpriteOutput/PlatformShooter/Weapon/Weapon_Q_PlantformShoot_Shotgun",
+		"WeaponAtk": 30,
+		"AffixNum": 3,
+		"AffixPoolMap": [
+			{
+				"PoolID": 1,
+				"RefineType": 1
+			},
+			{
+				"PoolID": 2,
+				"RefineType": 2
+			}
+		],
+		"DataImpl": {},
+		"WeaponId": 104,
+		"Level": 3
+	},
+	{
+		"WeaponTitle": {
+			"hash": 1020607953
+		},
+		"WeaponDesc": {
+			"hash": 0
+		},
+		"icon": "SpriteOutput/PlatformShooter/Weapon/Weapon_Q_PlantformShoot_Shotgun",
+		"WeaponAtk": 40,
+		"AffixNum": 4,
+		"AffixPoolMap": [
+			{
+				"PoolID": 1,
+				"RefineType": 1
+			},
+			{
+				"PoolID": 2,
+				"RefineType": 2
+			},
+			{
+				"PoolID": 14,
+				"RefineType": 3
+			}
+		],
+		"DataImpl": {},
+		"WeaponId": 104,
+		"Level": 4
+	},
+	{
+		"WeaponTitle": {
+			"hash": 1020607954
+		},
+		"WeaponDesc": {
+			"hash": 0
+		},
+		"icon": "SpriteOutput/PlatformShooter/Weapon/Weapon_Q_PlantformShoot_Knife",
+		"WeaponAtk": 10,
+		"AffixNum": 1,
+		"AffixPoolMap": [
+			{
+				"PoolID": 1,
+				"RefineType": 1
+			}
+		],
+		"DataImpl": {},
+		"WeaponId": 105,
+		"Level": 1
+	},
+	{
+		"WeaponTitle": {
+			"hash": 1020607954
+		},
+		"WeaponDesc": {
+			"hash": 0
+		},
+		"icon": "SpriteOutput/PlatformShooter/Weapon/Weapon_Q_PlantformShoot_Knife",
+		"WeaponAtk": 20,
+		"AffixNum": 2,
+		"AffixPoolMap": [
+			{
+				"PoolID": 1,
+				"RefineType": 1
+			}
+		],
+		"DataImpl": {},
+		"WeaponId": 105,
+		"Level": 2
+	},
+	{
+		"WeaponTitle": {
+			"hash": 1020607954
+		},
+		"WeaponDesc": {
+			"hash": 0
+		},
+		"icon": "SpriteOutput/PlatformShooter/Weapon/Weapon_Q_PlantformShoot_Knife",
+		"WeaponAtk": 30,
+		"AffixNum": 3,
+		"AffixPoolMap": [
+			{
+				"PoolID": 1,
+				"RefineType": 1
+			},
+			{
+				"PoolID": 2,
+				"RefineType": 2
+			}
+		],
+		"DataImpl": {},
+		"WeaponId": 105,
+		"Level": 3
+	},
+	{
+		"WeaponTitle": {
+			"hash": 1020607954
+		},
+		"WeaponDesc": {
+			"hash": 0
+		},
+		"icon": "SpriteOutput/PlatformShooter/Weapon/Weapon_Q_PlantformShoot_Knife",
+		"WeaponAtk": 40,
+		"AffixNum": 4,
+		"AffixPoolMap": [
+			{
+				"PoolID": 1,
+				"RefineType": 1
+			},
+			{
+				"PoolID": 2,
+				"RefineType": 2
+			},
+			{
+				"PoolID": 15,
+				"RefineType": 3
+			}
+		],
+		"DataImpl": {},
+		"WeaponId": 105,
+		"Level": 4
+	},
+	{
+		"WeaponTitle": {
+			"hash": 1020607955
+		},
+		"WeaponDesc": {
+			"hash": 0
+		},
+		"icon": "SpriteOutput/PlatformShooter/Weapon/Weapon_Q_PlantformShoot_Flamethrower",
+		"WeaponAtk": 10,
+		"AffixNum": 1,
+		"AffixPoolMap": [
+			{
+				"PoolID": 1,
+				"RefineType": 1
+			}
+		],
+		"DataImpl": {},
+		"WeaponId": 106,
+		"Level": 1
+	},
+	{
+		"WeaponTitle": {
+			"hash": 1020607955
+		},
+		"WeaponDesc": {
+			"hash": 0
+		},
+		"icon": "SpriteOutput/PlatformShooter/Weapon/Weapon_Q_PlantformShoot_Flamethrower",
+		"WeaponAtk": 20,
+		"AffixNum": 2,
+		"AffixPoolMap": [
+			{
+				"PoolID": 1,
+				"RefineType": 1
+			}
+		],
+		"DataImpl": {},
+		"WeaponId": 106,
+		"Level": 2
+	},
+	{
+		"WeaponTitle": {
+			"hash": 1020607955
+		},
+		"WeaponDesc": {
+			"hash": 0
+		},
+		"icon": "SpriteOutput/PlatformShooter/Weapon/Weapon_Q_PlantformShoot_Flamethrower",
+		"WeaponAtk": 30,
+		"AffixNum": 3,
+		"AffixPoolMap": [
+			{
+				"PoolID": 1,
+				"RefineType": 1
+			},
+			{
+				"PoolID": 2,
+				"RefineType": 2
+			}
+		],
+		"DataImpl": {},
+		"WeaponId": 106,
+		"Level": 3
+	},
+	{
+		"WeaponTitle": {
+			"hash": 1020607955
+		},
+		"WeaponDesc": {
+			"hash": 0
+		},
+		"icon": "SpriteOutput/PlatformShooter/Weapon/Weapon_Q_PlantformShoot_Flamethrower",
+		"WeaponAtk": 40,
+		"AffixNum": 4,
+		"AffixPoolMap": [
+			{
+				"PoolID": 1,
+				"RefineType": 1
+			},
+			{
+				"PoolID": 2,
+				"RefineType": 2
+			},
+			{
+				"PoolID": 16,
+				"RefineType": 3
+			}
+		],
+		"DataImpl": {},
+		"WeaponId": 106,
+		"Level": 4
+	},
+	{
+		"WeaponTitle": {
+			"hash": 1020607956
+		},
+		"WeaponDesc": {
+			"hash": 0
+		},
+		"icon": "SpriteOutput/PlatformShooter/Weapon/Weapon_Q_PlantformShoot_Firecracker",
+		"WeaponAtk": 10,
+		"AffixNum": 1,
+		"AffixPoolMap": [
+			{
+				"PoolID": 1,
+				"RefineType": 1
+			}
+		],
+		"DataImpl": {},
+		"WeaponId": 107,
+		"Level": 1
+	},
+	{
+		"WeaponTitle": {
+			"hash": 1020607956
+		},
+		"WeaponDesc": {
+			"hash": 0
+		},
+		"icon": "SpriteOutput/PlatformShooter/Weapon/Weapon_Q_PlantformShoot_Firecracker",
+		"WeaponAtk": 20,
+		"AffixNum": 2,
+		"AffixPoolMap": [
+			{
+				"PoolID": 1,
+				"RefineType": 1
+			}
+		],
+		"DataImpl": {},
+		"WeaponId": 107,
+		"Level": 2
+	},
+	{
+		"WeaponTitle": {
+			"hash": 1020607956
+		},
+		"WeaponDesc": {
+			"hash": 0
+		},
+		"icon": "SpriteOutput/PlatformShooter/Weapon/Weapon_Q_PlantformShoot_Firecracker",
+		"WeaponAtk": 30,
+		"AffixNum": 3,
+		"AffixPoolMap": [
+			{
+				"PoolID": 1,
+				"RefineType": 1
+			},
+			{
+				"PoolID": 2,
+				"RefineType": 2
+			}
+		],
+		"DataImpl": {},
+		"WeaponId": 107,
+		"Level": 3
+	},
+	{
+		"WeaponTitle": {
+			"hash": 1020607956
+		},
+		"WeaponDesc": {
+			"hash": 0
+		},
+		"icon": "SpriteOutput/PlatformShooter/Weapon/Weapon_Q_PlantformShoot_Firecracker",
+		"WeaponAtk": 40,
+		"AffixNum": 4,
+		"AffixPoolMap": [
+			{
+				"PoolID": 1,
+				"RefineType": 1
+			},
+			{
+				"PoolID": 2,
+				"RefineType": 2
+			},
+			{
+				"PoolID": 17,
+				"RefineType": 3
+			}
+		],
+		"DataImpl": {},
+		"WeaponId": 107,
+		"Level": 4
+	},
+	{
+		"WeaponTitle": {
+			"hash": 1020607957
+		},
+		"WeaponDesc": {
+			"hash": 0
+		},
+		"icon": "SpriteOutput/PlatformShooter/Weapon/Weapon_Q_PlantformShoot_Bow",
+		"WeaponAtk": 10,
+		"AffixNum": 1,
+		"AffixPoolMap": [
+			{
+				"PoolID": 1,
+				"RefineType": 1
+			}
+		],
+		"DataImpl": {},
+		"WeaponId": 108,
+		"Level": 1
+	},
+	{
+		"WeaponTitle": {
+			"hash": 1020607957
+		},
+		"WeaponDesc": {
+			"hash": 0
+		},
+		"icon": "SpriteOutput/PlatformShooter/Weapon/Weapon_Q_PlantformShoot_Bow",
+		"WeaponAtk": 20,
+		"AffixNum": 2,
+		"AffixPoolMap": [
+			{
+				"PoolID": 1,
+				"RefineType": 1
+			}
+		],
+		"DataImpl": {},
+		"WeaponId": 108,
+		"Level": 2
+	},
+	{
+		"WeaponTitle": {
+			"hash": 1020607957
+		},
+		"WeaponDesc": {
+			"hash": 0
+		},
+		"icon": "SpriteOutput/PlatformShooter/Weapon/Weapon_Q_PlantformShoot_Bow",
+		"WeaponAtk": 30,
+		"AffixNum": 3,
+		"AffixPoolMap": [
+			{
+				"PoolID": 1,
+				"RefineType": 1
+			},
+			{
+				"PoolID": 2,
+				"RefineType": 2
+			}
+		],
+		"DataImpl": {},
+		"WeaponId": 108,
+		"Level": 3
+	},
+	{
+		"WeaponTitle": {
+			"hash": 1020607957
+		},
+		"WeaponDesc": {
+			"hash": 0
+		},
+		"icon": "SpriteOutput/PlatformShooter/Weapon/Weapon_Q_PlantformShoot_Bow",
+		"WeaponAtk": 40,
+		"AffixNum": 4,
+		"AffixPoolMap": [
+			{
+				"PoolID": 1,
+				"RefineType": 1
+			},
+			{
+				"PoolID": 2,
+				"RefineType": 2
+			},
+			{
+				"PoolID": 18,
+				"RefineType": 3
+			}
+		],
+		"DataImpl": {},
+		"WeaponId": 108,
+		"Level": 4
+	},
+	{
+		"WeaponTitle": {
+			"hash": 1020607958
+		},
+		"WeaponDesc": {
+			"hash": 0
+		},
+		"icon": "SpriteOutput/PlatformShooter/Weapon/Weapon_Q_PlantformShoot_Brush",
+		"WeaponAtk": 10,
+		"AffixNum": 1,
+		"AffixPoolMap": [
+			{
+				"PoolID": 1,
+				"RefineType": 1
+			}
+		],
+		"DataImpl": {},
+		"WeaponId": 109,
+		"Level": 1
+	},
+	{
+		"WeaponTitle": {
+			"hash": 1020607958
+		},
+		"WeaponDesc": {
+			"hash": 0
+		},
+		"icon": "SpriteOutput/PlatformShooter/Weapon/Weapon_Q_PlantformShoot_Brush",
+		"WeaponAtk": 20,
+		"AffixNum": 2,
+		"AffixPoolMap": [
+			{
+				"PoolID": 1,
+				"RefineType": 1
+			}
+		],
+		"DataImpl": {},
+		"WeaponId": 109,
+		"Level": 2
+	},
+	{
+		"WeaponTitle": {
+			"hash": 1020607958
+		},
+		"WeaponDesc": {
+			"hash": 0
+		},
+		"icon": "SpriteOutput/PlatformShooter/Weapon/Weapon_Q_PlantformShoot_Brush",
+		"WeaponAtk": 30,
+		"AffixNum": 3,
+		"AffixPoolMap": [
+			{
+				"PoolID": 1,
+				"RefineType": 1
+			},
+			{
+				"PoolID": 2,
+				"RefineType": 2
+			}
+		],
+		"DataImpl": {},
+		"WeaponId": 109,
+		"Level": 3
+	},
+	{
+		"WeaponTitle": {
+			"hash": 1020607958
+		},
+		"WeaponDesc": {
+			"hash": 0
+		},
+		"icon": "SpriteOutput/PlatformShooter/Weapon/Weapon_Q_PlantformShoot_Brush",
+		"WeaponAtk": 40,
+		"AffixNum": 4,
+		"AffixPoolMap": [
+			{
+				"PoolID": 1,
+				"RefineType": 1
+			},
+			{
+				"PoolID": 2,
+				"RefineType": 2
+			},
+			{
+				"PoolID": 19,
+				"RefineType": 3
+			}
+		],
+		"DataImpl": {},
+		"WeaponId": 109,
+		"Level": 4
+	},
+	{
+		"WeaponTitle": {
+			"hash": 1020607980
+		},
+		"WeaponDesc": {
+			"hash": 0
+		},
+		"icon": "SpriteOutput/PlatformShooter/Weapon/Weapon_Q_PlantformShoot_Bazooka",
+		"WeaponAtk": 10,
+		"AffixNum": 1,
+		"AffixPoolMap": [
+			{
+				"PoolID": 1,
+				"RefineType": 1
+			}
+		],
+		"DataImpl": {},
+		"WeaponId": 110,
+		"Level": 1
+	},
+	{
+		"WeaponTitle": {
+			"hash": 1020607980
+		},
+		"WeaponDesc": {
+			"hash": 0
+		},
+		"icon": "SpriteOutput/PlatformShooter/Weapon/Weapon_Q_PlantformShoot_Bazooka",
+		"WeaponAtk": 20,
+		"AffixNum": 2,
+		"AffixPoolMap": [
+			{
+				"PoolID": 1,
+				"RefineType": 1
+			}
+		],
+		"DataImpl": {},
+		"WeaponId": 110,
+		"Level": 2
+	},
+	{
+		"WeaponTitle": {
+			"hash": 1020607980
+		},
+		"WeaponDesc": {
+			"hash": 0
+		},
+		"icon": "SpriteOutput/PlatformShooter/Weapon/Weapon_Q_PlantformShoot_Bazooka",
+		"WeaponAtk": 30,
+		"AffixNum": 3,
+		"AffixPoolMap": [
+			{
+				"PoolID": 1,
+				"RefineType": 1
+			},
+			{
+				"PoolID": 2,
+				"RefineType": 2
+			}
+		],
+		"DataImpl": {},
+		"WeaponId": 110,
+		"Level": 3
+	},
+	{
+		"WeaponTitle": {
+			"hash": 1020607980
+		},
+		"WeaponDesc": {
+			"hash": 0
+		},
+		"icon": "SpriteOutput/PlatformShooter/Weapon/Weapon_Q_PlantformShoot_Bazooka",
+		"WeaponAtk": 40,
+		"AffixNum": 4,
+		"AffixPoolMap": [
+			{
+				"PoolID": 1,
+				"RefineType": 1
+			},
+			{
+				"PoolID": 2,
+				"RefineType": 2
+			},
+			{
+				"PoolID": 20,
+				"RefineType": 3
+			}
+		],
+		"DataImpl": {},
+		"WeaponId": 110,
+		"Level": 4
+	}
+]

@@ -1,0 +1,274 @@
+[
+	{
+		"AreaID": 1,
+		"UnlockFloorID": 2,
+		"StageID": 145770,
+		"BossImg": "SpriteOutput/SummerTreasureHunt/PicArea/UL_062_063",
+		"BossExploreUnlockIcon": "SpriteOutput/SummerTreasureHunt/QBossicon/UL_062_063",
+		"BossExploreLockedIcon": "SpriteOutput/SummerTreasureHunt/QBossicon/UL_062_063",
+		"BossExplorePassedIcon": "SpriteOutput/SummerTreasureHunt/Icon_Clear01",
+		"BossName": "Monopoly_boss1_name",
+		"RecommendBuff": [
+			{
+				"BuffID": 10,
+				"BuffLV": 5
+			}
+		],
+		"BossDesc": "Monopoly_boss1_name",
+		"BossUnlockText": "Boss_Unlock_Text_1",
+		"DataImpl": {},
+		"BossID": 1
+	},
+	{
+		"AreaID": 1,
+		"UnlockFloorID": 2,
+		"StageID": 145771,
+		"BossImg": "SpriteOutput/SummerTreasureHunt/PicArea/RO_012",
+		"BossExploreUnlockIcon": "SpriteOutput/SummerTreasureHunt/QBossicon/RO_012",
+		"BossExploreLockedIcon": "SpriteOutput/SummerTreasureHunt/QBossicon/RO_012",
+		"BossExplorePassedIcon": "SpriteOutput/SummerTreasureHunt/Icon_Clear01",
+		"BossName": "Monopoly_boss2_name",
+		"RecommendBuff": [
+			{
+				"BuffID": 10,
+				"BuffLV": 24
+			},
+			{
+				"BuffID": 11,
+				"BuffLV": 9
+			}
+		],
+		"BossDesc": "Monopoly_boss2_name",
+		"BossUnlockText": "Boss_Unlock_Text_2",
+		"DataImpl": {},
+		"BossID": 2
+	},
+	{
+		"AreaID": 1,
+		"UnlockFloorID": 3,
+		"StageID": 145772,
+		"BossImg": "SpriteOutput/SummerTreasureHunt/PicArea/BOSS_160",
+		"BossExploreUnlockIcon": "SpriteOutput/SummerTreasureHunt/QBossicon/BOSS_160",
+		"BossExploreLockedIcon": "SpriteOutput/SummerTreasureHunt/QBossicon/BOSS_160",
+		"BossExplorePassedIcon": "SpriteOutput/SummerTreasureHunt/Icon_Clear01",
+		"BossName": "Monopoly_boss3_name",
+		"RecommendBuff": [
+			{
+				"BuffID": 10,
+				"BuffLV": 70
+			},
+			{
+				"BuffID": 11,
+				"BuffLV": 30
+			}
+		],
+		"BossDesc": "Monopoly_boss3_name",
+		"BossUnlockText": "Boss_Unlock_Text_3",
+		"DataImpl": {},
+		"BossID": 3
+	},
+	{
+		"AreaID": 2,
+		"UnlockFloorID": 1,
+		"StageID": 145773,
+		"BossImg": "SpriteOutput/SummerTreasureHunt/PicArea/RO_010",
+		"BossExploreUnlockIcon": "SpriteOutput/SummerTreasureHunt/QBossicon/RO_010",
+		"BossExploreLockedIcon": "SpriteOutput/SummerTreasureHunt/QBossicon/RO_010",
+		"BossExplorePassedIcon": "SpriteOutput/SummerTreasureHunt/Icon_Clear01",
+		"BossName": "Monopoly_boss4_name",
+		"RecommendBuff": [
+			{
+				"BuffID": 110,
+				"BuffLV": 5
+			}
+		],
+		"BossDesc": "Monopoly_boss4_name",
+		"BossUnlockText": "Boss_Unlock_Text_4",
+		"DataImpl": {},
+		"BossID": 4
+	},
+	{
+		"AreaID": 2,
+		"UnlockFloorID": 2,
+		"StageID": 145774,
+		"BossImg": "SpriteOutput/SummerTreasureHunt/PicArea/RO_030",
+		"BossExploreUnlockIcon": "SpriteOutput/SummerTreasureHunt/QBossicon/RO_030",
+		"BossExploreLockedIcon": "SpriteOutput/SummerTreasureHunt/QBossicon/RO_030",
+		"BossExplorePassedIcon": "SpriteOutput/SummerTreasureHunt/Icon_Clear01",
+		"BossName": "Monopoly_boss5_name",
+		"RecommendBuff": [
+			{
+				"BuffID": 110,
+				"BuffLV": 24
+			},
+			{
+				"BuffID": 111,
+				"BuffLV": 9
+			}
+		],
+		"BossDesc": "Monopoly_boss5_name",
+		"BossUnlockText": "Boss_Unlock_Text_5",
+		"DataImpl": {},
+		"BossID": 5
+	},
+	{
+		"AreaID": 2,
+		"UnlockFloorID": 3,
+		"StageID": 145775,
+		"BossImg": "SpriteOutput/SummerTreasureHunt/PicArea/UL_072",
+		"BossExploreUnlockIcon": "SpriteOutput/SummerTreasureHunt/QBossicon/UL_072",
+		"BossExploreLockedIcon": "SpriteOutput/SummerTreasureHunt/QBossicon/UL_072",
+		"BossExplorePassedIcon": "SpriteOutput/SummerTreasureHunt/Icon_Clear01",
+		"BossName": "Monopoly_boss6_name",
+		"RecommendBuff": [
+			{
+				"BuffID": 110,
+				"BuffLV": 70
+			},
+			{
+				"BuffID": 111,
+				"BuffLV": 30
+			}
+		],
+		"BossDesc": "Monopoly_boss6_name",
+		"BossUnlockText": "Boss_Unlock_Text_6",
+		"DataImpl": {},
+		"BossID": 6
+	},
+	{
+		"AreaID": 3,
+		"UnlockFloorID": 1,
+		"StageID": 145776,
+		"BossImg": "SpriteOutput/SummerTreasureHunt/PicArea/DG_042",
+		"BossExploreUnlockIcon": "SpriteOutput/SummerTreasureHunt/QBossicon/DG_042",
+		"BossExploreLockedIcon": "SpriteOutput/SummerTreasureHunt/QBossicon/DG_042",
+		"BossExplorePassedIcon": "SpriteOutput/SummerTreasureHunt/Icon_Clear01",
+		"BossName": "Monopoly_boss7_name",
+		"RecommendBuff": [
+			{
+				"BuffID": 210,
+				"BuffLV": 5
+			}
+		],
+		"BossDesc": "Monopoly_boss7_name",
+		"BossUnlockText": "Boss_Unlock_Text_7",
+		"DataImpl": {},
+		"BossID": 7
+	},
+	{
+		"AreaID": 3,
+		"UnlockFloorID": 2,
+		"StageID": 145777,
+		"BossImg": "SpriteOutput/SummerTreasureHunt/PicArea/BOSS_070",
+		"BossExploreUnlockIcon": "SpriteOutput/SummerTreasureHunt/QBossicon/BOSS_070",
+		"BossExploreLockedIcon": "SpriteOutput/SummerTreasureHunt/QBossicon/BOSS_070",
+		"BossExplorePassedIcon": "SpriteOutput/SummerTreasureHunt/Icon_Clear01",
+		"BossName": "Monopoly_boss8_name",
+		"RecommendBuff": [
+			{
+				"BuffID": 210,
+				"BuffLV": 24
+			},
+			{
+				"BuffID": 211,
+				"BuffLV": 9
+			}
+		],
+		"BossDesc": "Monopoly_boss8_name",
+		"BossUnlockText": "Boss_Unlock_Text_8",
+		"DataImpl": {},
+		"BossID": 8
+	},
+	{
+		"AreaID": 3,
+		"UnlockFloorID": 3,
+		"StageID": 145778,
+		"BossImg": "SpriteOutput/SummerTreasureHunt/PicArea/BOSS_230",
+		"BossExploreUnlockIcon": "SpriteOutput/SummerTreasureHunt/QBossicon/BOSS_230",
+		"BossExploreLockedIcon": "SpriteOutput/SummerTreasureHunt/QBossicon/BOSS_230",
+		"BossExplorePassedIcon": "SpriteOutput/SummerTreasureHunt/Icon_Clear01",
+		"BossName": "Monopoly_boss9_name",
+		"RecommendBuff": [
+			{
+				"BuffID": 210,
+				"BuffLV": 70
+			},
+			{
+				"BuffID": 211,
+				"BuffLV": 30
+			}
+		],
+		"BossDesc": "Monopoly_boss9_name",
+		"BossUnlockText": "Boss_Unlock_Text_9",
+		"DataImpl": {},
+		"BossID": 9
+	},
+	{
+		"AreaID": 4,
+		"UnlockFloorID": 1,
+		"StageID": 145779,
+		"BossImg": "SpriteOutput/SummerTreasureHunt/PicArea/RO_080",
+		"BossExploreUnlockIcon": "SpriteOutput/SummerTreasureHunt/QBossicon/RO_080",
+		"BossExploreLockedIcon": "SpriteOutput/SummerTreasureHunt/QBossicon/RO_080",
+		"BossExplorePassedIcon": "SpriteOutput/SummerTreasureHunt/Icon_Clear01",
+		"BossName": "Monopoly_boss10_name",
+		"RecommendBuff": [
+			{
+				"BuffID": 310,
+				"BuffLV": 8
+			}
+		],
+		"BossDesc": "Monopoly_boss10_name",
+		"BossUnlockText": "Boss_Unlock_Text_10",
+		"DataImpl": {},
+		"BossID": 10
+	},
+	{
+		"AreaID": 4,
+		"UnlockFloorID": 2,
+		"StageID": 145780,
+		"BossImg": "SpriteOutput/SummerTreasureHunt/PicArea/BOSS_220",
+		"BossExploreUnlockIcon": "SpriteOutput/SummerTreasureHunt/QBossicon/BOSS_220",
+		"BossExploreLockedIcon": "SpriteOutput/SummerTreasureHunt/QBossicon/BOSS_220",
+		"BossExplorePassedIcon": "SpriteOutput/SummerTreasureHunt/Icon_Clear01",
+		"BossName": "Monopoly_boss11_name",
+		"RecommendBuff": [
+			{
+				"BuffID": 310,
+				"BuffLV": 25
+			},
+			{
+				"BuffID": 311,
+				"BuffLV": 10
+			}
+		],
+		"BossDesc": "Monopoly_boss11_name",
+		"BossUnlockText": "Boss_Unlock_Text_11",
+		"DataImpl": {},
+		"BossID": 11
+	},
+	{
+		"AreaID": 4,
+		"UnlockFloorID": 3,
+		"StageID": 145781,
+		"BossImg": "SpriteOutput/SummerTreasureHunt/PicArea/BOSS_200",
+		"BossExploreUnlockIcon": "SpriteOutput/SummerTreasureHunt/QBossicon/BOSS_200",
+		"BossExploreLockedIcon": "SpriteOutput/SummerTreasureHunt/QBossicon/BOSS_200",
+		"BossExplorePassedIcon": "SpriteOutput/SummerTreasureHunt/Icon_Clear01",
+		"BossName": "Monopoly_boss12_name",
+		"RecommendBuff": [
+			{
+				"BuffID": 310,
+				"BuffLV": 50
+			},
+			{
+				"BuffID": 311,
+				"BuffLV": 20
+			}
+		],
+		"BossDesc": "Monopoly_boss12_name",
+		"BossUnlockText": "Boss_Unlock_Text_12",
+		"DataImpl": {},
+		"BossID": 12
+	}
+]

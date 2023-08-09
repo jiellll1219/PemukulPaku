@@ -1,0 +1,376 @@
+[
+	{
+		"Prefabpath": "UI/Menus/Widget/Chapter30OW/Condition/Chapter30OWAwaitRepair",
+		"PopType": 0,
+		"TerminalTextmap": {
+			"hash": 830274323
+		},
+		"ShowType": 1,
+		"DataImpl": {},
+		"MainID": 10,
+		"StateType": 1
+	},
+	{
+		"Prefabpath": "UI/Menus/Widget/Chapter30OW/Condition/Chapter30OWInRepair",
+		"PopType": 0,
+		"TerminalTextmap": {
+			"hash": 830274324
+		},
+		"ShowType": 1,
+		"DataImpl": {},
+		"MainID": 10,
+		"StateType": 2
+	},
+	{
+		"Prefabpath": "UI/Menus/Widget/Chapter30OW/Condition/Chapter30OWScalable",
+		"PopType": 0,
+		"TerminalTextmap": {
+			"hash": 830274325
+		},
+		"ShowType": 1,
+		"DataImpl": {},
+		"MainID": 10,
+		"StateType": 3
+	},
+	{
+		"Prefabpath": "UI/Menus/Widget/Chapter30OW/Condition/Chapter30OWUpgradable",
+		"PopType": 0,
+		"TerminalTextmap": {
+			"hash": 830274326
+		},
+		"ShowType": 1,
+		"DataImpl": {},
+		"MainID": 10,
+		"StateType": 4
+	},
+	{
+		"Prefabpath": "UI/Menus/Widget/Chapter30OW/Condition/Chapter30OWSubMission",
+		"PopType": 0,
+		"TerminalTextmap": {
+			"hash": 830274328
+		},
+		"ShowType": 1,
+		"DataImpl": {},
+		"MainID": 10,
+		"StateType": 6
+	},
+	{
+		"Prefabpath": "UI/Menus/Widget/Chapter30OW/Condition/Chapter30OWAwaitProduction",
+		"PopType": 0,
+		"TerminalTextmap": {
+			"hash": -970291117
+		},
+		"ShowType": 1,
+		"DataImpl": {},
+		"MainID": 10,
+		"StateType": 100
+	},
+	{
+		"Prefabpath": "",
+		"PopType": 0,
+		"TerminalTextmap": {
+			"hash": -970291116
+		},
+		"ShowType": 1,
+		"DataImpl": {},
+		"MainID": 10,
+		"StateType": 101
+	},
+	{
+		"Prefabpath": "UI/Menus/Widget/Chapter30OW/Condition/Chapter30OWReceive",
+		"PopType": 1,
+		"TerminalTextmap": {
+			"hash": -970291115
+		},
+		"ShowType": 1,
+		"DataImpl": {},
+		"MainID": 10,
+		"StateType": 102
+	},
+	{
+		"Prefabpath": "UI/Menus/Widget/Chapter30OW/Condition/Chapter30OWScalable",
+		"PopType": 0,
+		"TerminalTextmap": {
+			"hash": 830304116
+		},
+		"ShowType": 1,
+		"DataImpl": {},
+		"MainID": 20,
+		"StateType": 3
+	},
+	{
+		"Prefabpath": "UI/Menus/Widget/Chapter30OW/Condition/Chapter30OWUpgradable",
+		"PopType": 0,
+		"TerminalTextmap": {
+			"hash": 830304117
+		},
+		"ShowType": 1,
+		"DataImpl": {},
+		"MainID": 20,
+		"StateType": 4
+	},
+	{
+		"Prefabpath": "UI/Menus/Widget/Chapter30OW/Condition/Chapter30OWMission",
+		"PopType": 0,
+		"TerminalTextmap": {
+			"hash": 830304118
+		},
+		"ShowType": 1,
+		"DataImpl": {},
+		"MainID": 20,
+		"StateType": 5
+	},
+	{
+		"Prefabpath": "UI/Menus/Widget/Chapter30OW/Condition/Chapter30OWTakeEntrust",
+		"PopType": 2,
+		"TerminalTextmap": {
+			"hash": -941661966
+		},
+		"ShowType": 1,
+		"DataImpl": {},
+		"MainID": 20,
+		"StateType": 100
+	},
+	{
+		"Prefabpath": "UI/Menus/Widget/Chapter30OW/Condition/Chapter30OWEntrustMax",
+		"PopType": 0,
+		"TerminalTextmap": {
+			"hash": -941661965
+		},
+		"ShowType": 1,
+		"DataImpl": {},
+		"MainID": 20,
+		"StateType": 101
+	},
+	{
+		"Prefabpath": "UI/Menus/Widget/Chapter30OW/Condition/Chapter30OWEntrustReceive",
+		"PopType": 0,
+		"TerminalTextmap": {
+			"hash": -941661964
+		},
+		"ShowType": 1,
+		"DataImpl": {},
+		"MainID": 20,
+		"StateType": 102
+	},
+	{
+		"Prefabpath": "UI/Menus/Widget/Chapter30OW/Condition/Chapter30OWAwaitRepair",
+		"PopType": 0,
+		"TerminalTextmap": {
+			"hash": 830333905
+		},
+		"ShowType": 1,
+		"DataImpl": {},
+		"MainID": 30,
+		"StateType": 1
+	},
+	{
+		"Prefabpath": "UI/Menus/Widget/Chapter30OW/Condition/Chapter30OWInRepair",
+		"PopType": 0,
+		"TerminalTextmap": {
+			"hash": 830333906
+		},
+		"ShowType": 1,
+		"DataImpl": {},
+		"MainID": 30,
+		"StateType": 2
+	},
+	{
+		"Prefabpath": "UI/Menus/Widget/Chapter30OW/Condition/Chapter30OWScalable",
+		"PopType": 0,
+		"TerminalTextmap": {
+			"hash": 830333907
+		},
+		"ShowType": 1,
+		"DataImpl": {},
+		"MainID": 30,
+		"StateType": 3
+	},
+	{
+		"Prefabpath": "UI/Menus/Widget/Chapter30OW/Condition/Chapter30OWUpgradable",
+		"PopType": 0,
+		"TerminalTextmap": {
+			"hash": 830333908
+		},
+		"ShowType": 1,
+		"DataImpl": {},
+		"MainID": 30,
+		"StateType": 4
+	},
+	{
+		"Prefabpath": "UI/Menus/Widget/Chapter30OW/Condition/Chapter30OWSubMission",
+		"PopType": 0,
+		"TerminalTextmap": {
+			"hash": 830333910
+		},
+		"ShowType": 1,
+		"DataImpl": {},
+		"MainID": 30,
+		"StateType": 6
+	},
+	{
+		"Prefabpath": "UI/Menus/Widget/Chapter30OW/Condition/Chapter30OWRobotUpgradable",
+		"PopType": 0,
+		"TerminalTextmap": {
+			"hash": -913032815
+		},
+		"ShowType": 1,
+		"DataImpl": {},
+		"MainID": 30,
+		"StateType": 100
+	},
+	{
+		"Prefabpath": "UI/Menus/Widget/Chapter30OW/Condition/Chapter30OWSubMission",
+		"PopType": 0,
+		"TerminalTextmap": {
+			"hash": 830363701
+		},
+		"ShowType": 1,
+		"DataImpl": {},
+		"MainID": 40,
+		"StateType": 6
+	},
+	{
+		"Prefabpath": "UI/Menus/Widget/Chapter30OW/Condition/Chapter30OWReceive",
+		"PopType": 1,
+		"TerminalTextmap": {
+			"hash": -884403664
+		},
+		"ShowType": 1,
+		"DataImpl": {},
+		"MainID": 40,
+		"StateType": 100
+	},
+	{
+		"Prefabpath": "UI/Menus/Widget/Chapter30OW/Condition/Chapter30OWAwaitProduction",
+		"PopType": 0,
+		"TerminalTextmap": {
+			"hash": 0
+		},
+		"ShowType": 0,
+		"DataImpl": {},
+		"MainID": 50,
+		"StateType": 1
+	},
+	{
+		"Prefabpath": "UI/Menus/Widget/Chapter30OW/Condition/Chapter30OWAwaitProduction",
+		"PopType": 0,
+		"TerminalTextmap": {
+			"hash": 0
+		},
+		"ShowType": 0,
+		"DataImpl": {},
+		"MainID": 50,
+		"StateType": 100
+	},
+	{
+		"Prefabpath": "",
+		"PopType": 0,
+		"TerminalTextmap": {
+			"hash": 0
+		},
+		"ShowType": 0,
+		"DataImpl": {},
+		"MainID": 50,
+		"StateType": 101
+	},
+	{
+		"Prefabpath": "UI/Menus/Widget/Chapter30OW/Condition/Chapter30OWReceive",
+		"PopType": 1,
+		"TerminalTextmap": {
+			"hash": 0
+		},
+		"ShowType": 0,
+		"DataImpl": {},
+		"MainID": 50,
+		"StateType": 102
+	},
+	{
+		"Prefabpath": "UI/Menus/Widget/Chapter30OW/Condition/Chapter30OWAwaitRepair",
+		"PopType": 0,
+		"TerminalTextmap": {
+			"hash": 0
+		},
+		"ShowType": 0,
+		"DataImpl": {},
+		"MainID": 51,
+		"StateType": 1
+	},
+	{
+		"Prefabpath": "UI/Menus/Widget/Chapter30OW/Condition/Chapter30OWInRepair",
+		"PopType": 0,
+		"TerminalTextmap": {
+			"hash": 0
+		},
+		"ShowType": 0,
+		"DataImpl": {},
+		"MainID": 51,
+		"StateType": 2
+	},
+	{
+		"Prefabpath": "UI/Menus/Widget/Chapter30OW/Condition/Chapter30OWAwaitProduction",
+		"PopType": 0,
+		"TerminalTextmap": {
+			"hash": 0
+		},
+		"ShowType": 0,
+		"DataImpl": {},
+		"MainID": 51,
+		"StateType": 100
+	},
+	{
+		"Prefabpath": "",
+		"PopType": 0,
+		"TerminalTextmap": {
+			"hash": 0
+		},
+		"ShowType": 0,
+		"DataImpl": {},
+		"MainID": 51,
+		"StateType": 101
+	},
+	{
+		"Prefabpath": "UI/Menus/Widget/Chapter30OW/Condition/Chapter30OWReceive",
+		"PopType": 1,
+		"TerminalTextmap": {
+			"hash": 0
+		},
+		"ShowType": 0,
+		"DataImpl": {},
+		"MainID": 51,
+		"StateType": 102
+	},
+	{
+		"Prefabpath": "UI/Menus/Widget/Chapter30OW/Condition/Chapter30OWInRepair",
+		"PopType": 0,
+		"TerminalTextmap": {
+			"hash": 0
+		},
+		"ShowType": 0,
+		"DataImpl": {},
+		"MainID": 71,
+		"StateType": 2
+	},
+	{
+		"Prefabpath": "UI/Menus/Widget/Chapter30OW/Condition/Chapter30OWInRepair",
+		"PopType": 0,
+		"TerminalTextmap": {
+			"hash": 0
+		},
+		"ShowType": 0,
+		"DataImpl": {},
+		"MainID": 72,
+		"StateType": 2
+	},
+	{
+		"Prefabpath": "UI/Menus/Widget/Chapter30OW/Condition/Chapter30OWInRepair",
+		"PopType": 0,
+		"TerminalTextmap": {
+			"hash": 0
+		},
+		"ShowType": 0,
+		"DataImpl": {},
+		"MainID": 73,
+		"StateType": 2
+	}
+]

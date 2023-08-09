@@ -1,0 +1,6827 @@
+[
+	{
+		"NextID": 2,
+		"StartTime": "2019-06-24 04:00:00",
+		"EndTime": "2019-07-01 02:00:00",
+		"SettleTime": "2019-07-01 02:30:00",
+		"ConfigType": 1,
+		"LevelID": 143404,
+		"MaxFloor": 15,
+		"Weather": 1005,
+		"Bonus": [
+			1001,
+			1002
+		],
+		"DataImpl": {},
+		"ID": 1
+	},
+	{
+		"NextID": 3,
+		"StartTime": "2019-07-01 04:00:00",
+		"EndTime": "2019-07-08 02:00:00",
+		"SettleTime": "2019-07-08 02:30:00",
+		"ConfigType": 1,
+		"LevelID": 143404,
+		"MaxFloor": 20,
+		"Weather": 1001,
+		"Bonus": [
+			1002,
+			1003
+		],
+		"DataImpl": {},
+		"ID": 2
+	},
+	{
+		"NextID": 4,
+		"StartTime": "2019-07-08 04:00:00",
+		"EndTime": "2019-07-15 02:00:00",
+		"SettleTime": "2019-07-15 02:30:00",
+		"ConfigType": 1,
+		"LevelID": 143404,
+		"MaxFloor": 25,
+		"Weather": 1002,
+		"Bonus": [
+			1005
+		],
+		"DataImpl": {},
+		"ID": 3
+	},
+	{
+		"NextID": 5,
+		"StartTime": "2019-07-15 04:00:00",
+		"EndTime": "2019-07-22 02:00:00",
+		"SettleTime": "2019-07-22 02:30:00",
+		"ConfigType": 1,
+		"LevelID": 143404,
+		"MaxFloor": 30,
+		"Weather": 1005,
+		"Bonus": [
+			1001,
+			1003
+		],
+		"DataImpl": {},
+		"ID": 4
+	},
+	{
+		"NextID": 6,
+		"StartTime": "2019-07-22 04:00:00",
+		"EndTime": "2019-07-29 02:00:00",
+		"SettleTime": "2019-07-29 02:30:00",
+		"ConfigType": 1,
+		"LevelID": 143404,
+		"MaxFloor": 15,
+		"Weather": 1005,
+		"Bonus": [
+			1005
+		],
+		"DataImpl": {},
+		"ID": 5
+	},
+	{
+		"NextID": 7,
+		"StartTime": "2019-07-29 04:00:00",
+		"EndTime": "2019-08-05 02:00:00",
+		"SettleTime": "2019-08-05 02:30:00",
+		"ConfigType": 1,
+		"LevelID": 143404,
+		"MaxFloor": 20,
+		"Weather": 1005,
+		"Bonus": [
+			1003,
+			1005
+		],
+		"DataImpl": {},
+		"ID": 6
+	},
+	{
+		"NextID": 8,
+		"StartTime": "2019-08-05 04:00:00",
+		"EndTime": "2019-08-12 02:00:00",
+		"SettleTime": "2019-08-12 02:30:00",
+		"ConfigType": 1,
+		"LevelID": 143404,
+		"MaxFloor": 25,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 7
+	},
+	{
+		"NextID": 9,
+		"StartTime": "2019-08-12 04:00:00",
+		"EndTime": "2019-08-19 02:00:00",
+		"SettleTime": "2019-08-19 02:30:00",
+		"ConfigType": 1,
+		"LevelID": 143404,
+		"MaxFloor": 30,
+		"Weather": 1002,
+		"Bonus": [
+			1001,
+			1004
+		],
+		"DataImpl": {},
+		"ID": 8
+	},
+	{
+		"NextID": 10,
+		"StartTime": "2019-08-19 04:00:00",
+		"EndTime": "2019-08-26 02:00:00",
+		"SettleTime": "2019-08-26 02:30:00",
+		"ConfigType": 1,
+		"LevelID": 143404,
+		"MaxFloor": 15,
+		"Weather": 1002,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 9
+	},
+	{
+		"NextID": 11,
+		"StartTime": "2019-08-26 04:00:00",
+		"EndTime": "2019-09-02 02:00:00",
+		"SettleTime": "2019-09-02 02:30:00",
+		"ConfigType": 1,
+		"LevelID": 143404,
+		"MaxFloor": 20,
+		"Weather": 1003,
+		"Bonus": [
+			1005
+		],
+		"DataImpl": {},
+		"ID": 10
+	},
+	{
+		"NextID": 12,
+		"StartTime": "2019-09-02 04:00:00",
+		"EndTime": "2019-09-09 02:00:00",
+		"SettleTime": "2019-09-09 02:30:00",
+		"ConfigType": 1,
+		"LevelID": 143404,
+		"MaxFloor": 25,
+		"Weather": 1001,
+		"Bonus": [
+			1001,
+			1003
+		],
+		"DataImpl": {},
+		"ID": 11
+	},
+	{
+		"NextID": 13,
+		"StartTime": "2019-09-09 04:00:00",
+		"EndTime": "2019-09-16 02:00:00",
+		"SettleTime": "2019-09-16 02:30:00",
+		"ConfigType": 1,
+		"LevelID": 143404,
+		"MaxFloor": 30,
+		"Weather": 1005,
+		"Bonus": [
+			1001,
+			1002
+		],
+		"DataImpl": {},
+		"ID": 12
+	},
+	{
+		"NextID": 14,
+		"StartTime": "2019-09-16 04:00:00",
+		"EndTime": "2019-09-23 02:00:00",
+		"SettleTime": "2019-09-23 02:30:00",
+		"ConfigType": 1,
+		"LevelID": 143404,
+		"MaxFloor": 15,
+		"Weather": 1003,
+		"Bonus": [
+			1002,
+			1003
+		],
+		"DataImpl": {},
+		"ID": 13
+	},
+	{
+		"NextID": 15,
+		"StartTime": "2019-09-23 04:00:00",
+		"EndTime": "2019-09-30 02:00:00",
+		"SettleTime": "2019-09-30 02:30:00",
+		"ConfigType": 1,
+		"LevelID": 143404,
+		"MaxFloor": 20,
+		"Weather": 1005,
+		"Bonus": [
+			1003
+		],
+		"DataImpl": {},
+		"ID": 14
+	},
+	{
+		"NextID": 16,
+		"StartTime": "2019-09-30 04:00:00",
+		"EndTime": "2019-10-07 02:00:00",
+		"SettleTime": "2019-10-07 02:30:00",
+		"ConfigType": 1,
+		"LevelID": 143404,
+		"MaxFloor": 25,
+		"Weather": 1002,
+		"Bonus": [
+			1001,
+			1003
+		],
+		"DataImpl": {},
+		"ID": 15
+	},
+	{
+		"NextID": 17,
+		"StartTime": "2019-10-07 04:00:00",
+		"EndTime": "2019-10-14 02:00:00",
+		"SettleTime": "2019-10-14 02:30:00",
+		"ConfigType": 1,
+		"LevelID": 143404,
+		"MaxFloor": 30,
+		"Weather": 1001,
+		"Bonus": [
+			1005
+		],
+		"DataImpl": {},
+		"ID": 16
+	},
+	{
+		"NextID": 18,
+		"StartTime": "2019-10-14 04:00:00",
+		"EndTime": "2019-10-21 02:00:00",
+		"SettleTime": "2019-10-21 02:30:00",
+		"ConfigType": 1,
+		"LevelID": 143404,
+		"MaxFloor": 15,
+		"Weather": 1002,
+		"Bonus": [
+			1003,
+			1005
+		],
+		"DataImpl": {},
+		"ID": 17
+	},
+	{
+		"NextID": 19,
+		"StartTime": "2019-10-21 04:00:00",
+		"EndTime": "2019-10-28 02:00:00",
+		"SettleTime": "2019-10-28 02:30:00",
+		"ConfigType": 1,
+		"LevelID": 143404,
+		"MaxFloor": 20,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 18
+	},
+	{
+		"NextID": 20,
+		"StartTime": "2019-10-28 04:00:00",
+		"EndTime": "2019-11-04 02:00:00",
+		"SettleTime": "2019-11-04 02:30:00",
+		"ConfigType": 1,
+		"LevelID": 143404,
+		"MaxFloor": 25,
+		"Weather": 1005,
+		"Bonus": [
+			1001,
+			1004
+		],
+		"DataImpl": {},
+		"ID": 19
+	},
+	{
+		"NextID": 21,
+		"StartTime": "2019-11-04 04:00:00",
+		"EndTime": "2019-11-11 02:00:00",
+		"SettleTime": "2019-11-11 02:30:00",
+		"ConfigType": 1,
+		"LevelID": 143404,
+		"MaxFloor": 30,
+		"Weather": 1005,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 20
+	},
+	{
+		"NextID": 22,
+		"StartTime": "2019-11-11 04:00:00",
+		"EndTime": "2019-11-18 02:00:00",
+		"SettleTime": "2019-11-18 02:30:00",
+		"ConfigType": 1,
+		"LevelID": 143404,
+		"MaxFloor": 15,
+		"Weather": 1003,
+		"Bonus": [
+			1005
+		],
+		"DataImpl": {},
+		"ID": 21
+	},
+	{
+		"NextID": 23,
+		"StartTime": "2019-11-18 04:00:00",
+		"EndTime": "2019-11-25 02:00:00",
+		"SettleTime": "2019-11-25 02:30:00",
+		"ConfigType": 1,
+		"LevelID": 143404,
+		"MaxFloor": 20,
+		"Weather": 1003,
+		"Bonus": [
+			1001,
+			1002
+		],
+		"DataImpl": {},
+		"ID": 22
+	},
+	{
+		"NextID": 24,
+		"StartTime": "2019-11-25 04:00:00",
+		"EndTime": "2019-12-02 02:00:00",
+		"SettleTime": "2019-12-02 02:30:00",
+		"ConfigType": 1,
+		"LevelID": 143404,
+		"MaxFloor": 25,
+		"Weather": 1005,
+		"Bonus": [
+			1002,
+			1003
+		],
+		"DataImpl": {},
+		"ID": 23
+	},
+	{
+		"NextID": 25,
+		"StartTime": "2019-12-02 04:00:00",
+		"EndTime": "2019-12-09 02:00:00",
+		"SettleTime": "2019-12-09 02:30:00",
+		"ConfigType": 1,
+		"LevelID": 143404,
+		"MaxFloor": 30,
+		"Weather": 1001,
+		"Bonus": [
+			1003
+		],
+		"DataImpl": {},
+		"ID": 24
+	},
+	{
+		"NextID": 26,
+		"StartTime": "2019-12-09 04:00:00",
+		"EndTime": "2019-12-16 02:00:00",
+		"SettleTime": "2019-12-16 02:30:00",
+		"ConfigType": 1,
+		"LevelID": 143404,
+		"MaxFloor": 15,
+		"Weather": 1002,
+		"Bonus": [
+			1001,
+			1003
+		],
+		"DataImpl": {},
+		"ID": 25
+	},
+	{
+		"NextID": 27,
+		"StartTime": "2019-12-16 04:00:00",
+		"EndTime": "2019-12-23 02:00:00",
+		"SettleTime": "2019-12-23 02:30:00",
+		"ConfigType": 1,
+		"LevelID": 143404,
+		"MaxFloor": 20,
+		"Weather": 1002,
+		"Bonus": [
+			1005
+		],
+		"DataImpl": {},
+		"ID": 26
+	},
+	{
+		"NextID": 28,
+		"StartTime": "2019-12-23 04:00:00",
+		"EndTime": "2019-12-30 02:00:00",
+		"SettleTime": "2019-12-30 02:30:00",
+		"ConfigType": 1,
+		"LevelID": 143404,
+		"MaxFloor": 25,
+		"Weather": 1005,
+		"Bonus": [
+			1003,
+			1005
+		],
+		"DataImpl": {},
+		"ID": 27
+	},
+	{
+		"NextID": 29,
+		"StartTime": "2019-12-30 04:00:00",
+		"EndTime": "2020-01-06 02:00:00",
+		"SettleTime": "2020-01-06 02:30:00",
+		"ConfigType": 1,
+		"LevelID": 143404,
+		"MaxFloor": 30,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 28
+	},
+	{
+		"NextID": 30,
+		"StartTime": "2020-01-06 04:00:00",
+		"EndTime": "2020-01-13 02:00:00",
+		"SettleTime": "2020-01-13 02:30:00",
+		"ConfigType": 1,
+		"LevelID": 143404,
+		"MaxFloor": 15,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 29
+	},
+	{
+		"NextID": 31,
+		"StartTime": "2020-01-13 04:00:00",
+		"EndTime": "2020-01-20 02:00:00",
+		"SettleTime": "2020-01-20 02:30:00",
+		"ConfigType": 1,
+		"LevelID": 143404,
+		"MaxFloor": 20,
+		"Weather": 1003,
+		"Bonus": [
+			1003
+		],
+		"DataImpl": {},
+		"ID": 30
+	},
+	{
+		"NextID": 32,
+		"StartTime": "2020-01-20 04:00:00",
+		"EndTime": "2020-01-27 02:00:00",
+		"SettleTime": "2020-01-27 02:30:00",
+		"ConfigType": 1,
+		"LevelID": 143404,
+		"MaxFloor": 25,
+		"Weather": 1002,
+		"Bonus": [
+			1004
+		],
+		"DataImpl": {},
+		"ID": 31
+	},
+	{
+		"NextID": 33,
+		"StartTime": "2020-01-27 04:00:00",
+		"EndTime": "2020-02-03 02:00:00",
+		"SettleTime": "2020-02-03 02:30:00",
+		"ConfigType": 1,
+		"LevelID": 143404,
+		"MaxFloor": 30,
+		"Weather": 1002,
+		"Bonus": [
+			1005
+		],
+		"DataImpl": {},
+		"ID": 32
+	},
+	{
+		"NextID": 34,
+		"StartTime": "2020-02-03 04:00:00",
+		"EndTime": "2020-02-10 02:00:00",
+		"SettleTime": "2020-02-10 02:30:00",
+		"ConfigType": 1,
+		"LevelID": 143404,
+		"MaxFloor": 15,
+		"Weather": 1002,
+		"Bonus": [
+			1006
+		],
+		"DataImpl": {},
+		"ID": 33
+	},
+	{
+		"NextID": 35,
+		"StartTime": "2020-02-10 04:00:00",
+		"EndTime": "2020-02-17 02:00:00",
+		"SettleTime": "2020-02-17 02:30:00",
+		"ConfigType": 1,
+		"LevelID": 143404,
+		"MaxFloor": 30,
+		"Weather": 1005,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 34
+	},
+	{
+		"NextID": 36,
+		"StartTime": "2020-02-17 04:00:00",
+		"EndTime": "2020-02-18 02:00:00",
+		"SettleTime": "2020-02-18 02:30:00",
+		"ConfigType": 1003,
+		"LevelID": 143404,
+		"MaxFloor": 30,
+		"Weather": 1003,
+		"Bonus": [
+			1005
+		],
+		"DataImpl": {},
+		"ID": 35
+	},
+	{
+		"NextID": 37,
+		"StartTime": "2020-02-18 04:00:00",
+		"EndTime": "2020-02-19 02:00:00",
+		"SettleTime": "2020-02-19 02:30:00",
+		"ConfigType": 1002,
+		"LevelID": 143404,
+		"MaxFloor": 30,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 36
+	},
+	{
+		"NextID": 38,
+		"StartTime": "2020-02-19 04:00:00",
+		"EndTime": "2020-02-20 02:00:00",
+		"SettleTime": "2020-02-20 02:30:00",
+		"ConfigType": 1001,
+		"LevelID": 143404,
+		"MaxFloor": 30,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 37
+	},
+	{
+		"NextID": 39,
+		"StartTime": "2020-02-20 04:00:00",
+		"EndTime": "2020-02-21 02:00:00",
+		"SettleTime": "2020-02-21 02:30:00",
+		"ConfigType": 1005,
+		"LevelID": 143404,
+		"MaxFloor": 30,
+		"Weather": 1005,
+		"Bonus": [
+			1003
+		],
+		"DataImpl": {},
+		"ID": 38
+	},
+	{
+		"NextID": 40,
+		"StartTime": "2020-02-21 04:00:00",
+		"EndTime": "2020-02-22 02:00:00",
+		"SettleTime": "2020-02-22 02:30:00",
+		"ConfigType": 1003,
+		"LevelID": 143404,
+		"MaxFloor": 30,
+		"Weather": 1003,
+		"Bonus": [
+			1004
+		],
+		"DataImpl": {},
+		"ID": 39
+	},
+	{
+		"NextID": 41,
+		"StartTime": "2020-02-22 04:00:00",
+		"EndTime": "2020-02-23 02:00:00",
+		"SettleTime": "2020-02-23 02:30:00",
+		"ConfigType": 1002,
+		"LevelID": 143404,
+		"MaxFloor": 30,
+		"Weather": 1002,
+		"Bonus": [
+			1005
+		],
+		"DataImpl": {},
+		"ID": 40
+	},
+	{
+		"NextID": 42,
+		"StartTime": "2020-02-23 04:00:00",
+		"EndTime": "2020-02-24 02:00:00",
+		"SettleTime": "2020-02-24 02:30:00",
+		"ConfigType": 1001,
+		"LevelID": 143404,
+		"MaxFloor": 30,
+		"Weather": 1001,
+		"Bonus": [
+			1006
+		],
+		"DataImpl": {},
+		"ID": 41
+	},
+	{
+		"NextID": 43,
+		"StartTime": "2020-02-24 04:00:00",
+		"EndTime": "2020-02-25 02:00:00",
+		"SettleTime": "2020-02-25 02:30:00",
+		"ConfigType": 1005,
+		"LevelID": 143404,
+		"MaxFloor": 30,
+		"Weather": 1005,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 42
+	},
+	{
+		"NextID": 44,
+		"StartTime": "2020-02-25 04:00:00",
+		"EndTime": "2020-02-26 02:00:00",
+		"SettleTime": "2020-02-26 02:30:00",
+		"ConfigType": 1003,
+		"LevelID": 143404,
+		"MaxFloor": 30,
+		"Weather": 1003,
+		"Bonus": [
+			1007
+		],
+		"DataImpl": {},
+		"ID": 43
+	},
+	{
+		"NextID": 45,
+		"StartTime": "2020-02-26 04:00:00",
+		"EndTime": "2020-02-27 02:00:00",
+		"SettleTime": "2020-02-27 02:30:00",
+		"ConfigType": 1002,
+		"LevelID": 143404,
+		"MaxFloor": 30,
+		"Weather": 1002,
+		"Bonus": [
+			1008
+		],
+		"DataImpl": {},
+		"ID": 44
+	},
+	{
+		"NextID": 46,
+		"StartTime": "2020-02-27 04:00:00",
+		"EndTime": "2020-02-28 02:00:00",
+		"SettleTime": "2020-02-28 02:30:00",
+		"ConfigType": 1001,
+		"LevelID": 143404,
+		"MaxFloor": 30,
+		"Weather": 1001,
+		"Bonus": [
+			1005
+		],
+		"DataImpl": {},
+		"ID": 45
+	},
+	{
+		"NextID": 47,
+		"StartTime": "2020-02-28 04:00:00",
+		"EndTime": "2020-02-29 02:00:00",
+		"SettleTime": "2020-02-29 02:30:00",
+		"ConfigType": 1005,
+		"LevelID": 143404,
+		"MaxFloor": 30,
+		"Weather": 1005,
+		"Bonus": [
+			1006
+		],
+		"DataImpl": {},
+		"ID": 46
+	},
+	{
+		"NextID": 56,
+		"StartTime": "2020-02-29 04:00:00",
+		"EndTime": "2020-03-01 02:00:00",
+		"SettleTime": "2020-03-01 02:30:00",
+		"ConfigType": 1003,
+		"LevelID": 143404,
+		"MaxFloor": 30,
+		"Weather": 1003,
+		"Bonus": [
+			1003
+		],
+		"DataImpl": {},
+		"ID": 47
+	},
+	{
+		"NextID": 57,
+		"StartTime": "2020-03-16 04:00:00",
+		"EndTime": "2020-03-23 02:00:00",
+		"SettleTime": "2020-03-23 02:30:00",
+		"ConfigType": 1002,
+		"LevelID": 143404,
+		"MaxFloor": 15,
+		"Weather": 1002,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 56
+	},
+	{
+		"NextID": 58,
+		"StartTime": "2020-03-23 15:00:00",
+		"EndTime": "2020-03-30 02:00:00",
+		"SettleTime": "2020-03-30 02:30:00",
+		"ConfigType": 1005,
+		"LevelID": 143404,
+		"MaxFloor": 19,
+		"Weather": 1005,
+		"Bonus": [
+			1005
+		],
+		"DataImpl": {},
+		"ID": 57
+	},
+	{
+		"NextID": 59,
+		"StartTime": "2020-03-30 15:00:00",
+		"EndTime": "2020-04-06 02:00:00",
+		"SettleTime": "2020-04-06 02:30:00",
+		"ConfigType": 1003,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1003
+		],
+		"DataImpl": {},
+		"ID": 58
+	},
+	{
+		"NextID": 60,
+		"StartTime": "2020-04-06 15:00:00",
+		"EndTime": "2020-04-13 02:00:00",
+		"SettleTime": "2020-04-13 02:30:00",
+		"ConfigType": 1002,
+		"LevelID": 143404,
+		"MaxFloor": 27,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 59
+	},
+	{
+		"NextID": 61,
+		"StartTime": "2020-04-13 04:00:00",
+		"EndTime": "2020-04-20 02:00:00",
+		"SettleTime": "2020-04-20 02:30:00",
+		"ConfigType": 1001,
+		"LevelID": 143404,
+		"MaxFloor": 27,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 60
+	},
+	{
+		"NextID": 62,
+		"StartTime": "2020-04-20 04:00:00",
+		"EndTime": "2020-04-27 02:00:00",
+		"SettleTime": "2020-04-27 02:30:00",
+		"ConfigType": 1102,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1004
+		],
+		"DataImpl": {},
+		"ID": 61
+	},
+	{
+		"NextID": 65,
+		"StartTime": "2020-04-27 04:00:00",
+		"EndTime": "2020-05-04 02:00:00",
+		"SettleTime": "2020-05-04 02:30:00",
+		"ConfigType": 1105,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 62
+	},
+	{
+		"NextID": 64,
+		"StartTime": "2020-05-04 04:00:00",
+		"EndTime": "2020-05-11 02:00:00",
+		"SettleTime": "2020-05-11 02:30:00",
+		"ConfigType": 1103,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1007
+		],
+		"DataImpl": {},
+		"ID": 63
+	},
+	{
+		"NextID": 65,
+		"StartTime": "2020-05-11 04:00:00",
+		"EndTime": "2020-05-18 02:00:00",
+		"SettleTime": "2020-05-18 02:30:00",
+		"ConfigType": 1102,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 64
+	},
+	{
+		"NextID": 66,
+		"StartTime": "2020-05-18 04:00:00",
+		"EndTime": "2020-05-25 02:00:00",
+		"SettleTime": "2020-05-25 02:30:00",
+		"ConfigType": 1101,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 65
+	},
+	{
+		"NextID": 67,
+		"StartTime": "2020-05-25 04:00:00",
+		"EndTime": "2020-06-01 02:00:00",
+		"SettleTime": "2020-06-01 02:30:00",
+		"ConfigType": 1102,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1007
+		],
+		"DataImpl": {},
+		"ID": 66
+	},
+	{
+		"NextID": 69,
+		"StartTime": "2020-06-01 04:00:00",
+		"EndTime": "2020-06-08 02:00:00",
+		"SettleTime": "2020-06-08 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 67
+	},
+	{
+		"NextID": 71,
+		"StartTime": "2020-06-15 04:00:00",
+		"EndTime": "2020-06-22 02:00:00",
+		"SettleTime": "2020-06-22 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 69
+	},
+	{
+		"NextID": 73,
+		"StartTime": "2020-06-29 04:00:00",
+		"EndTime": "2020-07-06 02:00:00",
+		"SettleTime": "2020-07-06 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 71
+	},
+	{
+		"NextID": 75,
+		"StartTime": "2020-07-13 04:00:00",
+		"EndTime": "2020-07-20 02:00:00",
+		"SettleTime": "2020-07-20 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 73
+	},
+	{
+		"NextID": 77,
+		"StartTime": "2020-07-27 04:00:00",
+		"EndTime": "2020-08-03 02:00:00",
+		"SettleTime": "2020-08-03 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 75
+	},
+	{
+		"NextID": 79,
+		"StartTime": "2020-08-10 04:00:00",
+		"EndTime": "2020-08-17 02:00:00",
+		"SettleTime": "2020-08-17 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 77
+	},
+	{
+		"NextID": 81,
+		"StartTime": "2020-08-24 04:00:00",
+		"EndTime": "2020-08-31 02:00:00",
+		"SettleTime": "2020-08-31 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 79
+	},
+	{
+		"NextID": 83,
+		"StartTime": "2020-09-07 04:00:00",
+		"EndTime": "2020-09-14 02:00:00",
+		"SettleTime": "2020-09-14 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 81
+	},
+	{
+		"NextID": 85,
+		"StartTime": "2020-09-21 04:00:00",
+		"EndTime": "2020-09-28 02:00:00",
+		"SettleTime": "2020-09-28 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 83
+	},
+	{
+		"NextID": 87,
+		"StartTime": "2020-10-05 04:00:00",
+		"EndTime": "2020-10-12 02:00:00",
+		"SettleTime": "2020-10-12 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 85
+	},
+	{
+		"NextID": 89,
+		"StartTime": "2020-11-16 04:00:00",
+		"EndTime": "2020-11-23 02:00:00",
+		"SettleTime": "2020-11-23 02:00:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 87
+	},
+	{
+		"NextID": 91,
+		"StartTime": "2020-11-30 04:00:00",
+		"EndTime": "2020-12-07 02:00:00",
+		"SettleTime": "2020-12-07 02:00:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 89
+	},
+	{
+		"NextID": 93,
+		"StartTime": "2020-12-14 04:00:00",
+		"EndTime": "2020-12-21 02:00:00",
+		"SettleTime": "2020-12-21 02:00:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 91
+	},
+	{
+		"NextID": 95,
+		"StartTime": "2020-12-28 04:00:00",
+		"EndTime": "2021-01-04 02:00:00",
+		"SettleTime": "2021-01-04 02:00:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 93
+	},
+	{
+		"NextID": 97,
+		"StartTime": "2021-01-11 04:00:00",
+		"EndTime": "2021-01-18 02:00:00",
+		"SettleTime": "2021-01-18 02:00:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 95
+	},
+	{
+		"NextID": 99,
+		"StartTime": "2021-01-25 04:00:00",
+		"EndTime": "2021-02-01 02:00:00",
+		"SettleTime": "2021-02-01 02:00:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 97
+	},
+	{
+		"NextID": 101,
+		"StartTime": "2021-02-08 04:00:00",
+		"EndTime": "2021-02-15 02:00:00",
+		"SettleTime": "2021-02-15 02:00:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 99
+	},
+	{
+		"NextID": 103,
+		"StartTime": "2021-02-22 04:00:00",
+		"EndTime": "2021-03-01 02:00:00",
+		"SettleTime": "2021-03-01 02:00:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 101
+	},
+	{
+		"NextID": 105,
+		"StartTime": "2021-03-08 04:00:00",
+		"EndTime": "2021-03-15 02:00:00",
+		"SettleTime": "2021-03-15 02:00:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 103
+	},
+	{
+		"NextID": 107,
+		"StartTime": "2021-03-22 04:00:00",
+		"EndTime": "2021-03-29 02:00:00",
+		"SettleTime": "2021-03-29 02:00:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 105
+	},
+	{
+		"NextID": 109,
+		"StartTime": "2021-04-05 04:00:00",
+		"EndTime": "2021-04-12 02:00:00",
+		"SettleTime": "2021-04-12 02:00:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 107
+	},
+	{
+		"NextID": 111,
+		"StartTime": "2021-04-19 04:00:00",
+		"EndTime": "2021-04-26 02:00:00",
+		"SettleTime": "2021-04-26 02:00:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 109
+	},
+	{
+		"NextID": 113,
+		"StartTime": "2021-05-03 04:00:00",
+		"EndTime": "2021-05-10 02:00:00",
+		"SettleTime": "2021-05-10 02:00:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 111
+	},
+	{
+		"NextID": 114,
+		"StartTime": "2021-05-17 04:00:00",
+		"EndTime": "2021-05-24 02:00:00",
+		"SettleTime": "2021-05-24 02:00:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 113
+	},
+	{
+		"NextID": 115,
+		"StartTime": "2021-05-31 04:00:00",
+		"EndTime": "2021-06-07 02:00:00",
+		"SettleTime": "2021-06-07 02:00:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 114
+	},
+	{
+		"NextID": 116,
+		"StartTime": "2021-06-14 04:00:00",
+		"EndTime": "2021-06-21 02:00:00",
+		"SettleTime": "2021-06-21 02:00:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 115
+	},
+	{
+		"NextID": 117,
+		"StartTime": "2021-06-28 04:00:00",
+		"EndTime": "2021-07-05 02:00:00",
+		"SettleTime": "2021-07-05 02:00:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 116
+	},
+	{
+		"NextID": 118,
+		"StartTime": "2021-07-12 04:00:00",
+		"EndTime": "2021-07-19 02:00:00",
+		"SettleTime": "2021-07-19 02:00:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 117
+	},
+	{
+		"NextID": 119,
+		"StartTime": "2021-07-26 04:00:00",
+		"EndTime": "2021-08-02 02:00:00",
+		"SettleTime": "2021-08-02 02:00:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 118
+	},
+	{
+		"NextID": 120,
+		"StartTime": "2021-08-09 04:00:00",
+		"EndTime": "2021-08-16 02:00:00",
+		"SettleTime": "2021-08-16 02:00:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 119
+	},
+	{
+		"NextID": 121,
+		"StartTime": "2021-08-23 04:00:00",
+		"EndTime": "2021-08-30 02:00:00",
+		"SettleTime": "2021-08-30 02:00:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 120
+	},
+	{
+		"NextID": 122,
+		"StartTime": "2021-09-06 04:00:00",
+		"EndTime": "2021-09-13 02:00:00",
+		"SettleTime": "2021-09-13 02:00:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 121
+	},
+	{
+		"NextID": 123,
+		"StartTime": "2021-09-20 04:00:00",
+		"EndTime": "2021-09-27 02:00:00",
+		"SettleTime": "2021-09-27 02:00:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 122
+	},
+	{
+		"NextID": 124,
+		"StartTime": "2021-10-04 04:00:00",
+		"EndTime": "2021-10-11 02:00:00",
+		"SettleTime": "2021-10-11 02:00:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 123
+	},
+	{
+		"NextID": 125,
+		"StartTime": "2021-10-18 04:00:00",
+		"EndTime": "2021-10-25 02:00:00",
+		"SettleTime": "2021-10-25 02:00:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 124
+	},
+	{
+		"NextID": 126,
+		"StartTime": "2021-11-01 04:00:00",
+		"EndTime": "2021-11-08 02:00:00",
+		"SettleTime": "2021-11-08 02:00:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 125
+	},
+	{
+		"NextID": 127,
+		"StartTime": "2021-11-15 04:00:00",
+		"EndTime": "2021-11-22 02:00:00",
+		"SettleTime": "2021-11-22 02:00:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 126
+	},
+	{
+		"NextID": 128,
+		"StartTime": "2021-11-29 04:00:00",
+		"EndTime": "2021-12-06 02:00:00",
+		"SettleTime": "2021-12-06 02:00:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 127
+	},
+	{
+		"NextID": 129,
+		"StartTime": "2021-12-13 04:00:00",
+		"EndTime": "2021-12-20 02:00:00",
+		"SettleTime": "2021-12-20 02:00:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 128
+	},
+	{
+		"NextID": 130,
+		"StartTime": "2021-12-27 04:00:00",
+		"EndTime": "2022-01-03 02:00:00",
+		"SettleTime": "2022-01-03 02:00:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 129
+	},
+	{
+		"NextID": 131,
+		"StartTime": "2022-01-10 04:00:00",
+		"EndTime": "2022-01-17 02:00:00",
+		"SettleTime": "2022-01-17 02:00:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 130
+	},
+	{
+		"NextID": 132,
+		"StartTime": "2022-01-24 04:00:00",
+		"EndTime": "2022-01-31 02:00:00",
+		"SettleTime": "2022-01-31 02:00:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 131
+	},
+	{
+		"NextID": 133,
+		"StartTime": "2022-02-07 04:00:00",
+		"EndTime": "2022-02-14 02:00:00",
+		"SettleTime": "2022-02-14 02:00:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 132
+	},
+	{
+		"NextID": 134,
+		"StartTime": "2022-02-21 04:00:00",
+		"EndTime": "2022-02-28 02:00:00",
+		"SettleTime": "2022-02-28 02:00:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 133
+	},
+	{
+		"NextID": 135,
+		"StartTime": "2022-03-07 04:00:00",
+		"EndTime": "2022-03-14 02:00:00",
+		"SettleTime": "2022-03-14 02:00:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 134
+	},
+	{
+		"NextID": 136,
+		"StartTime": "2022-03-21 04:00:00",
+		"EndTime": "2022-03-28 02:00:00",
+		"SettleTime": "2022-03-28 02:00:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 135
+	},
+	{
+		"NextID": 137,
+		"StartTime": "2022-04-04 04:00:00",
+		"EndTime": "2022-04-11 02:00:00",
+		"SettleTime": "2022-04-11 02:00:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 136
+	},
+	{
+		"NextID": 138,
+		"StartTime": "2022-04-18 04:00:00",
+		"EndTime": "2022-04-25 02:00:00",
+		"SettleTime": "2022-04-25 02:00:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 137
+	},
+	{
+		"NextID": 139,
+		"StartTime": "2022-05-02 04:00:00",
+		"EndTime": "2022-05-09 02:00:00",
+		"SettleTime": "2022-05-09 02:00:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 138
+	},
+	{
+		"NextID": 140,
+		"StartTime": "2022-05-16 04:00:00",
+		"EndTime": "2022-05-23 02:00:00",
+		"SettleTime": "2022-05-23 02:00:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 139
+	},
+	{
+		"NextID": 141,
+		"StartTime": "2022-05-30 04:00:00",
+		"EndTime": "2022-06-06 02:00:00",
+		"SettleTime": "2022-06-06 02:00:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 140
+	},
+	{
+		"NextID": 142,
+		"StartTime": "2022-06-13 04:00:00",
+		"EndTime": "2022-06-20 02:00:00",
+		"SettleTime": "2022-06-20 02:00:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 141
+	},
+	{
+		"NextID": 143,
+		"StartTime": "2022-06-27 04:00:00",
+		"EndTime": "2022-07-04 02:00:00",
+		"SettleTime": "2022-07-04 02:00:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 142
+	},
+	{
+		"NextID": 144,
+		"StartTime": "2022-07-11 04:00:00",
+		"EndTime": "2022-07-18 02:00:00",
+		"SettleTime": "2022-07-18 02:00:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 143
+	},
+	{
+		"NextID": 145,
+		"StartTime": "2022-07-25 04:00:00",
+		"EndTime": "2022-08-01 02:00:00",
+		"SettleTime": "2022-08-01 02:00:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 144
+	},
+	{
+		"NextID": 146,
+		"StartTime": "2022-08-08 04:00:00",
+		"EndTime": "2022-08-15 02:00:00",
+		"SettleTime": "2022-08-15 02:00:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 145
+	},
+	{
+		"NextID": 147,
+		"StartTime": "2022-08-22 04:00:00",
+		"EndTime": "2022-08-29 02:00:00",
+		"SettleTime": "2022-08-29 02:00:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 146
+	},
+	{
+		"NextID": 148,
+		"StartTime": "2022-09-05 04:00:00",
+		"EndTime": "2022-09-12 02:00:00",
+		"SettleTime": "2022-09-12 02:00:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 147
+	},
+	{
+		"NextID": 149,
+		"StartTime": "2022-09-19 04:00:00",
+		"EndTime": "2022-09-26 02:00:00",
+		"SettleTime": "2022-09-26 02:00:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 148
+	},
+	{
+		"NextID": 150,
+		"StartTime": "2022-10-03 04:00:00",
+		"EndTime": "2022-10-10 02:00:00",
+		"SettleTime": "2022-10-10 02:00:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 149
+	},
+	{
+		"NextID": 151,
+		"StartTime": "2022-10-17 04:00:00",
+		"EndTime": "2022-10-24 02:00:00",
+		"SettleTime": "2022-10-24 02:00:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 150
+	},
+	{
+		"NextID": 152,
+		"StartTime": "2022-10-31 04:00:00",
+		"EndTime": "2022-11-07 02:00:00",
+		"SettleTime": "2022-11-07 02:00:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 151
+	},
+	{
+		"NextID": 153,
+		"StartTime": "2022-11-14 04:00:00",
+		"EndTime": "2022-11-21 02:00:00",
+		"SettleTime": "2022-11-21 02:00:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 152
+	},
+	{
+		"NextID": 154,
+		"StartTime": "2022-11-28 04:00:00",
+		"EndTime": "2022-12-05 02:00:00",
+		"SettleTime": "2022-12-05 02:00:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 153
+	},
+	{
+		"NextID": 155,
+		"StartTime": "2022-12-12 04:00:00",
+		"EndTime": "2022-12-19 02:00:00",
+		"SettleTime": "2022-12-19 02:00:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 154
+	},
+	{
+		"NextID": 156,
+		"StartTime": "2022-12-26 04:00:00",
+		"EndTime": "2023-01-02 02:00:00",
+		"SettleTime": "2023-01-02 02:00:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 155
+	},
+	{
+		"NextID": 157,
+		"StartTime": "2023-01-09 04:00:00",
+		"EndTime": "2023-01-16 02:00:00",
+		"SettleTime": "2023-01-16 02:00:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 156
+	},
+	{
+		"NextID": 158,
+		"StartTime": "2023-01-23 04:00:00",
+		"EndTime": "2023-01-30 02:00:00",
+		"SettleTime": "2023-01-30 02:00:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 157
+	},
+	{
+		"NextID": 159,
+		"StartTime": "2023-02-06 04:00:00",
+		"EndTime": "2023-02-13 02:00:00",
+		"SettleTime": "2023-02-13 02:00:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 158
+	},
+	{
+		"NextID": 160,
+		"StartTime": "2023-02-20 04:00:00",
+		"EndTime": "2023-02-27 02:00:00",
+		"SettleTime": "2023-02-27 02:00:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 159
+	},
+	{
+		"NextID": 161,
+		"StartTime": "2023-03-06 04:00:00",
+		"EndTime": "2023-03-13 02:00:00",
+		"SettleTime": "2023-03-13 02:00:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 160
+	},
+	{
+		"NextID": 162,
+		"StartTime": "2023-03-20 04:00:00",
+		"EndTime": "2023-03-27 02:00:00",
+		"SettleTime": "2023-03-27 02:00:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 161
+	},
+	{
+		"NextID": 163,
+		"StartTime": "2023-04-03 04:00:00",
+		"EndTime": "2023-04-10 02:00:00",
+		"SettleTime": "2023-04-10 02:00:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 162
+	},
+	{
+		"NextID": 164,
+		"StartTime": "2023-04-17 04:00:00",
+		"EndTime": "2023-04-24 02:00:00",
+		"SettleTime": "2023-04-24 02:00:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 163
+	},
+	{
+		"NextID": 165,
+		"StartTime": "2023-05-01 04:00:00",
+		"EndTime": "2023-05-08 02:00:00",
+		"SettleTime": "2023-05-08 02:00:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 164
+	},
+	{
+		"NextID": 166,
+		"StartTime": "2023-05-15 04:00:00",
+		"EndTime": "2023-05-22 02:00:00",
+		"SettleTime": "2023-05-22 02:00:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 165
+	},
+	{
+		"NextID": 167,
+		"StartTime": "2023-05-29 04:00:00",
+		"EndTime": "2023-06-05 02:00:00",
+		"SettleTime": "2023-06-05 02:00:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 166
+	},
+	{
+		"NextID": 168,
+		"StartTime": "2023-06-12 04:00:00",
+		"EndTime": "2023-06-19 02:00:00",
+		"SettleTime": "2023-06-19 02:00:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 167
+	},
+	{
+		"NextID": 169,
+		"StartTime": "2023-06-26 04:00:00",
+		"EndTime": "2023-07-03 02:00:00",
+		"SettleTime": "2023-07-03 02:00:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 168
+	},
+	{
+		"NextID": 170,
+		"StartTime": "2023-07-10 04:00:00",
+		"EndTime": "2023-07-17 02:00:00",
+		"SettleTime": "2023-07-17 02:00:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 169
+	},
+	{
+		"NextID": 171,
+		"StartTime": "2023-07-24 04:00:00",
+		"EndTime": "2023-07-31 02:00:00",
+		"SettleTime": "2023-07-31 02:00:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 170
+	},
+	{
+		"NextID": 172,
+		"StartTime": "2023-08-07 04:00:00",
+		"EndTime": "2023-08-14 02:00:00",
+		"SettleTime": "2023-08-14 02:00:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 171
+	},
+	{
+		"NextID": 173,
+		"StartTime": "2023-08-21 04:00:00",
+		"EndTime": "2023-08-28 02:00:00",
+		"SettleTime": "2023-08-28 02:00:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 172
+	},
+	{
+		"NextID": 174,
+		"StartTime": "2023-09-04 04:00:00",
+		"EndTime": "2023-09-11 02:00:00",
+		"SettleTime": "2023-09-11 02:00:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 173
+	},
+	{
+		"NextID": 175,
+		"StartTime": "2023-09-18 04:00:00",
+		"EndTime": "2023-09-25 02:00:00",
+		"SettleTime": "2023-09-25 02:00:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 174
+	},
+	{
+		"NextID": 176,
+		"StartTime": "2023-10-02 04:00:00",
+		"EndTime": "2023-10-09 02:00:00",
+		"SettleTime": "2023-10-09 02:00:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 175
+	},
+	{
+		"NextID": 177,
+		"StartTime": "2023-10-16 04:00:00",
+		"EndTime": "2023-10-23 02:00:00",
+		"SettleTime": "2023-10-23 02:00:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 176
+	},
+	{
+		"NextID": 178,
+		"StartTime": "2023-10-30 04:00:00",
+		"EndTime": "2023-11-06 02:00:00",
+		"SettleTime": "2023-11-06 02:00:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 177
+	},
+	{
+		"NextID": 179,
+		"StartTime": "2023-11-13 04:00:00",
+		"EndTime": "2023-11-20 02:00:00",
+		"SettleTime": "2023-11-20 02:00:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 178
+	},
+	{
+		"NextID": 180,
+		"StartTime": "2023-11-27 04:00:00",
+		"EndTime": "2023-12-04 02:00:00",
+		"SettleTime": "2023-12-04 02:00:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 179
+	},
+	{
+		"NextID": 181,
+		"StartTime": "2023-12-11 04:00:00",
+		"EndTime": "2023-12-18 02:00:00",
+		"SettleTime": "2023-12-18 02:00:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 180
+	},
+	{
+		"NextID": 182,
+		"StartTime": "2023-12-25 04:00:00",
+		"EndTime": "2024-01-01 02:00:00",
+		"SettleTime": "2024-01-01 02:00:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 181
+	},
+	{
+		"NextID": 183,
+		"StartTime": "2024-01-08 04:00:00",
+		"EndTime": "2024-01-15 02:00:00",
+		"SettleTime": "2024-01-15 02:00:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 182
+	},
+	{
+		"NextID": 184,
+		"StartTime": "2024-01-22 04:00:00",
+		"EndTime": "2024-01-29 02:00:00",
+		"SettleTime": "2024-01-29 02:00:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 183
+	},
+	{
+		"NextID": 185,
+		"StartTime": "2024-02-05 04:00:00",
+		"EndTime": "2024-02-12 02:00:00",
+		"SettleTime": "2024-02-12 02:00:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 184
+	},
+	{
+		"NextID": 186,
+		"StartTime": "2024-02-19 04:00:00",
+		"EndTime": "2024-02-26 02:00:00",
+		"SettleTime": "2024-02-26 02:00:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 185
+	},
+	{
+		"NextID": 187,
+		"StartTime": "2024-03-04 04:00:00",
+		"EndTime": "2024-03-11 02:00:00",
+		"SettleTime": "2024-03-11 02:00:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 186
+	},
+	{
+		"NextID": 188,
+		"StartTime": "2024-03-18 04:00:00",
+		"EndTime": "2024-03-25 02:00:00",
+		"SettleTime": "2024-03-25 02:00:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 187
+	},
+	{
+		"NextID": 189,
+		"StartTime": "2024-04-01 04:00:00",
+		"EndTime": "2024-04-08 02:00:00",
+		"SettleTime": "2024-04-08 02:00:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 188
+	},
+	{
+		"NextID": 190,
+		"StartTime": "2024-04-15 04:00:00",
+		"EndTime": "2024-04-22 02:00:00",
+		"SettleTime": "2024-04-22 02:00:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 189
+	},
+	{
+		"NextID": 191,
+		"StartTime": "2024-04-29 04:00:00",
+		"EndTime": "2024-05-06 02:00:00",
+		"SettleTime": "2024-05-06 02:00:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 190
+	},
+	{
+		"NextID": 192,
+		"StartTime": "2024-05-13 04:00:00",
+		"EndTime": "2024-05-20 02:00:00",
+		"SettleTime": "2024-05-20 02:00:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 191
+	},
+	{
+		"NextID": 193,
+		"StartTime": "2024-05-27 04:00:00",
+		"EndTime": "2024-06-03 02:00:00",
+		"SettleTime": "2024-06-03 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 192
+	},
+	{
+		"NextID": 194,
+		"StartTime": "2024-06-10 04:00:00",
+		"EndTime": "2024-06-17 02:00:00",
+		"SettleTime": "2024-06-17 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 193
+	},
+	{
+		"NextID": 195,
+		"StartTime": "2024-06-24 04:00:00",
+		"EndTime": "2024-07-01 02:00:00",
+		"SettleTime": "2024-07-01 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 194
+	},
+	{
+		"NextID": 196,
+		"StartTime": "2024-07-08 04:00:00",
+		"EndTime": "2024-07-15 02:00:00",
+		"SettleTime": "2024-07-15 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 195
+	},
+	{
+		"NextID": 197,
+		"StartTime": "2024-07-22 04:00:00",
+		"EndTime": "2024-07-29 02:00:00",
+		"SettleTime": "2024-07-29 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 196
+	},
+	{
+		"NextID": 198,
+		"StartTime": "2024-08-05 04:00:00",
+		"EndTime": "2024-08-12 02:00:00",
+		"SettleTime": "2024-08-12 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 197
+	},
+	{
+		"NextID": 199,
+		"StartTime": "2024-08-19 04:00:00",
+		"EndTime": "2024-08-26 02:00:00",
+		"SettleTime": "2024-08-26 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 198
+	},
+	{
+		"NextID": 200,
+		"StartTime": "2024-09-02 04:00:00",
+		"EndTime": "2024-09-09 02:00:00",
+		"SettleTime": "2024-09-09 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 199
+	},
+	{
+		"NextID": 201,
+		"StartTime": "2024-09-16 04:00:00",
+		"EndTime": "2024-09-23 02:00:00",
+		"SettleTime": "2024-09-23 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 200
+	},
+	{
+		"NextID": 202,
+		"StartTime": "2024-09-30 04:00:00",
+		"EndTime": "2024-10-07 02:00:00",
+		"SettleTime": "2024-10-07 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 201
+	},
+	{
+		"NextID": 203,
+		"StartTime": "2024-10-14 04:00:00",
+		"EndTime": "2024-10-21 02:00:00",
+		"SettleTime": "2024-10-21 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 202
+	},
+	{
+		"NextID": 204,
+		"StartTime": "2024-10-28 04:00:00",
+		"EndTime": "2024-11-04 02:00:00",
+		"SettleTime": "2024-11-04 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 203
+	},
+	{
+		"NextID": 205,
+		"StartTime": "2024-11-11 04:00:00",
+		"EndTime": "2024-11-18 02:00:00",
+		"SettleTime": "2024-11-18 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 204
+	},
+	{
+		"NextID": 206,
+		"StartTime": "2024-11-25 04:00:00",
+		"EndTime": "2024-12-02 02:00:00",
+		"SettleTime": "2024-12-02 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 205
+	},
+	{
+		"NextID": 207,
+		"StartTime": "2024-12-09 04:00:00",
+		"EndTime": "2024-12-16 02:00:00",
+		"SettleTime": "2024-12-16 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 206
+	},
+	{
+		"NextID": 208,
+		"StartTime": "2024-12-23 04:00:00",
+		"EndTime": "2024-12-30 02:00:00",
+		"SettleTime": "2024-12-30 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 207
+	},
+	{
+		"NextID": 209,
+		"StartTime": "2025-01-06 04:00:00",
+		"EndTime": "2025-01-13 02:00:00",
+		"SettleTime": "2025-01-13 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 208
+	},
+	{
+		"NextID": 210,
+		"StartTime": "2025-01-20 04:00:00",
+		"EndTime": "2025-01-27 02:00:00",
+		"SettleTime": "2025-01-27 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 209
+	},
+	{
+		"NextID": 211,
+		"StartTime": "2025-02-03 04:00:00",
+		"EndTime": "2025-02-10 02:00:00",
+		"SettleTime": "2025-02-10 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 210
+	},
+	{
+		"NextID": 212,
+		"StartTime": "2025-02-17 04:00:00",
+		"EndTime": "2025-02-24 02:00:00",
+		"SettleTime": "2025-02-24 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 211
+	},
+	{
+		"NextID": 213,
+		"StartTime": "2025-03-03 04:00:00",
+		"EndTime": "2025-03-10 02:00:00",
+		"SettleTime": "2025-03-10 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 212
+	},
+	{
+		"NextID": 214,
+		"StartTime": "2025-03-17 04:00:00",
+		"EndTime": "2025-03-24 02:00:00",
+		"SettleTime": "2025-03-24 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 213
+	},
+	{
+		"NextID": 215,
+		"StartTime": "2025-03-31 04:00:00",
+		"EndTime": "2025-04-07 02:00:00",
+		"SettleTime": "2025-04-07 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 214
+	},
+	{
+		"NextID": 216,
+		"StartTime": "2025-04-14 04:00:00",
+		"EndTime": "2025-04-21 02:00:00",
+		"SettleTime": "2025-04-21 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 215
+	},
+	{
+		"NextID": 217,
+		"StartTime": "2025-04-28 04:00:00",
+		"EndTime": "2025-05-05 02:00:00",
+		"SettleTime": "2025-05-05 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 216
+	},
+	{
+		"NextID": 218,
+		"StartTime": "2025-05-12 04:00:00",
+		"EndTime": "2025-05-19 02:00:00",
+		"SettleTime": "2025-05-19 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 217
+	},
+	{
+		"NextID": 219,
+		"StartTime": "2025-05-26 04:00:00",
+		"EndTime": "2025-06-02 02:00:00",
+		"SettleTime": "2025-06-02 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 218
+	},
+	{
+		"NextID": 220,
+		"StartTime": "2025-06-09 04:00:00",
+		"EndTime": "2025-06-16 02:00:00",
+		"SettleTime": "2025-06-16 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 219
+	},
+	{
+		"NextID": 221,
+		"StartTime": "2025-06-23 04:00:00",
+		"EndTime": "2025-06-30 02:00:00",
+		"SettleTime": "2025-06-30 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 220
+	},
+	{
+		"NextID": 222,
+		"StartTime": "2025-07-07 04:00:00",
+		"EndTime": "2025-07-14 02:00:00",
+		"SettleTime": "2025-07-14 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 221
+	},
+	{
+		"NextID": 223,
+		"StartTime": "2025-07-21 04:00:00",
+		"EndTime": "2025-07-28 02:00:00",
+		"SettleTime": "2025-07-28 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 222
+	},
+	{
+		"NextID": 224,
+		"StartTime": "2025-08-04 04:00:00",
+		"EndTime": "2025-08-11 02:00:00",
+		"SettleTime": "2025-08-11 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 223
+	},
+	{
+		"NextID": 225,
+		"StartTime": "2025-08-18 04:00:00",
+		"EndTime": "2025-08-25 02:00:00",
+		"SettleTime": "2025-08-25 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 224
+	},
+	{
+		"NextID": 226,
+		"StartTime": "2025-09-01 04:00:00",
+		"EndTime": "2025-09-08 02:00:00",
+		"SettleTime": "2025-09-08 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 225
+	},
+	{
+		"NextID": 227,
+		"StartTime": "2025-09-15 04:00:00",
+		"EndTime": "2025-09-22 02:00:00",
+		"SettleTime": "2025-09-22 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 226
+	},
+	{
+		"NextID": 228,
+		"StartTime": "2025-09-29 04:00:00",
+		"EndTime": "2025-10-06 02:00:00",
+		"SettleTime": "2025-10-06 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 227
+	},
+	{
+		"NextID": 229,
+		"StartTime": "2025-10-13 04:00:00",
+		"EndTime": "2025-10-20 02:00:00",
+		"SettleTime": "2025-10-20 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 228
+	},
+	{
+		"NextID": 230,
+		"StartTime": "2025-10-27 04:00:00",
+		"EndTime": "2025-11-03 02:00:00",
+		"SettleTime": "2025-11-03 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 229
+	},
+	{
+		"NextID": 231,
+		"StartTime": "2025-11-10 04:00:00",
+		"EndTime": "2025-11-17 02:00:00",
+		"SettleTime": "2025-11-17 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 230
+	},
+	{
+		"NextID": 232,
+		"StartTime": "2025-11-24 04:00:00",
+		"EndTime": "2025-12-01 02:00:00",
+		"SettleTime": "2025-12-01 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 231
+	},
+	{
+		"NextID": 233,
+		"StartTime": "2025-12-08 04:00:00",
+		"EndTime": "2025-12-15 02:00:00",
+		"SettleTime": "2025-12-15 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 232
+	},
+	{
+		"NextID": 234,
+		"StartTime": "2025-12-22 04:00:00",
+		"EndTime": "2025-12-29 02:00:00",
+		"SettleTime": "2025-12-29 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 233
+	},
+	{
+		"NextID": 235,
+		"StartTime": "2026-01-05 04:00:00",
+		"EndTime": "2026-01-12 02:00:00",
+		"SettleTime": "2026-01-12 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 234
+	},
+	{
+		"NextID": 236,
+		"StartTime": "2026-01-19 04:00:00",
+		"EndTime": "2026-01-26 02:00:00",
+		"SettleTime": "2026-01-26 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 235
+	},
+	{
+		"NextID": 237,
+		"StartTime": "2026-02-02 04:00:00",
+		"EndTime": "2026-02-09 02:00:00",
+		"SettleTime": "2026-02-09 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 236
+	},
+	{
+		"NextID": 238,
+		"StartTime": "2026-02-16 04:00:00",
+		"EndTime": "2026-02-23 02:00:00",
+		"SettleTime": "2026-02-23 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 237
+	},
+	{
+		"NextID": 239,
+		"StartTime": "2026-03-02 04:00:00",
+		"EndTime": "2026-03-09 02:00:00",
+		"SettleTime": "2026-03-09 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 238
+	},
+	{
+		"NextID": 240,
+		"StartTime": "2026-03-16 04:00:00",
+		"EndTime": "2026-03-23 02:00:00",
+		"SettleTime": "2026-03-23 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 239
+	},
+	{
+		"NextID": 241,
+		"StartTime": "2026-03-30 04:00:00",
+		"EndTime": "2026-04-06 02:00:00",
+		"SettleTime": "2026-04-06 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 240
+	},
+	{
+		"NextID": 242,
+		"StartTime": "2026-04-13 04:00:00",
+		"EndTime": "2026-04-20 02:00:00",
+		"SettleTime": "2026-04-20 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 241
+	},
+	{
+		"NextID": 243,
+		"StartTime": "2026-04-27 04:00:00",
+		"EndTime": "2026-05-04 02:00:00",
+		"SettleTime": "2026-05-04 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 242
+	},
+	{
+		"NextID": 244,
+		"StartTime": "2026-05-11 04:00:00",
+		"EndTime": "2026-05-18 02:00:00",
+		"SettleTime": "2026-05-18 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 243
+	},
+	{
+		"NextID": 245,
+		"StartTime": "2026-05-25 04:00:00",
+		"EndTime": "2026-06-01 02:00:00",
+		"SettleTime": "2026-06-01 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 244
+	},
+	{
+		"NextID": 246,
+		"StartTime": "2026-06-08 04:00:00",
+		"EndTime": "2026-06-15 02:00:00",
+		"SettleTime": "2026-06-15 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 245
+	},
+	{
+		"NextID": 247,
+		"StartTime": "2026-06-22 04:00:00",
+		"EndTime": "2026-06-29 02:00:00",
+		"SettleTime": "2026-06-29 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 246
+	},
+	{
+		"NextID": 248,
+		"StartTime": "2026-07-06 04:00:00",
+		"EndTime": "2026-07-13 02:00:00",
+		"SettleTime": "2026-07-13 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 247
+	},
+	{
+		"NextID": 249,
+		"StartTime": "2026-07-20 04:00:00",
+		"EndTime": "2026-07-27 02:00:00",
+		"SettleTime": "2026-07-27 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 248
+	},
+	{
+		"NextID": 250,
+		"StartTime": "2026-08-03 04:00:00",
+		"EndTime": "2026-08-10 02:00:00",
+		"SettleTime": "2026-08-10 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 249
+	},
+	{
+		"NextID": 251,
+		"StartTime": "2026-08-17 04:00:00",
+		"EndTime": "2026-08-24 02:00:00",
+		"SettleTime": "2026-08-24 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 250
+	},
+	{
+		"NextID": 252,
+		"StartTime": "2026-08-31 04:00:00",
+		"EndTime": "2026-09-07 02:00:00",
+		"SettleTime": "2026-09-07 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 251
+	},
+	{
+		"NextID": 253,
+		"StartTime": "2026-09-14 04:00:00",
+		"EndTime": "2026-09-21 02:00:00",
+		"SettleTime": "2026-09-21 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 252
+	},
+	{
+		"NextID": 254,
+		"StartTime": "2026-09-28 04:00:00",
+		"EndTime": "2026-10-05 02:00:00",
+		"SettleTime": "2026-10-05 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 253
+	},
+	{
+		"NextID": 255,
+		"StartTime": "2026-10-12 04:00:00",
+		"EndTime": "2026-10-19 02:00:00",
+		"SettleTime": "2026-10-19 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 254
+	},
+	{
+		"NextID": 256,
+		"StartTime": "2026-10-26 04:00:00",
+		"EndTime": "2026-11-02 02:00:00",
+		"SettleTime": "2026-11-02 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 255
+	},
+	{
+		"NextID": 257,
+		"StartTime": "2026-11-09 04:00:00",
+		"EndTime": "2026-11-16 02:00:00",
+		"SettleTime": "2026-11-16 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 256
+	},
+	{
+		"NextID": 258,
+		"StartTime": "2026-11-23 04:00:00",
+		"EndTime": "2026-11-30 02:00:00",
+		"SettleTime": "2026-11-30 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 257
+	},
+	{
+		"NextID": 259,
+		"StartTime": "2026-12-07 04:00:00",
+		"EndTime": "2026-12-14 02:00:00",
+		"SettleTime": "2026-12-14 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 258
+	},
+	{
+		"NextID": 260,
+		"StartTime": "2026-12-21 04:00:00",
+		"EndTime": "2026-12-28 02:00:00",
+		"SettleTime": "2026-12-28 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 259
+	},
+	{
+		"NextID": 261,
+		"StartTime": "2027-01-04 04:00:00",
+		"EndTime": "2027-01-11 02:00:00",
+		"SettleTime": "2027-01-11 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 260
+	},
+	{
+		"NextID": 262,
+		"StartTime": "2027-01-18 04:00:00",
+		"EndTime": "2027-01-25 02:00:00",
+		"SettleTime": "2027-01-25 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 261
+	},
+	{
+		"NextID": 263,
+		"StartTime": "2027-02-01 04:00:00",
+		"EndTime": "2027-02-08 02:00:00",
+		"SettleTime": "2027-02-08 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 262
+	},
+	{
+		"NextID": 264,
+		"StartTime": "2027-02-15 04:00:00",
+		"EndTime": "2027-02-22 02:00:00",
+		"SettleTime": "2027-02-22 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 263
+	},
+	{
+		"NextID": 265,
+		"StartTime": "2027-03-01 04:00:00",
+		"EndTime": "2027-03-08 02:00:00",
+		"SettleTime": "2027-03-08 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 264
+	},
+	{
+		"NextID": 266,
+		"StartTime": "2027-03-15 04:00:00",
+		"EndTime": "2027-03-22 02:00:00",
+		"SettleTime": "2027-03-22 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 265
+	},
+	{
+		"NextID": 267,
+		"StartTime": "2027-03-29 04:00:00",
+		"EndTime": "2027-04-05 02:00:00",
+		"SettleTime": "2027-04-05 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 266
+	},
+	{
+		"NextID": 268,
+		"StartTime": "2027-04-12 04:00:00",
+		"EndTime": "2027-04-19 02:00:00",
+		"SettleTime": "2027-04-19 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 267
+	},
+	{
+		"NextID": 269,
+		"StartTime": "2027-04-26 04:00:00",
+		"EndTime": "2027-05-03 02:00:00",
+		"SettleTime": "2027-05-03 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 268
+	},
+	{
+		"NextID": 270,
+		"StartTime": "2027-05-10 04:00:00",
+		"EndTime": "2027-05-17 02:00:00",
+		"SettleTime": "2027-05-17 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 269
+	},
+	{
+		"NextID": 271,
+		"StartTime": "2027-05-24 04:00:00",
+		"EndTime": "2027-05-31 02:00:00",
+		"SettleTime": "2027-05-31 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 270
+	},
+	{
+		"NextID": 272,
+		"StartTime": "2027-06-07 04:00:00",
+		"EndTime": "2027-06-14 02:00:00",
+		"SettleTime": "2027-06-14 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 271
+	},
+	{
+		"NextID": 273,
+		"StartTime": "2027-06-21 04:00:00",
+		"EndTime": "2027-06-28 02:00:00",
+		"SettleTime": "2027-06-28 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 272
+	},
+	{
+		"NextID": 274,
+		"StartTime": "2027-07-05 04:00:00",
+		"EndTime": "2027-07-12 02:00:00",
+		"SettleTime": "2027-07-12 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 273
+	},
+	{
+		"NextID": 275,
+		"StartTime": "2027-07-19 04:00:00",
+		"EndTime": "2027-07-26 02:00:00",
+		"SettleTime": "2027-07-26 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 274
+	},
+	{
+		"NextID": 276,
+		"StartTime": "2027-08-02 04:00:00",
+		"EndTime": "2027-08-09 02:00:00",
+		"SettleTime": "2027-08-09 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 275
+	},
+	{
+		"NextID": 277,
+		"StartTime": "2027-08-16 04:00:00",
+		"EndTime": "2027-08-23 02:00:00",
+		"SettleTime": "2027-08-23 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 276
+	},
+	{
+		"NextID": 278,
+		"StartTime": "2027-08-30 04:00:00",
+		"EndTime": "2027-09-06 02:00:00",
+		"SettleTime": "2027-09-06 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 277
+	},
+	{
+		"NextID": 279,
+		"StartTime": "2027-09-13 04:00:00",
+		"EndTime": "2027-09-20 02:00:00",
+		"SettleTime": "2027-09-20 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 278
+	},
+	{
+		"NextID": 280,
+		"StartTime": "2027-09-27 04:00:00",
+		"EndTime": "2027-10-04 02:00:00",
+		"SettleTime": "2027-10-04 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 279
+	},
+	{
+		"NextID": 281,
+		"StartTime": "2027-10-11 04:00:00",
+		"EndTime": "2027-10-18 02:00:00",
+		"SettleTime": "2027-10-18 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 280
+	},
+	{
+		"NextID": 282,
+		"StartTime": "2027-10-25 04:00:00",
+		"EndTime": "2027-11-01 02:00:00",
+		"SettleTime": "2027-11-01 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 281
+	},
+	{
+		"NextID": 283,
+		"StartTime": "2027-11-08 04:00:00",
+		"EndTime": "2027-11-15 02:00:00",
+		"SettleTime": "2027-11-15 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 282
+	},
+	{
+		"NextID": 284,
+		"StartTime": "2027-11-22 04:00:00",
+		"EndTime": "2027-11-29 02:00:00",
+		"SettleTime": "2027-11-29 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 283
+	},
+	{
+		"NextID": 285,
+		"StartTime": "2027-12-06 04:00:00",
+		"EndTime": "2027-12-13 02:00:00",
+		"SettleTime": "2027-12-13 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 284
+	},
+	{
+		"NextID": 286,
+		"StartTime": "2027-12-20 04:00:00",
+		"EndTime": "2027-12-27 02:00:00",
+		"SettleTime": "2027-12-27 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 285
+	},
+	{
+		"NextID": 287,
+		"StartTime": "2028-01-03 04:00:00",
+		"EndTime": "2028-01-10 02:00:00",
+		"SettleTime": "2028-01-10 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 286
+	},
+	{
+		"NextID": 288,
+		"StartTime": "2028-01-17 04:00:00",
+		"EndTime": "2028-01-24 02:00:00",
+		"SettleTime": "2028-01-24 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 287
+	},
+	{
+		"NextID": 289,
+		"StartTime": "2028-01-31 04:00:00",
+		"EndTime": "2028-02-07 02:00:00",
+		"SettleTime": "2028-02-07 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 288
+	},
+	{
+		"NextID": 290,
+		"StartTime": "2028-02-14 04:00:00",
+		"EndTime": "2028-02-21 02:00:00",
+		"SettleTime": "2028-02-21 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 289
+	},
+	{
+		"NextID": 291,
+		"StartTime": "2028-02-28 04:00:00",
+		"EndTime": "2028-03-06 02:00:00",
+		"SettleTime": "2028-03-06 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 290
+	},
+	{
+		"NextID": 292,
+		"StartTime": "2028-03-13 04:00:00",
+		"EndTime": "2028-03-20 02:00:00",
+		"SettleTime": "2028-03-20 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 291
+	},
+	{
+		"NextID": 293,
+		"StartTime": "2028-03-27 04:00:00",
+		"EndTime": "2028-04-03 02:00:00",
+		"SettleTime": "2028-04-03 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 292
+	},
+	{
+		"NextID": 294,
+		"StartTime": "2028-04-10 04:00:00",
+		"EndTime": "2028-04-17 02:00:00",
+		"SettleTime": "2028-04-17 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 293
+	},
+	{
+		"NextID": 295,
+		"StartTime": "2028-04-24 04:00:00",
+		"EndTime": "2028-05-01 02:00:00",
+		"SettleTime": "2028-05-01 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 294
+	},
+	{
+		"NextID": 296,
+		"StartTime": "2028-05-08 04:00:00",
+		"EndTime": "2028-05-15 02:00:00",
+		"SettleTime": "2028-05-15 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 295
+	},
+	{
+		"NextID": 297,
+		"StartTime": "2028-05-22 04:00:00",
+		"EndTime": "2028-05-29 02:00:00",
+		"SettleTime": "2028-05-29 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 296
+	},
+	{
+		"NextID": 298,
+		"StartTime": "2028-06-05 04:00:00",
+		"EndTime": "2028-06-12 02:00:00",
+		"SettleTime": "2028-06-12 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 297
+	},
+	{
+		"NextID": 299,
+		"StartTime": "2028-06-19 04:00:00",
+		"EndTime": "2028-06-26 02:00:00",
+		"SettleTime": "2028-06-26 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 298
+	},
+	{
+		"NextID": 300,
+		"StartTime": "2028-07-03 04:00:00",
+		"EndTime": "2028-07-10 02:00:00",
+		"SettleTime": "2028-07-10 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 299
+	},
+	{
+		"NextID": 301,
+		"StartTime": "2028-07-17 04:00:00",
+		"EndTime": "2028-07-24 02:00:00",
+		"SettleTime": "2028-07-24 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 300
+	},
+	{
+		"NextID": 302,
+		"StartTime": "2028-07-31 04:00:00",
+		"EndTime": "2028-08-07 02:00:00",
+		"SettleTime": "2028-08-07 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 301
+	},
+	{
+		"NextID": 303,
+		"StartTime": "2028-08-14 04:00:00",
+		"EndTime": "2028-08-21 02:00:00",
+		"SettleTime": "2028-08-21 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 302
+	},
+	{
+		"NextID": 304,
+		"StartTime": "2028-08-28 04:00:00",
+		"EndTime": "2028-09-04 02:00:00",
+		"SettleTime": "2028-09-04 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 303
+	},
+	{
+		"NextID": 305,
+		"StartTime": "2028-09-11 04:00:00",
+		"EndTime": "2028-09-18 02:00:00",
+		"SettleTime": "2028-09-18 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 304
+	},
+	{
+		"NextID": 306,
+		"StartTime": "2028-09-25 04:00:00",
+		"EndTime": "2028-10-02 02:00:00",
+		"SettleTime": "2028-10-02 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 305
+	},
+	{
+		"NextID": 307,
+		"StartTime": "2028-10-09 04:00:00",
+		"EndTime": "2028-10-16 02:00:00",
+		"SettleTime": "2028-10-16 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 306
+	},
+	{
+		"NextID": 308,
+		"StartTime": "2028-10-23 04:00:00",
+		"EndTime": "2028-10-30 02:00:00",
+		"SettleTime": "2028-10-30 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 307
+	},
+	{
+		"NextID": 309,
+		"StartTime": "2028-11-06 04:00:00",
+		"EndTime": "2028-11-13 02:00:00",
+		"SettleTime": "2028-11-13 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 308
+	},
+	{
+		"NextID": 310,
+		"StartTime": "2028-11-20 04:00:00",
+		"EndTime": "2028-11-27 02:00:00",
+		"SettleTime": "2028-11-27 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 309
+	},
+	{
+		"NextID": 311,
+		"StartTime": "2028-12-04 04:00:00",
+		"EndTime": "2028-12-11 02:00:00",
+		"SettleTime": "2028-12-11 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 310
+	},
+	{
+		"NextID": 312,
+		"StartTime": "2028-12-18 04:00:00",
+		"EndTime": "2028-12-25 02:00:00",
+		"SettleTime": "2028-12-25 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 311
+	},
+	{
+		"NextID": 313,
+		"StartTime": "2029-01-01 04:00:00",
+		"EndTime": "2029-01-08 02:00:00",
+		"SettleTime": "2029-01-08 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 312
+	},
+	{
+		"NextID": 314,
+		"StartTime": "2029-01-15 04:00:00",
+		"EndTime": "2029-01-22 02:00:00",
+		"SettleTime": "2029-01-22 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 313
+	},
+	{
+		"NextID": 315,
+		"StartTime": "2029-01-29 04:00:00",
+		"EndTime": "2029-02-05 02:00:00",
+		"SettleTime": "2029-02-05 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 314
+	},
+	{
+		"NextID": 316,
+		"StartTime": "2029-02-12 04:00:00",
+		"EndTime": "2029-02-19 02:00:00",
+		"SettleTime": "2029-02-19 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 315
+	},
+	{
+		"NextID": 317,
+		"StartTime": "2029-02-26 04:00:00",
+		"EndTime": "2029-03-05 02:00:00",
+		"SettleTime": "2029-03-05 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 316
+	},
+	{
+		"NextID": 318,
+		"StartTime": "2029-03-12 04:00:00",
+		"EndTime": "2029-03-19 02:00:00",
+		"SettleTime": "2029-03-19 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 317
+	},
+	{
+		"NextID": 319,
+		"StartTime": "2029-03-26 04:00:00",
+		"EndTime": "2029-04-02 02:00:00",
+		"SettleTime": "2029-04-02 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 318
+	},
+	{
+		"NextID": 320,
+		"StartTime": "2029-04-09 04:00:00",
+		"EndTime": "2029-04-16 02:00:00",
+		"SettleTime": "2029-04-16 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 319
+	},
+	{
+		"NextID": 321,
+		"StartTime": "2029-04-23 04:00:00",
+		"EndTime": "2029-04-30 02:00:00",
+		"SettleTime": "2029-04-30 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 320
+	},
+	{
+		"NextID": 322,
+		"StartTime": "2029-05-07 04:00:00",
+		"EndTime": "2029-05-14 02:00:00",
+		"SettleTime": "2029-05-14 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 321
+	},
+	{
+		"NextID": 323,
+		"StartTime": "2029-05-21 04:00:00",
+		"EndTime": "2029-05-28 02:00:00",
+		"SettleTime": "2029-05-28 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 322
+	},
+	{
+		"NextID": 324,
+		"StartTime": "2029-06-04 04:00:00",
+		"EndTime": "2029-06-11 02:00:00",
+		"SettleTime": "2029-06-11 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 323
+	},
+	{
+		"NextID": 325,
+		"StartTime": "2029-06-18 04:00:00",
+		"EndTime": "2029-06-25 02:00:00",
+		"SettleTime": "2029-06-25 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 324
+	},
+	{
+		"NextID": 326,
+		"StartTime": "2029-07-02 04:00:00",
+		"EndTime": "2029-07-09 02:00:00",
+		"SettleTime": "2029-07-09 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 325
+	},
+	{
+		"NextID": 327,
+		"StartTime": "2029-07-16 04:00:00",
+		"EndTime": "2029-07-23 02:00:00",
+		"SettleTime": "2029-07-23 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 326
+	},
+	{
+		"NextID": 328,
+		"StartTime": "2029-07-30 04:00:00",
+		"EndTime": "2029-08-06 02:00:00",
+		"SettleTime": "2029-08-06 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 327
+	},
+	{
+		"NextID": 329,
+		"StartTime": "2029-08-13 04:00:00",
+		"EndTime": "2029-08-20 02:00:00",
+		"SettleTime": "2029-08-20 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 328
+	},
+	{
+		"NextID": 330,
+		"StartTime": "2029-08-27 04:00:00",
+		"EndTime": "2029-09-03 02:00:00",
+		"SettleTime": "2029-09-03 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 329
+	},
+	{
+		"NextID": 331,
+		"StartTime": "2029-09-10 04:00:00",
+		"EndTime": "2029-09-17 02:00:00",
+		"SettleTime": "2029-09-17 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 330
+	},
+	{
+		"NextID": 332,
+		"StartTime": "2029-09-24 04:00:00",
+		"EndTime": "2029-10-01 02:00:00",
+		"SettleTime": "2029-10-01 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 331
+	},
+	{
+		"NextID": 333,
+		"StartTime": "2029-10-08 04:00:00",
+		"EndTime": "2029-10-15 02:00:00",
+		"SettleTime": "2029-10-15 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 332
+	},
+	{
+		"NextID": 334,
+		"StartTime": "2029-10-22 04:00:00",
+		"EndTime": "2029-10-29 02:00:00",
+		"SettleTime": "2029-10-29 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 333
+	},
+	{
+		"NextID": 335,
+		"StartTime": "2029-11-05 04:00:00",
+		"EndTime": "2029-11-12 02:00:00",
+		"SettleTime": "2029-11-12 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 334
+	},
+	{
+		"NextID": 336,
+		"StartTime": "2029-11-19 04:00:00",
+		"EndTime": "2029-11-26 02:00:00",
+		"SettleTime": "2029-11-26 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 335
+	},
+	{
+		"NextID": 337,
+		"StartTime": "2029-12-03 04:00:00",
+		"EndTime": "2029-12-10 02:00:00",
+		"SettleTime": "2029-12-10 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 336
+	},
+	{
+		"NextID": 338,
+		"StartTime": "2029-12-17 04:00:00",
+		"EndTime": "2029-12-24 02:00:00",
+		"SettleTime": "2029-12-24 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 337
+	},
+	{
+		"NextID": 339,
+		"StartTime": "2029-12-31 04:00:00",
+		"EndTime": "2030-01-07 02:00:00",
+		"SettleTime": "2030-01-07 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 338
+	},
+	{
+		"NextID": 340,
+		"StartTime": "2030-01-14 04:00:00",
+		"EndTime": "2030-01-21 02:00:00",
+		"SettleTime": "2030-01-21 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 339
+	},
+	{
+		"NextID": 341,
+		"StartTime": "2030-01-28 04:00:00",
+		"EndTime": "2030-02-04 02:00:00",
+		"SettleTime": "2030-02-04 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 340
+	},
+	{
+		"NextID": 342,
+		"StartTime": "2030-02-11 04:00:00",
+		"EndTime": "2030-02-18 02:00:00",
+		"SettleTime": "2030-02-18 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 341
+	},
+	{
+		"NextID": 343,
+		"StartTime": "2030-02-25 04:00:00",
+		"EndTime": "2030-03-04 02:00:00",
+		"SettleTime": "2030-03-04 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 342
+	},
+	{
+		"NextID": 344,
+		"StartTime": "2030-03-11 04:00:00",
+		"EndTime": "2030-03-18 02:00:00",
+		"SettleTime": "2030-03-18 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 343
+	},
+	{
+		"NextID": 345,
+		"StartTime": "2030-03-25 04:00:00",
+		"EndTime": "2030-04-01 02:00:00",
+		"SettleTime": "2030-04-01 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 344
+	},
+	{
+		"NextID": 346,
+		"StartTime": "2030-04-08 04:00:00",
+		"EndTime": "2030-04-15 02:00:00",
+		"SettleTime": "2030-04-15 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 345
+	},
+	{
+		"NextID": 347,
+		"StartTime": "2030-04-22 04:00:00",
+		"EndTime": "2030-04-29 02:00:00",
+		"SettleTime": "2030-04-29 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 346
+	},
+	{
+		"NextID": 348,
+		"StartTime": "2030-05-06 04:00:00",
+		"EndTime": "2030-05-13 02:00:00",
+		"SettleTime": "2030-05-13 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 347
+	},
+	{
+		"NextID": 349,
+		"StartTime": "2030-05-20 04:00:00",
+		"EndTime": "2030-05-27 02:00:00",
+		"SettleTime": "2030-05-27 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 348
+	},
+	{
+		"NextID": 350,
+		"StartTime": "2030-06-03 04:00:00",
+		"EndTime": "2030-06-10 02:00:00",
+		"SettleTime": "2030-06-10 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 349
+	},
+	{
+		"NextID": 351,
+		"StartTime": "2030-06-17 04:00:00",
+		"EndTime": "2030-06-24 02:00:00",
+		"SettleTime": "2030-06-24 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 350
+	},
+	{
+		"NextID": 352,
+		"StartTime": "2030-07-01 04:00:00",
+		"EndTime": "2030-07-08 02:00:00",
+		"SettleTime": "2030-07-08 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 351
+	},
+	{
+		"NextID": 353,
+		"StartTime": "2030-07-15 04:00:00",
+		"EndTime": "2030-07-22 02:00:00",
+		"SettleTime": "2030-07-22 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 352
+	},
+	{
+		"NextID": 354,
+		"StartTime": "2030-07-29 04:00:00",
+		"EndTime": "2030-08-05 02:00:00",
+		"SettleTime": "2030-08-05 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 353
+	},
+	{
+		"NextID": 355,
+		"StartTime": "2030-08-12 04:00:00",
+		"EndTime": "2030-08-19 02:00:00",
+		"SettleTime": "2030-08-19 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 354
+	},
+	{
+		"NextID": 356,
+		"StartTime": "2030-08-26 04:00:00",
+		"EndTime": "2030-09-02 02:00:00",
+		"SettleTime": "2030-09-02 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 355
+	},
+	{
+		"NextID": 357,
+		"StartTime": "2030-09-09 04:00:00",
+		"EndTime": "2030-09-16 02:00:00",
+		"SettleTime": "2030-09-16 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 356
+	},
+	{
+		"NextID": 358,
+		"StartTime": "2030-09-23 04:00:00",
+		"EndTime": "2030-09-30 02:00:00",
+		"SettleTime": "2030-09-30 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 357
+	},
+	{
+		"NextID": 359,
+		"StartTime": "2030-10-07 04:00:00",
+		"EndTime": "2030-10-14 02:00:00",
+		"SettleTime": "2030-10-14 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 358
+	},
+	{
+		"NextID": 360,
+		"StartTime": "2030-10-21 04:00:00",
+		"EndTime": "2030-10-28 02:00:00",
+		"SettleTime": "2030-10-28 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 359
+	},
+	{
+		"NextID": 361,
+		"StartTime": "2030-11-04 04:00:00",
+		"EndTime": "2030-11-11 02:00:00",
+		"SettleTime": "2030-11-11 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 360
+	},
+	{
+		"NextID": 362,
+		"StartTime": "2030-11-18 04:00:00",
+		"EndTime": "2030-11-25 02:00:00",
+		"SettleTime": "2030-11-25 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 361
+	},
+	{
+		"NextID": 363,
+		"StartTime": "2030-12-02 04:00:00",
+		"EndTime": "2030-12-09 02:00:00",
+		"SettleTime": "2030-12-09 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 362
+	},
+	{
+		"NextID": 364,
+		"StartTime": "2030-12-16 04:00:00",
+		"EndTime": "2030-12-23 02:00:00",
+		"SettleTime": "2030-12-23 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 363
+	},
+	{
+		"NextID": 365,
+		"StartTime": "2030-12-30 04:00:00",
+		"EndTime": "2031-01-06 02:00:00",
+		"SettleTime": "2031-01-06 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 364
+	},
+	{
+		"NextID": 366,
+		"StartTime": "2031-01-13 04:00:00",
+		"EndTime": "2031-01-20 02:00:00",
+		"SettleTime": "2031-01-20 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 365
+	},
+	{
+		"NextID": 367,
+		"StartTime": "2031-01-27 04:00:00",
+		"EndTime": "2031-02-03 02:00:00",
+		"SettleTime": "2031-02-03 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 366
+	},
+	{
+		"NextID": 368,
+		"StartTime": "2031-02-10 04:00:00",
+		"EndTime": "2031-02-17 02:00:00",
+		"SettleTime": "2031-02-17 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 367
+	},
+	{
+		"NextID": 369,
+		"StartTime": "2031-02-24 04:00:00",
+		"EndTime": "2031-03-03 02:00:00",
+		"SettleTime": "2031-03-03 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 368
+	},
+	{
+		"NextID": 370,
+		"StartTime": "2031-03-10 04:00:00",
+		"EndTime": "2031-03-17 02:00:00",
+		"SettleTime": "2031-03-17 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 369
+	},
+	{
+		"NextID": 371,
+		"StartTime": "2031-03-24 04:00:00",
+		"EndTime": "2031-03-31 02:00:00",
+		"SettleTime": "2031-03-31 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 370
+	},
+	{
+		"NextID": 372,
+		"StartTime": "2031-04-07 04:00:00",
+		"EndTime": "2031-04-14 02:00:00",
+		"SettleTime": "2031-04-14 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 371
+	},
+	{
+		"NextID": 373,
+		"StartTime": "2031-04-21 04:00:00",
+		"EndTime": "2031-04-28 02:00:00",
+		"SettleTime": "2031-04-28 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 372
+	},
+	{
+		"NextID": 374,
+		"StartTime": "2031-05-05 04:00:00",
+		"EndTime": "2031-05-12 02:00:00",
+		"SettleTime": "2031-05-12 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 373
+	},
+	{
+		"NextID": 375,
+		"StartTime": "2031-05-19 04:00:00",
+		"EndTime": "2031-05-26 02:00:00",
+		"SettleTime": "2031-05-26 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 374
+	},
+	{
+		"NextID": 376,
+		"StartTime": "2031-06-02 04:00:00",
+		"EndTime": "2031-06-09 02:00:00",
+		"SettleTime": "2031-06-09 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 375
+	},
+	{
+		"NextID": 377,
+		"StartTime": "2031-06-16 04:00:00",
+		"EndTime": "2031-06-23 02:00:00",
+		"SettleTime": "2031-06-23 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 376
+	},
+	{
+		"NextID": 378,
+		"StartTime": "2031-06-30 04:00:00",
+		"EndTime": "2031-07-07 02:00:00",
+		"SettleTime": "2031-07-07 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 377
+	},
+	{
+		"NextID": 379,
+		"StartTime": "2031-07-14 04:00:00",
+		"EndTime": "2031-07-21 02:00:00",
+		"SettleTime": "2031-07-21 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 378
+	},
+	{
+		"NextID": 380,
+		"StartTime": "2031-07-28 04:00:00",
+		"EndTime": "2031-08-04 02:00:00",
+		"SettleTime": "2031-08-04 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 379
+	},
+	{
+		"NextID": 381,
+		"StartTime": "2031-08-11 04:00:00",
+		"EndTime": "2031-08-18 02:00:00",
+		"SettleTime": "2031-08-18 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 380
+	},
+	{
+		"NextID": 382,
+		"StartTime": "2031-08-25 04:00:00",
+		"EndTime": "2031-09-01 02:00:00",
+		"SettleTime": "2031-09-01 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 381
+	},
+	{
+		"NextID": 383,
+		"StartTime": "2031-09-08 04:00:00",
+		"EndTime": "2031-09-15 02:00:00",
+		"SettleTime": "2031-09-15 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 382
+	},
+	{
+		"NextID": 384,
+		"StartTime": "2031-09-22 04:00:00",
+		"EndTime": "2031-09-29 02:00:00",
+		"SettleTime": "2031-09-29 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 383
+	},
+	{
+		"NextID": 385,
+		"StartTime": "2031-10-06 04:00:00",
+		"EndTime": "2031-10-13 02:00:00",
+		"SettleTime": "2031-10-13 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 384
+	},
+	{
+		"NextID": 386,
+		"StartTime": "2031-10-20 04:00:00",
+		"EndTime": "2031-10-27 02:00:00",
+		"SettleTime": "2031-10-27 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 385
+	},
+	{
+		"NextID": 387,
+		"StartTime": "2031-11-03 04:00:00",
+		"EndTime": "2031-11-10 02:00:00",
+		"SettleTime": "2031-11-10 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 386
+	},
+	{
+		"NextID": 388,
+		"StartTime": "2031-11-17 04:00:00",
+		"EndTime": "2031-11-24 02:00:00",
+		"SettleTime": "2031-11-24 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 387
+	},
+	{
+		"NextID": 389,
+		"StartTime": "2031-12-01 04:00:00",
+		"EndTime": "2031-12-08 02:00:00",
+		"SettleTime": "2031-12-08 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 388
+	},
+	{
+		"NextID": 390,
+		"StartTime": "2031-12-15 04:00:00",
+		"EndTime": "2031-12-22 02:00:00",
+		"SettleTime": "2031-12-22 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 389
+	},
+	{
+		"NextID": 391,
+		"StartTime": "2031-12-29 04:00:00",
+		"EndTime": "2032-01-05 02:00:00",
+		"SettleTime": "2032-01-05 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 390
+	},
+	{
+		"NextID": 392,
+		"StartTime": "2032-01-12 04:00:00",
+		"EndTime": "2032-01-19 02:00:00",
+		"SettleTime": "2032-01-19 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 391
+	},
+	{
+		"NextID": 393,
+		"StartTime": "2032-01-26 04:00:00",
+		"EndTime": "2032-02-02 02:00:00",
+		"SettleTime": "2032-02-02 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 392
+	},
+	{
+		"NextID": 394,
+		"StartTime": "2032-02-09 04:00:00",
+		"EndTime": "2032-02-16 02:00:00",
+		"SettleTime": "2032-02-16 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 393
+	},
+	{
+		"NextID": 395,
+		"StartTime": "2032-02-23 04:00:00",
+		"EndTime": "2032-03-01 02:00:00",
+		"SettleTime": "2032-03-01 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 394
+	},
+	{
+		"NextID": 396,
+		"StartTime": "2032-03-08 04:00:00",
+		"EndTime": "2032-03-15 02:00:00",
+		"SettleTime": "2032-03-15 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 395
+	},
+	{
+		"NextID": 397,
+		"StartTime": "2032-03-22 04:00:00",
+		"EndTime": "2032-03-29 02:00:00",
+		"SettleTime": "2032-03-29 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 396
+	},
+	{
+		"NextID": 398,
+		"StartTime": "2032-04-05 04:00:00",
+		"EndTime": "2032-04-12 02:00:00",
+		"SettleTime": "2032-04-12 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 397
+	},
+	{
+		"NextID": 399,
+		"StartTime": "2032-04-19 04:00:00",
+		"EndTime": "2032-04-26 02:00:00",
+		"SettleTime": "2032-04-26 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 398
+	},
+	{
+		"NextID": 400,
+		"StartTime": "2032-05-03 04:00:00",
+		"EndTime": "2032-05-10 02:00:00",
+		"SettleTime": "2032-05-10 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 399
+	},
+	{
+		"NextID": 401,
+		"StartTime": "2032-05-17 04:00:00",
+		"EndTime": "2032-05-24 02:00:00",
+		"SettleTime": "2032-05-24 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 400
+	},
+	{
+		"NextID": 402,
+		"StartTime": "2032-05-31 04:00:00",
+		"EndTime": "2032-06-07 02:00:00",
+		"SettleTime": "2032-06-07 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 401
+	},
+	{
+		"NextID": 403,
+		"StartTime": "2032-06-14 04:00:00",
+		"EndTime": "2032-06-21 02:00:00",
+		"SettleTime": "2032-06-21 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 402
+	},
+	{
+		"NextID": 404,
+		"StartTime": "2032-06-28 04:00:00",
+		"EndTime": "2032-07-05 02:00:00",
+		"SettleTime": "2032-07-05 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 403
+	},
+	{
+		"NextID": 405,
+		"StartTime": "2032-07-12 04:00:00",
+		"EndTime": "2032-07-19 02:00:00",
+		"SettleTime": "2032-07-19 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 404
+	},
+	{
+		"NextID": 406,
+		"StartTime": "2032-07-26 04:00:00",
+		"EndTime": "2032-08-02 02:00:00",
+		"SettleTime": "2032-08-02 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 405
+	},
+	{
+		"NextID": 407,
+		"StartTime": "2032-08-09 04:00:00",
+		"EndTime": "2032-08-16 02:00:00",
+		"SettleTime": "2032-08-16 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 406
+	},
+	{
+		"NextID": 408,
+		"StartTime": "2032-08-23 04:00:00",
+		"EndTime": "2032-08-30 02:00:00",
+		"SettleTime": "2032-08-30 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 407
+	},
+	{
+		"NextID": 409,
+		"StartTime": "2032-09-06 04:00:00",
+		"EndTime": "2032-09-13 02:00:00",
+		"SettleTime": "2032-09-13 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 408
+	},
+	{
+		"NextID": 410,
+		"StartTime": "2032-09-20 04:00:00",
+		"EndTime": "2032-09-27 02:00:00",
+		"SettleTime": "2032-09-27 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 409
+	},
+	{
+		"NextID": 411,
+		"StartTime": "2032-10-04 04:00:00",
+		"EndTime": "2032-10-11 02:00:00",
+		"SettleTime": "2032-10-11 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 410
+	},
+	{
+		"NextID": 412,
+		"StartTime": "2032-10-18 04:00:00",
+		"EndTime": "2032-10-25 02:00:00",
+		"SettleTime": "2032-10-25 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 411
+	},
+	{
+		"NextID": 413,
+		"StartTime": "2032-11-01 04:00:00",
+		"EndTime": "2032-11-08 02:00:00",
+		"SettleTime": "2032-11-08 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 412
+	},
+	{
+		"NextID": 414,
+		"StartTime": "2032-11-15 04:00:00",
+		"EndTime": "2032-11-22 02:00:00",
+		"SettleTime": "2032-11-22 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 413
+	},
+	{
+		"NextID": 415,
+		"StartTime": "2032-11-29 04:00:00",
+		"EndTime": "2032-12-06 02:00:00",
+		"SettleTime": "2032-12-06 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 414
+	},
+	{
+		"NextID": 416,
+		"StartTime": "2032-12-13 04:00:00",
+		"EndTime": "2032-12-20 02:00:00",
+		"SettleTime": "2032-12-20 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 415
+	},
+	{
+		"NextID": 417,
+		"StartTime": "2032-12-27 04:00:00",
+		"EndTime": "2033-01-03 02:00:00",
+		"SettleTime": "2033-01-03 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 416
+	},
+	{
+		"NextID": 418,
+		"StartTime": "2033-01-10 04:00:00",
+		"EndTime": "2033-01-17 02:00:00",
+		"SettleTime": "2033-01-17 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 417
+	},
+	{
+		"NextID": 419,
+		"StartTime": "2033-01-24 04:00:00",
+		"EndTime": "2033-01-31 02:00:00",
+		"SettleTime": "2033-01-31 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 418
+	},
+	{
+		"NextID": 420,
+		"StartTime": "2033-02-07 04:00:00",
+		"EndTime": "2033-02-14 02:00:00",
+		"SettleTime": "2033-02-14 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 419
+	},
+	{
+		"NextID": 421,
+		"StartTime": "2033-02-21 04:00:00",
+		"EndTime": "2033-02-28 02:00:00",
+		"SettleTime": "2033-02-28 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 420
+	},
+	{
+		"NextID": 422,
+		"StartTime": "2033-03-07 04:00:00",
+		"EndTime": "2033-03-14 02:00:00",
+		"SettleTime": "2033-03-14 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 421
+	},
+	{
+		"NextID": 423,
+		"StartTime": "2033-03-21 04:00:00",
+		"EndTime": "2033-03-28 02:00:00",
+		"SettleTime": "2033-03-28 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 422
+	},
+	{
+		"NextID": 424,
+		"StartTime": "2033-04-04 04:00:00",
+		"EndTime": "2033-04-11 02:00:00",
+		"SettleTime": "2033-04-11 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 423
+	},
+	{
+		"NextID": 425,
+		"StartTime": "2033-04-18 04:00:00",
+		"EndTime": "2033-04-25 02:00:00",
+		"SettleTime": "2033-04-25 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 424
+	},
+	{
+		"NextID": 426,
+		"StartTime": "2033-05-02 04:00:00",
+		"EndTime": "2033-05-09 02:00:00",
+		"SettleTime": "2033-05-09 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 425
+	},
+	{
+		"NextID": 427,
+		"StartTime": "2033-05-16 04:00:00",
+		"EndTime": "2033-05-23 02:00:00",
+		"SettleTime": "2033-05-23 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 426
+	},
+	{
+		"NextID": 428,
+		"StartTime": "2033-05-30 04:00:00",
+		"EndTime": "2033-06-06 02:00:00",
+		"SettleTime": "2033-06-06 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 427
+	},
+	{
+		"NextID": 429,
+		"StartTime": "2033-06-13 04:00:00",
+		"EndTime": "2033-06-20 02:00:00",
+		"SettleTime": "2033-06-20 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 428
+	},
+	{
+		"NextID": 430,
+		"StartTime": "2033-06-27 04:00:00",
+		"EndTime": "2033-07-04 02:00:00",
+		"SettleTime": "2033-07-04 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 429
+	},
+	{
+		"NextID": 431,
+		"StartTime": "2033-07-11 04:00:00",
+		"EndTime": "2033-07-18 02:00:00",
+		"SettleTime": "2033-07-18 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 430
+	},
+	{
+		"NextID": 432,
+		"StartTime": "2033-07-25 04:00:00",
+		"EndTime": "2033-08-01 02:00:00",
+		"SettleTime": "2033-08-01 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 431
+	},
+	{
+		"NextID": 433,
+		"StartTime": "2033-08-08 04:00:00",
+		"EndTime": "2033-08-15 02:00:00",
+		"SettleTime": "2033-08-15 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 432
+	},
+	{
+		"NextID": 434,
+		"StartTime": "2033-08-22 04:00:00",
+		"EndTime": "2033-08-29 02:00:00",
+		"SettleTime": "2033-08-29 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 433
+	},
+	{
+		"NextID": 435,
+		"StartTime": "2033-09-05 04:00:00",
+		"EndTime": "2033-09-12 02:00:00",
+		"SettleTime": "2033-09-12 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 434
+	},
+	{
+		"NextID": 436,
+		"StartTime": "2033-09-19 04:00:00",
+		"EndTime": "2033-09-26 02:00:00",
+		"SettleTime": "2033-09-26 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 435
+	},
+	{
+		"NextID": 437,
+		"StartTime": "2033-10-03 04:00:00",
+		"EndTime": "2033-10-10 02:00:00",
+		"SettleTime": "2033-10-10 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 436
+	},
+	{
+		"NextID": 438,
+		"StartTime": "2033-10-17 04:00:00",
+		"EndTime": "2033-10-24 02:00:00",
+		"SettleTime": "2033-10-24 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 437
+	},
+	{
+		"NextID": 439,
+		"StartTime": "2033-10-31 04:00:00",
+		"EndTime": "2033-11-07 02:00:00",
+		"SettleTime": "2033-11-07 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 438
+	},
+	{
+		"NextID": 440,
+		"StartTime": "2033-11-14 04:00:00",
+		"EndTime": "2033-11-21 02:00:00",
+		"SettleTime": "2033-11-21 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 439
+	},
+	{
+		"NextID": 441,
+		"StartTime": "2033-11-28 04:00:00",
+		"EndTime": "2033-12-05 02:00:00",
+		"SettleTime": "2033-12-05 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 440
+	},
+	{
+		"NextID": 442,
+		"StartTime": "2033-12-12 04:00:00",
+		"EndTime": "2033-12-19 02:00:00",
+		"SettleTime": "2033-12-19 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 441
+	},
+	{
+		"NextID": 443,
+		"StartTime": "2033-12-26 04:00:00",
+		"EndTime": "2034-01-02 02:00:00",
+		"SettleTime": "2034-01-02 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 442
+	},
+	{
+		"NextID": 444,
+		"StartTime": "2034-01-09 04:00:00",
+		"EndTime": "2034-01-16 02:00:00",
+		"SettleTime": "2034-01-16 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 443
+	},
+	{
+		"NextID": 445,
+		"StartTime": "2034-01-23 04:00:00",
+		"EndTime": "2034-01-30 02:00:00",
+		"SettleTime": "2034-01-30 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 444
+	},
+	{
+		"NextID": 446,
+		"StartTime": "2034-02-06 04:00:00",
+		"EndTime": "2034-02-13 02:00:00",
+		"SettleTime": "2034-02-13 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 445
+	},
+	{
+		"NextID": 447,
+		"StartTime": "2034-02-20 04:00:00",
+		"EndTime": "2034-02-27 02:00:00",
+		"SettleTime": "2034-02-27 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 446
+	},
+	{
+		"NextID": 448,
+		"StartTime": "2034-03-06 04:00:00",
+		"EndTime": "2034-03-13 02:00:00",
+		"SettleTime": "2034-03-13 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 447
+	},
+	{
+		"NextID": 449,
+		"StartTime": "2034-03-20 04:00:00",
+		"EndTime": "2034-03-27 02:00:00",
+		"SettleTime": "2034-03-27 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 448
+	},
+	{
+		"NextID": 450,
+		"StartTime": "2034-04-03 04:00:00",
+		"EndTime": "2034-04-10 02:00:00",
+		"SettleTime": "2034-04-10 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 449
+	},
+	{
+		"NextID": 451,
+		"StartTime": "2034-04-17 04:00:00",
+		"EndTime": "2034-04-24 02:00:00",
+		"SettleTime": "2034-04-24 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 450
+	},
+	{
+		"NextID": 452,
+		"StartTime": "2034-05-01 04:00:00",
+		"EndTime": "2034-05-08 02:00:00",
+		"SettleTime": "2034-05-08 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 451
+	},
+	{
+		"NextID": 453,
+		"StartTime": "2034-05-15 04:00:00",
+		"EndTime": "2034-05-22 02:00:00",
+		"SettleTime": "2034-05-22 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 452
+	},
+	{
+		"NextID": 454,
+		"StartTime": "2034-05-29 04:00:00",
+		"EndTime": "2034-06-05 02:00:00",
+		"SettleTime": "2034-06-05 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 453
+	},
+	{
+		"NextID": 455,
+		"StartTime": "2034-06-12 04:00:00",
+		"EndTime": "2034-06-19 02:00:00",
+		"SettleTime": "2034-06-19 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 454
+	},
+	{
+		"NextID": 456,
+		"StartTime": "2034-06-26 04:00:00",
+		"EndTime": "2034-07-03 02:00:00",
+		"SettleTime": "2034-07-03 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 455
+	},
+	{
+		"NextID": 457,
+		"StartTime": "2034-07-10 04:00:00",
+		"EndTime": "2034-07-17 02:00:00",
+		"SettleTime": "2034-07-17 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 456
+	},
+	{
+		"NextID": 458,
+		"StartTime": "2034-07-24 04:00:00",
+		"EndTime": "2034-07-31 02:00:00",
+		"SettleTime": "2034-07-31 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 457
+	},
+	{
+		"NextID": 459,
+		"StartTime": "2034-08-07 04:00:00",
+		"EndTime": "2034-08-14 02:00:00",
+		"SettleTime": "2034-08-14 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 458
+	},
+	{
+		"NextID": 460,
+		"StartTime": "2034-08-21 04:00:00",
+		"EndTime": "2034-08-28 02:00:00",
+		"SettleTime": "2034-08-28 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 459
+	},
+	{
+		"NextID": 461,
+		"StartTime": "2034-09-04 04:00:00",
+		"EndTime": "2034-09-11 02:00:00",
+		"SettleTime": "2034-09-11 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 460
+	},
+	{
+		"NextID": 462,
+		"StartTime": "2034-09-18 04:00:00",
+		"EndTime": "2034-09-25 02:00:00",
+		"SettleTime": "2034-09-25 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 461
+	},
+	{
+		"NextID": 463,
+		"StartTime": "2034-10-02 04:00:00",
+		"EndTime": "2034-10-09 02:00:00",
+		"SettleTime": "2034-10-09 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 462
+	},
+	{
+		"NextID": 464,
+		"StartTime": "2034-10-16 04:00:00",
+		"EndTime": "2034-10-23 02:00:00",
+		"SettleTime": "2034-10-23 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 463
+	},
+	{
+		"NextID": 465,
+		"StartTime": "2034-10-30 04:00:00",
+		"EndTime": "2034-11-06 02:00:00",
+		"SettleTime": "2034-11-06 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 464
+	},
+	{
+		"NextID": 466,
+		"StartTime": "2034-11-13 04:00:00",
+		"EndTime": "2034-11-20 02:00:00",
+		"SettleTime": "2034-11-20 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 465
+	},
+	{
+		"NextID": 467,
+		"StartTime": "2034-11-27 04:00:00",
+		"EndTime": "2034-12-04 02:00:00",
+		"SettleTime": "2034-12-04 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 466
+	},
+	{
+		"NextID": 468,
+		"StartTime": "2034-12-11 04:00:00",
+		"EndTime": "2034-12-18 02:00:00",
+		"SettleTime": "2034-12-18 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 467
+	},
+	{
+		"NextID": 469,
+		"StartTime": "2034-12-25 04:00:00",
+		"EndTime": "2035-01-01 02:00:00",
+		"SettleTime": "2035-01-01 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 468
+	},
+	{
+		"NextID": 470,
+		"StartTime": "2035-01-08 04:00:00",
+		"EndTime": "2035-01-15 02:00:00",
+		"SettleTime": "2035-01-15 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 469
+	},
+	{
+		"NextID": 471,
+		"StartTime": "2035-01-22 04:00:00",
+		"EndTime": "2035-01-29 02:00:00",
+		"SettleTime": "2035-01-29 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 470
+	},
+	{
+		"NextID": 472,
+		"StartTime": "2035-02-05 04:00:00",
+		"EndTime": "2035-02-12 02:00:00",
+		"SettleTime": "2035-02-12 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 471
+	},
+	{
+		"NextID": 473,
+		"StartTime": "2035-02-19 04:00:00",
+		"EndTime": "2035-02-26 02:00:00",
+		"SettleTime": "2035-02-26 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 472
+	},
+	{
+		"NextID": 474,
+		"StartTime": "2035-03-05 04:00:00",
+		"EndTime": "2035-03-12 02:00:00",
+		"SettleTime": "2035-03-12 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 473
+	},
+	{
+		"NextID": 475,
+		"StartTime": "2035-03-19 04:00:00",
+		"EndTime": "2035-03-26 02:00:00",
+		"SettleTime": "2035-03-26 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 474
+	},
+	{
+		"NextID": 476,
+		"StartTime": "2035-04-02 04:00:00",
+		"EndTime": "2035-04-09 02:00:00",
+		"SettleTime": "2035-04-09 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 475
+	},
+	{
+		"NextID": 477,
+		"StartTime": "2035-04-16 04:00:00",
+		"EndTime": "2035-04-23 02:00:00",
+		"SettleTime": "2035-04-23 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 476
+	},
+	{
+		"NextID": 478,
+		"StartTime": "2035-04-30 04:00:00",
+		"EndTime": "2035-05-07 02:00:00",
+		"SettleTime": "2035-05-07 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 477
+	},
+	{
+		"NextID": 479,
+		"StartTime": "2035-05-14 04:00:00",
+		"EndTime": "2035-05-21 02:00:00",
+		"SettleTime": "2035-05-21 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 478
+	},
+	{
+		"NextID": 480,
+		"StartTime": "2035-05-28 04:00:00",
+		"EndTime": "2035-06-04 02:00:00",
+		"SettleTime": "2035-06-04 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 479
+	},
+	{
+		"NextID": 481,
+		"StartTime": "2035-06-11 04:00:00",
+		"EndTime": "2035-06-18 02:00:00",
+		"SettleTime": "2035-06-18 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 480
+	},
+	{
+		"NextID": 482,
+		"StartTime": "2035-06-25 04:00:00",
+		"EndTime": "2035-07-02 02:00:00",
+		"SettleTime": "2035-07-02 02:30:00",
+		"ConfigType": 1202,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1002,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 481
+	},
+	{
+		"NextID": 483,
+		"StartTime": "2035-07-09 04:00:00",
+		"EndTime": "2035-07-16 02:00:00",
+		"SettleTime": "2035-07-16 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 482
+	},
+	{
+		"NextID": 484,
+		"StartTime": "2035-07-23 04:00:00",
+		"EndTime": "2035-07-30 02:00:00",
+		"SettleTime": "2035-07-30 02:30:00",
+		"ConfigType": 1203,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1003,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 483
+	},
+	{
+		"NextID": 485,
+		"StartTime": "2035-08-06 04:00:00",
+		"EndTime": "2035-08-13 02:00:00",
+		"SettleTime": "2035-08-13 02:30:00",
+		"ConfigType": 1205,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1005,
+		"Bonus": [
+			1001
+		],
+		"DataImpl": {},
+		"ID": 484
+	},
+	{
+		"NextID": 0,
+		"StartTime": "2035-08-20 04:00:00",
+		"EndTime": "2035-08-27 02:00:00",
+		"SettleTime": "2035-08-27 02:30:00",
+		"ConfigType": 1201,
+		"LevelID": 143404,
+		"MaxFloor": 23,
+		"Weather": 1001,
+		"Bonus": [
+			1002
+		],
+		"DataImpl": {},
+		"ID": 485
+	}
+]

@@ -1,0 +1,57 @@
+[
+	{
+		"BeginTime": "2023-03-02 10:00:00",
+		"EndTime": "2023-04-06 03:59:59",
+		"MinLevel": 50,
+		"MaxLevel": 99,
+		"BattleStageID": [
+			10001001,
+			10001002,
+			10001003,
+			10001004,
+			10001005,
+			10001006,
+			10001007,
+			10001008,
+			10001009,
+			10001010,
+			10001011,
+			10001012,
+			10002001,
+			10002002,
+			10002003,
+			10002004
+		],
+		"DailyStageID": "10002001|10002002|10002003|10002004",
+		"RotateDays": 3,
+		"DailyDropMaterialID": 114776,
+		"RewardLineActivityID": 7,
+		"MailID": 8073,
+		"ActivityMedalID": 101124,
+		"MedalUnlockStageScore": 240000,
+		"MedalMaxScore": 320,
+		"Mission": [
+			676394,
+			676395,
+			676396,
+			676397,
+			676398,
+			676399,
+			676400,
+			676401,
+			676402,
+			676403,
+			676404
+		],
+		"MissionMaxShowNum": 8,
+		"DailyMaterialDropLimitV2": [
+			"2023-03-02 10:00:00|100",
+			"2023-03-16 04:00:00|200"
+		],
+		"DailyDropLimitResetCostHCoinNum": 25,
+		"DailyDropLimitResetTimesLimit": 10,
+		"DailyDropLimitResetOpenTime": "2023-03-30 04:00:00",
+		"DataImpl": {},
+		"ScheduleID": 1
+	}
+]

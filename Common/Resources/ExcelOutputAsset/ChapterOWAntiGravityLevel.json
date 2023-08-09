@@ -1,0 +1,562 @@
+[
+	{
+		"MapID": 1001,
+		"GroupID": 1,
+		"StageID": 902001,
+		"LevelType": 1,
+		"ChallengeShowList": [
+			{
+				"ChallengeID": 67002,
+				"ConditionID": 1145
+			},
+			{
+				"ChallengeID": 67003,
+				"ConditionID": 1150
+			}
+		],
+		"SpecialChallengeIDList": [
+			67001
+		],
+		"SeniorCoinIndexList": [
+			53,
+			54,
+			55,
+			56,
+			57,
+			58,
+			59,
+			60
+		],
+		"LowerCoinIndexList": [
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9,
+			10,
+			11,
+			12,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25,
+			26,
+			27,
+			28,
+			29,
+			30,
+			31,
+			32,
+			33,
+			34,
+			35,
+			36,
+			37,
+			38,
+			39,
+			40,
+			41,
+			42,
+			43,
+			44,
+			45,
+			46,
+			47,
+			48,
+			49,
+			50,
+			51,
+			52
+		],
+		"LowerCoinMaterial": {
+			"MaterialID": 122324,
+			"RatioNum": 5
+		},
+		"SeniorCoinMaterial": {
+			"MaterialID": 122324,
+			"RatioNum": 50
+		},
+		"UnlockConditionList": "5|441204;2|2022-11-21 10:00:00",
+		"UnlockConditionTips": [
+			"AntiGravity1_Unlocktips1",
+			"AntiGravity1_Unlocktips2"
+		],
+		"ImagePath": "SpriteOutput/LevelDetailPic/6.2ChapterOW_AntiGravity1",
+		"Title": {
+			"hash": -1020175074
+		},
+		"DataImpl": {},
+		"ID": 1
+	},
+	{
+		"MapID": 1001,
+		"GroupID": 1,
+		"StageID": 902002,
+		"LevelType": 1,
+		"ChallengeShowList": [
+			{
+				"ChallengeID": 67004,
+				"ConditionID": 1146
+			},
+			{
+				"ChallengeID": 67005,
+				"ConditionID": 1151
+			}
+		],
+		"SpecialChallengeIDList": [
+			67001
+		],
+		"SeniorCoinIndexList": [
+			59,
+			60,
+			61,
+			62,
+			63,
+			64,
+			65,
+			66,
+			67,
+			68,
+			69,
+			70,
+			71
+		],
+		"LowerCoinIndexList": [
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9,
+			10,
+			11,
+			12,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25,
+			26,
+			27,
+			28,
+			29,
+			30,
+			31,
+			32,
+			33,
+			34,
+			35,
+			36,
+			37,
+			38,
+			39,
+			40,
+			41,
+			42,
+			43,
+			44,
+			45,
+			46,
+			47,
+			48,
+			49,
+			50,
+			51,
+			52,
+			53,
+			54,
+			55,
+			56,
+			57,
+			58
+		],
+		"LowerCoinMaterial": {
+			"MaterialID": 122324,
+			"RatioNum": 5
+		},
+		"SeniorCoinMaterial": {
+			"MaterialID": 122324,
+			"RatioNum": 50
+		},
+		"UnlockConditionList": "3|902001;2|2022-11-21 10:00:00",
+		"UnlockConditionTips": [
+			"AntiGravity2_Unlocktips1",
+			"AntiGravity2_Unlocktips2"
+		],
+		"ImagePath": "SpriteOutput/LevelDetailPic/6.2ChapterOW_AntiGravity2",
+		"Title": {
+			"hash": -1020175073
+		},
+		"DataImpl": {},
+		"ID": 2
+	},
+	{
+		"MapID": 1001,
+		"GroupID": 1,
+		"StageID": 902003,
+		"LevelType": 1,
+		"ChallengeShowList": [
+			{
+				"ChallengeID": 67006,
+				"ConditionID": 1147
+			},
+			{
+				"ChallengeID": 67007,
+				"ConditionID": 1152
+			}
+		],
+		"SpecialChallengeIDList": [
+			67001
+		],
+		"SeniorCoinIndexList": [
+			42,
+			43,
+			44,
+			45,
+			46,
+			47,
+			48,
+			49,
+			50,
+			51,
+			52,
+			53,
+			54,
+			55,
+			56
+		],
+		"LowerCoinIndexList": [
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9,
+			10,
+			11,
+			12,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25,
+			26,
+			27,
+			28,
+			29,
+			30,
+			31,
+			32,
+			33,
+			34,
+			35,
+			36,
+			37,
+			38,
+			39,
+			40,
+			41
+		],
+		"LowerCoinMaterial": {
+			"MaterialID": 122324,
+			"RatioNum": 5
+		},
+		"SeniorCoinMaterial": {
+			"MaterialID": 122324,
+			"RatioNum": 50
+		},
+		"UnlockConditionList": "3|902002;2|2022-11-24 10:00:00",
+		"UnlockConditionTips": [
+			"AntiGravity3_Unlocktips1",
+			"AntiGravity3_Unlocktips2"
+		],
+		"ImagePath": "SpriteOutput/LevelDetailPic/6.2ChapterOW_AntiGravity3",
+		"Title": {
+			"hash": -1020175072
+		},
+		"DataImpl": {},
+		"ID": 3
+	},
+	{
+		"MapID": 1001,
+		"GroupID": 2,
+		"StageID": 902004,
+		"LevelType": 2,
+		"ChallengeShowList": [
+			{
+				"ChallengeID": 67008,
+				"ConditionID": 1148
+			},
+			{
+				"ChallengeID": 67009,
+				"ConditionID": 1153
+			}
+		],
+		"SpecialChallengeIDList": [
+			67001
+		],
+		"SeniorCoinIndexList": [
+			55,
+			56,
+			57,
+			58,
+			59,
+			60,
+			61,
+			62,
+			63,
+			64,
+			65,
+			66,
+			67,
+			68
+		],
+		"LowerCoinIndexList": [
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9,
+			10,
+			11,
+			12,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25,
+			26,
+			27,
+			28,
+			29,
+			30,
+			31,
+			32,
+			33,
+			34,
+			35,
+			36,
+			37,
+			38,
+			39,
+			40,
+			41,
+			42,
+			43,
+			44,
+			45,
+			46,
+			47,
+			48,
+			49,
+			50,
+			51,
+			52,
+			53,
+			54
+		],
+		"LowerCoinMaterial": {
+			"MaterialID": 122324,
+			"RatioNum": 5
+		},
+		"SeniorCoinMaterial": {
+			"MaterialID": 122324,
+			"RatioNum": 50
+		},
+		"UnlockConditionList": "3|902003;2|2022-11-24 10:00:00",
+		"UnlockConditionTips": [
+			"AntiGravity4_Unlocktips1",
+			"AntiGravity4_Unlocktips2"
+		],
+		"ImagePath": "SpriteOutput/LevelDetailPic/6.2ChapterOW_AntiGravity4",
+		"Title": {
+			"hash": -1020175071
+		},
+		"DataImpl": {},
+		"ID": 4
+	},
+	{
+		"MapID": 1001,
+		"GroupID": 2,
+		"StageID": 902005,
+		"LevelType": 2,
+		"ChallengeShowList": [
+			{
+				"ChallengeID": 67010,
+				"ConditionID": 1149
+			},
+			{
+				"ChallengeID": 67011,
+				"ConditionID": 1154
+			}
+		],
+		"SpecialChallengeIDList": [
+			67001
+		],
+		"SeniorCoinIndexList": [
+			70,
+			71,
+			72,
+			73,
+			74,
+			75,
+			76,
+			77,
+			78,
+			79,
+			80,
+			81,
+			82,
+			83,
+			84,
+			85,
+			86,
+			87,
+			88,
+			89,
+			90,
+			91,
+			92,
+			93,
+			94,
+			95
+		],
+		"LowerCoinIndexList": [
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9,
+			10,
+			11,
+			12,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25,
+			26,
+			27,
+			28,
+			29,
+			30,
+			31,
+			32,
+			33,
+			34,
+			35,
+			36,
+			37,
+			38,
+			39,
+			40,
+			41,
+			42,
+			43,
+			44,
+			45,
+			46,
+			47,
+			48,
+			49,
+			50,
+			51,
+			52,
+			53,
+			54,
+			55,
+			56,
+			57,
+			58,
+			59,
+			60,
+			61,
+			62,
+			63,
+			64,
+			65,
+			66,
+			67,
+			68,
+			69
+		],
+		"LowerCoinMaterial": {
+			"MaterialID": 122324,
+			"RatioNum": 5
+		},
+		"SeniorCoinMaterial": {
+			"MaterialID": 122324,
+			"RatioNum": 50
+		},
+		"UnlockConditionList": "3|902004;2|2022-11-26 04:00:00",
+		"UnlockConditionTips": [
+			"AntiGravity5_Unlocktips1",
+			"AntiGravity5_Unlocktips2"
+		],
+		"ImagePath": "SpriteOutput/LevelDetailPic/6.2ChapterOW_AntiGravity5",
+		"Title": {
+			"hash": -1020175070
+		},
+		"DataImpl": {},
+		"ID": 5
+	}
+]

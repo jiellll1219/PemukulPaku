@@ -1,0 +1,202 @@
+[
+	{
+		"MapID": 3,
+		"BeginTime": {
+			"TimeStampForBakedReader": 1619683200
+		},
+		"EndTime": {
+			"TimeStampForBakedReader": 1620014399
+		},
+		"BattleStartTime": {
+			"TimeStampForBakedReader": 1619766000
+		},
+		"OpenTime": {
+			"TotalSeconds": 25200
+		},
+		"CloseTime": {
+			"TotalSeconds": 82800
+		},
+		"BattleReportCD": 1800,
+		"CountryList": [
+			{
+				"CountryID": 1,
+				"PointID": 3001
+			},
+			{
+				"CountryID": 2,
+				"PointID": 3117
+			},
+			{
+				"CountryID": 3,
+				"PointID": 3209
+			}
+		],
+		"CenterPoint": 3109,
+		"PointScoreAccountCD": 600,
+		"BattleFog": false,
+		"FogDistance": 2,
+		"BattlePreviewPic": "event/Immediately/SLG/SLG_Map3_Preview",
+		"DataImpl": {},
+		"ID": 1
+	},
+	{
+		"MapID": 1,
+		"BeginTime": {
+			"TimeStampForBakedReader": 1620014400
+		},
+		"EndTime": {
+			"TimeStampForBakedReader": 1620273599
+		},
+		"BattleStartTime": {
+			"TimeStampForBakedReader": 1620025200
+		},
+		"OpenTime": {
+			"TotalSeconds": 25200
+		},
+		"CloseTime": {
+			"TotalSeconds": 82800
+		},
+		"BattleReportCD": 1800,
+		"CountryList": [
+			{
+				"CountryID": 1,
+				"PointID": 1001
+			},
+			{
+				"CountryID": 2,
+				"PointID": 1117
+			},
+			{
+				"CountryID": 3,
+				"PointID": 1209
+			}
+		],
+		"CenterPoint": 1109,
+		"PointScoreAccountCD": 600,
+		"BattleFog": false,
+		"FogDistance": 0,
+		"BattlePreviewPic": "event/Immediately/SLG/SLG_Map1_Preview",
+		"DataImpl": {},
+		"ID": 2
+	},
+	{
+		"MapID": 2,
+		"BeginTime": {
+			"TimeStampForBakedReader": 1620273600
+		},
+		"EndTime": {
+			"TimeStampForBakedReader": 1620532799
+		},
+		"BattleStartTime": {
+			"TimeStampForBakedReader": 1620284400
+		},
+		"OpenTime": {
+			"TotalSeconds": 25200
+		},
+		"CloseTime": {
+			"TotalSeconds": 82800
+		},
+		"BattleReportCD": 1800,
+		"CountryList": [
+			{
+				"CountryID": 1,
+				"PointID": 2001
+			},
+			{
+				"CountryID": 2,
+				"PointID": 2117
+			},
+			{
+				"CountryID": 3,
+				"PointID": 2209
+			}
+		],
+		"CenterPoint": 2109,
+		"PointScoreAccountCD": 600,
+		"BattleFog": false,
+		"FogDistance": 0,
+		"BattlePreviewPic": "event/Immediately/SLG/SLG_Map2_Preview",
+		"DataImpl": {},
+		"ID": 3
+	},
+	{
+		"MapID": 1,
+		"BeginTime": {
+			"TimeStampForBakedReader": 1620532800
+		},
+		"EndTime": {
+			"TimeStampForBakedReader": 1620791999
+		},
+		"BattleStartTime": {
+			"TimeStampForBakedReader": 1620543600
+		},
+		"OpenTime": {
+			"TotalSeconds": 25200
+		},
+		"CloseTime": {
+			"TotalSeconds": 82800
+		},
+		"BattleReportCD": 1800,
+		"CountryList": [
+			{
+				"CountryID": 1,
+				"PointID": 1001
+			},
+			{
+				"CountryID": 2,
+				"PointID": 1117
+			},
+			{
+				"CountryID": 3,
+				"PointID": 1209
+			}
+		],
+		"CenterPoint": 1109,
+		"PointScoreAccountCD": 600,
+		"BattleFog": false,
+		"FogDistance": 0,
+		"BattlePreviewPic": "event/Immediately/SLG/SLG_Map1_Preview",
+		"DataImpl": {},
+		"ID": 4
+	},
+	{
+		"MapID": 2,
+		"BeginTime": {
+			"TimeStampForBakedReader": 1620792000
+		},
+		"EndTime": {
+			"TimeStampForBakedReader": 1621051199
+		},
+		"BattleStartTime": {
+			"TimeStampForBakedReader": 1620802800
+		},
+		"OpenTime": {
+			"TotalSeconds": 25200
+		},
+		"CloseTime": {
+			"TotalSeconds": 82800
+		},
+		"BattleReportCD": 1800,
+		"CountryList": [
+			{
+				"CountryID": 1,
+				"PointID": 2001
+			},
+			{
+				"CountryID": 2,
+				"PointID": 2117
+			},
+			{
+				"CountryID": 3,
+				"PointID": 2209
+			}
+		],
+		"CenterPoint": 2109,
+		"PointScoreAccountCD": 600,
+		"BattleFog": false,
+		"FogDistance": 0,
+		"BattlePreviewPic": "event/Immediately/SLG/SLG_Map2_Preview",
+		"DataImpl": {},
+		"ID": 5
+	}
+]

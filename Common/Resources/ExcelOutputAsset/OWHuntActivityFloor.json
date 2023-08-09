@@ -1,0 +1,702 @@
+[
+	{
+		"MapID": 901,
+		"Floor": 3,
+		"CurFloor": 3,
+		"NextFloor": 3,
+		"CurFloorArea": "CollisionH05",
+		"NextFloorArea": "CollisionH06",
+		"DataImpl": {},
+		"SpawnPointName": "Area1"
+	},
+	{
+		"MapID": 901,
+		"Floor": 3,
+		"CurFloor": 3,
+		"NextFloor": 3,
+		"CurFloorArea": "CollisionH10",
+		"NextFloorArea": "CollisionH11",
+		"DataImpl": {},
+		"SpawnPointName": "Area2"
+	},
+	{
+		"MapID": 903,
+		"Floor": 1,
+		"CurFloor": 1,
+		"NextFloor": 1,
+		"CurFloorArea": "CollisionH01",
+		"NextFloorArea": "CollisionH02",
+		"DataImpl": {},
+		"SpawnPointName": "Area_01_B01"
+	},
+	{
+		"MapID": 903,
+		"Floor": 1,
+		"CurFloor": 1,
+		"NextFloor": 1,
+		"CurFloorArea": "CollisionH02",
+		"NextFloorArea": "CollisionH03",
+		"DataImpl": {},
+		"SpawnPointName": "Area_01_B02"
+	},
+	{
+		"MapID": 903,
+		"Floor": 1,
+		"CurFloor": 1,
+		"NextFloor": 2,
+		"CurFloorArea": "CollisionH03",
+		"NextFloorArea": "CollisionH04",
+		"DataImpl": {},
+		"SpawnPointName": "Area_01_B03"
+	},
+	{
+		"MapID": 903,
+		"Floor": 2,
+		"CurFloor": 2,
+		"NextFloor": 2,
+		"CurFloorArea": "CollisionH04",
+		"NextFloorArea": "CollisionH05",
+		"DataImpl": {},
+		"SpawnPointName": "Area_02_B04"
+	},
+	{
+		"MapID": 903,
+		"Floor": 2,
+		"CurFloor": 2,
+		"NextFloor": 2,
+		"CurFloorArea": "CollisionH05",
+		"NextFloorArea": "CollisionH06",
+		"DataImpl": {},
+		"SpawnPointName": "Area_02_B05"
+	},
+	{
+		"MapID": 903,
+		"Floor": 2,
+		"CurFloor": 2,
+		"NextFloor": 2,
+		"CurFloorArea": "CollisionH06",
+		"NextFloorArea": "CollisionH07",
+		"DataImpl": {},
+		"SpawnPointName": "Area_02_B06"
+	},
+	{
+		"MapID": 903,
+		"Floor": 2,
+		"CurFloor": 2,
+		"NextFloor": 2,
+		"CurFloorArea": "CollisionH07",
+		"NextFloorArea": "CollisionH08",
+		"DataImpl": {},
+		"SpawnPointName": "Area_02_B07"
+	},
+	{
+		"MapID": 903,
+		"Floor": 2,
+		"CurFloor": 2,
+		"NextFloor": 3,
+		"CurFloorArea": "CollisionH08",
+		"NextFloorArea": "CollisionH09",
+		"DataImpl": {},
+		"SpawnPointName": "Area_02_B08"
+	},
+	{
+		"MapID": 903,
+		"Floor": 3,
+		"CurFloor": 3,
+		"NextFloor": 3,
+		"CurFloorArea": "CollisionH09",
+		"NextFloorArea": "CollisionH10",
+		"DataImpl": {},
+		"SpawnPointName": "Area_03_B09"
+	},
+	{
+		"MapID": 903,
+		"Floor": 3,
+		"CurFloor": 3,
+		"NextFloor": 3,
+		"CurFloorArea": "CollisionH10",
+		"NextFloorArea": "CollisionH11",
+		"DataImpl": {},
+		"SpawnPointName": "Area_03_B10"
+	},
+	{
+		"MapID": 903,
+		"Floor": 3,
+		"CurFloor": 3,
+		"NextFloor": 3,
+		"CurFloorArea": "CollisionH11",
+		"NextFloorArea": "CollisionH12",
+		"DataImpl": {},
+		"SpawnPointName": "Area_03_B11"
+	},
+	{
+		"MapID": 903,
+		"Floor": 3,
+		"CurFloor": 3,
+		"NextFloor": 1,
+		"CurFloorArea": "CollisionH12",
+		"NextFloorArea": "CollisionH01",
+		"DataImpl": {},
+		"SpawnPointName": "Area_03_B12"
+	},
+	{
+		"MapID": 901,
+		"Floor": 2,
+		"CurFloor": 2,
+		"NextFloor": 2,
+		"CurFloorArea": "CollisionH01",
+		"NextFloorArea": "CollisionH02",
+		"DataImpl": {},
+		"SpawnPointName": "Area_Env_Level_ActivityHunter_OW_Test_LL_001"
+	},
+	{
+		"MapID": 901,
+		"Floor": 2,
+		"CurFloor": 2,
+		"NextFloor": 2,
+		"CurFloorArea": "CollisionH02",
+		"NextFloorArea": "CollisionH03",
+		"DataImpl": {},
+		"SpawnPointName": "Area_Env_Level_ActivityHunter_OW_Test_LL_003"
+	},
+	{
+		"MapID": 901,
+		"Floor": 2,
+		"CurFloor": 2,
+		"NextFloor": 2,
+		"CurFloorArea": "CollisionH03",
+		"NextFloorArea": "CollisionH04",
+		"DataImpl": {},
+		"SpawnPointName": "Area_Env_Level_ActivityHunter_OW_Test_LL_004"
+	},
+	{
+		"MapID": 901,
+		"Floor": 2,
+		"CurFloor": 2,
+		"NextFloor": 2,
+		"CurFloorArea": "CollisionH08",
+		"NextFloorArea": "CollisionH09",
+		"DataImpl": {},
+		"SpawnPointName": "Area_Env_Level_ActivityHunter_OW_Test_LL_007"
+	},
+	{
+		"MapID": 901,
+		"Floor": 2,
+		"CurFloor": 2,
+		"NextFloor": 2,
+		"CurFloorArea": "CollisionH07",
+		"NextFloorArea": "CollisionH08",
+		"DataImpl": {},
+		"SpawnPointName": "Area_Env_Level_ActivityHunter_OW_Test_LL_008"
+	},
+	{
+		"MapID": 901,
+		"Floor": 2,
+		"CurFloor": 2,
+		"NextFloor": 3,
+		"CurFloorArea": "CollisionH09",
+		"NextFloorArea": "CollisionH10",
+		"DataImpl": {},
+		"SpawnPointName": "Area_Env_Level_ActivityHunter_OW_Test_LL_009"
+	},
+	{
+		"MapID": 901,
+		"Floor": 3,
+		"CurFloor": 3,
+		"NextFloor": 3,
+		"CurFloorArea": "CollisionH11",
+		"NextFloorArea": "CollisionH12",
+		"DataImpl": {},
+		"SpawnPointName": "Area_Env_Level_ActivityHunter_OW_Test_LL_011"
+	},
+	{
+		"MapID": 901,
+		"Floor": 3,
+		"CurFloor": 3,
+		"NextFloor": 2,
+		"CurFloorArea": "CollisionH12",
+		"NextFloorArea": "CollisionH01",
+		"DataImpl": {},
+		"SpawnPointName": "Area_Env_Level_ActivityHunter_OW_Test_LL_012"
+	},
+	{
+		"MapID": 901,
+		"Floor": 2,
+		"CurFloor": 2,
+		"NextFloor": 3,
+		"CurFloorArea": "CollisionH04",
+		"NextFloorArea": "CollisionH05",
+		"DataImpl": {},
+		"SpawnPointName": "Area_Env_Level_ActivityHunter_OW_Test_LL_013"
+	},
+	{
+		"MapID": 901,
+		"Floor": 3,
+		"CurFloor": 3,
+		"NextFloor": 2,
+		"CurFloorArea": "CollisionH06",
+		"NextFloorArea": "CollisionH07",
+		"DataImpl": {},
+		"SpawnPointName": "Area_Env_Level_ActivityHunter_OW_Test_LL_014"
+	},
+	{
+		"MapID": 903,
+		"Floor": 3,
+		"CurFloor": 0,
+		"NextFloor": 0,
+		"CurFloorArea": "0",
+		"NextFloorArea": "0",
+		"DataImpl": {},
+		"SpawnPointName": "BOSSHunt"
+	},
+	{
+		"MapID": 901,
+		"Floor": 2,
+		"CurFloor": 0,
+		"NextFloor": 0,
+		"CurFloorArea": "0",
+		"NextFloorArea": "0",
+		"DataImpl": {},
+		"SpawnPointName": "Born"
+	},
+	{
+		"MapID": 903,
+		"Floor": 1,
+		"CurFloor": 0,
+		"NextFloor": 0,
+		"CurFloorArea": "0",
+		"NextFloorArea": "0",
+		"DataImpl": {},
+		"SpawnPointName": "Born_01"
+	},
+	{
+		"MapID": 903,
+		"Floor": 2,
+		"CurFloor": 0,
+		"NextFloor": 0,
+		"CurFloorArea": "0",
+		"NextFloorArea": "0",
+		"DataImpl": {},
+		"SpawnPointName": "Born_02"
+	},
+	{
+		"MapID": 903,
+		"Floor": 3,
+		"CurFloor": 0,
+		"NextFloor": 0,
+		"CurFloorArea": "0",
+		"NextFloorArea": "0",
+		"DataImpl": {},
+		"SpawnPointName": "Born_03"
+	},
+	{
+		"MapID": 901,
+		"Floor": 1,
+		"CurFloor": 0,
+		"NextFloor": 0,
+		"CurFloorArea": "0",
+		"NextFloorArea": "0",
+		"DataImpl": {},
+		"SpawnPointName": "Day (1)"
+	},
+	{
+		"MapID": 901,
+		"Floor": 1,
+		"CurFloor": 0,
+		"NextFloor": 0,
+		"CurFloorArea": "0",
+		"NextFloorArea": "0",
+		"DataImpl": {},
+		"SpawnPointName": "Day (2)"
+	},
+	{
+		"MapID": 901,
+		"Floor": 2,
+		"CurFloor": 0,
+		"NextFloor": 0,
+		"CurFloorArea": "0",
+		"NextFloorArea": "0",
+		"DataImpl": {},
+		"SpawnPointName": "Day (3)"
+	},
+	{
+		"MapID": 901,
+		"Floor": 2,
+		"CurFloor": 0,
+		"NextFloor": 0,
+		"CurFloorArea": "0",
+		"NextFloorArea": "0",
+		"DataImpl": {},
+		"SpawnPointName": "Day (4)"
+	},
+	{
+		"MapID": 901,
+		"Floor": 1,
+		"CurFloor": 0,
+		"NextFloor": 0,
+		"CurFloorArea": "0",
+		"NextFloorArea": "0",
+		"DataImpl": {},
+		"SpawnPointName": "Day (5)"
+	},
+	{
+		"MapID": 901,
+		"Floor": 2,
+		"CurFloor": 0,
+		"NextFloor": 0,
+		"CurFloorArea": "0",
+		"NextFloorArea": "0",
+		"DataImpl": {},
+		"SpawnPointName": "Day (6)"
+	},
+	{
+		"MapID": 901,
+		"Floor": 3,
+		"CurFloor": 0,
+		"NextFloor": 0,
+		"CurFloorArea": "0",
+		"NextFloorArea": "0",
+		"DataImpl": {},
+		"SpawnPointName": "Day (7)"
+	},
+	{
+		"MapID": 901,
+		"Floor": 3,
+		"CurFloor": 0,
+		"NextFloor": 0,
+		"CurFloorArea": "0",
+		"NextFloorArea": "0",
+		"DataImpl": {},
+		"SpawnPointName": "Day (8)"
+	},
+	{
+		"MapID": 903,
+		"Floor": 1,
+		"CurFloor": 0,
+		"NextFloor": 0,
+		"CurFloorArea": "0",
+		"NextFloorArea": "0",
+		"DataImpl": {},
+		"SpawnPointName": "InfoNav_01"
+	},
+	{
+		"MapID": 903,
+		"Floor": 1,
+		"CurFloor": 0,
+		"NextFloor": 0,
+		"CurFloorArea": "0",
+		"NextFloorArea": "0",
+		"DataImpl": {},
+		"SpawnPointName": "InfoNav_02"
+	},
+	{
+		"MapID": 903,
+		"Floor": 1,
+		"CurFloor": 0,
+		"NextFloor": 0,
+		"CurFloorArea": "0",
+		"NextFloorArea": "0",
+		"DataImpl": {},
+		"SpawnPointName": "InfoNav_03"
+	},
+	{
+		"MapID": 903,
+		"Floor": 2,
+		"CurFloor": 0,
+		"NextFloor": 0,
+		"CurFloorArea": "0",
+		"NextFloorArea": "0",
+		"DataImpl": {},
+		"SpawnPointName": "InfoNav_04"
+	},
+	{
+		"MapID": 903,
+		"Floor": 2,
+		"CurFloor": 0,
+		"NextFloor": 0,
+		"CurFloorArea": "0",
+		"NextFloorArea": "0",
+		"DataImpl": {},
+		"SpawnPointName": "InfoNav_05"
+	},
+	{
+		"MapID": 903,
+		"Floor": 2,
+		"CurFloor": 0,
+		"NextFloor": 0,
+		"CurFloorArea": "0",
+		"NextFloorArea": "0",
+		"DataImpl": {},
+		"SpawnPointName": "InfoNav_06"
+	},
+	{
+		"MapID": 903,
+		"Floor": 2,
+		"CurFloor": 0,
+		"NextFloor": 0,
+		"CurFloorArea": "0",
+		"NextFloorArea": "0",
+		"DataImpl": {},
+		"SpawnPointName": "InfoNav_07"
+	},
+	{
+		"MapID": 903,
+		"Floor": 2,
+		"CurFloor": 0,
+		"NextFloor": 0,
+		"CurFloorArea": "0",
+		"NextFloorArea": "0",
+		"DataImpl": {},
+		"SpawnPointName": "InfoNav_08"
+	},
+	{
+		"MapID": 903,
+		"Floor": 3,
+		"CurFloor": 0,
+		"NextFloor": 0,
+		"CurFloorArea": "0",
+		"NextFloorArea": "0",
+		"DataImpl": {},
+		"SpawnPointName": "InfoNav_09"
+	},
+	{
+		"MapID": 903,
+		"Floor": 3,
+		"CurFloor": 0,
+		"NextFloor": 0,
+		"CurFloorArea": "0",
+		"NextFloorArea": "0",
+		"DataImpl": {},
+		"SpawnPointName": "InfoNav_10"
+	},
+	{
+		"MapID": 903,
+		"Floor": 3,
+		"CurFloor": 0,
+		"NextFloor": 0,
+		"CurFloorArea": "0",
+		"NextFloorArea": "0",
+		"DataImpl": {},
+		"SpawnPointName": "InfoNav_11"
+	},
+	{
+		"MapID": 903,
+		"Floor": 3,
+		"CurFloor": 0,
+		"NextFloor": 0,
+		"CurFloorArea": "0",
+		"NextFloorArea": "0",
+		"DataImpl": {},
+		"SpawnPointName": "InfoNav_12"
+	},
+	{
+		"MapID": 901,
+		"Floor": 2,
+		"CurFloor": 0,
+		"NextFloor": 0,
+		"CurFloorArea": "0",
+		"NextFloorArea": "0",
+		"DataImpl": {},
+		"SpawnPointName": "Main (1)"
+	},
+	{
+		"MapID": 901,
+		"Floor": 3,
+		"CurFloor": 0,
+		"NextFloor": 0,
+		"CurFloorArea": "0",
+		"NextFloorArea": "0",
+		"DataImpl": {},
+		"SpawnPointName": "Main (10)"
+	},
+	{
+		"MapID": 901,
+		"Floor": 3,
+		"CurFloor": 0,
+		"NextFloor": 0,
+		"CurFloorArea": "0",
+		"NextFloorArea": "0",
+		"DataImpl": {},
+		"SpawnPointName": "Main (11)"
+	},
+	{
+		"MapID": 901,
+		"Floor": 3,
+		"CurFloor": 0,
+		"NextFloor": 0,
+		"CurFloorArea": "0",
+		"NextFloorArea": "0",
+		"DataImpl": {},
+		"SpawnPointName": "Main (12)"
+	},
+	{
+		"MapID": 901,
+		"Floor": 1,
+		"CurFloor": 0,
+		"NextFloor": 0,
+		"CurFloorArea": "0",
+		"NextFloorArea": "0",
+		"DataImpl": {},
+		"SpawnPointName": "Main (13)"
+	},
+	{
+		"MapID": 901,
+		"Floor": 2,
+		"CurFloor": 0,
+		"NextFloor": 0,
+		"CurFloorArea": "0",
+		"NextFloorArea": "0",
+		"DataImpl": {},
+		"SpawnPointName": "Main (2)"
+	},
+	{
+		"MapID": 901,
+		"Floor": 2,
+		"CurFloor": 0,
+		"NextFloor": 0,
+		"CurFloorArea": "0",
+		"NextFloorArea": "0",
+		"DataImpl": {},
+		"SpawnPointName": "Main (3)"
+	},
+	{
+		"MapID": 901,
+		"Floor": 2,
+		"CurFloor": 0,
+		"NextFloor": 0,
+		"CurFloorArea": "0",
+		"NextFloorArea": "0",
+		"DataImpl": {},
+		"SpawnPointName": "Main (4)"
+	},
+	{
+		"MapID": 901,
+		"Floor": 2,
+		"CurFloor": 0,
+		"NextFloor": 0,
+		"CurFloorArea": "0",
+		"NextFloorArea": "0",
+		"DataImpl": {},
+		"SpawnPointName": "Main (5)"
+	},
+	{
+		"MapID": 901,
+		"Floor": 2,
+		"CurFloor": 0,
+		"NextFloor": 0,
+		"CurFloorArea": "0",
+		"NextFloorArea": "0",
+		"DataImpl": {},
+		"SpawnPointName": "Main (6)"
+	},
+	{
+		"MapID": 901,
+		"Floor": 2,
+		"CurFloor": 0,
+		"NextFloor": 0,
+		"CurFloorArea": "0",
+		"NextFloorArea": "0",
+		"DataImpl": {},
+		"SpawnPointName": "Main (7)"
+	},
+	{
+		"MapID": 901,
+		"Floor": 2,
+		"CurFloor": 0,
+		"NextFloor": 0,
+		"CurFloorArea": "0",
+		"NextFloorArea": "0",
+		"DataImpl": {},
+		"SpawnPointName": "Main (8)"
+	},
+	{
+		"MapID": 901,
+		"Floor": 2,
+		"CurFloor": 0,
+		"NextFloor": 0,
+		"CurFloorArea": "0",
+		"NextFloorArea": "0",
+		"DataImpl": {},
+		"SpawnPointName": "Main (9)"
+	},
+	{
+		"MapID": 903,
+		"Floor": 1,
+		"CurFloor": 0,
+		"NextFloor": 0,
+		"CurFloorArea": "0",
+		"NextFloorArea": "0",
+		"DataImpl": {},
+		"SpawnPointName": "dayNav_01"
+	},
+	{
+		"MapID": 903,
+		"Floor": 1,
+		"CurFloor": 0,
+		"NextFloor": 0,
+		"CurFloorArea": "0",
+		"NextFloorArea": "0",
+		"DataImpl": {},
+		"SpawnPointName": "dayNav_02"
+	},
+	{
+		"MapID": 903,
+		"Floor": 2,
+		"CurFloor": 0,
+		"NextFloor": 0,
+		"CurFloorArea": "0",
+		"NextFloorArea": "0",
+		"DataImpl": {},
+		"SpawnPointName": "dayNav_03"
+	},
+	{
+		"MapID": 903,
+		"Floor": 2,
+		"CurFloor": 0,
+		"NextFloor": 0,
+		"CurFloorArea": "0",
+		"NextFloorArea": "0",
+		"DataImpl": {},
+		"SpawnPointName": "dayNav_04"
+	},
+	{
+		"MapID": 903,
+		"Floor": 2,
+		"CurFloor": 0,
+		"NextFloor": 0,
+		"CurFloorArea": "0",
+		"NextFloorArea": "0",
+		"DataImpl": {},
+		"SpawnPointName": "dayNav_05"
+	},
+	{
+		"MapID": 903,
+		"Floor": 3,
+		"CurFloor": 0,
+		"NextFloor": 0,
+		"CurFloorArea": "0",
+		"NextFloorArea": "0",
+		"DataImpl": {},
+		"SpawnPointName": "dayNav_06"
+	},
+	{
+		"MapID": 903,
+		"Floor": 3,
+		"CurFloor": 0,
+		"NextFloor": 0,
+		"CurFloorArea": "0",
+		"NextFloorArea": "0",
+		"DataImpl": {},
+		"SpawnPointName": "dayNav_07"
+	},
+	{
+		"MapID": 903,
+		"Floor": 3,
+		"CurFloor": 0,
+		"NextFloor": 0,
+		"CurFloorArea": "0",
+		"NextFloorArea": "0",
+		"DataImpl": {},
+		"SpawnPointName": "dayNav_08"
+	}
+]

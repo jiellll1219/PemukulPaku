@@ -1,0 +1,272 @@
+[
+	{
+		"HeightRange": 2,
+		"XSize": 90,
+		"ZSize": 90,
+		"TexWidth": 256,
+		"TexHeigth": 256,
+		"PositionWS": [
+			-47.3,
+			5,
+			-11
+		],
+		"RotationWS": [
+			0,
+			45,
+			0
+		],
+		"CutOff": 0.0001,
+		"Luminance": 3.5,
+		"StepScale": 0.4,
+		"StepMinValue": 0.0001,
+		"ImagePath": "Assets/AsbRes/Stage/Stage_Tower/FOWTexture.png",
+		"PlayerSectorAngle": 45,
+		"playerRadius": 0.1,
+		"fogValue": 0.2,
+		"DataImpl": {},
+		"StageName": "StageTower_Part01"
+	},
+	{
+		"HeightRange": 2,
+		"XSize": 130,
+		"ZSize": 130,
+		"TexWidth": 128,
+		"TexHeigth": 128,
+		"PositionWS": [
+			-13.9,
+			5,
+			-77.32
+		],
+		"RotationWS": [
+			0,
+			0,
+			0
+		],
+		"CutOff": 0.0001,
+		"Luminance": 3.5,
+		"StepScale": 0.9,
+		"StepMinValue": 0.0001,
+		"ImagePath": "Assets/AsbRes/Stage/Stage_PVERogue/FOWTexture01.png",
+		"PlayerSectorAngle": 45,
+		"playerRadius": 0.15,
+		"fogValue": 0.3,
+		"DataImpl": {},
+		"StageName": "Stage_PVERogue"
+	},
+	{
+		"HeightRange": 2,
+		"XSize": 80,
+		"ZSize": 80,
+		"TexWidth": 128,
+		"TexHeigth": 128,
+		"PositionWS": [
+			-11.8,
+			5,
+			-41.3
+		],
+		"RotationWS": [
+			0,
+			0,
+			0
+		],
+		"CutOff": 0.0001,
+		"Luminance": 3.5,
+		"StepScale": 0.9,
+		"StepMinValue": 0.0001,
+		"ImagePath": "Assets/AsbRes/Stage/Stage_PVERogue/FOWTexture01B.png",
+		"PlayerSectorAngle": 45,
+		"playerRadius": 0.15,
+		"fogValue": 0.3,
+		"DataImpl": {},
+		"StageName": "Stage_PVERogue_Area01_B"
+	},
+	{
+		"HeightRange": 1.5,
+		"XSize": 100,
+		"ZSize": 60,
+		"TexWidth": 256,
+		"TexHeigth": 256,
+		"PositionWS": [
+			-45,
+			3.75,
+			-30
+		],
+		"RotationWS": [
+			0,
+			0,
+			0
+		],
+		"CutOff": 0.0001,
+		"Luminance": 2.74,
+		"StepScale": 0.9,
+		"StepMinValue": 0.0001,
+		"ImagePath": "Assets/AsbRes/Stage/Stage_PVERogue/FOWTexture01B.png",
+		"PlayerSectorAngle": 360,
+		"playerRadius": 0.15,
+		"fogValue": 0,
+		"DataImpl": {},
+		"StageName": "Stage_Qbattle_Village_03_360_Higher"
+	},
+	{
+		"HeightRange": 1.5,
+		"XSize": 100,
+		"ZSize": 60,
+		"TexWidth": 256,
+		"TexHeigth": 256,
+		"PositionWS": [
+			-45,
+			3.1,
+			-30
+		],
+		"RotationWS": [
+			0,
+			0,
+			0
+		],
+		"CutOff": 0.0001,
+		"Luminance": 2.74,
+		"StepScale": 0.9,
+		"StepMinValue": 0.0001,
+		"ImagePath": "Assets/AsbRes/Stage/Stage_PVERogue/FOWTexture01B.png",
+		"PlayerSectorAngle": 360,
+		"playerRadius": 0.15,
+		"fogValue": 0,
+		"DataImpl": {},
+		"StageName": "Stage_Qbattle_Village_03_360_Normal"
+	},
+	{
+		"HeightRange": 1.5,
+		"XSize": 80,
+		"ZSize": 80,
+		"TexWidth": 256,
+		"TexHeigth": 256,
+		"PositionWS": [
+			-20,
+			3,
+			-30
+		],
+		"RotationWS": [
+			0,
+			0,
+			0
+		],
+		"CutOff": 0.0001,
+		"Luminance": 2.74,
+		"StepScale": 0.5,
+		"StepMinValue": 0.0001,
+		"ImagePath": "Assets/AsbRes/Stage/Stage_PVERogue/FOWTexture01B.png",
+		"PlayerSectorAngle": 360,
+		"playerRadius": 0.13,
+		"fogValue": 0,
+		"DataImpl": {},
+		"StageName": "Stage_Qbattle_mountainous_02_360"
+	},
+	{
+		"HeightRange": 1.5,
+		"XSize": 70,
+		"ZSize": 70,
+		"TexWidth": 256,
+		"TexHeigth": 256,
+		"PositionWS": [
+			-20,
+			3,
+			-30
+		],
+		"RotationWS": [
+			0,
+			0,
+			0
+		],
+		"CutOff": 0.0001,
+		"Luminance": 2.74,
+		"StepScale": 0.5,
+		"StepMinValue": 0.0001,
+		"ImagePath": "Assets/AsbRes/Stage/Stage_PVERogue/FOWTexture01B.png",
+		"PlayerSectorAngle": 360,
+		"playerRadius": 0.3,
+		"fogValue": 0,
+		"DataImpl": {},
+		"StageName": "Stage_Qbattle_mountainous_02_360_Big"
+	},
+	{
+		"HeightRange": 1.5,
+		"XSize": 100,
+		"ZSize": 60,
+		"TexWidth": 256,
+		"TexHeigth": 256,
+		"PositionWS": [
+			-45,
+			3,
+			-30
+		],
+		"RotationWS": [
+			0,
+			0,
+			0
+		],
+		"CutOff": 0.0001,
+		"Luminance": 2.74,
+		"StepScale": 0.9,
+		"StepMinValue": 0.0001,
+		"ImagePath": "Assets/AsbRes/Stage/Stage_PVERogue/FOWTexture01B.png",
+		"PlayerSectorAngle": 360,
+		"playerRadius": 0.15,
+		"fogValue": 0,
+		"DataImpl": {},
+		"StageName": "Stage_Qbattle_mountainous_03_360"
+	},
+	{
+		"HeightRange": 1.5,
+		"XSize": 70,
+		"ZSize": 70,
+		"TexWidth": 256,
+		"TexHeigth": 256,
+		"PositionWS": [
+			-17.16,
+			2,
+			-28.5
+		],
+		"RotationWS": [
+			0,
+			0,
+			0
+		],
+		"CutOff": 0.0001,
+		"Luminance": 2.74,
+		"StepScale": 0.5,
+		"StepMinValue": 0.0001,
+		"ImagePath": "Assets/AsbRes/Stage/Stage_PVERogue/FOWTexture01B.png",
+		"PlayerSectorAngle": 360,
+		"playerRadius": 0.3,
+		"fogValue": 0,
+		"DataImpl": {},
+		"StageName": "Stage_Qbattle_mountainous_03_360_Big"
+	},
+	{
+		"HeightRange": 1.5,
+		"XSize": 70,
+		"ZSize": 70,
+		"TexWidth": 256,
+		"TexHeigth": 256,
+		"PositionWS": [
+			-17.16,
+			2,
+			-28.5
+		],
+		"RotationWS": [
+			0,
+			0,
+			0
+		],
+		"CutOff": 0.0001,
+		"Luminance": 2.74,
+		"StepScale": 0.5,
+		"StepMinValue": 0.0001,
+		"ImagePath": "Assets/AsbRes/Stage/Stage_PVERogue/FOWTexture01B.png",
+		"PlayerSectorAngle": 45,
+		"playerRadius": 0.15,
+		"fogValue": 0,
+		"DataImpl": {},
+		"StageName": "Stage_Shoot_PVE_Tower01"
+	}
+]

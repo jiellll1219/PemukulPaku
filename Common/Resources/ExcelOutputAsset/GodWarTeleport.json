@@ -1,0 +1,3610 @@
+[
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueShopIcon",
+		"TeleportEvent": 300100,
+		"TeleportTitle": {
+			"hash": 570190975
+		},
+		"TeleportContent": {
+			"hash": 1307122912
+		},
+		"TeleportDesc": {
+			"hash": -3506258
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type8",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 100
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_1",
+		"TeleportEvent": 300101,
+		"TeleportTitle": {
+			"hash": 570190976
+		},
+		"TeleportContent": {
+			"hash": 1307122913
+		},
+		"TeleportDesc": {
+			"hash": -3506257
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type4",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 101
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_2",
+		"TeleportEvent": 300102,
+		"TeleportTitle": {
+			"hash": 570190977
+		},
+		"TeleportContent": {
+			"hash": 1307122914
+		},
+		"TeleportDesc": {
+			"hash": -3506256
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type2",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 102
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_3",
+		"TeleportEvent": 300103,
+		"TeleportTitle": {
+			"hash": 570190978
+		},
+		"TeleportContent": {
+			"hash": 1307122915
+		},
+		"TeleportDesc": {
+			"hash": -3506255
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type3",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 103
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_4",
+		"TeleportEvent": 300104,
+		"TeleportTitle": {
+			"hash": 570190979
+		},
+		"TeleportContent": {
+			"hash": 1307122916
+		},
+		"TeleportDesc": {
+			"hash": -3506254
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type5",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 104
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_5",
+		"TeleportEvent": 300105,
+		"TeleportTitle": {
+			"hash": 570190980
+		},
+		"TeleportContent": {
+			"hash": 1307122917
+		},
+		"TeleportDesc": {
+			"hash": -3506253
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type6",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 105
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_6",
+		"TeleportEvent": 300106,
+		"TeleportTitle": {
+			"hash": 570190981
+		},
+		"TeleportContent": {
+			"hash": 1307122918
+		},
+		"TeleportDesc": {
+			"hash": -3506252
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type1",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 106
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_7",
+		"TeleportEvent": 300107,
+		"TeleportTitle": {
+			"hash": 570190982
+		},
+		"TeleportContent": {
+			"hash": 1307122919
+		},
+		"TeleportDesc": {
+			"hash": -3506251
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type7",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 107
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_Sp_8",
+		"TeleportEvent": 300108,
+		"TeleportTitle": {
+			"hash": 570190983
+		},
+		"TeleportContent": {
+			"hash": 1307122920
+		},
+		"TeleportDesc": {
+			"hash": -3506250
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type0",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 108
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_12",
+		"TeleportEvent": 300109,
+		"TeleportTitle": {
+			"hash": 570190984
+		},
+		"TeleportContent": {
+			"hash": 1307122921
+		},
+		"TeleportDesc": {
+			"hash": -3506249
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type10",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 109
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_13",
+		"TeleportEvent": 300110,
+		"TeleportTitle": {
+			"hash": 570191006
+		},
+		"TeleportContent": {
+			"hash": 1307122943
+		},
+		"TeleportDesc": {
+			"hash": -3506227
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type13",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 110
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_9",
+		"TeleportEvent": 300111,
+		"TeleportTitle": {
+			"hash": 570191007
+		},
+		"TeleportContent": {
+			"hash": 1307122944
+		},
+		"TeleportDesc": {
+			"hash": -3506226
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type14",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 111
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_10",
+		"TeleportEvent": 300112,
+		"TeleportTitle": {
+			"hash": 570191008
+		},
+		"TeleportContent": {
+			"hash": 1307122945
+		},
+		"TeleportDesc": {
+			"hash": -3506225
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type12",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 112
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_11",
+		"TeleportEvent": 300113,
+		"TeleportTitle": {
+			"hash": 570191009
+		},
+		"TeleportContent": {
+			"hash": 1307122946
+		},
+		"TeleportDesc": {
+			"hash": -3506224
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type11",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 113
+	},
+	{
+		"TeleportType": 2,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueShopIcon",
+		"TeleportEvent": 300201,
+		"TeleportTitle": {
+			"hash": 570191937
+		},
+		"TeleportContent": {
+			"hash": 1307123874
+		},
+		"TeleportDesc": {
+			"hash": -3505296
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type8",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 201
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueBottleIcon",
+		"TeleportEvent": 300301,
+		"TeleportTitle": {
+			"hash": 570192898
+		},
+		"TeleportContent": {
+			"hash": 1307124835
+		},
+		"TeleportDesc": {
+			"hash": -3504335
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type9",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 301
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBug",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueShopIcon",
+		"TeleportEvent": 300100,
+		"TeleportTitle": {
+			"hash": 570190975
+		},
+		"TeleportContent": {
+			"hash": 1307122912
+		},
+		"TeleportDesc": {
+			"hash": -3506258
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type8",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 400
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBug",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_1",
+		"TeleportEvent": 300101,
+		"TeleportTitle": {
+			"hash": 570190976
+		},
+		"TeleportContent": {
+			"hash": 1307122913
+		},
+		"TeleportDesc": {
+			"hash": -3506257
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type4",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 401
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBug",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_2",
+		"TeleportEvent": 300102,
+		"TeleportTitle": {
+			"hash": 570190977
+		},
+		"TeleportContent": {
+			"hash": 1307122914
+		},
+		"TeleportDesc": {
+			"hash": -3506256
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type2",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 402
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBug",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_3",
+		"TeleportEvent": 300103,
+		"TeleportTitle": {
+			"hash": 570190978
+		},
+		"TeleportContent": {
+			"hash": 1307122915
+		},
+		"TeleportDesc": {
+			"hash": -3506255
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type3",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 403
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBug",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_4",
+		"TeleportEvent": 300104,
+		"TeleportTitle": {
+			"hash": 570190979
+		},
+		"TeleportContent": {
+			"hash": 1307122916
+		},
+		"TeleportDesc": {
+			"hash": -3506254
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type5",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 404
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBug",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_5",
+		"TeleportEvent": 300105,
+		"TeleportTitle": {
+			"hash": 570190980
+		},
+		"TeleportContent": {
+			"hash": 1307122917
+		},
+		"TeleportDesc": {
+			"hash": -3506253
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type6",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 405
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBug",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_6",
+		"TeleportEvent": 300106,
+		"TeleportTitle": {
+			"hash": 570190981
+		},
+		"TeleportContent": {
+			"hash": 1307122918
+		},
+		"TeleportDesc": {
+			"hash": -3506252
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type1",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 406
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBug",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_7",
+		"TeleportEvent": 300107,
+		"TeleportTitle": {
+			"hash": 570190982
+		},
+		"TeleportContent": {
+			"hash": 1307122919
+		},
+		"TeleportDesc": {
+			"hash": -3506251
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type7",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 407
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBug",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_Sp_8",
+		"TeleportEvent": 300108,
+		"TeleportTitle": {
+			"hash": 570190983
+		},
+		"TeleportContent": {
+			"hash": 1307122920
+		},
+		"TeleportDesc": {
+			"hash": -3506250
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type0",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 408
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoorGreenPlus",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueShopIcon",
+		"TeleportEvent": 300100,
+		"TeleportTitle": {
+			"hash": 570190975
+		},
+		"TeleportContent": {
+			"hash": 1307122912
+		},
+		"TeleportDesc": {
+			"hash": -3506258
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type8",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 500
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoorGreenPlus",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_1",
+		"TeleportEvent": 300101,
+		"TeleportTitle": {
+			"hash": 570190976
+		},
+		"TeleportContent": {
+			"hash": 1307122913
+		},
+		"TeleportDesc": {
+			"hash": -3506257
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type4",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 501
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoorGreenPlus",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_2",
+		"TeleportEvent": 300102,
+		"TeleportTitle": {
+			"hash": 570190977
+		},
+		"TeleportContent": {
+			"hash": 1307122914
+		},
+		"TeleportDesc": {
+			"hash": -3506256
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type2",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 502
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoorGreenPlus",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_3",
+		"TeleportEvent": 300103,
+		"TeleportTitle": {
+			"hash": 570190978
+		},
+		"TeleportContent": {
+			"hash": 1307122915
+		},
+		"TeleportDesc": {
+			"hash": -3506255
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type3",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 503
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoorGreenPlus",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_4",
+		"TeleportEvent": 300104,
+		"TeleportTitle": {
+			"hash": 570190979
+		},
+		"TeleportContent": {
+			"hash": 1307122916
+		},
+		"TeleportDesc": {
+			"hash": -3506254
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type5",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 504
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoorGreenPlus",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_5",
+		"TeleportEvent": 300105,
+		"TeleportTitle": {
+			"hash": 570190980
+		},
+		"TeleportContent": {
+			"hash": 1307122917
+		},
+		"TeleportDesc": {
+			"hash": -3506253
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type6",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 505
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoorGreenPlus",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_6",
+		"TeleportEvent": 300106,
+		"TeleportTitle": {
+			"hash": 570190981
+		},
+		"TeleportContent": {
+			"hash": 1307122918
+		},
+		"TeleportDesc": {
+			"hash": -3506252
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type1",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 506
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoorGreenPlus",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_7",
+		"TeleportEvent": 300107,
+		"TeleportTitle": {
+			"hash": 570190982
+		},
+		"TeleportContent": {
+			"hash": 1307122919
+		},
+		"TeleportDesc": {
+			"hash": -3506251
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type7",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 507
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoorGreenPlus",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_Sp_8",
+		"TeleportEvent": 300108,
+		"TeleportTitle": {
+			"hash": 570190983
+		},
+		"TeleportContent": {
+			"hash": 1307122920
+		},
+		"TeleportDesc": {
+			"hash": -3506250
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type0",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 508
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_1",
+		"TeleportEvent": 300101,
+		"TeleportTitle": {
+			"hash": 570190976
+		},
+		"TeleportContent": {
+			"hash": 1307122913
+		},
+		"TeleportDesc": {
+			"hash": -3506257
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type4",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 601
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_2",
+		"TeleportEvent": 300102,
+		"TeleportTitle": {
+			"hash": 570190977
+		},
+		"TeleportContent": {
+			"hash": 1307122914
+		},
+		"TeleportDesc": {
+			"hash": -3506256
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type2",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 602
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_3",
+		"TeleportEvent": 300103,
+		"TeleportTitle": {
+			"hash": 570190978
+		},
+		"TeleportContent": {
+			"hash": 1307122915
+		},
+		"TeleportDesc": {
+			"hash": -3506255
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type3",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 603
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_4",
+		"TeleportEvent": 300104,
+		"TeleportTitle": {
+			"hash": 570190979
+		},
+		"TeleportContent": {
+			"hash": 1307122916
+		},
+		"TeleportDesc": {
+			"hash": -3506254
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type5",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 604
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_5",
+		"TeleportEvent": 300105,
+		"TeleportTitle": {
+			"hash": 570190980
+		},
+		"TeleportContent": {
+			"hash": 1307122917
+		},
+		"TeleportDesc": {
+			"hash": -3506253
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type6",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 605
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_6",
+		"TeleportEvent": 300106,
+		"TeleportTitle": {
+			"hash": 570190981
+		},
+		"TeleportContent": {
+			"hash": 1307122918
+		},
+		"TeleportDesc": {
+			"hash": -3506252
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type1",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 606
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_7",
+		"TeleportEvent": 300107,
+		"TeleportTitle": {
+			"hash": 570190982
+		},
+		"TeleportContent": {
+			"hash": 1307122919
+		},
+		"TeleportDesc": {
+			"hash": -3506251
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type7",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 607
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_Sp_8",
+		"TeleportEvent": 300108,
+		"TeleportTitle": {
+			"hash": 570190983
+		},
+		"TeleportContent": {
+			"hash": 1307122920
+		},
+		"TeleportDesc": {
+			"hash": -3506250
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type0",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 608
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_12",
+		"TeleportEvent": 300109,
+		"TeleportTitle": {
+			"hash": 570190984
+		},
+		"TeleportContent": {
+			"hash": 1307122921
+		},
+		"TeleportDesc": {
+			"hash": -3506249
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type10",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 609
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_13",
+		"TeleportEvent": 300110,
+		"TeleportTitle": {
+			"hash": 570191006
+		},
+		"TeleportContent": {
+			"hash": 1307122943
+		},
+		"TeleportDesc": {
+			"hash": -3506227
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type13",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 610
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_9",
+		"TeleportEvent": 300111,
+		"TeleportTitle": {
+			"hash": 570191007
+		},
+		"TeleportContent": {
+			"hash": 1307122944
+		},
+		"TeleportDesc": {
+			"hash": -3506226
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type14",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 611
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_10",
+		"TeleportEvent": 300112,
+		"TeleportTitle": {
+			"hash": 570191008
+		},
+		"TeleportContent": {
+			"hash": 1307122945
+		},
+		"TeleportDesc": {
+			"hash": -3506225
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type12",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 612
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_11",
+		"TeleportEvent": 300113,
+		"TeleportTitle": {
+			"hash": 570191009
+		},
+		"TeleportContent": {
+			"hash": 1307122946
+		},
+		"TeleportDesc": {
+			"hash": -3506224
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type11",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 613
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_1",
+		"TeleportEvent": 300101,
+		"TeleportTitle": {
+			"hash": 570190976
+		},
+		"TeleportContent": {
+			"hash": 1866104657
+		},
+		"TeleportDesc": {
+			"hash": -108693949
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type4",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 1001
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_2",
+		"TeleportEvent": 300102,
+		"TeleportTitle": {
+			"hash": 570190977
+		},
+		"TeleportContent": {
+			"hash": 1866104658
+		},
+		"TeleportDesc": {
+			"hash": -108693948
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type2",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 1002
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_3",
+		"TeleportEvent": 300103,
+		"TeleportTitle": {
+			"hash": 570190978
+		},
+		"TeleportContent": {
+			"hash": 1866104659
+		},
+		"TeleportDesc": {
+			"hash": -108693947
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type3",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 1003
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_4",
+		"TeleportEvent": 300104,
+		"TeleportTitle": {
+			"hash": 570190979
+		},
+		"TeleportContent": {
+			"hash": 1866104660
+		},
+		"TeleportDesc": {
+			"hash": -108693946
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type5",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 1004
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_5",
+		"TeleportEvent": 300105,
+		"TeleportTitle": {
+			"hash": 570190980
+		},
+		"TeleportContent": {
+			"hash": 1866104661
+		},
+		"TeleportDesc": {
+			"hash": -108693945
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type6",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 1005
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_6",
+		"TeleportEvent": 300106,
+		"TeleportTitle": {
+			"hash": 570190981
+		},
+		"TeleportContent": {
+			"hash": 1866104662
+		},
+		"TeleportDesc": {
+			"hash": -108693944
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type1",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 1006
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_7",
+		"TeleportEvent": 300107,
+		"TeleportTitle": {
+			"hash": 570190982
+		},
+		"TeleportContent": {
+			"hash": 1866104663
+		},
+		"TeleportDesc": {
+			"hash": -108693943
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type7",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 1007
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_Sp_8",
+		"TeleportEvent": 300108,
+		"TeleportTitle": {
+			"hash": 570190983
+		},
+		"TeleportContent": {
+			"hash": 1866104664
+		},
+		"TeleportDesc": {
+			"hash": -108693942
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type0",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 1008
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_12",
+		"TeleportEvent": 300109,
+		"TeleportTitle": {
+			"hash": 570190984
+		},
+		"TeleportContent": {
+			"hash": 1866104665
+		},
+		"TeleportDesc": {
+			"hash": -3506249
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type10",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 1009
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_13",
+		"TeleportEvent": 300110,
+		"TeleportTitle": {
+			"hash": 570191006
+		},
+		"TeleportContent": {
+			"hash": 1866104687
+		},
+		"TeleportDesc": {
+			"hash": -3506227
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type13",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 1010
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_9",
+		"TeleportEvent": 300111,
+		"TeleportTitle": {
+			"hash": 570191007
+		},
+		"TeleportContent": {
+			"hash": 1866104688
+		},
+		"TeleportDesc": {
+			"hash": -3506226
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type14",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 1011
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_10",
+		"TeleportEvent": 300112,
+		"TeleportTitle": {
+			"hash": 570191008
+		},
+		"TeleportContent": {
+			"hash": 1866104689
+		},
+		"TeleportDesc": {
+			"hash": -3506225
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type12",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 1012
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_11",
+		"TeleportEvent": 300113,
+		"TeleportTitle": {
+			"hash": 570191009
+		},
+		"TeleportContent": {
+			"hash": 1866104690
+		},
+		"TeleportDesc": {
+			"hash": -3506224
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type11",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 1013
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_12",
+		"TeleportEvent": 300109,
+		"TeleportTitle": {
+			"hash": 570190984
+		},
+		"TeleportContent": {
+			"hash": 1307122921
+		},
+		"TeleportDesc": {
+			"hash": -3506249
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type10",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 1091
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_13",
+		"TeleportEvent": 300110,
+		"TeleportTitle": {
+			"hash": 570191006
+		},
+		"TeleportContent": {
+			"hash": 1307122943
+		},
+		"TeleportDesc": {
+			"hash": -3506227
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type13",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 1101
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_9",
+		"TeleportEvent": 300111,
+		"TeleportTitle": {
+			"hash": 570191007
+		},
+		"TeleportContent": {
+			"hash": 1307122944
+		},
+		"TeleportDesc": {
+			"hash": -3506226
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type14",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 1111
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_10",
+		"TeleportEvent": 300112,
+		"TeleportTitle": {
+			"hash": 570191008
+		},
+		"TeleportContent": {
+			"hash": 1866105680
+		},
+		"TeleportDesc": {
+			"hash": -108692926
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type12",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 1121
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_11",
+		"TeleportEvent": 300113,
+		"TeleportTitle": {
+			"hash": 570191009
+		},
+		"TeleportContent": {
+			"hash": 1307122946
+		},
+		"TeleportDesc": {
+			"hash": -3506224
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type11",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 1131
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_1",
+		"TeleportEvent": 300101,
+		"TeleportTitle": {
+			"hash": 570190976
+		},
+		"TeleportContent": {
+			"hash": 1866134448
+		},
+		"TeleportDesc": {
+			"hash": -108664158
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type4",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 2001
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_2",
+		"TeleportEvent": 300102,
+		"TeleportTitle": {
+			"hash": 570190977
+		},
+		"TeleportContent": {
+			"hash": 1866134449
+		},
+		"TeleportDesc": {
+			"hash": -108664157
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type2",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 2002
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_3",
+		"TeleportEvent": 300103,
+		"TeleportTitle": {
+			"hash": 570190978
+		},
+		"TeleportContent": {
+			"hash": 1866134450
+		},
+		"TeleportDesc": {
+			"hash": -108664156
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type3",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 2003
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_4",
+		"TeleportEvent": 300104,
+		"TeleportTitle": {
+			"hash": 570190979
+		},
+		"TeleportContent": {
+			"hash": 1866134451
+		},
+		"TeleportDesc": {
+			"hash": -108664155
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type5",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 2004
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_5",
+		"TeleportEvent": 300105,
+		"TeleportTitle": {
+			"hash": 570190980
+		},
+		"TeleportContent": {
+			"hash": 1866134452
+		},
+		"TeleportDesc": {
+			"hash": -108664154
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type6",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 2005
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_6",
+		"TeleportEvent": 300106,
+		"TeleportTitle": {
+			"hash": 570190981
+		},
+		"TeleportContent": {
+			"hash": 1866134453
+		},
+		"TeleportDesc": {
+			"hash": -108664153
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type1",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 2006
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_7",
+		"TeleportEvent": 300107,
+		"TeleportTitle": {
+			"hash": 570190982
+		},
+		"TeleportContent": {
+			"hash": 1866134454
+		},
+		"TeleportDesc": {
+			"hash": -108664152
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type7",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 2007
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_Sp_8",
+		"TeleportEvent": 300108,
+		"TeleportTitle": {
+			"hash": 570190983
+		},
+		"TeleportContent": {
+			"hash": 1866134455
+		},
+		"TeleportDesc": {
+			"hash": -108664151
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type0",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 2008
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_12",
+		"TeleportEvent": 300109,
+		"TeleportTitle": {
+			"hash": 570190984
+		},
+		"TeleportContent": {
+			"hash": 1866134456
+		},
+		"TeleportDesc": {
+			"hash": -3506249
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type10",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 2009
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_13",
+		"TeleportEvent": 300110,
+		"TeleportTitle": {
+			"hash": 570191006
+		},
+		"TeleportContent": {
+			"hash": 1866134478
+		},
+		"TeleportDesc": {
+			"hash": -3506227
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type13",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 2010
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_9",
+		"TeleportEvent": 300111,
+		"TeleportTitle": {
+			"hash": 570191007
+		},
+		"TeleportContent": {
+			"hash": 1866134479
+		},
+		"TeleportDesc": {
+			"hash": -3506226
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type14",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 2011
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_10",
+		"TeleportEvent": 300112,
+		"TeleportTitle": {
+			"hash": 570191008
+		},
+		"TeleportContent": {
+			"hash": 1866134480
+		},
+		"TeleportDesc": {
+			"hash": -3506225
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type12",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 2012
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_11",
+		"TeleportEvent": 300113,
+		"TeleportTitle": {
+			"hash": 570191009
+		},
+		"TeleportContent": {
+			"hash": 1866134481
+		},
+		"TeleportDesc": {
+			"hash": -3506224
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type11",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 2013
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBug",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_1",
+		"TeleportEvent": 300101,
+		"TeleportTitle": {
+			"hash": 570190976
+		},
+		"TeleportContent": {
+			"hash": 1866104657
+		},
+		"TeleportDesc": {
+			"hash": -108693949
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type4",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 3001
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBug",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_2",
+		"TeleportEvent": 300102,
+		"TeleportTitle": {
+			"hash": 570190977
+		},
+		"TeleportContent": {
+			"hash": 1866104658
+		},
+		"TeleportDesc": {
+			"hash": -108693948
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type2",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 3002
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBug",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_3",
+		"TeleportEvent": 300103,
+		"TeleportTitle": {
+			"hash": 570190978
+		},
+		"TeleportContent": {
+			"hash": 1866104659
+		},
+		"TeleportDesc": {
+			"hash": -108693947
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type3",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 3003
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBug",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_4",
+		"TeleportEvent": 300104,
+		"TeleportTitle": {
+			"hash": 570190979
+		},
+		"TeleportContent": {
+			"hash": 1866104660
+		},
+		"TeleportDesc": {
+			"hash": -108693946
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type5",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 3004
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBug",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_5",
+		"TeleportEvent": 300105,
+		"TeleportTitle": {
+			"hash": 570190980
+		},
+		"TeleportContent": {
+			"hash": 1866104661
+		},
+		"TeleportDesc": {
+			"hash": -108693945
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type6",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 3005
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBug",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_6",
+		"TeleportEvent": 300106,
+		"TeleportTitle": {
+			"hash": 570190981
+		},
+		"TeleportContent": {
+			"hash": 1866104662
+		},
+		"TeleportDesc": {
+			"hash": -108693944
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type1",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 3006
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBug",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_7",
+		"TeleportEvent": 300107,
+		"TeleportTitle": {
+			"hash": 570190982
+		},
+		"TeleportContent": {
+			"hash": 1866104663
+		},
+		"TeleportDesc": {
+			"hash": -108693943
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type7",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 3007
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBug",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_Sp_8",
+		"TeleportEvent": 300108,
+		"TeleportTitle": {
+			"hash": 570190983
+		},
+		"TeleportContent": {
+			"hash": 1866104664
+		},
+		"TeleportDesc": {
+			"hash": -108693942
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type0",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 3008
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_1",
+		"TeleportEvent": 300101,
+		"TeleportTitle": {
+			"hash": 570190976
+		},
+		"TeleportContent": {
+			"hash": 1866134448
+		},
+		"TeleportDesc": {
+			"hash": -108664158
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type4",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 4001
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_2",
+		"TeleportEvent": 300102,
+		"TeleportTitle": {
+			"hash": 570190977
+		},
+		"TeleportContent": {
+			"hash": 1866134449
+		},
+		"TeleportDesc": {
+			"hash": -108664157
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type2",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 4002
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_3",
+		"TeleportEvent": 300103,
+		"TeleportTitle": {
+			"hash": 570190978
+		},
+		"TeleportContent": {
+			"hash": 1866134450
+		},
+		"TeleportDesc": {
+			"hash": -108664156
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type3",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 4003
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_4",
+		"TeleportEvent": 300104,
+		"TeleportTitle": {
+			"hash": 570190979
+		},
+		"TeleportContent": {
+			"hash": 1866134451
+		},
+		"TeleportDesc": {
+			"hash": -108664155
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type5",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 4004
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_5",
+		"TeleportEvent": 300105,
+		"TeleportTitle": {
+			"hash": 570190980
+		},
+		"TeleportContent": {
+			"hash": 1866134452
+		},
+		"TeleportDesc": {
+			"hash": -108664154
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type6",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 4005
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_6",
+		"TeleportEvent": 300106,
+		"TeleportTitle": {
+			"hash": 570190981
+		},
+		"TeleportContent": {
+			"hash": 1866134453
+		},
+		"TeleportDesc": {
+			"hash": -108664153
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type1",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 4006
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_7",
+		"TeleportEvent": 300107,
+		"TeleportTitle": {
+			"hash": 570190982
+		},
+		"TeleportContent": {
+			"hash": 1866134454
+		},
+		"TeleportDesc": {
+			"hash": -108664152
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type7",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 4007
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_Sp_8",
+		"TeleportEvent": 300108,
+		"TeleportTitle": {
+			"hash": 570190983
+		},
+		"TeleportContent": {
+			"hash": 1866134455
+		},
+		"TeleportDesc": {
+			"hash": -108664151
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type0",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 4008
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoorGreenPlus",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_1",
+		"TeleportEvent": 300101,
+		"TeleportTitle": {
+			"hash": 570190976
+		},
+		"TeleportContent": {
+			"hash": 1866104657
+		},
+		"TeleportDesc": {
+			"hash": -108693949
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type4",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 5001
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoorGreenPlus",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_2",
+		"TeleportEvent": 300102,
+		"TeleportTitle": {
+			"hash": 570190977
+		},
+		"TeleportContent": {
+			"hash": 1866104658
+		},
+		"TeleportDesc": {
+			"hash": -108693948
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type2",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 5002
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoorGreenPlus",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_3",
+		"TeleportEvent": 300103,
+		"TeleportTitle": {
+			"hash": 570190978
+		},
+		"TeleportContent": {
+			"hash": 1866104659
+		},
+		"TeleportDesc": {
+			"hash": -108693947
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type3",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 5003
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoorGreenPlus",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_4",
+		"TeleportEvent": 300104,
+		"TeleportTitle": {
+			"hash": 570190979
+		},
+		"TeleportContent": {
+			"hash": 1866104660
+		},
+		"TeleportDesc": {
+			"hash": -108693946
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type5",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 5004
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoorGreenPlus",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_5",
+		"TeleportEvent": 300105,
+		"TeleportTitle": {
+			"hash": 570190980
+		},
+		"TeleportContent": {
+			"hash": 1866104661
+		},
+		"TeleportDesc": {
+			"hash": -108693945
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type6",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 5005
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoorGreenPlus",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_6",
+		"TeleportEvent": 300106,
+		"TeleportTitle": {
+			"hash": 570190981
+		},
+		"TeleportContent": {
+			"hash": 1866104662
+		},
+		"TeleportDesc": {
+			"hash": -108693944
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type1",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 5006
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoorGreenPlus",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_7",
+		"TeleportEvent": 300107,
+		"TeleportTitle": {
+			"hash": 570190982
+		},
+		"TeleportContent": {
+			"hash": 1866104663
+		},
+		"TeleportDesc": {
+			"hash": -108693943
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type7",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 5007
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoorGreenPlus",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_Sp_8",
+		"TeleportEvent": 300108,
+		"TeleportTitle": {
+			"hash": 570190983
+		},
+		"TeleportContent": {
+			"hash": 1866104664
+		},
+		"TeleportDesc": {
+			"hash": -108693942
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type0",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 5008
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_1",
+		"TeleportEvent": 300101,
+		"TeleportTitle": {
+			"hash": 570190976
+		},
+		"TeleportContent": {
+			"hash": 1866104657
+		},
+		"TeleportDesc": {
+			"hash": -108693949
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type4",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 6001
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_2",
+		"TeleportEvent": 300102,
+		"TeleportTitle": {
+			"hash": 570190977
+		},
+		"TeleportContent": {
+			"hash": 1866104658
+		},
+		"TeleportDesc": {
+			"hash": -108693948
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type2",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 6002
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_3",
+		"TeleportEvent": 300103,
+		"TeleportTitle": {
+			"hash": 570190978
+		},
+		"TeleportContent": {
+			"hash": 1866104659
+		},
+		"TeleportDesc": {
+			"hash": -108693947
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type3",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 6003
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_4",
+		"TeleportEvent": 300104,
+		"TeleportTitle": {
+			"hash": 570190979
+		},
+		"TeleportContent": {
+			"hash": 1866104660
+		},
+		"TeleportDesc": {
+			"hash": -108693946
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type5",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 6004
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_5",
+		"TeleportEvent": 300105,
+		"TeleportTitle": {
+			"hash": 570190980
+		},
+		"TeleportContent": {
+			"hash": 1866104661
+		},
+		"TeleportDesc": {
+			"hash": -108693945
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type6",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 6005
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_6",
+		"TeleportEvent": 300106,
+		"TeleportTitle": {
+			"hash": 570190981
+		},
+		"TeleportContent": {
+			"hash": 1866104662
+		},
+		"TeleportDesc": {
+			"hash": -108693944
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type1",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 6006
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_7",
+		"TeleportEvent": 300107,
+		"TeleportTitle": {
+			"hash": 570190982
+		},
+		"TeleportContent": {
+			"hash": 1866104663
+		},
+		"TeleportDesc": {
+			"hash": -108693943
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type7",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 6007
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_Sp_8",
+		"TeleportEvent": 300108,
+		"TeleportTitle": {
+			"hash": 570190983
+		},
+		"TeleportContent": {
+			"hash": 1866104664
+		},
+		"TeleportDesc": {
+			"hash": -108693942
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type0",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 6008
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_12",
+		"TeleportEvent": 300109,
+		"TeleportTitle": {
+			"hash": 570190984
+		},
+		"TeleportContent": {
+			"hash": 1866104665
+		},
+		"TeleportDesc": {
+			"hash": -3506249
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type10",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 6009
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_13",
+		"TeleportEvent": 300110,
+		"TeleportTitle": {
+			"hash": 570191006
+		},
+		"TeleportContent": {
+			"hash": 1866104687
+		},
+		"TeleportDesc": {
+			"hash": -3506227
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type13",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 6010
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_9",
+		"TeleportEvent": 300111,
+		"TeleportTitle": {
+			"hash": 570191007
+		},
+		"TeleportContent": {
+			"hash": 1866104688
+		},
+		"TeleportDesc": {
+			"hash": -3506226
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type14",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 6011
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_10",
+		"TeleportEvent": 300112,
+		"TeleportTitle": {
+			"hash": 570191008
+		},
+		"TeleportContent": {
+			"hash": 1866104689
+		},
+		"TeleportDesc": {
+			"hash": -3506225
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type12",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 6012
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_11",
+		"TeleportEvent": 300113,
+		"TeleportTitle": {
+			"hash": 570191009
+		},
+		"TeleportContent": {
+			"hash": 1866104690
+		},
+		"TeleportDesc": {
+			"hash": -3506224
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type11",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 6013
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_1",
+		"TeleportEvent": 300101,
+		"TeleportTitle": {
+			"hash": 570190976
+		},
+		"TeleportContent": {
+			"hash": 1866134448
+		},
+		"TeleportDesc": {
+			"hash": -108664158
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type4",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 7001
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_2",
+		"TeleportEvent": 300102,
+		"TeleportTitle": {
+			"hash": 570190977
+		},
+		"TeleportContent": {
+			"hash": 1866134449
+		},
+		"TeleportDesc": {
+			"hash": -108664157
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type2",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 7002
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_3",
+		"TeleportEvent": 300103,
+		"TeleportTitle": {
+			"hash": 570190978
+		},
+		"TeleportContent": {
+			"hash": 1866134450
+		},
+		"TeleportDesc": {
+			"hash": -108664156
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type3",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 7003
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_4",
+		"TeleportEvent": 300104,
+		"TeleportTitle": {
+			"hash": 570190979
+		},
+		"TeleportContent": {
+			"hash": 1866134451
+		},
+		"TeleportDesc": {
+			"hash": -108664155
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type5",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 7004
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_5",
+		"TeleportEvent": 300105,
+		"TeleportTitle": {
+			"hash": 570190980
+		},
+		"TeleportContent": {
+			"hash": 1866134452
+		},
+		"TeleportDesc": {
+			"hash": -108664154
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type6",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 7005
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_6",
+		"TeleportEvent": 300106,
+		"TeleportTitle": {
+			"hash": 570190981
+		},
+		"TeleportContent": {
+			"hash": 1866134453
+		},
+		"TeleportDesc": {
+			"hash": -108664153
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type1",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 7006
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_7",
+		"TeleportEvent": 300107,
+		"TeleportTitle": {
+			"hash": 570190982
+		},
+		"TeleportContent": {
+			"hash": 1866134454
+		},
+		"TeleportDesc": {
+			"hash": -108664152
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type7",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 7007
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_Sp_8",
+		"TeleportEvent": 300108,
+		"TeleportTitle": {
+			"hash": 570190983
+		},
+		"TeleportContent": {
+			"hash": 1866134455
+		},
+		"TeleportDesc": {
+			"hash": -108664151
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type0",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 7008
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_12",
+		"TeleportEvent": 300109,
+		"TeleportTitle": {
+			"hash": 570190984
+		},
+		"TeleportContent": {
+			"hash": 1866134456
+		},
+		"TeleportDesc": {
+			"hash": -3506249
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type10",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 7009
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_13",
+		"TeleportEvent": 300110,
+		"TeleportTitle": {
+			"hash": 570191006
+		},
+		"TeleportContent": {
+			"hash": 1866134478
+		},
+		"TeleportDesc": {
+			"hash": -3506227
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type13",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 7010
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_9",
+		"TeleportEvent": 300111,
+		"TeleportTitle": {
+			"hash": 570191007
+		},
+		"TeleportContent": {
+			"hash": 1866134479
+		},
+		"TeleportDesc": {
+			"hash": -3506226
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type14",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 7011
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_10",
+		"TeleportEvent": 300112,
+		"TeleportTitle": {
+			"hash": 570191008
+		},
+		"TeleportContent": {
+			"hash": 1866134480
+		},
+		"TeleportDesc": {
+			"hash": -3506225
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type12",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 7012
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_11",
+		"TeleportEvent": 300113,
+		"TeleportTitle": {
+			"hash": 570191009
+		},
+		"TeleportContent": {
+			"hash": 1866134481
+		},
+		"TeleportDesc": {
+			"hash": -3506224
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type11",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 7013
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_2",
+		"TeleportEvent": 300102,
+		"TeleportTitle": {
+			"hash": 570190977
+		},
+		"TeleportContent": {
+			"hash": 2014669538
+		},
+		"TeleportDesc": {
+			"hash": 925454896
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type2",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 10002
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_3",
+		"TeleportEvent": 300103,
+		"TeleportTitle": {
+			"hash": 570190978
+		},
+		"TeleportContent": {
+			"hash": 2014669539
+		},
+		"TeleportDesc": {
+			"hash": 925454897
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type3",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 10003
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_4",
+		"TeleportEvent": 300104,
+		"TeleportTitle": {
+			"hash": 570190979
+		},
+		"TeleportContent": {
+			"hash": 2014669540
+		},
+		"TeleportDesc": {
+			"hash": 925454898
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type5",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 10004
+	},
+	{
+		"TeleportType": 2,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_6",
+		"TeleportEvent": 300106,
+		"TeleportTitle": {
+			"hash": 570190981
+		},
+		"TeleportContent": {
+			"hash": 2014669542
+		},
+		"TeleportDesc": {
+			"hash": 925454900
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type1",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 10006
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_Sp_8",
+		"TeleportEvent": 300108,
+		"TeleportTitle": {
+			"hash": 570190983
+		},
+		"TeleportContent": {
+			"hash": 2014669544
+		},
+		"TeleportDesc": {
+			"hash": 925454902
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type0",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 10008
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_12",
+		"TeleportEvent": 300109,
+		"TeleportTitle": {
+			"hash": 570190984
+		},
+		"TeleportContent": {
+			"hash": 1866104665
+		},
+		"TeleportDesc": {
+			"hash": -3506249
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type10",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 10091
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_13",
+		"TeleportEvent": 300110,
+		"TeleportTitle": {
+			"hash": 570191006
+		},
+		"TeleportContent": {
+			"hash": 1866104687
+		},
+		"TeleportDesc": {
+			"hash": -3506227
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type13",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 10101
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_9",
+		"TeleportEvent": 300111,
+		"TeleportTitle": {
+			"hash": 570191007
+		},
+		"TeleportContent": {
+			"hash": 1866104688
+		},
+		"TeleportDesc": {
+			"hash": -3506226
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type14",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 10111
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_10",
+		"TeleportEvent": 300112,
+		"TeleportTitle": {
+			"hash": 570191008
+		},
+		"TeleportContent": {
+			"hash": 1866104689
+		},
+		"TeleportDesc": {
+			"hash": -3506225
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type12",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 10121
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_11",
+		"TeleportEvent": 300113,
+		"TeleportTitle": {
+			"hash": 570191009
+		},
+		"TeleportContent": {
+			"hash": 1866104690
+		},
+		"TeleportDesc": {
+			"hash": -3506224
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type11",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 10131
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_6",
+		"TeleportEvent": 300106,
+		"TeleportTitle": {
+			"hash": 570190981
+		},
+		"TeleportContent": {
+			"hash": 2015593063
+		},
+		"TeleportDesc": {
+			"hash": 926378421
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type1",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 20006
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueBottleIcon",
+		"TeleportEvent": 300108,
+		"TeleportTitle": {
+			"hash": 570190983
+		},
+		"TeleportContent": {
+			"hash": 2015593065
+		},
+		"TeleportDesc": {
+			"hash": 926378423
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type9",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 20008
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_12",
+		"TeleportEvent": 300109,
+		"TeleportTitle": {
+			"hash": 570190984
+		},
+		"TeleportContent": {
+			"hash": 1866134456
+		},
+		"TeleportDesc": {
+			"hash": -3506249
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type10",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 20091
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_13",
+		"TeleportEvent": 300110,
+		"TeleportTitle": {
+			"hash": 570191006
+		},
+		"TeleportContent": {
+			"hash": 1866134478
+		},
+		"TeleportDesc": {
+			"hash": -3506227
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type13",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 20101
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_9",
+		"TeleportEvent": 300111,
+		"TeleportTitle": {
+			"hash": 570191007
+		},
+		"TeleportContent": {
+			"hash": 1866134479
+		},
+		"TeleportDesc": {
+			"hash": -3506226
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type14",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 20111
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_10",
+		"TeleportEvent": 300112,
+		"TeleportTitle": {
+			"hash": 570191008
+		},
+		"TeleportContent": {
+			"hash": 1866134480
+		},
+		"TeleportDesc": {
+			"hash": -3506225
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type12",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 20121
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_11",
+		"TeleportEvent": 300113,
+		"TeleportTitle": {
+			"hash": 570191009
+		},
+		"TeleportContent": {
+			"hash": 1866134481
+		},
+		"TeleportDesc": {
+			"hash": -3506224
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type11",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 20131
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueBottleIcon",
+		"TeleportEvent": 300301,
+		"TeleportTitle": {
+			"hash": 570191006
+		},
+		"TeleportContent": {
+			"hash": 2016516579
+		},
+		"TeleportDesc": {
+			"hash": 927301937
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type9",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 30001
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_Sp_8",
+		"TeleportEvent": 300114,
+		"TeleportTitle": {
+			"hash": 570190983
+		},
+		"TeleportContent": {
+			"hash": 2016516580
+		},
+		"TeleportDesc": {
+			"hash": 927301938
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type0",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 30002
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_6",
+		"TeleportEvent": 300115,
+		"TeleportTitle": {
+			"hash": 570190983
+		},
+		"TeleportContent": {
+			"hash": 2016516581
+		},
+		"TeleportDesc": {
+			"hash": 927301939
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type1",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 30003
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_3",
+		"TeleportEvent": 300116,
+		"TeleportTitle": {
+			"hash": 570190983
+		},
+		"TeleportContent": {
+			"hash": 2016516582
+		},
+		"TeleportDesc": {
+			"hash": 927301940
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type3",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 30004
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_12",
+		"TeleportEvent": 300117,
+		"TeleportTitle": {
+			"hash": 570190983
+		},
+		"TeleportContent": {
+			"hash": 2016516583
+		},
+		"TeleportDesc": {
+			"hash": 927301941
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type10",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 30005
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_Sp_8",
+		"TeleportEvent": 300108,
+		"TeleportTitle": {
+			"hash": 570190983
+		},
+		"TeleportContent": {
+			"hash": 2016516580
+		},
+		"TeleportDesc": {
+			"hash": 927301938
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type0",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 30006
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_6",
+		"TeleportEvent": 300108,
+		"TeleportTitle": {
+			"hash": 570190983
+		},
+		"TeleportContent": {
+			"hash": 2016516581
+		},
+		"TeleportDesc": {
+			"hash": 927301939
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type1",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 30007
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_12",
+		"TeleportEvent": 300119,
+		"TeleportTitle": {
+			"hash": 570190983
+		},
+		"TeleportContent": {
+			"hash": 2016516583
+		},
+		"TeleportDesc": {
+			"hash": 927301941
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type10",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 30008
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_3",
+		"TeleportEvent": 300118,
+		"TeleportTitle": {
+			"hash": 570190983
+		},
+		"TeleportContent": {
+			"hash": 2016516582
+		},
+		"TeleportDesc": {
+			"hash": 927301940
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type3",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 30009
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_13",
+		"TeleportEvent": 300120,
+		"TeleportTitle": {
+			"hash": 570190983
+		},
+		"TeleportContent": {
+			"hash": 2016516584
+		},
+		"TeleportDesc": {
+			"hash": 927301942
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type13",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 30010
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_9",
+		"TeleportEvent": 300121,
+		"TeleportTitle": {
+			"hash": 570190983
+		},
+		"TeleportContent": {
+			"hash": 2016516610
+		},
+		"TeleportDesc": {
+			"hash": 927301968
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type14",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 30011
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_1",
+		"TeleportEvent": 300122,
+		"TeleportTitle": {
+			"hash": 570190983
+		},
+		"TeleportContent": {
+			"hash": 2016516611
+		},
+		"TeleportDesc": {
+			"hash": 927301969
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type4",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 30012
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_6",
+		"TeleportEvent": 300106,
+		"TeleportTitle": {
+			"hash": 570190983
+		},
+		"TeleportContent": {
+			"hash": 2017440105
+		},
+		"TeleportDesc": {
+			"hash": 928225463
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type1",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 40006
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_Sp_8",
+		"TeleportEvent": 300108,
+		"TeleportTitle": {
+			"hash": 570190983
+		},
+		"TeleportContent": {
+			"hash": 2017440107
+		},
+		"TeleportDesc": {
+			"hash": 928225465
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type0",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 40008
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_12",
+		"TeleportEvent": 300109,
+		"TeleportTitle": {
+			"hash": 570190984
+		},
+		"TeleportContent": {
+			"hash": 2018363621
+		},
+		"TeleportDesc": {
+			"hash": 929148979
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type10",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 50001
+	},
+	{
+		"TeleportType": 1,
+		"TeleportProp": "Prop_Rogue_TranslateDoor",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_11",
+		"TeleportEvent": 300113,
+		"TeleportTitle": {
+			"hash": 570191009
+		},
+		"TeleportContent": {
+			"hash": 2018363622
+		},
+		"TeleportDesc": {
+			"hash": 929148980
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type11",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 50002
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueBottleIcon",
+		"TeleportEvent": 300301,
+		"TeleportTitle": {
+			"hash": 570192898
+		},
+		"TeleportContent": {
+			"hash": 2018363623
+		},
+		"TeleportDesc": {
+			"hash": 929148981
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type9",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 50003
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_3",
+		"TeleportEvent": 300103,
+		"TeleportTitle": {
+			"hash": 570190978
+		},
+		"TeleportContent": {
+			"hash": 2018363624
+		},
+		"TeleportDesc": {
+			"hash": 929148982
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type3",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 50004
+	},
+	{
+		"TeleportType": 3,
+		"TeleportProp": "Prop_Rogue_TranslateDoorBoss",
+		"TeleportIcon": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_12",
+		"TeleportEvent": 300109,
+		"TeleportTitle": {
+			"hash": 570190984
+		},
+		"TeleportContent": {
+			"hash": 2018363625
+		},
+		"TeleportDesc": {
+			"hash": 929148983
+		},
+		"TeleportAbility": "Prop_GodWar_TranslateDoor_Type10",
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconGo",
+		"InteractDesc": {
+			"hash": -1927080750
+		},
+		"DataImpl": {},
+		"TeleportID": 50005
+	}
+]

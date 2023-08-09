@@ -1,0 +1,67 @@
+[
+	{
+		"MapID": 701,
+		"Type": 1,
+		"TowerTitle": "CommonTower1_Title",
+		"TowerSubTitle": "CommonTower1_Sub_Title",
+		"TowerDifficultyTitle": "CommonTower1_Difficulty_Title",
+		"ImagePath": "SpriteOutput/Chapter28/Map/TowerImg01",
+		"BGImagePath": "SpriteOutput/Chapter28/Map/Chapter28MapBg05",
+		"UnlockConditionList": "2|2022-01-06 10:00:00",
+		"UnlockConditionTips": [
+			"Tower1_Unlocktips1"
+		],
+		"DataImpl": {},
+		"TowerID": 1
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"TowerTitle": "CommonTower2_Title",
+		"TowerSubTitle": "CommonTower2_Sub_Title",
+		"TowerDifficultyTitle": "CommonTower2_Difficulty_Title",
+		"ImagePath": "SpriteOutput/Chapter28/Map/TowerImg02",
+		"BGImagePath": "SpriteOutput/Chapter28/Map/Chapter28MapBg05",
+		"UnlockConditionList": "2|2022-01-08 10:00:00;5|107507;6|1",
+		"UnlockConditionTips": [
+			"Tower2_Unlocktips1",
+			"Tower2_Unlocktips2",
+			"Tower2_Unlocktips3"
+		],
+		"DataImpl": {},
+		"TowerID": 2
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"TowerTitle": "CommonTower3_Title",
+		"TowerSubTitle": "CommonTower3_Sub_Title",
+		"TowerDifficultyTitle": "CommonTower3_Difficulty_Title",
+		"ImagePath": "SpriteOutput/Chapter28/Map/TowerImg03",
+		"BGImagePath": "SpriteOutput/Chapter28/Map/Chapter28MapBg06",
+		"UnlockConditionList": "2|2022-01-11 10:00:00;5|118012;6|2",
+		"UnlockConditionTips": [
+			"Tower3_Unlocktips1",
+			"Tower3_Unlocktips2",
+			"Tower3_Unlocktips3"
+		],
+		"DataImpl": {},
+		"TowerID": 3
+	},
+	{
+		"MapID": 701,
+		"Type": 2,
+		"TowerTitle": "EndlessTower_Title",
+		"TowerSubTitle": "EndlessTower_Sub_Title",
+		"TowerDifficultyTitle": "EndlessTower_Difficulty_Title",
+		"ImagePath": "SpriteOutput/Chapter28/Map/TowerImg04",
+		"BGImagePath": "SpriteOutput/Chapter28/Map/Chapter28MapBg07",
+		"UnlockConditionList": "2|2022-01-13 10:00:00;6|3",
+		"UnlockConditionTips": [
+			"Tower4_Unlocktips1",
+			"Tower4_Unlocktips2"
+		],
+		"DataImpl": {},
+		"TowerID": 4
+	}
+]

@@ -1,0 +1,718 @@
+[
+	{
+		"LocationList": "64:52,90:91,124:112,38:39,17:5,20:8,34:35,70:71,116:104,18:6,106:107",
+		"BuildingLimit": [
+			{
+				"BuildingMaxLevel": 3,
+				"BuildingMaxNumber": 8,
+				"BuildingType": 1
+			},
+			{
+				"BuildingMaxLevel": 3,
+				"BuildingMaxNumber": 2,
+				"BuildingType": 101
+			},
+			{
+				"BuildingMaxLevel": 1,
+				"BuildingMaxNumber": 1,
+				"BuildingType": 6
+			}
+		],
+		"MissionList": [
+			83769,
+			83770
+		],
+		"RichFloorName": "Floor_1_1",
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1594288800
+		},
+		"UnlockText": "Unlock_Text_Rich_1",
+		"UnlockText_Time": "Unlock_Text_Rich_Time_1",
+		"ShopList": "",
+		"IsResetable": 0,
+		"RecommendBuff": [
+			{
+				"BuffID": 10,
+				"BuffLevel": 6
+			}
+		],
+		"OverallID": 300,
+		"RpgCoinLimit": 60,
+		"DataImpl": {},
+		"Area": 1,
+		"FloorID": 1
+	},
+	{
+		"LocationList": "11:1,12:2,13:3,16:6,17:7,18:8,48:49,40:41,34:24,35:25,64:54,65:55,68:69,78:79",
+		"BuildingLimit": [
+			{
+				"BuildingMaxLevel": 3,
+				"BuildingMaxNumber": 10,
+				"BuildingType": 11
+			},
+			{
+				"BuildingMaxLevel": 3,
+				"BuildingMaxNumber": 2,
+				"BuildingType": 201
+			},
+			{
+				"BuildingMaxLevel": 3,
+				"BuildingMaxNumber": 1,
+				"BuildingType": 202
+			},
+			{
+				"BuildingMaxLevel": 1,
+				"BuildingMaxNumber": 1,
+				"BuildingType": 16
+			}
+		],
+		"MissionList": [
+			83771,
+			83774,
+			83775
+		],
+		"RichFloorName": "Floor_1_2",
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1594375200
+		},
+		"UnlockText": "Unlock_Text_Rich_1",
+		"UnlockText_Time": "Unlock_Text_Rich_Time_1",
+		"ShopList": "",
+		"IsResetable": 0,
+		"RecommendBuff": [
+			{
+				"BuffID": 10,
+				"BuffLevel": 24
+			},
+			{
+				"BuffID": 11,
+				"BuffLevel": 9
+			}
+		],
+		"OverallID": 301,
+		"RpgCoinLimit": 60,
+		"DataImpl": {},
+		"Area": 1,
+		"FloorID": 2
+	},
+	{
+		"LocationList": "22:11,18:7,19:8,31:32,53:54,75:76,97:98,44:45,50:39,48:37,49:38,66:67,112:101,93:82,69:70",
+		"BuildingLimit": [
+			{
+				"BuildingMaxLevel": 3,
+				"BuildingMaxNumber": 10,
+				"BuildingType": 21
+			},
+			{
+				"BuildingMaxLevel": 3,
+				"BuildingMaxNumber": 2,
+				"BuildingType": 301
+			},
+			{
+				"BuildingMaxLevel": 3,
+				"BuildingMaxNumber": 1,
+				"BuildingType": 302
+			},
+			{
+				"BuildingMaxLevel": 3,
+				"BuildingMaxNumber": 1,
+				"BuildingType": 303
+			},
+			{
+				"BuildingMaxLevel": 1,
+				"BuildingMaxNumber": 1,
+				"BuildingType": 26
+			}
+		],
+		"MissionList": [
+			83772,
+			83773,
+			83776
+		],
+		"RichFloorName": "Floor_1_3",
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1594461600
+		},
+		"UnlockText": "Unlock_Text_Rich_1",
+		"UnlockText_Time": "Unlock_Text_Rich_Time_1",
+		"ShopList": "",
+		"IsResetable": 0,
+		"RecommendBuff": [
+			{
+				"BuffID": 10,
+				"BuffLevel": 70
+			},
+			{
+				"BuffID": 11,
+				"BuffLevel": 30
+			}
+		],
+		"OverallID": 302,
+		"RpgCoinLimit": 60,
+		"DataImpl": {},
+		"Area": 1,
+		"FloorID": 3
+	},
+	{
+		"LocationList": "22:11,12:1,13:2,19:8,20:9,32:21,90:79,102:91,114:103,116:105,106:95,96:85",
+		"BuildingLimit": [
+			{
+				"BuildingMaxLevel": 3,
+				"BuildingMaxNumber": 9,
+				"BuildingType": 401
+			},
+			{
+				"BuildingMaxLevel": 3,
+				"BuildingMaxNumber": 2,
+				"BuildingType": 1101
+			},
+			{
+				"BuildingMaxLevel": 1,
+				"BuildingMaxNumber": 1,
+				"BuildingType": 411
+			}
+		],
+		"MissionList": [
+			83780,
+			83781,
+			83782
+		],
+		"RichFloorName": "Floor_2_1",
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1594634400
+		},
+		"UnlockText": "Unlock_Text_Rich_1",
+		"UnlockText_Time": "Unlock_Text_Rich_Time_1",
+		"ShopList": "44:4,54:4,115:4",
+		"IsResetable": 0,
+		"RecommendBuff": [
+			{
+				"BuffID": 110,
+				"BuffLevel": 6
+			}
+		],
+		"OverallID": 304,
+		"RpgCoinLimit": 60,
+		"DataImpl": {},
+		"Area": 2,
+		"FloorID": 1
+	},
+	{
+		"LocationList": "111:100,112:101,117:106,118:107,56:57,63:64,34:23,52:53,108:109,17:18,15:4,16:5",
+		"BuildingLimit": [
+			{
+				"BuildingMaxLevel": 3,
+				"BuildingMaxNumber": 8,
+				"BuildingType": 402
+			},
+			{
+				"BuildingMaxLevel": 3,
+				"BuildingMaxNumber": 2,
+				"BuildingType": 1201
+			},
+			{
+				"BuildingMaxLevel": 3,
+				"BuildingMaxNumber": 1,
+				"BuildingType": 1202
+			},
+			{
+				"BuildingMaxLevel": 1,
+				"BuildingMaxNumber": 1,
+				"BuildingType": 412
+			}
+		],
+		"MissionList": [
+			83783,
+			83784,
+			83785
+		],
+		"RichFloorName": "Floor_2_2",
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1594720800
+		},
+		"UnlockText": "Unlock_Text_Rich_1",
+		"UnlockText_Time": "Unlock_Text_Rich_Time_1",
+		"ShopList": "41:5,80:5,86:5",
+		"IsResetable": 0,
+		"RecommendBuff": [
+			{
+				"BuffID": 110,
+				"BuffLevel": 24
+			},
+			{
+				"BuffID": 111,
+				"BuffLevel": 9
+			}
+		],
+		"OverallID": 305,
+		"RpgCoinLimit": 60,
+		"DataImpl": {},
+		"Area": 2,
+		"FloorID": 2
+	},
+	{
+		"LocationList": "72:73,50:38,14:2,20:8,21:9,34:35,130:131,140:128,15:3,55:56,51:39,99:87,135:123",
+		"BuildingLimit": [
+			{
+				"BuildingMaxLevel": 3,
+				"BuildingMaxNumber": 8,
+				"BuildingType": 403
+			},
+			{
+				"BuildingMaxLevel": 1,
+				"BuildingMaxNumber": 1,
+				"BuildingType": 413
+			},
+			{
+				"BuildingMaxLevel": 3,
+				"BuildingMaxNumber": 2,
+				"BuildingType": 1301
+			},
+			{
+				"BuildingMaxLevel": 3,
+				"BuildingMaxNumber": 1,
+				"BuildingType": 1302
+			},
+			{
+				"BuildingMaxLevel": 3,
+				"BuildingMaxNumber": 1,
+				"BuildingType": 1303
+			}
+		],
+		"MissionList": [
+			83786,
+			83787,
+			83788
+		],
+		"RichFloorName": "Floor_2_3",
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1594807200
+		},
+		"UnlockText": "Unlock_Text_Rich_1",
+		"UnlockText_Time": "Unlock_Text_Rich_Time_1",
+		"ShopList": "16:6,89:6,104:6",
+		"IsResetable": 0,
+		"RecommendBuff": [
+			{
+				"BuffID": 110,
+				"BuffLevel": 70
+			},
+			{
+				"BuffID": 111,
+				"BuffLevel": 30
+			}
+		],
+		"OverallID": 306,
+		"RpgCoinLimit": 60,
+		"DataImpl": {},
+		"Area": 2,
+		"FloorID": 3
+	},
+	{
+		"LocationList": "48:49,13:1,14:2,19:7,42:30,86:87,112:100,114:102,70:69,63:51,130:131,137:125",
+		"BuildingLimit": [
+			{
+				"BuildingMaxLevel": 3,
+				"BuildingMaxNumber": 9,
+				"BuildingType": 501
+			},
+			{
+				"BuildingMaxLevel": 3,
+				"BuildingMaxNumber": 2,
+				"BuildingType": 2101
+			},
+			{
+				"BuildingMaxLevel": 1,
+				"BuildingMaxNumber": 1,
+				"BuildingType": 511
+			}
+		],
+		"MissionList": [
+			83794,
+			83795,
+			83796
+		],
+		"RichFloorName": "Floor_3_1",
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1594980000
+		},
+		"UnlockText": "Unlock_Text_Rich_1",
+		"UnlockText_Time": "Unlock_Text_Rich_Time_1",
+		"ShopList": "20:8,43:8,138:8,91:8",
+		"IsResetable": 0,
+		"RecommendBuff": [
+			{
+				"BuffID": 210,
+				"BuffLevel": 6
+			}
+		],
+		"OverallID": 308,
+		"RpgCoinLimit": 60,
+		"DataImpl": {},
+		"Area": 3,
+		"FloorID": 1
+	},
+	{
+		"LocationList": "13:2,14:3,18:7,19:8,37:26,39:28,69:58,73:62,112:101,113:102,117:106,118:107",
+		"BuildingLimit": [
+			{
+				"BuildingMaxLevel": 3,
+				"BuildingMaxNumber": 8,
+				"BuildingType": 502
+			},
+			{
+				"BuildingMaxLevel": 3,
+				"BuildingMaxNumber": 2,
+				"BuildingType": 2201
+			},
+			{
+				"BuildingMaxLevel": 3,
+				"BuildingMaxNumber": 1,
+				"BuildingType": 2202
+			},
+			{
+				"BuildingMaxLevel": 1,
+				"BuildingMaxNumber": 1,
+				"BuildingType": 512
+			}
+		],
+		"MissionList": [
+			83790,
+			83791,
+			83792
+		],
+		"RichFloorName": "Floor_3_2",
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1595066400
+		},
+		"UnlockText": "Unlock_Text_Rich_1",
+		"UnlockText_Time": "Unlock_Text_Rich_Time_1",
+		"ShopList": "17:7,64:7,116:7",
+		"IsResetable": 0,
+		"RecommendBuff": [
+			{
+				"BuffID": 210,
+				"BuffLevel": 24
+			},
+			{
+				"BuffID": 211,
+				"BuffLevel": 9
+			}
+		],
+		"OverallID": 309,
+		"RpgCoinLimit": 60,
+		"DataImpl": {},
+		"Area": 3,
+		"FloorID": 2
+	},
+	{
+		"LocationList": "88:89,66:67,44:45,12:1,37:26,38:27,20:21,42:43,86:87,108:109,115:104,114:103,81:70,82:71",
+		"BuildingLimit": [
+			{
+				"BuildingMaxLevel": 3,
+				"BuildingMaxNumber": 9,
+				"BuildingType": 503
+			},
+			{
+				"BuildingMaxLevel": 3,
+				"BuildingMaxNumber": 2,
+				"BuildingType": 2301
+			},
+			{
+				"BuildingMaxLevel": 3,
+				"BuildingMaxNumber": 1,
+				"BuildingType": 2302
+			},
+			{
+				"BuildingMaxLevel": 3,
+				"BuildingMaxNumber": 1,
+				"BuildingType": 2303
+			},
+			{
+				"BuildingMaxLevel": 1,
+				"BuildingMaxNumber": 1,
+				"BuildingType": 513
+			}
+		],
+		"MissionList": [
+			83900,
+			83901,
+			83902
+		],
+		"RichFloorName": "Floor_3_3",
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1595152800
+		},
+		"UnlockText": "Unlock_Text_Rich_1",
+		"UnlockText_Time": "Unlock_Text_Rich_Time_1",
+		"ShopList": "99:9,33:9,119:9",
+		"IsResetable": 0,
+		"RecommendBuff": [
+			{
+				"BuffID": 210,
+				"BuffLevel": 70
+			},
+			{
+				"BuffID": 211,
+				"BuffLevel": 30
+			}
+		],
+		"OverallID": 310,
+		"RpgCoinLimit": 60,
+		"DataImpl": {},
+		"Area": 3,
+		"FloorID": 3
+	},
+	{
+		"LocationList": "88:89,33:34,12:1,15:4,18:7,31:32,53:54,75:76,97:98,72:73,50:51,36:37,47:48,112:101,39:40,17:6,81:70",
+		"BuildingLimit": [
+			{
+				"BuildingMaxLevel": 3,
+				"BuildingMaxNumber": 12,
+				"BuildingType": 601
+			},
+			{
+				"BuildingMaxLevel": 3,
+				"BuildingMaxNumber": 2,
+				"BuildingType": 3101
+			},
+			{
+				"BuildingMaxLevel": 1,
+				"BuildingMaxNumber": 1,
+				"BuildingType": 701
+			},
+			{
+				"BuildingMaxLevel": 1,
+				"BuildingMaxNumber": 1,
+				"BuildingType": 702
+			},
+			{
+				"BuildingMaxLevel": 1,
+				"BuildingMaxNumber": 1,
+				"BuildingType": 703
+			}
+		],
+		"MissionList": [
+			83903,
+			83904
+		],
+		"RichFloorName": "Floor_4_1",
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1595325600
+		},
+		"UnlockText": "Unlock_Text_Rich_1",
+		"UnlockText_Time": "Unlock_Text_Rich_Time_1",
+		"ShopList": "77:11,11:11,107:11",
+		"IsResetable": 0,
+		"RecommendBuff": [
+			{
+				"BuffID": 10,
+				"BuffLevel": 10
+			}
+		],
+		"OverallID": 312,
+		"RpgCoinLimit": 60,
+		"DataImpl": {},
+		"Area": 4,
+		"FloorID": 1
+	},
+	{
+		"LocationList": "12:1,15:4,16:5,19:8,66:67,77:78,88:89,81:70,82:71,75:76,86:87,97:98",
+		"BuildingLimit": [
+			{
+				"BuildingMaxLevel": 3,
+				"BuildingMaxNumber": 9,
+				"BuildingType": 602
+			},
+			{
+				"BuildingMaxLevel": 3,
+				"BuildingMaxNumber": 2,
+				"BuildingType": 3201
+			},
+			{
+				"BuildingMaxLevel": 3,
+				"BuildingMaxNumber": 1,
+				"BuildingType": 3202
+			}
+		],
+		"MissionList": [
+			83907,
+			83908,
+			83909
+		],
+		"RichFloorName": "Floor_4_2",
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1595412000
+		},
+		"UnlockText": "Unlock_Text_Rich_1",
+		"UnlockText_Time": "Unlock_Text_Rich_Time_1",
+		"ShopList": "20:12,80:12",
+		"IsResetable": 0,
+		"RecommendBuff": [
+			{
+				"BuffID": 10,
+				"BuffLevel": 40
+			},
+			{
+				"BuffID": 11,
+				"BuffLevel": 20
+			}
+		],
+		"OverallID": 313,
+		"RpgCoinLimit": 60,
+		"DataImpl": {},
+		"Area": 4,
+		"FloorID": 2
+	},
+	{
+		"LocationList": "",
+		"BuildingLimit": [],
+		"MissionList": [
+			83910
+		],
+		"RichFloorName": "Floor_4_3",
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1595498400
+		},
+		"UnlockText": "Unlock_Text_Rich_1",
+		"UnlockText_Time": "Unlock_Text_Rich_Time_1",
+		"ShopList": "",
+		"IsResetable": 0,
+		"RecommendBuff": [],
+		"OverallID": 307,
+		"RpgCoinLimit": 0,
+		"DataImpl": {},
+		"Area": 4,
+		"FloorID": 3
+	},
+	{
+		"LocationList": "",
+		"BuildingLimit": [],
+		"MissionList": [
+			83778
+		],
+		"RichFloorName": "Floor_1_sub",
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1594548000
+		},
+		"UnlockText": "Unlock_Text_Rich_1",
+		"UnlockText_Time": "Unlock_Text_Rich_Time_1",
+		"ShopList": "",
+		"IsResetable": 1,
+		"RecommendBuff": [],
+		"OverallID": 0,
+		"RpgCoinLimit": 0,
+		"DataImpl": {},
+		"Area": 5,
+		"FloorID": 1
+	},
+	{
+		"LocationList": "",
+		"BuildingLimit": [],
+		"MissionList": [
+			83789
+		],
+		"RichFloorName": "Floor_2_sub",
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1594893600
+		},
+		"UnlockText": "Unlock_Text_Rich_1",
+		"UnlockText_Time": "Unlock_Text_Rich_Time_1",
+		"ShopList": "",
+		"IsResetable": 1,
+		"RecommendBuff": [],
+		"OverallID": 0,
+		"RpgCoinLimit": 0,
+		"DataImpl": {},
+		"Area": 6,
+		"FloorID": 1
+	},
+	{
+		"LocationList": "",
+		"BuildingLimit": [],
+		"MissionList": [
+			83906
+		],
+		"RichFloorName": "Floor_3_sub",
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1595239200
+		},
+		"UnlockText": "Unlock_Text_Rich_1",
+		"UnlockText_Time": "Unlock_Text_Rich_Time_1",
+		"ShopList": "",
+		"IsResetable": 0,
+		"RecommendBuff": [],
+		"OverallID": 311,
+		"RpgCoinLimit": 60,
+		"DataImpl": {},
+		"Area": 7,
+		"FloorID": 1
+	},
+	{
+		"LocationList": "111:110,78:77,45:44,35:24,41:30,53:54,86:87,119:120,116:117,83:84,81:80,114:113",
+		"BuildingLimit": [
+			{
+				"BuildingMaxLevel": 1,
+				"BuildingMaxNumber": 12,
+				"BuildingType": 1006
+			},
+			{
+				"BuildingMaxLevel": 1,
+				"BuildingMaxNumber": 12,
+				"BuildingType": 1007
+			},
+			{
+				"BuildingMaxLevel": 1,
+				"BuildingMaxNumber": 12,
+				"BuildingType": 1008
+			},
+			{
+				"BuildingMaxLevel": 1,
+				"BuildingMaxNumber": 12,
+				"BuildingType": 1009
+			},
+			{
+				"BuildingMaxLevel": 1,
+				"BuildingMaxNumber": 12,
+				"BuildingType": 1010
+			},
+			{
+				"BuildingMaxLevel": 1,
+				"BuildingMaxNumber": 12,
+				"BuildingType": 1011
+			},
+			{
+				"BuildingMaxLevel": 1,
+				"BuildingMaxNumber": 12,
+				"BuildingType": 1012
+			},
+			{
+				"BuildingMaxLevel": 1,
+				"BuildingMaxNumber": 12,
+				"BuildingType": 1013
+			},
+			{
+				"BuildingMaxLevel": 1,
+				"BuildingMaxNumber": 12,
+				"BuildingType": 1014
+			}
+		],
+		"MissionList": [
+			83911
+		],
+		"RichFloorName": "Floor_4_sub",
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1595498400
+		},
+		"UnlockText": "Unlock_Text_Rich_1",
+		"UnlockText_Time": "Unlock_Text_Rich_Time_1",
+		"ShopList": "",
+		"IsResetable": 1,
+		"RecommendBuff": [],
+		"OverallID": 0,
+		"RpgCoinLimit": 0,
+		"DataImpl": {},
+		"Area": 8,
+		"FloorID": 1
+	}
+]

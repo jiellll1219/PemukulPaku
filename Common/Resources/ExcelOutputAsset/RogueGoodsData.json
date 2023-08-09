@@ -1,0 +1,3558 @@
+[
+	{
+		"Type": 1,
+		"SubID": 1,
+		"Price": 3,
+		"StoreType": [
+			0,
+			1,
+			6,
+			8
+		],
+		"Rare": 15,
+		"Category": 0,
+		"DataImpl": {},
+		"GoodID": 1001
+	},
+	{
+		"Type": 1,
+		"SubID": 2,
+		"Price": 6,
+		"StoreType": [
+			0,
+			1,
+			6,
+			8
+		],
+		"Rare": 15,
+		"Category": 0,
+		"DataImpl": {},
+		"GoodID": 1002
+	},
+	{
+		"Type": 1,
+		"SubID": 3,
+		"Price": 6,
+		"StoreType": [
+			0,
+			1,
+			6,
+			8
+		],
+		"Rare": 10,
+		"Category": 0,
+		"DataImpl": {},
+		"GoodID": 1003
+	},
+	{
+		"Type": 1,
+		"SubID": 4,
+		"Price": 12,
+		"StoreType": [
+			0,
+			1,
+			6,
+			8
+		],
+		"Rare": 10,
+		"Category": 0,
+		"DataImpl": {},
+		"GoodID": 1004
+	},
+	{
+		"Type": 1,
+		"SubID": 2001,
+		"Price": 6,
+		"StoreType": [
+			8
+		],
+		"Rare": 10,
+		"Category": 3,
+		"DataImpl": {},
+		"GoodID": 1005
+	},
+	{
+		"Type": 1,
+		"SubID": 2002,
+		"Price": 6,
+		"StoreType": [
+			9
+		],
+		"Rare": 10,
+		"Category": -100,
+		"DataImpl": {},
+		"GoodID": 1006
+	},
+	{
+		"Type": 1,
+		"SubID": 1001,
+		"Price": 10,
+		"StoreType": [
+			5,
+			7,
+			10,
+			11,
+			12
+		],
+		"Rare": 5,
+		"Category": 0,
+		"DataImpl": {},
+		"GoodID": 1007
+	},
+	{
+		"Type": 1,
+		"SubID": 1002,
+		"Price": 4,
+		"StoreType": [
+			5,
+			7,
+			10,
+			11,
+			12
+		],
+		"Rare": 5,
+		"Category": 0,
+		"DataImpl": {},
+		"GoodID": 1008
+	},
+	{
+		"Type": 1,
+		"SubID": 1003,
+		"Price": 15,
+		"StoreType": [
+			5,
+			7,
+			10,
+			11,
+			12
+		],
+		"Rare": 2,
+		"Category": 0,
+		"DataImpl": {},
+		"GoodID": 1009
+	},
+	{
+		"Type": 1,
+		"SubID": 1004,
+		"Price": 8,
+		"StoreType": [
+			5,
+			7,
+			10,
+			11,
+			12
+		],
+		"Rare": 2,
+		"Category": 0,
+		"DataImpl": {},
+		"GoodID": 1010
+	},
+	{
+		"Type": 1,
+		"SubID": 1005,
+		"Price": 6,
+		"StoreType": [
+			5,
+			7,
+			10,
+			11,
+			12
+		],
+		"Rare": 5,
+		"Category": 0,
+		"DataImpl": {},
+		"GoodID": 1011
+	},
+	{
+		"Type": 1,
+		"SubID": 1006,
+		"Price": 3,
+		"StoreType": [
+			5,
+			7,
+			10,
+			11,
+			12
+		],
+		"Rare": 5,
+		"Category": 0,
+		"DataImpl": {},
+		"GoodID": 1012
+	},
+	{
+		"Type": 2,
+		"SubID": 10001,
+		"Price": 5,
+		"StoreType": [
+			0,
+			1,
+			9
+		],
+		"Rare": 10,
+		"Category": 1,
+		"DataImpl": {},
+		"GoodID": 2001
+	},
+	{
+		"Type": 2,
+		"SubID": 10002,
+		"Price": 5,
+		"StoreType": [
+			0,
+			1,
+			9
+		],
+		"Rare": 10,
+		"Category": 1,
+		"DataImpl": {},
+		"GoodID": 2002
+	},
+	{
+		"Type": 2,
+		"SubID": 10003,
+		"Price": 5,
+		"StoreType": [
+			0,
+			1,
+			9
+		],
+		"Rare": 10,
+		"Category": 1,
+		"DataImpl": {},
+		"GoodID": 2003
+	},
+	{
+		"Type": 2,
+		"SubID": 10004,
+		"Price": 5,
+		"StoreType": [
+			0,
+			1,
+			9
+		],
+		"Rare": 10,
+		"Category": 1,
+		"DataImpl": {},
+		"GoodID": 2004
+	},
+	{
+		"Type": 2,
+		"SubID": 10005,
+		"Price": 5,
+		"StoreType": [
+			0,
+			1,
+			9
+		],
+		"Rare": 10,
+		"Category": 1,
+		"DataImpl": {},
+		"GoodID": 2005
+	},
+	{
+		"Type": 2,
+		"SubID": 10006,
+		"Price": 5,
+		"StoreType": [
+			0,
+			1,
+			9
+		],
+		"Rare": 10,
+		"Category": 1,
+		"DataImpl": {},
+		"GoodID": 2006
+	},
+	{
+		"Type": 2,
+		"SubID": 10007,
+		"Price": 5,
+		"StoreType": [
+			0,
+			1,
+			9
+		],
+		"Rare": 10,
+		"Category": 1,
+		"DataImpl": {},
+		"GoodID": 2007
+	},
+	{
+		"Type": 2,
+		"SubID": 10008,
+		"Price": 5,
+		"StoreType": [
+			0,
+			1,
+			9
+		],
+		"Rare": 10,
+		"Category": 1,
+		"DataImpl": {},
+		"GoodID": 2008
+	},
+	{
+		"Type": 2,
+		"SubID": 10009,
+		"Price": 5,
+		"StoreType": [
+			0,
+			1,
+			9
+		],
+		"Rare": 10,
+		"Category": 1,
+		"DataImpl": {},
+		"GoodID": 2009
+	},
+	{
+		"Type": 2,
+		"SubID": 10010,
+		"Price": 5,
+		"StoreType": [
+			0,
+			1,
+			9
+		],
+		"Rare": 10,
+		"Category": 1,
+		"DataImpl": {},
+		"GoodID": 2010
+	},
+	{
+		"Type": 2,
+		"SubID": 10011,
+		"Price": 5,
+		"StoreType": [
+			0,
+			1,
+			9
+		],
+		"Rare": 10,
+		"Category": 1,
+		"DataImpl": {},
+		"GoodID": 2011
+	},
+	{
+		"Type": 2,
+		"SubID": 10012,
+		"Price": 7,
+		"StoreType": [
+			0,
+			1,
+			6
+		],
+		"Rare": 5,
+		"Category": 2,
+		"DataImpl": {},
+		"GoodID": 2012
+	},
+	{
+		"Type": 2,
+		"SubID": 10013,
+		"Price": 7,
+		"StoreType": [
+			0,
+			1,
+			6
+		],
+		"Rare": 5,
+		"Category": 2,
+		"DataImpl": {},
+		"GoodID": 2013
+	},
+	{
+		"Type": 2,
+		"SubID": 10014,
+		"Price": 7,
+		"StoreType": [
+			0,
+			1,
+			6
+		],
+		"Rare": 5,
+		"Category": 2,
+		"DataImpl": {},
+		"GoodID": 2014
+	},
+	{
+		"Type": 2,
+		"SubID": 10015,
+		"Price": 7,
+		"StoreType": [
+			0,
+			1,
+			6
+		],
+		"Rare": 5,
+		"Category": 2,
+		"DataImpl": {},
+		"GoodID": 2015
+	},
+	{
+		"Type": 2,
+		"SubID": 10016,
+		"Price": 7,
+		"StoreType": [
+			0,
+			1,
+			6
+		],
+		"Rare": 5,
+		"Category": 2,
+		"DataImpl": {},
+		"GoodID": 2016
+	},
+	{
+		"Type": 2,
+		"SubID": 10017,
+		"Price": 7,
+		"StoreType": [
+			0,
+			1,
+			6
+		],
+		"Rare": 5,
+		"Category": 2,
+		"DataImpl": {},
+		"GoodID": 2017
+	},
+	{
+		"Type": 2,
+		"SubID": 10018,
+		"Price": 7,
+		"StoreType": [
+			0,
+			1,
+			6
+		],
+		"Rare": 5,
+		"Category": 2,
+		"DataImpl": {},
+		"GoodID": 2018
+	},
+	{
+		"Type": 2,
+		"SubID": 10019,
+		"Price": 7,
+		"StoreType": [
+			0,
+			1,
+			6
+		],
+		"Rare": 5,
+		"Category": 2,
+		"DataImpl": {},
+		"GoodID": 2019
+	},
+	{
+		"Type": 2,
+		"SubID": 10020,
+		"Price": 8,
+		"StoreType": [
+			0,
+			1,
+			4,
+			9
+		],
+		"Rare": 3,
+		"Category": 4,
+		"DataImpl": {},
+		"GoodID": 2020
+	},
+	{
+		"Type": 2,
+		"SubID": 10021,
+		"Price": 8,
+		"StoreType": [
+			0,
+			1,
+			4,
+			9
+		],
+		"Rare": 3,
+		"Category": 4,
+		"DataImpl": {},
+		"GoodID": 2021
+	},
+	{
+		"Type": 2,
+		"SubID": 10022,
+		"Price": 8,
+		"StoreType": [
+			0,
+			1,
+			4,
+			9
+		],
+		"Rare": 3,
+		"Category": 4,
+		"DataImpl": {},
+		"GoodID": 2022
+	},
+	{
+		"Type": 2,
+		"SubID": 10023,
+		"Price": 8,
+		"StoreType": [
+			0,
+			1,
+			3,
+			9
+		],
+		"Rare": 3,
+		"Category": 4,
+		"DataImpl": {},
+		"GoodID": 2023
+	},
+	{
+		"Type": 2,
+		"SubID": 10024,
+		"Price": 8,
+		"StoreType": [
+			0,
+			1,
+			3,
+			9
+		],
+		"Rare": 3,
+		"Category": 4,
+		"DataImpl": {},
+		"GoodID": 2024
+	},
+	{
+		"Type": 2,
+		"SubID": 10025,
+		"Price": 8,
+		"StoreType": [
+			0,
+			1,
+			3,
+			9
+		],
+		"Rare": 3,
+		"Category": 4,
+		"DataImpl": {},
+		"GoodID": 2025
+	},
+	{
+		"Type": 2,
+		"SubID": 10026,
+		"Price": 8,
+		"StoreType": [
+			0,
+			1,
+			2,
+			9
+		],
+		"Rare": 3,
+		"Category": 4,
+		"DataImpl": {},
+		"GoodID": 2026
+	},
+	{
+		"Type": 2,
+		"SubID": 10027,
+		"Price": 8,
+		"StoreType": [
+			0,
+			1,
+			2,
+			9
+		],
+		"Rare": 3,
+		"Category": 4,
+		"DataImpl": {},
+		"GoodID": 2027
+	},
+	{
+		"Type": 2,
+		"SubID": 10028,
+		"Price": 8,
+		"StoreType": [
+			0,
+			1,
+			2,
+			9
+		],
+		"Rare": 3,
+		"Category": 4,
+		"DataImpl": {},
+		"GoodID": 2028
+	},
+	{
+		"Type": 2,
+		"SubID": 10029,
+		"Price": 8,
+		"StoreType": [
+			0,
+			1,
+			5,
+			7,
+			9
+		],
+		"Rare": 3,
+		"Category": 4,
+		"DataImpl": {},
+		"GoodID": 2029
+	},
+	{
+		"Type": 2,
+		"SubID": 10030,
+		"Price": 8,
+		"StoreType": [
+			0,
+			1,
+			5,
+			7,
+			9
+		],
+		"Rare": 3,
+		"Category": 4,
+		"DataImpl": {},
+		"GoodID": 2030
+	},
+	{
+		"Type": 2,
+		"SubID": 10031,
+		"Price": 8,
+		"StoreType": [
+			0,
+			1,
+			5,
+			7,
+			9
+		],
+		"Rare": 3,
+		"Category": 4,
+		"DataImpl": {},
+		"GoodID": 2031
+	},
+	{
+		"Type": 2,
+		"SubID": 10032,
+		"Price": 6,
+		"StoreType": [
+			0,
+			1,
+			8
+		],
+		"Rare": 3,
+		"Category": 3,
+		"DataImpl": {},
+		"GoodID": 2032
+	},
+	{
+		"Type": 2,
+		"SubID": 10033,
+		"Price": 6,
+		"StoreType": [
+			0,
+			1,
+			8
+		],
+		"Rare": 3,
+		"Category": 3,
+		"DataImpl": {},
+		"GoodID": 2033
+	},
+	{
+		"Type": 2,
+		"SubID": 10034,
+		"Price": 6,
+		"StoreType": [
+			0,
+			1,
+			8
+		],
+		"Rare": 3,
+		"Category": 3,
+		"DataImpl": {},
+		"GoodID": 2034
+	},
+	{
+		"Type": 2,
+		"SubID": 10035,
+		"Price": 6,
+		"StoreType": [
+			0,
+			1,
+			8
+		],
+		"Rare": 3,
+		"Category": 3,
+		"DataImpl": {},
+		"GoodID": 2035
+	},
+	{
+		"Type": 2,
+		"SubID": 10036,
+		"Price": 8,
+		"StoreType": [
+			0,
+			1
+		],
+		"Rare": 3,
+		"Category": 31,
+		"DataImpl": {},
+		"GoodID": 2036
+	},
+	{
+		"Type": 2,
+		"SubID": 10037,
+		"Price": 8,
+		"StoreType": [
+			0,
+			1
+		],
+		"Rare": 3,
+		"Category": 31,
+		"DataImpl": {},
+		"GoodID": 2037
+	},
+	{
+		"Type": 2,
+		"SubID": 10038,
+		"Price": 8,
+		"StoreType": [
+			0,
+			1
+		],
+		"Rare": 3,
+		"Category": 31,
+		"DataImpl": {},
+		"GoodID": 2038
+	},
+	{
+		"Type": 3,
+		"SubID": 1,
+		"Price": 5,
+		"StoreType": [
+			0,
+			1,
+			6,
+			10,
+			11,
+			12
+		],
+		"Rare": 10,
+		"Category": 0,
+		"DataImpl": {},
+		"GoodID": 4001
+	},
+	{
+		"Type": 3,
+		"SubID": 2,
+		"Price": 5,
+		"StoreType": [
+			0,
+			1,
+			6,
+			10,
+			11,
+			12
+		],
+		"Rare": 10,
+		"Category": 0,
+		"DataImpl": {},
+		"GoodID": 4002
+	},
+	{
+		"Type": 3,
+		"SubID": 3,
+		"Price": 5,
+		"StoreType": [
+			0,
+			1,
+			6,
+			10,
+			11,
+			12
+		],
+		"Rare": 10,
+		"Category": 0,
+		"DataImpl": {},
+		"GoodID": 4003
+	},
+	{
+		"Type": 3,
+		"SubID": 4,
+		"Price": 5,
+		"StoreType": [
+			0,
+			1,
+			6,
+			10,
+			11,
+			12
+		],
+		"Rare": 10,
+		"Category": 1,
+		"DataImpl": {},
+		"GoodID": 4004
+	},
+	{
+		"Type": 3,
+		"SubID": 5,
+		"Price": 5,
+		"StoreType": [
+			0,
+			1,
+			6,
+			10,
+			11,
+			12
+		],
+		"Rare": 10,
+		"Category": 1,
+		"DataImpl": {},
+		"GoodID": 4005
+	},
+	{
+		"Type": 3,
+		"SubID": 6,
+		"Price": 5,
+		"StoreType": [
+			0,
+			1,
+			6,
+			10,
+			11,
+			12
+		],
+		"Rare": 10,
+		"Category": 1,
+		"DataImpl": {},
+		"GoodID": 4006
+	},
+	{
+		"Type": 3,
+		"SubID": 7,
+		"Price": 5,
+		"StoreType": [
+			0,
+			1,
+			6,
+			10,
+			11,
+			12
+		],
+		"Rare": 10,
+		"Category": 1,
+		"DataImpl": {},
+		"GoodID": 4007
+	},
+	{
+		"Type": 3,
+		"SubID": 8,
+		"Price": 5,
+		"StoreType": [
+			0,
+			1,
+			6,
+			10,
+			11,
+			12
+		],
+		"Rare": 10,
+		"Category": 1,
+		"DataImpl": {},
+		"GoodID": 4008
+	},
+	{
+		"Type": 3,
+		"SubID": 9,
+		"Price": 20,
+		"StoreType": [
+			0,
+			1,
+			2,
+			3,
+			4,
+			5,
+			9,
+			10,
+			11,
+			12
+		],
+		"Rare": 2,
+		"Category": 0,
+		"DataImpl": {},
+		"GoodID": 4009
+	},
+	{
+		"Type": 3,
+		"SubID": 10,
+		"Price": 20,
+		"StoreType": [
+			0,
+			1,
+			2,
+			3,
+			4,
+			5,
+			9,
+			10,
+			11,
+			12
+		],
+		"Rare": 2,
+		"Category": 0,
+		"DataImpl": {},
+		"GoodID": 4010
+	},
+	{
+		"Type": 3,
+		"SubID": 11,
+		"Price": 20,
+		"StoreType": [
+			0,
+			1,
+			2,
+			3,
+			4,
+			5,
+			9,
+			10,
+			11,
+			12
+		],
+		"Rare": 2,
+		"Category": 0,
+		"DataImpl": {},
+		"GoodID": 4011
+	},
+	{
+		"Type": 3,
+		"SubID": 12,
+		"Price": 20,
+		"StoreType": [
+			0,
+			1,
+			2,
+			3,
+			4,
+			5,
+			9,
+			10,
+			11,
+			12
+		],
+		"Rare": 2,
+		"Category": 0,
+		"DataImpl": {},
+		"GoodID": 4012
+	},
+	{
+		"Type": 3,
+		"SubID": 13,
+		"Price": 15,
+		"StoreType": [
+			0,
+			1,
+			5,
+			7,
+			8,
+			10,
+			11,
+			12
+		],
+		"Rare": 6,
+		"Category": 71,
+		"DataImpl": {},
+		"GoodID": 4013
+	},
+	{
+		"Type": 3,
+		"SubID": 14,
+		"Price": 15,
+		"StoreType": [
+			0,
+			1,
+			5,
+			7,
+			8,
+			10,
+			11,
+			12
+		],
+		"Rare": 6,
+		"Category": 71,
+		"DataImpl": {},
+		"GoodID": 4014
+	},
+	{
+		"Type": 3,
+		"SubID": 15,
+		"Price": 15,
+		"StoreType": [
+			0,
+			1,
+			5,
+			7,
+			8,
+			10,
+			11,
+			12
+		],
+		"Rare": 6,
+		"Category": 51,
+		"DataImpl": {},
+		"GoodID": 4015
+	},
+	{
+		"Type": 3,
+		"SubID": 16,
+		"Price": 5,
+		"StoreType": [
+			0,
+			1,
+			5,
+			7,
+			8,
+			10,
+			11,
+			12
+		],
+		"Rare": 6,
+		"Category": 51,
+		"DataImpl": {},
+		"GoodID": 4016
+	},
+	{
+		"Type": 3,
+		"SubID": 17,
+		"Price": 15,
+		"StoreType": [
+			0,
+			1,
+			5,
+			7,
+			8,
+			10,
+			11,
+			12
+		],
+		"Rare": 6,
+		"Category": 61,
+		"DataImpl": {},
+		"GoodID": 4017
+	},
+	{
+		"Type": 3,
+		"SubID": 18,
+		"Price": 15,
+		"StoreType": [
+			0,
+			1,
+			5,
+			7,
+			8,
+			10,
+			11,
+			12
+		],
+		"Rare": 6,
+		"Category": 61,
+		"DataImpl": {},
+		"GoodID": 4018
+	},
+	{
+		"Type": 3,
+		"SubID": 19,
+		"Price": 10,
+		"StoreType": [
+			0,
+			1,
+			5,
+			7,
+			8,
+			10,
+			11,
+			12
+		],
+		"Rare": 6,
+		"Category": 41,
+		"DataImpl": {},
+		"GoodID": 4019
+	},
+	{
+		"Type": 3,
+		"SubID": 20,
+		"Price": 10,
+		"StoreType": [
+			0,
+			1,
+			5,
+			7,
+			8,
+			10,
+			11,
+			12
+		],
+		"Rare": 6,
+		"Category": 41,
+		"DataImpl": {},
+		"GoodID": 4020
+	},
+	{
+		"Type": 3,
+		"SubID": 21,
+		"Price": 15,
+		"StoreType": [
+			0,
+			1,
+			3,
+			7,
+			8,
+			10,
+			11,
+			12
+		],
+		"Rare": 6,
+		"Category": 71,
+		"DataImpl": {},
+		"GoodID": 4021
+	},
+	{
+		"Type": 3,
+		"SubID": 22,
+		"Price": 5,
+		"StoreType": [
+			0,
+			1,
+			3,
+			7,
+			8,
+			10,
+			11,
+			12
+		],
+		"Rare": 6,
+		"Category": 41,
+		"DataImpl": {},
+		"GoodID": 4022
+	},
+	{
+		"Type": 3,
+		"SubID": 23,
+		"Price": 10,
+		"StoreType": [
+			0,
+			1,
+			3,
+			7,
+			8,
+			10,
+			11,
+			12
+		],
+		"Rare": 6,
+		"Category": 51,
+		"DataImpl": {},
+		"GoodID": 4023
+	},
+	{
+		"Type": 3,
+		"SubID": 24,
+		"Price": 15,
+		"StoreType": [
+			0,
+			1,
+			3,
+			7,
+			8,
+			10,
+			11,
+			12
+		],
+		"Rare": 6,
+		"Category": 51,
+		"DataImpl": {},
+		"GoodID": 4024
+	},
+	{
+		"Type": 3,
+		"SubID": 25,
+		"Price": 15,
+		"StoreType": [
+			0,
+			1,
+			3,
+			7,
+			8,
+			10,
+			11,
+			12
+		],
+		"Rare": 6,
+		"Category": 61,
+		"DataImpl": {},
+		"GoodID": 4025
+	},
+	{
+		"Type": 3,
+		"SubID": 26,
+		"Price": 5,
+		"StoreType": [
+			0,
+			1,
+			3,
+			7,
+			8,
+			10,
+			11,
+			12
+		],
+		"Rare": 6,
+		"Category": 41,
+		"DataImpl": {},
+		"GoodID": 4026
+	},
+	{
+		"Type": 3,
+		"SubID": 27,
+		"Price": 15,
+		"StoreType": [
+			0,
+			1,
+			3,
+			7,
+			8,
+			10,
+			11,
+			12
+		],
+		"Rare": 6,
+		"Category": 61,
+		"DataImpl": {},
+		"GoodID": 4027
+	},
+	{
+		"Type": 3,
+		"SubID": 28,
+		"Price": 10,
+		"StoreType": [
+			0,
+			1,
+			3,
+			7,
+			8,
+			10,
+			11,
+			12
+		],
+		"Rare": 6,
+		"Category": 71,
+		"DataImpl": {},
+		"GoodID": 4028
+	},
+	{
+		"Type": 3,
+		"SubID": 29,
+		"Price": 15,
+		"StoreType": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			10,
+			11,
+			12
+		],
+		"Rare": 6,
+		"Category": 71,
+		"DataImpl": {},
+		"GoodID": 4029
+	},
+	{
+		"Type": 3,
+		"SubID": 30,
+		"Price": 5,
+		"StoreType": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			10,
+			11,
+			12
+		],
+		"Rare": 6,
+		"Category": 41,
+		"DataImpl": {},
+		"GoodID": 4030
+	},
+	{
+		"Type": 3,
+		"SubID": 31,
+		"Price": 5,
+		"StoreType": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			10,
+			11,
+			12
+		],
+		"Rare": 6,
+		"Category": 51,
+		"DataImpl": {},
+		"GoodID": 4031
+	},
+	{
+		"Type": 3,
+		"SubID": 32,
+		"Price": 5,
+		"StoreType": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			10,
+			11,
+			12
+		],
+		"Rare": 6,
+		"Category": 51,
+		"DataImpl": {},
+		"GoodID": 4032
+	},
+	{
+		"Type": 3,
+		"SubID": 33,
+		"Price": 15,
+		"StoreType": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			10,
+			11,
+			12
+		],
+		"Rare": 6,
+		"Category": 61,
+		"DataImpl": {},
+		"GoodID": 4033
+	},
+	{
+		"Type": 3,
+		"SubID": 34,
+		"Price": 15,
+		"StoreType": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			10,
+			11,
+			12
+		],
+		"Rare": 6,
+		"Category": 61,
+		"DataImpl": {},
+		"GoodID": 4034
+	},
+	{
+		"Type": 3,
+		"SubID": 35,
+		"Price": 10,
+		"StoreType": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			10,
+			11,
+			12
+		],
+		"Rare": 6,
+		"Category": 71,
+		"DataImpl": {},
+		"GoodID": 4035
+	},
+	{
+		"Type": 3,
+		"SubID": 36,
+		"Price": 10,
+		"StoreType": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			10,
+			11,
+			12
+		],
+		"Rare": 6,
+		"Category": 41,
+		"DataImpl": {},
+		"GoodID": 4036
+	},
+	{
+		"Type": 3,
+		"SubID": 37,
+		"Price": 10,
+		"StoreType": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			10,
+			11,
+			12
+		],
+		"Rare": 6,
+		"Category": 71,
+		"DataImpl": {},
+		"GoodID": 4037
+	},
+	{
+		"Type": 3,
+		"SubID": 38,
+		"Price": 15,
+		"StoreType": [
+			0,
+			1,
+			2,
+			7,
+			8,
+			10,
+			11,
+			12
+		],
+		"Rare": 9,
+		"Category": 51,
+		"DataImpl": {},
+		"GoodID": 4038
+	},
+	{
+		"Type": 3,
+		"SubID": 39,
+		"Price": 15,
+		"StoreType": [
+			0,
+			1,
+			2,
+			7,
+			8,
+			10,
+			11,
+			12
+		],
+		"Rare": 9,
+		"Category": 51,
+		"DataImpl": {},
+		"GoodID": 4039
+	},
+	{
+		"Type": 3,
+		"SubID": 40,
+		"Price": 10,
+		"StoreType": [
+			0,
+			1,
+			2,
+			7,
+			8,
+			10,
+			11,
+			12
+		],
+		"Rare": 9,
+		"Category": 41,
+		"DataImpl": {},
+		"GoodID": 4040
+	},
+	{
+		"Type": 3,
+		"SubID": 41,
+		"Price": 5,
+		"StoreType": [
+			0,
+			1,
+			2,
+			7,
+			8,
+			10,
+			11,
+			12
+		],
+		"Rare": 9,
+		"Category": 41,
+		"DataImpl": {},
+		"GoodID": 4041
+	},
+	{
+		"Type": 3,
+		"SubID": 42,
+		"Price": 5,
+		"StoreType": [
+			0,
+			1,
+			2,
+			7,
+			8,
+			10,
+			11,
+			12
+		],
+		"Rare": 9,
+		"Category": 61,
+		"DataImpl": {},
+		"GoodID": 4042
+	},
+	{
+		"Type": 3,
+		"SubID": 43,
+		"Price": 15,
+		"StoreType": [
+			0,
+			1,
+			2,
+			7,
+			8,
+			10,
+			11,
+			12
+		],
+		"Rare": 9,
+		"Category": 61,
+		"DataImpl": {},
+		"GoodID": 4043
+	},
+	{
+		"Type": 3,
+		"SubID": 44,
+		"Price": 15,
+		"StoreType": [
+			0,
+			1,
+			2,
+			7,
+			8,
+			10,
+			11,
+			12
+		],
+		"Rare": 9,
+		"Category": 71,
+		"DataImpl": {},
+		"GoodID": 4044
+	},
+	{
+		"Type": 3,
+		"SubID": 45,
+		"Price": 20,
+		"StoreType": [
+			0,
+			1,
+			2,
+			10,
+			11,
+			12
+		],
+		"Rare": 9,
+		"Category": 71,
+		"DataImpl": {},
+		"GoodID": 4045
+	},
+	{
+		"Type": 1,
+		"SubID": 1,
+		"Price": 3,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24
+		],
+		"Rare": 10,
+		"Category": 0,
+		"DataImpl": {},
+		"GoodID": 10001
+	},
+	{
+		"Type": 1,
+		"SubID": 2,
+		"Price": 6,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24
+		],
+		"Rare": 10,
+		"Category": 0,
+		"DataImpl": {},
+		"GoodID": 10002
+	},
+	{
+		"Type": 1,
+		"SubID": 3,
+		"Price": 6,
+		"StoreType": [
+			0,
+			1,
+			24,
+			25
+		],
+		"Rare": 7,
+		"Category": 0,
+		"DataImpl": {},
+		"GoodID": 10003
+	},
+	{
+		"Type": 1,
+		"SubID": 4,
+		"Price": 12,
+		"StoreType": [
+			0,
+			1,
+			24,
+			25
+		],
+		"Rare": 7,
+		"Category": 0,
+		"DataImpl": {},
+		"GoodID": 10004
+	},
+	{
+		"Type": 1,
+		"SubID": 1005,
+		"Price": 12,
+		"StoreType": [
+			21,
+			25,
+			26
+		],
+		"Rare": 10,
+		"Category": 0,
+		"DataImpl": {},
+		"GoodID": 10005
+	},
+	{
+		"Type": 1,
+		"SubID": 1006,
+		"Price": 6,
+		"StoreType": [
+			21,
+			25,
+			26
+		],
+		"Rare": 10,
+		"Category": 0,
+		"DataImpl": {},
+		"GoodID": 10006
+	},
+	{
+		"Type": 2,
+		"SubID": 20001,
+		"Price": 10,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			21,
+			22,
+			23
+		],
+		"Rare": 25,
+		"Category": 101,
+		"DataImpl": {},
+		"GoodID": 20001
+	},
+	{
+		"Type": 2,
+		"SubID": 20002,
+		"Price": 10,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			21,
+			22,
+			23
+		],
+		"Rare": 25,
+		"Category": 101,
+		"DataImpl": {},
+		"GoodID": 20002
+	},
+	{
+		"Type": 2,
+		"SubID": 20003,
+		"Price": 10,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			21,
+			22,
+			23
+		],
+		"Rare": 25,
+		"Category": 101,
+		"DataImpl": {},
+		"GoodID": 20003
+	},
+	{
+		"Type": 2,
+		"SubID": 20004,
+		"Price": 10,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			21,
+			22,
+			23
+		],
+		"Rare": 25,
+		"Category": 101,
+		"DataImpl": {},
+		"GoodID": 20004
+	},
+	{
+		"Type": 2,
+		"SubID": 20005,
+		"Price": 10,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			21,
+			22,
+			23
+		],
+		"Rare": 25,
+		"Category": 101,
+		"DataImpl": {},
+		"GoodID": 20005
+	},
+	{
+		"Type": 2,
+		"SubID": 20006,
+		"Price": 10,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			21,
+			22,
+			23
+		],
+		"Rare": 25,
+		"Category": 101,
+		"DataImpl": {},
+		"GoodID": 20006
+	},
+	{
+		"Type": 2,
+		"SubID": 20007,
+		"Price": 10,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			21,
+			22,
+			23
+		],
+		"Rare": 25,
+		"Category": 101,
+		"DataImpl": {},
+		"GoodID": 20007
+	},
+	{
+		"Type": 2,
+		"SubID": 20008,
+		"Price": 10,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			21,
+			22,
+			23
+		],
+		"Rare": 25,
+		"Category": 101,
+		"DataImpl": {},
+		"GoodID": 20008
+	},
+	{
+		"Type": 2,
+		"SubID": 20009,
+		"Price": 10,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			21,
+			22,
+			23
+		],
+		"Rare": 25,
+		"Category": 101,
+		"DataImpl": {},
+		"GoodID": 20009
+	},
+	{
+		"Type": 2,
+		"SubID": 20010,
+		"Price": 10,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			21,
+			22,
+			23
+		],
+		"Rare": 25,
+		"Category": 101,
+		"DataImpl": {},
+		"GoodID": 20010
+	},
+	{
+		"Type": 2,
+		"SubID": 20011,
+		"Price": 10,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			21,
+			22,
+			23
+		],
+		"Rare": 25,
+		"Category": 101,
+		"DataImpl": {},
+		"GoodID": 20011
+	},
+	{
+		"Type": 2,
+		"SubID": 20012,
+		"Price": 14,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			21,
+			22
+		],
+		"Rare": 15,
+		"Category": 102,
+		"DataImpl": {},
+		"GoodID": 20012
+	},
+	{
+		"Type": 2,
+		"SubID": 20013,
+		"Price": 14,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			21,
+			22
+		],
+		"Rare": 15,
+		"Category": 102,
+		"DataImpl": {},
+		"GoodID": 20013
+	},
+	{
+		"Type": 2,
+		"SubID": 20014,
+		"Price": 14,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			21,
+			22
+		],
+		"Rare": 15,
+		"Category": 102,
+		"DataImpl": {},
+		"GoodID": 20014
+	},
+	{
+		"Type": 2,
+		"SubID": 20015,
+		"Price": 14,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			21,
+			22
+		],
+		"Rare": 15,
+		"Category": 102,
+		"DataImpl": {},
+		"GoodID": 20015
+	},
+	{
+		"Type": 2,
+		"SubID": 20016,
+		"Price": 14,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			21,
+			22
+		],
+		"Rare": 15,
+		"Category": 102,
+		"DataImpl": {},
+		"GoodID": 20016
+	},
+	{
+		"Type": 2,
+		"SubID": 20017,
+		"Price": 14,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			21,
+			22
+		],
+		"Rare": 15,
+		"Category": 102,
+		"DataImpl": {},
+		"GoodID": 20017
+	},
+	{
+		"Type": 2,
+		"SubID": 20018,
+		"Price": 14,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			21,
+			22
+		],
+		"Rare": 15,
+		"Category": 102,
+		"DataImpl": {},
+		"GoodID": 20018
+	},
+	{
+		"Type": 2,
+		"SubID": 20019,
+		"Price": 14,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			21,
+			22
+		],
+		"Rare": 15,
+		"Category": 102,
+		"DataImpl": {},
+		"GoodID": 20019
+	},
+	{
+		"Type": 2,
+		"SubID": 20020,
+		"Price": 16,
+		"StoreType": [
+			0,
+			1,
+			19,
+			24
+		],
+		"Rare": 13,
+		"Category": 103,
+		"DataImpl": {},
+		"GoodID": 20020
+	},
+	{
+		"Type": 2,
+		"SubID": 20021,
+		"Price": 16,
+		"StoreType": [
+			0,
+			1,
+			19,
+			24
+		],
+		"Rare": 13,
+		"Category": 103,
+		"DataImpl": {},
+		"GoodID": 20021
+	},
+	{
+		"Type": 2,
+		"SubID": 20022,
+		"Price": 16,
+		"StoreType": [
+			0,
+			1,
+			19,
+			24
+		],
+		"Rare": 13,
+		"Category": 103,
+		"DataImpl": {},
+		"GoodID": 20022
+	},
+	{
+		"Type": 2,
+		"SubID": 20023,
+		"Price": 16,
+		"StoreType": [
+			0,
+			1,
+			18,
+			24
+		],
+		"Rare": 13,
+		"Category": 103,
+		"DataImpl": {},
+		"GoodID": 20023
+	},
+	{
+		"Type": 2,
+		"SubID": 20024,
+		"Price": 16,
+		"StoreType": [
+			0,
+			1,
+			18,
+			24
+		],
+		"Rare": 13,
+		"Category": 103,
+		"DataImpl": {},
+		"GoodID": 20024
+	},
+	{
+		"Type": 2,
+		"SubID": 20025,
+		"Price": 16,
+		"StoreType": [
+			0,
+			1,
+			18,
+			24
+		],
+		"Rare": 13,
+		"Category": 103,
+		"DataImpl": {},
+		"GoodID": 20025
+	},
+	{
+		"Type": 2,
+		"SubID": 20026,
+		"Price": 16,
+		"StoreType": [
+			0,
+			1,
+			17,
+			24
+		],
+		"Rare": 13,
+		"Category": 103,
+		"DataImpl": {},
+		"GoodID": 20026
+	},
+	{
+		"Type": 2,
+		"SubID": 20027,
+		"Price": 16,
+		"StoreType": [
+			0,
+			1,
+			17,
+			24
+		],
+		"Rare": 13,
+		"Category": 103,
+		"DataImpl": {},
+		"GoodID": 20027
+	},
+	{
+		"Type": 2,
+		"SubID": 20028,
+		"Price": 16,
+		"StoreType": [
+			0,
+			1,
+			17,
+			24
+		],
+		"Rare": 13,
+		"Category": 103,
+		"DataImpl": {},
+		"GoodID": 20028
+	},
+	{
+		"Type": 2,
+		"SubID": 20029,
+		"Price": 16,
+		"StoreType": [
+			0,
+			1,
+			20,
+			24
+		],
+		"Rare": 13,
+		"Category": 103,
+		"DataImpl": {},
+		"GoodID": 20029
+	},
+	{
+		"Type": 2,
+		"SubID": 20030,
+		"Price": 16,
+		"StoreType": [
+			0,
+			1,
+			20,
+			24
+		],
+		"Rare": 13,
+		"Category": 103,
+		"DataImpl": {},
+		"GoodID": 20030
+	},
+	{
+		"Type": 2,
+		"SubID": 20031,
+		"Price": 16,
+		"StoreType": [
+			0,
+			1,
+			20,
+			24
+		],
+		"Rare": 13,
+		"Category": 103,
+		"DataImpl": {},
+		"GoodID": 20031
+	},
+	{
+		"Type": 2,
+		"SubID": 20032,
+		"Price": 12,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			23
+		],
+		"Rare": 13,
+		"Category": 104,
+		"DataImpl": {},
+		"GoodID": 20032
+	},
+	{
+		"Type": 2,
+		"SubID": 20033,
+		"Price": 12,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			23
+		],
+		"Rare": 13,
+		"Category": 104,
+		"DataImpl": {},
+		"GoodID": 20033
+	},
+	{
+		"Type": 2,
+		"SubID": 20034,
+		"Price": 12,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			23
+		],
+		"Rare": 13,
+		"Category": 104,
+		"DataImpl": {},
+		"GoodID": 20034
+	},
+	{
+		"Type": 2,
+		"SubID": 20035,
+		"Price": 12,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			23
+		],
+		"Rare": 13,
+		"Category": 104,
+		"DataImpl": {},
+		"GoodID": 20035
+	},
+	{
+		"Type": 2,
+		"SubID": 20036,
+		"Price": 16,
+		"StoreType": [
+			0,
+			1,
+			17,
+			18,
+			19,
+			20,
+			24,
+			25,
+			26
+		],
+		"Rare": 13,
+		"Category": 105,
+		"DataImpl": {},
+		"GoodID": 20036
+	},
+	{
+		"Type": 2,
+		"SubID": 20037,
+		"Price": 16,
+		"StoreType": [
+			0,
+			1,
+			17,
+			18,
+			19,
+			20,
+			24,
+			25,
+			26
+		],
+		"Rare": 13,
+		"Category": 105,
+		"DataImpl": {},
+		"GoodID": 20037
+	},
+	{
+		"Type": 2,
+		"SubID": 20038,
+		"Price": 16,
+		"StoreType": [
+			0,
+			1,
+			17,
+			18,
+			19,
+			20,
+			24,
+			25,
+			26
+		],
+		"Rare": 13,
+		"Category": 105,
+		"DataImpl": {},
+		"GoodID": 20038
+	},
+	{
+		"Type": 2,
+		"SubID": 20039,
+		"Price": 16,
+		"StoreType": [
+			1,
+			24,
+			26
+		],
+		"Rare": 10,
+		"Category": 106,
+		"DataImpl": {},
+		"GoodID": 20039
+	},
+	{
+		"Type": 2,
+		"SubID": 20040,
+		"Price": 16,
+		"StoreType": [
+			1,
+			25,
+			26
+		],
+		"Rare": 10,
+		"Category": 106,
+		"DataImpl": {},
+		"GoodID": 20040
+	},
+	{
+		"Type": 3,
+		"SubID": 1,
+		"Price": 3,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20
+		],
+		"Rare": 7,
+		"Category": 0,
+		"DataImpl": {},
+		"GoodID": 40001
+	},
+	{
+		"Type": 3,
+		"SubID": 2,
+		"Price": 3,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20
+		],
+		"Rare": 7,
+		"Category": 0,
+		"DataImpl": {},
+		"GoodID": 40002
+	},
+	{
+		"Type": 3,
+		"SubID": 3,
+		"Price": 3,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20
+		],
+		"Rare": 7,
+		"Category": 0,
+		"DataImpl": {},
+		"GoodID": 40003
+	},
+	{
+		"Type": 3,
+		"SubID": 4,
+		"Price": 3,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20
+		],
+		"Rare": 7,
+		"Category": 101,
+		"DataImpl": {},
+		"GoodID": 40004
+	},
+	{
+		"Type": 3,
+		"SubID": 5,
+		"Price": 3,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20
+		],
+		"Rare": 7,
+		"Category": 101,
+		"DataImpl": {},
+		"GoodID": 40005
+	},
+	{
+		"Type": 3,
+		"SubID": 6,
+		"Price": 3,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20
+		],
+		"Rare": 7,
+		"Category": 101,
+		"DataImpl": {},
+		"GoodID": 40006
+	},
+	{
+		"Type": 3,
+		"SubID": 7,
+		"Price": 3,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20
+		],
+		"Rare": 7,
+		"Category": 101,
+		"DataImpl": {},
+		"GoodID": 40007
+	},
+	{
+		"Type": 3,
+		"SubID": 8,
+		"Price": 3,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20
+		],
+		"Rare": 7,
+		"Category": 101,
+		"DataImpl": {},
+		"GoodID": 40008
+	},
+	{
+		"Type": 3,
+		"SubID": 9,
+		"Price": 10,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25,
+			26
+		],
+		"Rare": 2,
+		"Category": 0,
+		"DataImpl": {},
+		"GoodID": 40009
+	},
+	{
+		"Type": 3,
+		"SubID": 10,
+		"Price": 10,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25,
+			26
+		],
+		"Rare": 2,
+		"Category": 0,
+		"DataImpl": {},
+		"GoodID": 40010
+	},
+	{
+		"Type": 3,
+		"SubID": 11,
+		"Price": 10,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25,
+			26
+		],
+		"Rare": 2,
+		"Category": 0,
+		"DataImpl": {},
+		"GoodID": 40011
+	},
+	{
+		"Type": 3,
+		"SubID": 12,
+		"Price": 10,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25,
+			26
+		],
+		"Rare": 2,
+		"Category": 0,
+		"DataImpl": {},
+		"GoodID": 40012
+	},
+	{
+		"Type": 3,
+		"SubID": 2013,
+		"Price": 7,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25,
+			26
+		],
+		"Rare": 3,
+		"Category": 2000,
+		"DataImpl": {},
+		"GoodID": 40013
+	},
+	{
+		"Type": 3,
+		"SubID": 2014,
+		"Price": 7,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25,
+			26
+		],
+		"Rare": 3,
+		"Category": 2000,
+		"DataImpl": {},
+		"GoodID": 40014
+	},
+	{
+		"Type": 3,
+		"SubID": 2015,
+		"Price": 7,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25,
+			26
+		],
+		"Rare": 3,
+		"Category": 2000,
+		"DataImpl": {},
+		"GoodID": 40015
+	},
+	{
+		"Type": 3,
+		"SubID": 2016,
+		"Price": 3,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25,
+			26
+		],
+		"Rare": 3,
+		"Category": 2000,
+		"DataImpl": {},
+		"GoodID": 40016
+	},
+	{
+		"Type": 3,
+		"SubID": 2017,
+		"Price": 7,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25,
+			26
+		],
+		"Rare": 3,
+		"Category": 2000,
+		"DataImpl": {},
+		"GoodID": 40017
+	},
+	{
+		"Type": 3,
+		"SubID": 2018,
+		"Price": 7,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25,
+			26
+		],
+		"Rare": 3,
+		"Category": 2000,
+		"DataImpl": {},
+		"GoodID": 40018
+	},
+	{
+		"Type": 3,
+		"SubID": 2019,
+		"Price": 5,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25,
+			26
+		],
+		"Rare": 3,
+		"Category": 2000,
+		"DataImpl": {},
+		"GoodID": 40019
+	},
+	{
+		"Type": 3,
+		"SubID": 2020,
+		"Price": 5,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25,
+			26
+		],
+		"Rare": 3,
+		"Category": 2000,
+		"DataImpl": {},
+		"GoodID": 40020
+	},
+	{
+		"Type": 3,
+		"SubID": 2021,
+		"Price": 7,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25,
+			26
+		],
+		"Rare": 3,
+		"Category": 2000,
+		"DataImpl": {},
+		"GoodID": 40021
+	},
+	{
+		"Type": 3,
+		"SubID": 2022,
+		"Price": 3,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25,
+			26
+		],
+		"Rare": 3,
+		"Category": 2000,
+		"DataImpl": {},
+		"GoodID": 40022
+	},
+	{
+		"Type": 3,
+		"SubID": 2023,
+		"Price": 5,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25,
+			26
+		],
+		"Rare": 3,
+		"Category": 2000,
+		"DataImpl": {},
+		"GoodID": 40023
+	},
+	{
+		"Type": 3,
+		"SubID": 2024,
+		"Price": 7,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25,
+			26
+		],
+		"Rare": 3,
+		"Category": 2000,
+		"DataImpl": {},
+		"GoodID": 40024
+	},
+	{
+		"Type": 3,
+		"SubID": 2025,
+		"Price": 7,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25,
+			26
+		],
+		"Rare": 3,
+		"Category": 2000,
+		"DataImpl": {},
+		"GoodID": 40025
+	},
+	{
+		"Type": 3,
+		"SubID": 2026,
+		"Price": 3,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25,
+			26
+		],
+		"Rare": 3,
+		"Category": 2000,
+		"DataImpl": {},
+		"GoodID": 40026
+	},
+	{
+		"Type": 3,
+		"SubID": 2027,
+		"Price": 7,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25,
+			26
+		],
+		"Rare": 3,
+		"Category": 2000,
+		"DataImpl": {},
+		"GoodID": 40027
+	},
+	{
+		"Type": 3,
+		"SubID": 2028,
+		"Price": 5,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25,
+			26
+		],
+		"Rare": 3,
+		"Category": 2000,
+		"DataImpl": {},
+		"GoodID": 40028
+	},
+	{
+		"Type": 3,
+		"SubID": 2029,
+		"Price": 5,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25,
+			26
+		],
+		"Rare": 3,
+		"Category": 2000,
+		"DataImpl": {},
+		"GoodID": 40029
+	},
+	{
+		"Type": 3,
+		"SubID": 2030,
+		"Price": 3,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25,
+			26
+		],
+		"Rare": 3,
+		"Category": 2000,
+		"DataImpl": {},
+		"GoodID": 40030
+	},
+	{
+		"Type": 3,
+		"SubID": 2031,
+		"Price": 3,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25,
+			26
+		],
+		"Rare": 3,
+		"Category": 2000,
+		"DataImpl": {},
+		"GoodID": 40031
+	},
+	{
+		"Type": 3,
+		"SubID": 2032,
+		"Price": 3,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25,
+			26
+		],
+		"Rare": 3,
+		"Category": 2000,
+		"DataImpl": {},
+		"GoodID": 40032
+	},
+	{
+		"Type": 3,
+		"SubID": 2033,
+		"Price": 7,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25,
+			26
+		],
+		"Rare": 3,
+		"Category": 2000,
+		"DataImpl": {},
+		"GoodID": 40033
+	},
+	{
+		"Type": 3,
+		"SubID": 2034,
+		"Price": 7,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25,
+			26
+		],
+		"Rare": 3,
+		"Category": 2000,
+		"DataImpl": {},
+		"GoodID": 40034
+	},
+	{
+		"Type": 3,
+		"SubID": 2035,
+		"Price": 5,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25,
+			26
+		],
+		"Rare": 3,
+		"Category": 2000,
+		"DataImpl": {},
+		"GoodID": 40035
+	},
+	{
+		"Type": 3,
+		"SubID": 2036,
+		"Price": 5,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25,
+			26
+		],
+		"Rare": 3,
+		"Category": 2000,
+		"DataImpl": {},
+		"GoodID": 40036
+	},
+	{
+		"Type": 3,
+		"SubID": 2037,
+		"Price": 5,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25,
+			26
+		],
+		"Rare": 3,
+		"Category": 2000,
+		"DataImpl": {},
+		"GoodID": 40037
+	},
+	{
+		"Type": 3,
+		"SubID": 2038,
+		"Price": 7,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25,
+			26
+		],
+		"Rare": 3,
+		"Category": 2000,
+		"DataImpl": {},
+		"GoodID": 40038
+	},
+	{
+		"Type": 3,
+		"SubID": 2039,
+		"Price": 7,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25,
+			26
+		],
+		"Rare": 3,
+		"Category": 2000,
+		"DataImpl": {},
+		"GoodID": 40039
+	},
+	{
+		"Type": 3,
+		"SubID": 2040,
+		"Price": 5,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25,
+			26
+		],
+		"Rare": 3,
+		"Category": 2000,
+		"DataImpl": {},
+		"GoodID": 40040
+	},
+	{
+		"Type": 3,
+		"SubID": 2041,
+		"Price": 3,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25,
+			26
+		],
+		"Rare": 3,
+		"Category": 2000,
+		"DataImpl": {},
+		"GoodID": 40041
+	},
+	{
+		"Type": 3,
+		"SubID": 2042,
+		"Price": 3,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25,
+			26
+		],
+		"Rare": 3,
+		"Category": 2000,
+		"DataImpl": {},
+		"GoodID": 40042
+	},
+	{
+		"Type": 3,
+		"SubID": 2043,
+		"Price": 7,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25,
+			26
+		],
+		"Rare": 3,
+		"Category": 2000,
+		"DataImpl": {},
+		"GoodID": 40043
+	},
+	{
+		"Type": 3,
+		"SubID": 2044,
+		"Price": 7,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25,
+			26
+		],
+		"Rare": 3,
+		"Category": 2000,
+		"DataImpl": {},
+		"GoodID": 40044
+	},
+	{
+		"Type": 3,
+		"SubID": 2045,
+		"Price": 10,
+		"StoreType": [
+			0,
+			1,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22,
+			23,
+			24,
+			25,
+			26
+		],
+		"Rare": 3,
+		"Category": 2000,
+		"DataImpl": {},
+		"GoodID": 40045
+	}
+]

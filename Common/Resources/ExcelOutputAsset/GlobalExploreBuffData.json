@@ -1,0 +1,293 @@
+[
+	{
+		"AbilityNameID": "Ability_AllServer_ComboAddDamage_Lv1",
+		"AreaBuffName": {
+			"hash": -1011586932
+		},
+		"AreaBuffDesc": {
+			"hash": -1294007534
+		},
+		"FlagID": 0,
+		"Params": [
+			50,
+			0.2
+		],
+		"DataImpl": {},
+		"AreaBuffID": 0,
+		"Level": 1
+	},
+	{
+		"AbilityNameID": "Ability_AllServer_ComboAddDamage_Lv2",
+		"AreaBuffName": {
+			"hash": -1011586931
+		},
+		"AreaBuffDesc": {
+			"hash": -1294007533
+		},
+		"FlagID": 0,
+		"Params": [
+			50,
+			150,
+			0.2,
+			0.8
+		],
+		"DataImpl": {},
+		"AreaBuffID": 0,
+		"Level": 2
+	},
+	{
+		"AbilityNameID": "Ability_AllServer_ComboAddDamage_Lv3",
+		"AreaBuffName": {
+			"hash": -1011586930
+		},
+		"AreaBuffDesc": {
+			"hash": -1294007532
+		},
+		"FlagID": 0,
+		"Params": [
+			50,
+			150,
+			250,
+			0.2,
+			0.8,
+			1.6
+		],
+		"DataImpl": {},
+		"AreaBuffID": 0,
+		"Level": 3
+	},
+	{
+		"AbilityNameID": "Ability_AllServer_UseHP",
+		"AreaBuffName": {
+			"hash": -1011586901
+		},
+		"AreaBuffDesc": {
+			"hash": -1294007503
+		},
+		"FlagID": 0,
+		"Params": [
+			-0.5,
+			8,
+			0.45,
+			8,
+			28
+		],
+		"DataImpl": {},
+		"AreaBuffID": 1,
+		"Level": 1
+	},
+	{
+		"AbilityNameID": "Ability_AllServer_UseHP",
+		"AreaBuffName": {
+			"hash": -1011586900
+		},
+		"AreaBuffDesc": {
+			"hash": -1294007502
+		},
+		"FlagID": 0,
+		"Params": [
+			-0.5,
+			8,
+			0.9,
+			8,
+			24
+		],
+		"DataImpl": {},
+		"AreaBuffID": 1,
+		"Level": 2
+	},
+	{
+		"AbilityNameID": "Ability_AllServer_UseHP",
+		"AreaBuffName": {
+			"hash": -1011586899
+		},
+		"AreaBuffDesc": {
+			"hash": -1294007501
+		},
+		"FlagID": 0,
+		"Params": [
+			-0.5,
+			8,
+			1.35,
+			8,
+			20
+		],
+		"DataImpl": {},
+		"AreaBuffID": 1,
+		"Level": 3
+	},
+	{
+		"AbilityNameID": "Ability_AllServer_WitchTimeBuff",
+		"AreaBuffName": {
+			"hash": -1011586870
+		},
+		"AreaBuffDesc": {
+			"hash": -1294007472
+		},
+		"FlagID": 0,
+		"Params": [
+			0.1,
+			5,
+			6
+		],
+		"DataImpl": {},
+		"AreaBuffID": 2,
+		"Level": 1
+	},
+	{
+		"AbilityNameID": "Ability_AllServer_WitchTimeBuff",
+		"AreaBuffName": {
+			"hash": -1011586869
+		},
+		"AreaBuffDesc": {
+			"hash": -1294007471
+		},
+		"FlagID": 0,
+		"Params": [
+			0.2,
+			5,
+			6
+		],
+		"DataImpl": {},
+		"AreaBuffID": 2,
+		"Level": 2
+	},
+	{
+		"AbilityNameID": "Ability_AllServer_WitchTimeBuff",
+		"AreaBuffName": {
+			"hash": -1011586868
+		},
+		"AreaBuffDesc": {
+			"hash": -1294007470
+		},
+		"FlagID": 0,
+		"Params": [
+			0.3,
+			5,
+			6
+		],
+		"DataImpl": {},
+		"AreaBuffID": 2,
+		"Level": 3
+	},
+	{
+		"AbilityNameID": "Ability_AllServer_SPBuff_Lv1",
+		"AreaBuffName": {
+			"hash": -1011586839
+		},
+		"AreaBuffDesc": {
+			"hash": -1294007441
+		},
+		"FlagID": 0,
+		"Params": [
+			80,
+			3,
+			-0.5,
+			0.5,
+			6
+		],
+		"DataImpl": {},
+		"AreaBuffID": 3,
+		"Level": 1
+	},
+	{
+		"AbilityNameID": "Ability_AllServer_SPBuff_Lv2",
+		"AreaBuffName": {
+			"hash": -1011586838
+		},
+		"AreaBuffDesc": {
+			"hash": -1294007440
+		},
+		"FlagID": 0,
+		"Params": [
+			80,
+			3,
+			-0.75,
+			1,
+			6
+		],
+		"DataImpl": {},
+		"AreaBuffID": 3,
+		"Level": 2
+	},
+	{
+		"AbilityNameID": "Ability_AllServer_SPBuff_Lv3",
+		"AreaBuffName": {
+			"hash": -1011586837
+		},
+		"AreaBuffDesc": {
+			"hash": -1294007439
+		},
+		"FlagID": 0,
+		"Params": [
+			80,
+			3,
+			-0.875,
+			1.5,
+			6
+		],
+		"DataImpl": {},
+		"AreaBuffID": 3,
+		"Level": 3
+	},
+	{
+		"AbilityNameID": "Ability_AllServer_NoHit_NoHitBuff",
+		"AreaBuffName": {
+			"hash": -1011586808
+		},
+		"AreaBuffDesc": {
+			"hash": -1294007410
+		},
+		"FlagID": 0,
+		"Params": [
+			1,
+			0.024,
+			10,
+			-5,
+			10
+		],
+		"DataImpl": {},
+		"AreaBuffID": 4,
+		"Level": 1
+	},
+	{
+		"AbilityNameID": "Ability_AllServer_NoHit_NoHitBuff",
+		"AreaBuffName": {
+			"hash": -1011586807
+		},
+		"AreaBuffDesc": {
+			"hash": -1294007409
+		},
+		"FlagID": 0,
+		"Params": [
+			1,
+			0.042,
+			15,
+			-5,
+			10
+		],
+		"DataImpl": {},
+		"AreaBuffID": 4,
+		"Level": 2
+	},
+	{
+		"AbilityNameID": "Ability_AllServer_NoHit_NoHitBuff",
+		"AreaBuffName": {
+			"hash": -1011586806
+		},
+		"AreaBuffDesc": {
+			"hash": -1294007408
+		},
+		"FlagID": 0,
+		"Params": [
+			1,
+			0.052,
+			20,
+			-5,
+			10
+		],
+		"DataImpl": {},
+		"AreaBuffID": 4,
+		"Level": 3
+	}
+]

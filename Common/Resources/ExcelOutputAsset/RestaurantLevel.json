@@ -1,0 +1,104 @@
+[
+	{
+		"UpgradeCost": 1500,
+		"RequireMissionIDList": [],
+		"MaxAvatar": 4,
+		"MaxOrder": 800,
+		"UpgradedPlotID": 55130,
+		"UnlockDesc": {
+			"hash": 952975914
+		},
+		"UnlockIngredientList": [],
+		"UnlockRecipeList": [],
+		"PreviewImgPath": "SpriteOutput/5thAnv/BG/Build/Lv1",
+		"DataImpl": {},
+		"Level": 1
+	},
+	{
+		"UpgradeCost": 12000,
+		"RequireMissionIDList": [],
+		"MaxAvatar": 5,
+		"MaxOrder": 900,
+		"UpgradedPlotID": 55131,
+		"UnlockDesc": {
+			"hash": 952975915
+		},
+		"UnlockIngredientList": [
+			121306
+		],
+		"UnlockRecipeList": [
+			121403,
+			121407,
+			121411
+		],
+		"PreviewImgPath": "SpriteOutput/5thAnv/BG/Build/Lv2",
+		"DataImpl": {},
+		"Level": 2
+	},
+	{
+		"UpgradeCost": 30000,
+		"RequireMissionIDList": [],
+		"MaxAvatar": 6,
+		"MaxOrder": 1000,
+		"UpgradedPlotID": 55132,
+		"UnlockDesc": {
+			"hash": 952975916
+		},
+		"UnlockIngredientList": [],
+		"UnlockRecipeList": [],
+		"PreviewImgPath": "SpriteOutput/5thAnv/BG/Build/Lv3",
+		"DataImpl": {},
+		"Level": 3
+	},
+	{
+		"UpgradeCost": 60000,
+		"RequireMissionIDList": [],
+		"MaxAvatar": 7,
+		"MaxOrder": 1100,
+		"UpgradedPlotID": 55133,
+		"UnlockDesc": {
+			"hash": 952975917
+		},
+		"UnlockIngredientList": [],
+		"UnlockRecipeList": [],
+		"PreviewImgPath": "SpriteOutput/5thAnv/BG/Build/Lv4",
+		"DataImpl": {},
+		"Level": 4
+	},
+	{
+		"UpgradeCost": 120000,
+		"RequireMissionIDList": [],
+		"MaxAvatar": 8,
+		"MaxOrder": 1200,
+		"UpgradedPlotID": 55134,
+		"UnlockDesc": {
+			"hash": 952975918
+		},
+		"UnlockIngredientList": [
+			121307
+		],
+		"UnlockRecipeList": [
+			121404,
+			121408,
+			121412
+		],
+		"PreviewImgPath": "SpriteOutput/5thAnv/BG/Build/Lv5",
+		"DataImpl": {},
+		"Level": 5
+	},
+	{
+		"UpgradeCost": 160000,
+		"RequireMissionIDList": [],
+		"MaxAvatar": 9,
+		"MaxOrder": 1400,
+		"UpgradedPlotID": 55135,
+		"UnlockDesc": {
+			"hash": 952975919
+		},
+		"UnlockIngredientList": [],
+		"UnlockRecipeList": [],
+		"PreviewImgPath": "SpriteOutput/5thAnv/BG/Build/Lv6",
+		"DataImpl": {},
+		"Level": 6
+	}
+]

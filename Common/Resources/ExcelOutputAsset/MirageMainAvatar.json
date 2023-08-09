@@ -1,0 +1,462 @@
+[
+	{
+		"AbilityName": "ABL_RogueTower_MH_Revive",
+		"ParamList": [
+			"0.6",
+			"3",
+			"30"
+		],
+		"SkillName": {
+			"hash": 872379110
+		},
+		"SkillDesc": {
+			"hash": -5416340
+		},
+		"SkillIcon": "SpriteOutput/AvatarIconSide/105",
+		"DataImpl": {},
+		"SpecialReviseID": 1
+	},
+	{
+		"AbilityName": "ABL_Mei_C5_AC_Rogue_Default_ABLS",
+		"ParamList": [
+			"0",
+			"0",
+			"0",
+			"0"
+		],
+		"SkillName": {
+			"hash": 872379110
+		},
+		"SkillDesc": {
+			"hash": -5416340
+		},
+		"SkillIcon": "SpriteOutput/AvatarIconSide/205",
+		"DataImpl": {},
+		"SpecialReviseID": 2
+	},
+	{
+		"AbilityName": "ABL_RogueTower_Fuka_C6_FL_0",
+		"ParamList": [],
+		"SkillName": {
+			"hash": 872379110
+		},
+		"SkillDesc": {
+			"hash": -5416340
+		},
+		"SkillIcon": "SpriteOutput/AvatarIconSide/612",
+		"DataImpl": {},
+		"SpecialReviseID": 3
+	},
+	{
+		"AbilityName": "ABL_RogueTower_Durandal_C4_DK_0",
+		"ParamList": [],
+		"SkillName": {
+			"hash": 872379110
+		},
+		"SkillDesc": {
+			"hash": -5416340
+		},
+		"SkillIcon": "SpriteOutput/AvatarIconSide/804",
+		"DataImpl": {},
+		"SpecialReviseID": 4
+	},
+	{
+		"AbilityName": "ABL_RogueTower_Kiana_YL_0",
+		"ParamList": [
+			"0",
+			"0.5",
+			"240",
+			"0",
+			"20"
+		],
+		"SkillName": {
+			"hash": 872379110
+		},
+		"SkillDesc": {
+			"hash": -5416340
+		},
+		"SkillIcon": "SpriteOutput/AvatarIconSide/113",
+		"DataImpl": {},
+		"SpecialReviseID": 5
+	},
+	{
+		"AbilityName": "ABL_RogueTower_Himeko_SD_0",
+		"ParamList": [
+			"9"
+		],
+		"SkillName": {
+			"hash": 872379110
+		},
+		"SkillDesc": {
+			"hash": -5416340
+		},
+		"SkillIcon": "SpriteOutput/AvatarIconSide/412",
+		"DataImpl": {},
+		"SpecialReviseID": 6
+	},
+	{
+		"AbilityName": "ABL_RogueTower_Bronya_C7_RogueExec",
+		"ParamList": [
+			"0"
+		],
+		"SkillName": {
+			"hash": 872379110
+		},
+		"SkillDesc": {
+			"hash": -5416340
+		},
+		"SkillIcon": "SpriteOutput/AvatarIconSide/313",
+		"DataImpl": {},
+		"SpecialReviseID": 7
+	},
+	{
+		"AbilityName": "ABL_RogueTower_Sakura_ZF_0",
+		"ParamList": [
+			"0",
+			"0.45",
+			"0",
+			"8",
+			"0.8",
+			"300"
+		],
+		"SkillName": {
+			"hash": 872379110
+		},
+		"SkillDesc": {
+			"hash": -5416340
+		},
+		"SkillIcon": "SpriteOutput/AvatarIconSide/212",
+		"DataImpl": {},
+		"SpecialReviseID": 8
+	},
+	{
+		"AbilityName": "ABL_RogueTower_Bronya_GB_0",
+		"ParamList": [
+			"0.3",
+			"200",
+			"1",
+			"0.3"
+		],
+		"SkillName": {
+			"hash": 872379110
+		},
+		"SkillDesc": {
+			"hash": -5416340
+		},
+		"SkillIcon": "SpriteOutput/AvatarIconSide/317",
+		"DataImpl": {},
+		"SpecialReviseID": 9
+	},
+	{
+		"AbilityName": "",
+		"ParamList": [],
+		"SkillName": {
+			"hash": 838112117
+		},
+		"SkillDesc": {
+			"hash": -39683333
+		},
+		"SkillIcon": "SpriteOutput/SubSkillIcons/Skill_Nagative_Survive03",
+		"DataImpl": {},
+		"SpecialReviseID": 10002
+	},
+	{
+		"AbilityName": "",
+		"ParamList": [],
+		"SkillName": {
+			"hash": 838112118
+		},
+		"SkillDesc": {
+			"hash": -39683332
+		},
+		"SkillIcon": "SpriteOutput/SubSkillIcons/Skill_Nagative_Skill03",
+		"DataImpl": {},
+		"SpecialReviseID": 10003
+	},
+	{
+		"AbilityName": "",
+		"ParamList": [],
+		"SkillName": {
+			"hash": 839035638
+		},
+		"SkillDesc": {
+			"hash": -38759812
+		},
+		"SkillIcon": "SpriteOutput/SkillIcons/Skill_Mei_AC_004",
+		"DataImpl": {},
+		"SpecialReviseID": 20002
+	},
+	{
+		"AbilityName": "",
+		"ParamList": [],
+		"SkillName": {
+			"hash": 839035639
+		},
+		"SkillDesc": {
+			"hash": -38759811
+		},
+		"SkillIcon": "SpriteOutput/SkillIcons/Skill_Mei_AC_006",
+		"DataImpl": {},
+		"SpecialReviseID": 20003
+	},
+	{
+		"AbilityName": "",
+		"ParamList": [],
+		"SkillName": {
+			"hash": 839959159
+		},
+		"SkillDesc": {
+			"hash": -37836291
+		},
+		"SkillIcon": "SpriteOutput/SkillIcons/Skill_Fuka_FL_002",
+		"DataImpl": {},
+		"SpecialReviseID": 30002
+	},
+	{
+		"AbilityName": "",
+		"ParamList": [],
+		"SkillName": {
+			"hash": 839959160
+		},
+		"SkillDesc": {
+			"hash": -37836290
+		},
+		"SkillIcon": "SpriteOutput/SkillIcons/Skill_Fuka_FL_004",
+		"DataImpl": {},
+		"SpecialReviseID": 30003
+	},
+	{
+		"AbilityName": "",
+		"ParamList": [],
+		"SkillName": {
+			"hash": 840882680
+		},
+		"SkillDesc": {
+			"hash": -36912770
+		},
+		"SkillIcon": "SpriteOutput/SkillIcons/Skill_Durandal_C4_DK_733_Knight",
+		"DataImpl": {},
+		"SpecialReviseID": 40002
+	},
+	{
+		"AbilityName": "",
+		"ParamList": [],
+		"SkillName": {
+			"hash": 840882681
+		},
+		"SkillDesc": {
+			"hash": -36912769
+		},
+		"SkillIcon": "SpriteOutput/SkillIcons/Skill_Durandal_C4_DK_736",
+		"DataImpl": {},
+		"SpecialReviseID": 40003
+	},
+	{
+		"AbilityName": "",
+		"ParamList": [],
+		"SkillName": {
+			"hash": 841806201
+		},
+		"SkillDesc": {
+			"hash": -35989249
+		},
+		"SkillIcon": "SpriteOutput/SkillIcons/Skill_Kiana_YL_002",
+		"DataImpl": {},
+		"SpecialReviseID": 50002
+	},
+	{
+		"AbilityName": "",
+		"ParamList": [],
+		"SkillName": {
+			"hash": 841806202
+		},
+		"SkillDesc": {
+			"hash": -35989248
+		},
+		"SkillIcon": "SpriteOutput/SkillIcons/Skill_Kiana_YL_004",
+		"DataImpl": {},
+		"SpecialReviseID": 50003
+	},
+	{
+		"AbilityName": "",
+		"ParamList": [],
+		"SkillName": {
+			"hash": 841806203
+		},
+		"SkillDesc": {
+			"hash": -35989247
+		},
+		"SkillIcon": "SpriteOutput/SkillIcons/Skill_Kiana_YL_003",
+		"DataImpl": {},
+		"SpecialReviseID": 50004
+	},
+	{
+		"AbilityName": "",
+		"ParamList": [],
+		"SkillName": {
+			"hash": 842729722
+		},
+		"SkillDesc": {
+			"hash": -35065728
+		},
+		"SkillIcon": "SpriteOutput/SkillIconsInLevel/Skill_Himeko_Weapon_26",
+		"DataImpl": {},
+		"SpecialReviseID": 60002
+	},
+	{
+		"AbilityName": "",
+		"ParamList": [],
+		"SkillName": {
+			"hash": 842729723
+		},
+		"SkillDesc": {
+			"hash": -35065727
+		},
+		"SkillIcon": "SpriteOutput/SkillIconsInLevel/Skill_Himeko_Weapon_26",
+		"DataImpl": {},
+		"SpecialReviseID": 60003
+	},
+	{
+		"AbilityName": "",
+		"ParamList": [],
+		"SkillName": {
+			"hash": 842729724
+		},
+		"SkillDesc": {
+			"hash": -35065726
+		},
+		"SkillIcon": "SpriteOutput/SkillIcons/Skill_Himeko_SD_002",
+		"DataImpl": {},
+		"SpecialReviseID": 60004
+	},
+	{
+		"AbilityName": "",
+		"ParamList": [],
+		"SkillName": {
+			"hash": 842729725
+		},
+		"SkillDesc": {
+			"hash": -35065725
+		},
+		"SkillIcon": "SpriteOutput/SkillIcons/Skill_Himeko_SD_003",
+		"DataImpl": {},
+		"SpecialReviseID": 60005
+	},
+	{
+		"AbilityName": "",
+		"ParamList": [],
+		"SkillName": {
+			"hash": 842729726
+		},
+		"SkillDesc": {
+			"hash": -35065724
+		},
+		"SkillIcon": "SpriteOutput/SkillIcons/Skill_Himeko_SD_006",
+		"DataImpl": {},
+		"SpecialReviseID": 60006
+	},
+	{
+		"AbilityName": "",
+		"ParamList": [],
+		"SkillName": {
+			"hash": 842729727
+		},
+		"SkillDesc": {
+			"hash": -35065723
+		},
+		"SkillIcon": "SpriteOutput/SkillIcons/Skill_Himeko_SD_004",
+		"DataImpl": {},
+		"SpecialReviseID": 60007
+	},
+	{
+		"AbilityName": "",
+		"ParamList": [],
+		"SkillName": {
+			"hash": 843653243
+		},
+		"SkillDesc": {
+			"hash": -34142207
+		},
+		"SkillIcon": "SpriteOutput/SkillIcons/Skill_Bronya_C7_004",
+		"DataImpl": {},
+		"SpecialReviseID": 70002
+	},
+	{
+		"AbilityName": "",
+		"ParamList": [],
+		"SkillName": {
+			"hash": 844576764
+		},
+		"SkillDesc": {
+			"hash": -33218686
+		},
+		"SkillIcon": "SpriteOutput/SkillIcons/Skill_Sakura_YS_003",
+		"DataImpl": {},
+		"SpecialReviseID": 80002
+	},
+	{
+		"AbilityName": "",
+		"ParamList": [],
+		"SkillName": {
+			"hash": 844576765
+		},
+		"SkillDesc": {
+			"hash": -33218685
+		},
+		"SkillIcon": "SpriteOutput/SkillIcons/Skill_Sakura_YS_002",
+		"DataImpl": {},
+		"SpecialReviseID": 80003
+	},
+	{
+		"AbilityName": "",
+		"ParamList": [],
+		"SkillName": {
+			"hash": 844576766
+		},
+		"SkillDesc": {
+			"hash": -33218684
+		},
+		"SkillIcon": "SpriteOutput/SkillIcons/Skill_Sakura_YS_006",
+		"DataImpl": {},
+		"SpecialReviseID": 80004
+	},
+	{
+		"AbilityName": "",
+		"ParamList": [],
+		"SkillName": {
+			"hash": 845500285
+		},
+		"SkillDesc": {
+			"hash": -32295165
+		},
+		"SkillIcon": "SpriteOutput/SkillIcons/Skill_Bronya_C12_GB_836",
+		"DataImpl": {},
+		"SpecialReviseID": 90002
+	},
+	{
+		"AbilityName": "",
+		"ParamList": [],
+		"SkillName": {
+			"hash": 845500286
+		},
+		"SkillDesc": {
+			"hash": -32295164
+		},
+		"SkillIcon": "SpriteOutput/SkillIcons/Skill_Bronya_C12_GB_834",
+		"DataImpl": {},
+		"SpecialReviseID": 90003
+	},
+	{
+		"AbilityName": "",
+		"ParamList": [],
+		"SkillName": {
+			"hash": 845500287
+		},
+		"SkillDesc": {
+			"hash": -32295163
+		},
+		"SkillIcon": "SpriteOutput/SkillIcons/Skill_Bronya_C12_GB_832",
+		"DataImpl": {},
+		"SpecialReviseID": 90004
+	}
+]

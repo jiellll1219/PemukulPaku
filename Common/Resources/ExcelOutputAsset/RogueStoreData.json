@@ -1,0 +1,477 @@
+[
+	{
+		"StoreType": 1,
+		"ShopName": {
+			"hash": -1907351828
+		},
+		"BaseProp": "Rogue_Store_Base",
+		"TrueProp": "Rogue_Store_Prop",
+		"BeginPlotIDs": [
+			0
+		],
+		"StoreDialog": 100626,
+		"SuccessDialog": 100627,
+		"FailDialog": 100628,
+		"CoinPos": 1,
+		"DataImpl": {},
+		"ShopID": 1
+	},
+	{
+		"StoreType": 2,
+		"ShopName": {
+			"hash": -1907351827
+		},
+		"BaseProp": "Rogue_Stone_Base_XY",
+		"TrueProp": "Rogue_Stone_XY",
+		"BeginPlotIDs": [
+			210003
+		],
+		"StoreDialog": 100629,
+		"SuccessDialog": 0,
+		"FailDialog": 100595,
+		"CoinPos": 0.5,
+		"DataImpl": {},
+		"ShopID": 2
+	},
+	{
+		"StoreType": 2,
+		"ShopName": {
+			"hash": -1907351826
+		},
+		"BaseProp": "Rogue_Stone_Base_NW",
+		"TrueProp": "Rogue_Stone_NW",
+		"BeginPlotIDs": [
+			210001
+		],
+		"StoreDialog": 100629,
+		"SuccessDialog": 0,
+		"FailDialog": 100595,
+		"CoinPos": 0,
+		"DataImpl": {},
+		"ShopID": 3
+	},
+	{
+		"StoreType": 2,
+		"ShopName": {
+			"hash": -1907351825
+		},
+		"BaseProp": "Rogue_Stone_Base_FX",
+		"TrueProp": "Rogue_Stone_FX",
+		"BeginPlotIDs": [
+			210002
+		],
+		"StoreDialog": 100629,
+		"SuccessDialog": 0,
+		"FailDialog": 100595,
+		"CoinPos": 0.5,
+		"DataImpl": {},
+		"ShopID": 4
+	},
+	{
+		"StoreType": 2,
+		"ShopName": {
+			"hash": -1907351824
+		},
+		"BaseProp": "Rogue_Stone_Base_SN",
+		"TrueProp": "Rogue_Stone_SN",
+		"BeginPlotIDs": [
+			210004
+		],
+		"StoreDialog": 100629,
+		"SuccessDialog": 0,
+		"FailDialog": 100595,
+		"CoinPos": 0.5,
+		"DataImpl": {},
+		"ShopID": 5
+	},
+	{
+		"StoreType": 3,
+		"ShopName": {
+			"hash": -1907351823
+		},
+		"BaseProp": "Rogue_Wifi_Theresa_Base",
+		"TrueProp": "Rogue_Wifi_Theresa",
+		"BeginPlotIDs": [
+			210005,
+			210006,
+			210007,
+			210008,
+			210009,
+			210010,
+			210011
+		],
+		"StoreDialog": 100586,
+		"SuccessDialog": 100587,
+		"FailDialog": 100588,
+		"CoinPos": 0.5,
+		"DataImpl": {},
+		"ShopID": 6
+	},
+	{
+		"StoreType": 3,
+		"ShopName": {
+			"hash": -1907351822
+		},
+		"BaseProp": "Rogue_Wifi_Fuka_Base",
+		"TrueProp": "Rogue_Wifi_Fuka",
+		"BeginPlotIDs": [
+			210019,
+			210020,
+			210021,
+			210022,
+			210023,
+			210024
+		],
+		"StoreDialog": 100593,
+		"SuccessDialog": 100594,
+		"FailDialog": 100595,
+		"CoinPos": 0.5,
+		"DataImpl": {},
+		"ShopID": 7
+	},
+	{
+		"StoreType": 3,
+		"ShopName": {
+			"hash": -1907351821
+		},
+		"BaseProp": "Rogue_Wifi_Xing_Base",
+		"TrueProp": "Rogue_Wifi_Xing",
+		"BeginPlotIDs": [
+			210012,
+			210013,
+			210014,
+			210015,
+			210016,
+			210017,
+			210018
+		],
+		"StoreDialog": 100589,
+		"SuccessDialog": 100590,
+		"FailDialog": 100592,
+		"CoinPos": 0.5,
+		"DataImpl": {},
+		"ShopID": 8
+	},
+	{
+		"StoreType": 3,
+		"ShopName": {
+			"hash": -1907351820
+		},
+		"BaseProp": "Rogue_Wifi_DarkXY_Base",
+		"TrueProp": "Rogue_Wifi_DarkXY",
+		"BeginPlotIDs": [
+			210025,
+			210026,
+			210027,
+			210028,
+			210029
+		],
+		"StoreDialog": 100596,
+		"SuccessDialog": 100597,
+		"FailDialog": 100598,
+		"CoinPos": 0,
+		"DataImpl": {},
+		"ShopID": 9
+	},
+	{
+		"StoreType": 3,
+		"ShopName": {
+			"hash": 1001635524
+		},
+		"BaseProp": "Rogue_Wifi_Ai_Base",
+		"TrueProp": "Rogue_Wifi_Ai",
+		"BeginPlotIDs": [
+			210030,
+			210031,
+			210032,
+			210033,
+			210034
+		],
+		"StoreDialog": 100602,
+		"SuccessDialog": 100603,
+		"FailDialog": 100604,
+		"CoinPos": 0,
+		"DataImpl": {},
+		"ShopID": 10
+	},
+	{
+		"StoreType": 3,
+		"ShopName": {
+			"hash": 1001635525
+		},
+		"BaseProp": "Rogue_Wifi_Wei_Base",
+		"TrueProp": "Rogue_Wifi_Wei",
+		"BeginPlotIDs": [
+			210035,
+			210036,
+			210037,
+			210038,
+			210039
+		],
+		"StoreDialog": 100599,
+		"SuccessDialog": 100600,
+		"FailDialog": 100601,
+		"CoinPos": 0,
+		"DataImpl": {},
+		"ShopID": 11
+	},
+	{
+		"StoreType": 3,
+		"ShopName": {
+			"hash": 1001635526
+		},
+		"BaseProp": "Rogue_Wifi_Love_Base",
+		"TrueProp": "Rogue_Wifi_Love",
+		"BeginPlotIDs": [
+			230001,
+			230002,
+			230003,
+			230004,
+			230005
+		],
+		"StoreDialog": 100605,
+		"SuccessDialog": 100606,
+		"FailDialog": 100607,
+		"CoinPos": 0,
+		"DataImpl": {},
+		"ShopID": 12
+	},
+	{
+		"StoreType": 2,
+		"ShopName": {
+			"hash": 1001635527
+		},
+		"BaseProp": "Memory_Box_Edison_Base",
+		"TrueProp": "Memory_Box_Light",
+		"BeginPlotIDs": [
+			100073
+		],
+		"StoreDialog": 100794,
+		"SuccessDialog": 0,
+		"FailDialog": 100795,
+		"CoinPos": 0.75,
+		"DataImpl": {},
+		"ShopID": 13
+	},
+	{
+		"StoreType": 2,
+		"ShopName": {
+			"hash": 1001635528
+		},
+		"BaseProp": "Memory_Box_Einstein_Base",
+		"TrueProp": "Memory_Box_Light",
+		"BeginPlotIDs": [
+			100074
+		],
+		"StoreDialog": 100794,
+		"SuccessDialog": 0,
+		"FailDialog": 100795,
+		"CoinPos": 0.75,
+		"DataImpl": {},
+		"ShopID": 14
+	},
+	{
+		"StoreType": 2,
+		"ShopName": {
+			"hash": 1001635529
+		},
+		"BaseProp": "Memory_Box_Newton_Base",
+		"TrueProp": "Memory_Box_Light",
+		"BeginPlotIDs": [
+			100072
+		],
+		"StoreDialog": 100794,
+		"SuccessDialog": 0,
+		"FailDialog": 100795,
+		"CoinPos": 0.75,
+		"DataImpl": {},
+		"ShopID": 15
+	},
+	{
+		"StoreType": 2,
+		"ShopName": {
+			"hash": 1001635530
+		},
+		"BaseProp": "Memory_Box_Tesla_Base",
+		"TrueProp": "Memory_Box_Light",
+		"BeginPlotIDs": [
+			100071
+		],
+		"StoreDialog": 100794,
+		"SuccessDialog": 0,
+		"FailDialog": 100795,
+		"CoinPos": 0.75,
+		"DataImpl": {},
+		"ShopID": 16
+	},
+	{
+		"StoreType": 2,
+		"ShopName": {
+			"hash": -1907351827
+		},
+		"BaseProp": "Rogue_Stone_Base_XY",
+		"TrueProp": "Rogue_Stone_XY",
+		"BeginPlotIDs": [
+			0
+		],
+		"StoreDialog": 100629,
+		"SuccessDialog": 0,
+		"FailDialog": 100595,
+		"CoinPos": 0.75,
+		"DataImpl": {},
+		"ShopID": 17
+	},
+	{
+		"StoreType": 2,
+		"ShopName": {
+			"hash": -1907351826
+		},
+		"BaseProp": "Rogue_Stone_Base_NW",
+		"TrueProp": "Rogue_Stone_NW",
+		"BeginPlotIDs": [
+			0
+		],
+		"StoreDialog": 100629,
+		"SuccessDialog": 0,
+		"FailDialog": 100595,
+		"CoinPos": 0.75,
+		"DataImpl": {},
+		"ShopID": 18
+	},
+	{
+		"StoreType": 2,
+		"ShopName": {
+			"hash": -1907351825
+		},
+		"BaseProp": "Rogue_Stone_Base_FX",
+		"TrueProp": "Rogue_Stone_FX",
+		"BeginPlotIDs": [
+			0
+		],
+		"StoreDialog": 100629,
+		"SuccessDialog": 0,
+		"FailDialog": 100595,
+		"CoinPos": 0.75,
+		"DataImpl": {},
+		"ShopID": 19
+	},
+	{
+		"StoreType": 2,
+		"ShopName": {
+			"hash": -1907351824
+		},
+		"BaseProp": "Rogue_Stone_Base_SN",
+		"TrueProp": "Rogue_Stone_SN",
+		"BeginPlotIDs": [
+			0
+		],
+		"StoreDialog": 100629,
+		"SuccessDialog": 0,
+		"FailDialog": 100595,
+		"CoinPos": 0.75,
+		"DataImpl": {},
+		"ShopID": 20
+	},
+	{
+		"StoreType": 3,
+		"ShopName": {
+			"hash": -1907351823
+		},
+		"BaseProp": "Rogue_Wifi_Theresa_Base",
+		"TrueProp": "Rogue_Wifi_Theresa",
+		"BeginPlotIDs": [
+			0
+		],
+		"StoreDialog": 100586,
+		"SuccessDialog": 100587,
+		"FailDialog": 100588,
+		"CoinPos": 0.5,
+		"DataImpl": {},
+		"ShopID": 21
+	},
+	{
+		"StoreType": 3,
+		"ShopName": {
+			"hash": -1907351822
+		},
+		"BaseProp": "Rogue_Wifi_Fuka_Base",
+		"TrueProp": "Rogue_Wifi_Fuka",
+		"BeginPlotIDs": [
+			0
+		],
+		"StoreDialog": 100593,
+		"SuccessDialog": 100594,
+		"FailDialog": 100595,
+		"CoinPos": 0.5,
+		"DataImpl": {},
+		"ShopID": 22
+	},
+	{
+		"StoreType": 3,
+		"ShopName": {
+			"hash": -1907351821
+		},
+		"BaseProp": "Rogue_Wifi_Xing_Base",
+		"TrueProp": "Rogue_Wifi_Xing",
+		"BeginPlotIDs": [
+			0
+		],
+		"StoreDialog": 100589,
+		"SuccessDialog": 100590,
+		"FailDialog": 100592,
+		"CoinPos": 0.5,
+		"DataImpl": {},
+		"ShopID": 23
+	},
+	{
+		"StoreType": 3,
+		"ShopName": {
+			"hash": -1907351820
+		},
+		"BaseProp": "Rogue_Wifi_DarkXY_Base",
+		"TrueProp": "Rogue_Wifi_DarkXY",
+		"BeginPlotIDs": [
+			0
+		],
+		"StoreDialog": 100596,
+		"SuccessDialog": 100597,
+		"FailDialog": 100598,
+		"CoinPos": 0,
+		"DataImpl": {},
+		"ShopID": 24
+	},
+	{
+		"StoreType": 3,
+		"ShopName": {
+			"hash": 1001635524
+		},
+		"BaseProp": "Rogue_Wifi_Ai_Base",
+		"TrueProp": "Rogue_Wifi_Ai",
+		"BeginPlotIDs": [
+			0
+		],
+		"StoreDialog": 100602,
+		"SuccessDialog": 100603,
+		"FailDialog": 100604,
+		"CoinPos": 0,
+		"DataImpl": {},
+		"ShopID": 25
+	},
+	{
+		"StoreType": 3,
+		"ShopName": {
+			"hash": 1001635525
+		},
+		"BaseProp": "Rogue_Wifi_Wei_Base",
+		"TrueProp": "Rogue_Wifi_Wei",
+		"BeginPlotIDs": [
+			0
+		],
+		"StoreDialog": 100599,
+		"SuccessDialog": 100600,
+		"FailDialog": 100601,
+		"CoinPos": 0,
+		"DataImpl": {},
+		"ShopID": 26
+	}
+]

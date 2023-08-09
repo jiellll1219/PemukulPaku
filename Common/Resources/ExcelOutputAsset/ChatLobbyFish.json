@@ -1,0 +1,614 @@
+[
+	{
+		"FishGroup": 1,
+		"Weight": 200,
+		"FishPicID": "SpriteOutput/MaterialIcons/IconFish06",
+		"Textmap_Name": {
+			"hash": -1992432565
+		},
+		"Textmap_Desc": {
+			"hash": 147618364
+		},
+		"IsRare": 1,
+		"FishType": 1,
+		"AddCurrencyID": 5,
+		"AddCurrencyNum": 200,
+		"DataImpl": {},
+		"FishID": 1001
+	},
+	{
+		"FishGroup": 1,
+		"Weight": 0,
+		"FishPicID": "SpriteOutput/MaterialIcons/IconFish05",
+		"Textmap_Name": {
+			"hash": -1992432564
+		},
+		"Textmap_Desc": {
+			"hash": 147618365
+		},
+		"IsRare": 0,
+		"FishType": 2,
+		"AddCurrencyID": 5,
+		"AddCurrencyNum": 200,
+		"DataImpl": {},
+		"FishID": 1002
+	},
+	{
+		"FishGroup": 1,
+		"Weight": 0,
+		"FishPicID": "SpriteOutput/MaterialIcons/IconFish04",
+		"Textmap_Name": {
+			"hash": -1992432563
+		},
+		"Textmap_Desc": {
+			"hash": 147618366
+		},
+		"IsRare": 0,
+		"FishType": 2,
+		"AddCurrencyID": 5,
+		"AddCurrencyNum": 200,
+		"DataImpl": {},
+		"FishID": 1003
+	},
+	{
+		"FishGroup": 1,
+		"Weight": 0,
+		"FishPicID": "SpriteOutput/MaterialIcons/IconFish03",
+		"Textmap_Name": {
+			"hash": -1992432562
+		},
+		"Textmap_Desc": {
+			"hash": 147618367
+		},
+		"IsRare": 0,
+		"FishType": 3,
+		"AddCurrencyID": 5,
+		"AddCurrencyNum": 100,
+		"DataImpl": {},
+		"FishID": 1004
+	},
+	{
+		"FishGroup": 1,
+		"Weight": 0,
+		"FishPicID": "SpriteOutput/MaterialIcons/IconFish02",
+		"Textmap_Name": {
+			"hash": -1992432561
+		},
+		"Textmap_Desc": {
+			"hash": 147618368
+		},
+		"IsRare": 0,
+		"FishType": 3,
+		"AddCurrencyID": 5,
+		"AddCurrencyNum": 100,
+		"DataImpl": {},
+		"FishID": 1005
+	},
+	{
+		"FishGroup": 1,
+		"Weight": 0,
+		"FishPicID": "SpriteOutput/MaterialIcons/IconFish01",
+		"Textmap_Name": {
+			"hash": -1992432560
+		},
+		"Textmap_Desc": {
+			"hash": 147618369
+		},
+		"IsRare": 0,
+		"FishType": 3,
+		"AddCurrencyID": 5,
+		"AddCurrencyNum": 100,
+		"DataImpl": {},
+		"FishID": 1006
+	},
+	{
+		"FishGroup": 2,
+		"Weight": 0,
+		"FishPicID": "SpriteOutput/MaterialIcons/IconFish06",
+		"Textmap_Name": {
+			"hash": -1992432565
+		},
+		"Textmap_Desc": {
+			"hash": 147618364
+		},
+		"IsRare": 1,
+		"FishType": 1,
+		"AddCurrencyID": 5,
+		"AddCurrencyNum": 200,
+		"DataImpl": {},
+		"FishID": 1007
+	},
+	{
+		"FishGroup": 2,
+		"Weight": 0,
+		"FishPicID": "SpriteOutput/MaterialIcons/IconFish05",
+		"Textmap_Name": {
+			"hash": -1992432564
+		},
+		"Textmap_Desc": {
+			"hash": 147618365
+		},
+		"IsRare": 0,
+		"FishType": 2,
+		"AddCurrencyID": 5,
+		"AddCurrencyNum": 200,
+		"DataImpl": {},
+		"FishID": 1008
+	},
+	{
+		"FishGroup": 2,
+		"Weight": 0,
+		"FishPicID": "SpriteOutput/MaterialIcons/IconFish04",
+		"Textmap_Name": {
+			"hash": -1992432563
+		},
+		"Textmap_Desc": {
+			"hash": 147618366
+		},
+		"IsRare": 0,
+		"FishType": 2,
+		"AddCurrencyID": 5,
+		"AddCurrencyNum": 200,
+		"DataImpl": {},
+		"FishID": 1009
+	},
+	{
+		"FishGroup": 2,
+		"Weight": 0,
+		"FishPicID": "SpriteOutput/MaterialIcons/IconFish03",
+		"Textmap_Name": {
+			"hash": -1992432562
+		},
+		"Textmap_Desc": {
+			"hash": 147618367
+		},
+		"IsRare": 0,
+		"FishType": 3,
+		"AddCurrencyID": 5,
+		"AddCurrencyNum": 100,
+		"DataImpl": {},
+		"FishID": 1010
+	},
+	{
+		"FishGroup": 2,
+		"Weight": 0,
+		"FishPicID": "SpriteOutput/MaterialIcons/IconFish02",
+		"Textmap_Name": {
+			"hash": -1992432561
+		},
+		"Textmap_Desc": {
+			"hash": 147618368
+		},
+		"IsRare": 0,
+		"FishType": 3,
+		"AddCurrencyID": 5,
+		"AddCurrencyNum": 100,
+		"DataImpl": {},
+		"FishID": 1011
+	},
+	{
+		"FishGroup": 2,
+		"Weight": 200,
+		"FishPicID": "SpriteOutput/MaterialIcons/IconFish01",
+		"Textmap_Name": {
+			"hash": -1992432560
+		},
+		"Textmap_Desc": {
+			"hash": 147618369
+		},
+		"IsRare": 0,
+		"FishType": 3,
+		"AddCurrencyID": 5,
+		"AddCurrencyNum": 100,
+		"DataImpl": {},
+		"FishID": 1012
+	},
+	{
+		"FishGroup": 3,
+		"Weight": 200,
+		"FishPicID": "SpriteOutput/MaterialIcons/IconFish06",
+		"Textmap_Name": {
+			"hash": -1992432565
+		},
+		"Textmap_Desc": {
+			"hash": 147618364
+		},
+		"IsRare": 1,
+		"FishType": 1,
+		"AddCurrencyID": 5,
+		"AddCurrencyNum": 200,
+		"DataImpl": {},
+		"FishID": 1013
+	},
+	{
+		"FishGroup": 3,
+		"Weight": 0,
+		"FishPicID": "SpriteOutput/MaterialIcons/IconFish05",
+		"Textmap_Name": {
+			"hash": -1992432564
+		},
+		"Textmap_Desc": {
+			"hash": 147618365
+		},
+		"IsRare": 0,
+		"FishType": 2,
+		"AddCurrencyID": 5,
+		"AddCurrencyNum": 200,
+		"DataImpl": {},
+		"FishID": 1014
+	},
+	{
+		"FishGroup": 3,
+		"Weight": 0,
+		"FishPicID": "SpriteOutput/MaterialIcons/IconFish04",
+		"Textmap_Name": {
+			"hash": -1992432563
+		},
+		"Textmap_Desc": {
+			"hash": 147618366
+		},
+		"IsRare": 0,
+		"FishType": 2,
+		"AddCurrencyID": 5,
+		"AddCurrencyNum": 200,
+		"DataImpl": {},
+		"FishID": 1015
+	},
+	{
+		"FishGroup": 3,
+		"Weight": 0,
+		"FishPicID": "SpriteOutput/MaterialIcons/IconFish03",
+		"Textmap_Name": {
+			"hash": -1992432562
+		},
+		"Textmap_Desc": {
+			"hash": 147618367
+		},
+		"IsRare": 0,
+		"FishType": 3,
+		"AddCurrencyID": 5,
+		"AddCurrencyNum": 100,
+		"DataImpl": {},
+		"FishID": 1016
+	},
+	{
+		"FishGroup": 3,
+		"Weight": 0,
+		"FishPicID": "SpriteOutput/MaterialIcons/IconFish02",
+		"Textmap_Name": {
+			"hash": -1992432561
+		},
+		"Textmap_Desc": {
+			"hash": 147618368
+		},
+		"IsRare": 0,
+		"FishType": 3,
+		"AddCurrencyID": 5,
+		"AddCurrencyNum": 100,
+		"DataImpl": {},
+		"FishID": 1017
+	},
+	{
+		"FishGroup": 3,
+		"Weight": 0,
+		"FishPicID": "SpriteOutput/MaterialIcons/IconFish01",
+		"Textmap_Name": {
+			"hash": -1992432560
+		},
+		"Textmap_Desc": {
+			"hash": 147618369
+		},
+		"IsRare": 0,
+		"FishType": 3,
+		"AddCurrencyID": 5,
+		"AddCurrencyNum": 100,
+		"DataImpl": {},
+		"FishID": 1018
+	},
+	{
+		"FishGroup": 4,
+		"Weight": 0,
+		"FishPicID": "SpriteOutput/MaterialIcons/IconFish06",
+		"Textmap_Name": {
+			"hash": -1992432565
+		},
+		"Textmap_Desc": {
+			"hash": 147618364
+		},
+		"IsRare": 1,
+		"FishType": 1,
+		"AddCurrencyID": 5,
+		"AddCurrencyNum": 200,
+		"DataImpl": {},
+		"FishID": 1019
+	},
+	{
+		"FishGroup": 4,
+		"Weight": 0,
+		"FishPicID": "SpriteOutput/MaterialIcons/IconFish05",
+		"Textmap_Name": {
+			"hash": -1992432564
+		},
+		"Textmap_Desc": {
+			"hash": 147618365
+		},
+		"IsRare": 0,
+		"FishType": 2,
+		"AddCurrencyID": 5,
+		"AddCurrencyNum": 200,
+		"DataImpl": {},
+		"FishID": 1020
+	},
+	{
+		"FishGroup": 4,
+		"Weight": 0,
+		"FishPicID": "SpriteOutput/MaterialIcons/IconFish04",
+		"Textmap_Name": {
+			"hash": -1992432563
+		},
+		"Textmap_Desc": {
+			"hash": 147618366
+		},
+		"IsRare": 0,
+		"FishType": 2,
+		"AddCurrencyID": 5,
+		"AddCurrencyNum": 200,
+		"DataImpl": {},
+		"FishID": 1021
+	},
+	{
+		"FishGroup": 4,
+		"Weight": 0,
+		"FishPicID": "SpriteOutput/MaterialIcons/IconFish03",
+		"Textmap_Name": {
+			"hash": -1992432562
+		},
+		"Textmap_Desc": {
+			"hash": 147618367
+		},
+		"IsRare": 0,
+		"FishType": 3,
+		"AddCurrencyID": 5,
+		"AddCurrencyNum": 100,
+		"DataImpl": {},
+		"FishID": 1022
+	},
+	{
+		"FishGroup": 4,
+		"Weight": 0,
+		"FishPicID": "SpriteOutput/MaterialIcons/IconFish02",
+		"Textmap_Name": {
+			"hash": -1992432561
+		},
+		"Textmap_Desc": {
+			"hash": 147618368
+		},
+		"IsRare": 0,
+		"FishType": 3,
+		"AddCurrencyID": 5,
+		"AddCurrencyNum": 100,
+		"DataImpl": {},
+		"FishID": 1023
+	},
+	{
+		"FishGroup": 4,
+		"Weight": 200,
+		"FishPicID": "SpriteOutput/MaterialIcons/IconFish01",
+		"Textmap_Name": {
+			"hash": -1992432560
+		},
+		"Textmap_Desc": {
+			"hash": 147618369
+		},
+		"IsRare": 0,
+		"FishType": 3,
+		"AddCurrencyID": 5,
+		"AddCurrencyNum": 100,
+		"DataImpl": {},
+		"FishID": 1024
+	},
+	{
+		"FishGroup": 5,
+		"Weight": 200,
+		"FishPicID": "SpriteOutput/MaterialIcons/IconFish06",
+		"Textmap_Name": {
+			"hash": -1992432565
+		},
+		"Textmap_Desc": {
+			"hash": 147618364
+		},
+		"IsRare": 1,
+		"FishType": 1,
+		"AddCurrencyID": 5,
+		"AddCurrencyNum": 200,
+		"DataImpl": {},
+		"FishID": 1025
+	},
+	{
+		"FishGroup": 5,
+		"Weight": 0,
+		"FishPicID": "SpriteOutput/MaterialIcons/IconFish05",
+		"Textmap_Name": {
+			"hash": -1992432564
+		},
+		"Textmap_Desc": {
+			"hash": 147618365
+		},
+		"IsRare": 0,
+		"FishType": 2,
+		"AddCurrencyID": 5,
+		"AddCurrencyNum": 200,
+		"DataImpl": {},
+		"FishID": 1026
+	},
+	{
+		"FishGroup": 5,
+		"Weight": 0,
+		"FishPicID": "SpriteOutput/MaterialIcons/IconFish04",
+		"Textmap_Name": {
+			"hash": -1992432563
+		},
+		"Textmap_Desc": {
+			"hash": 147618366
+		},
+		"IsRare": 0,
+		"FishType": 2,
+		"AddCurrencyID": 5,
+		"AddCurrencyNum": 200,
+		"DataImpl": {},
+		"FishID": 1027
+	},
+	{
+		"FishGroup": 5,
+		"Weight": 0,
+		"FishPicID": "SpriteOutput/MaterialIcons/IconFish03",
+		"Textmap_Name": {
+			"hash": -1992432562
+		},
+		"Textmap_Desc": {
+			"hash": 147618367
+		},
+		"IsRare": 0,
+		"FishType": 3,
+		"AddCurrencyID": 5,
+		"AddCurrencyNum": 100,
+		"DataImpl": {},
+		"FishID": 1028
+	},
+	{
+		"FishGroup": 5,
+		"Weight": 0,
+		"FishPicID": "SpriteOutput/MaterialIcons/IconFish02",
+		"Textmap_Name": {
+			"hash": -1992432561
+		},
+		"Textmap_Desc": {
+			"hash": 147618368
+		},
+		"IsRare": 0,
+		"FishType": 3,
+		"AddCurrencyID": 5,
+		"AddCurrencyNum": 100,
+		"DataImpl": {},
+		"FishID": 1029
+	},
+	{
+		"FishGroup": 5,
+		"Weight": 0,
+		"FishPicID": "SpriteOutput/MaterialIcons/IconFish01",
+		"Textmap_Name": {
+			"hash": -1992432560
+		},
+		"Textmap_Desc": {
+			"hash": 147618369
+		},
+		"IsRare": 0,
+		"FishType": 3,
+		"AddCurrencyID": 5,
+		"AddCurrencyNum": 100,
+		"DataImpl": {},
+		"FishID": 1030
+	},
+	{
+		"FishGroup": 6,
+		"Weight": 0,
+		"FishPicID": "SpriteOutput/MaterialIcons/IconFish06",
+		"Textmap_Name": {
+			"hash": -1992432565
+		},
+		"Textmap_Desc": {
+			"hash": 147618364
+		},
+		"IsRare": 1,
+		"FishType": 1,
+		"AddCurrencyID": 5,
+		"AddCurrencyNum": 200,
+		"DataImpl": {},
+		"FishID": 1031
+	},
+	{
+		"FishGroup": 6,
+		"Weight": 0,
+		"FishPicID": "SpriteOutput/MaterialIcons/IconFish05",
+		"Textmap_Name": {
+			"hash": -1992432564
+		},
+		"Textmap_Desc": {
+			"hash": 147618365
+		},
+		"IsRare": 0,
+		"FishType": 2,
+		"AddCurrencyID": 5,
+		"AddCurrencyNum": 200,
+		"DataImpl": {},
+		"FishID": 1032
+	},
+	{
+		"FishGroup": 6,
+		"Weight": 0,
+		"FishPicID": "SpriteOutput/MaterialIcons/IconFish04",
+		"Textmap_Name": {
+			"hash": -1992432563
+		},
+		"Textmap_Desc": {
+			"hash": 147618366
+		},
+		"IsRare": 0,
+		"FishType": 2,
+		"AddCurrencyID": 5,
+		"AddCurrencyNum": 200,
+		"DataImpl": {},
+		"FishID": 1033
+	},
+	{
+		"FishGroup": 6,
+		"Weight": 0,
+		"FishPicID": "SpriteOutput/MaterialIcons/IconFish03",
+		"Textmap_Name": {
+			"hash": -1992432562
+		},
+		"Textmap_Desc": {
+			"hash": 147618367
+		},
+		"IsRare": 0,
+		"FishType": 3,
+		"AddCurrencyID": 5,
+		"AddCurrencyNum": 100,
+		"DataImpl": {},
+		"FishID": 1034
+	},
+	{
+		"FishGroup": 6,
+		"Weight": 0,
+		"FishPicID": "SpriteOutput/MaterialIcons/IconFish02",
+		"Textmap_Name": {
+			"hash": -1992432561
+		},
+		"Textmap_Desc": {
+			"hash": 147618368
+		},
+		"IsRare": 0,
+		"FishType": 3,
+		"AddCurrencyID": 5,
+		"AddCurrencyNum": 100,
+		"DataImpl": {},
+		"FishID": 1035
+	},
+	{
+		"FishGroup": 6,
+		"Weight": 200,
+		"FishPicID": "SpriteOutput/MaterialIcons/IconFish01",
+		"Textmap_Name": {
+			"hash": -1992432560
+		},
+		"Textmap_Desc": {
+			"hash": 147618369
+		},
+		"IsRare": 0,
+		"FishType": 3,
+		"AddCurrencyID": 5,
+		"AddCurrencyNum": 100,
+		"DataImpl": {},
+		"FishID": 1036
+	}
+]

@@ -1,0 +1,201 @@
+[
+	{
+		"TotalRoomList": [
+			1011,
+			1012,
+			1013
+		],
+		"HouseAssetPath": "Stage/New_Home_01/Dorm_101",
+		"HouseFacilityList": [
+			{
+				"col": 23,
+				"dir": 0,
+				"id": 101,
+				"row": 9
+			},
+			{
+				"col": 25,
+				"dir": 0,
+				"id": 102,
+				"row": 3
+			},
+			{
+				"col": 13,
+				"dir": 3,
+				"id": 103,
+				"row": 2
+			},
+			{
+				"col": 8,
+				"dir": 3,
+				"id": 104,
+				"row": 2
+			},
+			{
+				"col": 3,
+				"dir": 2,
+				"id": 105,
+				"row": 19
+			},
+			{
+				"col": 1,
+				"dir": 2,
+				"id": 106,
+				"row": 8
+			},
+			{
+				"col": 3,
+				"dir": 2,
+				"id": 107,
+				"row": 12
+			},
+			{
+				"col": 2,
+				"dir": 2,
+				"id": 108,
+				"row": 2
+			},
+			{
+				"col": 1,
+				"dir": 2,
+				"id": 109,
+				"row": 24
+			}
+		],
+		"UnlockLv": 0,
+		"UnlockMaterial": 0,
+		"HouseNameText": {
+			"hash": -1088416665
+		},
+		"HouseTypeText": {
+			"hash": 631508312
+		},
+		"HouseEnterImgPath": "SpriteOutput/Dorm/DormEntrance/BtnDormitoryV2",
+		"HouseEnterImgLineColor": "#9BCC12FF",
+		"HouseIconPath": "SpriteOutput/Dorm/NewDorm/DormType",
+		"HouseDescText": {
+			"hash": -1253520735
+		},
+		"HouseIntro": "HouseIntro101",
+		"DataImpl": {},
+		"HouseID": 101
+	},
+	{
+		"TotalRoomList": [
+			1021,
+			1022,
+			1023,
+			1024
+		],
+		"HouseAssetPath": "Stage/New_Home_01/Dorm_102",
+		"HouseFacilityList": [
+			{
+				"col": 17,
+				"dir": 0,
+				"id": 201,
+				"row": 36
+			},
+			{
+				"col": 20,
+				"dir": 0,
+				"id": 202,
+				"row": 20
+			},
+			{
+				"col": 57,
+				"dir": 1,
+				"id": 203,
+				"row": 46
+			},
+			{
+				"col": 51,
+				"dir": 1,
+				"id": 204,
+				"row": 45
+			},
+			{
+				"col": 45,
+				"dir": 2,
+				"id": 205,
+				"row": 4
+			},
+			{
+				"col": 16,
+				"dir": 0,
+				"id": 206,
+				"row": 14
+			},
+			{
+				"col": 43,
+				"dir": 3,
+				"id": 207,
+				"row": 20
+			},
+			{
+				"col": 29,
+				"dir": 0,
+				"id": 208,
+				"row": 16
+			},
+			{
+				"col": 58,
+				"dir": 0,
+				"id": 210,
+				"row": 11
+			},
+			{
+				"col": 36,
+				"dir": 3,
+				"id": 211,
+				"row": 11
+			},
+			{
+				"col": 55,
+				"dir": 0,
+				"id": 212,
+				"row": 23
+			},
+			{
+				"col": 55,
+				"dir": 0,
+				"id": 213,
+				"row": 17
+			},
+			{
+				"col": 28,
+				"dir": 0,
+				"id": 214,
+				"row": 11
+			},
+			{
+				"col": 19,
+				"dir": 0,
+				"id": 215,
+				"row": 9
+			},
+			{
+				"col": 20,
+				"dir": 0,
+				"id": 216,
+				"row": 6
+			}
+		],
+		"UnlockLv": 35,
+		"UnlockMaterial": 3131,
+		"HouseNameText": {
+			"hash": -1088416664
+		},
+		"HouseTypeText": {
+			"hash": 631508313
+		},
+		"HouseEnterImgPath": "SpriteOutput/Dorm/DormEntrance/BtnDormitorybeach",
+		"HouseEnterImgLineColor": "#4DC9D6FF",
+		"HouseIconPath": "SpriteOutput/Dorm/NewDorm/DormType2",
+		"HouseDescText": {
+			"hash": -1253520734
+		},
+		"HouseIntro": "HouseIntro102",
+		"DataImpl": {},
+		"HouseID": 102
+	}
+]

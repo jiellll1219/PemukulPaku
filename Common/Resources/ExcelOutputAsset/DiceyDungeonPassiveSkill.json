@@ -1,0 +1,10389 @@
+[
+	{
+		"passiveskillType": 3,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:PoisonousRate:5",
+			"Set:VulnerableRate:30",
+			"Set:WeakRate:30",
+			"Set:CriticalMissRate:50",
+			"Set:RageThreshold:100",
+			"Set:TearingRate:10"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 0
+	},
+	{
+		"passiveskillType": 3,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1579909721
+		},
+		"passiveskillDes": {
+			"hash": -1331131039
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Modify:VulnerableRate:5"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 1041
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1579909720
+		},
+		"passiveskillDes": {
+			"hash": -1331131038
+		},
+		"triggerCondition": "OnDiceUsed",
+		"triggerParam": "4,5,6",
+		"resultOnExecute": [
+			"Damage:15"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 1042
+	},
+	{
+		"passiveskillType": 3,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1579909719
+		},
+		"passiveskillDes": {
+			"hash": -1331131037
+		},
+		"triggerCondition": "OnAttachBuff",
+		"triggerParam": "Vulnerable",
+		"resultOnExecute": [
+			"CumulateBuff:($sid):10:A:$mval",
+			"[A]GiveBuff:Rage:25"
+		],
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/30203",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 1043
+	},
+	{
+		"passiveskillType": 3,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1579909718
+		},
+		"passiveskillDes": {
+			"hash": -1331131036
+		},
+		"triggerCondition": "OnBattleStart",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"AttachBuff:Vulnerable:3"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 1044
+	},
+	{
+		"passiveskillType": 3,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1579909717
+		},
+		"passiveskillDes": {
+			"hash": -1331131035
+		},
+		"triggerCondition": "OnTurnStart",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"GiveDice:1"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 1045
+	},
+	{
+		"passiveskillType": 2,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1579909716
+		},
+		"passiveskillDes": {
+			"hash": -1331131034
+		},
+		"triggerCondition": "OnDealDamage",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"GiveBuff:HealCount:1:1",
+			"If:($sbuff_HealCount)==5:A",
+			"[A]Modify:HP:($smhp)*0.05"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 1046
+	},
+	{
+		"passiveskillType": 3,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1579909715
+		},
+		"passiveskillDes": {
+			"hash": -1331131033
+		},
+		"triggerCondition": "OnDiceUsed",
+		"triggerParam": "4,5,6",
+		"resultOnExecute": [
+			"AttachBuff:Vulnerable:1"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 1047
+	},
+	{
+		"passiveskillType": 3,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1579909714
+		},
+		"passiveskillDes": {
+			"hash": -1331131032
+		},
+		"triggerCondition": "OnDiceUsed",
+		"triggerParam": "4,5,6",
+		"resultOnExecute": [
+			"GiveBuff:Rage:5"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 1048
+	},
+	{
+		"passiveskillType": 3,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1579909713
+		},
+		"passiveskillDes": {
+			"hash": -1331131031
+		},
+		"triggerCondition": "OnDiceUsed",
+		"triggerParam": "4,5,6",
+		"resultOnExecute": [
+			"CumulateBuff:($sid):4:A",
+			"[A]GiveDice:1"
+		],
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_ScanMode",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 1049
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1579879930
+		},
+		"passiveskillDes": {
+			"hash": -1331101248
+		},
+		"triggerCondition": "OnAction",
+		"triggerParam": "SlotType:Accumulate",
+		"resultOnExecute": [
+			"Damage:20"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 2041
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1579879929
+		},
+		"passiveskillDes": {
+			"hash": -1331101247
+		},
+		"triggerCondition": "OnAttachBuff",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Damage:30"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 2042
+	},
+	{
+		"passiveskillType": 3,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1579879928
+		},
+		"passiveskillDes": {
+			"hash": -1331101246
+		},
+		"triggerCondition": "OnTurnStart",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Resonate:1"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 2043
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1579879927
+		},
+		"passiveskillDes": {
+			"hash": -1331101245
+		},
+		"triggerCondition": "OnDealDamage",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"ModMVal:Damage:($turn)*3"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 2044
+	},
+	{
+		"passiveskillType": 3,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1579879926
+		},
+		"passiveskillDes": {
+			"hash": -1331101244
+		},
+		"triggerCondition": "OnDiceUsed",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"CumulateBuff:($sid):25:A",
+			"[A]GiveBuff:ExtraTurn:1"
+		],
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_3v3Card_TVTItem_005",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 2045
+	},
+	{
+		"passiveskillType": 3,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1579879925
+		},
+		"passiveskillDes": {
+			"hash": -1331101243
+		},
+		"triggerCondition": "OnAction",
+		"triggerParam": "SlotType:Accumulate",
+		"resultOnExecute": [
+			"AttachBuff:Vulnerable:1"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 2046
+	},
+	{
+		"passiveskillType": 3,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1579879924
+		},
+		"passiveskillDes": {
+			"hash": -1331101242
+		},
+		"triggerCondition": "OnAction",
+		"triggerParam": "SlotType:Accumulate",
+		"resultOnExecute": [
+			"GiveBuff:Rage:10"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 2047
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1579850139
+		},
+		"passiveskillDes": {
+			"hash": -1331071457
+		},
+		"triggerCondition": "OnDiceUsed",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Damage:10"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 3041
+	},
+	{
+		"passiveskillType": 3,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1579850138
+		},
+		"passiveskillDes": {
+			"hash": -1331071456
+		},
+		"triggerCondition": "OnDiceUsed",
+		"triggerParam": "1,2",
+		"resultOnExecute": [
+			"CumulateBuff:($sid):3:A",
+			"[A]GiveDice:1:1"
+		],
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Kiana_MH_Branch_Cape_CD",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 3042
+	},
+	{
+		"passiveskillType": 2,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1579850137
+		},
+		"passiveskillDes": {
+			"hash": -1331071455
+		},
+		"triggerCondition": "OnDiceUsed",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"CumulateBuff:($sid):10:A",
+			"[A]Damage:100"
+		],
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_ChargeAttackUp",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 3043
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1579850136
+		},
+		"passiveskillDes": {
+			"hash": -1331071454
+		},
+		"triggerCondition": "OnAction",
+		"triggerParam": "Type:Aggressive",
+		"resultOnExecute": [
+			"AttachBuff:Poisonous:1"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 3044
+	},
+	{
+		"passiveskillType": 3,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1579850135
+		},
+		"passiveskillDes": {
+			"hash": -1331071453
+		},
+		"triggerCondition": "OnAction",
+		"triggerParam": "Type:Aggressive",
+		"resultOnExecute": [
+			"If:(Random_5)<2:E",
+			"[E]AttachBuff:Vulnerable:1"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 3045
+	},
+	{
+		"passiveskillType": 3,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1579850134
+		},
+		"passiveskillDes": {
+			"hash": -1331071452
+		},
+		"triggerCondition": "OnAction",
+		"triggerParam": "Type:Aggressive",
+		"resultOnExecute": [
+			"GiveBuff:Rage:5"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 3046
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1579820348
+		},
+		"passiveskillDes": {
+			"hash": -1331041666
+		},
+		"triggerCondition": "OnTurnStart",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"AttachBuff:Poisonous:3"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 4041
+	},
+	{
+		"passiveskillType": 3,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1579820347
+		},
+		"passiveskillDes": {
+			"hash": -1331041665
+		},
+		"triggerCondition": "OnAttachBuff",
+		"triggerParam": "Poisonous",
+		"resultOnExecute": [
+			"CumulateBuff:($sid):10:A:$mval",
+			"[A]GiveBuff:Rage:10"
+		],
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_DurandalC2_MoraleCount",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 4042
+	},
+	{
+		"passiveskillType": 3,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1579820346
+		},
+		"passiveskillDes": {
+			"hash": -1331041664
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Modify:PoisonousRate:1"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 4043
+	},
+	{
+		"passiveskillType": 3,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1579820345
+		},
+		"passiveskillDes": {
+			"hash": -1331041663
+		},
+		"triggerCondition": "OnAttachBuff",
+		"triggerParam": "Poisonous",
+		"resultOnExecute": [
+			"Unless:$frost:A",
+			"[A]If:($mval_Level)>=50:B",
+			"[B]Set:frost:1",
+			"[B]GiveDice:3"
+		],
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_3v3Card_TVTItem_001",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 4044
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1579820344
+		},
+		"passiveskillDes": {
+			"hash": -1331041662
+		},
+		"triggerCondition": "OnTurnStart",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"If:$tbuff_Poisonous:A",
+			"[A]Damage:($tbuff_Poisonous)*($PoisonousRate)"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 4045
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1579790557
+		},
+		"passiveskillDes": {
+			"hash": -1331011875
+		},
+		"triggerCondition": "OnAction",
+		"triggerParam": "Pair,OfAKind",
+		"resultOnExecute": [
+			"Damage:50"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 5041
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1579790556
+		},
+		"passiveskillDes": {
+			"hash": -1331011874
+		},
+		"triggerCondition": "OnAction",
+		"triggerParam": "Pair,OfAKind",
+		"resultOnExecute": [
+			"AttachBuff:Vulnerable:1"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 5042
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1579790555
+		},
+		"passiveskillDes": {
+			"hash": -1331011873
+		},
+		"triggerCondition": "OnAction",
+		"triggerParam": "Pair,OfAKind",
+		"resultOnExecute": [
+			"GiveBuff:Rage:20"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 5043
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1579760766
+		},
+		"passiveskillDes": {
+			"hash": -1330982084
+		},
+		"triggerCondition": "OnDealDamage",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"If:($shp)<50:A",
+			"[A]ModMVal:Damage:80"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 6041
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1579730944
+		},
+		"passiveskillDes": {
+			"hash": -1330952262
+		},
+		"triggerCondition": "OnGiveBuff",
+		"triggerParam": "7051",
+		"resultOnExecute": [
+			"If:($sbuff_($sid))>6:A",
+			"[A]RemoveBuff:($sid):($sbuff_($sid))-6"
+		],
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Boss1",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 7051
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1579730943
+		},
+		"passiveskillDes": {
+			"hash": -1330952261
+		},
+		"triggerCondition": "OnGiveBuff",
+		"triggerParam": "7052",
+		"resultOnExecute": [
+			"If:($sbuff_($sid))>6:A",
+			"[A]RemoveBuff:($sid):($sbuff_($sid))-6"
+		],
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Boss2",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 7052
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1579730942
+		},
+		"passiveskillDes": {
+			"hash": -1330952260
+		},
+		"triggerCondition": "OnGiveBuff",
+		"triggerParam": "7051,7052",
+		"resultOnExecute": [
+			"Goto:99:(($sbuff_7051)<6)|(($sbuff_7052)<6)",
+			"RemoveBuff:7051",
+			"RemoveBuff:7052",
+			"GiveBuff:7054:1:1",
+			"ReplaceSGroup:7091:7092",
+			"GiveDice:8",
+			"GiveBuff:ExtraDice:8:1",
+			"SetAnimatorInt:Phase:1"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 7053
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1579730941
+		},
+		"passiveskillDes": {
+			"hash": -1330952259
+		},
+		"triggerCondition": "OnTurnEnd",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"If:($sbuff_($sid))==1:A:B",
+			"[A]ResetSGroup",
+			"[A]SetAnimatorInt:Phase:0",
+			"[B]RemoveBuff:($sid):1"
+		],
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/RogueBuffCore2_06",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 7054
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1579730940
+		},
+		"passiveskillDes": {
+			"hash": -1330952258
+		},
+		"triggerCondition": "OnTurnEnd",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Unless:($sbuff_7054):A",
+			"[A]Evolution:7062:7063",
+			"[A]Evolution:7061:7062",
+			"[A]Evolution:7012:7061"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 7055
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1579730939
+		},
+		"passiveskillDes": {
+			"hash": -1330952257
+		},
+		"triggerCondition": "OnGiveBuff",
+		"triggerParam": "7054",
+		"resultOnExecute": [
+			"Evolution:7061:7012",
+			"Evolution:7062:7012",
+			"Evolution:7063:7012"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 7056
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1579730938
+		},
+		"passiveskillDes": {
+			"hash": -1330952256
+		},
+		"triggerCondition": "OnTurnEnd",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Evolution:7064:7022",
+			"Evolution:7065:7022"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 7057
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1579671517
+		},
+		"passiveskillDes": {
+			"hash": -1330892835
+		},
+		"triggerCondition": "OnTurnStart",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"TakeDamage:($sbuff_($sid))*4:0",
+			"RemoveBuff:($sid):2"
+		],
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Poisoned",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9001
+	},
+	{
+		"passiveskillType": 3,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1730717880
+		},
+		"passiveskillDes": {
+			"hash": 1686453966
+		},
+		"triggerCondition": "OnAction",
+		"triggerParam": "Pair,OfAKind",
+		"resultOnExecute": [
+			"If:Random_2:E",
+			"[E]GiveDice:1"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 30000
+	},
+	{
+		"passiveskillType": 3,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1730717879
+		},
+		"passiveskillDes": {
+			"hash": 1686453967
+		},
+		"triggerCondition": "OnTurnEnd",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Unless:($dcount)==0:A",
+			"[A]GiveBuff:300010:($dpoint_0):2"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 30001
+	},
+	{
+		"passiveskillType": 2,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1730716919
+		},
+		"passiveskillDes": {
+			"hash": 1686454927
+		},
+		"triggerCondition": "OnAction",
+		"triggerParam": "SlotType:Accumulate",
+		"resultOnExecute": [
+			"GiveBuff:AccCount:1:1",
+			"If:($sbuff_AccCount)==5:A",
+			"[A]Modify:HP:($smhp)*0.06"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 30100
+	},
+	{
+		"passiveskillType": 2,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1730716918
+		},
+		"passiveskillDes": {
+			"hash": 1686454928
+		},
+		"triggerCondition": "OnDiceUsed",
+		"triggerParam": "4,5,6",
+		"resultOnExecute": [
+			"CumulateBuff:($sid):5:A",
+			"[A]Modify:HP:($smhp)*0.05"
+		],
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TM_01g",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 30101
+	},
+	{
+		"passiveskillType": 2,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1730716917
+		},
+		"passiveskillDes": {
+			"hash": 1686454929
+		},
+		"triggerCondition": "OnAction",
+		"triggerParam": "Pair,OfAKind",
+		"resultOnExecute": [
+			"CumulateBuff:($sid):3:A",
+			"[A]Modify:HP:($smhp)*0.06"
+		],
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TM_01g",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 30102
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1730715958
+		},
+		"passiveskillDes": {
+			"hash": 1686455888
+		},
+		"triggerCondition": "OnGiveBuff",
+		"triggerParam": "7051",
+		"resultOnExecute": [
+			"If:($mval)==2:A",
+			"[A]GiveBuff:($mval_BuffKey):1"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 30200
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1730715957
+		},
+		"passiveskillDes": {
+			"hash": 1686455889
+		},
+		"triggerCondition": "OnGiveBuff",
+		"triggerParam": "7054",
+		"resultOnExecute": [
+			"If:($mval_Level)==1:A",
+			"[A]GiveBuff:($mval_BuffKey):1:3",
+			"[A]RemoveBuff:ExtraDice",
+			"[A]GiveBuff:ExtraDice:8:3"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 30201
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1730715956
+		},
+		"passiveskillDes": {
+			"hash": 1686455890
+		},
+		"triggerCondition": "OnGiveBuff",
+		"triggerParam": "7054",
+		"resultOnExecute": [
+			"Goto:99:($mval_Level)>1",
+			"Damage:20",
+			"Damage:20",
+			"Damage:20",
+			"Damage:20",
+			"Damage:20"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 30202
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1730714997
+		},
+		"passiveskillDes": {
+			"hash": 1686456849
+		},
+		"triggerCondition": "OnDiceUsed",
+		"triggerParam": "1,3,5",
+		"resultOnExecute": [
+			"CumulateBuff:($sid):2:A",
+			"[A]GiveBuff:Rage:20"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 30300
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1730714036
+		},
+		"passiveskillDes": {
+			"hash": 1686457810
+		},
+		"triggerCondition": "OnTakeDamage",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"GiveBuff:Rage:25"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 30400
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1730714035
+		},
+		"passiveskillDes": {
+			"hash": 1686457811
+		},
+		"triggerCondition": "OnGiveBuff",
+		"triggerParam": "Bless",
+		"resultOnExecute": [
+			"If:($shp)<50:A:B",
+			"[A]Unless:Random_2:C",
+			"[B]Unless:Random_5:C",
+			"[C]GiveDice:1"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 30401
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1730714034
+		},
+		"passiveskillDes": {
+			"hash": 1686457812
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:RageThreshold:70"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 30402
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1730714033
+		},
+		"passiveskillDes": {
+			"hash": 1686457813
+		},
+		"triggerCondition": "OnGiveBuff",
+		"triggerParam": "Bless",
+		"resultOnExecute": [
+			"Damage:50"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 30403
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1727018836
+		},
+		"passiveskillDes": {
+			"hash": 1690153010
+		},
+		"triggerCondition": "OnTurnEnd",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Unless:($sbuff_7054):A",
+			"[A]Evolution:70620:70630",
+			"[A]Evolution:70610:70620",
+			"[A]Evolution:70120:70610"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 70550
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1727018835
+		},
+		"passiveskillDes": {
+			"hash": 1690153011
+		},
+		"triggerCondition": "OnTurnEnd",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Unless:($sbuff_7054):A",
+			"[A]Evolution:70621:70631",
+			"[A]Evolution:70611:70621",
+			"[A]Evolution:70121:70611"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 70551
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1727018834
+		},
+		"passiveskillDes": {
+			"hash": 1690153012
+		},
+		"triggerCondition": "OnTurnEnd",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Unless:($sbuff_7054):A",
+			"[A]Evolution:70622:70632",
+			"[A]Evolution:70612:70622",
+			"[A]Evolution:70122:70612"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 70552
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1727018805
+		},
+		"passiveskillDes": {
+			"hash": 1690153041
+		},
+		"triggerCondition": "OnGiveBuff",
+		"triggerParam": "7054",
+		"resultOnExecute": [
+			"Evolution:70610:70120",
+			"Evolution:70620:70120",
+			"Evolution:70630:70120"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 70560
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1727018804
+		},
+		"passiveskillDes": {
+			"hash": 1690153042
+		},
+		"triggerCondition": "OnGiveBuff",
+		"triggerParam": "7054",
+		"resultOnExecute": [
+			"Evolution:70611:70121",
+			"Evolution:70621:70121",
+			"Evolution:70631:70121"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 70561
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1727018803
+		},
+		"passiveskillDes": {
+			"hash": 1690153043
+		},
+		"triggerCondition": "OnGiveBuff",
+		"triggerParam": "7054",
+		"resultOnExecute": [
+			"Evolution:70612:70122",
+			"Evolution:70622:70122",
+			"Evolution:70632:70122"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 70562
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1727018774
+		},
+		"passiveskillDes": {
+			"hash": 1690153072
+		},
+		"triggerCondition": "OnTurnEnd",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Evolution:70640:70220",
+			"Evolution:70650:70220"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 70570
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1726100142
+		},
+		"passiveskillDes": {
+			"hash": 1691071704
+		},
+		"triggerCondition": "OnDiceUsed",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"If:($mval_Stat)>0:A",
+			"[A]GiveBuff:debuffdice:1:1"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 80049
+	},
+	{
+		"passiveskillType": 3,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "OnTurnStart",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"GiveDice:1:($sbuff_($sid))"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 300010
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -2112587097
+		},
+		"passiveskillDes": {
+			"hash": 740525025
+		},
+		"triggerCondition": "OnGiveBuff",
+		"triggerParam": "7052",
+		"resultOnExecute": [
+			"If:($mval)==2:A",
+			"[A]GiveBuff:($mval_BuffKey):1"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 302001
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -2112557306
+		},
+		"passiveskillDes": {
+			"hash": 740554816
+		},
+		"triggerCondition": "OnDiceUsed",
+		"triggerParam": "2,4,6",
+		"resultOnExecute": [
+			"CumulateBuff:($sid):2:A",
+			"[A]Damage:40"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 303001
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939947260
+		},
+		"passiveskillDes": {
+			"hash": 913164862
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:16"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 910111
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939947259
+		},
+		"passiveskillDes": {
+			"hash": 913164863
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:20"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 910112
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939947258
+		},
+		"passiveskillDes": {
+			"hash": 913164864
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:25"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 910113
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939947257
+		},
+		"passiveskillDes": {
+			"hash": 913164865
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:25"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 910114
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939947256
+		},
+		"passiveskillDes": {
+			"hash": 913164866
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:37"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 910115
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939947255
+		},
+		"passiveskillDes": {
+			"hash": 913164867
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:30"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 910116
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939947254
+		},
+		"passiveskillDes": {
+			"hash": 913164868
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:30"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 910117
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939947253
+		},
+		"passiveskillDes": {
+			"hash": 913164869
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:43"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 910118
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939947252
+		},
+		"passiveskillDes": {
+			"hash": 913164870
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:37"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 910119
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939947230
+		},
+		"passiveskillDes": {
+			"hash": 913164892
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:51"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 910120
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939946299
+		},
+		"passiveskillDes": {
+			"hash": 913165823
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:39",
+			"Set:para2:78"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 910211
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939946298
+		},
+		"passiveskillDes": {
+			"hash": 913165824
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:48",
+			"Set:para2:96"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 910212
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939946297
+		},
+		"passiveskillDes": {
+			"hash": 913165825
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:60",
+			"Set:para2:120"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 910213
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939946296
+		},
+		"passiveskillDes": {
+			"hash": 913165826
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:60",
+			"Set:para2:120"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 910214
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939946295
+		},
+		"passiveskillDes": {
+			"hash": 913165827
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:87",
+			"Set:para2:174"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 910215
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939946294
+		},
+		"passiveskillDes": {
+			"hash": 913165828
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:72",
+			"Set:para2:144"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 910216
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939946293
+		},
+		"passiveskillDes": {
+			"hash": 913165829
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:72",
+			"Set:para2:144"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 910217
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939946292
+		},
+		"passiveskillDes": {
+			"hash": 913165830
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:102",
+			"Set:para2:204"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 910218
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939946291
+		},
+		"passiveskillDes": {
+			"hash": 913165831
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:87",
+			"Set:para2:174"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 910219
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939946269
+		},
+		"passiveskillDes": {
+			"hash": 913165853
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:120",
+			"Set:para2:240"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 910220
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939945338
+		},
+		"passiveskillDes": {
+			"hash": 913166784
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:39",
+			"Set:para2:78"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 910311
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939945337
+		},
+		"passiveskillDes": {
+			"hash": 913166785
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:48",
+			"Set:para2:96"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 910312
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939945336
+		},
+		"passiveskillDes": {
+			"hash": 913166786
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:60",
+			"Set:para2:120"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 910313
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939945335
+		},
+		"passiveskillDes": {
+			"hash": 913166787
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:60",
+			"Set:para2:120"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 910314
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939945334
+		},
+		"passiveskillDes": {
+			"hash": 913166788
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:87",
+			"Set:para2:174"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 910315
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939945333
+		},
+		"passiveskillDes": {
+			"hash": 913166789
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:72",
+			"Set:para2:144"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 910316
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939945332
+		},
+		"passiveskillDes": {
+			"hash": 913166790
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:72",
+			"Set:para2:144"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 910317
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939945331
+		},
+		"passiveskillDes": {
+			"hash": 913166791
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:102",
+			"Set:para2:204"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 910318
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939945330
+		},
+		"passiveskillDes": {
+			"hash": 913166792
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:87",
+			"Set:para2:174"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 910319
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939945308
+		},
+		"passiveskillDes": {
+			"hash": 913166814
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:120",
+			"Set:para2:240"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 910320
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939887678
+		},
+		"passiveskillDes": {
+			"hash": 913224444
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:16",
+			"Set:para2:25"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 912111
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939887677
+		},
+		"passiveskillDes": {
+			"hash": 913224445
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:20",
+			"Set:para2:30"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 912112
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939887676
+		},
+		"passiveskillDes": {
+			"hash": 913224446
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:25",
+			"Set:para2:38"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 912113
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939887675
+		},
+		"passiveskillDes": {
+			"hash": 913224447
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:25",
+			"Set:para2:38"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 912114
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939887674
+		},
+		"passiveskillDes": {
+			"hash": 913224448
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:37",
+			"Set:para2:55"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 912115
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939887673
+		},
+		"passiveskillDes": {
+			"hash": 913224449
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:30",
+			"Set:para2:46"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 912116
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939887672
+		},
+		"passiveskillDes": {
+			"hash": 913224450
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:30",
+			"Set:para2:46"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 912117
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939887671
+		},
+		"passiveskillDes": {
+			"hash": 913224451
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:43",
+			"Set:para2:65"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 912118
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939887670
+		},
+		"passiveskillDes": {
+			"hash": 913224452
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:37",
+			"Set:para2:55"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 912119
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939887648
+		},
+		"passiveskillDes": {
+			"hash": 913224474
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:51",
+			"Set:para2:77"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 912120
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939886717
+		},
+		"passiveskillDes": {
+			"hash": 913225405
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:39",
+			"Set:para2:46",
+			"Set:para3:39",
+			"Set:para4:2"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 912211
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939886716
+		},
+		"passiveskillDes": {
+			"hash": 913225406
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:48",
+			"Set:para2:76",
+			"Set:para3:48",
+			"Set:para4:2"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 912212
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939886715
+		},
+		"passiveskillDes": {
+			"hash": 913225407
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:60",
+			"Set:para2:96",
+			"Set:para3:60",
+			"Set:para4:2"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 912213
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939886714
+		},
+		"passiveskillDes": {
+			"hash": 913225408
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:60",
+			"Set:para2:96",
+			"Set:para3:60",
+			"Set:para4:2"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 912214
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939886713
+		},
+		"passiveskillDes": {
+			"hash": 913225409
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:87",
+			"Set:para2:139",
+			"Set:para3:87",
+			"Set:para4:2"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 912215
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939886712
+		},
+		"passiveskillDes": {
+			"hash": 913225410
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:72",
+			"Set:para2:115",
+			"Set:para3:72",
+			"Set:para4:2"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 912216
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939886711
+		},
+		"passiveskillDes": {
+			"hash": 913225411
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:72",
+			"Set:para2:115",
+			"Set:para3:72",
+			"Set:para4:2"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 912217
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939886710
+		},
+		"passiveskillDes": {
+			"hash": 913225412
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:102",
+			"Set:para2:163",
+			"Set:para3:102",
+			"Set:para4:2"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 912218
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939886709
+		},
+		"passiveskillDes": {
+			"hash": 913225413
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:87",
+			"Set:para2:139",
+			"Set:para3:87",
+			"Set:para4:2"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 912219
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939886687
+		},
+		"passiveskillDes": {
+			"hash": 913225435
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:120",
+			"Set:para2:192",
+			"Set:para3:120",
+			"Set:para4:2"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 912220
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939885756
+		},
+		"passiveskillDes": {
+			"hash": 913226366
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:39",
+			"Set:para2:78"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 912311
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939885755
+		},
+		"passiveskillDes": {
+			"hash": 913226367
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:48",
+			"Set:para2:96"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 912312
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939885754
+		},
+		"passiveskillDes": {
+			"hash": 913226368
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:60",
+			"Set:para2:120"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 912313
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939885753
+		},
+		"passiveskillDes": {
+			"hash": 913226369
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:60",
+			"Set:para2:120"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 912314
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939885752
+		},
+		"passiveskillDes": {
+			"hash": 913226370
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:87",
+			"Set:para2:174"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 912315
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939885751
+		},
+		"passiveskillDes": {
+			"hash": 913226371
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:72",
+			"Set:para2:144"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 912316
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939885750
+		},
+		"passiveskillDes": {
+			"hash": 913226372
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:72",
+			"Set:para2:144"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 912317
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939885749
+		},
+		"passiveskillDes": {
+			"hash": 913226373
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:102",
+			"Set:para2:204"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 912318
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939885748
+		},
+		"passiveskillDes": {
+			"hash": 913226374
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:87",
+			"Set:para2:174"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 912319
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": -1939885726
+		},
+		"passiveskillDes": {
+			"hash": 913226396
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:120",
+			"Set:para2:240"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 912320
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:9"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 913111
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:12"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 913112
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:15"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 913113
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:15"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 913114
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:22"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 913115
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:18"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 913116
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:18"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 913117
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:25"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 913118
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:22"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 913119
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:30"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 913120
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:23",
+			"Set:para2:46"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 913211
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:28",
+			"Set:para2:57"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 913212
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:36",
+			"Set:para2:72"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 913213
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:36",
+			"Set:para2:72"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 913214
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:52",
+			"Set:para2:104"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 913215
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:43",
+			"Set:para2:86"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 913216
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:43",
+			"Set:para2:86"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 913217
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:61",
+			"Set:para2:122"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 913218
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:52",
+			"Set:para2:104"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 913219
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:72",
+			"Set:para2:144"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 913220
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:23"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 913311
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:28"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 913312
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:36"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 913313
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:36"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 913314
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:52"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 913315
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:43"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 913316
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:43"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 913317
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:61"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 913318
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:26"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 913319
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:72"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 913320
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:104",
+			"Set:para2:156"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 920111
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:113",
+			"Set:para2:171"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 920112
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:123",
+			"Set:para2:184"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 920113
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:58",
+			"Set:para2:87"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 920114
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:72",
+			"Set:para2:108"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 920115
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:52",
+			"Set:para2:78"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 920116
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:58",
+			"Set:para2:87"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 920117
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:64",
+			"Set:para2:98"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 920118
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:72",
+			"Set:para2:108"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 920119
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:87",
+			"Set:para2:131"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 920120
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:82",
+			"Set:para2:123",
+			"Set:para3:165"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 920211
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:95",
+			"Set:para2:142",
+			"Set:para3:190"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 920212
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:108",
+			"Set:para2:162",
+			"Set:para3:216"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 920213
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:136",
+			"Set:para2:204",
+			"Set:para3:273"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 920214
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:169",
+			"Set:para2:253",
+			"Set:para3:338"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 920215
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:122",
+			"Set:para2:183",
+			"Set:para3:244"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 920216
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:136",
+			"Set:para2:204",
+			"Set:para3:273"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 920217
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:153",
+			"Set:para2:229",
+			"Set:para3:306"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 920218
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:169",
+			"Set:para2:253",
+			"Set:para3:338"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 920219
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:205",
+			"Set:para2:307",
+			"Set:para3:410"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 920220
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:124",
+			"Set:para2:186",
+			"Set:para3:248"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 920311
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:143",
+			"Set:para2:214",
+			"Set:para3:286"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 920312
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:162",
+			"Set:para2:243",
+			"Set:para3:324"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 920313
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:205",
+			"Set:para2:307",
+			"Set:para3:410"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 920314
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:253",
+			"Set:para2:379",
+			"Set:para3:507"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 920315
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:183",
+			"Set:para2:274",
+			"Set:para3:367"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 920316
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:205",
+			"Set:para2:307",
+			"Set:para3:410"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 920317
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:229",
+			"Set:para2:343",
+			"Set:para3:459"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 920318
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:253",
+			"Set:para2:379",
+			"Set:para3:507"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 920319
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:307",
+			"Set:para2:460",
+			"Set:para3:615"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 920320
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:42",
+			"Set:para2:64"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 921111
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:49",
+			"Set:para2:74"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 921112
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:56",
+			"Set:para2:84"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 921113
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:71",
+			"Set:para2:106"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 921114
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:88",
+			"Set:para2:132"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 921115
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:63",
+			"Set:para2:95"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 921116
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:71",
+			"Set:para2:106"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 921117
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:79",
+			"Set:para2:119"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 921118
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:88",
+			"Set:para2:132"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 921119
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:106",
+			"Set:para2:160"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 921120
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:101",
+			"Set:para2:202"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 921211
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:116",
+			"Set:para2:233"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 921212
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:132",
+			"Set:para2:264"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 921213
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:167",
+			"Set:para2:334"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 921214
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:206",
+			"Set:para2:413"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 921215
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:149",
+			"Set:para2:299"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 921216
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:167",
+			"Set:para2:334"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 921217
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:187",
+			"Set:para2:374"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 921218
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:206",
+			"Set:para2:413"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 921219
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:250",
+			"Set:para2:501"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 921220
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:151",
+			"Set:para2:303",
+			"Set:para3:30"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 921311
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:174",
+			"Set:para2:349",
+			"Set:para3:34"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 921312
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:198",
+			"Set:para2:396",
+			"Set:para3:39"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 921313
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:250",
+			"Set:para2:501",
+			"Set:para3:50"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 921314
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:310",
+			"Set:para2:620",
+			"Set:para3:62"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 921315
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:224",
+			"Set:para2:448",
+			"Set:para3:44"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 921316
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:250",
+			"Set:para2:501",
+			"Set:para3:50"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 921317
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:168",
+			"Set:para2:336",
+			"Set:para3:33"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 921318
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:310",
+			"Set:para2:620",
+			"Set:para3:62"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 921319
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:376",
+			"Set:para2:752",
+			"Set:para3:75"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 921320
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "OnBattleStart",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"AttachBuff:1000002"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 1000001
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "OnDiceUsed",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"CumulateBuff:DailyDice:20:A:$mval",
+			"[A]Damage:200"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 1000002
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "OnBattleStart",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"AttachBuff:1000004"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 1000003
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "OnDiceUsed",
+		"triggerParam": "1,2,3",
+		"resultOnExecute": [
+			"Damage:20"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 1000004
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "OnBattleStart",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"AttachBuff:1000006"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 1000005
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "OnAction",
+		"triggerParam": "SlotType:Accumulate",
+		"resultOnExecute": [
+			"Damage:20"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 1000006
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "OnBattleStart",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"AttachBuff:1000008"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 1000007
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "OnTurnStart",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"GiveDice:1:$dpoint_(Random_($dcount))"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 1000008
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "OnBattleStart",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"SetTarget:PoisonousRate:8"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 1000009
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "OnBattleStart",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"SetTarget:RageThreshold:50"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 1000010
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "OnBattleStart",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"SetTarget:TearingRate:12"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 1000011
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:32",
+			"Set:para2:38",
+			"Set:para3:32",
+			"Set:para4:2"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 1001001
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:25",
+			"Set:para2:51"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 1002001
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:32",
+			"Set:para2:64"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 1003001
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:46",
+			"Set:para2:55",
+			"Set:para3:46",
+			"Set:para4:2"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 2001001
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:36",
+			"Set:para2:73"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 2002001
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:46",
+			"Set:para2:92"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 2003001
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:73",
+			"Set:para2:88",
+			"Set:para3:73",
+			"Set:para4:2"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 3001001
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:58",
+			"Set:para2:117"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 3002001
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:73",
+			"Set:para2:147"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 3003001
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:58",
+			"Set:para2:70",
+			"Set:para3:39",
+			"Set:para4:3"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 3004001
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:65",
+			"Set:para2:97",
+			"Set:para3:132"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 3005001
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:150",
+			"Set:para2:180",
+			"Set:para3:150",
+			"Set:para4:2"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 4001001
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:120",
+			"Set:para2:240"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 4002001
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:150",
+			"Set:para2:300"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 4003001
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:120",
+			"Set:para2:144",
+			"Set:para3:80",
+			"Set:para4:3"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 4004001
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:135",
+			"Set:para2:202",
+			"Set:para3:270"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 4005001
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:384",
+			"Set:para2:512"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 5001001
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:307"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 5002001
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:384",
+			"Set:para2:512"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 5003001
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:307",
+			"Set:para2:245",
+			"Set:para3:136",
+			"Set:para4:3",
+			"Set:para5:409"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 5004001
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:345",
+			"Set:para2:517",
+			"Set:para3:460"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 5005001
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:460",
+			"Set:para2:818"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 5006001
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:460",
+			"Set:para2:21",
+			"Set:para3:21"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 5007001
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:549",
+			"Set:para2:732"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 6001001
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:439"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 6002001
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:549",
+			"Set:para2:732"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 6003001
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:439",
+			"Set:para2:351",
+			"Set:para3:195",
+			"Set:para4:3",
+			"Set:para5:585"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 6004001
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:494",
+			"Set:para2:741",
+			"Set:para3:658"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 6005001
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:658",
+			"Set:para2:1170"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 6006001
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:658",
+			"Set:para2:30",
+			"Set:para3:30"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 6007001
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:703",
+			"Set:para2:937"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 7001001
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:562"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 7002001
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:703",
+			"Set:para2:937"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 7003001
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:562",
+			"Set:para2:449",
+			"Set:para3:249",
+			"Set:para4:3",
+			"Set:para5:749"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 7004001
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:632",
+			"Set:para2:948",
+			"Set:para3:843"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 7005001
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:843",
+			"Set:para2:1498"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 7006001
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:843",
+			"Set:para2:38",
+			"Set:para3:38"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 7007001
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:27"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9221111
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:31"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9221112
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:35"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9221113
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:45"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9221114
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:56"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9221115
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:40"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9221116
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:45"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9221117
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:50"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9221118
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:56"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9221119
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:67"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9221120
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:64",
+			"Set:para2:76",
+			"Set:para3:42",
+			"Set:para4:3"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9222111
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:74",
+			"Set:para2:88",
+			"Set:para3:49",
+			"Set:para4:3"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9222112
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:84",
+			"Set:para2:100",
+			"Set:para3:56",
+			"Set:para4:3"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9222113
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:106",
+			"Set:para2:127",
+			"Set:para3:70",
+			"Set:para4:3"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9222114
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:131",
+			"Set:para2:157",
+			"Set:para3:87",
+			"Set:para4:3"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9222115
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:95",
+			"Set:para2:114",
+			"Set:para3:63",
+			"Set:para4:3"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9222116
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:106",
+			"Set:para2:127",
+			"Set:para3:70",
+			"Set:para4:3"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9222117
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:119",
+			"Set:para2:142",
+			"Set:para3:79",
+			"Set:para4:3"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9222118
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:131",
+			"Set:para2:157",
+			"Set:para3:87",
+			"Set:para4:3"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9222119
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:159",
+			"Set:para2:191",
+			"Set:para3:106",
+			"Set:para4:3"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9222120
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:96",
+			"Set:para2:115",
+			"Set:para3:64",
+			"Set:para4:3",
+			"Set:para5:193"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9223111
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:111",
+			"Set:para2:133",
+			"Set:para3:74",
+			"Set:para4:3",
+			"Set:para5:222"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9223112
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:126",
+			"Set:para2:151",
+			"Set:para3:84",
+			"Set:para4:3",
+			"Set:para5:252"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9223113
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:159",
+			"Set:para2:191",
+			"Set:para3:106",
+			"Set:para4:3",
+			"Set:para5:319"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9223114
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:197",
+			"Set:para2:236",
+			"Set:para3:131",
+			"Set:para4:3",
+			"Set:para5:394"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9223115
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:85",
+			"Set:para2:102",
+			"Set:para3:56",
+			"Set:para4:3",
+			"Set:para5:170"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9223116
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:159",
+			"Set:para2:191",
+			"Set:para3:106",
+			"Set:para4:3",
+			"Set:para5:319"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9223117
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:178",
+			"Set:para2:214",
+			"Set:para3:119",
+			"Set:para4:3",
+			"Set:para5:357"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9223118
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:197",
+			"Set:para2:236",
+			"Set:para3:131",
+			"Set:para4:3",
+			"Set:para5:394"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9223119
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:239",
+			"Set:para2:286",
+			"Set:para3:159",
+			"Set:para4:3",
+			"Set:para5:478"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9223120
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:81",
+			"Set:para2:242"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9301111
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:95",
+			"Set:para2:286"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9301112
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:103",
+			"Set:para2:310"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9301113
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:111",
+			"Set:para2:334"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9301114
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:119",
+			"Set:para2:358"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9301115
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:119",
+			"Set:para2:358"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9301116
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:128",
+			"Set:para2:384"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9301117
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:128",
+			"Set:para2:384"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9301118
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:137",
+			"Set:para2:410"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9301119
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:146",
+			"Set:para2:438"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9301120
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:190",
+			"Set:para2:95",
+			"Set:para3:456",
+			"Set:para4:127"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9302111
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:224",
+			"Set:para2:112",
+			"Set:para3:537",
+			"Set:para4:150"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9302112
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:242",
+			"Set:para2:121",
+			"Set:para3:580",
+			"Set:para4:162"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9302113
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:260",
+			"Set:para2:130",
+			"Set:para3:624",
+			"Set:para4:174"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9302114
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:280",
+			"Set:para2:140",
+			"Set:para3:672",
+			"Set:para4:187"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9302115
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:280",
+			"Set:para2:140",
+			"Set:para3:672",
+			"Set:para4:187"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9302116
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:299",
+			"Set:para2:150",
+			"Set:para3:718",
+			"Set:para4:200"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9302117
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:299",
+			"Set:para2:150",
+			"Set:para3:718",
+			"Set:para4:200"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9302118
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:320",
+			"Set:para2:160",
+			"Set:para3:769",
+			"Set:para4:214"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9302119
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:341",
+			"Set:para2:171",
+			"Set:para3:819",
+			"Set:para4:228"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9302120
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:121",
+			"Set:para2:242"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9303111
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:142",
+			"Set:para2:286"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9303112
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:154",
+			"Set:para2:310"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9303113
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:166",
+			"Set:para2:334"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9303114
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:178",
+			"Set:para2:358"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9303115
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:178",
+			"Set:para2:358"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9303116
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:192",
+			"Set:para2:384"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9303117
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:192",
+			"Set:para2:384"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9303118
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:205",
+			"Set:para2:410"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9303119
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:219",
+			"Set:para2:438"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9303120
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:103",
+			"Set:para2:4"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9311111
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:123",
+			"Set:para2:5"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9311112
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:132",
+			"Set:para2:5"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9311113
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:142",
+			"Set:para2:6"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9311114
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:153",
+			"Set:para2:6"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9311115
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:153",
+			"Set:para2:6"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9311116
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:163",
+			"Set:para2:7"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9311117
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:163",
+			"Set:para2:7"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9311118
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:175",
+			"Set:para2:7"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9311119
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:187",
+			"Set:para2:8"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9311120
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:244",
+			"Set:para2:17"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9312111
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:288",
+			"Set:para2:20"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9312112
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:310",
+			"Set:para2:21"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9312113
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:334",
+			"Set:para2:23"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9312114
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:360",
+			"Set:para2:24"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9312115
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:360",
+			"Set:para2:24"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9312116
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:384",
+			"Set:para2:26"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9312117
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:384",
+			"Set:para2:26"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9312118
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:411",
+			"Set:para2:28"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9312119
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:438",
+			"Set:para2:30"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9312120
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:366",
+			"Set:para2:25",
+			"Set:para3:25"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9313111
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:432",
+			"Set:para2:29",
+			"Set:para3:29"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9313112
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:466",
+			"Set:para2:32",
+			"Set:para3:32"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9313113
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:501",
+			"Set:para2:34",
+			"Set:para3:34"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9313114
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:540",
+			"Set:para2:36",
+			"Set:para3:36"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9313115
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:540",
+			"Set:para2:36",
+			"Set:para3:36"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9313116
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:577",
+			"Set:para2:39",
+			"Set:para3:39"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9313117
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:577",
+			"Set:para2:39",
+			"Set:para3:39"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9313118
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:618",
+			"Set:para2:42",
+			"Set:para3:42"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9313119
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:658",
+			"Set:para2:44",
+			"Set:para3:44"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9313120
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:69",
+			"Set:para2:2"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9321111
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:82",
+			"Set:para2:2"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9321112
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:88",
+			"Set:para2:2"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9321113
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:95",
+			"Set:para2:2"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9321114
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:102",
+			"Set:para2:3"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9321115
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:102",
+			"Set:para2:3"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9321116
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:109",
+			"Set:para2:3"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9321117
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:109",
+			"Set:para2:3"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9321118
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:117",
+			"Set:para2:3"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9321119
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:125",
+			"Set:para2:3"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9321120
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:190",
+			"Set:para2:4",
+			"Set:para3:380"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9322111
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:224",
+			"Set:para2:5",
+			"Set:para3:448"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9322112
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:242",
+			"Set:para2:5",
+			"Set:para3:484"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9322113
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:260",
+			"Set:para2:6",
+			"Set:para3:520"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9322114
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:280",
+			"Set:para2:6",
+			"Set:para3:560"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9322115
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:280",
+			"Set:para2:6",
+			"Set:para3:560"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9322116
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:299",
+			"Set:para2:6",
+			"Set:para3:599"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9322117
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:299",
+			"Set:para2:6",
+			"Set:para3:599"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9322118
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:320",
+			"Set:para2:7",
+			"Set:para3:641"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9322119
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:341",
+			"Set:para2:7",
+			"Set:para3:683"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9322120
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:244",
+			"Set:para2:5",
+			"Set:para3:391",
+			"Set:para4:170"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9323111
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:288",
+			"Set:para2:6",
+			"Set:para3:460",
+			"Set:para4:201"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9323112
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:311",
+			"Set:para2:7",
+			"Set:para3:497",
+			"Set:para4:217"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9323113
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:334",
+			"Set:para2:7",
+			"Set:para3:535",
+			"Set:para4:233"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9323114
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:360",
+			"Set:para2:8",
+			"Set:para3:576",
+			"Set:para4:252"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9323115
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:360",
+			"Set:para2:8",
+			"Set:para3:576",
+			"Set:para4:252"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9323116
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:385",
+			"Set:para2:8",
+			"Set:para3:616",
+			"Set:para4:269"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9323117
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:385",
+			"Set:para2:8",
+			"Set:para3:616",
+			"Set:para4:269"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9323118
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:412",
+			"Set:para2:9",
+			"Set:para3:659",
+			"Set:para4:288"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9323119
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:439",
+			"Set:para2:9",
+			"Set:para3:702",
+			"Set:para4:307"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9323120
+	},
+	{
+		"passiveskillType": 3,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:WeakRate:25",
+			"Set:Phase:1",
+			"Set:LastPhase:1"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9501000
+	},
+	{
+		"passiveskillType": 3,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "OnBattleStart",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"SetTarget:Phase:1",
+			"GiveBuff:9501901",
+			"AttachBuff:9501707"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9501001
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "OnDiceUsed",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"AttachBuff:9501806:($mval)"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9501704
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "OnAttachBuff",
+		"triggerParam": "9501806",
+		"resultOnExecute": [
+			"If:($mval_Level)>=21:A",
+			"[A]If:($mval_Level)==21:B",
+			"[A]ConsumeBuff:($mval_BuffKey)",
+			"[B]GiveDice:1:6"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9501706
+	},
+	{
+		"passiveskillType": 3,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "OnTurnStart",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"SetTarget:Dialogue:0"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9501707
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 105700433
+		},
+		"passiveskillDes": {
+			"hash": -1642137001
+		},
+		"triggerCondition": "OnDealDamage",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"ModMVal:Power:($sbuff_($sid))*5"
+		],
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_AlliedCriticalUpDuration",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9501801
+	},
+	{
+		"passiveskillType": 2,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 105700435
+		},
+		"passiveskillDes": {
+			"hash": -1642136999
+		},
+		"triggerCondition": "BeforeFinalDamage",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"SetMVal:Damage:0-($mval)",
+			"RemoveBuff:($sid)",
+			"GiveBuff:9501809"
+		],
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Bleed",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9501803
+	},
+	{
+		"passiveskillType": 2,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 105700436
+		},
+		"passiveskillDes": {
+			"hash": -1642136998
+		},
+		"triggerCondition": "BeforeFinalDamage",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"SetMVal:Damage:($mval)*0.15",
+			"If:($mval)>2000:A",
+			"[A]SetMVal:Damage:2000"
+		],
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_DurandalC2_UltraTime",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9501804
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 105700438
+		},
+		"passiveskillDes": {
+			"hash": -1642136996
+		},
+		"triggerCondition": "OnDealDamage",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"ModMVal:Power:($sbuff_($sid))*3"
+		],
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Vill_V_TK_UltraTime",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9501806
+	},
+	{
+		"passiveskillType": 2,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 105700441
+		},
+		"passiveskillDes": {
+			"hash": -1642136993
+		},
+		"triggerCondition": "BeforeFinalDamage",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"SetMVal:Damage:0-($mval)"
+		],
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/GodWar_Elite_Vampire_Desc",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9501809
+	},
+	{
+		"passiveskillType": 3,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 105701394
+		},
+		"passiveskillDes": {
+			"hash": -1642136040
+		},
+		"triggerCondition": "OnGiveBuff",
+		"triggerParam": "9501901",
+		"resultOnExecute": [],
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FukaC2ThunderUp1",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9501901
+	},
+	{
+		"passiveskillType": 3,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 105701395
+		},
+		"passiveskillDes": {
+			"hash": -1642136039
+		},
+		"triggerCondition": "OnGiveBuff",
+		"triggerParam": "9501902",
+		"resultOnExecute": [
+			"RemoveBuff:9501901"
+		],
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FukaC2ThunderUp2",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9501902
+	},
+	{
+		"passiveskillType": 3,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 105701396
+		},
+		"passiveskillDes": {
+			"hash": -1642136038
+		},
+		"triggerCondition": "OnGiveBuff",
+		"triggerParam": "9501903",
+		"resultOnExecute": [
+			"RemoveBuff:9501902"
+		],
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FukaC2ThunderUp3",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9501903
+	},
+	{
+		"passiveskillType": 3,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 105701397
+		},
+		"passiveskillDes": {
+			"hash": -1642136037
+		},
+		"triggerCondition": "OnGiveBuff",
+		"triggerParam": "9501904",
+		"resultOnExecute": [
+			"RemoveBuff:9501903",
+			"GiveBuff:9501804"
+		],
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FukaC2ThunderUp4",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9501904
+	},
+	{
+		"passiveskillType": 3,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "BeforeFinalDamage",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Goto:99:($Phase)>=3",
+			"Set:Limit:($smhp)-((($smhp)*($Phase))/3) ",
+			"If:(($HP)-($mval))<=($Limit):A",
+			"[A]Modify:Phase:1",
+			"[A]ModifyTarget:Phase:1",
+			"[A]SetMVal:Damage:0",
+			"[A]Set:HP:($Limit)",
+			"[A]GiveBuff:9501900+($Phase)"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9501907
+	},
+	{
+		"passiveskillType": 3,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "BeforeFinalDamage",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"If:($Phase)==3:E",
+			"[E]If:($HP)<=($mval):A",
+			"[A]Set:Phase:4",
+			"[A]SetTarget:Phase:4",
+			"[A]SetMVal:Damage:0",
+			"[A]Set:HP:10000",
+			"[A]GiveBuff:9501904"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9501908
+	},
+	{
+		"passiveskillType": 3,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "OnBattleStart",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"AttachBuff:10000015"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10000001
+	},
+	{
+		"passiveskillType": 3,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "OnBattleStart",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"AttachBuff:10000016"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10000002
+	},
+	{
+		"passiveskillType": 3,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "OnTurnEnd",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"AttachBuff:10000011"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10000003
+	},
+	{
+		"passiveskillType": 3,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "OnTurnStart",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"AttachBuff:CriticalMiss:1:2"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10000004
+	},
+	{
+		"passiveskillType": 3,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "OnTurnStart",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"AttachBuff:Burn:100:1"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10000005
+	},
+	{
+		"passiveskillType": 3,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "OnTurnStart",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"AttachBuff:Freeze:2:2"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10000006
+	},
+	{
+		"passiveskillType": 3,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "OnTurnStart",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"GiveBuff:Rage:20"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10000007
+	},
+	{
+		"passiveskillType": 3,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "OnBattleStart",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"AttachBuff:10000009"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10000008
+	},
+	{
+		"passiveskillType": 3,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "OnAction",
+		"triggerParam": "Type:Aggressive",
+		"resultOnExecute": [
+			"AttachBuff:KillHeath:1:1",
+			"If:($tbuff_KillHeath)==10:A",
+			"[A]ModifyTarget:HP:($tmhp)*0.05"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10000009
+	},
+	{
+		"passiveskillType": 3,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "OnTurnStart",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"AttachBuff:Vulnerable:1"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10000010
+	},
+	{
+		"passiveskillType": 3,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 2075419722
+		},
+		"passiveskillDes": {
+			"hash": -567933180
+		},
+		"triggerCondition": "OnTurnStart",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"If:(($turn)>0)&(($turn)<3):A",
+			"[A]Modify:HP:($smhp)*0.1"
+		],
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TM_01",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10000011
+	},
+	{
+		"passiveskillType": 3,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:CriticalMissRate:20"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10000012
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 2075419724
+		},
+		"passiveskillDes": {
+			"hash": -567933178
+		},
+		"triggerCondition": "OnTurnStart",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"TakeDamage:($sbuff_($sid))*4:0",
+			"RemoveBuff:($sid):2"
+		],
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Poisoned",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10000013
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "OnTurnStart",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"AttachBuff:10000013:10"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10000014
+	},
+	{
+		"passiveskillType": 3,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "OnTurnStart",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"If:($turn)>0:A",
+			"[A]GiveBuff:Rage:20"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10000015
+	},
+	{
+		"passiveskillType": 3,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "OnTurnStart",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"GiveDice:1"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10000016
+	},
+	{
+		"passiveskillType": 3,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "OnTurnStart",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"AttachBuff:Burn:100:1"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10000017
+	},
+	{
+		"passiveskillType": 3,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "OnBattleStart",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"AttachBuff:10000019"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10000018
+	},
+	{
+		"passiveskillType": 3,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "OnDiceUsed",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"If:($mval_Stat)==3:A",
+			"[A]TakeDamage:($sbuff_Burn):0"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10000019
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:39"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10000106
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:51"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10000110
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:58"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10000111
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:282"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10000132
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:308"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10000135
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:73",
+			"Set:para2:147"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10000206
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:96",
+			"Set:para2:192"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10000210
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:108",
+			"Set:para2:217"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10000211
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:528",
+			"Set:para2:1056"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10000235
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:110",
+			"Set:para2:147"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10000306
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:540",
+			"Set:para2:720"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10000335
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:39",
+			"Set:para2:59"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10001106
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:45",
+			"Set:para2:68"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10001108
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:58",
+			"Set:para2:87"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10001111
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:282",
+			"Set:para2:424"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10001132
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:164",
+			"Set:para2:246"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10001133
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:308",
+			"Set:para2:462"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10001135
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:73",
+			"Set:para2:88",
+			"Set:para3:73",
+			"Set:para4:2"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10001206
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:84",
+			"Set:para2:101",
+			"Set:para3:84",
+			"Set:para4:2"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10001208
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:108",
+			"Set:para2:130",
+			"Set:para3:108",
+			"Set:para4:2"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10001211
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:307",
+			"Set:para2:368",
+			"Set:para3:307",
+			"Set:para4:2"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10001233
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:576",
+			"Set:para2:691",
+			"Set:para3:576",
+			"Set:para4:2"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10001235
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:127",
+			"Set:para2:169"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10001308
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:495",
+			"Set:para2:660"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10001335
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:36"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10002108
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:40"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10002110
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:109"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10002133
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:246"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10002134
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:246"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10002135
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:67",
+			"Set:para2:135"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10002208
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:76",
+			"Set:para2:153"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10002210
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:460",
+			"Set:para2:921"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10002235
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:115"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10002310
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:153"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10002333
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:432"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10002335
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:104",
+			"Set:para2:156"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10004116
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:123",
+			"Set:para2:184"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10004120
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:133",
+			"Set:para2:199"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10004121
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:261",
+			"Set:para2:393"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10004135
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:195",
+			"Set:para2:292",
+			"Set:para3:391"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10004216
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:230",
+			"Set:para2:345",
+			"Set:para3:460"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10004220
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:248",
+			"Set:para2:372",
+			"Set:para3:497"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10004221
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:489",
+			"Set:para2:733",
+			"Set:para3:979"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10004235
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:293",
+			"Set:para2:439",
+			"Set:para3:439"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10004316
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:127",
+			"Set:para2:191"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10005116
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:138",
+			"Set:para2:209"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10005118
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:162",
+			"Set:para2:244"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10005121
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:301",
+			"Set:para2:452"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10005131
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:320",
+			"Set:para2:480"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10005133
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:338",
+			"Set:para2:508"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10005135
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:173",
+			"Set:para2:348"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10005216
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:188",
+			"Set:para2:378"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10005218
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:220",
+			"Set:para2:442"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10005221
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:409",
+			"Set:para2:819"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10005231
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:460",
+			"Set:para2:921"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10005235
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:390",
+			"Set:para2:520",
+			"Set:para3:78"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10005318
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:561",
+			"Set:para2:748",
+			"Set:para3:112"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10005335
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:100"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10006118
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:109"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10006120
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:219"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10006133
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:246"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10006135
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:188",
+			"Set:para2:226",
+			"Set:para3:126",
+			"Set:para4:3"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10006218
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:204",
+			"Set:para2:245",
+			"Set:para3:136",
+			"Set:para4:3"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10006220
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:307",
+			"Set:para2:245",
+			"Set:para3:136",
+			"Set:para4:3",
+			"Set:para5:409"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10006320
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:384",
+			"Set:para2:307",
+			"Set:para3:170",
+			"Set:para4:3",
+			"Set:para5:512"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10006333
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:432",
+			"Set:para2:345",
+			"Set:para3:192",
+			"Set:para4:3",
+			"Set:para5:576"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10006335
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:188",
+			"Set:para2:566"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10008126
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:212",
+			"Set:para2:636"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10008130
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:219",
+			"Set:para2:656"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10008131
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:240",
+			"Set:para2:720"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10008135
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:352",
+			"Set:para2:176",
+			"Set:para3:847",
+			"Set:para4:236"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10008226
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:396",
+			"Set:para2:198",
+			"Set:para3:951",
+			"Set:para4:265"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10008230
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:409",
+			"Set:para2:205",
+			"Set:para3:982",
+			"Set:para4:273"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10008231
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:448",
+			"Set:para2:224",
+			"Set:para3:1075",
+			"Set:para4:299"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10008235
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:793",
+			"Set:para2:1412"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10008326
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:282",
+			"Set:para2:11"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10009126
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:300",
+			"Set:para2:12"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10009128
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:328",
+			"Set:para2:13"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10009131
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:337",
+			"Set:para2:13"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10009133
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:360",
+			"Set:para2:14"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10009134
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:369",
+			"Set:para2:14"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10009135
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:528",
+			"Set:para2:36"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10009226
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:561",
+			"Set:para2:38"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10009228
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:613",
+			"Set:para2:41"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10009231
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:633",
+			"Set:para2:43"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10009233
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:690",
+			"Set:para2:47"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10009235
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:505",
+			"Set:para2:23",
+			"Set:para3:23"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10009328
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:378",
+			"Set:para2:17",
+			"Set:para3:17"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10009335
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:200",
+			"Set:para2:4"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10010128
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:212",
+			"Set:para2:5"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10010130
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:225",
+			"Set:para2:5"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10010133
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:246",
+			"Set:para2:5"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10010135
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:374",
+			"Set:para2:8",
+			"Set:para3:749"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10010228
+	},
+	{
+		"passiveskillType": 1,
+		"passiveskillTag": 0,
+		"passiveskillName": {
+			"hash": 0
+		},
+		"passiveskillDes": {
+			"hash": 0
+		},
+		"triggerCondition": "GValueModify",
+		"triggerParam": "",
+		"resultOnExecute": [
+			"Set:para1:396",
+			"Set:para2:8",
+			"Set:para3:793"
+		],
+		"iconPath": "",
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10010230
+	}
+]

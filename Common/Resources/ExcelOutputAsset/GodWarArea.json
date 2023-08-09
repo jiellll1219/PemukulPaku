@@ -1,0 +1,915 @@
+[
+	{
+		"SiteIDList": [
+			1,
+			2,
+			3,
+			4,
+			5
+		],
+		"PreAreaID": 0,
+		"AreaName": {
+			"hash": 0
+		},
+		"AreaImage": "",
+		"AreaLevelDesc": "",
+		"AreaBossList": [],
+		"AreaUnlockMission": 0,
+		"LockHintText": {
+			"hash": 0
+		},
+		"AreaSelectEvent": 0,
+		"TaleID": 0,
+		"Index": 1,
+		"DataImpl": {},
+		"AreaID": 1
+	},
+	{
+		"SiteIDList": [
+			6,
+			7,
+			8,
+			9,
+			10
+		],
+		"PreAreaID": 0,
+		"AreaName": {
+			"hash": 0
+		},
+		"AreaImage": "",
+		"AreaLevelDesc": "",
+		"AreaBossList": [],
+		"AreaUnlockMission": 0,
+		"LockHintText": {
+			"hash": 0
+		},
+		"AreaSelectEvent": 0,
+		"TaleID": 0,
+		"Index": 2,
+		"DataImpl": {},
+		"AreaID": 2
+	},
+	{
+		"SiteIDList": [
+			11,
+			12,
+			13,
+			14,
+			15
+		],
+		"PreAreaID": 0,
+		"AreaName": {
+			"hash": 0
+		},
+		"AreaImage": "",
+		"AreaLevelDesc": "",
+		"AreaBossList": [],
+		"AreaUnlockMission": 0,
+		"LockHintText": {
+			"hash": 0
+		},
+		"AreaSelectEvent": 0,
+		"TaleID": 0,
+		"Index": 3,
+		"DataImpl": {},
+		"AreaID": 3
+	},
+	{
+		"SiteIDList": [
+			16,
+			17,
+			18,
+			19,
+			20
+		],
+		"PreAreaID": 0,
+		"AreaName": {
+			"hash": 0
+		},
+		"AreaImage": "",
+		"AreaLevelDesc": "",
+		"AreaBossList": [],
+		"AreaUnlockMission": 0,
+		"LockHintText": {
+			"hash": 0
+		},
+		"AreaSelectEvent": 0,
+		"TaleID": 0,
+		"Index": 4,
+		"DataImpl": {},
+		"AreaID": 4
+	},
+	{
+		"SiteIDList": [
+			21
+		],
+		"PreAreaID": 0,
+		"AreaName": {
+			"hash": 0
+		},
+		"AreaImage": "",
+		"AreaLevelDesc": "",
+		"AreaBossList": [],
+		"AreaUnlockMission": 0,
+		"LockHintText": {
+			"hash": 0
+		},
+		"AreaSelectEvent": 0,
+		"TaleID": 0,
+		"Index": 5,
+		"DataImpl": {},
+		"AreaID": 5
+	},
+	{
+		"SiteIDList": [
+			1001,
+			1002,
+			1003,
+			1004
+		],
+		"PreAreaID": 0,
+		"AreaName": {
+			"hash": 0
+		},
+		"AreaImage": "",
+		"AreaLevelDesc": "",
+		"AreaBossList": [],
+		"AreaUnlockMission": 0,
+		"LockHintText": {
+			"hash": 0
+		},
+		"AreaSelectEvent": 0,
+		"TaleID": 0,
+		"Index": 1,
+		"DataImpl": {},
+		"AreaID": 101
+	},
+	{
+		"SiteIDList": [
+			1005,
+			1006,
+			1007,
+			1008
+		],
+		"PreAreaID": 0,
+		"AreaName": {
+			"hash": 0
+		},
+		"AreaImage": "",
+		"AreaLevelDesc": "",
+		"AreaBossList": [],
+		"AreaUnlockMission": 0,
+		"LockHintText": {
+			"hash": 0
+		},
+		"AreaSelectEvent": 0,
+		"TaleID": 0,
+		"Index": 2,
+		"DataImpl": {},
+		"AreaID": 102
+	},
+	{
+		"SiteIDList": [
+			1101,
+			1102,
+			1103,
+			1104
+		],
+		"PreAreaID": 0,
+		"AreaName": {
+			"hash": 0
+		},
+		"AreaImage": "",
+		"AreaLevelDesc": "",
+		"AreaBossList": [],
+		"AreaUnlockMission": 0,
+		"LockHintText": {
+			"hash": 0
+		},
+		"AreaSelectEvent": 0,
+		"TaleID": 0,
+		"Index": 1,
+		"DataImpl": {},
+		"AreaID": 111
+	},
+	{
+		"SiteIDList": [
+			1105,
+			1106,
+			1107,
+			1108
+		],
+		"PreAreaID": 0,
+		"AreaName": {
+			"hash": 0
+		},
+		"AreaImage": "",
+		"AreaLevelDesc": "",
+		"AreaBossList": [],
+		"AreaUnlockMission": 0,
+		"LockHintText": {
+			"hash": 0
+		},
+		"AreaSelectEvent": 0,
+		"TaleID": 0,
+		"Index": 2,
+		"DataImpl": {},
+		"AreaID": 112
+	},
+	{
+		"SiteIDList": [
+			1109,
+			1110,
+			1111,
+			1112
+		],
+		"PreAreaID": 0,
+		"AreaName": {
+			"hash": 0
+		},
+		"AreaImage": "",
+		"AreaLevelDesc": "",
+		"AreaBossList": [],
+		"AreaUnlockMission": 0,
+		"LockHintText": {
+			"hash": 0
+		},
+		"AreaSelectEvent": 0,
+		"TaleID": 0,
+		"Index": 3,
+		"DataImpl": {},
+		"AreaID": 113
+	},
+	{
+		"SiteIDList": [
+			1201,
+			1202,
+			1203,
+			1204
+		],
+		"PreAreaID": 0,
+		"AreaName": {
+			"hash": 0
+		},
+		"AreaImage": "",
+		"AreaLevelDesc": "",
+		"AreaBossList": [],
+		"AreaUnlockMission": 0,
+		"LockHintText": {
+			"hash": 0
+		},
+		"AreaSelectEvent": 0,
+		"TaleID": 0,
+		"Index": 1,
+		"DataImpl": {},
+		"AreaID": 121
+	},
+	{
+		"SiteIDList": [
+			1205,
+			1206,
+			1207,
+			1208
+		],
+		"PreAreaID": 0,
+		"AreaName": {
+			"hash": 0
+		},
+		"AreaImage": "",
+		"AreaLevelDesc": "",
+		"AreaBossList": [],
+		"AreaUnlockMission": 0,
+		"LockHintText": {
+			"hash": 0
+		},
+		"AreaSelectEvent": 0,
+		"TaleID": 0,
+		"Index": 2,
+		"DataImpl": {},
+		"AreaID": 122
+	},
+	{
+		"SiteIDList": [
+			1209,
+			1210,
+			1211,
+			1212
+		],
+		"PreAreaID": 0,
+		"AreaName": {
+			"hash": 0
+		},
+		"AreaImage": "",
+		"AreaLevelDesc": "",
+		"AreaBossList": [],
+		"AreaUnlockMission": 0,
+		"LockHintText": {
+			"hash": 0
+		},
+		"AreaSelectEvent": 0,
+		"TaleID": 0,
+		"Index": 3,
+		"DataImpl": {},
+		"AreaID": 123
+	},
+	{
+		"SiteIDList": [
+			1213,
+			1214,
+			1215,
+			1216
+		],
+		"PreAreaID": 0,
+		"AreaName": {
+			"hash": 0
+		},
+		"AreaImage": "",
+		"AreaLevelDesc": "",
+		"AreaBossList": [],
+		"AreaUnlockMission": 0,
+		"LockHintText": {
+			"hash": 0
+		},
+		"AreaSelectEvent": 0,
+		"TaleID": 0,
+		"Index": 4,
+		"DataImpl": {},
+		"AreaID": 124
+	},
+	{
+		"SiteIDList": [
+			1217
+		],
+		"PreAreaID": 0,
+		"AreaName": {
+			"hash": 0
+		},
+		"AreaImage": "",
+		"AreaLevelDesc": "",
+		"AreaBossList": [],
+		"AreaUnlockMission": 0,
+		"LockHintText": {
+			"hash": 0
+		},
+		"AreaSelectEvent": 0,
+		"TaleID": 0,
+		"Index": 5,
+		"DataImpl": {},
+		"AreaID": 125
+	},
+	{
+		"SiteIDList": [
+			1301,
+			1302,
+			1303,
+			1304
+		],
+		"PreAreaID": 0,
+		"AreaName": {
+			"hash": 0
+		},
+		"AreaImage": "",
+		"AreaLevelDesc": "",
+		"AreaBossList": [],
+		"AreaUnlockMission": 0,
+		"LockHintText": {
+			"hash": 0
+		},
+		"AreaSelectEvent": 0,
+		"TaleID": 0,
+		"Index": 1,
+		"DataImpl": {},
+		"AreaID": 131
+	},
+	{
+		"SiteIDList": [
+			1305,
+			1306,
+			1307,
+			1308
+		],
+		"PreAreaID": 0,
+		"AreaName": {
+			"hash": 0
+		},
+		"AreaImage": "",
+		"AreaLevelDesc": "",
+		"AreaBossList": [],
+		"AreaUnlockMission": 0,
+		"LockHintText": {
+			"hash": 0
+		},
+		"AreaSelectEvent": 0,
+		"TaleID": 0,
+		"Index": 2,
+		"DataImpl": {},
+		"AreaID": 132
+	},
+	{
+		"SiteIDList": [
+			1309,
+			1310,
+			1311,
+			1312
+		],
+		"PreAreaID": 0,
+		"AreaName": {
+			"hash": 0
+		},
+		"AreaImage": "",
+		"AreaLevelDesc": "",
+		"AreaBossList": [],
+		"AreaUnlockMission": 0,
+		"LockHintText": {
+			"hash": 0
+		},
+		"AreaSelectEvent": 0,
+		"TaleID": 0,
+		"Index": 3,
+		"DataImpl": {},
+		"AreaID": 133
+	},
+	{
+		"SiteIDList": [
+			1313,
+			1314,
+			1315,
+			1316
+		],
+		"PreAreaID": 0,
+		"AreaName": {
+			"hash": 0
+		},
+		"AreaImage": "",
+		"AreaLevelDesc": "",
+		"AreaBossList": [],
+		"AreaUnlockMission": 0,
+		"LockHintText": {
+			"hash": 0
+		},
+		"AreaSelectEvent": 0,
+		"TaleID": 0,
+		"Index": 4,
+		"DataImpl": {},
+		"AreaID": 134
+	},
+	{
+		"SiteIDList": [
+			1317
+		],
+		"PreAreaID": 0,
+		"AreaName": {
+			"hash": 0
+		},
+		"AreaImage": "",
+		"AreaLevelDesc": "",
+		"AreaBossList": [],
+		"AreaUnlockMission": 0,
+		"LockHintText": {
+			"hash": 0
+		},
+		"AreaSelectEvent": 0,
+		"TaleID": 0,
+		"Index": 5,
+		"DataImpl": {},
+		"AreaID": 135
+	},
+	{
+		"SiteIDList": [
+			1401,
+			1402,
+			1403,
+			1404
+		],
+		"PreAreaID": 0,
+		"AreaName": {
+			"hash": 0
+		},
+		"AreaImage": "",
+		"AreaLevelDesc": "",
+		"AreaBossList": [],
+		"AreaUnlockMission": 0,
+		"LockHintText": {
+			"hash": 0
+		},
+		"AreaSelectEvent": 0,
+		"TaleID": 0,
+		"Index": 1,
+		"DataImpl": {},
+		"AreaID": 141
+	},
+	{
+		"SiteIDList": [
+			1405,
+			1406,
+			1407,
+			1408
+		],
+		"PreAreaID": 0,
+		"AreaName": {
+			"hash": 0
+		},
+		"AreaImage": "",
+		"AreaLevelDesc": "",
+		"AreaBossList": [],
+		"AreaUnlockMission": 0,
+		"LockHintText": {
+			"hash": 0
+		},
+		"AreaSelectEvent": 0,
+		"TaleID": 0,
+		"Index": 2,
+		"DataImpl": {},
+		"AreaID": 142
+	},
+	{
+		"SiteIDList": [
+			1409,
+			1410,
+			1411,
+			1412
+		],
+		"PreAreaID": 0,
+		"AreaName": {
+			"hash": 0
+		},
+		"AreaImage": "",
+		"AreaLevelDesc": "",
+		"AreaBossList": [],
+		"AreaUnlockMission": 0,
+		"LockHintText": {
+			"hash": 0
+		},
+		"AreaSelectEvent": 0,
+		"TaleID": 0,
+		"Index": 3,
+		"DataImpl": {},
+		"AreaID": 143
+	},
+	{
+		"SiteIDList": [
+			1413,
+			1414,
+			1415,
+			1416
+		],
+		"PreAreaID": 0,
+		"AreaName": {
+			"hash": 0
+		},
+		"AreaImage": "",
+		"AreaLevelDesc": "",
+		"AreaBossList": [],
+		"AreaUnlockMission": 0,
+		"LockHintText": {
+			"hash": 0
+		},
+		"AreaSelectEvent": 0,
+		"TaleID": 0,
+		"Index": 4,
+		"DataImpl": {},
+		"AreaID": 144
+	},
+	{
+		"SiteIDList": [
+			1417,
+			1418
+		],
+		"PreAreaID": 0,
+		"AreaName": {
+			"hash": 0
+		},
+		"AreaImage": "",
+		"AreaLevelDesc": "",
+		"AreaBossList": [],
+		"AreaUnlockMission": 0,
+		"LockHintText": {
+			"hash": 0
+		},
+		"AreaSelectEvent": 0,
+		"TaleID": 0,
+		"Index": 5,
+		"DataImpl": {},
+		"AreaID": 145
+	},
+	{
+		"SiteIDList": [
+			1501,
+			1502,
+			1503,
+			1504
+		],
+		"PreAreaID": 0,
+		"AreaName": {
+			"hash": 0
+		},
+		"AreaImage": "",
+		"AreaLevelDesc": "",
+		"AreaBossList": [],
+		"AreaUnlockMission": 0,
+		"LockHintText": {
+			"hash": 0
+		},
+		"AreaSelectEvent": 0,
+		"TaleID": 0,
+		"Index": 1,
+		"DataImpl": {},
+		"AreaID": 151
+	},
+	{
+		"SiteIDList": [
+			1505,
+			1506,
+			1507,
+			1508
+		],
+		"PreAreaID": 0,
+		"AreaName": {
+			"hash": 0
+		},
+		"AreaImage": "",
+		"AreaLevelDesc": "",
+		"AreaBossList": [],
+		"AreaUnlockMission": 0,
+		"LockHintText": {
+			"hash": 0
+		},
+		"AreaSelectEvent": 0,
+		"TaleID": 0,
+		"Index": 2,
+		"DataImpl": {},
+		"AreaID": 152
+	},
+	{
+		"SiteIDList": [
+			1509,
+			1510,
+			1511,
+			1512
+		],
+		"PreAreaID": 0,
+		"AreaName": {
+			"hash": 0
+		},
+		"AreaImage": "",
+		"AreaLevelDesc": "",
+		"AreaBossList": [],
+		"AreaUnlockMission": 0,
+		"LockHintText": {
+			"hash": 0
+		},
+		"AreaSelectEvent": 0,
+		"TaleID": 0,
+		"Index": 3,
+		"DataImpl": {},
+		"AreaID": 153
+	},
+	{
+		"SiteIDList": [
+			1513,
+			1514,
+			1515,
+			1516
+		],
+		"PreAreaID": 0,
+		"AreaName": {
+			"hash": 0
+		},
+		"AreaImage": "",
+		"AreaLevelDesc": "",
+		"AreaBossList": [],
+		"AreaUnlockMission": 0,
+		"LockHintText": {
+			"hash": 0
+		},
+		"AreaSelectEvent": 0,
+		"TaleID": 0,
+		"Index": 4,
+		"DataImpl": {},
+		"AreaID": 154
+	},
+	{
+		"SiteIDList": [
+			1517
+		],
+		"PreAreaID": 0,
+		"AreaName": {
+			"hash": 0
+		},
+		"AreaImage": "",
+		"AreaLevelDesc": "",
+		"AreaBossList": [],
+		"AreaUnlockMission": 0,
+		"LockHintText": {
+			"hash": 0
+		},
+		"AreaSelectEvent": 0,
+		"TaleID": 0,
+		"Index": 5,
+		"DataImpl": {},
+		"AreaID": 155
+	},
+	{
+		"SiteIDList": [],
+		"PreAreaID": 0,
+		"AreaName": {
+			"hash": 189620166
+		},
+		"AreaImage": "SpriteOutput/LevelDetailPic/ScenePicRougePark01",
+		"AreaLevelDesc": "AreaDesc_2001",
+		"AreaBossList": [],
+		"AreaUnlockMission": 10001,
+		"LockHintText": {
+			"hash": 523966794
+		},
+		"AreaSelectEvent": 0,
+		"TaleID": 20,
+		"Index": 0,
+		"DataImpl": {},
+		"AreaID": 2001
+	},
+	{
+		"SiteIDList": [],
+		"PreAreaID": 2001,
+		"AreaName": {
+			"hash": 189620167
+		},
+		"AreaImage": "SpriteOutput/LevelDetailPic/ScenePicRougeYellowTree",
+		"AreaLevelDesc": "AreaDesc_2002",
+		"AreaBossList": [
+			{
+				"BossID": 2068,
+				"ShowMission": 10001
+			}
+		],
+		"AreaUnlockMission": 10001,
+		"LockHintText": {
+			"hash": 523966795
+		},
+		"AreaSelectEvent": 0,
+		"TaleID": 20,
+		"Index": 1,
+		"DataImpl": {},
+		"AreaID": 2002
+	},
+	{
+		"SiteIDList": [],
+		"PreAreaID": 2002,
+		"AreaName": {
+			"hash": 189620168
+		},
+		"AreaImage": "SpriteOutput/LevelDetailPic/ScenePicRougeGreen",
+		"AreaLevelDesc": "AreaDesc_2003",
+		"AreaBossList": [
+			{
+				"BossID": 4364,
+				"ShowMission": 10001
+			}
+		],
+		"AreaUnlockMission": 10001,
+		"LockHintText": {
+			"hash": 523966796
+		},
+		"AreaSelectEvent": 5600060,
+		"TaleID": 20,
+		"Index": 2,
+		"DataImpl": {},
+		"AreaID": 2003
+	},
+	{
+		"SiteIDList": [],
+		"PreAreaID": 2003,
+		"AreaName": {
+			"hash": 189620169
+		},
+		"AreaImage": "SpriteOutput/LevelDetailPic/ScenePicRougePinkTheme",
+		"AreaLevelDesc": "AreaDesc_2004",
+		"AreaBossList": [
+			{
+				"BossID": 4122,
+				"ShowMission": 10001
+			},
+			{
+				"BossID": 4355,
+				"ShowMission": 663149
+			}
+		],
+		"AreaUnlockMission": 10001,
+		"LockHintText": {
+			"hash": 523966797
+		},
+		"AreaSelectEvent": 5600060,
+		"TaleID": 20,
+		"Index": 5,
+		"DataImpl": {},
+		"AreaID": 2004
+	},
+	{
+		"SiteIDList": [],
+		"PreAreaID": 2002,
+		"AreaName": {
+			"hash": 189620170
+		},
+		"AreaImage": "SpriteOutput/LevelDetailPic/ScenePicRougePark03",
+		"AreaLevelDesc": "AreaDesc_2005",
+		"AreaBossList": [
+			{
+				"BossID": 4061,
+				"ShowMission": 10001
+			}
+		],
+		"AreaUnlockMission": 664073,
+		"LockHintText": {
+			"hash": 523966798
+		},
+		"AreaSelectEvent": 5600061,
+		"TaleID": 20,
+		"Index": 3,
+		"DataImpl": {},
+		"AreaID": 2005
+	},
+	{
+		"SiteIDList": [],
+		"PreAreaID": 2005,
+		"AreaName": {
+			"hash": 189620171
+		},
+		"AreaImage": "SpriteOutput/LevelDetailPic/ScenePicRougePark02",
+		"AreaLevelDesc": "AreaDesc_2006",
+		"AreaBossList": [
+			{
+				"BossID": 4122,
+				"ShowMission": 10001
+			},
+			{
+				"BossID": 4378,
+				"ShowMission": 664073
+			}
+		],
+		"AreaUnlockMission": 664073,
+		"LockHintText": {
+			"hash": 523966799
+		},
+		"AreaSelectEvent": 5600061,
+		"TaleID": 20,
+		"Index": 6,
+		"DataImpl": {},
+		"AreaID": 2006
+	},
+	{
+		"SiteIDList": [],
+		"PreAreaID": 2002,
+		"AreaName": {
+			"hash": 189620172
+		},
+		"AreaImage": "SpriteOutput/LevelDetailPic/ScenePicRougeCage",
+		"AreaLevelDesc": "AreaDesc_2007",
+		"AreaBossList": [
+			{
+				"BossID": 4383,
+				"ShowMission": 10001
+			}
+		],
+		"AreaUnlockMission": 665058,
+		"LockHintText": {
+			"hash": 523966800
+		},
+		"AreaSelectEvent": 5600062,
+		"TaleID": 20,
+		"Index": 4,
+		"DataImpl": {},
+		"AreaID": 2007
+	},
+	{
+		"SiteIDList": [],
+		"PreAreaID": 2007,
+		"AreaName": {
+			"hash": 189620173
+		},
+		"AreaImage": "SpriteOutput/LevelDetailPic/ScenePicRougeSanctuary",
+		"AreaLevelDesc": "AreaDesc_2008",
+		"AreaBossList": [
+			{
+				"BossID": 4387,
+				"ShowMission": 10001
+			},
+			{
+				"BossID": 4385,
+				"ShowMission": 665058
+			},
+			{
+				"BossID": 4388,
+				"ShowMission": 665078
+			}
+		],
+		"AreaUnlockMission": 665058,
+		"LockHintText": {
+			"hash": 523966801
+		},
+		"AreaSelectEvent": 5600062,
+		"TaleID": 20,
+		"Index": 7,
+		"DataImpl": {},
+		"AreaID": 2008
+	}
+]

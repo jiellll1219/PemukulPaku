@@ -1,0 +1,2169 @@
+[
+	{
+		"actionGroup": 11,
+		"actionGroupString": "InControlActionGroupString_ATK",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 0,
+		"actionSubType": 1,
+		"isSettingComboKey": true,
+		"defaultKeys": "J",
+		"defaultInControlTypes": [
+			"Action2"
+		],
+		"DataImpl": {},
+		"actionName": "ATK"
+	},
+	{
+		"actionGroup": 201,
+		"actionGroupString": "InControlActionGroupString_AnyButton",
+		"bindingSettingsType": 0,
+		"HideInMobile": false,
+		"actionType": 1,
+		"actionSubType": 20,
+		"isSettingComboKey": true,
+		"defaultKeys": "None",
+		"defaultInControlTypes": [
+			"None"
+		],
+		"DataImpl": {},
+		"actionName": "AnyButton"
+	},
+	{
+		"actionGroup": 202,
+		"actionGroupString": "InControlActionGroupString_AnyCommandButton",
+		"bindingSettingsType": 0,
+		"HideInMobile": false,
+		"actionType": 1,
+		"actionSubType": 20,
+		"isSettingComboKey": true,
+		"defaultKeys": "None",
+		"defaultInControlTypes": [
+			"None"
+		],
+		"DataImpl": {},
+		"actionName": "AnyCommandButton"
+	},
+	{
+		"actionGroup": 405,
+		"actionGroupString": "InControlActionSubTypeString_ChapterOW_KeySwapAvatar1",
+		"bindingSettingsType": 1,
+		"HideInMobile": true,
+		"actionType": 6,
+		"actionSubType": 29,
+		"isSettingComboKey": false,
+		"defaultKeys": "Key1",
+		"defaultInControlTypes": [
+			"LeftTrigger"
+		],
+		"DataImpl": {},
+		"actionName": "ChapterOWKeySwapAvatar1"
+	},
+	{
+		"actionGroup": 406,
+		"actionGroupString": "InControlActionSubTypeString_ChapterOW_KeySwapAvatar2",
+		"bindingSettingsType": 1,
+		"HideInMobile": true,
+		"actionType": 6,
+		"actionSubType": 29,
+		"isSettingComboKey": false,
+		"defaultKeys": "Key2",
+		"defaultInControlTypes": [
+			"RightTrigger"
+		],
+		"DataImpl": {},
+		"actionName": "ChapterOWKeySwapAvatar2"
+	},
+	{
+		"actionGroup": 50,
+		"actionGroupString": "InControlActionGroupString_ChapterOW_JUMP",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 0,
+		"actionSubType": 3,
+		"isSettingComboKey": true,
+		"defaultKeys": "SPACE",
+		"defaultInControlTypes": [
+			"Action4"
+		],
+		"DataImpl": {},
+		"actionName": "ChapterOW_JUMP"
+	},
+	{
+		"actionGroup": 411,
+		"actionGroupString": "InControlActionSubTypeString_ChapterOW_Map_Btn",
+		"bindingSettingsType": 1,
+		"HideInMobile": true,
+		"actionType": 0,
+		"actionSubType": 2,
+		"isSettingComboKey": true,
+		"defaultKeys": "T",
+		"defaultInControlTypes": [
+			"DPadDown"
+		],
+		"DataImpl": {},
+		"actionName": "ChapterOW_Map_Btn"
+	},
+	{
+		"actionGroup": 408,
+		"actionGroupString": "InControlActionSubTypeString_ChapterOW_Moon_MK2_Interact",
+		"bindingSettingsType": 1,
+		"HideInMobile": true,
+		"actionType": 1,
+		"actionSubType": 11,
+		"isSettingComboKey": false,
+		"defaultKeys": "L",
+		"defaultInControlTypes": [
+			"DPadRight"
+		],
+		"DataImpl": {},
+		"actionName": "ChapterOW_Moon_MK2_Interact"
+	},
+	{
+		"actionGroup": 407,
+		"actionGroupString": "InControlActionSubTypeString_ChapterOW_Moon_MK2_Utra",
+		"bindingSettingsType": 1,
+		"HideInMobile": true,
+		"actionType": 1,
+		"actionSubType": 11,
+		"isSettingComboKey": false,
+		"defaultKeys": "F",
+		"defaultInControlTypes": [
+			"DPadLeft"
+		],
+		"DataImpl": {},
+		"actionName": "ChapterOW_Moon_MK2_Utra"
+	},
+	{
+		"actionGroup": 53,
+		"actionGroupString": "InControlActionSubTypeString_ChapterOW_Moon_PicGuide_Button",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 0,
+		"actionSubType": 2,
+		"isSettingComboKey": true,
+		"defaultKeys": "G",
+		"defaultInControlTypes": [
+			"LeftBumper+DPadUp"
+		],
+		"DataImpl": {},
+		"actionName": "ChapterOW_PicGuide"
+	},
+	{
+		"actionGroup": 219,
+		"actionGroupString": "InControlActionGroupString_ChatLobby_JUMP",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 2,
+		"actionSubType": 26,
+		"isSettingComboKey": true,
+		"defaultKeys": "SPACE",
+		"defaultInControlTypes": [
+			"Action4"
+		],
+		"DataImpl": {},
+		"actionName": "ChatLobby_JUMP"
+	},
+	{
+		"actionGroup": 321,
+		"actionGroupString": "InControlActionGroupString_ChatLobby_LANTERNBACK",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 2,
+		"actionSubType": 26,
+		"isSettingComboKey": true,
+		"defaultKeys": "K",
+		"defaultInControlTypes": [
+			"Action1"
+		],
+		"DataImpl": {},
+		"actionName": "ChatLobby_LANTERNBACK"
+	},
+	{
+		"actionGroup": 320,
+		"actionGroupString": "InControlActionGroupString_ChatLobby_MAKELANTERN",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 2,
+		"actionSubType": 26,
+		"isSettingComboKey": true,
+		"defaultKeys": "J",
+		"defaultInControlTypes": [
+			"Action4"
+		],
+		"DataImpl": {},
+		"actionName": "ChatLobby_MAKELANTERN"
+	},
+	{
+		"actionGroup": 417,
+		"actionGroupString": "InControlActionGroupString_ChatLobby_Pause",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 2,
+		"actionSubType": 26,
+		"isSettingComboKey": true,
+		"defaultKeys": "SPACE",
+		"defaultInControlTypes": [
+			"Action4"
+		],
+		"DataImpl": {},
+		"actionName": "ChatLobby_Pause"
+	},
+	{
+		"actionGroup": 102,
+		"actionGroupString": "InControlActionGroupString_DLCEventDisplay_HideShow",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 1,
+		"actionSubType": 10,
+		"isSettingComboKey": true,
+		"defaultKeys": "I",
+		"defaultInControlTypes": [
+			"Action4"
+		],
+		"DataImpl": {},
+		"actionName": "DLCEventDisplay_HideShow"
+	},
+	{
+		"actionGroup": 101,
+		"actionGroupString": "InControlActionGroupString_DLCEventDisplay_Skip",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 1,
+		"actionSubType": 10,
+		"isSettingComboKey": true,
+		"defaultKeys": "U",
+		"defaultInControlTypes": [
+			"Action3"
+		],
+		"DataImpl": {},
+		"actionName": "DLCEventDisplay_Skip"
+	},
+	{
+		"actionGroup": 220,
+		"actionGroupString": "InControlActionGroupString_DLC_ATK",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 3,
+		"actionSubType": 22,
+		"isSettingComboKey": true,
+		"defaultKeys": "J",
+		"defaultInControlTypes": [
+			"Action2"
+		],
+		"DataImpl": {},
+		"actionName": "DLC_ATK"
+	},
+	{
+		"actionGroup": 224,
+		"actionGroupString": "InControlActionGroupString_DLC_KeySwapAvatar1",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 3,
+		"actionSubType": 22,
+		"isSettingComboKey": true,
+		"defaultKeys": "Key1",
+		"defaultInControlTypes": [
+			"LeftTrigger"
+		],
+		"DataImpl": {},
+		"actionName": "DLC_KeySwapAvatar1"
+	},
+	{
+		"actionGroup": 225,
+		"actionGroupString": "InControlActionGroupString_DLC_KeySwapAvatar2",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 3,
+		"actionSubType": 22,
+		"isSettingComboKey": true,
+		"defaultKeys": "Key2",
+		"defaultInControlTypes": [
+			"RightTrigger"
+		],
+		"DataImpl": {},
+		"actionName": "DLC_KeySwapAvatar2"
+	},
+	{
+		"actionGroup": 221,
+		"actionGroupString": "InControlActionGroupString_DLC_SKL01",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 3,
+		"actionSubType": 22,
+		"isSettingComboKey": true,
+		"defaultKeys": "K",
+		"defaultInControlTypes": [
+			"Action1"
+		],
+		"DataImpl": {},
+		"actionName": "DLC_SKL01"
+	},
+	{
+		"actionGroup": 233,
+		"actionGroupString": "InControlActionGroupString_DLC_SKL_CUSTOM",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 3,
+		"actionSubType": 24,
+		"isSettingComboKey": true,
+		"defaultKeys": "F",
+		"defaultInControlTypes": [
+			"DPadLeft"
+		],
+		"DataImpl": {},
+		"actionName": "DLC_SKL_CUSTOM"
+	},
+	{
+		"actionGroup": 222,
+		"actionGroupString": "InControlActionGroupString_DLC_SKL_WEAPON",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 3,
+		"actionSubType": 22,
+		"isSettingComboKey": true,
+		"defaultKeys": "U",
+		"defaultInControlTypes": [
+			"Action3"
+		],
+		"DataImpl": {},
+		"actionName": "DLC_SKL_WEAPON"
+	},
+	{
+		"actionGroup": 231,
+		"actionGroupString": "InControlActionGroupString_EVA_TPS_WEAPON",
+		"bindingSettingsType": 0,
+		"HideInMobile": false,
+		"actionType": 5,
+		"actionSubType": 22,
+		"isSettingComboKey": true,
+		"defaultKeys": "Key1",
+		"defaultInControlTypes": [
+			"LeftTrigger"
+		],
+		"DataImpl": {},
+		"actionName": "EVA_TPS_WEAPON"
+	},
+	{
+		"actionGroup": 112,
+		"actionGroupString": "InControlActionGroupString_EventDialog_DialogueClick",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 1,
+		"actionSubType": 11,
+		"isSettingComboKey": true,
+		"defaultKeys": "Return",
+		"defaultInControlTypes": [
+			"Action2"
+		],
+		"DataImpl": {},
+		"actionName": "EventDialog_DialogueClick"
+	},
+	{
+		"actionGroup": 102,
+		"actionGroupString": "InControlActionGroupString_EventDialog_HideShowBtn",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 1,
+		"actionSubType": 10,
+		"isSettingComboKey": true,
+		"defaultKeys": "I",
+		"defaultInControlTypes": [
+			"Action4"
+		],
+		"DataImpl": {},
+		"actionName": "EventDialog_HideShowBtn"
+	},
+	{
+		"actionGroup": 112,
+		"actionGroupString": "InControlActionGroupString_EventDialog_NarrationClick",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 1,
+		"actionSubType": 11,
+		"isSettingComboKey": true,
+		"defaultKeys": "Return",
+		"defaultInControlTypes": [
+			"Action2"
+		],
+		"DataImpl": {},
+		"actionName": "EventDialog_NarrationClick"
+	},
+	{
+		"actionGroup": 101,
+		"actionGroupString": "InControlActionGroupString_EventDialog_SkipBtn",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 1,
+		"actionSubType": 10,
+		"isSettingComboKey": true,
+		"defaultKeys": "U",
+		"defaultInControlTypes": [
+			"Action3"
+		],
+		"DataImpl": {},
+		"actionName": "EventDialog_SkipBtn"
+	},
+	{
+		"actionGroup": 111,
+		"actionGroupString": "InControlActionGroupString_Exit_Game",
+		"bindingSettingsType": 4,
+		"HideInMobile": false,
+		"actionType": 1,
+		"actionSubType": 11,
+		"isSettingComboKey": true,
+		"defaultKeys": "Escape",
+		"defaultInControlTypes": [
+			"Plus",
+			"Home",
+			"Options",
+			"Menu",
+			"Start"
+		],
+		"DataImpl": {},
+		"actionName": "Exit_Game"
+	},
+	{
+		"actionGroup": 102,
+		"actionGroupString": "InControlActionGroupString_FixedPlotEventDisplay_HideShow",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 1,
+		"actionSubType": 10,
+		"isSettingComboKey": true,
+		"defaultKeys": "I",
+		"defaultInControlTypes": [
+			"Action4"
+		],
+		"DataImpl": {},
+		"actionName": "FixedPlotEventDisplay_HideShow"
+	},
+	{
+		"actionGroup": 101,
+		"actionGroupString": "InControlActionGroupString_FixedPlotEventDisplay_Skip",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 1,
+		"actionSubType": 10,
+		"isSettingComboKey": true,
+		"defaultKeys": "U",
+		"defaultInControlTypes": [
+			"Action3"
+		],
+		"DataImpl": {},
+		"actionName": "FixedPlotEventDisplay_Skip"
+	},
+	{
+		"actionGroup": 113,
+		"actionGroupString": "InControlActionGroupString_General_Back",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 1,
+		"actionSubType": 11,
+		"isSettingComboKey": true,
+		"defaultKeys": "Backquote",
+		"defaultInControlTypes": [
+			"Action1"
+		],
+		"DataImpl": {},
+		"actionName": "General_Back"
+	},
+	{
+		"actionGroup": 203,
+		"actionGroupString": "InControlActionGroupString_General_Cancel",
+		"bindingSettingsType": 0,
+		"HideInMobile": false,
+		"actionType": 1,
+		"actionSubType": 20,
+		"isSettingComboKey": true,
+		"defaultKeys": "Escape",
+		"defaultInControlTypes": [
+			"Minus",
+			"Capture",
+			"Share",
+			"View",
+			"Back",
+			"Create"
+		],
+		"DataImpl": {},
+		"actionName": "General_Cancel"
+	},
+	{
+		"actionGroup": 112,
+		"actionGroupString": "InControlActionGroupString_General_Ensure",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 1,
+		"actionSubType": 11,
+		"isSettingComboKey": true,
+		"defaultKeys": "Return",
+		"defaultInControlTypes": [
+			"Action2"
+		],
+		"DataImpl": {},
+		"actionName": "General_Ensure"
+	},
+	{
+		"actionGroup": 235,
+		"actionGroupString": "InControlActionGroupString_GodWar_QuickStart",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 6,
+		"actionSubType": 27,
+		"isSettingComboKey": true,
+		"defaultKeys": "F",
+		"defaultInControlTypes": [
+			"DPadLeft"
+		],
+		"DataImpl": {},
+		"actionName": "GodWar_QuickStart"
+	},
+	{
+		"actionGroup": 111,
+		"actionGroupString": "InControlActionGroupString_HpyerionEsc",
+		"bindingSettingsType": 4,
+		"HideInMobile": false,
+		"actionType": 1,
+		"actionSubType": 11,
+		"isSettingComboKey": true,
+		"defaultKeys": "Escape",
+		"defaultInControlTypes": [
+			"Plus",
+			"Home",
+			"Options",
+			"Menu",
+			"Start"
+		],
+		"DataImpl": {},
+		"actionName": "HyperionPauseBtn"
+	},
+	{
+		"actionGroup": 17,
+		"actionGroupString": "InControlActionGroupString_InLevelMainPage_SkillTutorial",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 0,
+		"actionSubType": 2,
+		"isSettingComboKey": true,
+		"defaultKeys": "O",
+		"defaultInControlTypes": [
+			"LeftBumper+Action2"
+		],
+		"DataImpl": {},
+		"actionName": "InLevelMainPage_SkillTutorial"
+	},
+	{
+		"actionGroup": 52,
+		"actionGroupString": "InControlActionGroupString_Interact_Confirm",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 0,
+		"actionSubType": 2,
+		"isSettingComboKey": true,
+		"defaultKeys": "R",
+		"defaultInControlTypes": [
+			"RightBumper"
+		],
+		"DataImpl": {},
+		"actionName": "Interact_Confirm"
+	},
+	{
+		"actionGroup": 51,
+		"actionGroupString": "InControlActionGroupString_Interact_Down",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 0,
+		"actionSubType": 2,
+		"isSettingComboKey": true,
+		"defaultKeys": "Tab",
+		"defaultInControlTypes": [
+			"LeftBumper"
+		],
+		"DataImpl": {},
+		"actionName": "Interact_Down"
+	},
+	{
+		"actionGroup": 223,
+		"actionGroupString": "InControlActionGroupString_JUMP",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 3,
+		"actionSubType": 22,
+		"isSettingComboKey": true,
+		"defaultKeys": "SPACE",
+		"defaultInControlTypes": [
+			"Action4"
+		],
+		"DataImpl": {},
+		"actionName": "JUMP"
+	},
+	{
+		"actionGroup": 234,
+		"actionGroupString": "InControlActionGroupString_Joystick_Release",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 6,
+		"actionSubType": 25,
+		"isSettingComboKey": false,
+		"defaultKeys": "V",
+		"defaultInControlTypes": [
+			"LeftTrigger"
+		],
+		"DataImpl": {},
+		"actionName": "Joystick_Release"
+	},
+	{
+		"actionGroup": 322,
+		"actionGroupString": "InControlActionGroupString_Joystick_Release",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 6,
+		"actionSubType": 27,
+		"isSettingComboKey": false,
+		"defaultKeys": "V",
+		"defaultInControlTypes": [
+			"LeftTrigger"
+		],
+		"DataImpl": {},
+		"actionName": "Joystick_Release_1"
+	},
+	{
+		"actionGroup": 404,
+		"actionGroupString": "InControlActionGroupString_Joystick_Release_ChapterMoon",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 6,
+		"actionSubType": 29,
+		"isSettingComboKey": false,
+		"defaultKeys": "V",
+		"defaultInControlTypes": [
+			"LeftBumper"
+		],
+		"DataImpl": {},
+		"actionName": "Joystick_Release_ChapterMoon"
+	},
+	{
+		"actionGroup": 15,
+		"actionGroupString": "InControlActionGroupString_KeySwapAvatar1",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 0,
+		"actionSubType": 2,
+		"isSettingComboKey": true,
+		"defaultKeys": "Key1",
+		"defaultInControlTypes": [
+			"LeftTrigger"
+		],
+		"DataImpl": {},
+		"actionName": "KeySwapAvatar1"
+	},
+	{
+		"actionGroup": 16,
+		"actionGroupString": "InControlActionGroupString_KeySwapAvatar2",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 0,
+		"actionSubType": 2,
+		"isSettingComboKey": true,
+		"defaultKeys": "Key2",
+		"defaultInControlTypes": [
+			"RightTrigger"
+		],
+		"DataImpl": {},
+		"actionName": "KeySwapAvatar2"
+	},
+	{
+		"actionGroup": 428,
+		"actionGroupString": "InControlActionGroupString_Level_Susanna_Game_A",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 9,
+		"actionSubType": 32,
+		"isSettingComboKey": false,
+		"defaultKeys": "A",
+		"defaultInControlTypes": [
+			"DPadLeft"
+		],
+		"DataImpl": {},
+		"actionName": "Level_Susanna_Game_A"
+	},
+	{
+		"actionGroup": 430,
+		"actionGroupString": "InControlActionGroupString_Level_Susanna_Game_D",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 9,
+		"actionSubType": 32,
+		"isSettingComboKey": false,
+		"defaultKeys": "D",
+		"defaultInControlTypes": [
+			"DPadRight"
+		],
+		"DataImpl": {},
+		"actionName": "Level_Susanna_Game_D"
+	},
+	{
+		"actionGroup": 434,
+		"actionGroupString": "InControlActionGroupString_Level_Susanna_Game_I",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 9,
+		"actionSubType": 32,
+		"isSettingComboKey": false,
+		"defaultKeys": "I",
+		"defaultInControlTypes": [
+			"Action4"
+		],
+		"DataImpl": {},
+		"actionName": "Level_Susanna_Game_I"
+	},
+	{
+		"actionGroup": 431,
+		"actionGroupString": "InControlActionGroupString_Level_Susanna_Game_J",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 9,
+		"actionSubType": 32,
+		"isSettingComboKey": false,
+		"defaultKeys": "J",
+		"defaultInControlTypes": [
+			"Action3"
+		],
+		"DataImpl": {},
+		"actionName": "Level_Susanna_Game_J"
+	},
+	{
+		"actionGroup": 432,
+		"actionGroupString": "InControlActionGroupString_Level_Susanna_Game_K",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 9,
+		"actionSubType": 32,
+		"isSettingComboKey": false,
+		"defaultKeys": "K",
+		"defaultInControlTypes": [
+			"Action1"
+		],
+		"DataImpl": {},
+		"actionName": "Level_Susanna_Game_K"
+	},
+	{
+		"actionGroup": 433,
+		"actionGroupString": "InControlActionGroupString_Level_Susanna_Game_L",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 9,
+		"actionSubType": 32,
+		"isSettingComboKey": false,
+		"defaultKeys": "L",
+		"defaultInControlTypes": [
+			"Action2"
+		],
+		"DataImpl": {},
+		"actionName": "Level_Susanna_Game_L"
+	},
+	{
+		"actionGroup": 429,
+		"actionGroupString": "InControlActionGroupString_Level_Susanna_Game_S",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 9,
+		"actionSubType": 32,
+		"isSettingComboKey": false,
+		"defaultKeys": "S",
+		"defaultInControlTypes": [
+			"DPadDown"
+		],
+		"DataImpl": {},
+		"actionName": "Level_Susanna_Game_S"
+	},
+	{
+		"actionGroup": 427,
+		"actionGroupString": "InControlActionGroupString_Level_Susanna_Game_W",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 9,
+		"actionSubType": 32,
+		"isSettingComboKey": false,
+		"defaultKeys": "W",
+		"defaultInControlTypes": [
+			"DPadUp"
+		],
+		"DataImpl": {},
+		"actionName": "Level_Susanna_Game_W"
+	},
+	{
+		"actionGroup": 18,
+		"actionGroupString": "InControlActionGroupString_MP_BreakOut",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 0,
+		"actionSubType": 2,
+		"isSettingComboKey": true,
+		"defaultKeys": "P",
+		"defaultInControlTypes": [
+			"LeftBumper+Action1"
+		],
+		"DataImpl": {},
+		"actionName": "MP_BreakOut"
+	},
+	{
+		"actionGroup": 114,
+		"actionGroupString": "InControlActionGroupString_MainMenu",
+		"bindingSettingsType": 4,
+		"HideInMobile": false,
+		"actionType": 1,
+		"actionSubType": 11,
+		"isSettingComboKey": true,
+		"defaultKeys": "Home",
+		"defaultInControlTypes": [
+			"Minus",
+			"Capture",
+			"Share",
+			"View",
+			"Back",
+			"Create"
+		],
+		"DataImpl": {},
+		"actionName": "MainMenu"
+	},
+	{
+		"actionGroup": 116,
+		"actionGroupString": "InControlActionGroupString_MouseDown",
+		"bindingSettingsType": 3,
+		"HideInMobile": true,
+		"actionType": 1,
+		"actionSubType": 11,
+		"isSettingComboKey": true,
+		"defaultKeys": "S",
+		"defaultInControlTypes": [
+			"LeftStickDown"
+		],
+		"DataImpl": {},
+		"actionName": "MouseDown"
+	},
+	{
+		"actionGroup": 117,
+		"actionGroupString": "InControlActionGroupString_MouseLeft",
+		"bindingSettingsType": 3,
+		"HideInMobile": true,
+		"actionType": 1,
+		"actionSubType": 11,
+		"isSettingComboKey": true,
+		"defaultKeys": "A",
+		"defaultInControlTypes": [
+			"LeftStickLeft"
+		],
+		"DataImpl": {},
+		"actionName": "MouseLeft"
+	},
+	{
+		"actionGroup": 118,
+		"actionGroupString": "InControlActionGroupString_MouseRight",
+		"bindingSettingsType": 3,
+		"HideInMobile": true,
+		"actionType": 1,
+		"actionSubType": 11,
+		"isSettingComboKey": true,
+		"defaultKeys": "D",
+		"defaultInControlTypes": [
+			"LeftStickRight"
+		],
+		"DataImpl": {},
+		"actionName": "MouseRight"
+	},
+	{
+		"actionGroup": 115,
+		"actionGroupString": "InControlActionGroupString_MouseUp",
+		"bindingSettingsType": 3,
+		"HideInMobile": true,
+		"actionType": 1,
+		"actionSubType": 11,
+		"isSettingComboKey": true,
+		"defaultKeys": "W",
+		"defaultInControlTypes": [
+			"LeftStickUp"
+		],
+		"DataImpl": {},
+		"actionName": "MouseUp"
+	},
+	{
+		"actionGroup": 120,
+		"actionGroupString": "InControlActionGroupString_MouseWhellDown",
+		"bindingSettingsType": 3,
+		"HideInMobile": true,
+		"actionType": 1,
+		"actionSubType": 11,
+		"isSettingComboKey": true,
+		"defaultKeys": "DownArrow",
+		"defaultInControlTypes": [
+			"RightStickDown"
+		],
+		"DataImpl": {},
+		"actionName": "MouseWhellDown"
+	},
+	{
+		"actionGroup": 121,
+		"actionGroupString": "InControlActionGroupString_MouseWhellLeft",
+		"bindingSettingsType": 3,
+		"HideInMobile": true,
+		"actionType": 1,
+		"actionSubType": 11,
+		"isSettingComboKey": true,
+		"defaultKeys": "LeftArrow",
+		"defaultInControlTypes": [
+			"RightStickLeft"
+		],
+		"DataImpl": {},
+		"actionName": "MouseWhellLeft"
+	},
+	{
+		"actionGroup": 122,
+		"actionGroupString": "InControlActionGroupString_MouseWhellRight",
+		"bindingSettingsType": 3,
+		"HideInMobile": true,
+		"actionType": 1,
+		"actionSubType": 11,
+		"isSettingComboKey": true,
+		"defaultKeys": "RightArrow",
+		"defaultInControlTypes": [
+			"RightStickRight"
+		],
+		"DataImpl": {},
+		"actionName": "MouseWhellRight"
+	},
+	{
+		"actionGroup": 119,
+		"actionGroupString": "InControlActionGroupString_MouseWhellUp",
+		"bindingSettingsType": 3,
+		"HideInMobile": true,
+		"actionType": 1,
+		"actionSubType": 11,
+		"isSettingComboKey": true,
+		"defaultKeys": "UpArrow",
+		"defaultInControlTypes": [
+			"RightStickUp"
+		],
+		"DataImpl": {},
+		"actionName": "MouseWhellUp"
+	},
+	{
+		"actionGroup": 32,
+		"actionGroupString": "InControlActionGroupString_MoveDown",
+		"bindingSettingsType": 3,
+		"HideInMobile": false,
+		"actionType": 0,
+		"actionSubType": 3,
+		"isSettingComboKey": true,
+		"defaultKeys": "S",
+		"defaultInControlTypes": [
+			"LeftStickDown"
+		],
+		"DataImpl": {},
+		"actionName": "MoveDown"
+	},
+	{
+		"actionGroup": 33,
+		"actionGroupString": "InControlActionGroupString_MoveLeft",
+		"bindingSettingsType": 3,
+		"HideInMobile": false,
+		"actionType": 0,
+		"actionSubType": 3,
+		"isSettingComboKey": true,
+		"defaultKeys": "A",
+		"defaultInControlTypes": [
+			"LeftStickLeft"
+		],
+		"DataImpl": {},
+		"actionName": "MoveLeft"
+	},
+	{
+		"actionGroup": 34,
+		"actionGroupString": "InControlActionGroupString_MoveRight",
+		"bindingSettingsType": 3,
+		"HideInMobile": false,
+		"actionType": 0,
+		"actionSubType": 3,
+		"isSettingComboKey": true,
+		"defaultKeys": "D",
+		"defaultInControlTypes": [
+			"LeftStickRight"
+		],
+		"DataImpl": {},
+		"actionName": "MoveRight"
+	},
+	{
+		"actionGroup": 31,
+		"actionGroupString": "InControlActionGroupString_MoveUp",
+		"bindingSettingsType": 3,
+		"HideInMobile": false,
+		"actionType": 0,
+		"actionSubType": 3,
+		"isSettingComboKey": true,
+		"defaultKeys": "W",
+		"defaultInControlTypes": [
+			"LeftStickUp"
+		],
+		"DataImpl": {},
+		"actionName": "MoveUp"
+	},
+	{
+		"actionGroup": 226,
+		"actionGroupString": "InControlActionGroupString_PWB_ATK",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 4,
+		"actionSubType": 23,
+		"isSettingComboKey": true,
+		"defaultKeys": "J",
+		"defaultInControlTypes": [
+			"Action2"
+		],
+		"DataImpl": {},
+		"actionName": "PWB_ATK"
+	},
+	{
+		"actionGroup": 227,
+		"actionGroupString": "InControlActionGroupString_PWB_SKL01",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 4,
+		"actionSubType": 23,
+		"isSettingComboKey": true,
+		"defaultKeys": "K",
+		"defaultInControlTypes": [
+			"Action1"
+		],
+		"DataImpl": {},
+		"actionName": "PWB_SKL01"
+	},
+	{
+		"actionGroup": 228,
+		"actionGroupString": "InControlActionGroupString_PWB_SKL02",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 4,
+		"actionSubType": 23,
+		"isSettingComboKey": true,
+		"defaultKeys": "I",
+		"defaultInControlTypes": [
+			"LeftTrigger"
+		],
+		"DataImpl": {},
+		"actionName": "PWB_SKL02"
+	},
+	{
+		"actionGroup": 111,
+		"actionGroupString": "InControlActionGroupString_PauseBtn",
+		"bindingSettingsType": 4,
+		"HideInMobile": false,
+		"actionType": 1,
+		"actionSubType": 11,
+		"isSettingComboKey": true,
+		"defaultKeys": "Escape",
+		"defaultInControlTypes": [
+			"Plus",
+			"Home",
+			"Options",
+			"Menu",
+			"Start"
+		],
+		"DataImpl": {},
+		"actionName": "PauseBtn"
+	},
+	{
+		"actionGroup": 112,
+		"actionGroupString": "InControlActionGroupString_Plot_Click_BG",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 1,
+		"actionSubType": 11,
+		"isSettingComboKey": true,
+		"defaultKeys": "Return",
+		"defaultInControlTypes": [
+			"Action2"
+		],
+		"DataImpl": {},
+		"actionName": "Plot_Click_BG"
+	},
+	{
+		"actionGroup": 101,
+		"actionGroupString": "InControlActionGroupString_Plot_Click_Skip",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 1,
+		"actionSubType": 10,
+		"isSettingComboKey": true,
+		"defaultKeys": "U",
+		"defaultInControlTypes": [
+			"Action3"
+		],
+		"DataImpl": {},
+		"actionName": "Plot_Click_Skip"
+	},
+	{
+		"actionGroup": 414,
+		"actionGroupString": "InControlActionGroupString_ATK",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 8,
+		"actionSubType": 30,
+		"isSettingComboKey": true,
+		"defaultKeys": "J",
+		"defaultInControlTypes": [
+			"RightBumper"
+		],
+		"DataImpl": {},
+		"actionName": "QPlat_ATK"
+	},
+	{
+		"actionGroup": 412,
+		"actionGroupString": "InControlActionGroupString_JUMP",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 8,
+		"actionSubType": 30,
+		"isSettingComboKey": true,
+		"defaultKeys": "SPACE",
+		"defaultInControlTypes": [
+			"Action2"
+		],
+		"DataImpl": {},
+		"actionName": "QPlat_Jump"
+	},
+	{
+		"actionGroup": 418,
+		"actionGroupString": "InControlActionGroupString_QPlat_SELECT1",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 8,
+		"actionSubType": 30,
+		"isSettingComboKey": true,
+		"defaultKeys": "LeftShift+Key1",
+		"defaultInControlTypes": [
+			"RightTrigger+Action1"
+		],
+		"DataImpl": {},
+		"actionName": "QPlat_SELECT1"
+	},
+	{
+		"actionGroup": 419,
+		"actionGroupString": "InControlActionGroupString_QPlat_SELECT2",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 8,
+		"actionSubType": 30,
+		"isSettingComboKey": true,
+		"defaultKeys": "LeftShift+Key2",
+		"defaultInControlTypes": [
+			"RightTrigger+Action2"
+		],
+		"DataImpl": {},
+		"actionName": "QPlat_SELECT2"
+	},
+	{
+		"actionGroup": 420,
+		"actionGroupString": "InControlActionGroupString_QPlat_SELECT3",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 8,
+		"actionSubType": 30,
+		"isSettingComboKey": true,
+		"defaultKeys": "LeftShift+Key3",
+		"defaultInControlTypes": [
+			"RightTrigger+Action3"
+		],
+		"DataImpl": {},
+		"actionName": "QPlat_SELECT3"
+	},
+	{
+		"actionGroup": 415,
+		"actionGroupString": "InControlActionSubTypeString_QPlatSkill",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 8,
+		"actionSubType": 30,
+		"isSettingComboKey": true,
+		"defaultKeys": "K",
+		"defaultInControlTypes": [
+			"Action1"
+		],
+		"DataImpl": {},
+		"actionName": "QPlat_SKL01"
+	},
+	{
+		"actionGroup": 413,
+		"actionGroupString": "InControlActionGroupString_SKL02",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 8,
+		"actionSubType": 30,
+		"isSettingComboKey": true,
+		"defaultKeys": "U",
+		"defaultInControlTypes": [
+			"Action4"
+		],
+		"DataImpl": {},
+		"actionName": "QPlat_Ultra"
+	},
+	{
+		"actionGroup": 208,
+		"actionGroupString": "InControlActionGroupString_ATK",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 2,
+		"actionSubType": 21,
+		"isSettingComboKey": true,
+		"defaultKeys": "J",
+		"defaultInControlTypes": [
+			"RightBumper"
+		],
+		"DataImpl": {},
+		"actionName": "Q_ATK"
+	},
+	{
+		"actionGroup": 213,
+		"actionGroupString": "InControlActionGroupString_Q_KeySwapAvatar1",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 2,
+		"actionSubType": 21,
+		"isSettingComboKey": true,
+		"defaultKeys": "Key1",
+		"defaultInControlTypes": [
+			"LeftTrigger"
+		],
+		"DataImpl": {},
+		"actionName": "Q_KeySwapAvatar1"
+	},
+	{
+		"actionGroup": 214,
+		"actionGroupString": "InControlActionGroupString_Q_KeySwapAvatar2",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 2,
+		"actionSubType": 21,
+		"isSettingComboKey": true,
+		"defaultKeys": "Key2",
+		"defaultInControlTypes": [
+			"RightTrigger"
+		],
+		"DataImpl": {},
+		"actionName": "Q_KeySwapAvatar2"
+	},
+	{
+		"actionGroup": 216,
+		"actionGroupString": "InControlActionGroupString_RotateDown",
+		"bindingSettingsType": 3,
+		"HideInMobile": false,
+		"actionType": 2,
+		"actionSubType": 21,
+		"isSettingComboKey": true,
+		"defaultKeys": "DownArrow",
+		"defaultInControlTypes": [
+			"RightStickDown"
+		],
+		"DataImpl": {},
+		"actionName": "Q_RotateDown"
+	},
+	{
+		"actionGroup": 217,
+		"actionGroupString": "InControlActionGroupString_RotateLeft",
+		"bindingSettingsType": 3,
+		"HideInMobile": false,
+		"actionType": 2,
+		"actionSubType": 21,
+		"isSettingComboKey": true,
+		"defaultKeys": "LeftArrow",
+		"defaultInControlTypes": [
+			"RightStickLeft"
+		],
+		"DataImpl": {},
+		"actionName": "Q_RotateLeft"
+	},
+	{
+		"actionGroup": 218,
+		"actionGroupString": "InControlActionGroupString_RotateRight",
+		"bindingSettingsType": 3,
+		"HideInMobile": false,
+		"actionType": 2,
+		"actionSubType": 21,
+		"isSettingComboKey": true,
+		"defaultKeys": "RightArrow",
+		"defaultInControlTypes": [
+			"RightStickRight"
+		],
+		"DataImpl": {},
+		"actionName": "Q_RotateRight"
+	},
+	{
+		"actionGroup": 215,
+		"actionGroupString": "InControlActionGroupString_RotateUp",
+		"bindingSettingsType": 3,
+		"HideInMobile": false,
+		"actionType": 2,
+		"actionSubType": 21,
+		"isSettingComboKey": true,
+		"defaultKeys": "UpArrow",
+		"defaultInControlTypes": [
+			"RightStickUp"
+		],
+		"DataImpl": {},
+		"actionName": "Q_RotateUp"
+	},
+	{
+		"actionGroup": 209,
+		"actionGroupString": "InControlActionGroupString_Q_SKL01",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 2,
+		"actionSubType": 21,
+		"isSettingComboKey": true,
+		"defaultKeys": "K",
+		"defaultInControlTypes": [
+			"Action1"
+		],
+		"DataImpl": {},
+		"actionName": "Q_SKL01"
+	},
+	{
+		"actionGroup": 210,
+		"actionGroupString": "InControlActionGroupString_Q_SKL02",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 2,
+		"actionSubType": 21,
+		"isSettingComboKey": true,
+		"defaultKeys": "I",
+		"defaultInControlTypes": [
+			"LeftBumper"
+		],
+		"DataImpl": {},
+		"actionName": "Q_SKL02"
+	},
+	{
+		"actionGroup": 211,
+		"actionGroupString": "InControlActionGroupString_SKL03",
+		"bindingSettingsType": 0,
+		"HideInMobile": false,
+		"actionType": 2,
+		"actionSubType": 21,
+		"isSettingComboKey": true,
+		"defaultKeys": "H",
+		"defaultInControlTypes": [
+			"Action3"
+		],
+		"DataImpl": {},
+		"actionName": "Q_SKL03"
+	},
+	{
+		"actionGroup": 212,
+		"actionGroupString": "InControlActionGroupString_Q_SKL_CUSTOM",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 2,
+		"actionSubType": 21,
+		"isSettingComboKey": true,
+		"defaultKeys": "F",
+		"defaultInControlTypes": [
+			"DPadLeft"
+		],
+		"DataImpl": {},
+		"actionName": "Q_SKL_CUSTOM"
+	},
+	{
+		"actionGroup": 422,
+		"actionGroupString": "InControlActionGroupString_Qcandy_Emoji",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 7,
+		"actionSubType": 28,
+		"isSettingComboKey": false,
+		"defaultKeys": "F",
+		"defaultInControlTypes": [
+			"LeftTrigger"
+		],
+		"DataImpl": {},
+		"actionName": "Qcandy_Emoji"
+	},
+	{
+		"actionGroup": 423,
+		"actionGroupString": "InControlActionGroupString_Qcandy_Emoji_01",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 7,
+		"actionSubType": 28,
+		"isSettingComboKey": false,
+		"defaultKeys": "Key1",
+		"defaultInControlTypes": [
+			"RightTrigger+Action1"
+		],
+		"DataImpl": {},
+		"actionName": "Qcandy_Emoji_01"
+	},
+	{
+		"actionGroup": 424,
+		"actionGroupString": "InControlActionGroupString_Qcandy_Emoji_02",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 7,
+		"actionSubType": 28,
+		"isSettingComboKey": false,
+		"defaultKeys": "Key2",
+		"defaultInControlTypes": [
+			"RightTrigger+Action2"
+		],
+		"DataImpl": {},
+		"actionName": "Qcandy_Emoji_02"
+	},
+	{
+		"actionGroup": 425,
+		"actionGroupString": "InControlActionGroupString_Qcandy_Emoji_03",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 7,
+		"actionSubType": 28,
+		"isSettingComboKey": false,
+		"defaultKeys": "Key3",
+		"defaultInControlTypes": [
+			"RightTrigger+Action3"
+		],
+		"DataImpl": {},
+		"actionName": "Qcandy_Emoji_03"
+	},
+	{
+		"actionGroup": 426,
+		"actionGroupString": "InControlActionGroupString_Qcandy_Emoji_04",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 7,
+		"actionSubType": 28,
+		"isSettingComboKey": false,
+		"defaultKeys": "Key4",
+		"defaultInControlTypes": [
+			"RightTrigger+Action4"
+		],
+		"DataImpl": {},
+		"actionName": "Qcandy_Emoji_04"
+	},
+	{
+		"actionGroup": 401,
+		"actionGroupString": "InControlActionGroupString_JUMP",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 7,
+		"actionSubType": 28,
+		"isSettingComboKey": true,
+		"defaultKeys": "SPACE",
+		"defaultInControlTypes": [
+			"Action1"
+		],
+		"DataImpl": {},
+		"actionName": "Qcandy_Jump"
+	},
+	{
+		"actionGroup": 402,
+		"actionGroupString": "InControlActionSubTypeString_QCandySkill1",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 7,
+		"actionSubType": 28,
+		"isSettingComboKey": true,
+		"defaultKeys": "J",
+		"defaultInControlTypes": [
+			"Action2"
+		],
+		"DataImpl": {},
+		"actionName": "Qcandy_SKL01"
+	},
+	{
+		"actionGroup": 403,
+		"actionGroupString": "InControlActionSubTypeString_QCandySkill2",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 7,
+		"actionSubType": 28,
+		"isSettingComboKey": true,
+		"defaultKeys": "I",
+		"defaultInControlTypes": [
+			"Action4"
+		],
+		"DataImpl": {},
+		"actionName": "Qcandy_SKL02"
+	},
+	{
+		"actionGroup": 43,
+		"actionGroupString": "InControlActionGroupString_RotateDown",
+		"bindingSettingsType": 3,
+		"HideInMobile": false,
+		"actionType": 0,
+		"actionSubType": 4,
+		"isSettingComboKey": true,
+		"defaultKeys": "M",
+		"defaultInControlTypes": [
+			"RightStickDown"
+		],
+		"DataImpl": {},
+		"actionName": "RotateDown"
+	},
+	{
+		"actionGroup": 44,
+		"actionGroupString": "InControlActionGroupString_RotateLeft",
+		"bindingSettingsType": 3,
+		"HideInMobile": false,
+		"actionType": 0,
+		"actionSubType": 4,
+		"isSettingComboKey": true,
+		"defaultKeys": "Q",
+		"defaultInControlTypes": [
+			"RightStickLeft"
+		],
+		"DataImpl": {},
+		"actionName": "RotateLeft"
+	},
+	{
+		"actionGroup": 45,
+		"actionGroupString": "InControlActionGroupString_RotateRight",
+		"bindingSettingsType": 3,
+		"HideInMobile": false,
+		"actionType": 0,
+		"actionSubType": 4,
+		"isSettingComboKey": true,
+		"defaultKeys": "E",
+		"defaultInControlTypes": [
+			"RightStickRight"
+		],
+		"DataImpl": {},
+		"actionName": "RotateRight"
+	},
+	{
+		"actionGroup": 42,
+		"actionGroupString": "InControlActionGroupString_RotateUp",
+		"bindingSettingsType": 3,
+		"HideInMobile": false,
+		"actionType": 0,
+		"actionSubType": 4,
+		"isSettingComboKey": true,
+		"defaultKeys": "N",
+		"defaultInControlTypes": [
+			"RightStickUp"
+		],
+		"DataImpl": {},
+		"actionName": "RotateUp"
+	},
+	{
+		"actionGroup": 12,
+		"actionGroupString": "InControlActionGroupString_SKL01",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 0,
+		"actionSubType": 1,
+		"isSettingComboKey": true,
+		"defaultKeys": "K",
+		"defaultInControlTypes": [
+			"Action1"
+		],
+		"DataImpl": {},
+		"actionName": "SKL01"
+	},
+	{
+		"actionGroup": 13,
+		"actionGroupString": "InControlActionGroupString_SKL02",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 0,
+		"actionSubType": 1,
+		"isSettingComboKey": true,
+		"defaultKeys": "I",
+		"defaultInControlTypes": [
+			"Action4"
+		],
+		"DataImpl": {},
+		"actionName": "SKL02"
+	},
+	{
+		"actionGroup": 14,
+		"actionGroupString": "InControlActionGroupString_SKL_CARD",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 0,
+		"actionSubType": 1,
+		"isSettingComboKey": true,
+		"defaultKeys": "U",
+		"defaultInControlTypes": [
+			"Action3"
+		],
+		"DataImpl": {},
+		"actionName": "SKL_CARD"
+	},
+	{
+		"actionGroup": 232,
+		"actionGroupString": "InControlActionGroupString_SKL_COOP_1",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 3,
+		"actionSubType": 24,
+		"isSettingComboKey": true,
+		"defaultKeys": "L",
+		"defaultInControlTypes": [
+			"DPadRight"
+		],
+		"DataImpl": {},
+		"actionName": "SKL_COOP_1"
+	},
+	{
+		"actionGroup": 21,
+		"actionGroupString": "InControlActionGroupString_SKL_CUSTOM",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 0,
+		"actionSubType": 2,
+		"isSettingComboKey": true,
+		"defaultKeys": "F",
+		"defaultInControlTypes": [
+			"DPadLeft"
+		],
+		"DataImpl": {},
+		"actionName": "SKL_CUSTOM"
+	},
+	{
+		"actionGroup": 15,
+		"actionGroupString": "InControlActionGroupString_SKL_CUSTOM2",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 0,
+		"actionSubType": 2,
+		"isSettingComboKey": true,
+		"defaultKeys": "Key1",
+		"defaultInControlTypes": [
+			"LeftTrigger"
+		],
+		"DataImpl": {},
+		"actionName": "SKL_CUSTOM2"
+	},
+	{
+		"actionGroup": 16,
+		"actionGroupString": "InControlActionGroupString_SKL_CUSTOM3",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 0,
+		"actionSubType": 2,
+		"isSettingComboKey": true,
+		"defaultKeys": "Key2",
+		"defaultInControlTypes": [
+			"RightTrigger"
+		],
+		"DataImpl": {},
+		"actionName": "SKL_CUSTOM3"
+	},
+	{
+		"actionGroup": 14,
+		"actionGroupString": "InControlActionGroupString_SKL_WEAPON",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 0,
+		"actionSubType": 1,
+		"isSettingComboKey": true,
+		"defaultKeys": "U",
+		"defaultInControlTypes": [
+			"Action3"
+		],
+		"DataImpl": {},
+		"actionName": "SKL_CUSTOM_WEAPON"
+	},
+	{
+		"actionGroup": 12,
+		"actionGroupString": "InControlActionGroupString_SKL_FUNC",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 0,
+		"actionSubType": 1,
+		"isSettingComboKey": true,
+		"defaultKeys": "K",
+		"defaultInControlTypes": [
+			"Action1"
+		],
+		"DataImpl": {},
+		"actionName": "SKL_FUNC"
+	},
+	{
+		"actionGroup": 16,
+		"actionGroupString": "InControlActionGroupString_SKL_MP_SUBTEAMSKILL",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 0,
+		"actionSubType": 2,
+		"isSettingComboKey": true,
+		"defaultKeys": "Key2",
+		"defaultInControlTypes": [
+			"RightTrigger"
+		],
+		"DataImpl": {},
+		"actionName": "SKL_MP_SUBTEAMSKILL"
+	},
+	{
+		"actionGroup": 15,
+		"actionGroupString": "InControlActionGroupString_SKL_MP_TEAMSKILL",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 0,
+		"actionSubType": 2,
+		"isSettingComboKey": true,
+		"defaultKeys": "Key1",
+		"defaultInControlTypes": [
+			"LeftTrigger"
+		],
+		"DataImpl": {},
+		"actionName": "SKL_MP_TEAMSKILL"
+	},
+	{
+		"actionGroup": 22,
+		"actionGroupString": "InControlActionGroupString_SKL_PET",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 0,
+		"actionSubType": 2,
+		"isSettingComboKey": true,
+		"defaultKeys": "L",
+		"defaultInControlTypes": [
+			"DPadRight"
+		],
+		"DataImpl": {},
+		"actionName": "SKL_PET"
+	},
+	{
+		"actionGroup": 46,
+		"actionGroupString": "InControlActionGroupString_SKL_TEAMULTRA",
+		"bindingSettingsType": 0,
+		"HideInMobile": false,
+		"actionType": 0,
+		"actionSubType": 2,
+		"isSettingComboKey": true,
+		"defaultKeys": "H",
+		"defaultInControlTypes": [
+			"DPadLeft"
+		],
+		"DataImpl": {},
+		"actionName": "SKL_TEAMULTRA"
+	},
+	{
+		"actionGroup": 14,
+		"actionGroupString": "InControlActionGroupString_SKL_WEAPON",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 0,
+		"actionSubType": 1,
+		"isSettingComboKey": true,
+		"defaultKeys": "U",
+		"defaultInControlTypes": [
+			"Action3"
+		],
+		"DataImpl": {},
+		"actionName": "SKL_WEAPON"
+	},
+	{
+		"actionGroup": 41,
+		"actionGroupString": "InControlActionGroupString_SetRotateToFaceDirection",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 0,
+		"actionSubType": 4,
+		"isSettingComboKey": true,
+		"defaultKeys": "F2",
+		"defaultInControlTypes": [
+			"RightStickButton"
+		],
+		"DataImpl": {},
+		"actionName": "SetRotateToFaceDirection"
+	},
+	{
+		"actionGroup": 308,
+		"actionGroupString": "InControlActionGroupString_SwithSkill",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 0,
+		"actionSubType": 2,
+		"isSettingComboKey": true,
+		"defaultKeys": "C",
+		"defaultInControlTypes": [
+			"LeftBumper+Action4"
+		],
+		"DataImpl": {},
+		"actionName": "SwithSkill"
+	},
+	{
+		"actionGroup": 302,
+		"actionGroupString": "InControlActionGroupString_Total_CANCEL",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 1,
+		"actionSubType": 11,
+		"isSettingComboKey": true,
+		"defaultKeys": "U",
+		"defaultInControlTypes": [
+			"LeftTrigger+Action3"
+		],
+		"DataImpl": {},
+		"actionName": "Total_CANCEL"
+	},
+	{
+		"actionGroup": 302,
+		"actionGroupString": "InControlActionGroupString_Total_CANCEL_2",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 1,
+		"actionSubType": 11,
+		"isSettingComboKey": true,
+		"defaultKeys": "U",
+		"defaultInControlTypes": [
+			"LeftTrigger+Action3"
+		],
+		"DataImpl": {},
+		"actionName": "Total_CANCEL_2"
+	},
+	{
+		"actionGroup": 302,
+		"actionGroupString": "InControlActionGroupString_Total_CANCEL_3",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 1,
+		"actionSubType": 11,
+		"isSettingComboKey": true,
+		"defaultKeys": "U",
+		"defaultInControlTypes": [
+			"LeftTrigger+Action3"
+		],
+		"DataImpl": {},
+		"actionName": "Total_CANCEL_3"
+	},
+	{
+		"actionGroup": 302,
+		"actionGroupString": "InControlActionGroupString_Total_CANCEL_4",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 1,
+		"actionSubType": 11,
+		"isSettingComboKey": true,
+		"defaultKeys": "U",
+		"defaultInControlTypes": [
+			"LeftTrigger+Action3"
+		],
+		"DataImpl": {},
+		"actionName": "Total_CANCEL_4"
+	},
+	{
+		"actionGroup": 301,
+		"actionGroupString": "InControlActionGroupString_Total_OK",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 1,
+		"actionSubType": 11,
+		"isSettingComboKey": true,
+		"defaultKeys": "I",
+		"defaultInControlTypes": [
+			"LeftTrigger+Action4"
+		],
+		"DataImpl": {},
+		"actionName": "Total_OK"
+	},
+	{
+		"actionGroup": 301,
+		"actionGroupString": "InControlActionGroupString_Total_OK_2",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 1,
+		"actionSubType": 11,
+		"isSettingComboKey": true,
+		"defaultKeys": "I",
+		"defaultInControlTypes": [
+			"LeftTrigger+Action4"
+		],
+		"DataImpl": {},
+		"actionName": "Total_OK_2"
+	},
+	{
+		"actionGroup": 301,
+		"actionGroupString": "InControlActionGroupString_Total_OK_3",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 1,
+		"actionSubType": 11,
+		"isSettingComboKey": true,
+		"defaultKeys": "I",
+		"defaultInControlTypes": [
+			"LeftTrigger+Action4"
+		],
+		"DataImpl": {},
+		"actionName": "Total_OK_3"
+	},
+	{
+		"actionGroup": 301,
+		"actionGroupString": "InControlActionGroupString_Total_OK_4",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 1,
+		"actionSubType": 11,
+		"isSettingComboKey": true,
+		"defaultKeys": "I",
+		"defaultInControlTypes": [
+			"LeftTrigger+Action4"
+		],
+		"DataImpl": {},
+		"actionName": "Total_OK_4"
+	},
+	{
+		"actionGroup": 301,
+		"actionGroupString": "InControlActionGroupString_Total_OK_5",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 1,
+		"actionSubType": 11,
+		"isSettingComboKey": true,
+		"defaultKeys": "I",
+		"defaultInControlTypes": [
+			"Action4"
+		],
+		"DataImpl": {},
+		"actionName": "Total_OK_5"
+	},
+	{
+		"actionGroup": 301,
+		"actionGroupString": "InControlActionGroupString_Total_OK_6",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 1,
+		"actionSubType": 11,
+		"isSettingComboKey": true,
+		"defaultKeys": "P",
+		"defaultInControlTypes": [
+			"LeftTrigger+Action4"
+		],
+		"DataImpl": {},
+		"actionName": "Total_OK_6"
+	},
+	{
+		"actionGroup": 301,
+		"actionGroupString": "InControlActionGroupString_Total_OK_7",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 1,
+		"actionSubType": 11,
+		"isSettingComboKey": true,
+		"defaultKeys": "P",
+		"defaultInControlTypes": [
+			"LeftTrigger+Action4"
+		],
+		"DataImpl": {},
+		"actionName": "Total_OK_7"
+	},
+	{
+		"actionGroup": 303,
+		"actionGroupString": "InControlActionGroupString_Total_OTHER1",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 1,
+		"actionSubType": 11,
+		"isSettingComboKey": true,
+		"defaultKeys": "K",
+		"defaultInControlTypes": [
+			"LeftBumper+Action4"
+		],
+		"DataImpl": {},
+		"actionName": "Total_OTHER1"
+	},
+	{
+		"actionGroup": 303,
+		"actionGroupString": "InControlActionGroupString_Total_OTHER1_2",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 1,
+		"actionSubType": 11,
+		"isSettingComboKey": true,
+		"defaultKeys": "K",
+		"defaultInControlTypes": [
+			"LeftBumper+Action4"
+		],
+		"DataImpl": {},
+		"actionName": "Total_OTHER1_2"
+	},
+	{
+		"actionGroup": 303,
+		"actionGroupString": "InControlActionGroupString_Total_OTHER1_3",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 1,
+		"actionSubType": 11,
+		"isSettingComboKey": true,
+		"defaultKeys": "K",
+		"defaultInControlTypes": [
+			"LeftBumper+Action4"
+		],
+		"DataImpl": {},
+		"actionName": "Total_OTHER1_3"
+	},
+	{
+		"actionGroup": 303,
+		"actionGroupString": "InControlActionGroupString_Total_OTHER1_4",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 1,
+		"actionSubType": 11,
+		"isSettingComboKey": true,
+		"defaultKeys": "K",
+		"defaultInControlTypes": [
+			"LeftBumper+Action4"
+		],
+		"DataImpl": {},
+		"actionName": "Total_OTHER1_4"
+	},
+	{
+		"actionGroup": 304,
+		"actionGroupString": "InControlActionGroupString_Total_OTHER2",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 1,
+		"actionSubType": 11,
+		"isSettingComboKey": true,
+		"defaultKeys": "J",
+		"defaultInControlTypes": [
+			"LeftBumper+Action3"
+		],
+		"DataImpl": {},
+		"actionName": "Total_OTHER2"
+	},
+	{
+		"actionGroup": 304,
+		"actionGroupString": "InControlActionGroupString_Total_OTHER2_2",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 1,
+		"actionSubType": 11,
+		"isSettingComboKey": true,
+		"defaultKeys": "J",
+		"defaultInControlTypes": [
+			"LeftBumper+Action3"
+		],
+		"DataImpl": {},
+		"actionName": "Total_OTHER2_2"
+	},
+	{
+		"actionGroup": 304,
+		"actionGroupString": "InControlActionGroupString_Total_OTHER2_3",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 1,
+		"actionSubType": 11,
+		"isSettingComboKey": true,
+		"defaultKeys": "J",
+		"defaultInControlTypes": [
+			"LeftBumper+Action3"
+		],
+		"DataImpl": {},
+		"actionName": "Total_OTHER2_3"
+	},
+	{
+		"actionGroup": 304,
+		"actionGroupString": "InControlActionGroupString_Total_OTHER2_4",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 1,
+		"actionSubType": 11,
+		"isSettingComboKey": true,
+		"defaultKeys": "J",
+		"defaultInControlTypes": [
+			"LeftBumper+Action3"
+		],
+		"DataImpl": {},
+		"actionName": "Total_OTHER2_4"
+	},
+	{
+		"actionGroup": 305,
+		"actionGroupString": "InControlActionGroupString_Total_SELECT1",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 1,
+		"actionSubType": 11,
+		"isSettingComboKey": true,
+		"defaultKeys": "LeftShift+Key1",
+		"defaultInControlTypes": [
+			"RightTrigger+Action1"
+		],
+		"DataImpl": {},
+		"actionName": "Total_SELECT1"
+	},
+	{
+		"actionGroup": 306,
+		"actionGroupString": "InControlActionGroupString_Total_SELECT2",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 1,
+		"actionSubType": 11,
+		"isSettingComboKey": true,
+		"defaultKeys": "LeftShift+Key2",
+		"defaultInControlTypes": [
+			"RightTrigger+Action2"
+		],
+		"DataImpl": {},
+		"actionName": "Total_SELECT2"
+	},
+	{
+		"actionGroup": 307,
+		"actionGroupString": "InControlActionGroupString_Total_SELECT3",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 1,
+		"actionSubType": 11,
+		"isSettingComboKey": true,
+		"defaultKeys": "LeftShift+Key3",
+		"defaultInControlTypes": [
+			"RightTrigger+Action3"
+		],
+		"DataImpl": {},
+		"actionName": "Total_SELECT3"
+	},
+	{
+		"actionGroup": 102,
+		"actionGroupString": "InControlActionGroupString_VideoDisplay_BG",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 1,
+		"actionSubType": 10,
+		"isSettingComboKey": true,
+		"defaultKeys": "I",
+		"defaultInControlTypes": [
+			"Action4"
+		],
+		"DataImpl": {},
+		"actionName": "VideoDisplay_BG"
+	},
+	{
+		"actionGroup": 101,
+		"actionGroupString": "InControlActionGroupString_VideoDisplay_Skip",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 1,
+		"actionSubType": 10,
+		"isSettingComboKey": true,
+		"defaultKeys": "U",
+		"defaultInControlTypes": [
+			"Action3"
+		],
+		"DataImpl": {},
+		"actionName": "VideoDisplay_Skip"
+	},
+	{
+		"actionGroup": 101,
+		"actionGroupString": "InControlActionGroupString_VideoTutorial_Skip",
+		"bindingSettingsType": 1,
+		"HideInMobile": false,
+		"actionType": 1,
+		"actionSubType": 10,
+		"isSettingComboKey": true,
+		"defaultKeys": "U",
+		"defaultInControlTypes": [
+			"Action3"
+		],
+		"DataImpl": {},
+		"actionName": "VideoTutorial_Skip"
+	}
+]

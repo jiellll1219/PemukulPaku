@@ -1,0 +1,83 @@
+[
+	{
+		"UnlockItemID": 118972,
+		"CoinMaterialID": 118971,
+		"DailyLimit": 200,
+		"ActivityMedalID": 101120,
+		"InviteStageID": 10310200,
+		"InLevelTrialAvatarID": 1463,
+		"MedalUnlockRank": 3000,
+		"MedalHighestRank": 5000,
+		"MapPoolList": [
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9,
+			10,
+			11,
+			12,
+			13,
+			14,
+			15,
+			16,
+			17,
+			18,
+			19,
+			20,
+			21,
+			22
+		],
+		"PVPCloseTime": {
+			"TimeStampForBakedReader": 1668657599
+		},
+		"PVPRequireSite": 2090102,
+		"DefaultAvatar": 101,
+		"TitlePath": "",
+		"MainPagePath": "",
+		"DataImpl": {},
+		"ActivityID": 1001
+	},
+	{
+		"UnlockItemID": 126601,
+		"CoinMaterialID": 126600,
+		"DailyLimit": 200,
+		"ActivityMedalID": 101128,
+		"InviteStageID": 10310200,
+		"InLevelTrialAvatarID": 1463,
+		"MedalUnlockRank": 3000,
+		"MedalHighestRank": 5000,
+		"MapPoolList": [
+			26,
+			27,
+			28,
+			29,
+			30,
+			31,
+			32,
+			33,
+			34,
+			35,
+			36,
+			37,
+			38,
+			39,
+			40,
+			41,
+			42
+		],
+		"PVPCloseTime": {
+			"TimeStampForBakedReader": 1684382399
+		},
+		"PVPRequireSite": 0,
+		"DefaultAvatar": 101,
+		"TitlePath": "SpriteOutput/QCandyPVP/Title",
+		"MainPagePath": "Stage/Stage_FallGuys/Stage_FallGuys_BackGround",
+		"DataImpl": {},
+		"ActivityID": 2001
+	}
+]

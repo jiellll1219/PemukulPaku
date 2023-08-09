@@ -1,0 +1,610 @@
+[
+	{
+		"ModelPath": "Entities/Monster/Qmonster/QP_GD_010/QP_GD_010_MonsterUI",
+		"OffsetY": 0.43,
+		"RotationY": 151,
+		"Scale": 1,
+		"Weight": 22,
+		"MonsterName": {
+			"hash": -2029977209
+		},
+		"MonsterDesc": {
+			"hash": 1441731213
+		},
+		"Solution": {
+			"hash": 1915404001
+		},
+		"MonsterIcon": "SpriteOutput/PlatformShooter/QuestBossIcon/QP_GD_010",
+		"DataImpl": {},
+		"MonsterID": 110
+	},
+	{
+		"ModelPath": "Entities/Monster/Qmonster/QP_GD_011/QP_GD_011_MonsterUI",
+		"OffsetY": 0.43,
+		"RotationY": 151,
+		"Scale": 1,
+		"Weight": 21,
+		"MonsterName": {
+			"hash": -2029977208
+		},
+		"MonsterDesc": {
+			"hash": 1441731214
+		},
+		"Solution": {
+			"hash": 1915404002
+		},
+		"MonsterIcon": "SpriteOutput/PlatformShooter/QuestBossIcon/QP_GD_011",
+		"DataImpl": {},
+		"MonsterID": 111
+	},
+	{
+		"ModelPath": "Entities/Monster/Qmonster/QP_GD_020/QP_GD_020_MonsterUI",
+		"OffsetY": 0.9,
+		"RotationY": 151,
+		"Scale": 1,
+		"Weight": 20,
+		"MonsterName": {
+			"hash": -2029977178
+		},
+		"MonsterDesc": {
+			"hash": 1441731244
+		},
+		"Solution": {
+			"hash": 1915404032
+		},
+		"MonsterIcon": "SpriteOutput/PlatformShooter/QuestBossIcon/QP_GD_020",
+		"DataImpl": {},
+		"MonsterID": 120
+	},
+	{
+		"ModelPath": "Entities/Monster/Qmonster/QP_GD_030/QP_GD_030_MonsterUI",
+		"OffsetY": 0.97,
+		"RotationY": 151,
+		"Scale": 1,
+		"Weight": 16,
+		"MonsterName": {
+			"hash": -2029977147
+		},
+		"MonsterDesc": {
+			"hash": 1441731275
+		},
+		"Solution": {
+			"hash": 1915404063
+		},
+		"MonsterIcon": "SpriteOutput/PlatformShooter/QuestBossIcon/QP_GD_030",
+		"DataImpl": {},
+		"MonsterID": 130
+	},
+	{
+		"ModelPath": "Entities/Monster/Qmonster/QP_GD_040/QP_GD_040_MonsterUI",
+		"OffsetY": 0.97,
+		"RotationY": 160,
+		"Scale": 1,
+		"Weight": 15,
+		"MonsterName": {
+			"hash": -2029977116
+		},
+		"MonsterDesc": {
+			"hash": 1441731306
+		},
+		"Solution": {
+			"hash": 1915404094
+		},
+		"MonsterIcon": "SpriteOutput/PlatformShooter/QuestBossIcon/QP_GD_040",
+		"DataImpl": {},
+		"MonsterID": 140
+	},
+	{
+		"ModelPath": "Entities/Monster/Qmonster/QP_GD_050/QP_GD_050_MonsterUI",
+		"OffsetY": 1.29,
+		"RotationY": 151,
+		"Scale": 1,
+		"Weight": 14,
+		"MonsterName": {
+			"hash": -2029977085
+		},
+		"MonsterDesc": {
+			"hash": 1441731337
+		},
+		"Solution": {
+			"hash": 1915404125
+		},
+		"MonsterIcon": "SpriteOutput/PlatformShooter/QuestBossIcon/QP_GD_050",
+		"DataImpl": {},
+		"MonsterID": 150
+	},
+	{
+		"ModelPath": "Entities/Monster/Qmonster/QP_FY_010/QP_FY_010_MonsterUI",
+		"OffsetY": 0.58,
+		"RotationY": 151,
+		"Scale": 0.9,
+		"Weight": 19,
+		"MonsterName": {
+			"hash": -2029976248
+		},
+		"MonsterDesc": {
+			"hash": 1441732174
+		},
+		"Solution": {
+			"hash": 1915404962
+		},
+		"MonsterIcon": "SpriteOutput/PlatformShooter/QuestBossIcon/QP_FY_010",
+		"DataImpl": {},
+		"MonsterID": 210
+	},
+	{
+		"ModelPath": "Entities/Monster/Qmonster/QP_FY_011/QP_FY_011_MonsterUI",
+		"OffsetY": 0.58,
+		"RotationY": 151,
+		"Scale": 0.9,
+		"Weight": 18,
+		"MonsterName": {
+			"hash": -2029976247
+		},
+		"MonsterDesc": {
+			"hash": 1441732175
+		},
+		"Solution": {
+			"hash": 1915404963
+		},
+		"MonsterIcon": "SpriteOutput/PlatformShooter/QuestBossIcon/QP_FY_011",
+		"DataImpl": {},
+		"MonsterID": 211
+	},
+	{
+		"ModelPath": "Entities/Monster/Qmonster/QP_FY_020/QP_FY_020_MonsterUI",
+		"OffsetY": 1.08,
+		"RotationY": 151,
+		"Scale": 1,
+		"Weight": 13,
+		"MonsterName": {
+			"hash": -2029976217
+		},
+		"MonsterDesc": {
+			"hash": 1441732205
+		},
+		"Solution": {
+			"hash": 1915404993
+		},
+		"MonsterIcon": "SpriteOutput/PlatformShooter/QuestBossIcon/QP_FY_020",
+		"DataImpl": {},
+		"MonsterID": 220
+	},
+	{
+		"ModelPath": "Entities/Monster/Qmonster/QP_FY_021/QP_FY_021_MonsterUI",
+		"OffsetY": 1.08,
+		"RotationY": 151,
+		"Scale": 1,
+		"Weight": 12,
+		"MonsterName": {
+			"hash": -2029976216
+		},
+		"MonsterDesc": {
+			"hash": 1441732206
+		},
+		"Solution": {
+			"hash": 1915404994
+		},
+		"MonsterIcon": "SpriteOutput/PlatformShooter/QuestBossIcon/QP_FY_021",
+		"DataImpl": {},
+		"MonsterID": 221
+	},
+	{
+		"ModelPath": "Entities/Monster/Qmonster/QP_FY_022/QP_FY_022_MonsterUI",
+		"OffsetY": 1.2,
+		"RotationY": 151,
+		"Scale": 1,
+		"Weight": 11,
+		"MonsterName": {
+			"hash": -2029976215
+		},
+		"MonsterDesc": {
+			"hash": 1441732207
+		},
+		"Solution": {
+			"hash": 1915404995
+		},
+		"MonsterIcon": "SpriteOutput/PlatformShooter/QuestBossIcon/QP_FY_022",
+		"DataImpl": {},
+		"MonsterID": 222
+	},
+	{
+		"ModelPath": "Entities/Monster/Qmonster/QP_FY_030/QP_FY_030_MonsterUI",
+		"OffsetY": 1.2,
+		"RotationY": 151,
+		"Scale": 1,
+		"Weight": 10,
+		"MonsterName": {
+			"hash": -2029976186
+		},
+		"MonsterDesc": {
+			"hash": 1441732236
+		},
+		"Solution": {
+			"hash": 1915405024
+		},
+		"MonsterIcon": "SpriteOutput/PlatformShooter/QuestBossIcon/QP_FY_030",
+		"DataImpl": {},
+		"MonsterID": 230
+	},
+	{
+		"ModelPath": "Entities/Monster/Qmonster/QP_FY_031/QP_FY_031_MonsterUI",
+		"OffsetY": 1.2,
+		"RotationY": 151,
+		"Scale": 1,
+		"Weight": 9,
+		"MonsterName": {
+			"hash": -2029976185
+		},
+		"MonsterDesc": {
+			"hash": 1441732237
+		},
+		"Solution": {
+			"hash": 1915405025
+		},
+		"MonsterIcon": "SpriteOutput/PlatformShooter/QuestBossIcon/QP_FY_031",
+		"DataImpl": {},
+		"MonsterID": 231
+	},
+	{
+		"ModelPath": "Entities/Monster/Qmonster/QP_FY_032/QP_FY_032_MonsterUI",
+		"OffsetY": 1.2,
+		"RotationY": 151,
+		"Scale": 1,
+		"Weight": 8,
+		"MonsterName": {
+			"hash": -2029976184
+		},
+		"MonsterDesc": {
+			"hash": 1441732238
+		},
+		"Solution": {
+			"hash": 1915405026
+		},
+		"MonsterIcon": "SpriteOutput/PlatformShooter/QuestBossIcon/QP_FY_032",
+		"DataImpl": {},
+		"MonsterID": 232
+	},
+	{
+		"ModelPath": "Entities/Monster/Qmonster/QP_FY_040/QP_FY_040_MonsterUI",
+		"OffsetY": 1,
+		"RotationY": 151,
+		"Scale": 0.8,
+		"Weight": 17,
+		"MonsterName": {
+			"hash": -2029976155
+		},
+		"MonsterDesc": {
+			"hash": 1441732267
+		},
+		"Solution": {
+			"hash": 1915405055
+		},
+		"MonsterIcon": "SpriteOutput/PlatformShooter/QuestBossIcon/QP_FY_040",
+		"DataImpl": {},
+		"MonsterID": 240
+	},
+	{
+		"ModelPath": "Entities/Monster/Qmonster/QP_FY_050/QP_FY_050_MonsterUI",
+		"OffsetY": -0.16,
+		"RotationY": 140,
+		"Scale": 1,
+		"Weight": 7,
+		"MonsterName": {
+			"hash": -2029976124
+		},
+		"MonsterDesc": {
+			"hash": 1441732298
+		},
+		"Solution": {
+			"hash": 1915405086
+		},
+		"MonsterIcon": "SpriteOutput/PlatformShooter/QuestBossIcon/QP_FY_050",
+		"DataImpl": {},
+		"MonsterID": 250
+	},
+	{
+		"ModelPath": "Entities/Monster/Qmonster/QP_BOSS_010/QP_BOSS_010_MonsterUI",
+		"OffsetY": 0.68,
+		"RotationY": 151,
+		"Scale": 0.4,
+		"Weight": 6,
+		"MonsterName": {
+			"hash": -2029975287
+		},
+		"MonsterDesc": {
+			"hash": 1441733135
+		},
+		"Solution": {
+			"hash": 1915405923
+		},
+		"MonsterIcon": "SpriteOutput/PlatformShooter/QuestBossIcon/QP_BOSS_010",
+		"DataImpl": {},
+		"MonsterID": 310
+	},
+	{
+		"ModelPath": "Entities/Monster/Qmonster/QP_BOSS_011/QP_BOSS_011_MonsterUI",
+		"OffsetY": 0.68,
+		"RotationY": 151,
+		"Scale": 0.4,
+		"Weight": 5,
+		"MonsterName": {
+			"hash": -2029975286
+		},
+		"MonsterDesc": {
+			"hash": 1441733136
+		},
+		"Solution": {
+			"hash": 1915405924
+		},
+		"MonsterIcon": "SpriteOutput/PlatformShooter/QuestBossIcon/QP_BOSS_011",
+		"DataImpl": {},
+		"MonsterID": 311
+	},
+	{
+		"ModelPath": "Entities/Monster/Qmonster/QP_BOSS_020/QP_BOSS_020_MonsterUI",
+		"OffsetY": 0.92,
+		"RotationY": 237.26,
+		"Scale": 0.3,
+		"Weight": 4,
+		"MonsterName": {
+			"hash": -2029975256
+		},
+		"MonsterDesc": {
+			"hash": 1441733166
+		},
+		"Solution": {
+			"hash": 1915405954
+		},
+		"MonsterIcon": "SpriteOutput/PlatformShooter/QuestBossIcon/QP_BOSS_020",
+		"DataImpl": {},
+		"MonsterID": 320
+	},
+	{
+		"ModelPath": "Entities/Monster/Qmonster/QP_BOSS_021/QP_BOSS_021_MonsterUI",
+		"OffsetY": 0.92,
+		"RotationY": 237.26,
+		"Scale": 0.3,
+		"Weight": 3,
+		"MonsterName": {
+			"hash": -2029975255
+		},
+		"MonsterDesc": {
+			"hash": 1441733167
+		},
+		"Solution": {
+			"hash": 1915405955
+		},
+		"MonsterIcon": "SpriteOutput/PlatformShooter/QuestBossIcon/QP_BOSS_021",
+		"DataImpl": {},
+		"MonsterID": 321
+	},
+	{
+		"ModelPath": "Entities/Monster/Qmonster/QP_BOSS_030/QP_BOSS_030_MonsterUI",
+		"OffsetY": 0.82,
+		"RotationY": 151,
+		"Scale": 0.5,
+		"Weight": 2,
+		"MonsterName": {
+			"hash": -2029975225
+		},
+		"MonsterDesc": {
+			"hash": 1441733197
+		},
+		"Solution": {
+			"hash": 1915405985
+		},
+		"MonsterIcon": "SpriteOutput/PlatformShooter/QuestBossIcon/QP_BOSS_030",
+		"DataImpl": {},
+		"MonsterID": 330
+	},
+	{
+		"ModelPath": "Entities/Monster/Qmonster/QP_BOSS_040/QP_BOSS_040_MonsterUI",
+		"OffsetY": 0.9,
+		"RotationY": 151,
+		"Scale": 0.1,
+		"Weight": 1,
+		"MonsterName": {
+			"hash": -2029975194
+		},
+		"MonsterDesc": {
+			"hash": 1441733228
+		},
+		"Solution": {
+			"hash": 1915406016
+		},
+		"MonsterIcon": "SpriteOutput/PlatformShooter/QuestBossIcon/QP_BOSS_040",
+		"DataImpl": {},
+		"MonsterID": 340
+	},
+	{
+		"ModelPath": "Entities/Monster/Qmonster/QP_BOSS_010/QP_BOSS_010_MonsterUI",
+		"OffsetY": 0.1,
+		"RotationY": 180,
+		"Scale": 2,
+		"Weight": 1,
+		"MonsterName": {
+			"hash": 1495215049
+		},
+		"MonsterDesc": {
+			"hash": 1743993731
+		},
+		"Solution": {
+			"hash": -752019025
+		},
+		"MonsterIcon": "SpriteOutput/OpenWorld/QuestBossIcon/Q_PVZ_Mon_Normal",
+		"DataImpl": {},
+		"MonsterID": 1001
+	},
+	{
+		"ModelPath": "Entities/Monster/QMonster/QP_FY_010/QP_FY_010_MonsterUI",
+		"OffsetY": 0.1,
+		"RotationY": 180,
+		"Scale": 2,
+		"Weight": 2,
+		"MonsterName": {
+			"hash": 1495215050
+		},
+		"MonsterDesc": {
+			"hash": 1743993732
+		},
+		"Solution": {
+			"hash": -752019024
+		},
+		"MonsterIcon": "SpriteOutput/OpenWorld/QuestBossIcon/Q_PVZ_UL_030_QT",
+		"DataImpl": {},
+		"MonsterID": 1002
+	},
+	{
+		"ModelPath": "Entities/Monster/QMonster/QP_FY_011/QP_FY_011_MonsterUI",
+		"OffsetY": 0.1,
+		"RotationY": 180,
+		"Scale": 2,
+		"Weight": 3,
+		"MonsterName": {
+			"hash": 1495215051
+		},
+		"MonsterDesc": {
+			"hash": 1743993733
+		},
+		"Solution": {
+			"hash": -752019023
+		},
+		"MonsterIcon": "SpriteOutput/OpenWorld/QuestBossIcon/Q_PVZ_Mon_Pullute",
+		"DataImpl": {},
+		"MonsterID": 1003
+	},
+	{
+		"ModelPath": "Entities/Monster/QMonster/QP_GD_010/QP_GD_010_MonsterUI",
+		"OffsetY": 0.1,
+		"RotationY": 180,
+		"Scale": 2,
+		"Weight": 4,
+		"MonsterName": {
+			"hash": 1495215052
+		},
+		"MonsterDesc": {
+			"hash": 1743993734
+		},
+		"Solution": {
+			"hash": -752019022
+		},
+		"MonsterIcon": "SpriteOutput/OpenWorld/QuestBossIcon/Q_PVZ_Mon_Shield",
+		"DataImpl": {},
+		"MonsterID": 1004
+	},
+	{
+		"ModelPath": "Entities/Monster/QMonster/QP_GD_011/QP_GD_011_MonsterUI",
+		"OffsetY": 0.1,
+		"RotationY": 180,
+		"Scale": 2,
+		"Weight": 5,
+		"MonsterName": {
+			"hash": 1495215053
+		},
+		"MonsterDesc": {
+			"hash": 1743993735
+		},
+		"Solution": {
+			"hash": -752019021
+		},
+		"MonsterIcon": "SpriteOutput/OpenWorld/QuestBossIcon/Q_PVZ_Mon_Dragon",
+		"DataImpl": {},
+		"MonsterID": 1005
+	},
+	{
+		"ModelPath": "Entities/Monster/Qmonster/QP_BOSS_010/QP_BOSS_010_MonsterUI",
+		"OffsetY": 0.1,
+		"RotationY": 180,
+		"Scale": 2,
+		"Weight": 6,
+		"MonsterName": {
+			"hash": 1495215054
+		},
+		"MonsterDesc": {
+			"hash": 1743993736
+		},
+		"Solution": {
+			"hash": -752019020
+		},
+		"MonsterIcon": "SpriteOutput/OpenWorld/QuestBossIcon/Q_PVZ_Mon_Pig",
+		"DataImpl": {},
+		"MonsterID": 1006
+	},
+	{
+		"ModelPath": "Entities/Monster/QMonster/QP_FY_010/QP_FY_010_MonsterUI",
+		"OffsetY": 0.1,
+		"RotationY": 180,
+		"Scale": 2,
+		"Weight": 7,
+		"MonsterName": {
+			"hash": 1495215055
+		},
+		"MonsterDesc": {
+			"hash": 1743993737
+		},
+		"Solution": {
+			"hash": -752019019
+		},
+		"MonsterIcon": "SpriteOutput/OpenWorld/QuestBossIcon/Q_PVZ_Mon_Normal_Yellow",
+		"DataImpl": {},
+		"MonsterID": 1007
+	},
+	{
+		"ModelPath": "Entities/Monster/QMonster/QP_FY_011/QP_FY_011_MonsterUI",
+		"OffsetY": 0.1,
+		"RotationY": 180,
+		"Scale": 2,
+		"Weight": 8,
+		"MonsterName": {
+			"hash": 1495215056
+		},
+		"MonsterDesc": {
+			"hash": 1743993738
+		},
+		"Solution": {
+			"hash": -752019018
+		},
+		"MonsterIcon": "SpriteOutput/OpenWorld/QuestBossIcon/Q_PVZ_Mon_Normal_Red",
+		"DataImpl": {},
+		"MonsterID": 1008
+	},
+	{
+		"ModelPath": "Entities/Monster/QMonster/QP_GD_010/QP_GD_010_MonsterUI",
+		"OffsetY": 0.1,
+		"RotationY": 180,
+		"Scale": 2,
+		"Weight": 9,
+		"MonsterName": {
+			"hash": 1495215057
+		},
+		"MonsterDesc": {
+			"hash": 1743993739
+		},
+		"Solution": {
+			"hash": -752019017
+		},
+		"MonsterIcon": "SpriteOutput/OpenWorld/QuestBossIcon/Q_PVZ_Mon_Blink",
+		"DataImpl": {},
+		"MonsterID": 1009
+	},
+	{
+		"ModelPath": "Entities/Monster/QMonster/QP_GD_011/QP_GD_011_MonsterUI",
+		"OffsetY": 0.1,
+		"RotationY": 180,
+		"Scale": 2,
+		"Weight": 10,
+		"MonsterName": {
+			"hash": 1495215079
+		},
+		"MonsterDesc": {
+			"hash": 1743993761
+		},
+		"Solution": {
+			"hash": -752018995
+		},
+		"MonsterIcon": "SpriteOutput/OpenWorld/QuestBossIcon/Q_PVZ_Mon_Shield_01",
+		"DataImpl": {},
+		"MonsterID": 1010
+	}
+]

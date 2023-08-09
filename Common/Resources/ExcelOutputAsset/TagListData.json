@@ -1,0 +1,488 @@
+[
+	{
+		"TagName": {
+			"hash": -715441237
+		},
+		"TagDec": {
+			"hash": 115174152
+		},
+		"Icon": "SpriteOutput/StateIcon/NewStateIcon/State_SA",
+		"type": 1,
+		"showInScreen": true,
+		"DisplayWeaponList": [],
+		"DisplayStigmataList": [],
+		"DataImpl": {},
+		"TagID": 0
+	},
+	{
+		"TagName": {
+			"hash": -2082091259
+		},
+		"TagDec": {
+			"hash": -525629816
+		},
+		"Icon": "SpriteOutput/StateIcon/NewStateIcon/State_Branch",
+		"type": 1,
+		"showInScreen": false,
+		"DisplayWeaponList": [],
+		"DisplayStigmataList": [],
+		"DataImpl": {},
+		"TagID": 1001
+	},
+	{
+		"TagName": {
+			"hash": -2082091258
+		},
+		"TagDec": {
+			"hash": -525629815
+		},
+		"Icon": "SpriteOutput/StateIcon/NewStateIcon/State_Charge",
+		"type": 1,
+		"showInScreen": false,
+		"DisplayWeaponList": [],
+		"DisplayStigmataList": [],
+		"DataImpl": {},
+		"TagID": 1002
+	},
+	{
+		"TagName": {
+			"hash": -2082091257
+		},
+		"TagDec": {
+			"hash": -525629814
+		},
+		"Icon": "SpriteOutput/StateIcon/NewStateIcon/State_Physical",
+		"type": 1,
+		"showInScreen": true,
+		"DisplayWeaponList": [],
+		"DisplayStigmataList": [],
+		"DataImpl": {},
+		"TagID": 1003
+	},
+	{
+		"TagName": {
+			"hash": -2082091256
+		},
+		"TagDec": {
+			"hash": -525629813
+		},
+		"Icon": "SpriteOutput/StateIcon/NewStateIcon/State_Fire",
+		"type": 1,
+		"showInScreen": true,
+		"DisplayWeaponList": [],
+		"DisplayStigmataList": [],
+		"DataImpl": {},
+		"TagID": 1004
+	},
+	{
+		"TagName": {
+			"hash": -2082091255
+		},
+		"TagDec": {
+			"hash": -525629812
+		},
+		"Icon": "SpriteOutput/StateIcon/NewStateIcon/State_Ice",
+		"type": 1,
+		"showInScreen": true,
+		"DisplayWeaponList": [],
+		"DisplayStigmataList": [],
+		"DataImpl": {},
+		"TagID": 1005
+	},
+	{
+		"TagName": {
+			"hash": -2082091254
+		},
+		"TagDec": {
+			"hash": -525629811
+		},
+		"Icon": "SpriteOutput/StateIcon/NewStateIcon/State_Lightning",
+		"type": 1,
+		"showInScreen": true,
+		"DisplayWeaponList": [],
+		"DisplayStigmataList": [],
+		"DataImpl": {},
+		"TagID": 1006
+	},
+	{
+		"TagName": {
+			"hash": -2082091253
+		},
+		"TagDec": {
+			"hash": -525629810
+		},
+		"Icon": "SpriteOutput/StateIcon/NewStateIcon/State_Frozen",
+		"type": 2,
+		"showInScreen": true,
+		"DisplayWeaponList": [
+			24014,
+			21054,
+			20541,
+			20295,
+			20220,
+			20186,
+			20080,
+			20018,
+			21384
+		],
+		"DisplayStigmataList": [],
+		"DataImpl": {},
+		"TagID": 1007
+	},
+	{
+		"TagName": {
+			"hash": -2082091252
+		},
+		"TagDec": {
+			"hash": -525629809
+		},
+		"Icon": "SpriteOutput/StateIcon/NewStateIcon/State_Paralysis",
+		"type": 2,
+		"showInScreen": true,
+		"DisplayWeaponList": [
+			20040,
+			20076,
+			20141,
+			20258,
+			20287,
+			20459,
+			20766,
+			24024,
+			24034,
+			24124,
+			21214
+		],
+		"DisplayStigmataList": [],
+		"DataImpl": {},
+		"TagID": 1008
+	},
+	{
+		"TagName": {
+			"hash": -2082091251
+		},
+		"TagDec": {
+			"hash": -525629808
+		},
+		"Icon": "SpriteOutput/StateIcon/NewStateIcon/State_Stun",
+		"type": 2,
+		"showInScreen": true,
+		"DisplayWeaponList": [
+			20152,
+			20345,
+			20429,
+			20521,
+			20537,
+			20644,
+			25056,
+			25096,
+			25156,
+			20453,
+			20170
+		],
+		"DisplayStigmataList": [],
+		"DataImpl": {},
+		"TagID": 1009
+	},
+	{
+		"TagName": {
+			"hash": -2082091229
+		},
+		"TagDec": {
+			"hash": -525629786
+		},
+		"Icon": "SpriteOutput/StateIcon/NewStateIcon/State_Burn",
+		"type": 2,
+		"showInScreen": true,
+		"DisplayWeaponList": [
+			24074,
+			20032,
+			20160,
+			20216,
+			20273,
+			20513,
+			20291,
+			20332,
+			20533,
+			21104,
+			25036,
+			25116,
+			25136,
+			20024,
+			20229,
+			20341,
+			20456,
+			20447,
+			29004
+		],
+		"DisplayStigmataList": [],
+		"DataImpl": {},
+		"TagID": 1010
+	},
+	{
+		"TagName": {
+			"hash": -2082091228
+		},
+		"TagDec": {
+			"hash": -525629785
+		},
+		"Icon": "SpriteOutput/StateIcon/NewStateIcon/State_Bleading",
+		"type": 2,
+		"showInScreen": true,
+		"DisplayWeaponList": [
+			20052,
+			20237,
+			20309,
+			20467,
+			20494,
+			20664,
+			20916,
+			24064
+		],
+		"DisplayStigmataList": [],
+		"DataImpl": {},
+		"TagID": 1011
+	},
+	{
+		"TagName": {
+			"hash": -2082091227
+		},
+		"TagDec": {
+			"hash": -525629784
+		},
+		"Icon": "SpriteOutput/StateIcon/NewStateIcon/State_Smash",
+		"type": 2,
+		"showInScreen": true,
+		"DisplayWeaponList": [
+			21143,
+			21173,
+			21184,
+			21194,
+			21224,
+			24114
+		],
+		"DisplayStigmataList": [],
+		"DataImpl": {},
+		"TagID": 1012
+	},
+	{
+		"TagName": {
+			"hash": -2082091226
+		},
+		"TagDec": {
+			"hash": -525629783
+		},
+		"Icon": "SpriteOutput/StateIcon/NewStateIcon/State_Weak",
+		"type": 2,
+		"showInScreen": true,
+		"DisplayWeaponList": [
+			20269,
+			20349,
+			20509,
+			20553
+		],
+		"DisplayStigmataList": [],
+		"DataImpl": {},
+		"TagID": 1013
+	},
+	{
+		"TagName": {
+			"hash": -2082091225
+		},
+		"TagDec": {
+			"hash": -525629782
+		},
+		"Icon": "SpriteOutput/StateIcon/NewStateIcon/State_Fragile",
+		"type": 2,
+		"showInScreen": true,
+		"DisplayWeaponList": [
+			20036,
+			20058,
+			20284,
+			20335,
+			20545,
+			20846,
+			21064,
+			21244,
+			21234,
+			24104,
+			20116
+		],
+		"DisplayStigmataList": [],
+		"DataImpl": {},
+		"TagID": 1014
+	},
+	{
+		"TagName": {
+			"hash": -2082091224
+		},
+		"TagDec": {
+			"hash": -525629781
+		},
+		"Icon": "SpriteOutput/StateIcon/NewStateIcon/State_Float",
+		"type": 2,
+		"showInScreen": false,
+		"DisplayWeaponList": [],
+		"DisplayStigmataList": [],
+		"DataImpl": {},
+		"TagID": 1015
+	},
+	{
+		"TagName": {
+			"hash": -2082091223
+		},
+		"TagDec": {
+			"hash": -525629780
+		},
+		"Icon": "SpriteOutput/StateIcon/NewStateIcon/State_SlowDown",
+		"type": 2,
+		"showInScreen": false,
+		"DisplayWeaponList": [],
+		"DisplayStigmataList": [],
+		"DataImpl": {},
+		"TagID": 1016
+	},
+	{
+		"TagName": {
+			"hash": -2082091222
+		},
+		"TagDec": {
+			"hash": -525629779
+		},
+		"Icon": "SpriteOutput/StateIcon/NewStateIcon/State_WitchTime",
+		"type": 2,
+		"showInScreen": true,
+		"DisplayWeaponList": [
+			20116,
+			20173,
+			20241,
+			20391,
+			20704,
+			20974,
+			21023,
+			24104
+		],
+		"DisplayStigmataList": [],
+		"DataImpl": {},
+		"TagID": 1017
+	},
+	{
+		"TagName": {
+			"hash": -2082091221
+		},
+		"TagDec": {
+			"hash": -525629778
+		},
+		"Icon": "SpriteOutput/StateIcon/NewStateIcon/State_SlowDown",
+		"type": 2,
+		"showInScreen": true,
+		"DisplayWeaponList": [],
+		"DisplayStigmataList": [],
+		"DataImpl": {},
+		"TagID": 1018
+	},
+	{
+		"TagName": {
+			"hash": -2082091220
+		},
+		"TagDec": {
+			"hash": -525629777
+		},
+		"Icon": "SpriteOutput/StateIcon/NewStateIcon/State_Heal",
+		"type": 2,
+		"showInScreen": true,
+		"DisplayWeaponList": [],
+		"DisplayStigmataList": [],
+		"DataImpl": {},
+		"TagID": 1019
+	},
+	{
+		"TagName": {
+			"hash": -2082091198
+		},
+		"TagDec": {
+			"hash": -525629755
+		},
+		"Icon": "SpriteOutput/StateIcon/NewStateIcon/State_HighFreq",
+		"type": 2,
+		"showInScreen": true,
+		"DisplayWeaponList": [],
+		"DisplayStigmataList": [],
+		"DataImpl": {},
+		"TagID": 1020
+	},
+	{
+		"TagName": {
+			"hash": -2082091197
+		},
+		"TagDec": {
+			"hash": -525629754
+		},
+		"Icon": "SpriteOutput/StateIcon/NewStateIcon/State_Burst",
+		"type": 2,
+		"showInScreen": true,
+		"DisplayWeaponList": [],
+		"DisplayStigmataList": [],
+		"DataImpl": {},
+		"TagID": 1021
+	},
+	{
+		"TagName": {
+			"hash": -2082091196
+		},
+		"TagDec": {
+			"hash": -525629753
+		},
+		"Icon": "SpriteOutput/StateIcon/NewStateIcon/State_Shield",
+		"type": 2,
+		"showInScreen": true,
+		"DisplayWeaponList": [],
+		"DisplayStigmataList": [],
+		"DataImpl": {},
+		"TagID": 1022
+	},
+	{
+		"TagName": {
+			"hash": -2082091195
+		},
+		"TagDec": {
+			"hash": -525629752
+		},
+		"Icon": "SpriteOutput/StateIcon/NewStateIcon/State_AntiAir",
+		"type": 2,
+		"showInScreen": true,
+		"DisplayWeaponList": [],
+		"DisplayStigmataList": [],
+		"DataImpl": {},
+		"TagID": 1023
+	},
+	{
+		"TagName": {
+			"hash": -2082091194
+		},
+		"TagDec": {
+			"hash": -525629751
+		},
+		"Icon": "SpriteOutput/StateIcon/NewStateIcon/State_Remote",
+		"type": 2,
+		"showInScreen": true,
+		"DisplayWeaponList": [],
+		"DisplayStigmataList": [],
+		"DataImpl": {},
+		"TagID": 1024
+	},
+	{
+		"TagName": {
+			"hash": -2082091193
+		},
+		"TagDec": {
+			"hash": -525629750
+		},
+		"Icon": "SpriteOutput/StateIcon/NewStateIcon/State_Melee",
+		"type": 2,
+		"showInScreen": true,
+		"DisplayWeaponList": [],
+		"DisplayStigmataList": [],
+		"DataImpl": {},
+		"TagID": 1025
+	}
+]

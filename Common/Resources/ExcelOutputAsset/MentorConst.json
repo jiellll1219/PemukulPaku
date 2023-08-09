@@ -1,0 +1,494 @@
+[
+	{
+		"type": "bool",
+		"value": "true",
+		"DataImpl": {},
+		"name": "IsFrameOpen"
+	},
+	{
+		"type": "bool",
+		"value": "false",
+		"DataImpl": {},
+		"name": "IsSeekStudentHintOpen"
+	},
+	{
+		"type": "bool",
+		"value": "true",
+		"DataImpl": {},
+		"name": "IsSeekStudentTagOpen"
+	},
+	{
+		"type": "bool",
+		"value": "false",
+		"DataImpl": {},
+		"name": "IsSeekTeacherHintOpen"
+	},
+	{
+		"type": "bool",
+		"value": "true",
+		"DataImpl": {},
+		"name": "IsSeekTeacherTagOpen"
+	},
+	{
+		"type": "int",
+		"value": "7501",
+		"DataImpl": {},
+		"name": "mentor_company_reward_mail_id"
+	},
+	{
+		"type": "string",
+		"value": "2017-11-01",
+		"DataImpl": {},
+		"name": "mentor_leaderboard_begin_time"
+	},
+	{
+		"type": "int",
+		"value": "100",
+		"DataImpl": {},
+		"name": "mentor_leaderboard_display_player_num"
+	},
+	{
+		"type": "int",
+		"value": "6",
+		"DataImpl": {},
+		"name": "mentor_leaderboard_interval_month"
+	},
+	{
+		"type": "int",
+		"value": "50000",
+		"DataImpl": {},
+		"name": "mentor_leaderboard_max_rank"
+	},
+	{
+		"type": "float",
+		"value": "0.5",
+		"DataImpl": {},
+		"name": "mentor_leaderboard_pretige_set_ratio"
+	},
+	{
+		"type": "bool",
+		"value": "true",
+		"DataImpl": {},
+		"name": "mentoractivity_button_teach_isdisplay"
+	},
+	{
+		"type": "bool",
+		"value": "false",
+		"DataImpl": {},
+		"name": "mentoractivity_button_theme_isdisplay"
+	},
+	{
+		"type": "bool",
+		"value": "false",
+		"DataImpl": {},
+		"name": "mentoractivity_button_wiki_isdisplay"
+	},
+	{
+		"type": "string",
+		"value": "event/Immediately/Tutorial/BronyaC1_truecolor",
+		"DataImpl": {},
+		"name": "mentoractivity_theme_Btn"
+	},
+	{
+		"type": "int",
+		"value": "172800",
+		"DataImpl": {},
+		"name": "mentorsystem_apply_message_dissolve_time"
+	},
+	{
+		"type": "int",
+		"value": "14400",
+		"DataImpl": {},
+		"name": "mentorsystem_cd_after_kick_mentor"
+	},
+	{
+		"type": "int",
+		"value": "172800",
+		"DataImpl": {},
+		"name": "mentorsystem_cd_after_kick_student"
+	},
+	{
+		"type": "int",
+		"value": "86400",
+		"DataImpl": {},
+		"name": "mentorsystem_cd_after_relationship"
+	},
+	{
+		"type": "int",
+		"value": "5",
+		"DataImpl": {},
+		"name": "mentorsystem_cd_refresh"
+	},
+	{
+		"type": "int",
+		"value": "900",
+		"DataImpl": {},
+		"name": "mentorsystem_chat_history_global_interval"
+	},
+	{
+		"type": "int",
+		"value": "900",
+		"DataImpl": {},
+		"name": "mentorsystem_chat_history_interval"
+	},
+	{
+		"type": "int",
+		"value": "3",
+		"DataImpl": {},
+		"name": "mentorsystem_default_evaluate_star"
+	},
+	{
+		"type": "int",
+		"value": "2",
+		"DataImpl": {},
+		"name": "mentorsystem_dismiss_protect_offline_days"
+	},
+	{
+		"type": "string",
+		"value": "MentorSystem_Evaluate_Cong_Desc",
+		"DataImpl": {},
+		"name": "mentorsystem_evaluate_cong_desc_textmap"
+	},
+	{
+		"type": "bool",
+		"value": "true",
+		"DataImpl": {},
+		"name": "mentorsystem_exam_mission_putinto_linear_on"
+	},
+	{
+		"type": "int",
+		"value": "20",
+		"DataImpl": {},
+		"name": "mentorsystem_historical_graduated_student_max_num"
+	},
+	{
+		"type": "int",
+		"value": "1",
+		"DataImpl": {},
+		"name": "mentorsystem_lobby_tag_default_plan"
+	},
+	{
+		"type": "int",
+		"value": "2",
+		"DataImpl": {},
+		"name": "mentorsystem_lobby_tag_maxnum_students"
+	},
+	{
+		"type": "string",
+		"value": "MentorSystem_Evaluate_MailMessage_LastPart_Mentor",
+		"DataImpl": {},
+		"name": "mentorsystem_mailmessage_last_part_mentor"
+	},
+	{
+		"type": "string",
+		"value": "MentorSystem_Evaluate_MailMessage_LastPart_Student",
+		"DataImpl": {},
+		"name": "mentorsystem_mailmessage_last_part_student"
+	},
+	{
+		"type": "int",
+		"value": "10000",
+		"DataImpl": {},
+		"name": "mentorsystem_max_size_recommend_pool"
+	},
+	{
+		"type": "int",
+		"value": "3",
+		"DataImpl": {},
+		"name": "mentorsystem_max_star_num"
+	},
+	{
+		"type": "int",
+		"value": "18",
+		"DataImpl": {},
+		"name": "mentorsystem_maxlength_message_main_scene"
+	},
+	{
+		"type": "int",
+		"value": "100",
+		"DataImpl": {},
+		"name": "mentorsystem_maxnum_private"
+	},
+	{
+		"type": "int",
+		"value": "5",
+		"DataImpl": {},
+		"name": "mentorsystem_maxnum_students_per_month"
+	},
+	{
+		"type": "int",
+		"value": "3107",
+		"DataImpl": {},
+		"name": "mentorsystem_medal_material_id"
+	},
+	{
+		"type": "int",
+		"value": "2019-07-01 04:00:00",
+		"DataImpl": {},
+		"name": "mentorsystem_medal_period_limit_begin_date"
+	},
+	{
+		"type": "int",
+		"value": "6000",
+		"DataImpl": {},
+		"name": "mentorsystem_medal_period_limit_max_num"
+	},
+	{
+		"type": "int",
+		"value": "30",
+		"DataImpl": {},
+		"name": "mentorsystem_medal_period_time"
+	},
+	{
+		"type": "int",
+		"value": "3",
+		"DataImpl": {},
+		"name": "mentorsystem_mentor_assist_times"
+	},
+	{
+		"type": "int",
+		"value": "80",
+		"DataImpl": {},
+		"name": "mentorsystem_mentor_min_level"
+	},
+	{
+		"type": "int",
+		"value": "20",
+		"DataImpl": {},
+		"name": "mentorsystem_mentorapply_max_num"
+	},
+	{
+		"type": "string",
+		"value": "MentorSystem_Default_Reply_Message",
+		"DataImpl": {},
+		"name": "mentorsystem_message_default_reply"
+	},
+	{
+		"type": "bool",
+		"value": "true",
+		"DataImpl": {},
+		"name": "mentorsystem_message_inbattle_default_status"
+	},
+	{
+		"type": "int",
+		"value": "18",
+		"DataImpl": {},
+		"name": "mentorsystem_message_inbattle_word_length"
+	},
+	{
+		"type": "int",
+		"value": "10",
+		"DataImpl": {},
+		"name": "mentorsystem_message_max_save_num"
+	},
+	{
+		"type": "int",
+		"value": "5",
+		"DataImpl": {},
+		"name": "mentorsystem_notice_last_max_time"
+	},
+	{
+		"type": "int",
+		"value": "2",
+		"DataImpl": {},
+		"name": "mentorsystem_notice_last_min_time"
+	},
+	{
+		"type": "int",
+		"value": "60",
+		"DataImpl": {},
+		"name": "mentorsystem_notice_onoffline_cd_time"
+	},
+	{
+		"type": "int",
+		"value": "3",
+		"DataImpl": {},
+		"name": "mentorsystem_num_candidate_mentor"
+	},
+	{
+		"type": "int",
+		"value": "100",
+		"DataImpl": {},
+		"name": "mentorsystem_online_score"
+	},
+	{
+		"type": "int",
+		"value": "6",
+		"DataImpl": {},
+		"name": "mentorsystem_open_level"
+	},
+	{
+		"type": "int",
+		"value": "80007",
+		"DataImpl": {},
+		"name": "mentorsystem_prestige_material_id"
+	},
+	{
+		"type": "bool",
+		"value": "true",
+		"DataImpl": {},
+		"name": "mentorsystem_private_chat_button_open"
+	},
+	{
+		"type": "int",
+		"value": "10",
+		"DataImpl": {},
+		"name": "mentorsystem_relationview_maxnum"
+	},
+	{
+		"type": "float",
+		"value": "5",
+		"DataImpl": {},
+		"name": "mentorsystem_score_base_value"
+	},
+	{
+		"type": "float",
+		"value": "2",
+		"DataImpl": {},
+		"name": "mentorsystem_score_match_ratio"
+	},
+	{
+		"type": "int",
+		"value": "20",
+		"DataImpl": {},
+		"name": "mentorsystem_score_max_evaluates"
+	},
+	{
+		"type": "int",
+		"value": "4",
+		"DataImpl": {},
+		"name": "mentorsystem_score_min_evaluates"
+	},
+	{
+		"type": "float",
+		"value": "2",
+		"DataImpl": {},
+		"name": "mentorsystem_score_range_0"
+	},
+	{
+		"type": "float",
+		"value": "4",
+		"DataImpl": {},
+		"name": "mentorsystem_score_range_1"
+	},
+	{
+		"type": "float",
+		"value": "6",
+		"DataImpl": {},
+		"name": "mentorsystem_score_range_2"
+	},
+	{
+		"type": "float",
+		"value": "7",
+		"DataImpl": {},
+		"name": "mentorsystem_score_range_3"
+	},
+	{
+		"type": "float",
+		"value": "9",
+		"DataImpl": {},
+		"name": "mentorsystem_score_range_4"
+	},
+	{
+		"type": "int",
+		"value": "20",
+		"DataImpl": {},
+		"name": "mentorsystem_size_candidate_pool"
+	},
+	{
+		"type": "int",
+		"value": "79",
+		"DataImpl": {},
+		"name": "mentorsystem_student_max_level"
+	},
+	{
+		"type": "int",
+		"value": "2",
+		"DataImpl": {},
+		"name": "mentorsystem_student_max_num"
+	},
+	{
+		"type": "int",
+		"value": "20",
+		"DataImpl": {},
+		"name": "mentorsystem_studentapply_max_num"
+	},
+	{
+		"type": "int",
+		"value": "604800",
+		"DataImpl": {},
+		"name": "mentorsystem_valid_period_mentor_mail"
+	},
+	{
+		"type": "int",
+		"value": "604800",
+		"DataImpl": {},
+		"name": "mentorsystem_valid_period_student_mail"
+	},
+	{
+		"type": "int",
+		"value": "99",
+		"DataImpl": {},
+		"name": "seek_student_hint_max_level"
+	},
+	{
+		"type": "int",
+		"value": "76",
+		"DataImpl": {},
+		"name": "seek_student_hint_min_level"
+	},
+	{
+		"type": "int",
+		"value": "7",
+		"DataImpl": {},
+		"name": "seek_student_hint_period_day"
+	},
+	{
+		"type": "int",
+		"value": "5",
+		"DataImpl": {},
+		"name": "seek_student_hint_present_time"
+	},
+	{
+		"type": "string",
+		"value": "",
+		"DataImpl": {},
+		"name": "seek_student_icon_path"
+	},
+	{
+		"type": "int",
+		"value": "75",
+		"DataImpl": {},
+		"name": "seek_teacher_hint_max_level"
+	},
+	{
+		"type": "int",
+		"value": "15",
+		"DataImpl": {},
+		"name": "seek_teacher_hint_min_level"
+	},
+	{
+		"type": "int",
+		"value": "3",
+		"DataImpl": {},
+		"name": "seek_teacher_hint_period_day"
+	},
+	{
+		"type": "int",
+		"value": "5",
+		"DataImpl": {},
+		"name": "seek_teacher_hint_present_time"
+	},
+	{
+		"type": "string",
+		"value": "",
+		"DataImpl": {},
+		"name": "seek_teacher_icon_path"
+	},
+	{
+		"type": "int",
+		"value": "7502",
+		"DataImpl": {},
+		"name": "student_company_reward_mail_id"
+	}
+]

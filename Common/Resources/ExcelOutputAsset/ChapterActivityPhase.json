@@ -1,0 +1,435 @@
+[
+	{
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/6.3_Img_MainLine_Cover_01",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/6.3_Img_MainLine_Entry_01",
+		"UnlockConditionList": "",
+		"ProgressText": "ChapterOW_Progress_35_01",
+		"BGPanelPath": "UI/3D/ChapterActivity/Chapter30OWFinalChapter/Chapter30OWFinalChapterMapBG01",
+		"BGMStateName": "ChapterActivity_35_01",
+		"ActLevelPanelConfigIDs": [
+			340101,
+			340201,
+			340301,
+			340401,
+			340501,
+			340601
+		],
+		"DataImpl": {},
+		"ChapterID": 34,
+		"PhaseNum": 1
+	},
+	{
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/6.3_Img_MainLine_Cover_02",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/6.3_Img_MainLine_Entry_02",
+		"UnlockConditionList": "3|13805",
+		"ProgressText": "ChapterOW_Progress_35_01",
+		"BGPanelPath": "UI/3D/ChapterActivity/Chapter30OWFinalChapter/Chapter30OWFinalChapterMapBG01",
+		"BGMStateName": "ChapterActivity_35_01",
+		"ActLevelPanelConfigIDs": [
+			340101,
+			340201,
+			340301,
+			340401,
+			340501,
+			340602
+		],
+		"DataImpl": {},
+		"ChapterID": 34,
+		"PhaseNum": 2
+	},
+	{
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/6.3_Img_MainLine_Cover_03",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/6.3_Img_MainLine_Entry_03",
+		"UnlockConditionList": "2|2022-12-19 10:00:00;3|13805",
+		"ProgressText": "ChapterOW_Progress_35_01",
+		"BGPanelPath": "UI/3D/ChapterActivity/Chapter30OWFinalChapter/Chapter30OWFinalChapterMapBG01",
+		"BGMStateName": "ChapterActivity_35_01",
+		"ActLevelPanelConfigIDs": [
+			340101,
+			340201,
+			340301,
+			340401,
+			340501,
+			340603
+		],
+		"DataImpl": {},
+		"ChapterID": 34,
+		"PhaseNum": 3
+	},
+	{
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/6.3_Img_MainLine_Cover_04",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/6.3_Img_MainLine_Entry_04",
+		"UnlockConditionList": "2|2022-12-19 10:00:00;3|13811",
+		"ProgressText": "ChapterOW_Progress_35_01",
+		"BGPanelPath": "UI/3D/ChapterActivity/Chapter30OWFinalChapter/Chapter30OWFinalChapterMapBG02",
+		"BGMStateName": "ChapterActivity_35_02",
+		"ActLevelPanelConfigIDs": [
+			340102,
+			340202,
+			340302,
+			340402,
+			340502,
+			340602
+		],
+		"DataImpl": {},
+		"ChapterID": 34,
+		"PhaseNum": 4
+	},
+	{
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/6.3_Img_MainLine_Cover_05",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/6.3_Img_MainLine_Entry_05",
+		"UnlockConditionList": "2|2022-12-26 10:00:00;3|13811",
+		"ProgressText": "ChapterOW_Progress_35_01",
+		"BGPanelPath": "UI/3D/ChapterActivity/Chapter30OWFinalChapter/Chapter30OWFinalChapterMapBG02",
+		"BGMStateName": "ChapterActivity_35_02",
+		"ActLevelPanelConfigIDs": [
+			340102,
+			340202,
+			340302,
+			340402,
+			340502,
+			340602
+		],
+		"DataImpl": {},
+		"ChapterID": 34,
+		"PhaseNum": 5
+	},
+	{
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/6.3_Img_MainLine_Cover_06",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/6.3_Img_MainLine_Entry_06",
+		"UnlockConditionList": "2|2022-12-26 10:00:00;3|13815",
+		"ProgressText": "ChapterOW_Progress_35_01",
+		"BGPanelPath": "UI/3D/ChapterActivity/Chapter30OWFinalChapter/Chapter30OWFinalChapterMapBG02",
+		"BGMStateName": "ChapterActivity_35_02",
+		"ActLevelPanelConfigIDs": [
+			340102,
+			340202,
+			340302,
+			340402,
+			340502,
+			340602
+		],
+		"DataImpl": {},
+		"ChapterID": 34,
+		"PhaseNum": 6
+	},
+	{
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/6.4_Img_MainLine_Cover_01",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/6.4_Img_MainLine_Entry_01",
+		"UnlockConditionList": "2|2023-02-16 10:00:00;3|13815",
+		"ProgressText": "ChapterOW_ProgressFinal_35_02",
+		"BGPanelPath": "UI/3D/ChapterActivity/Chapter30OWFinalChapter/Chapter30OWFinalChapterMapBG03",
+		"BGMStateName": "ChapterActivity_35_03",
+		"ActLevelPanelConfigIDs": [
+			340103,
+			340203,
+			340303,
+			340403,
+			340503,
+			340603
+		],
+		"DataImpl": {},
+		"ChapterID": 34,
+		"PhaseNum": 7
+	},
+	{
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/6.4_Img_MainLine_Cover_02",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/6.4_Img_MainLine_Entry_02",
+		"UnlockConditionList": "2|2023-02-16 10:00:00;3|13909",
+		"ProgressText": "ChapterOW_ProgressFinal_35_02",
+		"BGPanelPath": "UI/3D/ChapterActivity/Chapter30OWFinalChapter/Chapter30OWFinalChapterMapBG03",
+		"BGMStateName": "ChapterActivity_35_04",
+		"ActLevelPanelConfigIDs": [
+			340103,
+			340203,
+			340303,
+			340403,
+			340503,
+			340603
+		],
+		"DataImpl": {},
+		"ChapterID": 34,
+		"PhaseNum": 8
+	},
+	{
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/6.4_Img_MainLine_Cover_03",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/6.4_Img_MainLine_Entry_03",
+		"UnlockConditionList": "2|2023-02-24 10:00:00;3|13909",
+		"ProgressText": "ChapterOW_ProgressFinal_35_02",
+		"BGPanelPath": "UI/3D/ChapterActivity/Chapter30OWFinalChapter/Chapter30OWFinalChapterMapBG03",
+		"BGMStateName": "ChapterActivity_35_05",
+		"ActLevelPanelConfigIDs": [
+			340103,
+			340203,
+			340303,
+			340403,
+			340503,
+			340603
+		],
+		"DataImpl": {},
+		"ChapterID": 34,
+		"PhaseNum": 9
+	},
+	{
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/6.4_Img_MainLine_Cover_04",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/6.4_Img_MainLine_Entry_04",
+		"UnlockConditionList": "2|2023-02-24 10:00:00;3|13915",
+		"ProgressText": "ChapterOW_ProgressFinal_35_02",
+		"BGPanelPath": "UI/3D/ChapterActivity/Chapter30OWFinalChapter/Chapter30OWFinalChapterMapBG03",
+		"BGMStateName": "ChapterActivity_35_06",
+		"ActLevelPanelConfigIDs": [
+			340103,
+			340203,
+			340303,
+			340403,
+			340503,
+			340603
+		],
+		"DataImpl": {},
+		"ChapterID": 34,
+		"PhaseNum": 10
+	},
+	{
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/6.4_Img_MainLine_Cover_05",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/6.4_Img_MainLine_Entry_05",
+		"UnlockConditionList": "2|2023-03-03 12:00:00;3|13916",
+		"ProgressText": "ChapterOW_ProgressFinal_35_02",
+		"BGPanelPath": "UI/3D/ChapterActivity/Chapter30OWFinalChapter/Chapter30OWFinalChapterMapBG02",
+		"BGMStateName": "ChapterActivity_35_07",
+		"ActLevelPanelConfigIDs": [
+			340102,
+			340202,
+			340302,
+			340402,
+			340502,
+			340602
+		],
+		"DataImpl": {},
+		"ChapterID": 34,
+		"PhaseNum": 11
+	},
+	{
+		"CoverImagePath": "",
+		"MainStoryEntryImagePath": "",
+		"UnlockConditionList": "",
+		"ProgressText": "",
+		"BGPanelPath": "UI/3D/ChapterActivity/Chapter36/Chapter36MapBG01",
+		"BGMStateName": "ChapterActivity_36_01",
+		"ActLevelPanelConfigIDs": [
+			360101,
+			360201,
+			360301
+		],
+		"DataImpl": {},
+		"ChapterID": 36,
+		"PhaseNum": 1
+	},
+	{
+		"CoverImagePath": "",
+		"MainStoryEntryImagePath": "",
+		"UnlockConditionList": "2|2023-05-01 10:00:00;3|14009",
+		"ProgressText": "",
+		"BGPanelPath": "UI/3D/ChapterActivity/Chapter36/Chapter36MapBG02",
+		"BGMStateName": "ChapterActivity_36_02",
+		"ActLevelPanelConfigIDs": [
+			360101,
+			360201,
+			360301
+		],
+		"DataImpl": {},
+		"ChapterID": 36,
+		"PhaseNum": 2
+	},
+	{
+		"CoverImagePath": "event/Immediately/ChapterBg/back_6.6_Img_MainLine_Cover_01",
+		"MainStoryEntryImagePath": "event/Immediately/ChapterBg/back_6.6_Img_MainLine_Entry_01",
+		"UnlockConditionList": "",
+		"ProgressText": "",
+		"BGPanelPath": "",
+		"BGMStateName": "ChapterActivity_36_02",
+		"ActLevelPanelConfigIDs": [
+			370101,
+			370201,
+			370301
+		],
+		"DataImpl": {},
+		"ChapterID": 37,
+		"PhaseNum": 1
+	},
+	{
+		"CoverImagePath": "event/Immediately/ChapterBg/back_6.6_Img_MainLine_Cover_01",
+		"MainStoryEntryImagePath": "event/Immediately/ChapterBg/back_6.6_Img_MainLine_Entry_01",
+		"UnlockConditionList": "3|15001",
+		"ProgressText": "",
+		"BGPanelPath": "",
+		"BGMStateName": "ChapterActivity_37_02",
+		"ActLevelPanelConfigIDs": [
+			370101,
+			370201,
+			370301
+		],
+		"DataImpl": {},
+		"ChapterID": 37,
+		"PhaseNum": 2
+	},
+	{
+		"CoverImagePath": "event/Immediately/ChapterBg/back_6.6_Img_MainLine_Cover_01",
+		"MainStoryEntryImagePath": "event/Immediately/ChapterBg/back_6.6_Img_MainLine_Entry_01",
+		"UnlockConditionList": "3|15002",
+		"ProgressText": "",
+		"BGPanelPath": "",
+		"BGMStateName": "ChapterActivity_37_01",
+		"ActLevelPanelConfigIDs": [
+			370101,
+			370201,
+			370301
+		],
+		"DataImpl": {},
+		"ChapterID": 37,
+		"PhaseNum": 3
+	},
+	{
+		"CoverImagePath": "event/Immediately/ChapterBg/back_6.6_Img_MainLine_Cover_01",
+		"MainStoryEntryImagePath": "event/Immediately/ChapterBg/back_6.6_Img_MainLine_Entry_01",
+		"UnlockConditionList": "3|15003",
+		"ProgressText": "",
+		"BGPanelPath": "",
+		"BGMStateName": "ChapterActivity_37_02",
+		"ActLevelPanelConfigIDs": [
+			370101,
+			370201,
+			370301
+		],
+		"DataImpl": {},
+		"ChapterID": 37,
+		"PhaseNum": 4
+	},
+	{
+		"CoverImagePath": "event/Immediately/ChapterBg/back_6.6_Img_MainLine_Cover_01",
+		"MainStoryEntryImagePath": "event/Immediately/ChapterBg/back_6.6_Img_MainLine_Entry_01",
+		"UnlockConditionList": "3|15004",
+		"ProgressText": "",
+		"BGPanelPath": "",
+		"BGMStateName": "ChapterActivity_37_01",
+		"ActLevelPanelConfigIDs": [
+			370101,
+			370201,
+			370301
+		],
+		"DataImpl": {},
+		"ChapterID": 37,
+		"PhaseNum": 5
+	},
+	{
+		"CoverImagePath": "event/Immediately/ChapterBg/back_6.6_Img_MainLine_Cover_02",
+		"MainStoryEntryImagePath": "event/Immediately/ChapterBg/back_6.6_Img_MainLine_Entry_02",
+		"UnlockConditionList": "2|2023-05-22 10:00:00;3|15005",
+		"ProgressText": "",
+		"BGPanelPath": "",
+		"BGMStateName": "ChapterActivity_36_02",
+		"ActLevelPanelConfigIDs": [
+			370101,
+			370201,
+			370301
+		],
+		"DataImpl": {},
+		"ChapterID": 37,
+		"PhaseNum": 6
+	},
+	{
+		"CoverImagePath": "event/Immediately/ChapterBg/back_6.6_Img_MainLine_Cover_02",
+		"MainStoryEntryImagePath": "event/Immediately/ChapterBg/back_6.6_Img_MainLine_Entry_02",
+		"UnlockConditionList": "3|15007",
+		"ProgressText": "",
+		"BGPanelPath": "",
+		"BGMStateName": "ChapterActivity_37_01",
+		"ActLevelPanelConfigIDs": [
+			370101,
+			370201,
+			370301
+		],
+		"DataImpl": {},
+		"ChapterID": 37,
+		"PhaseNum": 7
+	},
+	{
+		"CoverImagePath": "event/Immediately/ChapterBg/back_6.6_Img_MainLine_Cover_03",
+		"MainStoryEntryImagePath": "event/Immediately/ChapterBg/back_6.6_Img_MainLine_Entry_03",
+		"UnlockConditionList": "2|2023-05-29 10:00:00;3|15009",
+		"ProgressText": "",
+		"BGPanelPath": "",
+		"BGMStateName": "ChapterActivity_37_01",
+		"ActLevelPanelConfigIDs": [
+			370101,
+			370201,
+			370301
+		],
+		"DataImpl": {},
+		"ChapterID": 37,
+		"PhaseNum": 8
+	},
+	{
+		"CoverImagePath": "event/Immediately/ChapterBg/back_6.6_Img_MainLine_Cover_03",
+		"MainStoryEntryImagePath": "event/Immediately/ChapterBg/back_6.6_Img_MainLine_Entry_03",
+		"UnlockConditionList": "3|15010",
+		"ProgressText": "",
+		"BGPanelPath": "",
+		"BGMStateName": "ChapterActivity_37_02",
+		"ActLevelPanelConfigIDs": [
+			370101,
+			370201,
+			370301
+		],
+		"DataImpl": {},
+		"ChapterID": 37,
+		"PhaseNum": 9
+	},
+	{
+		"CoverImagePath": "event/Immediately/ChapterBg/back_6.6_Img_MainLine_Cover_03",
+		"MainStoryEntryImagePath": "event/Immediately/ChapterBg/back_6.6_Img_MainLine_Entry_03",
+		"UnlockConditionList": "3|15011",
+		"ProgressText": "",
+		"BGPanelPath": "",
+		"BGMStateName": "ChapterActivity_37_01",
+		"ActLevelPanelConfigIDs": [
+			370101,
+			370201,
+			370301
+		],
+		"DataImpl": {},
+		"ChapterID": 37,
+		"PhaseNum": 10
+	},
+	{
+		"CoverImagePath": "event/Immediately/ChapterBg/back_6.6_Img_MainLine_Cover_03",
+		"MainStoryEntryImagePath": "event/Immediately/ChapterBg/back_6.6_Img_MainLine_Entry_03",
+		"UnlockConditionList": "3|15012",
+		"ProgressText": "",
+		"BGPanelPath": "",
+		"BGMStateName": "ChapterActivity_37_02",
+		"ActLevelPanelConfigIDs": [
+			370101,
+			370201,
+			370301
+		],
+		"DataImpl": {},
+		"ChapterID": 37,
+		"PhaseNum": 11
+	},
+	{
+		"CoverImagePath": "event/Immediately/ChapterBg/back_6.6_Img_MainLine_Cover_03",
+		"MainStoryEntryImagePath": "event/Immediately/ChapterBg/back_6.6_Img_MainLine_Entry_03",
+		"UnlockConditionList": "3|15013",
+		"ProgressText": "",
+		"BGPanelPath": "",
+		"BGMStateName": "ChapterActivity_37_01",
+		"ActLevelPanelConfigIDs": [
+			370101,
+			370201,
+			370301
+		],
+		"DataImpl": {},
+		"ChapterID": 37,
+		"PhaseNum": 12
+	}
+]

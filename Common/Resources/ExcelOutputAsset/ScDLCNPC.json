@@ -1,0 +1,436 @@
+[
+	{
+		"PrefabPath": "Entities/Avatar/Mei_C2_FD/Avatar_Mei_C2_FD_UINPC",
+		"PrefabScale": 1,
+		"conditionList": [
+			{
+				"conditionID": 170,
+				"stateID": 2003
+			},
+			{
+				"conditionID": 195,
+				"stateID": 2002
+			},
+			{
+				"conditionID": 191,
+				"stateID": 2001
+			}
+		],
+		"NPCHeadMark": [
+			{
+				"conditionID": 170,
+				"stateID": 3
+			},
+			{
+				"conditionID": 375,
+				"stateID": 4
+			},
+			{
+				"conditionID": 996,
+				"stateID": 4
+			},
+			{
+				"conditionID": 998,
+				"stateID": 4
+			},
+			{
+				"conditionID": 4011,
+				"stateID": 2
+			},
+			{
+				"conditionID": 991,
+				"stateID": 1
+			},
+			{
+				"conditionID": 4014,
+				"stateID": 1
+			},
+			{
+				"conditionID": 0,
+				"stateID": 0
+			}
+		],
+		"DataImpl": {},
+		"ID": 1
+	},
+	{
+		"PrefabPath": "Entities/Avatar/Carol_C2_PQ/Avatar_Carol_C2_PQ_UINPC",
+		"PrefabScale": 1,
+		"conditionList": [
+			{
+				"conditionID": 1015,
+				"stateID": 2104
+			},
+			{
+				"conditionID": 175,
+				"stateID": 2103
+			},
+			{
+				"conditionID": 399,
+				"stateID": 2105
+			},
+			{
+				"conditionID": 1022,
+				"stateID": 2102
+			},
+			{
+				"conditionID": 1021,
+				"stateID": 2101
+			}
+		],
+		"NPCHeadMark": [
+			{
+				"conditionID": 175,
+				"stateID": 3
+			},
+			{
+				"conditionID": 1015,
+				"stateID": 3
+			},
+			{
+				"conditionID": 244,
+				"stateID": 4
+			},
+			{
+				"conditionID": 997,
+				"stateID": 4
+			},
+			{
+				"conditionID": 399,
+				"stateID": 4
+			},
+			{
+				"conditionID": 385,
+				"stateID": 4
+			},
+			{
+				"conditionID": 999,
+				"stateID": 4
+			},
+			{
+				"conditionID": 1020,
+				"stateID": 2
+			},
+			{
+				"conditionID": 4021,
+				"stateID": 2
+			},
+			{
+				"conditionID": 992,
+				"stateID": 1
+			},
+			{
+				"conditionID": 4024,
+				"stateID": 1
+			},
+			{
+				"conditionID": 0,
+				"stateID": 0
+			}
+		],
+		"DataImpl": {},
+		"ID": 2
+	},
+	{
+		"PrefabPath": "Entities/Avatar/Bronya_C9_ST/Avatar_Bronya_C9_ST_UINPC",
+		"PrefabScale": 1,
+		"conditionList": [
+			{
+				"conditionID": 170,
+				"stateID": 2210
+			},
+			{
+				"conditionID": 195,
+				"stateID": 2209
+			},
+			{
+				"conditionID": 207,
+				"stateID": 2208
+			},
+			{
+				"conditionID": 206,
+				"stateID": 2207
+			},
+			{
+				"conditionID": 57,
+				"stateID": 2206
+			},
+			{
+				"conditionID": 59,
+				"stateID": 2205
+			},
+			{
+				"conditionID": 10125,
+				"stateID": 2204
+			},
+			{
+				"conditionID": 10115,
+				"stateID": 2203
+			},
+			{
+				"conditionID": 10105,
+				"stateID": 2202
+			},
+			{
+				"conditionID": 0,
+				"stateID": 2201
+			}
+		],
+		"NPCHeadMark": [
+			{
+				"conditionID": 170,
+				"stateID": 3
+			},
+			{
+				"conditionID": 20175105,
+				"stateID": 3
+			},
+			{
+				"conditionID": 20175005,
+				"stateID": 3
+			},
+			{
+				"conditionID": 209,
+				"stateID": 3
+			},
+			{
+				"conditionID": 207,
+				"stateID": 3
+			},
+			{
+				"conditionID": 206,
+				"stateID": 3
+			},
+			{
+				"conditionID": 57,
+				"stateID": 3
+			},
+			{
+				"conditionID": 59,
+				"stateID": 3
+			},
+			{
+				"conditionID": 10125,
+				"stateID": 3
+			},
+			{
+				"conditionID": 10115,
+				"stateID": 3
+			},
+			{
+				"conditionID": 10105,
+				"stateID": 3
+			},
+			{
+				"conditionID": 205,
+				"stateID": 3
+			},
+			{
+				"conditionID": 366,
+				"stateID": 4
+			},
+			{
+				"conditionID": 434,
+				"stateID": 4
+			},
+			{
+				"conditionID": 440,
+				"stateID": 4
+			},
+			{
+				"conditionID": 22800105,
+				"stateID": 4
+			},
+			{
+				"conditionID": 988,
+				"stateID": 4
+			},
+			{
+				"conditionID": 983,
+				"stateID": 4
+			},
+			{
+				"conditionID": 220,
+				"stateID": 4
+			},
+			{
+				"conditionID": 215,
+				"stateID": 4
+			},
+			{
+				"conditionID": 305,
+				"stateID": 4
+			},
+			{
+				"conditionID": 4031,
+				"stateID": 2
+			},
+			{
+				"conditionID": 448,
+				"stateID": 1
+			},
+			{
+				"conditionID": 313,
+				"stateID": 1
+			},
+			{
+				"conditionID": 993,
+				"stateID": 1
+			},
+			{
+				"conditionID": 4034,
+				"stateID": 1
+			},
+			{
+				"conditionID": 0,
+				"stateID": 0
+			}
+		],
+		"DataImpl": {},
+		"ID": 3
+	},
+	{
+		"PrefabPath": "Entities/Avatar/Timido_C1_IB/Avatar_Timido_C1_IB_UINPC",
+		"PrefabScale": 1,
+		"conditionList": [
+			{
+				"conditionID": 180,
+				"stateID": 2302
+			},
+			{
+				"conditionID": 0,
+				"stateID": 2301
+			}
+		],
+		"NPCHeadMark": [
+			{
+				"conditionID": 180,
+				"stateID": 3
+			},
+			{
+				"conditionID": 989,
+				"stateID": 4
+			},
+			{
+				"conditionID": 984,
+				"stateID": 4
+			},
+			{
+				"conditionID": 4041,
+				"stateID": 2
+			},
+			{
+				"conditionID": 994,
+				"stateID": 1
+			},
+			{
+				"conditionID": 4044,
+				"stateID": 1
+			},
+			{
+				"conditionID": 0,
+				"stateID": 0
+			}
+		],
+		"DataImpl": {},
+		"ID": 4
+	},
+	{
+		"PrefabPath": "Entities/Avatar/Lyle_C1_SN/Avatar_Lyle_C1_SN_UINPC",
+		"PrefabScale": 1,
+		"conditionList": [
+			{
+				"conditionID": 185,
+				"stateID": 2405
+			},
+			{
+				"conditionID": 10132,
+				"stateID": 2404
+			},
+			{
+				"conditionID": 10131,
+				"stateID": 2403
+			},
+			{
+				"conditionID": 10110,
+				"stateID": 2402
+			},
+			{
+				"conditionID": 10144,
+				"stateID": 2406
+			},
+			{
+				"conditionID": 0,
+				"stateID": 2401
+			}
+		],
+		"NPCHeadMark": [
+			{
+				"conditionID": 185,
+				"stateID": 3
+			},
+			{
+				"conditionID": 10110,
+				"stateID": 3
+			},
+			{
+				"conditionID": 10146,
+				"stateID": 4
+			},
+			{
+				"conditionID": 22550105,
+				"stateID": 4
+			},
+			{
+				"conditionID": 380,
+				"stateID": 4
+			},
+			{
+				"conditionID": 990,
+				"stateID": 4
+			},
+			{
+				"conditionID": 985,
+				"stateID": 4
+			},
+			{
+				"conditionID": 10132,
+				"stateID": 4
+			},
+			{
+				"conditionID": 10131,
+				"stateID": 4
+			},
+			{
+				"conditionID": 10144,
+				"stateID": 4
+			},
+			{
+				"conditionID": 4051,
+				"stateID": 2
+			},
+			{
+				"conditionID": 10138,
+				"stateID": 1
+			},
+			{
+				"conditionID": 995,
+				"stateID": 1
+			},
+			{
+				"conditionID": 4054,
+				"stateID": 1
+			},
+			{
+				"conditionID": 443,
+				"stateID": 1
+			},
+			{
+				"conditionID": 0,
+				"stateID": 0
+			}
+		],
+		"DataImpl": {},
+		"ID": 5
+	}
+]

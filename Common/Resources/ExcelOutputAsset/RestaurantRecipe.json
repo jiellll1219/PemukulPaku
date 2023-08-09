@@ -1,0 +1,1142 @@
+[
+	{
+		"Tag": 1,
+		"Ingredient": [
+			{
+				"MaterialID": 121301,
+				"Number": 1
+			},
+			{
+				"MaterialID": 121304,
+				"Number": 1
+			}
+		],
+		"SellPrice": 14,
+		"StockLimit": [
+			{
+				"Level": 1,
+				"Limit": 560
+			},
+			{
+				"Level": 2,
+				"Limit": 720
+			},
+			{
+				"Level": 3,
+				"Limit": 860
+			},
+			{
+				"Level": 4,
+				"Limit": 1000
+			},
+			{
+				"Level": 5,
+				"Limit": 1140
+			},
+			{
+				"Level": 6,
+				"Limit": 1280
+			}
+		],
+		"CookSpeed": [
+			{
+				"Level": 1,
+				"Speed": 33
+			},
+			{
+				"Level": 2,
+				"Speed": 33
+			},
+			{
+				"Level": 3,
+				"Speed": 33
+			},
+			{
+				"Level": 4,
+				"Speed": 33
+			},
+			{
+				"Level": 5,
+				"Speed": 33
+			},
+			{
+				"Level": 6,
+				"Speed": 33
+			}
+		],
+		"SellSpeed": [
+			{
+				"Level": 1,
+				"Speed": 66
+			},
+			{
+				"Level": 2,
+				"Speed": 66
+			},
+			{
+				"Level": 3,
+				"Speed": 66
+			},
+			{
+				"Level": 4,
+				"Speed": 66
+			},
+			{
+				"Level": 5,
+				"Speed": 66
+			},
+			{
+				"Level": 6,
+				"Speed": 66
+			}
+		],
+		"Bundle": 1,
+		"DataImpl": {},
+		"MaterialID": 121401
+	},
+	{
+		"Tag": 1,
+		"Ingredient": [
+			{
+				"MaterialID": 121301,
+				"Number": 2
+			},
+			{
+				"MaterialID": 121305,
+				"Number": 1
+			}
+		],
+		"SellPrice": 25,
+		"StockLimit": [
+			{
+				"Level": 1,
+				"Limit": 400
+			},
+			{
+				"Level": 2,
+				"Limit": 500
+			},
+			{
+				"Level": 3,
+				"Limit": 600
+			},
+			{
+				"Level": 4,
+				"Limit": 720
+			},
+			{
+				"Level": 5,
+				"Limit": 820
+			},
+			{
+				"Level": 6,
+				"Limit": 920
+			}
+		],
+		"CookSpeed": [
+			{
+				"Level": 1,
+				"Speed": 24
+			},
+			{
+				"Level": 2,
+				"Speed": 24
+			},
+			{
+				"Level": 3,
+				"Speed": 24
+			},
+			{
+				"Level": 4,
+				"Speed": 24
+			},
+			{
+				"Level": 5,
+				"Speed": 24
+			},
+			{
+				"Level": 6,
+				"Speed": 24
+			}
+		],
+		"SellSpeed": [
+			{
+				"Level": 1,
+				"Speed": 48
+			},
+			{
+				"Level": 2,
+				"Speed": 48
+			},
+			{
+				"Level": 3,
+				"Speed": 48
+			},
+			{
+				"Level": 4,
+				"Speed": 48
+			},
+			{
+				"Level": 5,
+				"Speed": 48
+			},
+			{
+				"Level": 6,
+				"Speed": 48
+			}
+		],
+		"Bundle": 1,
+		"DataImpl": {},
+		"MaterialID": 121402
+	},
+	{
+		"Tag": 1,
+		"Ingredient": [
+			{
+				"MaterialID": 121301,
+				"Number": 4
+			},
+			{
+				"MaterialID": 121306,
+				"Number": 1
+			}
+		],
+		"SellPrice": 45,
+		"StockLimit": [
+			{
+				"Level": 1,
+				"Limit": 0
+			},
+			{
+				"Level": 2,
+				"Limit": 400
+			},
+			{
+				"Level": 3,
+				"Limit": 480
+			},
+			{
+				"Level": 4,
+				"Limit": 560
+			},
+			{
+				"Level": 5,
+				"Limit": 640
+			},
+			{
+				"Level": 6,
+				"Limit": 720
+			}
+		],
+		"CookSpeed": [
+			{
+				"Level": 1,
+				"Speed": 0
+			},
+			{
+				"Level": 2,
+				"Speed": 19
+			},
+			{
+				"Level": 3,
+				"Speed": 19
+			},
+			{
+				"Level": 4,
+				"Speed": 19
+			},
+			{
+				"Level": 5,
+				"Speed": 19
+			},
+			{
+				"Level": 6,
+				"Speed": 19
+			}
+		],
+		"SellSpeed": [
+			{
+				"Level": 1,
+				"Speed": 0
+			},
+			{
+				"Level": 2,
+				"Speed": 38
+			},
+			{
+				"Level": 3,
+				"Speed": 38
+			},
+			{
+				"Level": 4,
+				"Speed": 38
+			},
+			{
+				"Level": 5,
+				"Speed": 38
+			},
+			{
+				"Level": 6,
+				"Speed": 38
+			}
+		],
+		"Bundle": 1,
+		"DataImpl": {},
+		"MaterialID": 121403
+	},
+	{
+		"Tag": 1,
+		"Ingredient": [
+			{
+				"MaterialID": 121301,
+				"Number": 8
+			},
+			{
+				"MaterialID": 121307,
+				"Number": 1
+			}
+		],
+		"SellPrice": 82,
+		"StockLimit": [
+			{
+				"Level": 1,
+				"Limit": 0
+			},
+			{
+				"Level": 2,
+				"Limit": 0
+			},
+			{
+				"Level": 3,
+				"Limit": 0
+			},
+			{
+				"Level": 4,
+				"Limit": 0
+			},
+			{
+				"Level": 5,
+				"Limit": 440
+			},
+			{
+				"Level": 6,
+				"Limit": 480
+			}
+		],
+		"CookSpeed": [
+			{
+				"Level": 1,
+				"Speed": 0
+			},
+			{
+				"Level": 2,
+				"Speed": 0
+			},
+			{
+				"Level": 3,
+				"Speed": 0
+			},
+			{
+				"Level": 4,
+				"Speed": 0
+			},
+			{
+				"Level": 5,
+				"Speed": 13
+			},
+			{
+				"Level": 6,
+				"Speed": 13
+			}
+		],
+		"SellSpeed": [
+			{
+				"Level": 1,
+				"Speed": 0
+			},
+			{
+				"Level": 2,
+				"Speed": 0
+			},
+			{
+				"Level": 3,
+				"Speed": 0
+			},
+			{
+				"Level": 4,
+				"Speed": 0
+			},
+			{
+				"Level": 5,
+				"Speed": 26
+			},
+			{
+				"Level": 6,
+				"Speed": 26
+			}
+		],
+		"Bundle": 1,
+		"DataImpl": {},
+		"MaterialID": 121404
+	},
+	{
+		"Tag": 2,
+		"Ingredient": [
+			{
+				"MaterialID": 121302,
+				"Number": 1
+			},
+			{
+				"MaterialID": 121304,
+				"Number": 1
+			}
+		],
+		"SellPrice": 14,
+		"StockLimit": [
+			{
+				"Level": 1,
+				"Limit": 560
+			},
+			{
+				"Level": 2,
+				"Limit": 720
+			},
+			{
+				"Level": 3,
+				"Limit": 860
+			},
+			{
+				"Level": 4,
+				"Limit": 1000
+			},
+			{
+				"Level": 5,
+				"Limit": 1140
+			},
+			{
+				"Level": 6,
+				"Limit": 1280
+			}
+		],
+		"CookSpeed": [
+			{
+				"Level": 1,
+				"Speed": 33
+			},
+			{
+				"Level": 2,
+				"Speed": 33
+			},
+			{
+				"Level": 3,
+				"Speed": 33
+			},
+			{
+				"Level": 4,
+				"Speed": 33
+			},
+			{
+				"Level": 5,
+				"Speed": 33
+			},
+			{
+				"Level": 6,
+				"Speed": 33
+			}
+		],
+		"SellSpeed": [
+			{
+				"Level": 1,
+				"Speed": 66
+			},
+			{
+				"Level": 2,
+				"Speed": 66
+			},
+			{
+				"Level": 3,
+				"Speed": 66
+			},
+			{
+				"Level": 4,
+				"Speed": 66
+			},
+			{
+				"Level": 5,
+				"Speed": 66
+			},
+			{
+				"Level": 6,
+				"Speed": 66
+			}
+		],
+		"Bundle": 1,
+		"DataImpl": {},
+		"MaterialID": 121405
+	},
+	{
+		"Tag": 2,
+		"Ingredient": [
+			{
+				"MaterialID": 121302,
+				"Number": 2
+			},
+			{
+				"MaterialID": 121305,
+				"Number": 1
+			}
+		],
+		"SellPrice": 25,
+		"StockLimit": [
+			{
+				"Level": 1,
+				"Limit": 400
+			},
+			{
+				"Level": 2,
+				"Limit": 500
+			},
+			{
+				"Level": 3,
+				"Limit": 600
+			},
+			{
+				"Level": 4,
+				"Limit": 720
+			},
+			{
+				"Level": 5,
+				"Limit": 820
+			},
+			{
+				"Level": 6,
+				"Limit": 920
+			}
+		],
+		"CookSpeed": [
+			{
+				"Level": 1,
+				"Speed": 24
+			},
+			{
+				"Level": 2,
+				"Speed": 24
+			},
+			{
+				"Level": 3,
+				"Speed": 24
+			},
+			{
+				"Level": 4,
+				"Speed": 24
+			},
+			{
+				"Level": 5,
+				"Speed": 24
+			},
+			{
+				"Level": 6,
+				"Speed": 24
+			}
+		],
+		"SellSpeed": [
+			{
+				"Level": 1,
+				"Speed": 48
+			},
+			{
+				"Level": 2,
+				"Speed": 48
+			},
+			{
+				"Level": 3,
+				"Speed": 48
+			},
+			{
+				"Level": 4,
+				"Speed": 48
+			},
+			{
+				"Level": 5,
+				"Speed": 48
+			},
+			{
+				"Level": 6,
+				"Speed": 48
+			}
+		],
+		"Bundle": 1,
+		"DataImpl": {},
+		"MaterialID": 121406
+	},
+	{
+		"Tag": 2,
+		"Ingredient": [
+			{
+				"MaterialID": 121302,
+				"Number": 4
+			},
+			{
+				"MaterialID": 121306,
+				"Number": 1
+			}
+		],
+		"SellPrice": 45,
+		"StockLimit": [
+			{
+				"Level": 1,
+				"Limit": 0
+			},
+			{
+				"Level": 2,
+				"Limit": 400
+			},
+			{
+				"Level": 3,
+				"Limit": 480
+			},
+			{
+				"Level": 4,
+				"Limit": 560
+			},
+			{
+				"Level": 5,
+				"Limit": 640
+			},
+			{
+				"Level": 6,
+				"Limit": 720
+			}
+		],
+		"CookSpeed": [
+			{
+				"Level": 1,
+				"Speed": 0
+			},
+			{
+				"Level": 2,
+				"Speed": 19
+			},
+			{
+				"Level": 3,
+				"Speed": 19
+			},
+			{
+				"Level": 4,
+				"Speed": 19
+			},
+			{
+				"Level": 5,
+				"Speed": 19
+			},
+			{
+				"Level": 6,
+				"Speed": 19
+			}
+		],
+		"SellSpeed": [
+			{
+				"Level": 1,
+				"Speed": 0
+			},
+			{
+				"Level": 2,
+				"Speed": 38
+			},
+			{
+				"Level": 3,
+				"Speed": 38
+			},
+			{
+				"Level": 4,
+				"Speed": 38
+			},
+			{
+				"Level": 5,
+				"Speed": 38
+			},
+			{
+				"Level": 6,
+				"Speed": 38
+			}
+		],
+		"Bundle": 1,
+		"DataImpl": {},
+		"MaterialID": 121407
+	},
+	{
+		"Tag": 2,
+		"Ingredient": [
+			{
+				"MaterialID": 121302,
+				"Number": 8
+			},
+			{
+				"MaterialID": 121307,
+				"Number": 1
+			}
+		],
+		"SellPrice": 82,
+		"StockLimit": [
+			{
+				"Level": 1,
+				"Limit": 0
+			},
+			{
+				"Level": 2,
+				"Limit": 0
+			},
+			{
+				"Level": 3,
+				"Limit": 0
+			},
+			{
+				"Level": 4,
+				"Limit": 0
+			},
+			{
+				"Level": 5,
+				"Limit": 440
+			},
+			{
+				"Level": 6,
+				"Limit": 480
+			}
+		],
+		"CookSpeed": [
+			{
+				"Level": 1,
+				"Speed": 0
+			},
+			{
+				"Level": 2,
+				"Speed": 0
+			},
+			{
+				"Level": 3,
+				"Speed": 0
+			},
+			{
+				"Level": 4,
+				"Speed": 0
+			},
+			{
+				"Level": 5,
+				"Speed": 13
+			},
+			{
+				"Level": 6,
+				"Speed": 13
+			}
+		],
+		"SellSpeed": [
+			{
+				"Level": 1,
+				"Speed": 0
+			},
+			{
+				"Level": 2,
+				"Speed": 0
+			},
+			{
+				"Level": 3,
+				"Speed": 0
+			},
+			{
+				"Level": 4,
+				"Speed": 0
+			},
+			{
+				"Level": 5,
+				"Speed": 26
+			},
+			{
+				"Level": 6,
+				"Speed": 26
+			}
+		],
+		"Bundle": 1,
+		"DataImpl": {},
+		"MaterialID": 121408
+	},
+	{
+		"Tag": 3,
+		"Ingredient": [
+			{
+				"MaterialID": 121303,
+				"Number": 1
+			},
+			{
+				"MaterialID": 121304,
+				"Number": 1
+			}
+		],
+		"SellPrice": 14,
+		"StockLimit": [
+			{
+				"Level": 1,
+				"Limit": 560
+			},
+			{
+				"Level": 2,
+				"Limit": 720
+			},
+			{
+				"Level": 3,
+				"Limit": 860
+			},
+			{
+				"Level": 4,
+				"Limit": 1000
+			},
+			{
+				"Level": 5,
+				"Limit": 1140
+			},
+			{
+				"Level": 6,
+				"Limit": 1280
+			}
+		],
+		"CookSpeed": [
+			{
+				"Level": 1,
+				"Speed": 33
+			},
+			{
+				"Level": 2,
+				"Speed": 33
+			},
+			{
+				"Level": 3,
+				"Speed": 33
+			},
+			{
+				"Level": 4,
+				"Speed": 33
+			},
+			{
+				"Level": 5,
+				"Speed": 33
+			},
+			{
+				"Level": 6,
+				"Speed": 33
+			}
+		],
+		"SellSpeed": [
+			{
+				"Level": 1,
+				"Speed": 66
+			},
+			{
+				"Level": 2,
+				"Speed": 66
+			},
+			{
+				"Level": 3,
+				"Speed": 66
+			},
+			{
+				"Level": 4,
+				"Speed": 66
+			},
+			{
+				"Level": 5,
+				"Speed": 66
+			},
+			{
+				"Level": 6,
+				"Speed": 66
+			}
+		],
+		"Bundle": 1,
+		"DataImpl": {},
+		"MaterialID": 121409
+	},
+	{
+		"Tag": 3,
+		"Ingredient": [
+			{
+				"MaterialID": 121303,
+				"Number": 2
+			},
+			{
+				"MaterialID": 121305,
+				"Number": 1
+			}
+		],
+		"SellPrice": 25,
+		"StockLimit": [
+			{
+				"Level": 1,
+				"Limit": 400
+			},
+			{
+				"Level": 2,
+				"Limit": 500
+			},
+			{
+				"Level": 3,
+				"Limit": 600
+			},
+			{
+				"Level": 4,
+				"Limit": 720
+			},
+			{
+				"Level": 5,
+				"Limit": 820
+			},
+			{
+				"Level": 6,
+				"Limit": 920
+			}
+		],
+		"CookSpeed": [
+			{
+				"Level": 1,
+				"Speed": 24
+			},
+			{
+				"Level": 2,
+				"Speed": 24
+			},
+			{
+				"Level": 3,
+				"Speed": 24
+			},
+			{
+				"Level": 4,
+				"Speed": 24
+			},
+			{
+				"Level": 5,
+				"Speed": 24
+			},
+			{
+				"Level": 6,
+				"Speed": 24
+			}
+		],
+		"SellSpeed": [
+			{
+				"Level": 1,
+				"Speed": 48
+			},
+			{
+				"Level": 2,
+				"Speed": 48
+			},
+			{
+				"Level": 3,
+				"Speed": 48
+			},
+			{
+				"Level": 4,
+				"Speed": 48
+			},
+			{
+				"Level": 5,
+				"Speed": 48
+			},
+			{
+				"Level": 6,
+				"Speed": 48
+			}
+		],
+		"Bundle": 1,
+		"DataImpl": {},
+		"MaterialID": 121410
+	},
+	{
+		"Tag": 3,
+		"Ingredient": [
+			{
+				"MaterialID": 121303,
+				"Number": 4
+			},
+			{
+				"MaterialID": 121306,
+				"Number": 1
+			}
+		],
+		"SellPrice": 45,
+		"StockLimit": [
+			{
+				"Level": 1,
+				"Limit": 0
+			},
+			{
+				"Level": 2,
+				"Limit": 400
+			},
+			{
+				"Level": 3,
+				"Limit": 480
+			},
+			{
+				"Level": 4,
+				"Limit": 560
+			},
+			{
+				"Level": 5,
+				"Limit": 640
+			},
+			{
+				"Level": 6,
+				"Limit": 720
+			}
+		],
+		"CookSpeed": [
+			{
+				"Level": 1,
+				"Speed": 0
+			},
+			{
+				"Level": 2,
+				"Speed": 19
+			},
+			{
+				"Level": 3,
+				"Speed": 19
+			},
+			{
+				"Level": 4,
+				"Speed": 19
+			},
+			{
+				"Level": 5,
+				"Speed": 19
+			},
+			{
+				"Level": 6,
+				"Speed": 19
+			}
+		],
+		"SellSpeed": [
+			{
+				"Level": 1,
+				"Speed": 0
+			},
+			{
+				"Level": 2,
+				"Speed": 38
+			},
+			{
+				"Level": 3,
+				"Speed": 38
+			},
+			{
+				"Level": 4,
+				"Speed": 38
+			},
+			{
+				"Level": 5,
+				"Speed": 38
+			},
+			{
+				"Level": 6,
+				"Speed": 38
+			}
+		],
+		"Bundle": 1,
+		"DataImpl": {},
+		"MaterialID": 121411
+	},
+	{
+		"Tag": 3,
+		"Ingredient": [
+			{
+				"MaterialID": 121303,
+				"Number": 8
+			},
+			{
+				"MaterialID": 121307,
+				"Number": 1
+			}
+		],
+		"SellPrice": 82,
+		"StockLimit": [
+			{
+				"Level": 1,
+				"Limit": 0
+			},
+			{
+				"Level": 2,
+				"Limit": 0
+			},
+			{
+				"Level": 3,
+				"Limit": 0
+			},
+			{
+				"Level": 4,
+				"Limit": 0
+			},
+			{
+				"Level": 5,
+				"Limit": 440
+			},
+			{
+				"Level": 6,
+				"Limit": 480
+			}
+		],
+		"CookSpeed": [
+			{
+				"Level": 1,
+				"Speed": 0
+			},
+			{
+				"Level": 2,
+				"Speed": 0
+			},
+			{
+				"Level": 3,
+				"Speed": 0
+			},
+			{
+				"Level": 4,
+				"Speed": 0
+			},
+			{
+				"Level": 5,
+				"Speed": 13
+			},
+			{
+				"Level": 6,
+				"Speed": 13
+			}
+		],
+		"SellSpeed": [
+			{
+				"Level": 1,
+				"Speed": 0
+			},
+			{
+				"Level": 2,
+				"Speed": 0
+			},
+			{
+				"Level": 3,
+				"Speed": 0
+			},
+			{
+				"Level": 4,
+				"Speed": 0
+			},
+			{
+				"Level": 5,
+				"Speed": 26
+			},
+			{
+				"Level": 6,
+				"Speed": 26
+			}
+		],
+		"Bundle": 1,
+		"DataImpl": {},
+		"MaterialID": 121412
+	}
+]

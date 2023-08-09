@@ -1,0 +1,5464 @@
+[
+	{
+		"SkillType": 99,
+		"AbilityName": "ABL_MvM_SKL_AT_Unlock",
+		"AbilityParaList": [
+			{
+				"Param": 1,
+				"Name": "_ASV_SKL_AT_Unlock"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": 0
+		},
+		"Desc": {
+			"hash": 0
+		},
+		"UnlockDesc": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"SkillID": 1
+	},
+	{
+		"SkillType": 99,
+		"AbilityName": "ABL_MvM_SKL_PA_Unlock",
+		"AbilityParaList": [
+			{
+				"Param": 1,
+				"Name": "_ASV_SKL_PA_Unlock"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": 0
+		},
+		"Desc": {
+			"hash": 0
+		},
+		"UnlockDesc": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"SkillID": 2
+	},
+	{
+		"SkillType": 99,
+		"AbilityName": "ABL_MvM_SKL_CA_Unlock",
+		"AbilityParaList": [
+			{
+				"Param": 1,
+				"Name": "_ASV_SKL_CA_Unlock"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": 0
+		},
+		"Desc": {
+			"hash": 0
+		},
+		"UnlockDesc": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"SkillID": 3
+	},
+	{
+		"SkillType": 1,
+		"AbilityName": "ABL_RO_020_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140609771
+		},
+		"Desc": {
+			"hash": -1018405221
+		},
+		"UnlockDesc": {
+			"hash": -1674008641
+		},
+		"DataImpl": {},
+		"SkillID": 10001
+	},
+	{
+		"SkillType": 2,
+		"AbilityName": "ABL_RO_020_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140609770
+		},
+		"Desc": {
+			"hash": -1018405220
+		},
+		"UnlockDesc": {
+			"hash": -1674008640
+		},
+		"DataImpl": {},
+		"SkillID": 10002
+	},
+	{
+		"SkillType": 3,
+		"AbilityName": "ABL_RO_020_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140609769
+		},
+		"Desc": {
+			"hash": -1018405219
+		},
+		"UnlockDesc": {
+			"hash": -1674008639
+		},
+		"DataImpl": {},
+		"SkillID": 10003
+	},
+	{
+		"SkillType": 4,
+		"AbilityName": "ABL_RO_020_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140609768
+		},
+		"Desc": {
+			"hash": -1018405218
+		},
+		"UnlockDesc": {
+			"hash": -1674008638
+		},
+		"DataImpl": {},
+		"SkillID": 10004
+	},
+	{
+		"SkillType": 0,
+		"AbilityName": "ABL_MvM_RO_020_SKL_AllDmg_PCT",
+		"AbilityParaList": [
+			{
+				"Param": 1.25,
+				"Name": "_ASV_MvM_RO_020_Atk_AllDmg_PCT"
+			},
+			{
+				"Param": 0.52,
+				"Name": "_ASV_MvM_RO_020_AT_AllDmg_PCT"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140609767
+		},
+		"Desc": {
+			"hash": -1018405217
+		},
+		"UnlockDesc": {
+			"hash": -1674008637
+		},
+		"DataImpl": {},
+		"SkillID": 10005
+	},
+	{
+		"SkillType": 1,
+		"AbilityName": "ABL_RO_080_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140608810
+		},
+		"Desc": {
+			"hash": -1018404260
+		},
+		"UnlockDesc": {
+			"hash": -1674007680
+		},
+		"DataImpl": {},
+		"SkillID": 10101
+	},
+	{
+		"SkillType": 2,
+		"AbilityName": "ABL_RO_080_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140608809
+		},
+		"Desc": {
+			"hash": -1018404259
+		},
+		"UnlockDesc": {
+			"hash": -1674007679
+		},
+		"DataImpl": {},
+		"SkillID": 10102
+	},
+	{
+		"SkillType": 3,
+		"AbilityName": "ABL_RO_080_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140608808
+		},
+		"Desc": {
+			"hash": -1018404258
+		},
+		"UnlockDesc": {
+			"hash": -1674007678
+		},
+		"DataImpl": {},
+		"SkillID": 10103
+	},
+	{
+		"SkillType": 4,
+		"AbilityName": "ABL_RO_080_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140608807
+		},
+		"Desc": {
+			"hash": -1018404257
+		},
+		"UnlockDesc": {
+			"hash": -1674007677
+		},
+		"DataImpl": {},
+		"SkillID": 10104
+	},
+	{
+		"SkillType": 0,
+		"AbilityName": "ABL_MvM_RO_080_SKL_AllDmg_PCT",
+		"AbilityParaList": [
+			{
+				"Param": 0.18,
+				"Name": "_ASV_MvM_RO_080_Atk_AllDmg_PCT"
+			},
+			{
+				"Param": 3.7,
+				"Name": "_ASV_MvM_RO_080_AT_AllDmg_PCT"
+			},
+			{
+				"Param": 3.93,
+				"Name": "_ASV_MvM_RO_080_CA_AllDmg_PCT"
+			},
+			{
+				"Param": 4.17,
+				"Name": "_ASV_MvM_RO_080_PA_AllDmg_PCT"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140608806
+		},
+		"Desc": {
+			"hash": -1018404256
+		},
+		"UnlockDesc": {
+			"hash": -1674007676
+		},
+		"DataImpl": {},
+		"SkillID": 10105
+	},
+	{
+		"SkillType": 1,
+		"AbilityName": "ABL_RO_070_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140607849
+		},
+		"Desc": {
+			"hash": -1018403299
+		},
+		"UnlockDesc": {
+			"hash": -1674006719
+		},
+		"DataImpl": {},
+		"SkillID": 10201
+	},
+	{
+		"SkillType": 2,
+		"AbilityName": "ABL_RO_070_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140607848
+		},
+		"Desc": {
+			"hash": -1018403298
+		},
+		"UnlockDesc": {
+			"hash": -1674006718
+		},
+		"DataImpl": {},
+		"SkillID": 10202
+	},
+	{
+		"SkillType": 3,
+		"AbilityName": "ABL_RO_070_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140607847
+		},
+		"Desc": {
+			"hash": -1018403297
+		},
+		"UnlockDesc": {
+			"hash": -1674006717
+		},
+		"DataImpl": {},
+		"SkillID": 10203
+	},
+	{
+		"SkillType": 4,
+		"AbilityName": "ABL_RO_070_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140607846
+		},
+		"Desc": {
+			"hash": -1018403296
+		},
+		"UnlockDesc": {
+			"hash": -1674006716
+		},
+		"DataImpl": {},
+		"SkillID": 10204
+	},
+	{
+		"SkillType": 0,
+		"AbilityName": "ABL_MvM_RO_070_SKL_AllDmg_PCT",
+		"AbilityParaList": [
+			{
+				"Param": -0.25,
+				"Name": "_ASV_MvM_RO_070_NM_Atk_AllDmg_PCT"
+			},
+			{
+				"Param": -0.4,
+				"Name": "_ASV_MvM_RO_070_OD_Atk_AllDmg_PCT"
+			},
+			{
+				"Param": 4.66,
+				"Name": "_ASV_MvM_RO_070_AT_AllDmg_PCT"
+			},
+			{
+				"Param": 0,
+				"Name": "_ASV_MvM_RO_070_PA_AllDmg_PCT"
+			},
+			{
+				"Param": 1.68,
+				"Name": "_ASV_MvM_RO_070_CA_AllDmg_PCT"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140607845
+		},
+		"Desc": {
+			"hash": -1018403295
+		},
+		"UnlockDesc": {
+			"hash": -1674006715
+		},
+		"DataImpl": {},
+		"SkillID": 10205
+	},
+	{
+		"SkillType": 1,
+		"AbilityName": "ABL_BOSS_200_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140606888
+		},
+		"Desc": {
+			"hash": -1018402338
+		},
+		"UnlockDesc": {
+			"hash": -1674005758
+		},
+		"DataImpl": {},
+		"SkillID": 10301
+	},
+	{
+		"SkillType": 2,
+		"AbilityName": "ABL_BOSS_200_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140606887
+		},
+		"Desc": {
+			"hash": -1018402337
+		},
+		"UnlockDesc": {
+			"hash": -1674005757
+		},
+		"DataImpl": {},
+		"SkillID": 10302
+	},
+	{
+		"SkillType": 3,
+		"AbilityName": "ABL_BOSS_200_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140606886
+		},
+		"Desc": {
+			"hash": -1018402336
+		},
+		"UnlockDesc": {
+			"hash": -1674005756
+		},
+		"DataImpl": {},
+		"SkillID": 10303
+	},
+	{
+		"SkillType": 4,
+		"AbilityName": "ABL_BOSS_200_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140606885
+		},
+		"Desc": {
+			"hash": -1018402335
+		},
+		"UnlockDesc": {
+			"hash": -1674005755
+		},
+		"DataImpl": {},
+		"SkillID": 10304
+	},
+	{
+		"SkillType": 0,
+		"AbilityName": "ABL_MvM_BOSS_200_SKL_AllDmg_PCT",
+		"AbilityParaList": [
+			{
+				"Param": -0.83,
+				"Name": "_ASV_MvM_BOSS_200_NM_Atk_AllDmg_PCT"
+			},
+			{
+				"Param": -0.7,
+				"Name": "_ASV_MvM_BOSS_200_OD_Atk_AllDmg_PCT"
+			},
+			{
+				"Param": 3.25,
+				"Name": "_ASV_MvM_BOSS_200_NM_AT_AllDmg_PCT"
+			},
+			{
+				"Param": 3.25,
+				"Name": "_ASV_MvM_BOSS_200_OD_AT_AllDmg_PCT"
+			},
+			{
+				"Param": 0,
+				"Name": "_ASV_MvM_BOSS_200_PA_AllDmg_PCT"
+			},
+			{
+				"Param": 2.57,
+				"Name": "_ASV_MvM_BOSS_200_CA_AllDmg_PCT"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140606884
+		},
+		"Desc": {
+			"hash": -1018402334
+		},
+		"UnlockDesc": {
+			"hash": -1674005754
+		},
+		"DataImpl": {},
+		"SkillID": 10305
+	},
+	{
+		"SkillType": 1,
+		"AbilityName": "ABL_BOSS_160_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140605927
+		},
+		"Desc": {
+			"hash": -1018401377
+		},
+		"UnlockDesc": {
+			"hash": -1674004797
+		},
+		"DataImpl": {},
+		"SkillID": 10401
+	},
+	{
+		"SkillType": 2,
+		"AbilityName": "ABL_BOSS_160_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140605926
+		},
+		"Desc": {
+			"hash": -1018401376
+		},
+		"UnlockDesc": {
+			"hash": -1674004796
+		},
+		"DataImpl": {},
+		"SkillID": 10402
+	},
+	{
+		"SkillType": 3,
+		"AbilityName": "ABL_BOSS_160_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140605925
+		},
+		"Desc": {
+			"hash": -1018401375
+		},
+		"UnlockDesc": {
+			"hash": -1674004795
+		},
+		"DataImpl": {},
+		"SkillID": 10403
+	},
+	{
+		"SkillType": 4,
+		"AbilityName": "ABL_BOSS_160_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140605924
+		},
+		"Desc": {
+			"hash": -1018401374
+		},
+		"UnlockDesc": {
+			"hash": -1674004794
+		},
+		"DataImpl": {},
+		"SkillID": 10404
+	},
+	{
+		"SkillType": 0,
+		"AbilityName": "ABL_MvM_BOSS_160_SKL_AllDmg_PCT",
+		"AbilityParaList": [
+			{
+				"Param": 0.14,
+				"Name": "_ASV_MvM_BOSS_160_Atk_AllDmg_PCT"
+			},
+			{
+				"Param": 0.17,
+				"Name": "_ASV_MvM_BOSS_160_AT_AllDmg_PCT"
+			},
+			{
+				"Param": -0.45,
+				"Name": "_ASV_MvM_BOSS_160_CA_AllDmg_PCT"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140605923
+		},
+		"Desc": {
+			"hash": -1018401373
+		},
+		"UnlockDesc": {
+			"hash": -1674004793
+		},
+		"DataImpl": {},
+		"SkillID": 10405
+	},
+	{
+		"SkillType": 1,
+		"AbilityName": "ABL_RO_034_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140604966
+		},
+		"Desc": {
+			"hash": -1018400416
+		},
+		"UnlockDesc": {
+			"hash": -1674003836
+		},
+		"DataImpl": {},
+		"SkillID": 10501
+	},
+	{
+		"SkillType": 2,
+		"AbilityName": "ABL_RO_034_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140604965
+		},
+		"Desc": {
+			"hash": -1018400415
+		},
+		"UnlockDesc": {
+			"hash": -1674003835
+		},
+		"DataImpl": {},
+		"SkillID": 10502
+	},
+	{
+		"SkillType": 3,
+		"AbilityName": "ABL_RO_034_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140604964
+		},
+		"Desc": {
+			"hash": -1018400414
+		},
+		"UnlockDesc": {
+			"hash": -1674003834
+		},
+		"DataImpl": {},
+		"SkillID": 10503
+	},
+	{
+		"SkillType": 4,
+		"AbilityName": "ABL_RO_034_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140604963
+		},
+		"Desc": {
+			"hash": -1018400413
+		},
+		"UnlockDesc": {
+			"hash": -1674003833
+		},
+		"DataImpl": {},
+		"SkillID": 10504
+	},
+	{
+		"SkillType": 0,
+		"AbilityName": "ABL_MvM_RO_034_SKL_AllDmg_PCT",
+		"AbilityParaList": [
+			{
+				"Param": -0.19,
+				"Name": "_ASV_MvM_RO_034_Atk_AllDmg_PCT"
+			},
+			{
+				"Param": 1.37,
+				"Name": "_ASV_MvM_RO_034_AT_AllDmg_PCT"
+			},
+			{
+				"Param": 1.2,
+				"Name": "_ASV_MvM_RO_034_CA_AllDmg_PCT"
+			},
+			{
+				"Param": 1.8,
+				"Name": "_ASV_MvM_RO_034_PA_AllDmg_PCT"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140604962
+		},
+		"Desc": {
+			"hash": -1018400412
+		},
+		"UnlockDesc": {
+			"hash": -1674003832
+		},
+		"DataImpl": {},
+		"SkillID": 10505
+	},
+	{
+		"SkillType": 1,
+		"AbilityName": "ABL_QT_020_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140604005
+		},
+		"Desc": {
+			"hash": -1018399455
+		},
+		"UnlockDesc": {
+			"hash": -1674002875
+		},
+		"DataImpl": {},
+		"SkillID": 10601
+	},
+	{
+		"SkillType": 2,
+		"AbilityName": "ABL_QT_020_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140604004
+		},
+		"Desc": {
+			"hash": -1018399454
+		},
+		"UnlockDesc": {
+			"hash": -1674002874
+		},
+		"DataImpl": {},
+		"SkillID": 10602
+	},
+	{
+		"SkillType": 3,
+		"AbilityName": "ABL_QT_020_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140604003
+		},
+		"Desc": {
+			"hash": -1018399453
+		},
+		"UnlockDesc": {
+			"hash": -1674002873
+		},
+		"DataImpl": {},
+		"SkillID": 10603
+	},
+	{
+		"SkillType": 4,
+		"AbilityName": "ABL_QT_020_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140604002
+		},
+		"Desc": {
+			"hash": -1018399452
+		},
+		"UnlockDesc": {
+			"hash": -1674002872
+		},
+		"DataImpl": {},
+		"SkillID": 10604
+	},
+	{
+		"SkillType": 0,
+		"AbilityName": "ABL_MvM_QT_020_SKL_AllDmg_PCT",
+		"AbilityParaList": [
+			{
+				"Param": 0.6,
+				"Name": "_ASV_MvM_QT_020_Atk_AllDmg_PCT"
+			},
+			{
+				"Param": 0.34,
+				"Name": "_ASV_MvM_QT_020_CA_AllDmg_PCT"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140604001
+		},
+		"Desc": {
+			"hash": -1018399451
+		},
+		"UnlockDesc": {
+			"hash": -1674002871
+		},
+		"DataImpl": {},
+		"SkillID": 10605
+	},
+	{
+		"SkillType": 1,
+		"AbilityName": "ABL_QT_060_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140603044
+		},
+		"Desc": {
+			"hash": -1018398494
+		},
+		"UnlockDesc": {
+			"hash": -1674001914
+		},
+		"DataImpl": {},
+		"SkillID": 10701
+	},
+	{
+		"SkillType": 2,
+		"AbilityName": "ABL_QT_060_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140603043
+		},
+		"Desc": {
+			"hash": -1018398493
+		},
+		"UnlockDesc": {
+			"hash": -1674001913
+		},
+		"DataImpl": {},
+		"SkillID": 10702
+	},
+	{
+		"SkillType": 3,
+		"AbilityName": "ABL_QT_060_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140603042
+		},
+		"Desc": {
+			"hash": -1018398492
+		},
+		"UnlockDesc": {
+			"hash": -1674001912
+		},
+		"DataImpl": {},
+		"SkillID": 10703
+	},
+	{
+		"SkillType": 4,
+		"AbilityName": "ABL_QT_060_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140603041
+		},
+		"Desc": {
+			"hash": -1018398491
+		},
+		"UnlockDesc": {
+			"hash": -1674001911
+		},
+		"DataImpl": {},
+		"SkillID": 10704
+	},
+	{
+		"SkillType": 0,
+		"AbilityName": "ABL_MvM_QT_060_SKL_AllDmg_PCT",
+		"AbilityParaList": [
+			{
+				"Param": 1.1,
+				"Name": "_ASV_MvM_QT_060_Atk_AllDmg_PCT"
+			},
+			{
+				"Param": 7.44,
+				"Name": "_ASV_MvM_QT_060_AT_AllDmg_PCT"
+			},
+			{
+				"Param": 5.04,
+				"Name": "_ASV_MvM_QT_060_CA_AllDmg_PCT"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140603040
+		},
+		"Desc": {
+			"hash": -1018398490
+		},
+		"UnlockDesc": {
+			"hash": -1674001910
+		},
+		"DataImpl": {},
+		"SkillID": 10705
+	},
+	{
+		"SkillType": 1,
+		"AbilityName": "ABL_QT_070_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140602083
+		},
+		"Desc": {
+			"hash": -1018397533
+		},
+		"UnlockDesc": {
+			"hash": -1674000953
+		},
+		"DataImpl": {},
+		"SkillID": 10801
+	},
+	{
+		"SkillType": 2,
+		"AbilityName": "ABL_QT_070_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140602082
+		},
+		"Desc": {
+			"hash": -1018397532
+		},
+		"UnlockDesc": {
+			"hash": -1674000952
+		},
+		"DataImpl": {},
+		"SkillID": 10802
+	},
+	{
+		"SkillType": 3,
+		"AbilityName": "ABL_QT_070_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140602081
+		},
+		"Desc": {
+			"hash": -1018397531
+		},
+		"UnlockDesc": {
+			"hash": -1674000951
+		},
+		"DataImpl": {},
+		"SkillID": 10803
+	},
+	{
+		"SkillType": 4,
+		"AbilityName": "ABL_QT_070_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140602080
+		},
+		"Desc": {
+			"hash": -1018397530
+		},
+		"UnlockDesc": {
+			"hash": -1674000950
+		},
+		"DataImpl": {},
+		"SkillID": 10804
+	},
+	{
+		"SkillType": 0,
+		"AbilityName": "ABL_MvM_QT_070_SKL_AllDmg_PCT",
+		"AbilityParaList": [
+			{
+				"Param": 4.85,
+				"Name": "_ASV_MvM_QT_070_Atk_AllDmg_PCT"
+			},
+			{
+				"Param": 7.24,
+				"Name": "_ASV_MvM_QT_070_AT_AllDmg_PCT"
+			},
+			{
+				"Param": 0.54,
+				"Name": "_ASV_MvM_QT_070_CA_AllDmg_PCT"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140602079
+		},
+		"Desc": {
+			"hash": -1018397529
+		},
+		"UnlockDesc": {
+			"hash": -1674000949
+		},
+		"DataImpl": {},
+		"SkillID": 10805
+	},
+	{
+		"SkillType": 1,
+		"AbilityName": "ABL_QT_030_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140601122
+		},
+		"Desc": {
+			"hash": -1018396572
+		},
+		"UnlockDesc": {
+			"hash": -1673999992
+		},
+		"DataImpl": {},
+		"SkillID": 10901
+	},
+	{
+		"SkillType": 2,
+		"AbilityName": "ABL_QT_030_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140601121
+		},
+		"Desc": {
+			"hash": -1018396571
+		},
+		"UnlockDesc": {
+			"hash": -1673999991
+		},
+		"DataImpl": {},
+		"SkillID": 10902
+	},
+	{
+		"SkillType": 3,
+		"AbilityName": "ABL_QT_030_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140601120
+		},
+		"Desc": {
+			"hash": -1018396570
+		},
+		"UnlockDesc": {
+			"hash": -1673999990
+		},
+		"DataImpl": {},
+		"SkillID": 10903
+	},
+	{
+		"SkillType": 4,
+		"AbilityName": "ABL_QT_030_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140601119
+		},
+		"Desc": {
+			"hash": -1018396569
+		},
+		"UnlockDesc": {
+			"hash": -1673999989
+		},
+		"DataImpl": {},
+		"SkillID": 10904
+	},
+	{
+		"SkillType": 0,
+		"AbilityName": "ABL_MvM_QT_030_SKL_AllDmg_PCT",
+		"AbilityParaList": [
+			{
+				"Param": 3.25,
+				"Name": "_ASV_MvM_QT_030_Atk_AllDmg_PCT"
+			},
+			{
+				"Param": 7.81,
+				"Name": "_ASV_MvM_QT_030_AT_AllDmg_PCT"
+			},
+			{
+				"Param": 5.41,
+				"Name": "_ASV_MvM_QT_030_CA_AllDmg_PCT"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140601118
+		},
+		"Desc": {
+			"hash": -1018396568
+		},
+		"UnlockDesc": {
+			"hash": -1673999988
+		},
+		"DataImpl": {},
+		"SkillID": 10905
+	},
+	{
+		"SkillType": 1,
+		"AbilityName": "ABL_BOSS_180_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140579980
+		},
+		"Desc": {
+			"hash": -1018375430
+		},
+		"UnlockDesc": {
+			"hash": -1673978850
+		},
+		"DataImpl": {},
+		"SkillID": 11001
+	},
+	{
+		"SkillType": 2,
+		"AbilityName": "ABL_BOSS_180_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140579979
+		},
+		"Desc": {
+			"hash": -1018375429
+		},
+		"UnlockDesc": {
+			"hash": -1673978849
+		},
+		"DataImpl": {},
+		"SkillID": 11002
+	},
+	{
+		"SkillType": 3,
+		"AbilityName": "ABL_BOSS_180_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140579978
+		},
+		"Desc": {
+			"hash": -1018375428
+		},
+		"UnlockDesc": {
+			"hash": -1673978848
+		},
+		"DataImpl": {},
+		"SkillID": 11003
+	},
+	{
+		"SkillType": 4,
+		"AbilityName": "ABL_BOSS_180_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140579977
+		},
+		"Desc": {
+			"hash": -1018375427
+		},
+		"UnlockDesc": {
+			"hash": -1673978847
+		},
+		"DataImpl": {},
+		"SkillID": 11004
+	},
+	{
+		"SkillType": 0,
+		"AbilityName": "ABL_MvM_BOSS_180_SKL_AllDmg_PCT",
+		"AbilityParaList": [
+			{
+				"Param": -0.42,
+				"Name": "_ASV_MvM_BOSS_180_Atk_AllDmg_PCT"
+			},
+			{
+				"Param": 4.2,
+				"Name": "_ASV_MvM_BOSS_180_AT_AllDmg_PCT"
+			},
+			{
+				"Param": 13.68,
+				"Name": "_ASV_MvM_BOSS_180_CA_AllDmg_PCT"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140579976
+		},
+		"Desc": {
+			"hash": -1018375426
+		},
+		"UnlockDesc": {
+			"hash": -1673978846
+		},
+		"DataImpl": {},
+		"SkillID": 11005
+	},
+	{
+		"SkillType": 1,
+		"AbilityName": "ABL_BOSS_240_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140579019
+		},
+		"Desc": {
+			"hash": -1018374469
+		},
+		"UnlockDesc": {
+			"hash": -1673977889
+		},
+		"DataImpl": {},
+		"SkillID": 11101
+	},
+	{
+		"SkillType": 2,
+		"AbilityName": "ABL_BOSS_240_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140579018
+		},
+		"Desc": {
+			"hash": -1018374468
+		},
+		"UnlockDesc": {
+			"hash": -1673977888
+		},
+		"DataImpl": {},
+		"SkillID": 11102
+	},
+	{
+		"SkillType": 3,
+		"AbilityName": "ABL_BOSS_240_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140579017
+		},
+		"Desc": {
+			"hash": -1018374467
+		},
+		"UnlockDesc": {
+			"hash": -1673977887
+		},
+		"DataImpl": {},
+		"SkillID": 11103
+	},
+	{
+		"SkillType": 4,
+		"AbilityName": "ABL_BOSS_240_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140579016
+		},
+		"Desc": {
+			"hash": -1018374466
+		},
+		"UnlockDesc": {
+			"hash": -1673977886
+		},
+		"DataImpl": {},
+		"SkillID": 11104
+	},
+	{
+		"SkillType": 0,
+		"AbilityName": "ABL_MvM_BOSS_240_SKL_AllDmg_PCT",
+		"AbilityParaList": [
+			{
+				"Param": 0.79,
+				"Name": "_ASV_MvM_BOSS_240_Atk_AllDmg_PCT"
+			},
+			{
+				"Param": -0.4,
+				"Name": "_ASV_MvM_BOSS_240_AT_AllDmg_PCT"
+			},
+			{
+				"Param": 1.52,
+				"Name": "_ASV_MvM_BOSS_240_CA_AllDmg_PCT"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140579015
+		},
+		"Desc": {
+			"hash": -1018374465
+		},
+		"UnlockDesc": {
+			"hash": -1673977885
+		},
+		"DataImpl": {},
+		"SkillID": 11105
+	},
+	{
+		"SkillType": 1,
+		"AbilityName": "ABL_BOSS_290_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140578058
+		},
+		"Desc": {
+			"hash": -1018373508
+		},
+		"UnlockDesc": {
+			"hash": -1673976928
+		},
+		"DataImpl": {},
+		"SkillID": 11201
+	},
+	{
+		"SkillType": 2,
+		"AbilityName": "ABL_BOSS_290_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140578057
+		},
+		"Desc": {
+			"hash": -1018373507
+		},
+		"UnlockDesc": {
+			"hash": -1673976927
+		},
+		"DataImpl": {},
+		"SkillID": 11202
+	},
+	{
+		"SkillType": 3,
+		"AbilityName": "ABL_BOSS_290_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140578056
+		},
+		"Desc": {
+			"hash": -1018373506
+		},
+		"UnlockDesc": {
+			"hash": -1673976926
+		},
+		"DataImpl": {},
+		"SkillID": 11203
+	},
+	{
+		"SkillType": 4,
+		"AbilityName": "ABL_BOSS_290_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140578055
+		},
+		"Desc": {
+			"hash": -1018373505
+		},
+		"UnlockDesc": {
+			"hash": -1673976925
+		},
+		"DataImpl": {},
+		"SkillID": 11204
+	},
+	{
+		"SkillType": 0,
+		"AbilityName": "ABL_MvM_BOSS_290_SKL_AllDmg_PCT",
+		"AbilityParaList": [
+			{
+				"Param": 0.46,
+				"Name": "_ASV_MvM_BOSS_290_Atk_AllDmg_PCT"
+			},
+			{
+				"Param": 2.33,
+				"Name": "_ASV_MvM_BOSS_290_AT_AllDmg_PCT"
+			},
+			{
+				"Param": 11,
+				"Name": "_ASV_MvM_BOSS_290_CA_AllDmg_PCT"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140578054
+		},
+		"Desc": {
+			"hash": -1018373504
+		},
+		"UnlockDesc": {
+			"hash": -1673976924
+		},
+		"DataImpl": {},
+		"SkillID": 11205
+	},
+	{
+		"SkillType": 1,
+		"AbilityName": "ABL_DG_030_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140577097
+		},
+		"Desc": {
+			"hash": -1018372547
+		},
+		"UnlockDesc": {
+			"hash": -1673975967
+		},
+		"DataImpl": {},
+		"SkillID": 11301
+	},
+	{
+		"SkillType": 2,
+		"AbilityName": "ABL_DG_030_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140577096
+		},
+		"Desc": {
+			"hash": -1018372546
+		},
+		"UnlockDesc": {
+			"hash": -1673975966
+		},
+		"DataImpl": {},
+		"SkillID": 11302
+	},
+	{
+		"SkillType": 3,
+		"AbilityName": "ABL_DG_030_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140577095
+		},
+		"Desc": {
+			"hash": -1018372545
+		},
+		"UnlockDesc": {
+			"hash": -1673975965
+		},
+		"DataImpl": {},
+		"SkillID": 11303
+	},
+	{
+		"SkillType": 4,
+		"AbilityName": "ABL_DG_030_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140577094
+		},
+		"Desc": {
+			"hash": -1018372544
+		},
+		"UnlockDesc": {
+			"hash": -1673975964
+		},
+		"DataImpl": {},
+		"SkillID": 11304
+	},
+	{
+		"SkillType": 0,
+		"AbilityName": "ABL_MvM_DG_030_SKL_AllDmg_PCT",
+		"AbilityParaList": [
+			{
+				"Param": 0.38,
+				"Name": "_ASV_MvM_DG_030_Atk_AllDmg_PCT"
+			},
+			{
+				"Param": 3.1,
+				"Name": "_ASV_MvM_DG_030_AT_AllDmg_PCT"
+			},
+			{
+				"Param": 5.18,
+				"Name": "_ASV_MvM_DG_030_CA_AllDmg_PCT"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140577093
+		},
+		"Desc": {
+			"hash": -1018372543
+		},
+		"UnlockDesc": {
+			"hash": -1673975963
+		},
+		"DataImpl": {},
+		"SkillID": 11305
+	},
+	{
+		"SkillType": 1,
+		"AbilityName": "ABL_BOSS_230_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140576136
+		},
+		"Desc": {
+			"hash": -1018371586
+		},
+		"UnlockDesc": {
+			"hash": -1673975006
+		},
+		"DataImpl": {},
+		"SkillID": 11401
+	},
+	{
+		"SkillType": 2,
+		"AbilityName": "ABL_BOSS_230_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140576135
+		},
+		"Desc": {
+			"hash": -1018371585
+		},
+		"UnlockDesc": {
+			"hash": -1673975005
+		},
+		"DataImpl": {},
+		"SkillID": 11402
+	},
+	{
+		"SkillType": 3,
+		"AbilityName": "ABL_BOSS_230_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140576134
+		},
+		"Desc": {
+			"hash": -1018371584
+		},
+		"UnlockDesc": {
+			"hash": -1673975004
+		},
+		"DataImpl": {},
+		"SkillID": 11403
+	},
+	{
+		"SkillType": 4,
+		"AbilityName": "ABL_BOSS_230_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140576133
+		},
+		"Desc": {
+			"hash": -1018371583
+		},
+		"UnlockDesc": {
+			"hash": -1673975003
+		},
+		"DataImpl": {},
+		"SkillID": 11404
+	},
+	{
+		"SkillType": 0,
+		"AbilityName": "ABL_MvM_BOSS_230_SKL_AllDmg_PCT",
+		"AbilityParaList": [
+			{
+				"Param": 0.58,
+				"Name": "_ASV_MvM_BOSS_230_Atk_AllDmg_PCT"
+			},
+			{
+				"Param": 0.48,
+				"Name": "_ASV_MvM_BOSS_230_AT_AllDmg_PCT"
+			},
+			{
+				"Param": 9.83,
+				"Name": "_ASV_MvM_BOSS_230_CA_AllDmg_PCT"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140576132
+		},
+		"Desc": {
+			"hash": -1018371582
+		},
+		"UnlockDesc": {
+			"hash": -1673975002
+		},
+		"DataImpl": {},
+		"SkillID": 11405
+	},
+	{
+		"SkillType": 1,
+		"AbilityName": "ABL_DG_120_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140575175
+		},
+		"Desc": {
+			"hash": -1018370625
+		},
+		"UnlockDesc": {
+			"hash": -1673974045
+		},
+		"DataImpl": {},
+		"SkillID": 11501
+	},
+	{
+		"SkillType": 2,
+		"AbilityName": "ABL_DG_120_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140575174
+		},
+		"Desc": {
+			"hash": -1018370624
+		},
+		"UnlockDesc": {
+			"hash": -1673974044
+		},
+		"DataImpl": {},
+		"SkillID": 11502
+	},
+	{
+		"SkillType": 3,
+		"AbilityName": "ABL_DG_120_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140575173
+		},
+		"Desc": {
+			"hash": -1018370623
+		},
+		"UnlockDesc": {
+			"hash": -1673974043
+		},
+		"DataImpl": {},
+		"SkillID": 11503
+	},
+	{
+		"SkillType": 4,
+		"AbilityName": "ABL_DG_120_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140575172
+		},
+		"Desc": {
+			"hash": -1018370622
+		},
+		"UnlockDesc": {
+			"hash": -1673974042
+		},
+		"DataImpl": {},
+		"SkillID": 11504
+	},
+	{
+		"SkillType": 0,
+		"AbilityName": "ABL_MvM_DG_120_SKL_AllDmg_PCT",
+		"AbilityParaList": [
+			{
+				"Param": 9.17,
+				"Name": "_ASV_MvM_DG_120_Atk_AllDmg_PCT"
+			},
+			{
+				"Param": 4.15,
+				"Name": "_ASV_MvM_DG_120_AT_AllDmg_PCT"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140575171
+		},
+		"Desc": {
+			"hash": -1018370621
+		},
+		"UnlockDesc": {
+			"hash": -1673974041
+		},
+		"DataImpl": {},
+		"SkillID": 11505
+	},
+	{
+		"SkillType": 1,
+		"AbilityName": "ABL_DG_090_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140574214
+		},
+		"Desc": {
+			"hash": -1018369664
+		},
+		"UnlockDesc": {
+			"hash": -1673973084
+		},
+		"DataImpl": {},
+		"SkillID": 11601
+	},
+	{
+		"SkillType": 2,
+		"AbilityName": "ABL_DG_090_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140574213
+		},
+		"Desc": {
+			"hash": -1018369663
+		},
+		"UnlockDesc": {
+			"hash": -1673973083
+		},
+		"DataImpl": {},
+		"SkillID": 11602
+	},
+	{
+		"SkillType": 3,
+		"AbilityName": "ABL_DG_090_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140574212
+		},
+		"Desc": {
+			"hash": -1018369662
+		},
+		"UnlockDesc": {
+			"hash": -1673973082
+		},
+		"DataImpl": {},
+		"SkillID": 11603
+	},
+	{
+		"SkillType": 4,
+		"AbilityName": "ABL_DG_090_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140574211
+		},
+		"Desc": {
+			"hash": -1018369661
+		},
+		"UnlockDesc": {
+			"hash": -1673973081
+		},
+		"DataImpl": {},
+		"SkillID": 11604
+	},
+	{
+		"SkillType": 0,
+		"AbilityName": "ABL_MvM_DG_090_SKL_AllDmg_PCT",
+		"AbilityParaList": [
+			{
+				"Param": 1.86,
+				"Name": "_ASV_MvM_DG_090_Atk_AllDmg_PCT"
+			},
+			{
+				"Param": -0.44,
+				"Name": "_ASV_MvM_DG_090_AT_AllDmg_PCT"
+			},
+			{
+				"Param": 2.73,
+				"Name": "_ASV_MvM_DG_090_CA_AllDmg_PCT"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140574210
+		},
+		"Desc": {
+			"hash": -1018369660
+		},
+		"UnlockDesc": {
+			"hash": -1673973080
+		},
+		"DataImpl": {},
+		"SkillID": 11605
+	},
+	{
+		"SkillType": 1,
+		"AbilityName": "ABL_BOSS_080_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140573253
+		},
+		"Desc": {
+			"hash": -1018368703
+		},
+		"UnlockDesc": {
+			"hash": -1673972123
+		},
+		"DataImpl": {},
+		"SkillID": 11701
+	},
+	{
+		"SkillType": 2,
+		"AbilityName": "ABL_BOSS_080_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140573252
+		},
+		"Desc": {
+			"hash": -1018368702
+		},
+		"UnlockDesc": {
+			"hash": -1673972122
+		},
+		"DataImpl": {},
+		"SkillID": 11702
+	},
+	{
+		"SkillType": 3,
+		"AbilityName": "ABL_BOSS_080_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140573251
+		},
+		"Desc": {
+			"hash": -1018368701
+		},
+		"UnlockDesc": {
+			"hash": -1673972121
+		},
+		"DataImpl": {},
+		"SkillID": 11703
+	},
+	{
+		"SkillType": 4,
+		"AbilityName": "ABL_BOSS_080_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140573250
+		},
+		"Desc": {
+			"hash": -1018368700
+		},
+		"UnlockDesc": {
+			"hash": -1673972120
+		},
+		"DataImpl": {},
+		"SkillID": 11704
+	},
+	{
+		"SkillType": 0,
+		"AbilityName": "ABL_MvM_BOSS_080_SKL_AllDmg_PCT",
+		"AbilityParaList": [
+			{
+				"Param": -0.06,
+				"Name": "_ASV_MvM_BOSS_080_Atk_AllDmg_PCT"
+			},
+			{
+				"Param": 1.64,
+				"Name": "_ASV_MvM_BOSS_080_AT_AllDmg_PCT"
+			},
+			{
+				"Param": -1,
+				"Name": "_ASV_MvM_BOSS_080_CA_AllDmg_PCT"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140573249
+		},
+		"Desc": {
+			"hash": -1018368699
+		},
+		"UnlockDesc": {
+			"hash": -1673972119
+		},
+		"DataImpl": {},
+		"SkillID": 11705
+	},
+	{
+		"SkillType": 1,
+		"AbilityName": "ABL_BOSS_110_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140572292
+		},
+		"Desc": {
+			"hash": -1018367742
+		},
+		"UnlockDesc": {
+			"hash": -1673971162
+		},
+		"DataImpl": {},
+		"SkillID": 11801
+	},
+	{
+		"SkillType": 2,
+		"AbilityName": "ABL_BOSS_110_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140572291
+		},
+		"Desc": {
+			"hash": -1018367741
+		},
+		"UnlockDesc": {
+			"hash": -1673971161
+		},
+		"DataImpl": {},
+		"SkillID": 11802
+	},
+	{
+		"SkillType": 3,
+		"AbilityName": "ABL_BOSS_110_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140572290
+		},
+		"Desc": {
+			"hash": -1018367740
+		},
+		"UnlockDesc": {
+			"hash": -1673971160
+		},
+		"DataImpl": {},
+		"SkillID": 11803
+	},
+	{
+		"SkillType": 4,
+		"AbilityName": "ABL_BOSS_110_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140572289
+		},
+		"Desc": {
+			"hash": -1018367739
+		},
+		"UnlockDesc": {
+			"hash": -1673971159
+		},
+		"DataImpl": {},
+		"SkillID": 11804
+	},
+	{
+		"SkillType": 0,
+		"AbilityName": "ABL_MvM_BOSS_110_SKL_AllDmg_PCT",
+		"AbilityParaList": [
+			{
+				"Param": -0.38,
+				"Name": "_ASV_MvM_BOSS_110_Atk_AllDmg_PCT"
+			},
+			{
+				"Param": -0.01,
+				"Name": "_ASV_MvM_BOSS_110_AT_AllDmg_PCT"
+			},
+			{
+				"Param": 5.67,
+				"Name": "_ASV_MvM_BOSS_110_CA_AllDmg_PCT"
+			},
+			{
+				"Param": 5.67,
+				"Name": "_ASV_MvM_BOSS_110_PA_AllDmg_PCT"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140572288
+		},
+		"Desc": {
+			"hash": -1018367738
+		},
+		"UnlockDesc": {
+			"hash": -1673971158
+		},
+		"DataImpl": {},
+		"SkillID": 11805
+	},
+	{
+		"SkillType": 1,
+		"AbilityName": "ABL_BOSS_190_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140571331
+		},
+		"Desc": {
+			"hash": -1018366781
+		},
+		"UnlockDesc": {
+			"hash": -1673970201
+		},
+		"DataImpl": {},
+		"SkillID": 11901
+	},
+	{
+		"SkillType": 2,
+		"AbilityName": "ABL_BOSS_190_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140571330
+		},
+		"Desc": {
+			"hash": -1018366780
+		},
+		"UnlockDesc": {
+			"hash": -1673970200
+		},
+		"DataImpl": {},
+		"SkillID": 11902
+	},
+	{
+		"SkillType": 3,
+		"AbilityName": "ABL_BOSS_190_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140571329
+		},
+		"Desc": {
+			"hash": -1018366779
+		},
+		"UnlockDesc": {
+			"hash": -1673970199
+		},
+		"DataImpl": {},
+		"SkillID": 11903
+	},
+	{
+		"SkillType": 4,
+		"AbilityName": "ABL_BOSS_190_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140571328
+		},
+		"Desc": {
+			"hash": -1018366778
+		},
+		"UnlockDesc": {
+			"hash": -1673970198
+		},
+		"DataImpl": {},
+		"SkillID": 11904
+	},
+	{
+		"SkillType": 0,
+		"AbilityName": "ABL_MvM_BOSS_190_SKL_AllDmg_PCT",
+		"AbilityParaList": [
+			{
+				"Param": 0.71,
+				"Name": "_ASV_MvM_BOSS_190_Atk_AllDmg_PCT"
+			},
+			{
+				"Param": -0.24,
+				"Name": "_ASV_MvM_BOSS_190_AT_AllDmg_PCT"
+			},
+			{
+				"Param": 0.47,
+				"Name": "_ASV_MvM_BOSS_190_CA_AllDmg_PCT"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140571327
+		},
+		"Desc": {
+			"hash": -1018366777
+		},
+		"UnlockDesc": {
+			"hash": -1673970197
+		},
+		"DataImpl": {},
+		"SkillID": 11905
+	},
+	{
+		"SkillType": 1,
+		"AbilityName": "ABL_BOSS_220_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140550189
+		},
+		"Desc": {
+			"hash": -1018345639
+		},
+		"UnlockDesc": {
+			"hash": -1673949059
+		},
+		"DataImpl": {},
+		"SkillID": 12001
+	},
+	{
+		"SkillType": 2,
+		"AbilityName": "ABL_BOSS_220_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140550188
+		},
+		"Desc": {
+			"hash": -1018345638
+		},
+		"UnlockDesc": {
+			"hash": -1673949058
+		},
+		"DataImpl": {},
+		"SkillID": 12002
+	},
+	{
+		"SkillType": 3,
+		"AbilityName": "ABL_BOSS_220_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140550187
+		},
+		"Desc": {
+			"hash": -1018345637
+		},
+		"UnlockDesc": {
+			"hash": -1673949057
+		},
+		"DataImpl": {},
+		"SkillID": 12003
+	},
+	{
+		"SkillType": 4,
+		"AbilityName": "ABL_BOSS_220_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140550186
+		},
+		"Desc": {
+			"hash": -1018345636
+		},
+		"UnlockDesc": {
+			"hash": -1673949056
+		},
+		"DataImpl": {},
+		"SkillID": 12004
+	},
+	{
+		"SkillType": 0,
+		"AbilityName": "ABL_MvM_BOSS_220_SKL_AllDmg_PCT",
+		"AbilityParaList": [
+			{
+				"Param": -0.47,
+				"Name": "_ASV_MvM_BOSS_220_Atk_AllDmg_PCT"
+			},
+			{
+				"Param": -0.33,
+				"Name": "_ASV_MvM_BOSS_220_AT_AllDmg_PCT"
+			},
+			{
+				"Param": 0.18,
+				"Name": "_ASV_MvM_BOSS_220_CA_AllDmg_PCT"
+			},
+			{
+				"Param": 3.58,
+				"Name": "_ASV_MvM_BOSS_220_PA_AllDmg_PCT"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140550185
+		},
+		"Desc": {
+			"hash": -1018345635
+		},
+		"UnlockDesc": {
+			"hash": -1673949055
+		},
+		"DataImpl": {},
+		"SkillID": 12005
+	},
+	{
+		"SkillType": 1,
+		"AbilityName": "ABL_BOSS_250_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140549228
+		},
+		"Desc": {
+			"hash": -1018344678
+		},
+		"UnlockDesc": {
+			"hash": -1673948098
+		},
+		"DataImpl": {},
+		"SkillID": 12101
+	},
+	{
+		"SkillType": 2,
+		"AbilityName": "ABL_BOSS_250_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140549227
+		},
+		"Desc": {
+			"hash": -1018344677
+		},
+		"UnlockDesc": {
+			"hash": -1673948097
+		},
+		"DataImpl": {},
+		"SkillID": 12102
+	},
+	{
+		"SkillType": 3,
+		"AbilityName": "ABL_BOSS_250_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140549226
+		},
+		"Desc": {
+			"hash": -1018344676
+		},
+		"UnlockDesc": {
+			"hash": -1673948096
+		},
+		"DataImpl": {},
+		"SkillID": 12103
+	},
+	{
+		"SkillType": 4,
+		"AbilityName": "ABL_BOSS_250_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140549225
+		},
+		"Desc": {
+			"hash": -1018344675
+		},
+		"UnlockDesc": {
+			"hash": -1673948095
+		},
+		"DataImpl": {},
+		"SkillID": 12104
+	},
+	{
+		"SkillType": 0,
+		"AbilityName": "ABL_MvM_BOSS_250_SKL_AllDmg_PCT",
+		"AbilityParaList": [
+			{
+				"Param": -0.83,
+				"Name": "_ASV_MvM_BOSS_250_Atk_AllDmg_PCT"
+			},
+			{
+				"Param": 1.85,
+				"Name": "_ASV_MvM_BOSS_250_AT_AllDmg_PCT"
+			},
+			{
+				"Param": -0.45,
+				"Name": "_ASV_MvM_BOSS_250_CA_AllDmg_PCT"
+			},
+			{
+				"Param": -0.58,
+				"Name": "_ASV_MvM_BOSS_250_PA_AllDmg_PCT"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140549224
+		},
+		"Desc": {
+			"hash": -1018344674
+		},
+		"UnlockDesc": {
+			"hash": -1673948094
+		},
+		"DataImpl": {},
+		"SkillID": 12105
+	},
+	{
+		"SkillType": 1,
+		"AbilityName": "ABL_UL_010_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140548267
+		},
+		"Desc": {
+			"hash": -1018343717
+		},
+		"UnlockDesc": {
+			"hash": -1673947137
+		},
+		"DataImpl": {},
+		"SkillID": 12201
+	},
+	{
+		"SkillType": 2,
+		"AbilityName": "ABL_UL_010_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140548266
+		},
+		"Desc": {
+			"hash": -1018343716
+		},
+		"UnlockDesc": {
+			"hash": -1673947136
+		},
+		"DataImpl": {},
+		"SkillID": 12202
+	},
+	{
+		"SkillType": 3,
+		"AbilityName": "ABL_UL_010_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140548265
+		},
+		"Desc": {
+			"hash": -1018343715
+		},
+		"UnlockDesc": {
+			"hash": -1673947135
+		},
+		"DataImpl": {},
+		"SkillID": 12203
+	},
+	{
+		"SkillType": 4,
+		"AbilityName": "ABL_UL_010_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140548264
+		},
+		"Desc": {
+			"hash": -1018343714
+		},
+		"UnlockDesc": {
+			"hash": -1673947134
+		},
+		"DataImpl": {},
+		"SkillID": 12204
+	},
+	{
+		"SkillType": 0,
+		"AbilityName": "ABL_MvM_UL_010_SKL_AllDmg_PCT",
+		"AbilityParaList": [
+			{
+				"Param": -0.06,
+				"Name": "_ASV_MvM_UL_010_Atk_AllDmg_PCT"
+			},
+			{
+				"Param": 0.82,
+				"Name": "_ASV_MvM_UL_010_CA_AllDmg_PCT"
+			},
+			{
+				"Param": -0.8,
+				"Name": "_ASV_MvM_UL_010_PA_AllDmg_PCT"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140548263
+		},
+		"Desc": {
+			"hash": -1018343713
+		},
+		"UnlockDesc": {
+			"hash": -1673947133
+		},
+		"DataImpl": {},
+		"SkillID": 12205
+	},
+	{
+		"SkillType": 1,
+		"AbilityName": "ABL_UL_040_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140547306
+		},
+		"Desc": {
+			"hash": -1018342756
+		},
+		"UnlockDesc": {
+			"hash": -1673946176
+		},
+		"DataImpl": {},
+		"SkillID": 12301
+	},
+	{
+		"SkillType": 2,
+		"AbilityName": "ABL_UL_040_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140547305
+		},
+		"Desc": {
+			"hash": -1018342755
+		},
+		"UnlockDesc": {
+			"hash": -1673946175
+		},
+		"DataImpl": {},
+		"SkillID": 12302
+	},
+	{
+		"SkillType": 3,
+		"AbilityName": "ABL_UL_040_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140547304
+		},
+		"Desc": {
+			"hash": -1018342754
+		},
+		"UnlockDesc": {
+			"hash": -1673946174
+		},
+		"DataImpl": {},
+		"SkillID": 12303
+	},
+	{
+		"SkillType": 4,
+		"AbilityName": "ABL_UL_040_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140547303
+		},
+		"Desc": {
+			"hash": -1018342753
+		},
+		"UnlockDesc": {
+			"hash": -1673946173
+		},
+		"DataImpl": {},
+		"SkillID": 12304
+	},
+	{
+		"SkillType": 0,
+		"AbilityName": "ABL_MvM_UL_040_SKL_AllDmg_PCT",
+		"AbilityParaList": [
+			{
+				"Param": 0.11,
+				"Name": "_ASV_MvM_UL_040_Atk_AllDmg_PCT"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140547302
+		},
+		"Desc": {
+			"hash": -1018342752
+		},
+		"UnlockDesc": {
+			"hash": -1673946172
+		},
+		"DataImpl": {},
+		"SkillID": 12305
+	},
+	{
+		"SkillType": 1,
+		"AbilityName": "ABL_Rogue_DLC_010_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140546345
+		},
+		"Desc": {
+			"hash": -1018341795
+		},
+		"UnlockDesc": {
+			"hash": -1673945215
+		},
+		"DataImpl": {},
+		"SkillID": 12401
+	},
+	{
+		"SkillType": 2,
+		"AbilityName": "ABL_Rogue_DLC_010_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140546344
+		},
+		"Desc": {
+			"hash": -1018341794
+		},
+		"UnlockDesc": {
+			"hash": -1673945214
+		},
+		"DataImpl": {},
+		"SkillID": 12402
+	},
+	{
+		"SkillType": 3,
+		"AbilityName": "ABL_Rogue_DLC_010_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140546343
+		},
+		"Desc": {
+			"hash": -1018341793
+		},
+		"UnlockDesc": {
+			"hash": -1673945213
+		},
+		"DataImpl": {},
+		"SkillID": 12403
+	},
+	{
+		"SkillType": 4,
+		"AbilityName": "ABL_Rogue_DLC_010_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140546342
+		},
+		"Desc": {
+			"hash": -1018341792
+		},
+		"UnlockDesc": {
+			"hash": -1673945212
+		},
+		"DataImpl": {},
+		"SkillID": 12404
+	},
+	{
+		"SkillType": 0,
+		"AbilityName": "ABL_MvM_Rogue_DLC_010_SKL_AllDmg_PCT",
+		"AbilityParaList": [
+			{
+				"Param": 1.01,
+				"Name": "_ASV_MvM_Rogue_DLC_010_Atk_AllDmg_PCT"
+			},
+			{
+				"Param": 1.22,
+				"Name": "_ASV_MvM_Rogue_DLC_010_AT_AllDmg_PCT"
+			},
+			{
+				"Param": 3.88,
+				"Name": "_ASV_MvM_Rogue_DLC_010_CA_AllDmg_PCT"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140546341
+		},
+		"Desc": {
+			"hash": -1018341791
+		},
+		"UnlockDesc": {
+			"hash": -1673945211
+		},
+		"DataImpl": {},
+		"SkillID": 12405
+	},
+	{
+		"SkillType": 1,
+		"AbilityName": "ABL_BOSS_080_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140545384
+		},
+		"Desc": {
+			"hash": -1018340834
+		},
+		"UnlockDesc": {
+			"hash": -1673944254
+		},
+		"DataImpl": {},
+		"SkillID": 12501
+	},
+	{
+		"SkillType": 2,
+		"AbilityName": "ABL_BOSS_080_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140545383
+		},
+		"Desc": {
+			"hash": -1018340833
+		},
+		"UnlockDesc": {
+			"hash": -1673944253
+		},
+		"DataImpl": {},
+		"SkillID": 12502
+	},
+	{
+		"SkillType": 3,
+		"AbilityName": "ABL_BOSS_080_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140545382
+		},
+		"Desc": {
+			"hash": -1018340832
+		},
+		"UnlockDesc": {
+			"hash": -1673944252
+		},
+		"DataImpl": {},
+		"SkillID": 12503
+	},
+	{
+		"SkillType": 4,
+		"AbilityName": "ABL_BOSS_080_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140545381
+		},
+		"Desc": {
+			"hash": -1018340831
+		},
+		"UnlockDesc": {
+			"hash": -1673944251
+		},
+		"DataImpl": {},
+		"SkillID": 12504
+	},
+	{
+		"SkillType": 0,
+		"AbilityName": "ABL_MvM_Rogue_DLC_020_SKL_AllDmg_PCT",
+		"AbilityParaList": [
+			{
+				"Param": 2.26,
+				"Name": "_ASV_MvM_Rogue_DLC_020_Atk_AllDmg_PCT"
+			},
+			{
+				"Param": 1.23,
+				"Name": "_ASV_MvM_Rogue_DLC_020_AT_AllDmg_PCT"
+			},
+			{
+				"Param": 0.71,
+				"Name": "_ASV_MvM_Rogue_DLC_020_CA_AllDmg_PCT"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140545380
+		},
+		"Desc": {
+			"hash": -1018340830
+		},
+		"UnlockDesc": {
+			"hash": -1673944250
+		},
+		"DataImpl": {},
+		"SkillID": 12505
+	},
+	{
+		"SkillType": 1,
+		"AbilityName": "ABL_BOSS_220_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140544423
+		},
+		"Desc": {
+			"hash": -1018339873
+		},
+		"UnlockDesc": {
+			"hash": -1673943293
+		},
+		"DataImpl": {},
+		"SkillID": 12601
+	},
+	{
+		"SkillType": 2,
+		"AbilityName": "ABL_BOSS_220_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140544422
+		},
+		"Desc": {
+			"hash": -1018339872
+		},
+		"UnlockDesc": {
+			"hash": -1673943292
+		},
+		"DataImpl": {},
+		"SkillID": 12602
+	},
+	{
+		"SkillType": 3,
+		"AbilityName": "ABL_BOSS_220_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140544421
+		},
+		"Desc": {
+			"hash": -1018339871
+		},
+		"UnlockDesc": {
+			"hash": -1673943291
+		},
+		"DataImpl": {},
+		"SkillID": 12603
+	},
+	{
+		"SkillType": 4,
+		"AbilityName": "ABL_BOSS_220_MonsterCard_Read_SKL_Effect_Ratio",
+		"AbilityParaList": [],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140544420
+		},
+		"Desc": {
+			"hash": -1018339870
+		},
+		"UnlockDesc": {
+			"hash": -1673943290
+		},
+		"DataImpl": {},
+		"SkillID": 12604
+	},
+	{
+		"SkillType": 0,
+		"AbilityName": "ABL_MvM_Rogue_DLC_030_SKL_AllDmg_PCT",
+		"AbilityParaList": [
+			{
+				"Param": -0.61,
+				"Name": "_ASV_MvM_Rogue_DLC_030_Atk_AllDmg_PCT"
+			},
+			{
+				"Param": 1.02,
+				"Name": "_ASV_MvM_Rogue_DLC_030_AT_AllDmg_PCT"
+			},
+			{
+				"Param": 2.98,
+				"Name": "_ASV_MvM_Rogue_DLC_030_CA_AllDmg_PCT"
+			},
+			{
+				"Param": 1.54,
+				"Name": "_ASV_MvM_Rogue_DLC_030_PA_AllDmg_PCT"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": false,
+		"Name": {
+			"hash": -140544419
+		},
+		"Desc": {
+			"hash": -1018339869
+		},
+		"UnlockDesc": {
+			"hash": -1673943289
+		},
+		"DataImpl": {},
+		"SkillID": 12605
+	},
+	{
+		"SkillType": 5,
+		"AbilityName": "MonsterCard_Weather_1",
+		"AbilityParaList": [
+			{
+				"Param": 0.7,
+				"Name": "Param1"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -63935587
+		},
+		"Desc": {
+			"hash": -1505790761
+		},
+		"UnlockDesc": {
+			"hash": -354660301
+		},
+		"DataImpl": {},
+		"SkillID": 100001
+	},
+	{
+		"SkillType": 5,
+		"AbilityName": "MonsterCard_Weather_2",
+		"AbilityParaList": [
+			{
+				"Param": 0.1,
+				"Name": "Param1"
+			},
+			{
+				"Param": 60,
+				"Name": "Param2"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -63935586
+		},
+		"Desc": {
+			"hash": -1505790760
+		},
+		"UnlockDesc": {
+			"hash": -354660300
+		},
+		"DataImpl": {},
+		"SkillID": 100002
+	},
+	{
+		"SkillType": 5,
+		"AbilityName": "MonsterCard_Weather_3",
+		"AbilityParaList": [
+			{
+				"Param": 0.3,
+				"Name": "Param1"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -63935585
+		},
+		"Desc": {
+			"hash": -1505790759
+		},
+		"UnlockDesc": {
+			"hash": -354660299
+		},
+		"DataImpl": {},
+		"SkillID": 100003
+	},
+	{
+		"SkillType": 5,
+		"AbilityName": "MonsterCard_Weather_4",
+		"AbilityParaList": [
+			{
+				"Param": 0.5,
+				"Name": "Param1"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -63935584
+		},
+		"Desc": {
+			"hash": -1505790758
+		},
+		"UnlockDesc": {
+			"hash": -354660298
+		},
+		"DataImpl": {},
+		"SkillID": 100004
+	},
+	{
+		"SkillType": 5,
+		"AbilityName": "MonsterCard_Weather_5",
+		"AbilityParaList": [
+			{
+				"Param": 0.5,
+				"Name": "Param1"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -63935583
+		},
+		"Desc": {
+			"hash": -1505790757
+		},
+		"UnlockDesc": {
+			"hash": -354660297
+		},
+		"DataImpl": {},
+		"SkillID": 100005
+	},
+	{
+		"SkillType": 5,
+		"AbilityName": "MonsterCard_Weather_6",
+		"AbilityParaList": [
+			{
+				"Param": 0.05,
+				"Name": "Param1"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -63935582
+		},
+		"Desc": {
+			"hash": -1505790756
+		},
+		"UnlockDesc": {
+			"hash": -354660296
+		},
+		"DataImpl": {},
+		"SkillID": 100006
+	},
+	{
+		"SkillType": 5,
+		"AbilityName": "MonsterCard_Weather_7",
+		"AbilityParaList": [
+			{
+				"Param": 0.8,
+				"Name": "Param1"
+			},
+			{
+				"Param": 0.2,
+				"Name": "Param2"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -63935581
+		},
+		"Desc": {
+			"hash": -1505790755
+		},
+		"UnlockDesc": {
+			"hash": -354660295
+		},
+		"DataImpl": {},
+		"SkillID": 100007
+	},
+	{
+		"SkillType": 5,
+		"AbilityName": "ABL_MvM_Level_Tank_NRG_Init",
+		"AbilityParaList": [
+			{
+				"Param": 100,
+				"Name": "_ASV_MvM_Level_Tank_NRG_Init_ABS"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -63935580
+		},
+		"Desc": {
+			"hash": -1505790754
+		},
+		"UnlockDesc": {
+			"hash": -354660294
+		},
+		"DataImpl": {},
+		"SkillID": 100008
+	},
+	{
+		"SkillType": 5,
+		"AbilityName": "ABL_MvM_Level_Alliy_Die_Dmg_Up",
+		"AbilityParaList": [
+			{
+				"Param": 0.25,
+				"Name": "_ASV_MvM_Level_Alliy_Die_Dmg_Up_Ratio"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -63935579
+		},
+		"Desc": {
+			"hash": -1505790753
+		},
+		"UnlockDesc": {
+			"hash": -354660293
+		},
+		"DataImpl": {},
+		"SkillID": 100009
+	},
+	{
+		"SkillType": 5,
+		"AbilityName": "ABL_MvM_Level_Hurt_Dmg_Up",
+		"AbilityParaList": [
+			{
+				"Param": 5,
+				"Name": "_ASV_MvM_Level_Hurt_Dmg_Up_Alliy_Dist"
+			},
+			{
+				"Param": 0.3,
+				"Name": "_ASV_MvM_Level_Hurt_Dmg_Up_Ratio"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -63935557
+		},
+		"Desc": {
+			"hash": -1505790731
+		},
+		"UnlockDesc": {
+			"hash": -354660271
+		},
+		"DataImpl": {},
+		"SkillID": 100010
+	},
+	{
+		"SkillType": 5,
+		"AbilityName": "ABL_MvM_Level_Range_Dmg_Up",
+		"AbilityParaList": [
+			{
+				"Param": 0.5,
+				"Name": "_ASV_MvM_Level_Range_Dmg_Up_Ratio"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -63935556
+		},
+		"Desc": {
+			"hash": -1505790730
+		},
+		"UnlockDesc": {
+			"hash": -354660270
+		},
+		"DataImpl": {},
+		"SkillID": 100011
+	},
+	{
+		"SkillType": 5,
+		"AbilityName": "ABL_MvM_Level_DPS_NRG_Init",
+		"AbilityParaList": [
+			{
+				"Param": 50,
+				"Name": "_ASV_MvM_Level_DPS_NRG_Init_ABS"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -63935555
+		},
+		"Desc": {
+			"hash": -1505790729
+		},
+		"UnlockDesc": {
+			"hash": -354660269
+		},
+		"DataImpl": {},
+		"SkillID": 100012
+	},
+	{
+		"SkillType": 5,
+		"AbilityName": "ABL_MvM_Level_Kill_Enemy_NRG_Up",
+		"AbilityParaList": [
+			{
+				"Param": 50,
+				"Name": "_ASV_MvM_Level_Kill_Enemy_NRG_Up_ABS"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -63935554
+		},
+		"Desc": {
+			"hash": -1505790728
+		},
+		"UnlockDesc": {
+			"hash": -354660268
+		},
+		"DataImpl": {},
+		"SkillID": 100013
+	},
+	{
+		"SkillType": 5,
+		"AbilityName": "ABL_MvM_Level_Tank_Shield_HP",
+		"AbilityParaList": [
+			{
+				"Param": 1,
+				"Name": "_ASV_MvM_Level_Tank_Shield_HP_Loss_Time"
+			},
+			{
+				"Param": 20,
+				"Name": "_ASV_MvM_Level_Tank_Shield_HP_Loss_Ratio"
+			},
+			{
+				"Param": 0.2,
+				"Name": "_ASV_MvM_Level_Tank_Shield_HP_Ratio"
+			},
+			{
+				"Param": 5,
+				"Name": "_ASV_MvM_Level_Tank_Shield_HP_CD"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -63935553
+		},
+		"Desc": {
+			"hash": -1505790727
+		},
+		"UnlockDesc": {
+			"hash": -354660267
+		},
+		"DataImpl": {},
+		"SkillID": 100014
+	},
+	{
+		"SkillType": 5,
+		"AbilityName": "ABL_MvM_Level_Tank_Shield_Dmg",
+		"AbilityParaList": [
+			{
+				"Param": 0.5,
+				"Name": "_ASV_MvM_Level_Tank_Shield_Dmg_HP"
+			},
+			{
+				"Param": 5,
+				"Name": "_ASV_MvM_Level_Tank_Shield_Dmg_Dist"
+			},
+			{
+				"Param": 1,
+				"Name": "_ASV_MvM_Level_Tank_Shield_Dmg_CD"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -63935552
+		},
+		"Desc": {
+			"hash": -1505790726
+		},
+		"UnlockDesc": {
+			"hash": -354660266
+		},
+		"DataImpl": {},
+		"SkillID": 100015
+	},
+	{
+		"SkillType": 5,
+		"AbilityName": "ABL_MvM_Level_Kill_Enemy_CD_AT_ABS",
+		"AbilityParaList": [
+			{
+				"Param": 0,
+				"Name": "_ASV_MvM_Level_Kill_Enemy_CD_AT_ABS"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -63935551
+		},
+		"Desc": {
+			"hash": -1505790725
+		},
+		"UnlockDesc": {
+			"hash": -354660265
+		},
+		"DataImpl": {},
+		"SkillID": 100016
+	},
+	{
+		"SkillType": 5,
+		"AbilityName": "ABL_MvM_Level_DPS_NRG_Init",
+		"AbilityParaList": [
+			{
+				"Param": 100,
+				"Name": "_ASV_MvM_Level_DPS_NRG_Init_ABS"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -63935550
+		},
+		"Desc": {
+			"hash": -1505790724
+		},
+		"UnlockDesc": {
+			"hash": -354660264
+		},
+		"DataImpl": {},
+		"SkillID": 100017
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Atk_1",
+		"AbilityParaList": [
+			{
+				"Param": 0.66,
+				"Name": "_ASV_MvM_Random_Book_Atk_1_HP_Loss_Line"
+			},
+			{
+				"Param": 0.05,
+				"Name": "_ASV_MvM_Random_Book_Atk_1_HP_Loss_Ratio"
+			},
+			{
+				"Param": 0.05,
+				"Name": "_ASV_MvM_Random_Book_Atk_1_HP_Full_Ratio"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35306436
+		},
+		"Desc": {
+			"hash": -1477161610
+		},
+		"UnlockDesc": {
+			"hash": -326031150
+		},
+		"DataImpl": {},
+		"SkillID": 200001
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Atk_2",
+		"AbilityParaList": [
+			{
+				"Param": 0.33,
+				"Name": "_ASV_MvM_Random_Book_Atk_2_HP_Loss_Line_1"
+			},
+			{
+				"Param": 0.23,
+				"Name": "_ASV_MvM_Random_Book_Atk_2_HP_Loss_Line_2"
+			},
+			{
+				"Param": 0.13,
+				"Name": "_ASV_MvM_Random_Book_Atk_2_HP_Loss_Line_3"
+			},
+			{
+				"Param": 0.03,
+				"Name": "_ASV_MvM_Random_Book_Atk_2_HP_Loss_Line_4"
+			},
+			{
+				"Param": 0.0001,
+				"Name": "_ASV_MvM_Random_Book_Atk_2_HP_Loss_Line_5"
+			},
+			{
+				"Param": 0.05,
+				"Name": "_ASV_MvM_Random_Book_Atk_2_Up_Ratio_1"
+			},
+			{
+				"Param": 0.05,
+				"Name": "_ASV_MvM_Random_Book_Atk_2_Up_Ratio_2"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35306435
+		},
+		"Desc": {
+			"hash": -1477161609
+		},
+		"UnlockDesc": {
+			"hash": -326031149
+		},
+		"DataImpl": {},
+		"SkillID": 200002
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Atk_3",
+		"AbilityParaList": [
+			{
+				"Param": 30,
+				"Name": "_ASV_MvM_Random_Book_Atk_3_Time"
+			},
+			{
+				"Param": 0,
+				"Name": "_ASV_MvM_Random_Book_Atk_3_Down"
+			},
+			{
+				"Param": 0.1,
+				"Name": "_ASV_MvM_Random_Book_Atk_3_Up"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35306434
+		},
+		"Desc": {
+			"hash": -1477161608
+		},
+		"UnlockDesc": {
+			"hash": -326031148
+		},
+		"DataImpl": {},
+		"SkillID": 200003
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Atk_4",
+		"AbilityParaList": [
+			{
+				"Param": 0.05,
+				"Name": "_ASV_MvM_Random_Book_Atk_4_NRG_Range_1"
+			},
+			{
+				"Param": 0.1,
+				"Name": "_ASV_MvM_Random_Book_Atk_4_NRG_Range_2"
+			},
+			{
+				"Param": 0.15,
+				"Name": "_ASV_MvM_Random_Book_Atk_4_NRG_Range_3"
+			},
+			{
+				"Param": 0.05,
+				"Name": "_ASV_MvM_Random_Book_Atk_4_NRG_AllDmg_Up"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35306433
+		},
+		"Desc": {
+			"hash": -1477161607
+		},
+		"UnlockDesc": {
+			"hash": -326031147
+		},
+		"DataImpl": {},
+		"SkillID": 200004
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Atk_5",
+		"AbilityParaList": [
+			{
+				"Param": 0.05,
+				"Name": "_ASV_MvM_Random_Book_Atk_5_Up"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35306432
+		},
+		"Desc": {
+			"hash": -1477161606
+		},
+		"UnlockDesc": {
+			"hash": -326031146
+		},
+		"DataImpl": {},
+		"SkillID": 200005
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Atk_6",
+		"AbilityParaList": [
+			{
+				"Param": 0.05,
+				"Name": "_ASV_MvM_Random_Book_Atk_6_Up"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35306431
+		},
+		"Desc": {
+			"hash": -1477161605
+		},
+		"UnlockDesc": {
+			"hash": -326031145
+		},
+		"DataImpl": {},
+		"SkillID": 200006
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Atk_7",
+		"AbilityParaList": [
+			{
+				"Param": 0.08,
+				"Name": "_ASV_MvM_Random_Book_Atk_7_Up"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35306430
+		},
+		"Desc": {
+			"hash": -1477161604
+		},
+		"UnlockDesc": {
+			"hash": -326031144
+		},
+		"DataImpl": {},
+		"SkillID": 200007
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Atk_8",
+		"AbilityParaList": [
+			{
+				"Param": 0.08,
+				"Name": "_ASV_MvM_Random_Book_Atk_8_Up"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35306429
+		},
+		"Desc": {
+			"hash": -1477161603
+		},
+		"UnlockDesc": {
+			"hash": -326031143
+		},
+		"DataImpl": {},
+		"SkillID": 200008
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Atk_1",
+		"AbilityParaList": [
+			{
+				"Param": 0.66,
+				"Name": "_ASV_MvM_Random_Book_Atk_1_HP_Loss_Line"
+			},
+			{
+				"Param": 0.1,
+				"Name": "_ASV_MvM_Random_Book_Atk_1_HP_Loss_Ratio"
+			},
+			{
+				"Param": 0.1,
+				"Name": "_ASV_MvM_Random_Book_Atk_1_HP_Full_Ratio"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35306428
+		},
+		"Desc": {
+			"hash": -1477161602
+		},
+		"UnlockDesc": {
+			"hash": -326031142
+		},
+		"DataImpl": {},
+		"SkillID": 200009
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Atk_2",
+		"AbilityParaList": [
+			{
+				"Param": 0.33,
+				"Name": "_ASV_MvM_Random_Book_Atk_2_HP_Loss_Line_1"
+			},
+			{
+				"Param": 0.23,
+				"Name": "_ASV_MvM_Random_Book_Atk_2_HP_Loss_Line_2"
+			},
+			{
+				"Param": 0.13,
+				"Name": "_ASV_MvM_Random_Book_Atk_2_HP_Loss_Line_3"
+			},
+			{
+				"Param": 0.03,
+				"Name": "_ASV_MvM_Random_Book_Atk_2_HP_Loss_Line_4"
+			},
+			{
+				"Param": 0.0001,
+				"Name": "_ASV_MvM_Random_Book_Atk_2_HP_Loss_Line_5"
+			},
+			{
+				"Param": 0.1,
+				"Name": "_ASV_MvM_Random_Book_Atk_2_Up_Ratio_1"
+			},
+			{
+				"Param": 0.1,
+				"Name": "_ASV_MvM_Random_Book_Atk_2_Up_Ratio_2"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35306406
+		},
+		"Desc": {
+			"hash": -1477161580
+		},
+		"UnlockDesc": {
+			"hash": -326031120
+		},
+		"DataImpl": {},
+		"SkillID": 200010
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Atk_3",
+		"AbilityParaList": [
+			{
+				"Param": 30,
+				"Name": "_ASV_MvM_Random_Book_Atk_3_Time"
+			},
+			{
+				"Param": 0,
+				"Name": "_ASV_MvM_Random_Book_Atk_3_Down"
+			},
+			{
+				"Param": 0.2,
+				"Name": "_ASV_MvM_Random_Book_Atk_3_Up"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35306405
+		},
+		"Desc": {
+			"hash": -1477161579
+		},
+		"UnlockDesc": {
+			"hash": -326031119
+		},
+		"DataImpl": {},
+		"SkillID": 200011
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Atk_4",
+		"AbilityParaList": [
+			{
+				"Param": 0.1,
+				"Name": "_ASV_MvM_Random_Book_Atk_4_NRG_Range_1"
+			},
+			{
+				"Param": 0.2,
+				"Name": "_ASV_MvM_Random_Book_Atk_4_NRG_Range_2"
+			},
+			{
+				"Param": 0.3,
+				"Name": "_ASV_MvM_Random_Book_Atk_4_NRG_Range_3"
+			},
+			{
+				"Param": 0.1,
+				"Name": "_ASV_MvM_Random_Book_Atk_4_NRG_AllDmg_Up"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35306404
+		},
+		"Desc": {
+			"hash": -1477161578
+		},
+		"UnlockDesc": {
+			"hash": -326031118
+		},
+		"DataImpl": {},
+		"SkillID": 200012
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Atk_5",
+		"AbilityParaList": [
+			{
+				"Param": 0.1,
+				"Name": "_ASV_MvM_Random_Book_Atk_5_Up"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35306403
+		},
+		"Desc": {
+			"hash": -1477161577
+		},
+		"UnlockDesc": {
+			"hash": -326031117
+		},
+		"DataImpl": {},
+		"SkillID": 200013
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Atk_6",
+		"AbilityParaList": [
+			{
+				"Param": 0.1,
+				"Name": "_ASV_MvM_Random_Book_Atk_6_Up"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35306402
+		},
+		"Desc": {
+			"hash": -1477161576
+		},
+		"UnlockDesc": {
+			"hash": -326031116
+		},
+		"DataImpl": {},
+		"SkillID": 200014
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Atk_7",
+		"AbilityParaList": [
+			{
+				"Param": 0.16,
+				"Name": "_ASV_MvM_Random_Book_Atk_7_Up"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35306401
+		},
+		"Desc": {
+			"hash": -1477161575
+		},
+		"UnlockDesc": {
+			"hash": -326031115
+		},
+		"DataImpl": {},
+		"SkillID": 200015
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Atk_8",
+		"AbilityParaList": [
+			{
+				"Param": 0.16,
+				"Name": "_ASV_MvM_Random_Book_Atk_8_Up"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35306400
+		},
+		"Desc": {
+			"hash": -1477161574
+		},
+		"UnlockDesc": {
+			"hash": -326031114
+		},
+		"DataImpl": {},
+		"SkillID": 200016
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Atk_1",
+		"AbilityParaList": [
+			{
+				"Param": 0.66,
+				"Name": "_ASV_MvM_Random_Book_Atk_1_HP_Loss_Line"
+			},
+			{
+				"Param": 0.15,
+				"Name": "_ASV_MvM_Random_Book_Atk_1_HP_Loss_Ratio"
+			},
+			{
+				"Param": 0.15,
+				"Name": "_ASV_MvM_Random_Book_Atk_1_HP_Full_Ratio"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35306399
+		},
+		"Desc": {
+			"hash": -1477161573
+		},
+		"UnlockDesc": {
+			"hash": -326031113
+		},
+		"DataImpl": {},
+		"SkillID": 200017
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Atk_2",
+		"AbilityParaList": [
+			{
+				"Param": 0.33,
+				"Name": "_ASV_MvM_Random_Book_Atk_2_HP_Loss_Line_1"
+			},
+			{
+				"Param": 0.23,
+				"Name": "_ASV_MvM_Random_Book_Atk_2_HP_Loss_Line_2"
+			},
+			{
+				"Param": 0.13,
+				"Name": "_ASV_MvM_Random_Book_Atk_2_HP_Loss_Line_3"
+			},
+			{
+				"Param": 0.03,
+				"Name": "_ASV_MvM_Random_Book_Atk_2_HP_Loss_Line_4"
+			},
+			{
+				"Param": 0.0001,
+				"Name": "_ASV_MvM_Random_Book_Atk_2_HP_Loss_Line_5"
+			},
+			{
+				"Param": 0.15,
+				"Name": "_ASV_MvM_Random_Book_Atk_2_Up_Ratio_1"
+			},
+			{
+				"Param": 0.15,
+				"Name": "_ASV_MvM_Random_Book_Atk_2_Up_Ratio_2"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35306398
+		},
+		"Desc": {
+			"hash": -1477161572
+		},
+		"UnlockDesc": {
+			"hash": -326031112
+		},
+		"DataImpl": {},
+		"SkillID": 200018
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Atk_3",
+		"AbilityParaList": [
+			{
+				"Param": 30,
+				"Name": "_ASV_MvM_Random_Book_Atk_3_Time"
+			},
+			{
+				"Param": 0,
+				"Name": "_ASV_MvM_Random_Book_Atk_3_Down"
+			},
+			{
+				"Param": 0.3,
+				"Name": "_ASV_MvM_Random_Book_Atk_3_Up"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35306397
+		},
+		"Desc": {
+			"hash": -1477161571
+		},
+		"UnlockDesc": {
+			"hash": -326031111
+		},
+		"DataImpl": {},
+		"SkillID": 200019
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Atk_4",
+		"AbilityParaList": [
+			{
+				"Param": 0.15,
+				"Name": "_ASV_MvM_Random_Book_Atk_4_NRG_Range_1"
+			},
+			{
+				"Param": 0.3,
+				"Name": "_ASV_MvM_Random_Book_Atk_4_NRG_Range_2"
+			},
+			{
+				"Param": 0.45,
+				"Name": "_ASV_MvM_Random_Book_Atk_4_NRG_Range_3"
+			},
+			{
+				"Param": 0.15,
+				"Name": "_ASV_MvM_Random_Book_Atk_4_NRG_AllDmg_Up"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35306375
+		},
+		"Desc": {
+			"hash": -1477161549
+		},
+		"UnlockDesc": {
+			"hash": -326031089
+		},
+		"DataImpl": {},
+		"SkillID": 200020
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Atk_5",
+		"AbilityParaList": [
+			{
+				"Param": 0.15,
+				"Name": "_ASV_MvM_Random_Book_Atk_5_Up"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35306374
+		},
+		"Desc": {
+			"hash": -1477161548
+		},
+		"UnlockDesc": {
+			"hash": -326031088
+		},
+		"DataImpl": {},
+		"SkillID": 200021
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Atk_6",
+		"AbilityParaList": [
+			{
+				"Param": 0.15,
+				"Name": "_ASV_MvM_Random_Book_Atk_6_Up"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35306373
+		},
+		"Desc": {
+			"hash": -1477161547
+		},
+		"UnlockDesc": {
+			"hash": -326031087
+		},
+		"DataImpl": {},
+		"SkillID": 200022
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Atk_7",
+		"AbilityParaList": [
+			{
+				"Param": 0.24,
+				"Name": "_ASV_MvM_Random_Book_Atk_7_Up"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35306372
+		},
+		"Desc": {
+			"hash": -1477161546
+		},
+		"UnlockDesc": {
+			"hash": -326031086
+		},
+		"DataImpl": {},
+		"SkillID": 200023
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Atk_8",
+		"AbilityParaList": [
+			{
+				"Param": 0.24,
+				"Name": "_ASV_MvM_Random_Book_Atk_8_Up"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35306371
+		},
+		"Desc": {
+			"hash": -1477161545
+		},
+		"UnlockDesc": {
+			"hash": -326031085
+		},
+		"DataImpl": {},
+		"SkillID": 200024
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Atk_1",
+		"AbilityParaList": [
+			{
+				"Param": 0.66,
+				"Name": "_ASV_MvM_Random_Book_Atk_1_HP_Loss_Line"
+			},
+			{
+				"Param": 0.2,
+				"Name": "_ASV_MvM_Random_Book_Atk_1_HP_Loss_Ratio"
+			},
+			{
+				"Param": 0.2,
+				"Name": "_ASV_MvM_Random_Book_Atk_1_HP_Full_Ratio"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35306370
+		},
+		"Desc": {
+			"hash": -1477161544
+		},
+		"UnlockDesc": {
+			"hash": -326031084
+		},
+		"DataImpl": {},
+		"SkillID": 200025
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Atk_2",
+		"AbilityParaList": [
+			{
+				"Param": 0.33,
+				"Name": "_ASV_MvM_Random_Book_Atk_2_HP_Loss_Line_1"
+			},
+			{
+				"Param": 0.23,
+				"Name": "_ASV_MvM_Random_Book_Atk_2_HP_Loss_Line_2"
+			},
+			{
+				"Param": 0.13,
+				"Name": "_ASV_MvM_Random_Book_Atk_2_HP_Loss_Line_3"
+			},
+			{
+				"Param": 0.03,
+				"Name": "_ASV_MvM_Random_Book_Atk_2_HP_Loss_Line_4"
+			},
+			{
+				"Param": 0.0001,
+				"Name": "_ASV_MvM_Random_Book_Atk_2_HP_Loss_Line_5"
+			},
+			{
+				"Param": 0.2,
+				"Name": "_ASV_MvM_Random_Book_Atk_2_Up_Ratio_1"
+			},
+			{
+				"Param": 0.2,
+				"Name": "_ASV_MvM_Random_Book_Atk_2_Up_Ratio_2"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35306369
+		},
+		"Desc": {
+			"hash": -1477161543
+		},
+		"UnlockDesc": {
+			"hash": -326031083
+		},
+		"DataImpl": {},
+		"SkillID": 200026
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Atk_3",
+		"AbilityParaList": [
+			{
+				"Param": 30,
+				"Name": "_ASV_MvM_Random_Book_Atk_3_Time"
+			},
+			{
+				"Param": 0,
+				"Name": "_ASV_MvM_Random_Book_Atk_3_Down"
+			},
+			{
+				"Param": 0.4,
+				"Name": "_ASV_MvM_Random_Book_Atk_3_Up"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35306368
+		},
+		"Desc": {
+			"hash": -1477161542
+		},
+		"UnlockDesc": {
+			"hash": -326031082
+		},
+		"DataImpl": {},
+		"SkillID": 200027
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Atk_4",
+		"AbilityParaList": [
+			{
+				"Param": 0.2,
+				"Name": "_ASV_MvM_Random_Book_Atk_4_NRG_Range_1"
+			},
+			{
+				"Param": 0.4,
+				"Name": "_ASV_MvM_Random_Book_Atk_4_NRG_Range_2"
+			},
+			{
+				"Param": 0.6,
+				"Name": "_ASV_MvM_Random_Book_Atk_4_NRG_Range_3"
+			},
+			{
+				"Param": 0.2,
+				"Name": "_ASV_MvM_Random_Book_Atk_4_NRG_AllDmg_Up"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35306367
+		},
+		"Desc": {
+			"hash": -1477161541
+		},
+		"UnlockDesc": {
+			"hash": -326031081
+		},
+		"DataImpl": {},
+		"SkillID": 200028
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Atk_5",
+		"AbilityParaList": [
+			{
+				"Param": 0.2,
+				"Name": "_ASV_MvM_Random_Book_Atk_5_Up"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35306366
+		},
+		"Desc": {
+			"hash": -1477161540
+		},
+		"UnlockDesc": {
+			"hash": -326031080
+		},
+		"DataImpl": {},
+		"SkillID": 200029
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Atk_6",
+		"AbilityParaList": [
+			{
+				"Param": 0.2,
+				"Name": "_ASV_MvM_Random_Book_Atk_6_Up"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35306344
+		},
+		"Desc": {
+			"hash": -1477161518
+		},
+		"UnlockDesc": {
+			"hash": -326031058
+		},
+		"DataImpl": {},
+		"SkillID": 200030
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Atk_7",
+		"AbilityParaList": [
+			{
+				"Param": 0.32,
+				"Name": "_ASV_MvM_Random_Book_Atk_7_Up"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35306343
+		},
+		"Desc": {
+			"hash": -1477161517
+		},
+		"UnlockDesc": {
+			"hash": -326031057
+		},
+		"DataImpl": {},
+		"SkillID": 200031
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Atk_8",
+		"AbilityParaList": [
+			{
+				"Param": 0.32,
+				"Name": "_ASV_MvM_Random_Book_Atk_8_Up"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35306342
+		},
+		"Desc": {
+			"hash": -1477161516
+		},
+		"UnlockDesc": {
+			"hash": -326031056
+		},
+		"DataImpl": {},
+		"SkillID": 200032
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Def_1",
+		"AbilityParaList": [
+			{
+				"Param": 0.5,
+				"Name": "_ASV_MvM_Random_Book_Def_1_HP"
+			},
+			{
+				"Param": 0.1,
+				"Name": "_ASV_MvM_Random_Book_Def_1_Shield"
+			},
+			{
+				"Param": 5,
+				"Name": "_ASV_MvM_Random_Book_Def_1_Time"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35305475
+		},
+		"Desc": {
+			"hash": -1477160649
+		},
+		"UnlockDesc": {
+			"hash": -326030189
+		},
+		"DataImpl": {},
+		"SkillID": 200101
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Def_3",
+		"AbilityParaList": [
+			{
+				"Param": 1.2,
+				"Name": "_ASV_MvM_Random_Book_Def_3_NRG_Ratio"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35305474
+		},
+		"Desc": {
+			"hash": -1477160648
+		},
+		"UnlockDesc": {
+			"hash": -326030188
+		},
+		"DataImpl": {},
+		"SkillID": 200102
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Def_4",
+		"AbilityParaList": [
+			{
+				"Param": 0.05,
+				"Name": "_ASV_MvM_Random_Book_Def_4_Up"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35305473
+		},
+		"Desc": {
+			"hash": -1477160647
+		},
+		"UnlockDesc": {
+			"hash": -326030187
+		},
+		"DataImpl": {},
+		"SkillID": 200103
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Def_5",
+		"AbilityParaList": [
+			{
+				"Param": 0.33,
+				"Name": "_ASV_MvM_Random_Book_Def_5_HP_Line_1"
+			},
+			{
+				"Param": 0.23,
+				"Name": "_ASV_MvM_Random_Book_Def_5_HP_Line_2"
+			},
+			{
+				"Param": 0.13,
+				"Name": "_ASV_MvM_Random_Book_Def_5_HP_Line_3"
+			},
+			{
+				"Param": 0.03,
+				"Name": "_ASV_MvM_Random_Book_Def_5_HP_Line_4"
+			},
+			{
+				"Param": 0.001,
+				"Name": "_ASV_MvM_Random_Book_Def_5_HP_Line_5"
+			},
+			{
+				"Param": 0.05,
+				"Name": "_ASV_MvM_Random_Book_Def_5_Up_1"
+			},
+			{
+				"Param": 0.05,
+				"Name": "_ASV_MvM_Random_Book_Def_5_Up_2"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35305472
+		},
+		"Desc": {
+			"hash": -1477160646
+		},
+		"UnlockDesc": {
+			"hash": -326030186
+		},
+		"DataImpl": {},
+		"SkillID": 200104
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Def_7",
+		"AbilityParaList": [
+			{
+				"Param": 0.2,
+				"Name": "_ASV_MvM_Random_Book_Def_7_Heal_Ratio"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35305471
+		},
+		"Desc": {
+			"hash": -1477160645
+		},
+		"UnlockDesc": {
+			"hash": -326030185
+		},
+		"DataImpl": {},
+		"SkillID": 200105
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Def_8",
+		"AbilityParaList": [
+			{
+				"Param": 0.05,
+				"Name": "_ASV_MvM_Random_Book_Def_8_Resist_AllElem_Ratio"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35305470
+		},
+		"Desc": {
+			"hash": -1477160644
+		},
+		"UnlockDesc": {
+			"hash": -326030184
+		},
+		"DataImpl": {},
+		"SkillID": 200106
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Def_9",
+		"AbilityParaList": [
+			{
+				"Param": 0.2,
+				"Name": "_ASV_MvM_Random_Book_Def_9_Resist_Phy_Ratio"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35305469
+		},
+		"Desc": {
+			"hash": -1477160643
+		},
+		"UnlockDesc": {
+			"hash": -326030183
+		},
+		"DataImpl": {},
+		"SkillID": 200107
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Def_1",
+		"AbilityParaList": [
+			{
+				"Param": 0.5,
+				"Name": "_ASV_MvM_Random_Book_Def_1_HP"
+			},
+			{
+				"Param": 0.2,
+				"Name": "_ASV_MvM_Random_Book_Def_1_Shield"
+			},
+			{
+				"Param": 5,
+				"Name": "_ASV_MvM_Random_Book_Def_1_Time"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35305468
+		},
+		"Desc": {
+			"hash": -1477160642
+		},
+		"UnlockDesc": {
+			"hash": -326030182
+		},
+		"DataImpl": {},
+		"SkillID": 200108
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Def_3",
+		"AbilityParaList": [
+			{
+				"Param": 1.4,
+				"Name": "_ASV_MvM_Random_Book_Def_3_NRG_Ratio"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35305467
+		},
+		"Desc": {
+			"hash": -1477160641
+		},
+		"UnlockDesc": {
+			"hash": -326030181
+		},
+		"DataImpl": {},
+		"SkillID": 200109
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Def_4",
+		"AbilityParaList": [
+			{
+				"Param": 0.1,
+				"Name": "_ASV_MvM_Random_Book_Def_4_Up"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35305445
+		},
+		"Desc": {
+			"hash": -1477160619
+		},
+		"UnlockDesc": {
+			"hash": -326030159
+		},
+		"DataImpl": {},
+		"SkillID": 200110
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Def_5",
+		"AbilityParaList": [
+			{
+				"Param": 0.33,
+				"Name": "_ASV_MvM_Random_Book_Def_5_HP_Line_1"
+			},
+			{
+				"Param": 0.23,
+				"Name": "_ASV_MvM_Random_Book_Def_5_HP_Line_2"
+			},
+			{
+				"Param": 0.13,
+				"Name": "_ASV_MvM_Random_Book_Def_5_HP_Line_3"
+			},
+			{
+				"Param": 0.03,
+				"Name": "_ASV_MvM_Random_Book_Def_5_HP_Line_4"
+			},
+			{
+				"Param": 0.001,
+				"Name": "_ASV_MvM_Random_Book_Def_5_HP_Line_5"
+			},
+			{
+				"Param": 0.1,
+				"Name": "_ASV_MvM_Random_Book_Def_5_Up_1"
+			},
+			{
+				"Param": 0.1,
+				"Name": "_ASV_MvM_Random_Book_Def_5_Up_2"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35305444
+		},
+		"Desc": {
+			"hash": -1477160618
+		},
+		"UnlockDesc": {
+			"hash": -326030158
+		},
+		"DataImpl": {},
+		"SkillID": 200111
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Def_7",
+		"AbilityParaList": [
+			{
+				"Param": 0.4,
+				"Name": "_ASV_MvM_Random_Book_Def_7_Heal_Ratio"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35305443
+		},
+		"Desc": {
+			"hash": -1477160617
+		},
+		"UnlockDesc": {
+			"hash": -326030157
+		},
+		"DataImpl": {},
+		"SkillID": 200112
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Def_8",
+		"AbilityParaList": [
+			{
+				"Param": 0.1,
+				"Name": "_ASV_MvM_Random_Book_Def_8_Resist_AllElem_Ratio"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35305442
+		},
+		"Desc": {
+			"hash": -1477160616
+		},
+		"UnlockDesc": {
+			"hash": -326030156
+		},
+		"DataImpl": {},
+		"SkillID": 200113
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Def_9",
+		"AbilityParaList": [
+			{
+				"Param": 0.4,
+				"Name": "_ASV_MvM_Random_Book_Def_9_Resist_Phy_Ratio"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35305441
+		},
+		"Desc": {
+			"hash": -1477160615
+		},
+		"UnlockDesc": {
+			"hash": -326030155
+		},
+		"DataImpl": {},
+		"SkillID": 200114
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Def_1",
+		"AbilityParaList": [
+			{
+				"Param": 0.5,
+				"Name": "_ASV_MvM_Random_Book_Def_1_HP"
+			},
+			{
+				"Param": 0.3,
+				"Name": "_ASV_MvM_Random_Book_Def_1_Shield"
+			},
+			{
+				"Param": 5,
+				"Name": "_ASV_MvM_Random_Book_Def_1_Time"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35305440
+		},
+		"Desc": {
+			"hash": -1477160614
+		},
+		"UnlockDesc": {
+			"hash": -326030154
+		},
+		"DataImpl": {},
+		"SkillID": 200115
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Def_3",
+		"AbilityParaList": [
+			{
+				"Param": 1.6,
+				"Name": "_ASV_MvM_Random_Book_Def_3_NRG_Ratio"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35305439
+		},
+		"Desc": {
+			"hash": -1477160613
+		},
+		"UnlockDesc": {
+			"hash": -326030153
+		},
+		"DataImpl": {},
+		"SkillID": 200116
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Def_4",
+		"AbilityParaList": [
+			{
+				"Param": 0.15,
+				"Name": "_ASV_MvM_Random_Book_Def_4_Up"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35305438
+		},
+		"Desc": {
+			"hash": -1477160612
+		},
+		"UnlockDesc": {
+			"hash": -326030152
+		},
+		"DataImpl": {},
+		"SkillID": 200117
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Def_5",
+		"AbilityParaList": [
+			{
+				"Param": 0.33,
+				"Name": "_ASV_MvM_Random_Book_Def_5_HP_Line_1"
+			},
+			{
+				"Param": 0.23,
+				"Name": "_ASV_MvM_Random_Book_Def_5_HP_Line_2"
+			},
+			{
+				"Param": 0.13,
+				"Name": "_ASV_MvM_Random_Book_Def_5_HP_Line_3"
+			},
+			{
+				"Param": 0.03,
+				"Name": "_ASV_MvM_Random_Book_Def_5_HP_Line_4"
+			},
+			{
+				"Param": 0.001,
+				"Name": "_ASV_MvM_Random_Book_Def_5_HP_Line_5"
+			},
+			{
+				"Param": 0.15,
+				"Name": "_ASV_MvM_Random_Book_Def_5_Up_1"
+			},
+			{
+				"Param": 0.15,
+				"Name": "_ASV_MvM_Random_Book_Def_5_Up_2"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35305437
+		},
+		"Desc": {
+			"hash": -1477160611
+		},
+		"UnlockDesc": {
+			"hash": -326030151
+		},
+		"DataImpl": {},
+		"SkillID": 200118
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Def_7",
+		"AbilityParaList": [
+			{
+				"Param": 0.6,
+				"Name": "_ASV_MvM_Random_Book_Def_7_Heal_Ratio"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35305436
+		},
+		"Desc": {
+			"hash": -1477160610
+		},
+		"UnlockDesc": {
+			"hash": -326030150
+		},
+		"DataImpl": {},
+		"SkillID": 200119
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Def_8",
+		"AbilityParaList": [
+			{
+				"Param": 0.15,
+				"Name": "_ASV_MvM_Random_Book_Def_8_Resist_AllElem_Ratio"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35305414
+		},
+		"Desc": {
+			"hash": -1477160588
+		},
+		"UnlockDesc": {
+			"hash": -326030128
+		},
+		"DataImpl": {},
+		"SkillID": 200120
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Def_9",
+		"AbilityParaList": [
+			{
+				"Param": 0.6,
+				"Name": "_ASV_MvM_Random_Book_Def_9_Resist_Phy_Ratio"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35305413
+		},
+		"Desc": {
+			"hash": -1477160587
+		},
+		"UnlockDesc": {
+			"hash": -326030127
+		},
+		"DataImpl": {},
+		"SkillID": 200121
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Def_1",
+		"AbilityParaList": [
+			{
+				"Param": 0.5,
+				"Name": "_ASV_MvM_Random_Book_Def_1_HP"
+			},
+			{
+				"Param": 0.4,
+				"Name": "_ASV_MvM_Random_Book_Def_1_Shield"
+			},
+			{
+				"Param": 5,
+				"Name": "_ASV_MvM_Random_Book_Def_1_Time"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35305412
+		},
+		"Desc": {
+			"hash": -1477160586
+		},
+		"UnlockDesc": {
+			"hash": -326030126
+		},
+		"DataImpl": {},
+		"SkillID": 200122
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Def_3",
+		"AbilityParaList": [
+			{
+				"Param": 1.8,
+				"Name": "_ASV_MvM_Random_Book_Def_3_NRG_Ratio"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35305411
+		},
+		"Desc": {
+			"hash": -1477160585
+		},
+		"UnlockDesc": {
+			"hash": -326030125
+		},
+		"DataImpl": {},
+		"SkillID": 200123
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Def_4",
+		"AbilityParaList": [
+			{
+				"Param": 0.2,
+				"Name": "_ASV_MvM_Random_Book_Def_4_Up"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35305410
+		},
+		"Desc": {
+			"hash": -1477160584
+		},
+		"UnlockDesc": {
+			"hash": -326030124
+		},
+		"DataImpl": {},
+		"SkillID": 200124
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Def_5",
+		"AbilityParaList": [
+			{
+				"Param": 0.33,
+				"Name": "_ASV_MvM_Random_Book_Def_5_HP_Line_1"
+			},
+			{
+				"Param": 0.23,
+				"Name": "_ASV_MvM_Random_Book_Def_5_HP_Line_2"
+			},
+			{
+				"Param": 0.13,
+				"Name": "_ASV_MvM_Random_Book_Def_5_HP_Line_3"
+			},
+			{
+				"Param": 0.03,
+				"Name": "_ASV_MvM_Random_Book_Def_5_HP_Line_4"
+			},
+			{
+				"Param": 0.001,
+				"Name": "_ASV_MvM_Random_Book_Def_5_HP_Line_5"
+			},
+			{
+				"Param": 0.2,
+				"Name": "_ASV_MvM_Random_Book_Def_5_Up_1"
+			},
+			{
+				"Param": 0.2,
+				"Name": "_ASV_MvM_Random_Book_Def_5_Up_2"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35305409
+		},
+		"Desc": {
+			"hash": -1477160583
+		},
+		"UnlockDesc": {
+			"hash": -326030123
+		},
+		"DataImpl": {},
+		"SkillID": 200125
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Def_7",
+		"AbilityParaList": [
+			{
+				"Param": 0.8,
+				"Name": "_ASV_MvM_Random_Book_Def_7_Heal_Ratio"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35305408
+		},
+		"Desc": {
+			"hash": -1477160582
+		},
+		"UnlockDesc": {
+			"hash": -326030122
+		},
+		"DataImpl": {},
+		"SkillID": 200126
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Def_8",
+		"AbilityParaList": [
+			{
+				"Param": 0.2,
+				"Name": "_ASV_MvM_Random_Book_Def_8_Resist_AllElem_Ratio"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35305407
+		},
+		"Desc": {
+			"hash": -1477160581
+		},
+		"UnlockDesc": {
+			"hash": -326030121
+		},
+		"DataImpl": {},
+		"SkillID": 200127
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Def_9",
+		"AbilityParaList": [
+			{
+				"Param": 0.8,
+				"Name": "_ASV_MvM_Random_Book_Def_9_Resist_Phy_Ratio"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35305406
+		},
+		"Desc": {
+			"hash": -1477160580
+		},
+		"UnlockDesc": {
+			"hash": -326030120
+		},
+		"DataImpl": {},
+		"SkillID": 200128
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Def_10",
+		"AbilityParaList": [
+			{
+				"Param": 0.33,
+				"Name": "_ASV_MvM_Random_Book_Def_10_Dmg_HP_PCT"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35305405
+		},
+		"Desc": {
+			"hash": -1477160579
+		},
+		"UnlockDesc": {
+			"hash": -326030119
+		},
+		"DataImpl": {},
+		"SkillID": 200129
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Def_11",
+		"AbilityParaList": [
+			{
+				"Param": 5,
+				"Name": "_ASV_MvM_Random_Book_Def_11_Thorns_AllDmg_Time"
+			},
+			{
+				"Param": 1,
+				"Name": "_ASV_MvM_Random_Book_Def_11_Thorns_AllDmg_Ratio"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35305383
+		},
+		"Desc": {
+			"hash": -1477160557
+		},
+		"UnlockDesc": {
+			"hash": -326030097
+		},
+		"DataImpl": {},
+		"SkillID": 200130
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Def_6",
+		"AbilityParaList": [
+			{
+				"Param": 0.15,
+				"Name": "_ASV_MvM_Random_Book_Def_6_Shield"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35305382
+		},
+		"Desc": {
+			"hash": -1477160556
+		},
+		"UnlockDesc": {
+			"hash": -326030096
+		},
+		"DataImpl": {},
+		"SkillID": 200131
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Def_2",
+		"AbilityParaList": [
+			{
+				"Param": 5,
+				"Name": "_ASV_MvM_Random_Book_Def_2_Dist"
+			},
+			{
+				"Param": -0.1,
+				"Name": "_ASV_MvM_Random_Book_Def_2_Down"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35305381
+		},
+		"Desc": {
+			"hash": -1477160555
+		},
+		"UnlockDesc": {
+			"hash": -326030095
+		},
+		"DataImpl": {},
+		"SkillID": 200132
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Aid_1",
+		"AbilityParaList": [
+			{
+				"Param": 1.2,
+				"Name": "_ASV_MvM_Random_Book_Aid_1_NRG_Ratio"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35304514
+		},
+		"Desc": {
+			"hash": -1477159688
+		},
+		"UnlockDesc": {
+			"hash": -326029228
+		},
+		"DataImpl": {},
+		"SkillID": 200201
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Aid_2",
+		"AbilityParaList": [
+			{
+				"Param": 0.2,
+				"Name": "_ASV_MvM_Random_Book_Aid_2_Heal_Ratio"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35304513
+		},
+		"Desc": {
+			"hash": -1477159687
+		},
+		"UnlockDesc": {
+			"hash": -326029227
+		},
+		"DataImpl": {},
+		"SkillID": 200202
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Aid_5",
+		"AbilityParaList": [
+			{
+				"Param": 20,
+				"Name": "_ASV_MvM_Random_Book_Aid_5_NRG_Init_Up_ABS"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35304512
+		},
+		"Desc": {
+			"hash": -1477159686
+		},
+		"UnlockDesc": {
+			"hash": -326029226
+		},
+		"DataImpl": {},
+		"SkillID": 200203
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Aid_1",
+		"AbilityParaList": [
+			{
+				"Param": 1.4,
+				"Name": "_ASV_MvM_Random_Book_Aid_1_NRG_Ratio"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35304511
+		},
+		"Desc": {
+			"hash": -1477159685
+		},
+		"UnlockDesc": {
+			"hash": -326029225
+		},
+		"DataImpl": {},
+		"SkillID": 200204
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Aid_2",
+		"AbilityParaList": [
+			{
+				"Param": 0.4,
+				"Name": "_ASV_MvM_Random_Book_Aid_2_Heal_Ratio"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35304510
+		},
+		"Desc": {
+			"hash": -1477159684
+		},
+		"UnlockDesc": {
+			"hash": -326029224
+		},
+		"DataImpl": {},
+		"SkillID": 200205
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Aid_5",
+		"AbilityParaList": [
+			{
+				"Param": 40,
+				"Name": "_ASV_MvM_Random_Book_Aid_5_NRG_Init_Up_ABS"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35304509
+		},
+		"Desc": {
+			"hash": -1477159683
+		},
+		"UnlockDesc": {
+			"hash": -326029223
+		},
+		"DataImpl": {},
+		"SkillID": 200206
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Aid_1",
+		"AbilityParaList": [
+			{
+				"Param": 1.6,
+				"Name": "_ASV_MvM_Random_Book_Aid_1_NRG_Ratio"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35304508
+		},
+		"Desc": {
+			"hash": -1477159682
+		},
+		"UnlockDesc": {
+			"hash": -326029222
+		},
+		"DataImpl": {},
+		"SkillID": 200207
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Aid_2",
+		"AbilityParaList": [
+			{
+				"Param": 0.6,
+				"Name": "_ASV_MvM_Random_Book_Aid_2_Heal_Ratio"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35304507
+		},
+		"Desc": {
+			"hash": -1477159681
+		},
+		"UnlockDesc": {
+			"hash": -326029221
+		},
+		"DataImpl": {},
+		"SkillID": 200208
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Aid_5",
+		"AbilityParaList": [
+			{
+				"Param": 60,
+				"Name": "_ASV_MvM_Random_Book_Aid_5_NRG_Init_Up_ABS"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35304506
+		},
+		"Desc": {
+			"hash": -1477159680
+		},
+		"UnlockDesc": {
+			"hash": -326029220
+		},
+		"DataImpl": {},
+		"SkillID": 200209
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Aid_1",
+		"AbilityParaList": [
+			{
+				"Param": 1.8,
+				"Name": "_ASV_MvM_Random_Book_Aid_1_NRG_Ratio"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35304484
+		},
+		"Desc": {
+			"hash": -1477159658
+		},
+		"UnlockDesc": {
+			"hash": -326029198
+		},
+		"DataImpl": {},
+		"SkillID": 200210
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Aid_2",
+		"AbilityParaList": [
+			{
+				"Param": 0.8,
+				"Name": "_ASV_MvM_Random_Book_Aid_2_Heal_Ratio"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35304483
+		},
+		"Desc": {
+			"hash": -1477159657
+		},
+		"UnlockDesc": {
+			"hash": -326029197
+		},
+		"DataImpl": {},
+		"SkillID": 200211
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Aid_5",
+		"AbilityParaList": [
+			{
+				"Param": 80,
+				"Name": "_ASV_MvM_Random_Book_Aid_5_NRG_Init_Up_ABS"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35304482
+		},
+		"Desc": {
+			"hash": -1477159656
+		},
+		"UnlockDesc": {
+			"hash": -326029196
+		},
+		"DataImpl": {},
+		"SkillID": 200212
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Aid_4",
+		"AbilityParaList": [
+			{
+				"Param": 0.05,
+				"Name": "_ASV_MvM_Random_Book_Aid_4_AllDmg_Up_PCT"
+			},
+			{
+				"Param": 10,
+				"Name": "_ASV_MvM_Random_Book_Aid_4_AllDmg_Up_Time"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35304481
+		},
+		"Desc": {
+			"hash": -1477159655
+		},
+		"UnlockDesc": {
+			"hash": -326029195
+		},
+		"DataImpl": {},
+		"SkillID": 200213
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Aid_3",
+		"AbilityParaList": [
+			{
+				"Param": 1,
+				"Name": "_ASV_MvM_Random_Book_Aid_3_Heal_OVFL_PCT"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35304480
+		},
+		"Desc": {
+			"hash": -1477159654
+		},
+		"UnlockDesc": {
+			"hash": -326029194
+		},
+		"DataImpl": {},
+		"SkillID": 200214
+	},
+	{
+		"SkillType": 6,
+		"AbilityName": "ABL_MvM_Random_Book_Aid_6",
+		"AbilityParaList": [
+			{
+				"Param": 0.7,
+				"Name": "_ASV_MvM_Random_Book_Aid_6_CD_AT_Ratio"
+			}
+		],
+		"Icon": "",
+		"IsAddAbility": true,
+		"Name": {
+			"hash": -35304479
+		},
+		"Desc": {
+			"hash": -1477159653
+		},
+		"UnlockDesc": {
+			"hash": -326029193
+		},
+		"DataImpl": {},
+		"SkillID": 200215
+	}
+]

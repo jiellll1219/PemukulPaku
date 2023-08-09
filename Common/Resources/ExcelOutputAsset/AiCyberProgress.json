@@ -1,0 +1,274 @@
+[
+	{
+		"SlotType": 0,
+		"SlotTypeParam": 0,
+		"CostRepairMaterialNum": 1,
+		"SlotName": {
+			"hash": 0
+		},
+		"SlotDec": {
+			"hash": 0
+		},
+		"SlotIcon": "",
+		"UnlockConditionList": "",
+		"IsCritical": false,
+		"IsShow": false,
+		"DataImpl": {},
+		"Progress": 0
+	},
+	{
+		"SlotType": 2,
+		"SlotTypeParam": 1012,
+		"CostRepairMaterialNum": 1,
+		"SlotName": {
+			"hash": 372487925
+		},
+		"SlotDec": {
+			"hash": -165996326
+		},
+		"SlotIcon": "SpriteOutput/Activity/AiCyber/ChibiCardAi01",
+		"UnlockConditionList": "",
+		"IsCritical": true,
+		"IsShow": true,
+		"DataImpl": {},
+		"Progress": 1000
+	},
+	{
+		"SlotType": 2,
+		"SlotTypeParam": 1013,
+		"CostRepairMaterialNum": 1,
+		"SlotName": {
+			"hash": 372522521
+		},
+		"SlotDec": {
+			"hash": -165961730
+		},
+		"SlotIcon": "SpriteOutput/Activity/AiCyber/ChibiCardAi01",
+		"UnlockConditionList": "",
+		"IsCritical": true,
+		"IsShow": true,
+		"DataImpl": {},
+		"Progress": 2500
+	},
+	{
+		"SlotType": 2,
+		"SlotTypeParam": 1014,
+		"CostRepairMaterialNum": 2,
+		"SlotName": {
+			"hash": 372547507
+		},
+		"SlotDec": {
+			"hash": -165936744
+		},
+		"SlotIcon": "SpriteOutput/Activity/AiCyber/ChibiCardAi01",
+		"UnlockConditionList": "",
+		"IsCritical": true,
+		"IsShow": true,
+		"DataImpl": {},
+		"Progress": 3000
+	},
+	{
+		"SlotType": 1,
+		"SlotTypeParam": 20011,
+		"CostRepairMaterialNum": 2,
+		"SlotName": {
+			"hash": 372552312
+		},
+		"SlotDec": {
+			"hash": -165931939
+		},
+		"SlotIcon": "",
+		"UnlockConditionList": "",
+		"IsCritical": true,
+		"IsShow": true,
+		"DataImpl": {},
+		"Progress": 3500
+	},
+	{
+		"SlotType": 0,
+		"SlotTypeParam": 0,
+		"CostRepairMaterialNum": 2,
+		"SlotName": {
+			"hash": 0
+		},
+		"SlotDec": {
+			"hash": 0
+		},
+		"SlotIcon": "",
+		"UnlockConditionList": "",
+		"IsCritical": false,
+		"IsShow": false,
+		"DataImpl": {},
+		"Progress": 3800
+	},
+	{
+		"SlotType": 2,
+		"SlotTypeParam": 2012,
+		"CostRepairMaterialNum": 2,
+		"SlotName": {
+			"hash": 372577298
+		},
+		"SlotDec": {
+			"hash": -165906953
+		},
+		"SlotIcon": "SpriteOutput/Activity/AiCyber/ChibiCardAi03",
+		"UnlockConditionList": "2|1727010",
+		"IsCritical": true,
+		"IsShow": true,
+		"DataImpl": {},
+		"Progress": 4000
+	},
+	{
+		"SlotType": 2,
+		"SlotTypeParam": 2013,
+		"CostRepairMaterialNum": 4,
+		"SlotName": {
+			"hash": 372611894
+		},
+		"SlotDec": {
+			"hash": -165872357
+		},
+		"SlotIcon": "SpriteOutput/Activity/AiCyber/ChibiCardAi03",
+		"UnlockConditionList": "",
+		"IsCritical": true,
+		"IsShow": true,
+		"DataImpl": {},
+		"Progress": 5500
+	},
+	{
+		"SlotType": 2,
+		"SlotTypeParam": 2014,
+		"CostRepairMaterialNum": 4,
+		"SlotName": {
+			"hash": 372636880
+		},
+		"SlotDec": {
+			"hash": -165847371
+		},
+		"SlotIcon": "SpriteOutput/Activity/AiCyber/ChibiCardAi03",
+		"UnlockConditionList": "",
+		"IsCritical": true,
+		"IsShow": true,
+		"DataImpl": {},
+		"Progress": 6000
+	},
+	{
+		"SlotType": 1,
+		"SlotTypeParam": 20012,
+		"CostRepairMaterialNum": 4,
+		"SlotName": {
+			"hash": 372641685
+		},
+		"SlotDec": {
+			"hash": -165842566
+		},
+		"SlotIcon": "",
+		"UnlockConditionList": "",
+		"IsCritical": true,
+		"IsShow": true,
+		"DataImpl": {},
+		"Progress": 6500
+	},
+	{
+		"SlotType": 0,
+		"SlotTypeParam": 0,
+		"CostRepairMaterialNum": 6,
+		"SlotName": {
+			"hash": 0
+		},
+		"SlotDec": {
+			"hash": 0
+		},
+		"SlotIcon": "",
+		"UnlockConditionList": "",
+		"IsCritical": false,
+		"IsShow": false,
+		"DataImpl": {},
+		"Progress": 6800
+	},
+	{
+		"SlotType": 2,
+		"SlotTypeParam": 3012,
+		"CostRepairMaterialNum": 6,
+		"SlotName": {
+			"hash": 372666671
+		},
+		"SlotDec": {
+			"hash": -165817580
+		},
+		"SlotIcon": "SpriteOutput/Activity/AiCyber/ChibiCardAi02",
+		"UnlockConditionList": "2|1727014",
+		"IsCritical": true,
+		"IsShow": true,
+		"DataImpl": {},
+		"Progress": 7000
+	},
+	{
+		"SlotType": 2,
+		"SlotTypeParam": 3013,
+		"CostRepairMaterialNum": 6,
+		"SlotName": {
+			"hash": 372701267
+		},
+		"SlotDec": {
+			"hash": -165782984
+		},
+		"SlotIcon": "SpriteOutput/Activity/AiCyber/ChibiCardAi02",
+		"UnlockConditionList": "",
+		"IsCritical": true,
+		"IsShow": true,
+		"DataImpl": {},
+		"Progress": 8500
+	},
+	{
+		"SlotType": 2,
+		"SlotTypeParam": 3014,
+		"CostRepairMaterialNum": 6,
+		"SlotName": {
+			"hash": 372726253
+		},
+		"SlotDec": {
+			"hash": -165757998
+		},
+		"SlotIcon": "SpriteOutput/Activity/AiCyber/ChibiCardAi02",
+		"UnlockConditionList": "",
+		"IsCritical": true,
+		"IsShow": true,
+		"DataImpl": {},
+		"Progress": 9000
+	},
+	{
+		"SlotType": 0,
+		"SlotTypeParam": 0,
+		"CostRepairMaterialNum": 6,
+		"SlotName": {
+			"hash": 0
+		},
+		"SlotDec": {
+			"hash": 0
+		},
+		"SlotIcon": "",
+		"UnlockConditionList": "",
+		"IsCritical": false,
+		"IsShow": false,
+		"DataImpl": {},
+		"Progress": 9500
+	},
+	{
+		"SlotType": 4,
+		"SlotTypeParam": 56707,
+		"CostRepairMaterialNum": 6,
+		"SlotName": {
+			"hash": -1337776165
+		},
+		"SlotDec": {
+			"hash": -850918762
+		},
+		"SlotIcon": "SpriteOutput/Activity/AiCyber/ChibiCardAi04",
+		"UnlockConditionList": "",
+		"IsCritical": true,
+		"IsShow": true,
+		"DataImpl": {},
+		"Progress": 10000
+	}
+]

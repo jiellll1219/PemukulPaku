@@ -1,0 +1,1574 @@
+[
+	{
+		"TriggerRound": 50,
+		"TutorialType": 1,
+		"TutorialID": 9731,
+		"FinishWay": 10,
+		"FinishParam": [
+			0
+		],
+		"NotStopTutorial": false,
+		"NextStepID": 2,
+		"TutorialTextmap": {
+			"hash": -1045502967
+		},
+		"FailedTextmap": {
+			"hash": 1101897546
+		},
+		"StartLocation": [],
+		"TargetLocation": [],
+		"TargetPrefab": [
+			{
+				"ID": 0,
+				"Path": "TiledGame/Maze/Maze_HonkaiTowns/HT_Light3"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 1
+	},
+	{
+		"TriggerRound": 100,
+		"TutorialType": 1,
+		"TutorialID": 9757,
+		"FinishWay": 10,
+		"FinishParam": [
+			975702
+		],
+		"NotStopTutorial": false,
+		"NextStepID": 3,
+		"TutorialTextmap": {
+			"hash": -1045502967
+		},
+		"FailedTextmap": {
+			"hash": 1101897546
+		},
+		"StartLocation": [],
+		"TargetLocation": [],
+		"TargetPrefab": [
+			{
+				"ID": 0,
+				"Path": "TiledGame/Maze/Maze_HonkaiTowns/HT_Light3"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 2
+	},
+	{
+		"TriggerRound": 260,
+		"TutorialType": 1,
+		"TutorialID": 9732,
+		"FinishWay": 9,
+		"FinishParam": [
+			1
+		],
+		"NotStopTutorial": false,
+		"NextStepID": 4,
+		"TutorialTextmap": {
+			"hash": -1045502966
+		},
+		"FailedTextmap": {
+			"hash": 1101897546
+		},
+		"StartLocation": [
+			{
+				"ID": 1,
+				"Path": "BrickID"
+			}
+		],
+		"TargetLocation": [
+			{
+				"ID": 59,
+				"Path": "PosIdx"
+			}
+		],
+		"TargetPrefab": [
+			{
+				"ID": 1,
+				"Path": "TiledGame/Maze/Maze_HonkaiTowns/HT_Light3"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 3
+	},
+	{
+		"TriggerRound": 310,
+		"TutorialType": 1,
+		"TutorialID": 9733,
+		"FinishWay": 10,
+		"FinishParam": [
+			973304
+		],
+		"NotStopTutorial": false,
+		"NextStepID": 5,
+		"TutorialTextmap": {
+			"hash": -1045502963
+		},
+		"FailedTextmap": {
+			"hash": 1101897546
+		},
+		"StartLocation": [],
+		"TargetLocation": [],
+		"TargetPrefab": [
+			{
+				"ID": 0,
+				"Path": "TiledGame/Maze/Maze_HonkaiTowns/HT_Light3"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 4
+	},
+	{
+		"TriggerRound": 510,
+		"TutorialType": 1,
+		"TutorialID": 9717,
+		"FinishWay": 1,
+		"FinishParam": [
+			1
+		],
+		"NotStopTutorial": false,
+		"NextStepID": 6,
+		"TutorialTextmap": {
+			"hash": -1045502965
+		},
+		"FailedTextmap": {
+			"hash": 1101897546
+		},
+		"StartLocation": [
+			{
+				"ID": 1,
+				"Path": "BrickID"
+			}
+		],
+		"TargetLocation": [
+			{
+				"ID": 1,
+				"Path": "Adjoin1"
+			}
+		],
+		"TargetPrefab": [
+			{
+				"ID": 1,
+				"Path": "TiledGame/Maze/Maze_HonkaiTowns/HT_Light3"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 5
+	},
+	{
+		"TriggerRound": 550,
+		"TutorialType": 1,
+		"TutorialID": 9718,
+		"FinishWay": 4,
+		"FinishParam": [
+			1011
+		],
+		"NotStopTutorial": false,
+		"NextStepID": 7,
+		"TutorialTextmap": {
+			"hash": -1045502964
+		},
+		"FailedTextmap": {
+			"hash": 1101897546
+		},
+		"StartLocation": [],
+		"TargetLocation": [
+			{
+				"ID": 1011,
+				"Path": "BuildingID"
+			}
+		],
+		"TargetPrefab": [
+			{
+				"ID": 2,
+				"Path": "UI/Menus/Widget/HoukaiTown/HoukaiTownShadeDot"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 6
+	},
+	{
+		"TriggerRound": 560,
+		"TutorialType": 1,
+		"TutorialID": 9719,
+		"FinishWay": 7,
+		"FinishParam": [
+			5
+		],
+		"NotStopTutorial": true,
+		"NextStepID": 8,
+		"TutorialTextmap": {
+			"hash": -1045502962
+		},
+		"FailedTextmap": {
+			"hash": 1101897546
+		},
+		"StartLocation": [],
+		"TargetLocation": [
+			{
+				"ID": 5,
+				"Path": "AvatarID"
+			}
+		],
+		"TargetPrefab": [
+			{
+				"ID": 2,
+				"Path": "UI/Menus/Widget/HoukaiTown/HoukaiTownShadeDot"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 7
+	},
+	{
+		"TriggerRound": 560,
+		"TutorialType": 1,
+		"TutorialID": 9756,
+		"FinishWay": 10,
+		"FinishParam": [
+			975601
+		],
+		"NotStopTutorial": true,
+		"NextStepID": 9,
+		"TutorialTextmap": {
+			"hash": -1045502962
+		},
+		"FailedTextmap": {
+			"hash": 1101897546
+		},
+		"StartLocation": [],
+		"TargetLocation": [],
+		"TargetPrefab": [
+			{
+				"ID": 2,
+				"Path": "UI/Menus/Widget/HoukaiTown/HoukaiTownShadeDot"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 8
+	},
+	{
+		"TriggerRound": 1055,
+		"TutorialType": 1,
+		"TutorialID": 9721,
+		"FinishWay": 8,
+		"FinishParam": [
+			10
+		],
+		"NotStopTutorial": false,
+		"NextStepID": 10,
+		"TutorialTextmap": {
+			"hash": -1045502959
+		},
+		"FailedTextmap": {
+			"hash": 1101897546
+		},
+		"StartLocation": [],
+		"TargetLocation": [
+			{
+				"ID": 53,
+				"Path": "PosIdx"
+			}
+		],
+		"TargetPrefab": [
+			{
+				"ID": 2,
+				"Path": "UI/Menus/Widget/HoukaiTown/HoukaiTownShadeDot"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 9
+	},
+	{
+		"TriggerRound": 1210,
+		"TutorialType": 1,
+		"TutorialID": 9720,
+		"FinishWay": 5,
+		"FinishParam": [
+			13
+		],
+		"NotStopTutorial": false,
+		"NextStepID": 11,
+		"TutorialTextmap": {
+			"hash": -1045502960
+		},
+		"FailedTextmap": {
+			"hash": 1101897546
+		},
+		"StartLocation": [],
+		"TargetLocation": [
+			{
+				"ID": 13,
+				"Path": "MonsterID"
+			}
+		],
+		"TargetPrefab": [
+			{
+				"ID": 2,
+				"Path": "UI/Menus/Widget/HoukaiTown/HoukaiTownShadeDot"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 10
+	},
+	{
+		"TriggerRound": 1290,
+		"TutorialType": 1,
+		"TutorialID": 9759,
+		"FinishWay": 7,
+		"FinishParam": [
+			5
+		],
+		"NotStopTutorial": true,
+		"NextStepID": 12,
+		"TutorialTextmap": {
+			"hash": -890301863
+		},
+		"FailedTextmap": {
+			"hash": 1101897546
+		},
+		"StartLocation": [],
+		"TargetLocation": [
+			{
+				"ID": 5,
+				"Path": "AvatarID"
+			}
+		],
+		"TargetPrefab": [
+			{
+				"ID": 2,
+				"Path": "UI/Menus/Widget/HoukaiTown/HoukaiTownShadeDot"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 11
+	},
+	{
+		"TriggerRound": 1290,
+		"TutorialType": 1,
+		"TutorialID": 9760,
+		"FinishWay": 10,
+		"FinishParam": [
+			0
+		],
+		"NotStopTutorial": true,
+		"NextStepID": 13,
+		"TutorialTextmap": {
+			"hash": -890301862
+		},
+		"FailedTextmap": {
+			"hash": 1101897546
+		},
+		"StartLocation": [],
+		"TargetLocation": [],
+		"TargetPrefab": [
+			{
+				"ID": 0,
+				"Path": "TiledGame/Maze/Maze_HonkaiTowns/HT_Light3"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 12
+	},
+	{
+		"TriggerRound": 1310,
+		"TutorialType": 1,
+		"TutorialID": 9761,
+		"FinishWay": 4,
+		"FinishParam": [
+			1011
+		],
+		"NotStopTutorial": true,
+		"NextStepID": 14,
+		"TutorialTextmap": {
+			"hash": -890301861
+		},
+		"FailedTextmap": {
+			"hash": 1101897546
+		},
+		"StartLocation": [],
+		"TargetLocation": [
+			{
+				"ID": 1011,
+				"Path": "BuildingID"
+			}
+		],
+		"TargetPrefab": [
+			{
+				"ID": 2,
+				"Path": "UI/Menus/Widget/HoukaiTown/HoukaiTownShadeDot"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 13
+	},
+	{
+		"TriggerRound": 1310,
+		"TutorialType": 1,
+		"TutorialID": 9762,
+		"FinishWay": 10,
+		"FinishParam": [
+			0
+		],
+		"NotStopTutorial": true,
+		"NextStepID": 15,
+		"TutorialTextmap": {
+			"hash": -890301860
+		},
+		"FailedTextmap": {
+			"hash": 1101897546
+		},
+		"StartLocation": [],
+		"TargetLocation": [],
+		"TargetPrefab": [
+			{
+				"ID": 0,
+				"Path": "TiledGame/Maze/Maze_HonkaiTowns/HT_Light3"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 14
+	},
+	{
+		"TriggerRound": 1330,
+		"TutorialType": 1,
+		"TutorialID": 9722,
+		"FinishWay": 4,
+		"FinishParam": [
+			3011
+		],
+		"NotStopTutorial": false,
+		"NextStepID": 17,
+		"TutorialTextmap": {
+			"hash": 1949146439
+		},
+		"FailedTextmap": {
+			"hash": 1101897546
+		},
+		"StartLocation": [],
+		"TargetLocation": [
+			{
+				"ID": 3011,
+				"Path": "BuildingID"
+			}
+		],
+		"TargetPrefab": [
+			{
+				"ID": 2,
+				"Path": "UI/Menus/Widget/HoukaiTown/HoukaiTownShadeDot"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 15
+	},
+	{
+		"TriggerRound": 1350,
+		"TutorialType": 2,
+		"TutorialID": 111,
+		"FinishWay": 0,
+		"FinishParam": [
+			0
+		],
+		"NotStopTutorial": false,
+		"NextStepID": 17,
+		"TutorialTextmap": {
+			"hash": 1949146440
+		},
+		"FailedTextmap": {
+			"hash": 1101897546
+		},
+		"StartLocation": [],
+		"TargetLocation": [],
+		"TargetPrefab": [
+			{
+				"ID": 0,
+				"Path": "TiledGame/Maze/Maze_HonkaiTowns/HT_Light3"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 16
+	},
+	{
+		"TriggerRound": 1350,
+		"TutorialType": 1,
+		"TutorialID": 9723,
+		"FinishWay": 5,
+		"FinishParam": [
+			2
+		],
+		"NotStopTutorial": false,
+		"NextStepID": 18,
+		"TutorialTextmap": {
+			"hash": 1949146441
+		},
+		"FailedTextmap": {
+			"hash": 1101897546
+		},
+		"StartLocation": [],
+		"TargetLocation": [
+			{
+				"ID": 95,
+				"Path": "PosIdx"
+			}
+		],
+		"TargetPrefab": [
+			{
+				"ID": 2,
+				"Path": "UI/Menus/Widget/HoukaiTown/HoukaiTownShadeDot"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 17
+	},
+	{
+		"TriggerRound": 1380,
+		"TutorialType": 1,
+		"TutorialID": 9729,
+		"FinishWay": 10,
+		"FinishParam": [
+			0
+		],
+		"NotStopTutorial": false,
+		"NextStepID": 21,
+		"TutorialTextmap": {
+			"hash": 1949146441
+		},
+		"FailedTextmap": {
+			"hash": 1101897546
+		},
+		"StartLocation": [],
+		"TargetLocation": [],
+		"TargetPrefab": [
+			{
+				"ID": 0,
+				"Path": "TiledGame/Maze/Maze_HonkaiTowns/HT_Light3"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 18
+	},
+	{
+		"TriggerRound": 1420,
+		"TutorialType": 2,
+		"TutorialID": 112,
+		"FinishWay": 0,
+		"FinishParam": [
+			0
+		],
+		"NotStopTutorial": false,
+		"NextStepID": 20,
+		"TutorialTextmap": {
+			"hash": 1949146442
+		},
+		"FailedTextmap": {
+			"hash": 1101897546
+		},
+		"StartLocation": [],
+		"TargetLocation": [],
+		"TargetPrefab": [
+			{
+				"ID": 0,
+				"Path": "TiledGame/Maze/Maze_HonkaiTowns/HT_Light3"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 19
+	},
+	{
+		"TriggerRound": 1400,
+		"TutorialType": 1,
+		"TutorialID": 9734,
+		"FinishWay": 10,
+		"FinishParam": [
+			0
+		],
+		"NotStopTutorial": false,
+		"NextStepID": 21,
+		"TutorialTextmap": {
+			"hash": 293997550
+		},
+		"FailedTextmap": {
+			"hash": 1101897546
+		},
+		"StartLocation": [],
+		"TargetLocation": [],
+		"TargetPrefab": [
+			{
+				"ID": 0,
+				"Path": "TiledGame/Maze/Maze_HonkaiTowns/HT_Light3"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 20
+	},
+	{
+		"TriggerRound": 1510,
+		"TutorialType": 1,
+		"TutorialID": 9730,
+		"FinishWay": 5,
+		"FinishParam": [
+			2
+		],
+		"NotStopTutorial": false,
+		"NextStepID": 0,
+		"TutorialTextmap": {
+			"hash": 293997551
+		},
+		"FailedTextmap": {
+			"hash": 1101897546
+		},
+		"StartLocation": [],
+		"TargetLocation": [
+			{
+				"ID": 95,
+				"Path": "PosIdx"
+			}
+		],
+		"TargetPrefab": [
+			{
+				"ID": 2,
+				"Path": "UI/Menus/Widget/HoukaiTown/HoukaiTownShadeDot"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 21
+	},
+	{
+		"TriggerRound": 50,
+		"TutorialType": 1,
+		"TutorialID": 9735,
+		"FinishWay": 10,
+		"FinishParam": [
+			0
+		],
+		"NotStopTutorial": false,
+		"NextStepID": 31,
+		"TutorialTextmap": {
+			"hash": 1949146501
+		},
+		"FailedTextmap": {
+			"hash": -200914332
+		},
+		"StartLocation": [],
+		"TargetLocation": [],
+		"TargetPrefab": [
+			{
+				"ID": 0,
+				"Path": "TiledGame/Maze/Maze_HonkaiTowns/HT_Light3"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 30
+	},
+	{
+		"TriggerRound": 260,
+		"TutorialType": 1,
+		"TutorialID": 9736,
+		"FinishWay": 1,
+		"FinishParam": [
+			1
+		],
+		"NotStopTutorial": false,
+		"NextStepID": 32,
+		"TutorialTextmap": {
+			"hash": 1949146502
+		},
+		"FailedTextmap": {
+			"hash": -200914331
+		},
+		"StartLocation": [
+			{
+				"ID": 1,
+				"Path": "BrickID"
+			}
+		],
+		"TargetLocation": [
+			{
+				"ID": 60,
+				"Path": "PosIdx"
+			}
+		],
+		"TargetPrefab": [
+			{
+				"ID": 1,
+				"Path": "TiledGame/Maze/Maze_HonkaiTowns/HT_Light3"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 31
+	},
+	{
+		"TriggerRound": 510,
+		"TutorialType": 1,
+		"TutorialID": 9737,
+		"FinishWay": 3,
+		"FinishParam": [
+			1011
+		],
+		"NotStopTutorial": false,
+		"NextStepID": 33,
+		"TutorialTextmap": {
+			"hash": 1949146503
+		},
+		"FailedTextmap": {
+			"hash": -200914330
+		},
+		"StartLocation": [
+			{
+				"ID": 3,
+				"Path": "BrickID"
+			}
+		],
+		"TargetLocation": [
+			{
+				"ID": 57,
+				"Path": "PosIdx"
+			}
+		],
+		"TargetPrefab": [
+			{
+				"ID": 1,
+				"Path": "TiledGame/Maze/Maze_HonkaiTowns/HT_Light3"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 32
+	},
+	{
+		"TriggerRound": 550,
+		"TutorialType": 1,
+		"TutorialID": 9738,
+		"FinishWay": 4,
+		"FinishParam": [
+			1021
+		],
+		"NotStopTutorial": false,
+		"NextStepID": 34,
+		"TutorialTextmap": {
+			"hash": 1949146504
+		},
+		"FailedTextmap": {
+			"hash": -200914329
+		},
+		"StartLocation": [],
+		"TargetLocation": [
+			{
+				"ID": 1021,
+				"Path": "BuildingID"
+			}
+		],
+		"TargetPrefab": [
+			{
+				"ID": 2,
+				"Path": "UI/Menus/Widget/HoukaiTown/HoukaiTownShadeDot"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 33
+	},
+	{
+		"TriggerRound": 550,
+		"TutorialType": 1,
+		"TutorialID": 9752,
+		"FinishWay": 10,
+		"FinishParam": [
+			975202
+		],
+		"NotStopTutorial": false,
+		"NextStepID": 35,
+		"TutorialTextmap": {
+			"hash": 1949146505
+		},
+		"FailedTextmap": {
+			"hash": -200914328
+		},
+		"StartLocation": [],
+		"TargetLocation": [],
+		"TargetPrefab": [
+			{
+				"ID": 0,
+				"Path": "TiledGame/Maze/Maze_HonkaiTowns/HT_Light3"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 34
+	},
+	{
+		"TriggerRound": 610,
+		"TutorialType": 1,
+		"TutorialID": 9739,
+		"FinishWay": 12,
+		"FinishParam": [
+			75
+		],
+		"NotStopTutorial": false,
+		"NextStepID": 36,
+		"TutorialTextmap": {
+			"hash": 1949146507
+		},
+		"FailedTextmap": {
+			"hash": -200914326
+		},
+		"StartLocation": [],
+		"TargetLocation": [
+			{
+				"ID": 75,
+				"Path": "PosIdx"
+			}
+		],
+		"TargetPrefab": [
+			{
+				"ID": 2,
+				"Path": "UI/Menus/Widget/HoukaiTown/HoukaiTownShadeDot"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 35
+	},
+	{
+		"TriggerRound": 660,
+		"TutorialType": 1,
+		"TutorialID": 9740,
+		"FinishWay": 13,
+		"FinishParam": [
+			1051
+		],
+		"NotStopTutorial": true,
+		"NextStepID": 37,
+		"TutorialTextmap": {
+			"hash": 1949146508
+		},
+		"FailedTextmap": {
+			"hash": -200914325
+		},
+		"StartLocation": [],
+		"TargetLocation": [],
+		"TargetPrefab": [
+			{
+				"ID": 0,
+				"Path": "TiledGame/Maze/Maze_HonkaiTowns/HT_Light3"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 36
+	},
+	{
+		"TriggerRound": 660,
+		"TutorialType": 1,
+		"TutorialID": 9753,
+		"FinishWay": 10,
+		"FinishParam": [
+			0
+		],
+		"NotStopTutorial": true,
+		"NextStepID": 38,
+		"TutorialTextmap": {
+			"hash": 1949146509
+		},
+		"FailedTextmap": {
+			"hash": -200914324
+		},
+		"StartLocation": [],
+		"TargetLocation": [],
+		"TargetPrefab": [
+			{
+				"ID": 0,
+				"Path": "TiledGame/Maze/Maze_HonkaiTowns/HT_Light3"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 37
+	},
+	{
+		"TriggerRound": 760,
+		"TutorialType": 1,
+		"TutorialID": 9741,
+		"FinishWay": 3,
+		"FinishParam": [
+			2011
+		],
+		"NotStopTutorial": false,
+		"NextStepID": 39,
+		"TutorialTextmap": {
+			"hash": 1949146510
+		},
+		"FailedTextmap": {
+			"hash": -200914323
+		},
+		"StartLocation": [
+			{
+				"ID": 2,
+				"Path": "BrickID"
+			}
+		],
+		"TargetLocation": [
+			{
+				"ID": 92,
+				"Path": "PosIdx"
+			}
+		],
+		"TargetPrefab": [
+			{
+				"ID": 1,
+				"Path": "TiledGame/Maze/Maze_HonkaiTowns/HT_Light3"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 38
+	},
+	{
+		"TriggerRound": 1010,
+		"TutorialType": 1,
+		"TutorialID": 9742,
+		"FinishWay": 3,
+		"FinishParam": [
+			1051
+		],
+		"NotStopTutorial": false,
+		"NextStepID": 40,
+		"TutorialTextmap": {
+			"hash": 1949146532
+		},
+		"FailedTextmap": {
+			"hash": -200914301
+		},
+		"StartLocation": [
+			{
+				"ID": 2,
+				"Path": "BrickID"
+			}
+		],
+		"TargetLocation": [
+			{
+				"ID": 79,
+				"Path": "PosIdx"
+			}
+		],
+		"TargetPrefab": [
+			{
+				"ID": 1,
+				"Path": "TiledGame/Maze/Maze_HonkaiTowns/HT_Light3"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 39
+	},
+	{
+		"TriggerRound": 1060,
+		"TutorialType": 1,
+		"TutorialID": 9743,
+		"FinishWay": 4,
+		"FinishParam": [
+			1041
+		],
+		"NotStopTutorial": true,
+		"NextStepID": 41,
+		"TutorialTextmap": {
+			"hash": 1949146533
+		},
+		"FailedTextmap": {
+			"hash": -200914300
+		},
+		"StartLocation": [],
+		"TargetLocation": [
+			{
+				"ID": 29,
+				"Path": "PosIdx"
+			}
+		],
+		"TargetPrefab": [
+			{
+				"ID": 2,
+				"Path": "UI/Menus/Widget/HoukaiTown/HoukaiTownShadeDot"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 40
+	},
+	{
+		"TriggerRound": 1060,
+		"TutorialType": 1,
+		"TutorialID": 9754,
+		"FinishWay": 11,
+		"FinishParam": [
+			1041
+		],
+		"NotStopTutorial": true,
+		"NextStepID": 42,
+		"TutorialTextmap": {
+			"hash": 1949146534
+		},
+		"FailedTextmap": {
+			"hash": -200914299
+		},
+		"StartLocation": [],
+		"TargetLocation": [],
+		"TargetPrefab": [
+			{
+				"ID": 0,
+				"Path": "TiledGame/Maze/Maze_HonkaiTowns/HT_Light3"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 41
+	},
+	{
+		"TriggerRound": 1110,
+		"TutorialType": 1,
+		"TutorialID": 9746,
+		"FinishWay": 10,
+		"FinishParam": [
+			0
+		],
+		"NotStopTutorial": true,
+		"NextStepID": 43,
+		"TutorialTextmap": {
+			"hash": 1949146535
+		},
+		"FailedTextmap": {
+			"hash": -200914298
+		},
+		"StartLocation": [],
+		"TargetLocation": [],
+		"TargetPrefab": [
+			{
+				"ID": 0,
+				"Path": "TiledGame/Maze/Maze_HonkaiTowns/HT_Light3"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 42
+	},
+	{
+		"TriggerRound": 1110,
+		"TutorialType": 1,
+		"TutorialID": 9755,
+		"FinishWay": 10,
+		"FinishParam": [
+			0
+		],
+		"NotStopTutorial": true,
+		"NextStepID": 44,
+		"TutorialTextmap": {
+			"hash": 1949146536
+		},
+		"FailedTextmap": {
+			"hash": -200914297
+		},
+		"StartLocation": [],
+		"TargetLocation": [],
+		"TargetPrefab": [
+			{
+				"ID": 0,
+				"Path": "TiledGame/Maze/Maze_HonkaiTowns/HT_Light3"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 43
+	},
+	{
+		"TriggerRound": 1260,
+		"TutorialType": 1,
+		"TutorialID": 9747,
+		"FinishWay": 2,
+		"FinishParam": [
+			1011
+		],
+		"NotStopTutorial": false,
+		"NextStepID": 45,
+		"TutorialTextmap": {
+			"hash": 1949146537
+		},
+		"FailedTextmap": {
+			"hash": -200914296
+		},
+		"StartLocation": [
+			{
+				"ID": 2,
+				"Path": "BrickID"
+			}
+		],
+		"TargetLocation": [
+			{
+				"ID": 1011,
+				"Path": "Adjoin1"
+			}
+		],
+		"TargetPrefab": [
+			{
+				"ID": 1,
+				"Path": "TiledGame/Maze/Maze_HonkaiTowns/HT_Light3"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 44
+	},
+	{
+		"TriggerRound": 1530,
+		"TutorialType": 1,
+		"TutorialID": 9748,
+		"FinishWay": 1,
+		"FinishParam": [
+			2
+		],
+		"NotStopTutorial": false,
+		"NextStepID": 46,
+		"TutorialTextmap": {
+			"hash": 1949146538
+		},
+		"FailedTextmap": {
+			"hash": -200914295
+		},
+		"StartLocation": [
+			{
+				"ID": 2,
+				"Path": "BrickID"
+			}
+		],
+		"TargetLocation": [
+			{
+				"ID": 2,
+				"Path": "Adjoin1"
+			}
+		],
+		"TargetPrefab": [
+			{
+				"ID": 1,
+				"Path": "TiledGame/Maze/Maze_HonkaiTowns/HT_Light3"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 45
+	},
+	{
+		"TriggerRound": 1530,
+		"TutorialType": 1,
+		"TutorialID": 9749,
+		"FinishWay": 12,
+		"FinishParam": [
+			75
+		],
+		"NotStopTutorial": false,
+		"NextStepID": 47,
+		"TutorialTextmap": {
+			"hash": 1949146539
+		},
+		"FailedTextmap": {
+			"hash": -200914294
+		},
+		"StartLocation": [],
+		"TargetLocation": [
+			{
+				"ID": 75,
+				"Path": "PosIdx"
+			}
+		],
+		"TargetPrefab": [
+			{
+				"ID": 2,
+				"Path": "UI/Menus/Widget/HoukaiTown/HoukaiTownShadeDot"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 46
+	},
+	{
+		"TriggerRound": 1710,
+		"TutorialType": 1,
+		"TutorialID": 9724,
+		"FinishWay": 6,
+		"FinishParam": [
+			118913
+		],
+		"NotStopTutorial": false,
+		"NextStepID": 48,
+		"TutorialTextmap": {
+			"hash": 1949146506
+		},
+		"FailedTextmap": {
+			"hash": -200914327
+		},
+		"StartLocation": [
+			{
+				"ID": 118913,
+				"Path": "ItemID"
+			}
+		],
+		"TargetLocation": [
+			{
+				"ID": 83,
+				"Path": "PosIdx"
+			}
+		],
+		"TargetPrefab": [
+			{
+				"ID": 1,
+				"Path": "TiledGame/Maze/Maze_HonkaiTowns/HT_Light3"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 47
+	},
+	{
+		"TriggerRound": 1730,
+		"TutorialType": 1,
+		"TutorialID": 9744,
+		"FinishWay": 10,
+		"FinishParam": [
+			0
+		],
+		"NotStopTutorial": false,
+		"NextStepID": 49,
+		"TutorialTextmap": {
+			"hash": 1949146540
+		},
+		"FailedTextmap": {
+			"hash": -200914293
+		},
+		"StartLocation": [],
+		"TargetLocation": [],
+		"TargetPrefab": [
+			{
+				"ID": 0,
+				"Path": "TiledGame/Maze/Maze_HonkaiTowns/HT_Light3"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 48
+	},
+	{
+		"TriggerRound": 1760,
+		"TutorialType": 1,
+		"TutorialID": 9758,
+		"FinishWay": 10,
+		"FinishParam": [
+			0
+		],
+		"NotStopTutorial": false,
+		"NextStepID": 50,
+		"TutorialTextmap": {
+			"hash": 1949146540
+		},
+		"FailedTextmap": {
+			"hash": -200914293
+		},
+		"StartLocation": [],
+		"TargetLocation": [],
+		"TargetPrefab": [
+			{
+				"ID": 0,
+				"Path": "TiledGame/Maze/Maze_HonkaiTowns/HT_Light3"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 49
+	},
+	{
+		"TriggerRound": 1810,
+		"TutorialType": 1,
+		"TutorialID": 9745,
+		"FinishWay": 10,
+		"FinishParam": [
+			0
+		],
+		"NotStopTutorial": false,
+		"NextStepID": 51,
+		"TutorialTextmap": {
+			"hash": 1949146541
+		},
+		"FailedTextmap": {
+			"hash": -200914292
+		},
+		"StartLocation": [],
+		"TargetLocation": [],
+		"TargetPrefab": [
+			{
+				"ID": 0,
+				"Path": "TiledGame/Maze/Maze_HonkaiTowns/HT_Light3"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 50
+	},
+	{
+		"TriggerRound": 4510,
+		"TutorialType": 1,
+		"TutorialID": 9730,
+		"FinishWay": 5,
+		"FinishParam": [
+			2
+		],
+		"NotStopTutorial": false,
+		"NextStepID": 0,
+		"TutorialTextmap": {
+			"hash": 1949146563
+		},
+		"FailedTextmap": {
+			"hash": -200914270
+		},
+		"StartLocation": [],
+		"TargetLocation": [
+			{
+				"ID": 95,
+				"Path": "PosIdx"
+			}
+		],
+		"TargetPrefab": [
+			{
+				"ID": 2,
+				"Path": "UI/Menus/Widget/HoukaiTown/HoukaiTownShadeDot"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 51
+	},
+	{
+		"TriggerRound": 50,
+		"TutorialType": 1,
+		"TutorialID": 9764,
+		"FinishWay": 10,
+		"FinishParam": [
+			0
+		],
+		"NotStopTutorial": false,
+		"NextStepID": 71,
+		"TutorialTextmap": {
+			"hash": 1949146564
+		},
+		"FailedTextmap": {
+			"hash": 1101897546
+		},
+		"StartLocation": [],
+		"TargetLocation": [],
+		"TargetPrefab": [
+			{
+				"ID": 0,
+				"Path": "TiledGame/Maze/Maze_HonkaiTowns/HT_Light3"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 70
+	},
+	{
+		"TriggerRound": 260,
+		"TutorialType": 1,
+		"TutorialID": 9765,
+		"FinishWay": 1,
+		"FinishParam": [
+			1
+		],
+		"NotStopTutorial": true,
+		"NextStepID": 72,
+		"TutorialTextmap": {
+			"hash": 1949146564
+		},
+		"FailedTextmap": {
+			"hash": 1101897546
+		},
+		"StartLocation": [
+			{
+				"ID": 1,
+				"Path": "BrickID"
+			}
+		],
+		"TargetLocation": [
+			{
+				"ID": 1,
+				"Path": "Adjoin1"
+			}
+		],
+		"TargetPrefab": [
+			{
+				"ID": 1,
+				"Path": "TiledGame/Maze/Maze_HonkaiTowns/HT_Light3"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 71
+	},
+	{
+		"TriggerRound": 260,
+		"TutorialType": 1,
+		"TutorialID": 9766,
+		"FinishWay": 4,
+		"FinishParam": [
+			2301
+		],
+		"NotStopTutorial": true,
+		"NextStepID": 73,
+		"TutorialTextmap": {
+			"hash": 1949146564
+		},
+		"FailedTextmap": {
+			"hash": 1101897546
+		},
+		"StartLocation": [],
+		"TargetLocation": [
+			{
+				"ID": 2301,
+				"Path": "BuildingID"
+			}
+		],
+		"TargetPrefab": [
+			{
+				"ID": 2,
+				"Path": "UI/Menus/Widget/HoukaiTown/HoukaiTownShadeDot"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 72
+	},
+	{
+		"TriggerRound": 260,
+		"TutorialType": 1,
+		"TutorialID": 9767,
+		"FinishWay": 10,
+		"FinishParam": [
+			0
+		],
+		"NotStopTutorial": true,
+		"NextStepID": 0,
+		"TutorialTextmap": {
+			"hash": 1949146564
+		},
+		"FailedTextmap": {
+			"hash": 1101897546
+		},
+		"StartLocation": [],
+		"TargetLocation": [],
+		"TargetPrefab": [
+			{
+				"ID": 0,
+				"Path": "TiledGame/Maze/Maze_HonkaiTowns/HT_Light3"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 73
+	},
+	{
+		"TriggerRound": 50,
+		"TutorialType": 1,
+		"TutorialID": 9768,
+		"FinishWay": 4,
+		"FinishParam": [
+			113001
+		],
+		"NotStopTutorial": false,
+		"NextStepID": 0,
+		"TutorialTextmap": {
+			"hash": 1949146656
+		},
+		"FailedTextmap": {
+			"hash": -200914329
+		},
+		"StartLocation": [],
+		"TargetLocation": [
+			{
+				"ID": 113001,
+				"Path": "BuildingID"
+			}
+		],
+		"TargetPrefab": [
+			{
+				"ID": 2,
+				"Path": "UI/Menus/Widget/HoukaiTown/HoukaiTownShadeDot"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 80
+	},
+	{
+		"TriggerRound": 50,
+		"TutorialType": 1,
+		"TutorialID": 9769,
+		"FinishWay": 4,
+		"FinishParam": [
+			113099
+		],
+		"NotStopTutorial": false,
+		"NextStepID": 0,
+		"TutorialTextmap": {
+			"hash": 1949146656
+		},
+		"FailedTextmap": {
+			"hash": -200914329
+		},
+		"StartLocation": [],
+		"TargetLocation": [
+			{
+				"ID": 113099,
+				"Path": "BuildingID"
+			}
+		],
+		"TargetPrefab": [
+			{
+				"ID": 2,
+				"Path": "UI/Menus/Widget/HoukaiTown/HoukaiTownShadeDot"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 81
+	},
+	{
+		"TriggerRound": 50,
+		"TutorialType": 1,
+		"TutorialID": 9770,
+		"FinishWay": 4,
+		"FinishParam": [
+			2105
+		],
+		"NotStopTutorial": false,
+		"NextStepID": 0,
+		"TutorialTextmap": {
+			"hash": 1949146656
+		},
+		"FailedTextmap": {
+			"hash": -200914329
+		},
+		"StartLocation": [],
+		"TargetLocation": [
+			{
+				"ID": 2105,
+				"Path": "BuildingID"
+			}
+		],
+		"TargetPrefab": [
+			{
+				"ID": 2,
+				"Path": "UI/Menus/Widget/HoukaiTown/HoukaiTownShadeDot"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 82
+	},
+	{
+		"TriggerRound": 50,
+		"TutorialType": 1,
+		"TutorialID": 9771,
+		"FinishWay": 4,
+		"FinishParam": [
+			2207
+		],
+		"NotStopTutorial": false,
+		"NextStepID": 0,
+		"TutorialTextmap": {
+			"hash": 1949146656
+		},
+		"FailedTextmap": {
+			"hash": -200914329
+		},
+		"StartLocation": [],
+		"TargetLocation": [
+			{
+				"ID": 2207,
+				"Path": "BuildingID"
+			}
+		],
+		"TargetPrefab": [
+			{
+				"ID": 2,
+				"Path": "UI/Menus/Widget/HoukaiTown/HoukaiTownShadeDot"
+			}
+		],
+		"DataImpl": {},
+		"StepID": 83
+	}
+]

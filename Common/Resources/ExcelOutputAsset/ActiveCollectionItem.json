@@ -1,0 +1,208 @@
+[
+	{
+		"ButtonType": 0,
+		"ButtonTextMap": {
+			"hash": -314982198
+		},
+		"ButtonImagePath": "event/Immediately/ActivityPage/5.4_test2",
+		"Link": "<type=\"64|10190\" text=\"GO\"/>",
+		"RewardIDList": [
+			16004264
+		],
+		"StartTime": {
+			"TimeStampForBakedReader": 1643364000
+		},
+		"EndTime": {
+			"TimeStampForBakedReader": 1643947199
+		},
+		"minLevel": 15,
+		"maxLevel": 99,
+		"DataImpl": {},
+		"ID": 1
+	},
+	{
+		"ButtonType": 0,
+		"ButtonTextMap": {
+			"hash": 1880186761
+		},
+		"ButtonImagePath": "event/Immediately/ActivityPage/5.4_test2",
+		"Link": "<type=\"63|40000200\" text=\"GO\"/>",
+		"RewardIDList": [
+			16300059
+		],
+		"StartTime": {
+			"TimeStampForBakedReader": 1643364000
+		},
+		"EndTime": {
+			"TimeStampForBakedReader": 1643947199
+		},
+		"minLevel": 15,
+		"maxLevel": 99,
+		"DataImpl": {},
+		"ID": 2
+	},
+	{
+		"ButtonType": 0,
+		"ButtonTextMap": {
+			"hash": 1857577473
+		},
+		"ButtonImagePath": "event/Immediately/ActivityPage/5.4_test2",
+		"Link": "<type=\"64|10191\" text=\"GO\"/>",
+		"RewardIDList": [
+			16004263
+		],
+		"StartTime": {
+			"TimeStampForBakedReader": 1643364000
+		},
+		"EndTime": {
+			"TimeStampForBakedReader": 1643947199
+		},
+		"minLevel": 15,
+		"maxLevel": 99,
+		"DataImpl": {},
+		"ID": 3
+	},
+	{
+		"ButtonType": 1,
+		"ButtonTextMap": {
+			"hash": 998746141
+		},
+		"ButtonImagePath": "SpriteOutput/Activity/ActivityTabIcons/IconActivityOthers",
+		"Link": "<type=\"7|25\" text=\"GO\"/>",
+		"RewardIDList": [
+			16004265
+		],
+		"StartTime": {
+			"TimeStampForBakedReader": 1643364000
+		},
+		"EndTime": {
+			"TimeStampForBakedReader": 1643947199
+		},
+		"minLevel": 20,
+		"maxLevel": 99,
+		"DataImpl": {},
+		"ID": 4
+	},
+	{
+		"ButtonType": 1,
+		"ButtonTextMap": {
+			"hash": -293344576
+		},
+		"ButtonImagePath": "SpriteOutput/Activity/ActivityTabIcons/IconActivityOthers",
+		"Link": "<type=\"17|20\" text=\"GO\"/>",
+		"RewardIDList": [],
+		"StartTime": {
+			"TimeStampForBakedReader": 1643364000
+		},
+		"EndTime": {
+			"TimeStampForBakedReader": 1643947199
+		},
+		"minLevel": 20,
+		"maxLevel": 99,
+		"DataImpl": {},
+		"ID": 5
+	},
+	{
+		"ButtonType": 0,
+		"ButtonTextMap": {
+			"hash": 1519562679
+		},
+		"ButtonImagePath": "event/Immediately/ActivityPage/5.9_test2",
+		"Link": "<type=\"64|10195\" text=\"GO\"/>",
+		"RewardIDList": [
+			16004500
+		],
+		"StartTime": {
+			"TimeStampForBakedReader": 1629626400
+		},
+		"EndTime": {
+			"TimeStampForBakedReader": 1631678399
+		},
+		"minLevel": 25,
+		"maxLevel": 99,
+		"DataImpl": {},
+		"ID": 6
+	},
+	{
+		"ButtonType": 0,
+		"ButtonTextMap": {
+			"hash": 166923278
+		},
+		"ButtonImagePath": "event/Immediately/ActivityPage/5.9_test2",
+		"Link": "<type=\"63|40000201\" text=\"GO\"/>",
+		"RewardIDList": [
+			16004501
+		],
+		"StartTime": {
+			"TimeStampForBakedReader": 1629626400
+		},
+		"EndTime": {
+			"TimeStampForBakedReader": 1631678399
+		},
+		"minLevel": 25,
+		"maxLevel": 99,
+		"DataImpl": {},
+		"ID": 7
+	},
+	{
+		"ButtonType": 0,
+		"ButtonTextMap": {
+			"hash": -2110465604
+		},
+		"ButtonImagePath": "event/Immediately/ActivityPage/5.9_test2",
+		"Link": "<type=\"64|10196\" text=\"GO\"/>",
+		"RewardIDList": [
+			16004502
+		],
+		"StartTime": {
+			"TimeStampForBakedReader": 1629626400
+		},
+		"EndTime": {
+			"TimeStampForBakedReader": 1631678399
+		},
+		"minLevel": 25,
+		"maxLevel": 99,
+		"DataImpl": {},
+		"ID": 8
+	},
+	{
+		"ButtonType": 1,
+		"ButtonTextMap": {
+			"hash": -646370723
+		},
+		"ButtonImagePath": "SpriteOutput/Activity/ActivityTabIcons/IconActivityCart",
+		"Link": "<type=\"7|25\" text=\"GO\"/>",
+		"RewardIDList": [
+			16004503
+		],
+		"StartTime": {
+			"TimeStampForBakedReader": 1629626400
+		},
+		"EndTime": {
+			"TimeStampForBakedReader": 1631678399
+		},
+		"minLevel": 20,
+		"maxLevel": 99,
+		"DataImpl": {},
+		"ID": 9
+	},
+	{
+		"ButtonType": 1,
+		"ButtonTextMap": {
+			"hash": -2101999212
+		},
+		"ButtonImagePath": "SpriteOutput/Activity/ActivityTabIcons/IconActivityCart",
+		"Link": "<type=\"91|5\" text=\"GO\"/>",
+		"RewardIDList": [],
+		"StartTime": {
+			"TimeStampForBakedReader": 1629626400
+		},
+		"EndTime": {
+			"TimeStampForBakedReader": 1631678399
+		},
+		"minLevel": 20,
+		"maxLevel": 99,
+		"DataImpl": {},
+		"ID": 10
+	}
+]

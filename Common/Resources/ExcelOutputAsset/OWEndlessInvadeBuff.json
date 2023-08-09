@@ -1,0 +1,2186 @@
+[
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 302,
+		"ConditionVarList": [
+			30,
+			2
+		],
+		"BuffName": "OWEndless_Invade_Buff_PhysicsResist",
+		"BuffDesc": {
+			"hash": 1655338460
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Def",
+		"ConditionDesc": {
+			"hash": 1911860813
+		},
+		"DataImpl": {},
+		"BuffID": 100
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 101,
+		"ConditionVarList": [
+			30,
+			2
+		],
+		"BuffName": "OWEndless_Invade_Buff_PhysicsResist",
+		"BuffDesc": {
+			"hash": 1655338460
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Def",
+		"ConditionDesc": {
+			"hash": 1911860814
+		},
+		"DataImpl": {},
+		"BuffID": 101
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 201,
+		"ConditionVarList": [
+			30,
+			2
+		],
+		"BuffName": "OWEndless_Invade_Buff_FireResist",
+		"BuffDesc": {
+			"hash": -1404170027
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Fire",
+		"ConditionDesc": {
+			"hash": 1911860815
+		},
+		"DataImpl": {},
+		"BuffID": 102
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 501,
+		"ConditionVarList": [
+			30,
+			2
+		],
+		"BuffName": "OWEndless_Invade_Buff_ThunderResist",
+		"BuffDesc": {
+			"hash": -1187347783
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Lighting",
+		"ConditionDesc": {
+			"hash": 1911860816
+		},
+		"DataImpl": {},
+		"BuffID": 103
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 403,
+		"ConditionVarList": [
+			30,
+			2
+		],
+		"BuffName": "OWEndless_Invade_Buff_IceResist",
+		"BuffDesc": {
+			"hash": -1507168
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Ice",
+		"ConditionDesc": {
+			"hash": 1911860817
+		},
+		"DataImpl": {},
+		"BuffID": 104
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 102,
+		"ConditionVarList": [
+			30,
+			2
+		],
+		"BuffName": "OWEndless_Invade_Buff_RangeResist",
+		"BuffDesc": {
+			"hash": -2139427054
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Range",
+		"ConditionDesc": {
+			"hash": 1911860818
+		},
+		"DataImpl": {},
+		"BuffID": 105
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 301,
+		"ConditionVarList": [
+			30,
+			2
+		],
+		"BuffName": "OWEndless_Invade_Buff_RangeResist",
+		"BuffDesc": {
+			"hash": -2139427054
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Range",
+		"ConditionDesc": {
+			"hash": 1911860819
+		},
+		"DataImpl": {},
+		"BuffID": 106
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 203,
+		"ConditionVarList": [
+			30,
+			2
+		],
+		"BuffName": "OWEndless_Invade_Buff_MeleeResist",
+		"BuffDesc": {
+			"hash": 1893596681
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Break",
+		"ConditionDesc": {
+			"hash": 1911860820
+		},
+		"DataImpl": {},
+		"BuffID": 107
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 202,
+		"ConditionVarList": [
+			30,
+			2
+		],
+		"BuffName": "OWEndless_Invade_Buff_MeleeResist",
+		"BuffDesc": {
+			"hash": 1893596681
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Break",
+		"ConditionDesc": {
+			"hash": 1911860821
+		},
+		"DataImpl": {},
+		"BuffID": 108
+	},
+	{
+		"BuffCondition": 1,
+		"ConditionVarInt": 150,
+		"ConditionVarList": [],
+		"BuffName": "OWEndless_Invade_Buff_AttackUp",
+		"BuffDesc": {
+			"hash": -489956520
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Atk",
+		"ConditionDesc": {
+			"hash": 1911860822
+		},
+		"DataImpl": {},
+		"BuffID": 109
+	},
+	{
+		"BuffCondition": 1,
+		"ConditionVarInt": 180,
+		"ConditionVarList": [],
+		"BuffName": "OWEndless_Invade_Buff_AttackBehavior",
+		"BuffDesc": {
+			"hash": 1036729679
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_AtkSpeed",
+		"ConditionDesc": {
+			"hash": 1911860844
+		},
+		"DataImpl": {},
+		"BuffID": 110
+	},
+	{
+		"BuffCondition": 3,
+		"ConditionVarInt": 2,
+		"ConditionVarList": [
+			30,
+			3
+		],
+		"BuffName": "OWEndless_Invade_Buff_AttackBleed",
+		"BuffDesc": {
+			"hash": -2013381283
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Bleeding",
+		"ConditionDesc": {
+			"hash": 1911860845
+		},
+		"DataImpl": {},
+		"BuffID": 111
+	},
+	{
+		"BuffCondition": 3,
+		"ConditionVarInt": 2,
+		"ConditionVarList": [
+			30,
+			2
+		],
+		"BuffName": "OWEndless_Invade_Buff_AttackBleed",
+		"BuffDesc": {
+			"hash": -2013381283
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Bleeding",
+		"ConditionDesc": {
+			"hash": 1911860846
+		},
+		"DataImpl": {},
+		"BuffID": 112
+	},
+	{
+		"BuffCondition": 3,
+		"ConditionVarInt": 2,
+		"ConditionVarList": [
+			30,
+			1
+		],
+		"BuffName": "OWEndless_Invade_Buff_AttackBleed",
+		"BuffDesc": {
+			"hash": -2013381283
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Bleeding",
+		"ConditionDesc": {
+			"hash": 1911860847
+		},
+		"DataImpl": {},
+		"BuffID": 113
+	},
+	{
+		"BuffCondition": 5,
+		"ConditionVarInt": 1,
+		"ConditionVarList": [
+			4
+		],
+		"BuffName": "OWEndless_Invade_Buff_Teleport",
+		"BuffDesc": {
+			"hash": 1906068352
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Repel",
+		"ConditionDesc": {
+			"hash": 1911860848
+		},
+		"DataImpl": {},
+		"BuffID": 114
+	},
+	{
+		"BuffCondition": 5,
+		"ConditionVarInt": 1,
+		"ConditionVarList": [
+			1
+		],
+		"BuffName": "OWEndless_Invade_Buff_Teleport",
+		"BuffDesc": {
+			"hash": 1906068352
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Repel",
+		"ConditionDesc": {
+			"hash": 1911860849
+		},
+		"DataImpl": {},
+		"BuffID": 115
+	},
+	{
+		"BuffCondition": 5,
+		"ConditionVarInt": 1,
+		"ConditionVarList": [
+			2
+		],
+		"BuffName": "OWEndless_Invade_Buff_Teleport",
+		"BuffDesc": {
+			"hash": 1906068352
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Repel",
+		"ConditionDesc": {
+			"hash": 1911860850
+		},
+		"DataImpl": {},
+		"BuffID": 116
+	},
+	{
+		"BuffCondition": 4,
+		"ConditionVarInt": 1,
+		"ConditionVarList": [
+			30
+		],
+		"BuffName": "OWEndless_Invade_Buff_InjureInvincible",
+		"BuffDesc": {
+			"hash": -622277833
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Draw",
+		"ConditionDesc": {
+			"hash": 1911860851
+		},
+		"DataImpl": {},
+		"BuffID": 117
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 101,
+		"ConditionVarList": [
+			40,
+			2
+		],
+		"BuffName": "OWEndless_Invade_Buff_PhysicsResist",
+		"BuffDesc": {
+			"hash": 1655338460
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Def",
+		"ConditionDesc": {
+			"hash": 1911860906
+		},
+		"DataImpl": {},
+		"BuffID": 130
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 104,
+		"ConditionVarList": [
+			40,
+			2
+		],
+		"BuffName": "OWEndless_Invade_Buff_PhysicsResist",
+		"BuffDesc": {
+			"hash": 1655338460
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Def",
+		"ConditionDesc": {
+			"hash": 1911860907
+		},
+		"DataImpl": {},
+		"BuffID": 131
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 201,
+		"ConditionVarList": [
+			40,
+			2
+		],
+		"BuffName": "OWEndless_Invade_Buff_FireResist",
+		"BuffDesc": {
+			"hash": -1404170027
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Fire",
+		"ConditionDesc": {
+			"hash": 1911860908
+		},
+		"DataImpl": {},
+		"BuffID": 132
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 501,
+		"ConditionVarList": [
+			40,
+			2
+		],
+		"BuffName": "OWEndless_Invade_Buff_ThunderResist",
+		"BuffDesc": {
+			"hash": -1187347783
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Lighting",
+		"ConditionDesc": {
+			"hash": 1911860909
+		},
+		"DataImpl": {},
+		"BuffID": 133
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 203,
+		"ConditionVarList": [
+			40,
+			2
+		],
+		"BuffName": "OWEndless_Invade_Buff_IceResist",
+		"BuffDesc": {
+			"hash": -1507168
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Ice",
+		"ConditionDesc": {
+			"hash": 1911860910
+		},
+		"DataImpl": {},
+		"BuffID": 134
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 102,
+		"ConditionVarList": [
+			40,
+			2
+		],
+		"BuffName": "OWEndless_Invade_Buff_RangeResist",
+		"BuffDesc": {
+			"hash": -2139427054
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Range",
+		"ConditionDesc": {
+			"hash": 1911860911
+		},
+		"DataImpl": {},
+		"BuffID": 135
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 301,
+		"ConditionVarList": [
+			40,
+			2
+		],
+		"BuffName": "OWEndless_Invade_Buff_RangeResist",
+		"BuffDesc": {
+			"hash": -2139427054
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Range",
+		"ConditionDesc": {
+			"hash": 1911860912
+		},
+		"DataImpl": {},
+		"BuffID": 136
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 211,
+		"ConditionVarList": [
+			40,
+			2
+		],
+		"BuffName": "OWEndless_Invade_Buff_MeleeResist",
+		"BuffDesc": {
+			"hash": 1893596681
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Break",
+		"ConditionDesc": {
+			"hash": 1911860913
+		},
+		"DataImpl": {},
+		"BuffID": 137
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 202,
+		"ConditionVarList": [
+			40,
+			2
+		],
+		"BuffName": "OWEndless_Invade_Buff_MeleeResist",
+		"BuffDesc": {
+			"hash": 1893596681
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Break",
+		"ConditionDesc": {
+			"hash": 1911860914
+		},
+		"DataImpl": {},
+		"BuffID": 138
+	},
+	{
+		"BuffCondition": 1,
+		"ConditionVarInt": 180,
+		"ConditionVarList": [],
+		"BuffName": "OWEndless_Invade_Buff_AttackUp",
+		"BuffDesc": {
+			"hash": -489956520
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Atk",
+		"ConditionDesc": {
+			"hash": 1911860915
+		},
+		"DataImpl": {},
+		"BuffID": 139
+	},
+	{
+		"BuffCondition": 1,
+		"ConditionVarInt": 240,
+		"ConditionVarList": [],
+		"BuffName": "OWEndless_Invade_Buff_AttackBehavior",
+		"BuffDesc": {
+			"hash": 1036729679
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_AtkSpeed",
+		"ConditionDesc": {
+			"hash": 1911860937
+		},
+		"DataImpl": {},
+		"BuffID": 140
+	},
+	{
+		"BuffCondition": 3,
+		"ConditionVarInt": 2,
+		"ConditionVarList": [
+			40,
+			3
+		],
+		"BuffName": "OWEndless_Invade_Buff_AttackBleed",
+		"BuffDesc": {
+			"hash": -2013381283
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Bleeding",
+		"ConditionDesc": {
+			"hash": 1911860938
+		},
+		"DataImpl": {},
+		"BuffID": 141
+	},
+	{
+		"BuffCondition": 3,
+		"ConditionVarInt": 2,
+		"ConditionVarList": [
+			40,
+			2
+		],
+		"BuffName": "OWEndless_Invade_Buff_AttackBleed",
+		"BuffDesc": {
+			"hash": -2013381283
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Bleeding",
+		"ConditionDesc": {
+			"hash": 1911860939
+		},
+		"DataImpl": {},
+		"BuffID": 142
+	},
+	{
+		"BuffCondition": 3,
+		"ConditionVarInt": 2,
+		"ConditionVarList": [
+			40,
+			1
+		],
+		"BuffName": "OWEndless_Invade_Buff_AttackBleed",
+		"BuffDesc": {
+			"hash": -2013381283
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Bleeding",
+		"ConditionDesc": {
+			"hash": 1911860940
+		},
+		"DataImpl": {},
+		"BuffID": 143
+	},
+	{
+		"BuffCondition": 5,
+		"ConditionVarInt": 1,
+		"ConditionVarList": [
+			4
+		],
+		"BuffName": "OWEndless_Invade_Buff_Teleport",
+		"BuffDesc": {
+			"hash": 1906068352
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Repel",
+		"ConditionDesc": {
+			"hash": 1911860941
+		},
+		"DataImpl": {},
+		"BuffID": 144
+	},
+	{
+		"BuffCondition": 5,
+		"ConditionVarInt": 1,
+		"ConditionVarList": [
+			1
+		],
+		"BuffName": "OWEndless_Invade_Buff_Teleport",
+		"BuffDesc": {
+			"hash": 1906068352
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Repel",
+		"ConditionDesc": {
+			"hash": 1911860942
+		},
+		"DataImpl": {},
+		"BuffID": 145
+	},
+	{
+		"BuffCondition": 5,
+		"ConditionVarInt": 1,
+		"ConditionVarList": [
+			2
+		],
+		"BuffName": "OWEndless_Invade_Buff_Teleport",
+		"BuffDesc": {
+			"hash": 1906068352
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Repel",
+		"ConditionDesc": {
+			"hash": 1911860943
+		},
+		"DataImpl": {},
+		"BuffID": 146
+	},
+	{
+		"BuffCondition": 4,
+		"ConditionVarInt": 1,
+		"ConditionVarList": [
+			40
+		],
+		"BuffName": "OWEndless_Invade_Buff_InjureInvincible",
+		"BuffDesc": {
+			"hash": -622277833
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Draw",
+		"ConditionDesc": {
+			"hash": 1911860944
+		},
+		"DataImpl": {},
+		"BuffID": 147
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 101,
+		"ConditionVarList": [
+			45,
+			3
+		],
+		"BuffName": "OWEndless_Invade_Buff_PhysicsResist",
+		"BuffDesc": {
+			"hash": 1655338460
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Def",
+		"ConditionDesc": {
+			"hash": 1911860968
+		},
+		"DataImpl": {},
+		"BuffID": 150
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 104,
+		"ConditionVarList": [
+			45,
+			3
+		],
+		"BuffName": "OWEndless_Invade_Buff_PhysicsResist",
+		"BuffDesc": {
+			"hash": 1655338460
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Def",
+		"ConditionDesc": {
+			"hash": 1911860969
+		},
+		"DataImpl": {},
+		"BuffID": 151
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 302,
+		"ConditionVarList": [
+			45,
+			3
+		],
+		"BuffName": "OWEndless_Invade_Buff_PhysicsResist",
+		"BuffDesc": {
+			"hash": 1655338460
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Def",
+		"ConditionDesc": {
+			"hash": 1911860970
+		},
+		"DataImpl": {},
+		"BuffID": 152
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 201,
+		"ConditionVarList": [
+			45,
+			3
+		],
+		"BuffName": "OWEndless_Invade_Buff_FireResist",
+		"BuffDesc": {
+			"hash": -1404170027
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Fire",
+		"ConditionDesc": {
+			"hash": 1911860971
+		},
+		"DataImpl": {},
+		"BuffID": 153
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 213,
+		"ConditionVarList": [
+			45,
+			3
+		],
+		"BuffName": "OWEndless_Invade_Buff_FireResist",
+		"BuffDesc": {
+			"hash": -1404170027
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Fire",
+		"ConditionDesc": {
+			"hash": 1911860972
+		},
+		"DataImpl": {},
+		"BuffID": 154
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 501,
+		"ConditionVarList": [
+			45,
+			3
+		],
+		"BuffName": "OWEndless_Invade_Buff_ThunderResist",
+		"BuffDesc": {
+			"hash": -1187347783
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Lighting",
+		"ConditionDesc": {
+			"hash": 1911860973
+		},
+		"DataImpl": {},
+		"BuffID": 155
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 303,
+		"ConditionVarList": [
+			45,
+			3
+		],
+		"BuffName": "OWEndless_Invade_Buff_IceResist",
+		"BuffDesc": {
+			"hash": -1507168
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Ice",
+		"ConditionDesc": {
+			"hash": 1911860974
+		},
+		"DataImpl": {},
+		"BuffID": 156
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 102,
+		"ConditionVarList": [
+			45,
+			3
+		],
+		"BuffName": "OWEndless_Invade_Buff_RangeResist",
+		"BuffDesc": {
+			"hash": -2139427054
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Range",
+		"ConditionDesc": {
+			"hash": 1911860975
+		},
+		"DataImpl": {},
+		"BuffID": 157
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 301,
+		"ConditionVarList": [
+			45,
+			3
+		],
+		"BuffName": "OWEndless_Invade_Buff_RangeResist",
+		"BuffDesc": {
+			"hash": -2139427054
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Range",
+		"ConditionDesc": {
+			"hash": 1911860976
+		},
+		"DataImpl": {},
+		"BuffID": 158
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 211,
+		"ConditionVarList": [
+			45,
+			3
+		],
+		"BuffName": "OWEndless_Invade_Buff_MeleeResist",
+		"BuffDesc": {
+			"hash": 1893596681
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Break",
+		"ConditionDesc": {
+			"hash": 1911860977
+		},
+		"DataImpl": {},
+		"BuffID": 159
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 112,
+		"ConditionVarList": [
+			45,
+			3
+		],
+		"BuffName": "OWEndless_Invade_Buff_MeleeResist",
+		"BuffDesc": {
+			"hash": 1893596681
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Break",
+		"ConditionDesc": {
+			"hash": 1911860999
+		},
+		"DataImpl": {},
+		"BuffID": 160
+	},
+	{
+		"BuffCondition": 1,
+		"ConditionVarInt": 225,
+		"ConditionVarList": [],
+		"BuffName": "OWEndless_Invade_Buff_AttackUp",
+		"BuffDesc": {
+			"hash": -489956520
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Atk",
+		"ConditionDesc": {
+			"hash": 1911861000
+		},
+		"DataImpl": {},
+		"BuffID": 161
+	},
+	{
+		"BuffCondition": 1,
+		"ConditionVarInt": 270,
+		"ConditionVarList": [],
+		"BuffName": "OWEndless_Invade_Buff_AttackBehavior",
+		"BuffDesc": {
+			"hash": 1036729679
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_AtkSpeed",
+		"ConditionDesc": {
+			"hash": 1911861001
+		},
+		"DataImpl": {},
+		"BuffID": 162
+	},
+	{
+		"BuffCondition": 3,
+		"ConditionVarInt": 2,
+		"ConditionVarList": [
+			45,
+			3
+		],
+		"BuffName": "OWEndless_Invade_Buff_AttackBleed",
+		"BuffDesc": {
+			"hash": -2013381283
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Bleeding",
+		"ConditionDesc": {
+			"hash": 1911861002
+		},
+		"DataImpl": {},
+		"BuffID": 163
+	},
+	{
+		"BuffCondition": 3,
+		"ConditionVarInt": 2,
+		"ConditionVarList": [
+			45,
+			2
+		],
+		"BuffName": "OWEndless_Invade_Buff_AttackBleed",
+		"BuffDesc": {
+			"hash": -2013381283
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Bleeding",
+		"ConditionDesc": {
+			"hash": 1911861003
+		},
+		"DataImpl": {},
+		"BuffID": 164
+	},
+	{
+		"BuffCondition": 3,
+		"ConditionVarInt": 2,
+		"ConditionVarList": [
+			45,
+			1
+		],
+		"BuffName": "OWEndless_Invade_Buff_AttackBleed",
+		"BuffDesc": {
+			"hash": -2013381283
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Bleeding",
+		"ConditionDesc": {
+			"hash": 1911861004
+		},
+		"DataImpl": {},
+		"BuffID": 165
+	},
+	{
+		"BuffCondition": 5,
+		"ConditionVarInt": 1,
+		"ConditionVarList": [
+			4
+		],
+		"BuffName": "OWEndless_Invade_Buff_Teleport",
+		"BuffDesc": {
+			"hash": 1906068352
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Repel",
+		"ConditionDesc": {
+			"hash": 1911861005
+		},
+		"DataImpl": {},
+		"BuffID": 166
+	},
+	{
+		"BuffCondition": 5,
+		"ConditionVarInt": 1,
+		"ConditionVarList": [
+			1
+		],
+		"BuffName": "OWEndless_Invade_Buff_Teleport",
+		"BuffDesc": {
+			"hash": 1906068352
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Repel",
+		"ConditionDesc": {
+			"hash": 1911861006
+		},
+		"DataImpl": {},
+		"BuffID": 167
+	},
+	{
+		"BuffCondition": 5,
+		"ConditionVarInt": 1,
+		"ConditionVarList": [
+			2
+		],
+		"BuffName": "OWEndless_Invade_Buff_Teleport",
+		"BuffDesc": {
+			"hash": 1906068352
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Repel",
+		"ConditionDesc": {
+			"hash": 1911861007
+		},
+		"DataImpl": {},
+		"BuffID": 168
+	},
+	{
+		"BuffCondition": 4,
+		"ConditionVarInt": 1,
+		"ConditionVarList": [
+			45
+		],
+		"BuffName": "OWEndless_Invade_Buff_InjureInvincible",
+		"BuffDesc": {
+			"hash": -622277833
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Draw",
+		"ConditionDesc": {
+			"hash": 1911861008
+		},
+		"DataImpl": {},
+		"BuffID": 169
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 101,
+		"ConditionVarList": [
+			60,
+			4
+		],
+		"BuffName": "OWEndless_Invade_Buff_PhysicsResist",
+		"BuffDesc": {
+			"hash": 1655338460
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Def",
+		"ConditionDesc": {
+			"hash": 1911861061
+		},
+		"DataImpl": {},
+		"BuffID": 180
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 104,
+		"ConditionVarList": [
+			60,
+			4
+		],
+		"BuffName": "OWEndless_Invade_Buff_PhysicsResist",
+		"BuffDesc": {
+			"hash": 1655338460
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Def",
+		"ConditionDesc": {
+			"hash": 1911861062
+		},
+		"DataImpl": {},
+		"BuffID": 181
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 302,
+		"ConditionVarList": [
+			60,
+			3
+		],
+		"BuffName": "OWEndless_Invade_Buff_PhysicsResist",
+		"BuffDesc": {
+			"hash": 1655338460
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Def",
+		"ConditionDesc": {
+			"hash": 1911861063
+		},
+		"DataImpl": {},
+		"BuffID": 182
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 201,
+		"ConditionVarList": [
+			60,
+			3
+		],
+		"BuffName": "OWEndless_Invade_Buff_FireResist",
+		"BuffDesc": {
+			"hash": -1404170027
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Fire",
+		"ConditionDesc": {
+			"hash": 1911861064
+		},
+		"DataImpl": {},
+		"BuffID": 183
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 203,
+		"ConditionVarList": [
+			60,
+			3
+		],
+		"BuffName": "OWEndless_Invade_Buff_FireResist",
+		"BuffDesc": {
+			"hash": -1404170027
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Fire",
+		"ConditionDesc": {
+			"hash": 1911861065
+		},
+		"DataImpl": {},
+		"BuffID": 184
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 501,
+		"ConditionVarList": [
+			60,
+			3
+		],
+		"BuffName": "OWEndless_Invade_Buff_ThunderResist",
+		"BuffDesc": {
+			"hash": -1187347783
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Lighting",
+		"ConditionDesc": {
+			"hash": 1911861066
+		},
+		"DataImpl": {},
+		"BuffID": 185
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 204,
+		"ConditionVarList": [
+			60,
+			3
+		],
+		"BuffName": "OWEndless_Invade_Buff_ThunderResist",
+		"BuffDesc": {
+			"hash": -1187347783
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Lighting",
+		"ConditionDesc": {
+			"hash": 1911861067
+		},
+		"DataImpl": {},
+		"BuffID": 186
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 402,
+		"ConditionVarList": [
+			60,
+			3
+		],
+		"BuffName": "OWEndless_Invade_Buff_ThunderResist",
+		"BuffDesc": {
+			"hash": -1187347783
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Lighting",
+		"ConditionDesc": {
+			"hash": 1911861068
+		},
+		"DataImpl": {},
+		"BuffID": 187
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 303,
+		"ConditionVarList": [
+			60,
+			4
+		],
+		"BuffName": "OWEndless_Invade_Buff_IceResist",
+		"BuffDesc": {
+			"hash": -1507168
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Ice",
+		"ConditionDesc": {
+			"hash": 1911861069
+		},
+		"DataImpl": {},
+		"BuffID": 188
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 103,
+		"ConditionVarList": [
+			60,
+			3
+		],
+		"BuffName": "OWEndless_Invade_Buff_IceResist",
+		"BuffDesc": {
+			"hash": -1507168
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Ice",
+		"ConditionDesc": {
+			"hash": 1911861070
+		},
+		"DataImpl": {},
+		"BuffID": 189
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 102,
+		"ConditionVarList": [
+			60,
+			3
+		],
+		"BuffName": "OWEndless_Invade_Buff_RangeResist",
+		"BuffDesc": {
+			"hash": -2139427054
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Range",
+		"ConditionDesc": {
+			"hash": 1911861092
+		},
+		"DataImpl": {},
+		"BuffID": 190
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 301,
+		"ConditionVarList": [
+			60,
+			4
+		],
+		"BuffName": "OWEndless_Invade_Buff_RangeResist",
+		"BuffDesc": {
+			"hash": -2139427054
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Range",
+		"ConditionDesc": {
+			"hash": 1911861093
+		},
+		"DataImpl": {},
+		"BuffID": 191
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 211,
+		"ConditionVarList": [
+			60,
+			4
+		],
+		"BuffName": "OWEndless_Invade_Buff_MeleeResist",
+		"BuffDesc": {
+			"hash": 1893596681
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Break",
+		"ConditionDesc": {
+			"hash": 1911861094
+		},
+		"DataImpl": {},
+		"BuffID": 192
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 112,
+		"ConditionVarList": [
+			60,
+			3
+		],
+		"BuffName": "OWEndless_Invade_Buff_MeleeResist",
+		"BuffDesc": {
+			"hash": 1893596681
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Break",
+		"ConditionDesc": {
+			"hash": 1911861095
+		},
+		"DataImpl": {},
+		"BuffID": 193
+	},
+	{
+		"BuffCondition": 1,
+		"ConditionVarInt": 300,
+		"ConditionVarList": [],
+		"BuffName": "OWEndless_Invade_Buff_AttackUp",
+		"BuffDesc": {
+			"hash": -489956520
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Atk",
+		"ConditionDesc": {
+			"hash": 1911861096
+		},
+		"DataImpl": {},
+		"BuffID": 194
+	},
+	{
+		"BuffCondition": 1,
+		"ConditionVarInt": 360,
+		"ConditionVarList": [],
+		"BuffName": "OWEndless_Invade_Buff_AttackBehavior",
+		"BuffDesc": {
+			"hash": 1036729679
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_AtkSpeed",
+		"ConditionDesc": {
+			"hash": 1911861097
+		},
+		"DataImpl": {},
+		"BuffID": 195
+	},
+	{
+		"BuffCondition": 3,
+		"ConditionVarInt": 2,
+		"ConditionVarList": [
+			60,
+			3
+		],
+		"BuffName": "OWEndless_Invade_Buff_AttackBleed",
+		"BuffDesc": {
+			"hash": -2013381283
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Bleeding",
+		"ConditionDesc": {
+			"hash": 1911861098
+		},
+		"DataImpl": {},
+		"BuffID": 196
+	},
+	{
+		"BuffCondition": 3,
+		"ConditionVarInt": 2,
+		"ConditionVarList": [
+			60,
+			2
+		],
+		"BuffName": "OWEndless_Invade_Buff_AttackBleed",
+		"BuffDesc": {
+			"hash": -2013381283
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Bleeding",
+		"ConditionDesc": {
+			"hash": 1911861099
+		},
+		"DataImpl": {},
+		"BuffID": 197
+	},
+	{
+		"BuffCondition": 3,
+		"ConditionVarInt": 2,
+		"ConditionVarList": [
+			60,
+			1
+		],
+		"BuffName": "OWEndless_Invade_Buff_AttackBleed",
+		"BuffDesc": {
+			"hash": -2013381283
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Bleeding",
+		"ConditionDesc": {
+			"hash": 1911861100
+		},
+		"DataImpl": {},
+		"BuffID": 198
+	},
+	{
+		"BuffCondition": 5,
+		"ConditionVarInt": 2,
+		"ConditionVarList": [
+			4
+		],
+		"BuffName": "OWEndless_Invade_Buff_Teleport",
+		"BuffDesc": {
+			"hash": 1906068352
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Repel",
+		"ConditionDesc": {
+			"hash": 1911861101
+		},
+		"DataImpl": {},
+		"BuffID": 199
+	},
+	{
+		"BuffCondition": 5,
+		"ConditionVarInt": 2,
+		"ConditionVarList": [
+			1
+		],
+		"BuffName": "OWEndless_Invade_Buff_Teleport",
+		"BuffDesc": {
+			"hash": 1906068352
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Repel",
+		"ConditionDesc": {
+			"hash": 1911861774
+		},
+		"DataImpl": {},
+		"BuffID": 200
+	},
+	{
+		"BuffCondition": 5,
+		"ConditionVarInt": 2,
+		"ConditionVarList": [
+			2
+		],
+		"BuffName": "OWEndless_Invade_Buff_Teleport",
+		"BuffDesc": {
+			"hash": 1906068352
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Repel",
+		"ConditionDesc": {
+			"hash": 1911861775
+		},
+		"DataImpl": {},
+		"BuffID": 201
+	},
+	{
+		"BuffCondition": 4,
+		"ConditionVarInt": 1,
+		"ConditionVarList": [
+			60
+		],
+		"BuffName": "OWEndless_Invade_Buff_InjureInvincible",
+		"BuffDesc": {
+			"hash": -622277833
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Draw",
+		"ConditionDesc": {
+			"hash": 1911861776
+		},
+		"DataImpl": {},
+		"BuffID": 202
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 101,
+		"ConditionVarList": [
+			70,
+			4
+		],
+		"BuffName": "OWEndless_Invade_Buff_PhysicsResist",
+		"BuffDesc": {
+			"hash": 1655338460
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Def",
+		"ConditionDesc": {
+			"hash": 1911861805
+		},
+		"DataImpl": {},
+		"BuffID": 210
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 104,
+		"ConditionVarList": [
+			70,
+			4
+		],
+		"BuffName": "OWEndless_Invade_Buff_PhysicsResist",
+		"BuffDesc": {
+			"hash": 1655338460
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Def",
+		"ConditionDesc": {
+			"hash": 1911861806
+		},
+		"DataImpl": {},
+		"BuffID": 211
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 302,
+		"ConditionVarList": [
+			70,
+			4
+		],
+		"BuffName": "OWEndless_Invade_Buff_PhysicsResist",
+		"BuffDesc": {
+			"hash": 1655338460
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Def",
+		"ConditionDesc": {
+			"hash": 1911861807
+		},
+		"DataImpl": {},
+		"BuffID": 212
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 213,
+		"ConditionVarList": [
+			70,
+			4
+		],
+		"BuffName": "OWEndless_Invade_Buff_FireResist",
+		"BuffDesc": {
+			"hash": -1404170027
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Fire",
+		"ConditionDesc": {
+			"hash": 1911861808
+		},
+		"DataImpl": {},
+		"BuffID": 213
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 304,
+		"ConditionVarList": [
+			70,
+			3
+		],
+		"BuffName": "OWEndless_Invade_Buff_FireResist",
+		"BuffDesc": {
+			"hash": -1404170027
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Fire",
+		"ConditionDesc": {
+			"hash": 1911861809
+		},
+		"DataImpl": {},
+		"BuffID": 214
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 501,
+		"ConditionVarList": [
+			70,
+			4
+		],
+		"BuffName": "OWEndless_Invade_Buff_ThunderResist",
+		"BuffDesc": {
+			"hash": -1187347783
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Lighting",
+		"ConditionDesc": {
+			"hash": 1911861810
+		},
+		"DataImpl": {},
+		"BuffID": 215
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 204,
+		"ConditionVarList": [
+			70,
+			3
+		],
+		"BuffName": "OWEndless_Invade_Buff_ThunderResist",
+		"BuffDesc": {
+			"hash": -1187347783
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Lighting",
+		"ConditionDesc": {
+			"hash": 1911861811
+		},
+		"DataImpl": {},
+		"BuffID": 216
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 303,
+		"ConditionVarList": [
+			70,
+			4
+		],
+		"BuffName": "OWEndless_Invade_Buff_IceResist",
+		"BuffDesc": {
+			"hash": -1507168
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Ice",
+		"ConditionDesc": {
+			"hash": 1911861812
+		},
+		"DataImpl": {},
+		"BuffID": 217
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 111,
+		"ConditionVarList": [
+			70,
+			3
+		],
+		"BuffName": "OWEndless_Invade_Buff_IceResist",
+		"BuffDesc": {
+			"hash": -1507168
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Ice",
+		"ConditionDesc": {
+			"hash": 1911861813
+		},
+		"DataImpl": {},
+		"BuffID": 218
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 102,
+		"ConditionVarList": [
+			70,
+			4
+		],
+		"BuffName": "OWEndless_Invade_Buff_RangeResist",
+		"BuffDesc": {
+			"hash": -2139427054
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Range",
+		"ConditionDesc": {
+			"hash": 1911861814
+		},
+		"DataImpl": {},
+		"BuffID": 219
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 103,
+		"ConditionVarList": [
+			70,
+			3
+		],
+		"BuffName": "OWEndless_Invade_Buff_RangeResist",
+		"BuffDesc": {
+			"hash": -2139427054
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Range",
+		"ConditionDesc": {
+			"hash": 1911861836
+		},
+		"DataImpl": {},
+		"BuffID": 220
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 211,
+		"ConditionVarList": [
+			70,
+			5
+		],
+		"BuffName": "OWEndless_Invade_Buff_MeleeResist",
+		"BuffDesc": {
+			"hash": 1893596681
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Break",
+		"ConditionDesc": {
+			"hash": 1911861837
+		},
+		"DataImpl": {},
+		"BuffID": 221
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 202,
+		"ConditionVarList": [
+			70,
+			4
+		],
+		"BuffName": "OWEndless_Invade_Buff_MeleeResist",
+		"BuffDesc": {
+			"hash": 1893596681
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Break",
+		"ConditionDesc": {
+			"hash": 1911861838
+		},
+		"DataImpl": {},
+		"BuffID": 222
+	},
+	{
+		"BuffCondition": 1,
+		"ConditionVarInt": 400,
+		"ConditionVarList": [],
+		"BuffName": "OWEndless_Invade_Buff_AttackUp",
+		"BuffDesc": {
+			"hash": -489956520
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Atk",
+		"ConditionDesc": {
+			"hash": 1911861839
+		},
+		"DataImpl": {},
+		"BuffID": 223
+	},
+	{
+		"BuffCondition": 1,
+		"ConditionVarInt": 420,
+		"ConditionVarList": [],
+		"BuffName": "OWEndless_Invade_Buff_AttackBehavior",
+		"BuffDesc": {
+			"hash": 1036729679
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_AtkSpeed",
+		"ConditionDesc": {
+			"hash": 1911861840
+		},
+		"DataImpl": {},
+		"BuffID": 224
+	},
+	{
+		"BuffCondition": 3,
+		"ConditionVarInt": 2,
+		"ConditionVarList": [
+			70,
+			3
+		],
+		"BuffName": "OWEndless_Invade_Buff_AttackBleed",
+		"BuffDesc": {
+			"hash": -2013381283
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Bleeding",
+		"ConditionDesc": {
+			"hash": 1911861841
+		},
+		"DataImpl": {},
+		"BuffID": 225
+	},
+	{
+		"BuffCondition": 3,
+		"ConditionVarInt": 2,
+		"ConditionVarList": [
+			70,
+			2
+		],
+		"BuffName": "OWEndless_Invade_Buff_AttackBleed",
+		"BuffDesc": {
+			"hash": -2013381283
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Bleeding",
+		"ConditionDesc": {
+			"hash": 1911861842
+		},
+		"DataImpl": {},
+		"BuffID": 226
+	},
+	{
+		"BuffCondition": 3,
+		"ConditionVarInt": 2,
+		"ConditionVarList": [
+			70,
+			1
+		],
+		"BuffName": "OWEndless_Invade_Buff_AttackBleed",
+		"BuffDesc": {
+			"hash": -2013381283
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Bleeding",
+		"ConditionDesc": {
+			"hash": 1911861843
+		},
+		"DataImpl": {},
+		"BuffID": 227
+	},
+	{
+		"BuffCondition": 5,
+		"ConditionVarInt": 2,
+		"ConditionVarList": [
+			4
+		],
+		"BuffName": "OWEndless_Invade_Buff_Teleport",
+		"BuffDesc": {
+			"hash": 1906068352
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Repel",
+		"ConditionDesc": {
+			"hash": 1911861844
+		},
+		"DataImpl": {},
+		"BuffID": 228
+	},
+	{
+		"BuffCondition": 5,
+		"ConditionVarInt": 2,
+		"ConditionVarList": [
+			1
+		],
+		"BuffName": "OWEndless_Invade_Buff_Teleport",
+		"BuffDesc": {
+			"hash": 1906068352
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Repel",
+		"ConditionDesc": {
+			"hash": 1911861845
+		},
+		"DataImpl": {},
+		"BuffID": 229
+	},
+	{
+		"BuffCondition": 5,
+		"ConditionVarInt": 2,
+		"ConditionVarList": [
+			2
+		],
+		"BuffName": "OWEndless_Invade_Buff_Teleport",
+		"BuffDesc": {
+			"hash": 1906068352
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Repel",
+		"ConditionDesc": {
+			"hash": 1911861867
+		},
+		"DataImpl": {},
+		"BuffID": 230
+	},
+	{
+		"BuffCondition": 4,
+		"ConditionVarInt": 1,
+		"ConditionVarList": [
+			70
+		],
+		"BuffName": "OWEndless_Invade_Buff_InjureInvincible",
+		"BuffDesc": {
+			"hash": -622277833
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Draw",
+		"ConditionDesc": {
+			"hash": 1911861868
+		},
+		"DataImpl": {},
+		"BuffID": 231
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 101,
+		"ConditionVarList": [
+			75,
+			5
+		],
+		"BuffName": "OWEndless_Invade_Buff_PhysicsResist",
+		"BuffDesc": {
+			"hash": 1655338460
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Def",
+		"ConditionDesc": {
+			"hash": 1911861929
+		},
+		"DataImpl": {},
+		"BuffID": 250
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 104,
+		"ConditionVarList": [
+			75,
+			5
+		],
+		"BuffName": "OWEndless_Invade_Buff_PhysicsResist",
+		"BuffDesc": {
+			"hash": 1655338460
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Def",
+		"ConditionDesc": {
+			"hash": 1911861930
+		},
+		"DataImpl": {},
+		"BuffID": 251
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 401,
+		"ConditionVarList": [
+			75,
+			5
+		],
+		"BuffName": "OWEndless_Invade_Buff_PhysicsResist",
+		"BuffDesc": {
+			"hash": 1655338460
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Def",
+		"ConditionDesc": {
+			"hash": 1911861931
+		},
+		"DataImpl": {},
+		"BuffID": 252
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 301,
+		"ConditionVarList": [
+			75,
+			5
+		],
+		"BuffName": "OWEndless_Invade_Buff_FireResist",
+		"BuffDesc": {
+			"hash": -1404170027
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Fire",
+		"ConditionDesc": {
+			"hash": 1911861932
+		},
+		"DataImpl": {},
+		"BuffID": 253
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 304,
+		"ConditionVarList": [
+			75,
+			4
+		],
+		"BuffName": "OWEndless_Invade_Buff_FireResist",
+		"BuffDesc": {
+			"hash": -1404170027
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Fire",
+		"ConditionDesc": {
+			"hash": 1911861933
+		},
+		"DataImpl": {},
+		"BuffID": 254
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 501,
+		"ConditionVarList": [
+			75,
+			5
+		],
+		"BuffName": "OWEndless_Invade_Buff_ThunderResist",
+		"BuffDesc": {
+			"hash": -1187347783
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Lighting",
+		"ConditionDesc": {
+			"hash": 1911861934
+		},
+		"DataImpl": {},
+		"BuffID": 255
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 204,
+		"ConditionVarList": [
+			75,
+			4
+		],
+		"BuffName": "OWEndless_Invade_Buff_ThunderResist",
+		"BuffDesc": {
+			"hash": -1187347783
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Lighting",
+		"ConditionDesc": {
+			"hash": 1911861935
+		},
+		"DataImpl": {},
+		"BuffID": 256
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 303,
+		"ConditionVarList": [
+			75,
+			5
+		],
+		"BuffName": "OWEndless_Invade_Buff_IceResist",
+		"BuffDesc": {
+			"hash": -1507168
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Ice",
+		"ConditionDesc": {
+			"hash": 1911861936
+		},
+		"DataImpl": {},
+		"BuffID": 257
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 111,
+		"ConditionVarList": [
+			75,
+			4
+		],
+		"BuffName": "OWEndless_Invade_Buff_IceResist",
+		"BuffDesc": {
+			"hash": -1507168
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Ice",
+		"ConditionDesc": {
+			"hash": 1911861937
+		},
+		"DataImpl": {},
+		"BuffID": 258
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 102,
+		"ConditionVarList": [
+			75,
+			5
+		],
+		"BuffName": "OWEndless_Invade_Buff_RangeResist",
+		"BuffDesc": {
+			"hash": -2139427054
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Range",
+		"ConditionDesc": {
+			"hash": 1911861938
+		},
+		"DataImpl": {},
+		"BuffID": 259
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 103,
+		"ConditionVarList": [
+			75,
+			4
+		],
+		"BuffName": "OWEndless_Invade_Buff_RangeResist",
+		"BuffDesc": {
+			"hash": -2139427054
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Range",
+		"ConditionDesc": {
+			"hash": 1911861960
+		},
+		"DataImpl": {},
+		"BuffID": 260
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 203,
+		"ConditionVarList": [
+			75,
+			5
+		],
+		"BuffName": "OWEndless_Invade_Buff_MeleeResist",
+		"BuffDesc": {
+			"hash": 1893596681
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Break",
+		"ConditionDesc": {
+			"hash": 1911861961
+		},
+		"DataImpl": {},
+		"BuffID": 261
+	},
+	{
+		"BuffCondition": 6,
+		"ConditionVarInt": 202,
+		"ConditionVarList": [
+			75,
+			5
+		],
+		"BuffName": "OWEndless_Invade_Buff_MeleeResist",
+		"BuffDesc": {
+			"hash": 1893596681
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Break",
+		"ConditionDesc": {
+			"hash": 1911861962
+		},
+		"DataImpl": {},
+		"BuffID": 262
+	},
+	{
+		"BuffCondition": 1,
+		"ConditionVarInt": 450,
+		"ConditionVarList": [],
+		"BuffName": "OWEndless_Invade_Buff_AttackUp",
+		"BuffDesc": {
+			"hash": -489956520
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Atk",
+		"ConditionDesc": {
+			"hash": 1911861963
+		},
+		"DataImpl": {},
+		"BuffID": 263
+	},
+	{
+		"BuffCondition": 1,
+		"ConditionVarInt": 480,
+		"ConditionVarList": [],
+		"BuffName": "OWEndless_Invade_Buff_AttackBehavior",
+		"BuffDesc": {
+			"hash": 1036729679
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_AtkSpeed",
+		"ConditionDesc": {
+			"hash": 1911861964
+		},
+		"DataImpl": {},
+		"BuffID": 264
+	},
+	{
+		"BuffCondition": 3,
+		"ConditionVarInt": 2,
+		"ConditionVarList": [
+			75,
+			3
+		],
+		"BuffName": "OWEndless_Invade_Buff_AttackBleed",
+		"BuffDesc": {
+			"hash": -2013381283
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Bleeding",
+		"ConditionDesc": {
+			"hash": 1911861965
+		},
+		"DataImpl": {},
+		"BuffID": 265
+	},
+	{
+		"BuffCondition": 3,
+		"ConditionVarInt": 2,
+		"ConditionVarList": [
+			75,
+			2
+		],
+		"BuffName": "OWEndless_Invade_Buff_AttackBleed",
+		"BuffDesc": {
+			"hash": -2013381283
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Bleeding",
+		"ConditionDesc": {
+			"hash": 1911861966
+		},
+		"DataImpl": {},
+		"BuffID": 266
+	},
+	{
+		"BuffCondition": 3,
+		"ConditionVarInt": 2,
+		"ConditionVarList": [
+			75,
+			1
+		],
+		"BuffName": "OWEndless_Invade_Buff_AttackBleed",
+		"BuffDesc": {
+			"hash": -2013381283
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Bleeding",
+		"ConditionDesc": {
+			"hash": 1911861967
+		},
+		"DataImpl": {},
+		"BuffID": 267
+	},
+	{
+		"BuffCondition": 5,
+		"ConditionVarInt": 2,
+		"ConditionVarList": [
+			4
+		],
+		"BuffName": "OWEndless_Invade_Buff_Teleport",
+		"BuffDesc": {
+			"hash": 1906068352
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Repel",
+		"ConditionDesc": {
+			"hash": 1911861968
+		},
+		"DataImpl": {},
+		"BuffID": 268
+	},
+	{
+		"BuffCondition": 5,
+		"ConditionVarInt": 2,
+		"ConditionVarList": [
+			1
+		],
+		"BuffName": "OWEndless_Invade_Buff_Teleport",
+		"BuffDesc": {
+			"hash": 1906068352
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Repel",
+		"ConditionDesc": {
+			"hash": 1911861969
+		},
+		"DataImpl": {},
+		"BuffID": 269
+	},
+	{
+		"BuffCondition": 5,
+		"ConditionVarInt": 2,
+		"ConditionVarList": [
+			2
+		],
+		"BuffName": "OWEndless_Invade_Buff_Teleport",
+		"BuffDesc": {
+			"hash": 1906068352
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Repel",
+		"ConditionDesc": {
+			"hash": 1911861991
+		},
+		"DataImpl": {},
+		"BuffID": 270
+	},
+	{
+		"BuffCondition": 4,
+		"ConditionVarInt": 1,
+		"ConditionVarList": [
+			75
+		],
+		"BuffName": "OWEndless_Invade_Buff_InjureInvincible",
+		"BuffDesc": {
+			"hash": -622277833
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Draw",
+		"ConditionDesc": {
+			"hash": 1911861992
+		},
+		"DataImpl": {},
+		"BuffID": 271
+	},
+	{
+		"BuffCondition": 1,
+		"ConditionVarInt": 1,
+		"ConditionVarList": [],
+		"BuffName": "OWEndless_Invade_Buff_OverTimeHP",
+		"BuffDesc": {
+			"hash": 926787998
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Quest",
+		"ConditionDesc": {
+			"hash": 1911864657
+		},
+		"DataImpl": {},
+		"BuffID": 500
+	},
+	{
+		"BuffCondition": 1,
+		"ConditionVarInt": 1,
+		"ConditionVarList": [],
+		"BuffName": "BossNoClearAreaBuff_1000",
+		"BuffDesc": {
+			"hash": 79142907
+		},
+		"BuffIconPath": "SpriteOutput/StateIcon/State_Lighting",
+		"ConditionDesc": {
+			"hash": -861856893
+		},
+		"DataImpl": {},
+		"BuffID": 1000
+	}
+]

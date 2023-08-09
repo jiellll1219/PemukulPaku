@@ -1,0 +1,2602 @@
+[
+	{
+		"AtkBase": 100,
+		"DamageBase": 150,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15001,
+		"MaxAffixNum": 1,
+		"NeedExp": 0,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_1_01",
+		"ActiveSkillParam": [
+			1800,
+			0.15,
+			15,
+			121
+		],
+		"DataImpl": {},
+		"LevelConfigID": 10,
+		"Level": 1
+	},
+	{
+		"AtkBase": 110,
+		"DamageBase": 190,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15001,
+		"MaxAffixNum": 1,
+		"NeedExp": 300,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_1_02",
+		"ActiveSkillParam": [
+			2280,
+			0.15,
+			15,
+			121
+		],
+		"DataImpl": {},
+		"LevelConfigID": 10,
+		"Level": 2
+	},
+	{
+		"AtkBase": 120,
+		"DamageBase": 230,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15001,
+		"MaxAffixNum": 1,
+		"NeedExp": 400,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_1_03",
+		"ActiveSkillParam": [
+			2760,
+			0.15,
+			15,
+			121
+		],
+		"DataImpl": {},
+		"LevelConfigID": 10,
+		"Level": 3
+	},
+	{
+		"AtkBase": 130,
+		"DamageBase": 270,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15001,
+		"MaxAffixNum": 1,
+		"NeedExp": 500,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_1_04",
+		"ActiveSkillParam": [
+			3240,
+			0.15,
+			15,
+			121
+		],
+		"DataImpl": {},
+		"LevelConfigID": 10,
+		"Level": 4
+	},
+	{
+		"AtkBase": 140,
+		"DamageBase": 310,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15001,
+		"MaxAffixNum": 1,
+		"NeedExp": 600,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_1_05",
+		"ActiveSkillParam": [
+			3720,
+			0.15,
+			15,
+			121
+		],
+		"DataImpl": {},
+		"LevelConfigID": 10,
+		"Level": 5
+	},
+	{
+		"AtkBase": 150,
+		"DamageBase": 370,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15001,
+		"MaxAffixNum": 1,
+		"NeedExp": 700,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_1_06",
+		"ActiveSkillParam": [
+			4440,
+			0.15,
+			15,
+			121
+		],
+		"DataImpl": {},
+		"LevelConfigID": 10,
+		"Level": 6
+	},
+	{
+		"AtkBase": 160,
+		"DamageBase": 430,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15001,
+		"MaxAffixNum": 1,
+		"NeedExp": 800,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_1_07",
+		"ActiveSkillParam": [
+			5160,
+			0.15,
+			15,
+			121
+		],
+		"DataImpl": {},
+		"LevelConfigID": 10,
+		"Level": 7
+	},
+	{
+		"AtkBase": 170,
+		"DamageBase": 600,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15001,
+		"MaxAffixNum": 1,
+		"NeedExp": 900,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_1_08",
+		"ActiveSkillParam": [
+			7200,
+			0.15,
+			15,
+			121
+		],
+		"DataImpl": {},
+		"LevelConfigID": 10,
+		"Level": 8
+	},
+	{
+		"AtkBase": 180,
+		"DamageBase": 700,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15001,
+		"MaxAffixNum": 1,
+		"NeedExp": 1000,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_1_09",
+		"ActiveSkillParam": [
+			8400,
+			0.15,
+			15,
+			121
+		],
+		"DataImpl": {},
+		"LevelConfigID": 10,
+		"Level": 9
+	},
+	{
+		"AtkBase": 200,
+		"DamageBase": 800,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15001,
+		"MaxAffixNum": 2,
+		"NeedExp": 1100,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_1_10",
+		"ActiveSkillParam": [
+			9600,
+			0.15,
+			20,
+			121
+		],
+		"DataImpl": {},
+		"LevelConfigID": 10,
+		"Level": 10
+	},
+	{
+		"AtkBase": 210,
+		"DamageBase": 820,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15006,
+		"MaxAffixNum": 2,
+		"NeedExp": 1200,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_1_11",
+		"ActiveSkillParam": [
+			9840,
+			0.15,
+			20,
+			121
+		],
+		"DataImpl": {},
+		"LevelConfigID": 10,
+		"Level": 11
+	},
+	{
+		"AtkBase": 220,
+		"DamageBase": 850,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15006,
+		"MaxAffixNum": 2,
+		"NeedExp": 1400,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_1_12",
+		"ActiveSkillParam": [
+			10200,
+			0.15,
+			20,
+			121
+		],
+		"DataImpl": {},
+		"LevelConfigID": 10,
+		"Level": 12
+	},
+	{
+		"AtkBase": 230,
+		"DamageBase": 910,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15006,
+		"MaxAffixNum": 2,
+		"NeedExp": 1600,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_1_13",
+		"ActiveSkillParam": [
+			10920,
+			0.15,
+			20,
+			121
+		],
+		"DataImpl": {},
+		"LevelConfigID": 10,
+		"Level": 13
+	},
+	{
+		"AtkBase": 240,
+		"DamageBase": 970,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15006,
+		"MaxAffixNum": 2,
+		"NeedExp": 1800,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_1_14",
+		"ActiveSkillParam": [
+			11640,
+			0.15,
+			20,
+			121
+		],
+		"DataImpl": {},
+		"LevelConfigID": 10,
+		"Level": 14
+	},
+	{
+		"AtkBase": 250,
+		"DamageBase": 1100,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15006,
+		"MaxAffixNum": 2,
+		"NeedExp": 2000,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_1_15",
+		"ActiveSkillParam": [
+			13200,
+			0.15,
+			20,
+			121
+		],
+		"DataImpl": {},
+		"LevelConfigID": 10,
+		"Level": 15
+	},
+	{
+		"AtkBase": 260,
+		"DamageBase": 1250,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15010,
+		"MaxAffixNum": 2,
+		"NeedExp": 2200,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_1_16",
+		"ActiveSkillParam": [
+			15000,
+			0.15,
+			20,
+			121
+		],
+		"DataImpl": {},
+		"LevelConfigID": 10,
+		"Level": 16
+	},
+	{
+		"AtkBase": 270,
+		"DamageBase": 1450,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15010,
+		"MaxAffixNum": 2,
+		"NeedExp": 2500,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_1_17",
+		"ActiveSkillParam": [
+			17400,
+			0.15,
+			20,
+			121
+		],
+		"DataImpl": {},
+		"LevelConfigID": 10,
+		"Level": 17
+	},
+	{
+		"AtkBase": 280,
+		"DamageBase": 1700,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15010,
+		"MaxAffixNum": 2,
+		"NeedExp": 2800,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_1_18",
+		"ActiveSkillParam": [
+			20400,
+			0.15,
+			20,
+			121
+		],
+		"DataImpl": {},
+		"LevelConfigID": 10,
+		"Level": 18
+	},
+	{
+		"AtkBase": 290,
+		"DamageBase": 2000,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15010,
+		"MaxAffixNum": 2,
+		"NeedExp": 3100,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_1_19",
+		"ActiveSkillParam": [
+			24000,
+			0.15,
+			20,
+			121
+		],
+		"DataImpl": {},
+		"LevelConfigID": 10,
+		"Level": 19
+	},
+	{
+		"AtkBase": 300,
+		"DamageBase": 2500,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15010,
+		"MaxAffixNum": 3,
+		"NeedExp": 3400,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_1_20",
+		"ActiveSkillParam": [
+			30000,
+			0.15,
+			20,
+			121
+		],
+		"DataImpl": {},
+		"LevelConfigID": 10,
+		"Level": 20
+	},
+	{
+		"AtkBase": 310,
+		"DamageBase": 2520,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1692957600
+		},
+		"PreStageID": 15014,
+		"MaxAffixNum": 3,
+		"NeedExp": 3700,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_1_21",
+		"ActiveSkillParam": [
+			30600,
+			0.15,
+			20,
+			121
+		],
+		"DataImpl": {},
+		"LevelConfigID": 10,
+		"Level": 21
+	},
+	{
+		"AtkBase": 320,
+		"DamageBase": 2540,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1692957600
+		},
+		"PreStageID": 15014,
+		"MaxAffixNum": 3,
+		"NeedExp": 10000,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_1_22",
+		"ActiveSkillParam": [
+			31200,
+			0.15,
+			20,
+			121
+		],
+		"DataImpl": {},
+		"LevelConfigID": 10,
+		"Level": 22
+	},
+	{
+		"AtkBase": 330,
+		"DamageBase": 2560,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1692957600
+		},
+		"PreStageID": 15014,
+		"MaxAffixNum": 3,
+		"NeedExp": 10000,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_1_23",
+		"ActiveSkillParam": [
+			31800,
+			0.15,
+			20,
+			121
+		],
+		"DataImpl": {},
+		"LevelConfigID": 10,
+		"Level": 23
+	},
+	{
+		"AtkBase": 340,
+		"DamageBase": 2580,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1692957600
+		},
+		"PreStageID": 15014,
+		"MaxAffixNum": 3,
+		"NeedExp": 10000,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_1_24",
+		"ActiveSkillParam": [
+			32400,
+			0.15,
+			20,
+			121
+		],
+		"DataImpl": {},
+		"LevelConfigID": 10,
+		"Level": 24
+	},
+	{
+		"AtkBase": 350,
+		"DamageBase": 2600,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1692957600
+		},
+		"PreStageID": 15014,
+		"MaxAffixNum": 3,
+		"NeedExp": 10000,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_1_25",
+		"ActiveSkillParam": [
+			33000,
+			0.15,
+			20,
+			121
+		],
+		"DataImpl": {},
+		"LevelConfigID": 10,
+		"Level": 25
+	},
+	{
+		"AtkBase": 360,
+		"DamageBase": 2650,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1692957600
+		},
+		"PreStageID": 15014,
+		"MaxAffixNum": 3,
+		"NeedExp": 10000,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_1_26",
+		"ActiveSkillParam": [
+			34200,
+			0.15,
+			20,
+			121
+		],
+		"DataImpl": {},
+		"LevelConfigID": 10,
+		"Level": 26
+	},
+	{
+		"AtkBase": 370,
+		"DamageBase": 2750,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1692957600
+		},
+		"PreStageID": 15014,
+		"MaxAffixNum": 3,
+		"NeedExp": 10000,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_1_27",
+		"ActiveSkillParam": [
+			35400,
+			0.15,
+			20,
+			121
+		],
+		"DataImpl": {},
+		"LevelConfigID": 10,
+		"Level": 27
+	},
+	{
+		"AtkBase": 380,
+		"DamageBase": 2900,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1692957600
+		},
+		"PreStageID": 15014,
+		"MaxAffixNum": 3,
+		"NeedExp": 10000,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_1_28",
+		"ActiveSkillParam": [
+			37800,
+			0.15,
+			20,
+			121
+		],
+		"DataImpl": {},
+		"LevelConfigID": 10,
+		"Level": 28
+	},
+	{
+		"AtkBase": 390,
+		"DamageBase": 3100,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1692957600
+		},
+		"PreStageID": 15014,
+		"MaxAffixNum": 3,
+		"NeedExp": 10000,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_1_29",
+		"ActiveSkillParam": [
+			40200,
+			0.15,
+			20,
+			121
+		],
+		"DataImpl": {},
+		"LevelConfigID": 10,
+		"Level": 29
+	},
+	{
+		"AtkBase": 400,
+		"DamageBase": 3300,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1692957600
+		},
+		"PreStageID": 15014,
+		"MaxAffixNum": 4,
+		"NeedExp": 10000,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_1_30",
+		"ActiveSkillParam": [
+			42000,
+			0.15,
+			20,
+			121
+		],
+		"DataImpl": {},
+		"LevelConfigID": 10,
+		"Level": 30
+	},
+	{
+		"AtkBase": 100,
+		"DamageBase": 563,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 10101,
+		"MaxAffixNum": 2,
+		"NeedExp": 0,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_1",
+		"ActiveSkillParam": [
+			5213,
+			0.15,
+			15,
+			121
+		],
+		"DataImpl": {},
+		"LevelConfigID": 11,
+		"Level": 1
+	},
+	{
+		"AtkBase": 110,
+		"DamageBase": 567,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 10101,
+		"MaxAffixNum": 4,
+		"NeedExp": 300,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_1",
+		"ActiveSkillParam": [
+			5670,
+			0.15,
+			15,
+			121
+		],
+		"DataImpl": {},
+		"LevelConfigID": 11,
+		"Level": 2
+	},
+	{
+		"AtkBase": 120,
+		"DamageBase": 572,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 10101,
+		"MaxAffixNum": 4,
+		"NeedExp": 400,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_1",
+		"ActiveSkillParam": [
+			6060,
+			0.15,
+			15,
+			121
+		],
+		"DataImpl": {},
+		"LevelConfigID": 11,
+		"Level": 3
+	},
+	{
+		"AtkBase": 130,
+		"DamageBase": 576,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 10101,
+		"MaxAffixNum": 4,
+		"NeedExp": 500,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_1",
+		"ActiveSkillParam": [
+			6383,
+			0.15,
+			15,
+			121
+		],
+		"DataImpl": {},
+		"LevelConfigID": 11,
+		"Level": 4
+	},
+	{
+		"AtkBase": 140,
+		"DamageBase": 581,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 10101,
+		"MaxAffixNum": 4,
+		"NeedExp": 600,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_1",
+		"ActiveSkillParam": [
+			6653,
+			0.15,
+			15,
+			121
+		],
+		"DataImpl": {},
+		"LevelConfigID": 11,
+		"Level": 5
+	},
+	{
+		"AtkBase": 150,
+		"DamageBase": 583,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 10101,
+		"MaxAffixNum": 4,
+		"NeedExp": 700,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_1",
+		"ActiveSkillParam": [
+			6878,
+			0.15,
+			15,
+			121
+		],
+		"DataImpl": {},
+		"LevelConfigID": 11,
+		"Level": 6
+	},
+	{
+		"AtkBase": 160,
+		"DamageBase": 587,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 10101,
+		"MaxAffixNum": 4,
+		"NeedExp": 800,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_1",
+		"ActiveSkillParam": [
+			7073,
+			0.15,
+			15,
+			121
+		],
+		"DataImpl": {},
+		"LevelConfigID": 11,
+		"Level": 7
+	},
+	{
+		"AtkBase": 170,
+		"DamageBase": 594,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 10101,
+		"MaxAffixNum": 4,
+		"NeedExp": 900,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_1",
+		"ActiveSkillParam": [
+			7253,
+			0.15,
+			15,
+			121
+		],
+		"DataImpl": {},
+		"LevelConfigID": 11,
+		"Level": 8
+	},
+	{
+		"AtkBase": 180,
+		"DamageBase": 601,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 10101,
+		"MaxAffixNum": 4,
+		"NeedExp": 1000,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_1",
+		"ActiveSkillParam": [
+			7425,
+			0.15,
+			15,
+			121
+		],
+		"DataImpl": {},
+		"LevelConfigID": 11,
+		"Level": 9
+	},
+	{
+		"AtkBase": 200,
+		"DamageBase": 676,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 10101,
+		"MaxAffixNum": 4,
+		"NeedExp": 1100,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_1",
+		"ActiveSkillParam": [
+			8175,
+			0.15,
+			20,
+			121
+		],
+		"DataImpl": {},
+		"LevelConfigID": 11,
+		"Level": 10
+	},
+	{
+		"AtkBase": 100,
+		"DamageBase": 150,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15001,
+		"MaxAffixNum": 1,
+		"NeedExp": 0,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_2_01",
+		"ActiveSkillParam": [
+			1500,
+			0.15,
+			15,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 20,
+		"Level": 1
+	},
+	{
+		"AtkBase": 110,
+		"DamageBase": 190,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15001,
+		"MaxAffixNum": 1,
+		"NeedExp": 300,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_2_02",
+		"ActiveSkillParam": [
+			1900,
+			0.15,
+			15,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 20,
+		"Level": 2
+	},
+	{
+		"AtkBase": 120,
+		"DamageBase": 230,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15001,
+		"MaxAffixNum": 1,
+		"NeedExp": 400,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_2_03",
+		"ActiveSkillParam": [
+			2300,
+			0.15,
+			15,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 20,
+		"Level": 3
+	},
+	{
+		"AtkBase": 130,
+		"DamageBase": 270,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15001,
+		"MaxAffixNum": 1,
+		"NeedExp": 500,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_2_04",
+		"ActiveSkillParam": [
+			2700,
+			0.15,
+			15,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 20,
+		"Level": 4
+	},
+	{
+		"AtkBase": 140,
+		"DamageBase": 310,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15001,
+		"MaxAffixNum": 1,
+		"NeedExp": 600,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_2_05",
+		"ActiveSkillParam": [
+			3100,
+			0.15,
+			15,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 20,
+		"Level": 5
+	},
+	{
+		"AtkBase": 150,
+		"DamageBase": 370,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15001,
+		"MaxAffixNum": 1,
+		"NeedExp": 700,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_2_06",
+		"ActiveSkillParam": [
+			3700,
+			0.15,
+			15,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 20,
+		"Level": 6
+	},
+	{
+		"AtkBase": 160,
+		"DamageBase": 430,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15001,
+		"MaxAffixNum": 1,
+		"NeedExp": 800,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_2_07",
+		"ActiveSkillParam": [
+			4300,
+			0.15,
+			15,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 20,
+		"Level": 7
+	},
+	{
+		"AtkBase": 170,
+		"DamageBase": 600,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15001,
+		"MaxAffixNum": 1,
+		"NeedExp": 900,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_2_08",
+		"ActiveSkillParam": [
+			6000,
+			0.15,
+			15,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 20,
+		"Level": 8
+	},
+	{
+		"AtkBase": 180,
+		"DamageBase": 700,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15001,
+		"MaxAffixNum": 1,
+		"NeedExp": 1000,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_2_09",
+		"ActiveSkillParam": [
+			7000,
+			0.15,
+			15,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 20,
+		"Level": 9
+	},
+	{
+		"AtkBase": 200,
+		"DamageBase": 800,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15001,
+		"MaxAffixNum": 2,
+		"NeedExp": 1100,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_2_10",
+		"ActiveSkillParam": [
+			8000,
+			0.15,
+			20,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 20,
+		"Level": 10
+	},
+	{
+		"AtkBase": 210,
+		"DamageBase": 820,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15006,
+		"MaxAffixNum": 2,
+		"NeedExp": 1200,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_2_11",
+		"ActiveSkillParam": [
+			8200,
+			0.15,
+			20,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 20,
+		"Level": 11
+	},
+	{
+		"AtkBase": 220,
+		"DamageBase": 850,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15006,
+		"MaxAffixNum": 2,
+		"NeedExp": 1400,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_2_12",
+		"ActiveSkillParam": [
+			8500,
+			0.15,
+			20,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 20,
+		"Level": 12
+	},
+	{
+		"AtkBase": 230,
+		"DamageBase": 910,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15006,
+		"MaxAffixNum": 2,
+		"NeedExp": 1600,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_2_13",
+		"ActiveSkillParam": [
+			9100,
+			0.15,
+			20,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 20,
+		"Level": 13
+	},
+	{
+		"AtkBase": 240,
+		"DamageBase": 970,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15006,
+		"MaxAffixNum": 2,
+		"NeedExp": 1800,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_2_14",
+		"ActiveSkillParam": [
+			9700,
+			0.15,
+			20,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 20,
+		"Level": 14
+	},
+	{
+		"AtkBase": 250,
+		"DamageBase": 1100,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15006,
+		"MaxAffixNum": 2,
+		"NeedExp": 2000,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_2_15",
+		"ActiveSkillParam": [
+			11000,
+			0.15,
+			20,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 20,
+		"Level": 15
+	},
+	{
+		"AtkBase": 260,
+		"DamageBase": 1250,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15010,
+		"MaxAffixNum": 2,
+		"NeedExp": 2200,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_2_16",
+		"ActiveSkillParam": [
+			12500,
+			0.15,
+			20,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 20,
+		"Level": 16
+	},
+	{
+		"AtkBase": 270,
+		"DamageBase": 1450,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15010,
+		"MaxAffixNum": 2,
+		"NeedExp": 2500,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_2_17",
+		"ActiveSkillParam": [
+			14500,
+			0.15,
+			20,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 20,
+		"Level": 17
+	},
+	{
+		"AtkBase": 280,
+		"DamageBase": 1700,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15010,
+		"MaxAffixNum": 2,
+		"NeedExp": 2800,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_2_18",
+		"ActiveSkillParam": [
+			17000,
+			0.15,
+			20,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 20,
+		"Level": 18
+	},
+	{
+		"AtkBase": 290,
+		"DamageBase": 2000,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15010,
+		"MaxAffixNum": 2,
+		"NeedExp": 3100,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_2_19",
+		"ActiveSkillParam": [
+			20000,
+			0.15,
+			20,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 20,
+		"Level": 19
+	},
+	{
+		"AtkBase": 300,
+		"DamageBase": 2500,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15010,
+		"MaxAffixNum": 3,
+		"NeedExp": 3400,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_2_20",
+		"ActiveSkillParam": [
+			25000,
+			0.15,
+			20,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 20,
+		"Level": 20
+	},
+	{
+		"AtkBase": 310,
+		"DamageBase": 2520,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1692957600
+		},
+		"PreStageID": 15014,
+		"MaxAffixNum": 3,
+		"NeedExp": 3700,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_2_21",
+		"ActiveSkillParam": [
+			25500,
+			0.15,
+			20,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 20,
+		"Level": 21
+	},
+	{
+		"AtkBase": 320,
+		"DamageBase": 2540,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1692957600
+		},
+		"PreStageID": 15014,
+		"MaxAffixNum": 3,
+		"NeedExp": 10000,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_2_22",
+		"ActiveSkillParam": [
+			26000,
+			0.15,
+			20,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 20,
+		"Level": 22
+	},
+	{
+		"AtkBase": 330,
+		"DamageBase": 2560,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1692957600
+		},
+		"PreStageID": 15014,
+		"MaxAffixNum": 3,
+		"NeedExp": 10000,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_2_23",
+		"ActiveSkillParam": [
+			26500,
+			0.15,
+			20,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 20,
+		"Level": 23
+	},
+	{
+		"AtkBase": 340,
+		"DamageBase": 2580,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1692957600
+		},
+		"PreStageID": 15014,
+		"MaxAffixNum": 3,
+		"NeedExp": 10000,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_2_24",
+		"ActiveSkillParam": [
+			27000,
+			0.15,
+			20,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 20,
+		"Level": 24
+	},
+	{
+		"AtkBase": 350,
+		"DamageBase": 2600,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1692957600
+		},
+		"PreStageID": 15014,
+		"MaxAffixNum": 3,
+		"NeedExp": 10000,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_2_25",
+		"ActiveSkillParam": [
+			27500,
+			0.15,
+			20,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 20,
+		"Level": 25
+	},
+	{
+		"AtkBase": 360,
+		"DamageBase": 2650,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1692957600
+		},
+		"PreStageID": 15014,
+		"MaxAffixNum": 3,
+		"NeedExp": 10000,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_2_26",
+		"ActiveSkillParam": [
+			28500,
+			0.15,
+			20,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 20,
+		"Level": 26
+	},
+	{
+		"AtkBase": 370,
+		"DamageBase": 2750,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1692957600
+		},
+		"PreStageID": 15014,
+		"MaxAffixNum": 3,
+		"NeedExp": 10000,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_2_27",
+		"ActiveSkillParam": [
+			29500,
+			0.15,
+			20,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 20,
+		"Level": 27
+	},
+	{
+		"AtkBase": 380,
+		"DamageBase": 2900,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1692957600
+		},
+		"PreStageID": 15014,
+		"MaxAffixNum": 3,
+		"NeedExp": 10000,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_2_28",
+		"ActiveSkillParam": [
+			31500,
+			0.15,
+			20,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 20,
+		"Level": 28
+	},
+	{
+		"AtkBase": 390,
+		"DamageBase": 3100,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1692957600
+		},
+		"PreStageID": 15014,
+		"MaxAffixNum": 3,
+		"NeedExp": 10000,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_2_29",
+		"ActiveSkillParam": [
+			33500,
+			0.15,
+			20,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 20,
+		"Level": 29
+	},
+	{
+		"AtkBase": 400,
+		"DamageBase": 3300,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1692957600
+		},
+		"PreStageID": 15014,
+		"MaxAffixNum": 4,
+		"NeedExp": 10000,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_2_30",
+		"ActiveSkillParam": [
+			35000,
+			0.15,
+			20,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 20,
+		"Level": 30
+	},
+	{
+		"AtkBase": 100,
+		"DamageBase": 150,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15001,
+		"MaxAffixNum": 1,
+		"NeedExp": 0,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_3_01",
+		"ActiveSkillParam": [
+			10,
+			0.1,
+			15,
+			0.15,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 30,
+		"Level": 1
+	},
+	{
+		"AtkBase": 110,
+		"DamageBase": 190,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15001,
+		"MaxAffixNum": 1,
+		"NeedExp": 300,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_3_02",
+		"ActiveSkillParam": [
+			13,
+			0.1,
+			15,
+			0.15,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 30,
+		"Level": 2
+	},
+	{
+		"AtkBase": 120,
+		"DamageBase": 230,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15001,
+		"MaxAffixNum": 1,
+		"NeedExp": 400,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_3_03",
+		"ActiveSkillParam": [
+			15,
+			0.1,
+			15,
+			0.15,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 30,
+		"Level": 3
+	},
+	{
+		"AtkBase": 130,
+		"DamageBase": 270,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15001,
+		"MaxAffixNum": 1,
+		"NeedExp": 500,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_3_04",
+		"ActiveSkillParam": [
+			18,
+			0.1,
+			15,
+			0.15,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 30,
+		"Level": 4
+	},
+	{
+		"AtkBase": 140,
+		"DamageBase": 310,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15001,
+		"MaxAffixNum": 1,
+		"NeedExp": 600,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_3_05",
+		"ActiveSkillParam": [
+			21,
+			0.1,
+			15,
+			0.15,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 30,
+		"Level": 5
+	},
+	{
+		"AtkBase": 150,
+		"DamageBase": 370,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15001,
+		"MaxAffixNum": 1,
+		"NeedExp": 700,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_3_06",
+		"ActiveSkillParam": [
+			25,
+			0.1,
+			15,
+			0.15,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 30,
+		"Level": 6
+	},
+	{
+		"AtkBase": 160,
+		"DamageBase": 430,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15001,
+		"MaxAffixNum": 1,
+		"NeedExp": 800,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_3_07",
+		"ActiveSkillParam": [
+			29,
+			0.1,
+			15,
+			0.15,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 30,
+		"Level": 7
+	},
+	{
+		"AtkBase": 170,
+		"DamageBase": 600,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15001,
+		"MaxAffixNum": 1,
+		"NeedExp": 900,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_3_08",
+		"ActiveSkillParam": [
+			40,
+			0.1,
+			15,
+			0.15,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 30,
+		"Level": 8
+	},
+	{
+		"AtkBase": 180,
+		"DamageBase": 700,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15001,
+		"MaxAffixNum": 1,
+		"NeedExp": 1000,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_3_09",
+		"ActiveSkillParam": [
+			47,
+			0.1,
+			15,
+			0.15,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 30,
+		"Level": 9
+	},
+	{
+		"AtkBase": 200,
+		"DamageBase": 800,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15001,
+		"MaxAffixNum": 2,
+		"NeedExp": 1100,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_3_10",
+		"ActiveSkillParam": [
+			53,
+			0.1,
+			15,
+			0.15,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 30,
+		"Level": 10
+	},
+	{
+		"AtkBase": 210,
+		"DamageBase": 820,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15006,
+		"MaxAffixNum": 2,
+		"NeedExp": 1200,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_3_11",
+		"ActiveSkillParam": [
+			55,
+			0.1,
+			15,
+			0.15,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 30,
+		"Level": 11
+	},
+	{
+		"AtkBase": 220,
+		"DamageBase": 850,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15006,
+		"MaxAffixNum": 2,
+		"NeedExp": 1400,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_3_12",
+		"ActiveSkillParam": [
+			57,
+			0.1,
+			15,
+			0.15,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 30,
+		"Level": 12
+	},
+	{
+		"AtkBase": 230,
+		"DamageBase": 910,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15006,
+		"MaxAffixNum": 2,
+		"NeedExp": 1600,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_3_13",
+		"ActiveSkillParam": [
+			61,
+			0.1,
+			15,
+			0.15,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 30,
+		"Level": 13
+	},
+	{
+		"AtkBase": 240,
+		"DamageBase": 970,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15006,
+		"MaxAffixNum": 2,
+		"NeedExp": 1800,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_3_14",
+		"ActiveSkillParam": [
+			65,
+			0.1,
+			15,
+			0.15,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 30,
+		"Level": 14
+	},
+	{
+		"AtkBase": 250,
+		"DamageBase": 1100,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15006,
+		"MaxAffixNum": 2,
+		"NeedExp": 2000,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_3_15",
+		"ActiveSkillParam": [
+			73,
+			0.1,
+			15,
+			0.15,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 30,
+		"Level": 15
+	},
+	{
+		"AtkBase": 260,
+		"DamageBase": 1250,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15010,
+		"MaxAffixNum": 2,
+		"NeedExp": 2200,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_3_16",
+		"ActiveSkillParam": [
+			83,
+			0.1,
+			15,
+			0.15,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 30,
+		"Level": 16
+	},
+	{
+		"AtkBase": 270,
+		"DamageBase": 1450,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15010,
+		"MaxAffixNum": 2,
+		"NeedExp": 2500,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_3_17",
+		"ActiveSkillParam": [
+			97,
+			0.1,
+			15,
+			0.15,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 30,
+		"Level": 17
+	},
+	{
+		"AtkBase": 280,
+		"DamageBase": 1700,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15010,
+		"MaxAffixNum": 2,
+		"NeedExp": 2800,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_3_18",
+		"ActiveSkillParam": [
+			113,
+			0.1,
+			15,
+			0.15,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 30,
+		"Level": 18
+	},
+	{
+		"AtkBase": 290,
+		"DamageBase": 2000,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15010,
+		"MaxAffixNum": 2,
+		"NeedExp": 3100,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_3_19",
+		"ActiveSkillParam": [
+			133,
+			0.1,
+			15,
+			0.15,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 30,
+		"Level": 19
+	},
+	{
+		"AtkBase": 300,
+		"DamageBase": 2500,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15010,
+		"MaxAffixNum": 3,
+		"NeedExp": 3400,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_3_20",
+		"ActiveSkillParam": [
+			167,
+			0.1,
+			15,
+			0.15,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 30,
+		"Level": 20
+	},
+	{
+		"AtkBase": 310,
+		"DamageBase": 2520,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1692957600
+		},
+		"PreStageID": 15014,
+		"MaxAffixNum": 3,
+		"NeedExp": 3700,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_3_21",
+		"ActiveSkillParam": [
+			170,
+			0.1,
+			15,
+			0.15,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 30,
+		"Level": 21
+	},
+	{
+		"AtkBase": 320,
+		"DamageBase": 2540,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1692957600
+		},
+		"PreStageID": 15014,
+		"MaxAffixNum": 3,
+		"NeedExp": 10000,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_3_22",
+		"ActiveSkillParam": [
+			173,
+			0.1,
+			15,
+			0.15,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 30,
+		"Level": 22
+	},
+	{
+		"AtkBase": 330,
+		"DamageBase": 2560,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1692957600
+		},
+		"PreStageID": 15014,
+		"MaxAffixNum": 3,
+		"NeedExp": 10000,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_3_23",
+		"ActiveSkillParam": [
+			177,
+			0.1,
+			15,
+			0.15,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 30,
+		"Level": 23
+	},
+	{
+		"AtkBase": 340,
+		"DamageBase": 2580,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1692957600
+		},
+		"PreStageID": 15014,
+		"MaxAffixNum": 3,
+		"NeedExp": 10000,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_3_24",
+		"ActiveSkillParam": [
+			180,
+			0.1,
+			15,
+			0.15,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 30,
+		"Level": 24
+	},
+	{
+		"AtkBase": 350,
+		"DamageBase": 2600,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1692957600
+		},
+		"PreStageID": 15014,
+		"MaxAffixNum": 3,
+		"NeedExp": 10000,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_3_25",
+		"ActiveSkillParam": [
+			183,
+			0.1,
+			15,
+			0.15,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 30,
+		"Level": 25
+	},
+	{
+		"AtkBase": 360,
+		"DamageBase": 2650,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1692957600
+		},
+		"PreStageID": 15014,
+		"MaxAffixNum": 3,
+		"NeedExp": 10000,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_3_26",
+		"ActiveSkillParam": [
+			190,
+			0.1,
+			15,
+			0.15,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 30,
+		"Level": 26
+	},
+	{
+		"AtkBase": 370,
+		"DamageBase": 2750,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1692957600
+		},
+		"PreStageID": 15014,
+		"MaxAffixNum": 3,
+		"NeedExp": 10000,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_3_27",
+		"ActiveSkillParam": [
+			197,
+			0.1,
+			15,
+			0.15,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 30,
+		"Level": 27
+	},
+	{
+		"AtkBase": 380,
+		"DamageBase": 2900,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1692957600
+		},
+		"PreStageID": 15014,
+		"MaxAffixNum": 3,
+		"NeedExp": 10000,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_3_28",
+		"ActiveSkillParam": [
+			210,
+			0.1,
+			15,
+			0.15,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 30,
+		"Level": 28
+	},
+	{
+		"AtkBase": 390,
+		"DamageBase": 3100,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1692957600
+		},
+		"PreStageID": 15014,
+		"MaxAffixNum": 3,
+		"NeedExp": 10000,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_3_29",
+		"ActiveSkillParam": [
+			223,
+			0.1,
+			15,
+			0.15,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 30,
+		"Level": 29
+	},
+	{
+		"AtkBase": 400,
+		"DamageBase": 3300,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1692957600
+		},
+		"PreStageID": 15014,
+		"MaxAffixNum": 4,
+		"NeedExp": 10000,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_3_30",
+		"ActiveSkillParam": [
+			233,
+			0.1,
+			15,
+			0.15,
+			133
+		],
+		"DataImpl": {},
+		"LevelConfigID": 30,
+		"Level": 30
+	},
+	{
+		"AtkBase": 100,
+		"DamageBase": 150,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15001,
+		"MaxAffixNum": 1,
+		"NeedExp": 0,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_4",
+		"ActiveSkillParam": [
+			12,
+			350000,
+			0.4
+		],
+		"DataImpl": {},
+		"LevelConfigID": 40,
+		"Level": 1
+	},
+	{
+		"AtkBase": 110,
+		"DamageBase": 190,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15001,
+		"MaxAffixNum": 1,
+		"NeedExp": 300,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_4",
+		"ActiveSkillParam": [
+			12,
+			400000,
+			0.44
+		],
+		"DataImpl": {},
+		"LevelConfigID": 40,
+		"Level": 2
+	},
+	{
+		"AtkBase": 120,
+		"DamageBase": 230,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15001,
+		"MaxAffixNum": 1,
+		"NeedExp": 400,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_4",
+		"ActiveSkillParam": [
+			12,
+			460000,
+			0.47
+		],
+		"DataImpl": {},
+		"LevelConfigID": 40,
+		"Level": 3
+	},
+	{
+		"AtkBase": 130,
+		"DamageBase": 270,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15001,
+		"MaxAffixNum": 1,
+		"NeedExp": 500,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_4",
+		"ActiveSkillParam": [
+			12,
+			520000,
+			0.49
+		],
+		"DataImpl": {},
+		"LevelConfigID": 40,
+		"Level": 4
+	},
+	{
+		"AtkBase": 140,
+		"DamageBase": 310,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15001,
+		"MaxAffixNum": 1,
+		"NeedExp": 600,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_4",
+		"ActiveSkillParam": [
+			12,
+			580000,
+			0.5
+		],
+		"DataImpl": {},
+		"LevelConfigID": 40,
+		"Level": 5
+	},
+	{
+		"AtkBase": 150,
+		"DamageBase": 370,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15001,
+		"MaxAffixNum": 1,
+		"NeedExp": 700,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_4",
+		"ActiveSkillParam": [
+			12,
+			670000,
+			0.52
+		],
+		"DataImpl": {},
+		"LevelConfigID": 40,
+		"Level": 6
+	},
+	{
+		"AtkBase": 160,
+		"DamageBase": 430,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15001,
+		"MaxAffixNum": 1,
+		"NeedExp": 800,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_4",
+		"ActiveSkillParam": [
+			12,
+			760000,
+			0.53
+		],
+		"DataImpl": {},
+		"LevelConfigID": 40,
+		"Level": 7
+	},
+	{
+		"AtkBase": 170,
+		"DamageBase": 600,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15001,
+		"MaxAffixNum": 1,
+		"NeedExp": 900,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_4",
+		"ActiveSkillParam": [
+			12,
+			1010000,
+			0.56
+		],
+		"DataImpl": {},
+		"LevelConfigID": 40,
+		"Level": 8
+	},
+	{
+		"AtkBase": 180,
+		"DamageBase": 700,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15001,
+		"MaxAffixNum": 1,
+		"NeedExp": 1000,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_4",
+		"ActiveSkillParam": [
+			12,
+			1160000,
+			0.56
+		],
+		"DataImpl": {},
+		"LevelConfigID": 40,
+		"Level": 9
+	},
+	{
+		"AtkBase": 200,
+		"DamageBase": 800,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15001,
+		"MaxAffixNum": 2,
+		"NeedExp": 1100,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_4",
+		"ActiveSkillParam": [
+			12,
+			1300000,
+			0.58
+		],
+		"DataImpl": {},
+		"LevelConfigID": 40,
+		"Level": 10
+	},
+	{
+		"AtkBase": 210,
+		"DamageBase": 820,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15006,
+		"MaxAffixNum": 2,
+		"NeedExp": 1200,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_4",
+		"ActiveSkillParam": [
+			12,
+			1330000,
+			0.58
+		],
+		"DataImpl": {},
+		"LevelConfigID": 40,
+		"Level": 11
+	},
+	{
+		"AtkBase": 220,
+		"DamageBase": 850,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15006,
+		"MaxAffixNum": 2,
+		"NeedExp": 1400,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_4",
+		"ActiveSkillParam": [
+			12,
+			1380000,
+			0.58
+		],
+		"DataImpl": {},
+		"LevelConfigID": 40,
+		"Level": 12
+	},
+	{
+		"AtkBase": 230,
+		"DamageBase": 910,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15006,
+		"MaxAffixNum": 2,
+		"NeedExp": 1600,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_4",
+		"ActiveSkillParam": [
+			12,
+			1460000,
+			0.58
+		],
+		"DataImpl": {},
+		"LevelConfigID": 40,
+		"Level": 13
+	},
+	{
+		"AtkBase": 240,
+		"DamageBase": 970,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15006,
+		"MaxAffixNum": 2,
+		"NeedExp": 1800,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_4",
+		"ActiveSkillParam": [
+			12,
+			1550000,
+			0.59
+		],
+		"DataImpl": {},
+		"LevelConfigID": 40,
+		"Level": 14
+	},
+	{
+		"AtkBase": 250,
+		"DamageBase": 1100,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15006,
+		"MaxAffixNum": 2,
+		"NeedExp": 2000,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_4",
+		"ActiveSkillParam": [
+			12,
+			1740000,
+			0.59
+		],
+		"DataImpl": {},
+		"LevelConfigID": 40,
+		"Level": 15
+	},
+	{
+		"AtkBase": 260,
+		"DamageBase": 1250,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15010,
+		"MaxAffixNum": 2,
+		"NeedExp": 2200,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_4",
+		"ActiveSkillParam": [
+			12,
+			1960000,
+			0.6
+		],
+		"DataImpl": {},
+		"LevelConfigID": 40,
+		"Level": 16
+	},
+	{
+		"AtkBase": 270,
+		"DamageBase": 1450,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15010,
+		"MaxAffixNum": 2,
+		"NeedExp": 2500,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_4",
+		"ActiveSkillParam": [
+			12,
+			2260000,
+			0.6
+		],
+		"DataImpl": {},
+		"LevelConfigID": 40,
+		"Level": 17
+	},
+	{
+		"AtkBase": 280,
+		"DamageBase": 1700,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15010,
+		"MaxAffixNum": 2,
+		"NeedExp": 2800,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_4",
+		"ActiveSkillParam": [
+			12,
+			2500000,
+			0.64
+		],
+		"DataImpl": {},
+		"LevelConfigID": 40,
+		"Level": 18
+	},
+	{
+		"AtkBase": 290,
+		"DamageBase": 2000,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15010,
+		"MaxAffixNum": 2,
+		"NeedExp": 3100,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_4",
+		"ActiveSkillParam": [
+			12,
+			2550000,
+			0.74
+		],
+		"DataImpl": {},
+		"LevelConfigID": 40,
+		"Level": 19
+	},
+	{
+		"AtkBase": 300,
+		"DamageBase": 2500,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627466400
+		},
+		"PreStageID": 15010,
+		"MaxAffixNum": 3,
+		"NeedExp": 3400,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_4",
+		"ActiveSkillParam": [
+			12,
+			2600000,
+			0.9
+		],
+		"DataImpl": {},
+		"LevelConfigID": 40,
+		"Level": 20
+	},
+	{
+		"AtkBase": 310,
+		"DamageBase": 2520,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1692957600
+		},
+		"PreStageID": 15014,
+		"MaxAffixNum": 3,
+		"NeedExp": 3700,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_4",
+		"ActiveSkillParam": [
+			12,
+			2650000,
+			0.9
+		],
+		"DataImpl": {},
+		"LevelConfigID": 40,
+		"Level": 21
+	},
+	{
+		"AtkBase": 320,
+		"DamageBase": 2540,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1692957600
+		},
+		"PreStageID": 15014,
+		"MaxAffixNum": 3,
+		"NeedExp": 10000,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_4",
+		"ActiveSkillParam": [
+			12,
+			2700000,
+			0.9
+		],
+		"DataImpl": {},
+		"LevelConfigID": 40,
+		"Level": 22
+	},
+	{
+		"AtkBase": 330,
+		"DamageBase": 2560,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1692957600
+		},
+		"PreStageID": 15014,
+		"MaxAffixNum": 3,
+		"NeedExp": 10000,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_4",
+		"ActiveSkillParam": [
+			12,
+			2750000,
+			0.9
+		],
+		"DataImpl": {},
+		"LevelConfigID": 40,
+		"Level": 23
+	},
+	{
+		"AtkBase": 340,
+		"DamageBase": 2580,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1692957600
+		},
+		"PreStageID": 15014,
+		"MaxAffixNum": 3,
+		"NeedExp": 10000,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_4",
+		"ActiveSkillParam": [
+			12,
+			2800000,
+			0.91
+		],
+		"DataImpl": {},
+		"LevelConfigID": 40,
+		"Level": 24
+	},
+	{
+		"AtkBase": 350,
+		"DamageBase": 2600,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1692957600
+		},
+		"PreStageID": 15014,
+		"MaxAffixNum": 3,
+		"NeedExp": 10000,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_4",
+		"ActiveSkillParam": [
+			12,
+			2850000,
+			0.91
+		],
+		"DataImpl": {},
+		"LevelConfigID": 40,
+		"Level": 25
+	},
+	{
+		"AtkBase": 360,
+		"DamageBase": 2650,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1692957600
+		},
+		"PreStageID": 15014,
+		"MaxAffixNum": 3,
+		"NeedExp": 10000,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_4",
+		"ActiveSkillParam": [
+			12,
+			2900000,
+			0.92
+		],
+		"DataImpl": {},
+		"LevelConfigID": 40,
+		"Level": 26
+	},
+	{
+		"AtkBase": 370,
+		"DamageBase": 2750,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1692957600
+		},
+		"PreStageID": 15014,
+		"MaxAffixNum": 3,
+		"NeedExp": 10000,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_4",
+		"ActiveSkillParam": [
+			12,
+			2950000,
+			0.94
+		],
+		"DataImpl": {},
+		"LevelConfigID": 40,
+		"Level": 27
+	},
+	{
+		"AtkBase": 380,
+		"DamageBase": 2900,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1692957600
+		},
+		"PreStageID": 15014,
+		"MaxAffixNum": 3,
+		"NeedExp": 10000,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_4",
+		"ActiveSkillParam": [
+			12,
+			3000000,
+			0.99
+		],
+		"DataImpl": {},
+		"LevelConfigID": 40,
+		"Level": 28
+	},
+	{
+		"AtkBase": 390,
+		"DamageBase": 3100,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1692957600
+		},
+		"PreStageID": 15014,
+		"MaxAffixNum": 3,
+		"NeedExp": 10000,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_4",
+		"ActiveSkillParam": [
+			12,
+			3050000,
+			1.03
+		],
+		"DataImpl": {},
+		"LevelConfigID": 40,
+		"Level": 29
+	},
+	{
+		"AtkBase": 400,
+		"DamageBase": 3300,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1692957600
+		},
+		"PreStageID": 15014,
+		"MaxAffixNum": 4,
+		"NeedExp": 10000,
+		"ActiveSkillDesc": "BWWorldRuneActiveSkillDesc_4",
+		"ActiveSkillParam": [
+			12,
+			3100000,
+			1.06
+		],
+		"DataImpl": {},
+		"LevelConfigID": 40,
+		"Level": 30
+	}
+]

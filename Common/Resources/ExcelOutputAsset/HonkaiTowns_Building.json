@@ -1,0 +1,3621 @@
+[
+	{
+		"ModelPath": 904,
+		"ModelType": 1,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 100,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/4",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/4",
+		"BuildingName": {
+			"hash": -197087484
+		},
+		"BuildingDes": {
+			"hash": -708204835
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 1,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 1
+	},
+	{
+		"ModelPath": 905,
+		"ModelType": 1,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 100,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/2",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/2",
+		"BuildingName": {
+			"hash": -197087483
+		},
+		"BuildingDes": {
+			"hash": -708204834
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 1,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 2
+	},
+	{
+		"ModelPath": 906,
+		"ModelType": 1,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 100,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/5",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/5",
+		"BuildingName": {
+			"hash": -197087482
+		},
+		"BuildingDes": {
+			"hash": -708204833
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 1,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 3
+	},
+	{
+		"ModelPath": 907,
+		"ModelType": 1,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 100,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/3",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/3",
+		"BuildingName": {
+			"hash": -197087481
+		},
+		"BuildingDes": {
+			"hash": -708204832
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 1,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 4
+	},
+	{
+		"ModelPath": 976,
+		"ModelType": 1,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 100,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/19",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/19",
+		"BuildingName": {
+			"hash": -197087480
+		},
+		"BuildingDes": {
+			"hash": -708204831
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 1,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 5
+	},
+	{
+		"ModelPath": 920,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/14",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/14I",
+		"BuildingName": {
+			"hash": -197087479
+		},
+		"BuildingDes": {
+			"hash": -708204830
+		},
+		"EffectType": 2,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 6
+	},
+	{
+		"ModelPath": 921,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/14",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/14I",
+		"BuildingName": {
+			"hash": -197087478
+		},
+		"BuildingDes": {
+			"hash": -708204829
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 7
+	},
+	{
+		"ModelPath": 921,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/14",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/14I",
+		"BuildingName": {
+			"hash": -197087477
+		},
+		"BuildingDes": {
+			"hash": -708204828
+		},
+		"EffectType": 1,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 8
+	},
+	{
+		"ModelPath": 921,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/14",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/14I",
+		"BuildingName": {
+			"hash": -197087476
+		},
+		"BuildingDes": {
+			"hash": -708204827
+		},
+		"EffectType": 2,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 9
+	},
+	{
+		"ModelPath": 921,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/14",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/14I",
+		"BuildingName": {
+			"hash": -1814744660
+		},
+		"BuildingDes": {
+			"hash": -479513357
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 10
+	},
+	{
+		"ModelPath": 965,
+		"ModelType": 3,
+		"Blueprint": "1,2",
+		"UItype": 2,
+		"IsCanSell": false,
+		"Price": 0,
+		"IconPath": "SpriteOutput/MaterialFigures/5002",
+		"ImagePath": "SpriteOutput/MaterialFigures/5002",
+		"BuildingName": {
+			"hash": -1814744659
+		},
+		"BuildingDes": {
+			"hash": -479513356
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 11
+	},
+	{
+		"ModelPath": 908,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 100,
+		"IconPath": "SpriteOutput/MaterialFigures/5001",
+		"ImagePath": "SpriteOutput/MaterialFigures/5001",
+		"BuildingName": {
+			"hash": -1814744658
+		},
+		"BuildingDes": {
+			"hash": -479513355
+		},
+		"EffectType": 2,
+		"TriggerHint": [],
+		"Hp": 1,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 12
+	},
+	{
+		"ModelPath": 910,
+		"ModelType": 3,
+		"Blueprint": "2,3;0,2",
+		"UItype": 3,
+		"IsCanSell": true,
+		"Price": 300,
+		"IconPath": "SpriteOutput/MaterialFigures/5003",
+		"ImagePath": "SpriteOutput/MaterialFigures/5003",
+		"BuildingName": {
+			"hash": -1814744628
+		},
+		"BuildingDes": {
+			"hash": -479513325
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 21
+	},
+	{
+		"ModelPath": 911,
+		"ModelType": 3,
+		"Blueprint": "2,3;0,2",
+		"UItype": 3,
+		"IsCanSell": true,
+		"Price": 300,
+		"IconPath": "SpriteOutput/MaterialFigures/5004",
+		"ImagePath": "SpriteOutput/MaterialFigures/5004",
+		"BuildingName": {
+			"hash": -1814744627
+		},
+		"BuildingDes": {
+			"hash": -479513324
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 22
+	},
+	{
+		"ModelPath": 912,
+		"ModelType": 3,
+		"Blueprint": "2,3;0,2",
+		"UItype": 3,
+		"IsCanSell": true,
+		"Price": 300,
+		"IconPath": "SpriteOutput/MaterialFigures/5025",
+		"ImagePath": "SpriteOutput/MaterialFigures/5025",
+		"BuildingName": {
+			"hash": -1814744626
+		},
+		"BuildingDes": {
+			"hash": -479513323
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 23
+	},
+	{
+		"ModelPath": 966,
+		"ModelType": 3,
+		"Blueprint": "0,1,0;4,3,4",
+		"UItype": 4,
+		"IsCanSell": true,
+		"Price": 300,
+		"IconPath": "SpriteOutput/MaterialFigures/5026",
+		"ImagePath": "SpriteOutput/MaterialFigures/5026",
+		"BuildingName": {
+			"hash": -1814744597
+		},
+		"BuildingDes": {
+			"hash": -479513294
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 31
+	},
+	{
+		"ModelPath": 965,
+		"ModelType": 3,
+		"Blueprint": "1,1",
+		"UItype": 2,
+		"IsCanSell": false,
+		"Price": 100,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown04",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown04",
+		"BuildingName": {
+			"hash": -212894516
+		},
+		"BuildingDes": {
+			"hash": -1250833837
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			1011
+		],
+		"Hp": 2,
+		"BuildingLimit": 1,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 1011
+	},
+	{
+		"ModelPath": 965,
+		"ModelType": 3,
+		"Blueprint": "1,1",
+		"UItype": 2,
+		"IsCanSell": false,
+		"Price": 100,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown04",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown04",
+		"BuildingName": {
+			"hash": -212894515
+		},
+		"BuildingDes": {
+			"hash": -1250833836
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			1011
+		],
+		"Hp": 2,
+		"BuildingLimit": 3,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 1012
+	},
+	{
+		"ModelPath": 965,
+		"ModelType": 3,
+		"Blueprint": "1,3",
+		"UItype": 2,
+		"IsCanSell": false,
+		"Price": 100,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown04",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown04",
+		"BuildingName": {
+			"hash": -212894514
+		},
+		"BuildingDes": {
+			"hash": -1250833835
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			1011
+		],
+		"Hp": 2,
+		"BuildingLimit": 3,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 1013
+	},
+	{
+		"ModelPath": 965,
+		"ModelType": 3,
+		"Blueprint": "1,1",
+		"UItype": 2,
+		"IsCanSell": false,
+		"Price": 100,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown04",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/6I",
+		"BuildingName": {
+			"hash": -212894513
+		},
+		"BuildingDes": {
+			"hash": -1250833834
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			111014
+		],
+		"Hp": 2,
+		"BuildingLimit": 3,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 1014
+	},
+	{
+		"ModelPath": 927,
+		"ModelType": 3,
+		"Blueprint": "2,2",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 200,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown10",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown10",
+		"BuildingName": {
+			"hash": -212894512
+		},
+		"BuildingDes": {
+			"hash": -1250833833
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 1015
+	},
+	{
+		"ModelPath": 966,
+		"ModelType": 3,
+		"Blueprint": "3,3",
+		"UItype": 3,
+		"IsCanSell": true,
+		"Price": 200,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown06",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/7I",
+		"BuildingName": {
+			"hash": -212894511
+		},
+		"BuildingDes": {
+			"hash": -1250833832
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 1016
+	},
+	{
+		"ModelPath": 993,
+		"ModelType": 3,
+		"Blueprint": "3,1;0,3",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 300,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown07",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/9I",
+		"BuildingName": {
+			"hash": -212894510
+		},
+		"BuildingDes": {
+			"hash": -1250833831
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			111017
+		],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 2,
+		"DataImpl": {},
+		"BuildingID": 1017
+	},
+	{
+		"ModelPath": 967,
+		"ModelType": 1,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": false,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown01",
+		"ImagePath": "SpriteOutput/SummerTreasureHunt/Floor/Garden_Object_Plane_Stigmata_S3E",
+		"BuildingName": {
+			"hash": -212894509
+		},
+		"BuildingDes": {
+			"hash": -1250833830
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 4,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 1018
+	},
+	{
+		"ModelPath": 967,
+		"ModelType": 1,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": false,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown01",
+		"ImagePath": "SpriteOutput/SummerTreasureHunt/Floor/Garden_Object_Plane_Stigmata_S3E",
+		"BuildingName": {
+			"hash": -212894508
+		},
+		"BuildingDes": {
+			"hash": -1250833829
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 8,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 1019
+	},
+	{
+		"ModelPath": 967,
+		"ModelType": 1,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": false,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown01",
+		"ImagePath": "SpriteOutput/SummerTreasureHunt/Floor/Garden_Object_Plane_Stigmata_S3E",
+		"BuildingName": {
+			"hash": -212894486
+		},
+		"BuildingDes": {
+			"hash": -1250833807
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 12,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 1020
+	},
+	{
+		"ModelPath": 966,
+		"ModelType": 3,
+		"Blueprint": "3,3",
+		"UItype": 3,
+		"IsCanSell": true,
+		"Price": 200,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown06",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown06",
+		"BuildingName": {
+			"hash": -212894485
+		},
+		"BuildingDes": {
+			"hash": -1250833806
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 1021
+	},
+	{
+		"ModelPath": 927,
+		"ModelType": 3,
+		"Blueprint": "2,2",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 200,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown10",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown10",
+		"BuildingName": {
+			"hash": -212894454
+		},
+		"BuildingDes": {
+			"hash": -1250833775
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 1031
+	},
+	{
+		"ModelPath": 994,
+		"ModelType": 3,
+		"Blueprint": "4,2;1,4",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 400,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown08",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown08",
+		"BuildingName": {
+			"hash": -212894423
+		},
+		"BuildingDes": {
+			"hash": -1250833744
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			1041
+		],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 2,
+		"DataImpl": {},
+		"BuildingID": 1041
+	},
+	{
+		"ModelPath": 969,
+		"ModelType": 3,
+		"Blueprint": "4,2;1,4",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 400,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown08",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown08",
+		"BuildingName": {
+			"hash": -212894422
+		},
+		"BuildingDes": {
+			"hash": -1250833743
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			1042
+		],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 2,
+		"DataImpl": {},
+		"BuildingID": 1042
+	},
+	{
+		"ModelPath": 969,
+		"ModelType": 3,
+		"Blueprint": "4,2;1,4",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 400,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown08",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown08",
+		"BuildingName": {
+			"hash": -212894421
+		},
+		"BuildingDes": {
+			"hash": -1250833742
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			1046
+		],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 2,
+		"DataImpl": {},
+		"BuildingID": 1043
+	},
+	{
+		"ModelPath": 969,
+		"ModelType": 3,
+		"Blueprint": "1,2;4,1",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 400,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown08",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown08",
+		"BuildingName": {
+			"hash": -212894420
+		},
+		"BuildingDes": {
+			"hash": -1250833741
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 2,
+		"DataImpl": {},
+		"BuildingID": 1044
+	},
+	{
+		"ModelPath": 993,
+		"ModelType": 3,
+		"Blueprint": "3,1;0,3",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 300,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown07",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown07",
+		"BuildingName": {
+			"hash": -212894392
+		},
+		"BuildingDes": {
+			"hash": -1250833713
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			1051
+		],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 2,
+		"DataImpl": {},
+		"BuildingID": 1051
+	},
+	{
+		"ModelPath": 968,
+		"ModelType": 3,
+		"Blueprint": "3,1;0,3",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 300,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown07",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown07",
+		"BuildingName": {
+			"hash": -212894391
+		},
+		"BuildingDes": {
+			"hash": -1250833712
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			1054
+		],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 2,
+		"DataImpl": {},
+		"BuildingID": 1052
+	},
+	{
+		"ModelPath": 968,
+		"ModelType": 3,
+		"Blueprint": "3,1;0,3",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 300,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown07",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown07",
+		"BuildingName": {
+			"hash": -212894390
+		},
+		"BuildingDes": {
+			"hash": -1250833711
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			1055
+		],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 2,
+		"DataImpl": {},
+		"BuildingID": 1053
+	},
+	{
+		"ModelPath": 961,
+		"ModelType": 3,
+		"Blueprint": "0,1,0;4,3,4",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 400,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown02",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown02",
+		"BuildingName": {
+			"hash": -212894361
+		},
+		"BuildingDes": {
+			"hash": -1250833682
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 3,
+		"BackgroundColor": 3,
+		"DataImpl": {},
+		"BuildingID": 1061
+	},
+	{
+		"ModelPath": 961,
+		"ModelType": 3,
+		"Blueprint": "0,1,0;4,3,4",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 400,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown02",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown02",
+		"BuildingName": {
+			"hash": -212894360
+		},
+		"BuildingDes": {
+			"hash": -1250833681
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 3,
+		"BackgroundColor": 3,
+		"DataImpl": {},
+		"BuildingID": 1062
+	},
+	{
+		"ModelPath": 964,
+		"ModelType": 3,
+		"Blueprint": "4,2;2,4",
+		"UItype": 2,
+		"IsCanSell": false,
+		"Price": 100,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown03",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown03",
+		"BuildingName": {
+			"hash": -212894330
+		},
+		"BuildingDes": {
+			"hash": -1250833651
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 1,
+		"BackgroundColor": 3,
+		"DataImpl": {},
+		"BuildingID": 1071
+	},
+	{
+		"ModelPath": 965,
+		"ModelType": 3,
+		"Blueprint": "1,1",
+		"UItype": 2,
+		"IsCanSell": false,
+		"Price": 100,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown04",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown04",
+		"BuildingName": {
+			"hash": -212894516
+		},
+		"BuildingDes": {
+			"hash": -1250832907
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			1011
+		],
+		"Hp": 2,
+		"BuildingLimit": 3,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 1101
+	},
+	{
+		"ModelPath": 966,
+		"ModelType": 3,
+		"Blueprint": "3,3",
+		"UItype": 3,
+		"IsCanSell": true,
+		"Price": 200,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown06",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown06",
+		"BuildingName": {
+			"hash": -212894485
+		},
+		"BuildingDes": {
+			"hash": -1250833806
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 1102
+	},
+	{
+		"ModelPath": 966,
+		"ModelType": 3,
+		"Blueprint": "3,3",
+		"UItype": 3,
+		"IsCanSell": true,
+		"Price": 200,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown06",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown06",
+		"BuildingName": {
+			"hash": -212894485
+		},
+		"BuildingDes": {
+			"hash": -1250833806
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 1103
+	},
+	{
+		"ModelPath": 965,
+		"ModelType": 3,
+		"Blueprint": "1,1",
+		"UItype": 2,
+		"IsCanSell": false,
+		"Price": 200,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown04",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown04",
+		"BuildingName": {
+			"hash": -212893583
+		},
+		"BuildingDes": {
+			"hash": -1250832904
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			1011
+		],
+		"Hp": 2,
+		"BuildingLimit": 3,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 1104
+	},
+	{
+		"ModelPath": 966,
+		"ModelType": 3,
+		"Blueprint": "3,3",
+		"UItype": 3,
+		"IsCanSell": true,
+		"Price": 200,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown06",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown06",
+		"BuildingName": {
+			"hash": -212893582
+		},
+		"BuildingDes": {
+			"hash": -1250832903
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 1105
+	},
+	{
+		"ModelPath": 969,
+		"ModelType": 3,
+		"Blueprint": "4,2;1,4",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 400,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown08",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown08",
+		"BuildingName": {
+			"hash": -212893581
+		},
+		"BuildingDes": {
+			"hash": -1250832902
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			1047
+		],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 2,
+		"DataImpl": {},
+		"BuildingID": 1106
+	},
+	{
+		"ModelPath": 968,
+		"ModelType": 3,
+		"Blueprint": "3,1;0,3",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 300,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown07",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown07",
+		"BuildingName": {
+			"hash": -212893580
+		},
+		"BuildingDes": {
+			"hash": -1250832901
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			1052
+		],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 2,
+		"DataImpl": {},
+		"BuildingID": 1107
+	},
+	{
+		"ModelPath": 910,
+		"ModelType": 3,
+		"Blueprint": "4,1;0,4",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 300,
+		"IconPath": "event/Immediately/Activity/SpringFes2022/5.5_HT_Building01",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/9",
+		"BuildingName": {
+			"hash": -212893579
+		},
+		"BuildingDes": {
+			"hash": -1250832900
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			1073
+		],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 3,
+		"DataImpl": {},
+		"BuildingID": 1108
+	},
+	{
+		"ModelPath": 961,
+		"ModelType": 3,
+		"Blueprint": "0,4,0;1,4,1",
+		"UItype": 2,
+		"IsCanSell": false,
+		"Price": 400,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown02",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown02",
+		"BuildingName": {
+			"hash": -212893578
+		},
+		"BuildingDes": {
+			"hash": -1250832899
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			1063
+		],
+		"Hp": 2,
+		"BuildingLimit": 1,
+		"BackgroundColor": 3,
+		"DataImpl": {},
+		"BuildingID": 1109
+	},
+	{
+		"ModelPath": 910,
+		"ModelType": 3,
+		"Blueprint": "4,1;0,4",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 300,
+		"IconPath": "event/Immediately/Activity/SpringFes2022/5.5_HT_Building01",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/9",
+		"BuildingName": {
+			"hash": -212893556
+		},
+		"BuildingDes": {
+			"hash": -1250832877
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			1074
+		],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 3,
+		"DataImpl": {},
+		"BuildingID": 1110
+	},
+	{
+		"ModelPath": 965,
+		"ModelType": 3,
+		"Blueprint": "1,1",
+		"UItype": 2,
+		"IsCanSell": false,
+		"Price": 200,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown04",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown04",
+		"BuildingName": {
+			"hash": -212893555
+		},
+		"BuildingDes": {
+			"hash": -1250832876
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			1011
+		],
+		"Hp": 2,
+		"BuildingLimit": 3,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 1111
+	},
+	{
+		"ModelPath": 966,
+		"ModelType": 3,
+		"Blueprint": "3,3",
+		"UItype": 3,
+		"IsCanSell": true,
+		"Price": 200,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown06",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown06",
+		"BuildingName": {
+			"hash": -212893554
+		},
+		"BuildingDes": {
+			"hash": -1250832875
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 1112
+	},
+	{
+		"ModelPath": 969,
+		"ModelType": 3,
+		"Blueprint": "4,2;1,4",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 400,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown08",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown08",
+		"BuildingName": {
+			"hash": -212893553
+		},
+		"BuildingDes": {
+			"hash": -1250832874
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			1044
+		],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 2,
+		"DataImpl": {},
+		"BuildingID": 1113
+	},
+	{
+		"ModelPath": 968,
+		"ModelType": 3,
+		"Blueprint": "3,1;0,3",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 300,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown07",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown07",
+		"BuildingName": {
+			"hash": -212893552
+		},
+		"BuildingDes": {
+			"hash": -1250832873
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			1053
+		],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 2,
+		"DataImpl": {},
+		"BuildingID": 1114
+	},
+	{
+		"ModelPath": 963,
+		"ModelType": 3,
+		"Blueprint": "1,4;4,1",
+		"UItype": 2,
+		"IsCanSell": false,
+		"Price": 400,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown05",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown05",
+		"BuildingName": {
+			"hash": -212893551
+		},
+		"BuildingDes": {
+			"hash": -1250832872
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			1075
+		],
+		"Hp": 2,
+		"BuildingLimit": 1,
+		"BackgroundColor": 3,
+		"DataImpl": {},
+		"BuildingID": 1115
+	},
+	{
+		"ModelPath": 961,
+		"ModelType": 3,
+		"Blueprint": "0,4,0;3,4,3",
+		"UItype": 1,
+		"IsCanSell": false,
+		"Price": 400,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown02",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown02",
+		"BuildingName": {
+			"hash": -212893550
+		},
+		"BuildingDes": {
+			"hash": -1250832871
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			1065
+		],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 3,
+		"DataImpl": {},
+		"BuildingID": 1116
+	},
+	{
+		"ModelPath": 961,
+		"ModelType": 3,
+		"Blueprint": "0,4,0;3,4,3",
+		"UItype": 1,
+		"IsCanSell": false,
+		"Price": 400,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown02",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown02",
+		"BuildingName": {
+			"hash": -212893549
+		},
+		"BuildingDes": {
+			"hash": -1250832870
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 3,
+		"DataImpl": {},
+		"BuildingID": 1117
+	},
+	{
+		"ModelPath": 918,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/12",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/12I",
+		"BuildingName": {
+			"hash": -212864725
+		},
+		"BuildingDes": {
+			"hash": -1250804046
+		},
+		"EffectType": 1,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 2011
+	},
+	{
+		"ModelPath": 919,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 0,
+		"IconPath": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Money_LV3",
+		"ImagePath": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Money_LV3",
+		"BuildingName": {
+			"hash": -212864694
+		},
+		"BuildingDes": {
+			"hash": -1250804015
+		},
+		"EffectType": 1,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 2021
+	},
+	{
+		"ModelPath": 920,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/14",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/14I",
+		"BuildingName": {
+			"hash": -212864663
+		},
+		"BuildingDes": {
+			"hash": -1250803984
+		},
+		"EffectType": 2,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 2031
+	},
+	{
+		"ModelPath": 921,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/15",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/15I",
+		"BuildingName": {
+			"hash": -212864632
+		},
+		"BuildingDes": {
+			"hash": -1250803953
+		},
+		"EffectType": 2,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 2041
+	},
+	{
+		"ModelPath": 922,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/16",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/16I",
+		"BuildingName": {
+			"hash": -212864601
+		},
+		"BuildingDes": {
+			"hash": -1250803922
+		},
+		"EffectType": 1,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 2051
+	},
+	{
+		"ModelPath": 922,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/16",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/16I",
+		"BuildingName": {
+			"hash": -212864601
+		},
+		"BuildingDes": {
+			"hash": -1250803922
+		},
+		"EffectType": 1,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 2052
+	},
+	{
+		"ModelPath": 920,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/14",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/14I",
+		"BuildingName": {
+			"hash": -212864599
+		},
+		"BuildingDes": {
+			"hash": -1250803920
+		},
+		"EffectType": 2,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 2053
+	},
+	{
+		"ModelPath": 951,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/16",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/16I",
+		"BuildingName": {
+			"hash": -212864598
+		},
+		"BuildingDes": {
+			"hash": -1250803919
+		},
+		"EffectType": 2,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 2054
+	},
+	{
+		"ModelPath": 952,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/16",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/16I",
+		"BuildingName": {
+			"hash": -212864597
+		},
+		"BuildingDes": {
+			"hash": -1250803918
+		},
+		"EffectType": 2,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 2055
+	},
+	{
+		"ModelPath": 953,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/16",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/16I",
+		"BuildingName": {
+			"hash": -212864600
+		},
+		"BuildingDes": {
+			"hash": -1250803921
+		},
+		"EffectType": 2,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 2056
+	},
+	{
+		"ModelPath": 954,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/16",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/16I",
+		"BuildingName": {
+			"hash": -212864595
+		},
+		"BuildingDes": {
+			"hash": -1250803916
+		},
+		"EffectType": 1,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 2057
+	},
+	{
+		"ModelPath": 965,
+		"ModelType": 3,
+		"Blueprint": "1,1",
+		"UItype": 2,
+		"IsCanSell": false,
+		"Price": 100,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown04",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/6I",
+		"BuildingName": {
+			"hash": -212863795
+		},
+		"BuildingDes": {
+			"hash": -1250803116
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			2205
+		],
+		"Hp": 2,
+		"BuildingLimit": 3,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 2101
+	},
+	{
+		"ModelPath": 927,
+		"ModelType": 3,
+		"Blueprint": "2,2",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 200,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown10",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/8I",
+		"BuildingName": {
+			"hash": -212863794
+		},
+		"BuildingDes": {
+			"hash": -1250803115
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 2102
+	},
+	{
+		"ModelPath": 966,
+		"ModelType": 3,
+		"Blueprint": "3,3",
+		"UItype": 3,
+		"IsCanSell": true,
+		"Price": 200,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown06",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/7I",
+		"BuildingName": {
+			"hash": -212863793
+		},
+		"BuildingDes": {
+			"hash": -1250803114
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 2103
+	},
+	{
+		"ModelPath": 968,
+		"ModelType": 3,
+		"Blueprint": "3,1;0,3",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 300,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown07",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/9I",
+		"BuildingName": {
+			"hash": -212863792
+		},
+		"BuildingDes": {
+			"hash": -1250803113
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			2206
+		],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 2,
+		"DataImpl": {},
+		"BuildingID": 2104
+	},
+	{
+		"ModelPath": 971,
+		"ModelType": 3,
+		"Blueprint": "2,3;4,2",
+		"UItype": 1,
+		"IsCanSell": false,
+		"Price": 400,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown12",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/11I",
+		"BuildingName": {
+			"hash": -212863791
+		},
+		"BuildingDes": {
+			"hash": -1250803112
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 3,
+		"BackgroundColor": 2,
+		"DataImpl": {},
+		"BuildingID": 2105
+	},
+	{
+		"ModelPath": 971,
+		"ModelType": 3,
+		"Blueprint": "2,3;4,2",
+		"UItype": 1,
+		"IsCanSell": false,
+		"Price": 400,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown12",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/11I",
+		"BuildingName": {
+			"hash": -212863790
+		},
+		"BuildingDes": {
+			"hash": -1250803111
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 3,
+		"BackgroundColor": 2,
+		"DataImpl": {},
+		"BuildingID": 2106
+	},
+	{
+		"ModelPath": 971,
+		"ModelType": 3,
+		"Blueprint": "2,3;4,2",
+		"UItype": 1,
+		"IsCanSell": false,
+		"Price": 400,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown12",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/11I",
+		"BuildingName": {
+			"hash": -212863789
+		},
+		"BuildingDes": {
+			"hash": -1250803110
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 3,
+		"BackgroundColor": 2,
+		"DataImpl": {},
+		"BuildingID": 2107
+	},
+	{
+		"ModelPath": 967,
+		"ModelType": 1,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": false,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown01",
+		"ImagePath": "SpriteOutput/SummerTreasureHunt/Floor/Garden_Object_Plane_Stigmata_S3E",
+		"BuildingName": {
+			"hash": -212863788
+		},
+		"BuildingDes": {
+			"hash": -1250803109
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 12,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 2108
+	},
+	{
+		"ModelPath": 969,
+		"ModelType": 3,
+		"Blueprint": "4,2;1,4",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 400,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown08",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/11I",
+		"BuildingName": {
+			"hash": -212863787
+		},
+		"BuildingDes": {
+			"hash": -1250803108
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			2214
+		],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 2,
+		"DataImpl": {},
+		"BuildingID": 2109
+	},
+	{
+		"ModelPath": 965,
+		"ModelType": 3,
+		"Blueprint": "1,1",
+		"UItype": 2,
+		"IsCanSell": false,
+		"Price": 100,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown04",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/6I",
+		"BuildingName": {
+			"hash": -212862834
+		},
+		"BuildingDes": {
+			"hash": -1250802155
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			2209
+		],
+		"Hp": 2,
+		"BuildingLimit": 3,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 2201
+	},
+	{
+		"ModelPath": 927,
+		"ModelType": 3,
+		"Blueprint": "2,2",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 200,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown10",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/8I",
+		"BuildingName": {
+			"hash": -212862833
+		},
+		"BuildingDes": {
+			"hash": -1250802154
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 2202
+	},
+	{
+		"ModelPath": 966,
+		"ModelType": 3,
+		"Blueprint": "3,3",
+		"UItype": 3,
+		"IsCanSell": true,
+		"Price": 200,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown06",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/7I",
+		"BuildingName": {
+			"hash": -212862832
+		},
+		"BuildingDes": {
+			"hash": -1250802153
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 2203
+	},
+	{
+		"ModelPath": 993,
+		"ModelType": 3,
+		"Blueprint": "3,1;0,3",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 300,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown07",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/9I",
+		"BuildingName": {
+			"hash": -212862831
+		},
+		"BuildingDes": {
+			"hash": -1250802152
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			2210
+		],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 2,
+		"DataImpl": {},
+		"BuildingID": 2204
+	},
+	{
+		"ModelPath": 994,
+		"ModelType": 3,
+		"Blueprint": "4,2;1,4",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 400,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown08",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/11I",
+		"BuildingName": {
+			"hash": -212862830
+		},
+		"BuildingDes": {
+			"hash": -1250802151
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			2211
+		],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 2,
+		"DataImpl": {},
+		"BuildingID": 2205
+	},
+	{
+		"ModelPath": 963,
+		"ModelType": 3,
+		"Blueprint": "4,2;4,4",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 400,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/11",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/11I",
+		"BuildingName": {
+			"hash": -212862829
+		},
+		"BuildingDes": {
+			"hash": -1250802150
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 2,
+		"DataImpl": {},
+		"BuildingID": 2206
+	},
+	{
+		"ModelPath": 974,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": false,
+		"Price": 400,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/11",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/11I",
+		"BuildingName": {
+			"hash": -212862828
+		},
+		"BuildingDes": {
+			"hash": -1250802149
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 2,
+		"DataImpl": {},
+		"BuildingID": 2207
+	},
+	{
+		"ModelPath": 967,
+		"ModelType": 1,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": false,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown01",
+		"ImagePath": "SpriteOutput/SummerTreasureHunt/Floor/Garden_Object_Plane_Stigmata_S3E",
+		"BuildingName": {
+			"hash": -212862827
+		},
+		"BuildingDes": {
+			"hash": -1250802148
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 4,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 2208
+	},
+	{
+		"ModelPath": 967,
+		"ModelType": 1,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": false,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown01",
+		"ImagePath": "SpriteOutput/SummerTreasureHunt/Floor/Garden_Object_Plane_Stigmata_S3E",
+		"BuildingName": {
+			"hash": -212862826
+		},
+		"BuildingDes": {
+			"hash": -1250802147
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 8,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 2209
+	},
+	{
+		"ModelPath": 967,
+		"ModelType": 1,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": false,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown01",
+		"ImagePath": "SpriteOutput/SummerTreasureHunt/Floor/Garden_Object_Plane_Stigmata_S3E",
+		"BuildingName": {
+			"hash": -212862804
+		},
+		"BuildingDes": {
+			"hash": -1250802125
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 12,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 2210
+	},
+	{
+		"ModelPath": 985,
+		"ModelType": 3,
+		"Blueprint": "3,5;0,3",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 300,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown14",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/9I",
+		"BuildingName": {
+			"hash": -212862802
+		},
+		"BuildingDes": {
+			"hash": -1250802123
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			2212
+		],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 2,
+		"DataImpl": {},
+		"BuildingID": 2212
+	},
+	{
+		"ModelPath": 986,
+		"ModelType": 3,
+		"Blueprint": "4,2;5,4",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 400,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown13",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown08",
+		"BuildingName": {
+			"hash": -212862801
+		},
+		"BuildingDes": {
+			"hash": -1250802122
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			2213
+		],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 2,
+		"DataImpl": {},
+		"BuildingID": 2213
+	},
+	{
+		"ModelPath": 978,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": false,
+		"Price": 400,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/11",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown08",
+		"BuildingName": {
+			"hash": -212862800
+		},
+		"BuildingDes": {
+			"hash": -1250802121
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 2,
+		"DataImpl": {},
+		"BuildingID": 2214
+	},
+	{
+		"ModelPath": 963,
+		"ModelType": 3,
+		"Blueprint": "5,5;5,5",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 400,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/11",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown08",
+		"BuildingName": {
+			"hash": -212862799
+		},
+		"BuildingDes": {
+			"hash": -1250802120
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			2213
+		],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 2,
+		"DataImpl": {},
+		"BuildingID": 2215
+	},
+	{
+		"ModelPath": 992,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": false,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/11",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown08",
+		"BuildingName": {
+			"hash": -212862798
+		},
+		"BuildingDes": {
+			"hash": -1250802119
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 2,
+		"DataImpl": {},
+		"BuildingID": 2216
+	},
+	{
+		"ModelPath": 965,
+		"ModelType": 3,
+		"Blueprint": "1,1",
+		"UItype": 2,
+		"IsCanSell": false,
+		"Price": 100,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown04",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown04",
+		"BuildingName": {
+			"hash": -212861873
+		},
+		"BuildingDes": {
+			"hash": -1250801194
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			1011
+		],
+		"Hp": 2,
+		"BuildingLimit": 3,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 2301
+	},
+	{
+		"ModelPath": 966,
+		"ModelType": 3,
+		"Blueprint": "3,3",
+		"UItype": 3,
+		"IsCanSell": true,
+		"Price": 200,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown06",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown06",
+		"BuildingName": {
+			"hash": -212861872
+		},
+		"BuildingDes": {
+			"hash": -1250801193
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 2302
+	},
+	{
+		"ModelPath": 994,
+		"ModelType": 3,
+		"Blueprint": "4,2;1,4",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 400,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown08",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown08",
+		"BuildingName": {
+			"hash": -212861871
+		},
+		"BuildingDes": {
+			"hash": -1250801192
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			3106
+		],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 2,
+		"DataImpl": {},
+		"BuildingID": 2303
+	},
+	{
+		"ModelPath": 993,
+		"ModelType": 3,
+		"Blueprint": "3,1;0,3",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 300,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown07",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown07",
+		"BuildingName": {
+			"hash": -212861870
+		},
+		"BuildingDes": {
+			"hash": -1250801191
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			3102
+		],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 2,
+		"DataImpl": {},
+		"BuildingID": 2304
+	},
+	{
+		"ModelPath": 979,
+		"ModelType": 3,
+		"Blueprint": "0,3,0;4,2,4",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 400,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown11",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown11",
+		"BuildingName": {
+			"hash": -212861869
+		},
+		"BuildingDes": {
+			"hash": -1250801190
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			3110
+		],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 2,
+		"DataImpl": {},
+		"BuildingID": 2305
+	},
+	{
+		"ModelPath": 964,
+		"ModelType": 3,
+		"Blueprint": "1,2;2,1",
+		"UItype": 2,
+		"IsCanSell": true,
+		"Price": 400,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown03",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown03",
+		"BuildingName": {
+			"hash": -212861868
+		},
+		"BuildingDes": {
+			"hash": -1250801189
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 1,
+		"BackgroundColor": 3,
+		"DataImpl": {},
+		"BuildingID": 2306
+	},
+	{
+		"ModelPath": 980,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": false,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown11",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown11",
+		"BuildingName": {
+			"hash": -212861867
+		},
+		"BuildingDes": {
+			"hash": -1250801188
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 2307
+	},
+	{
+		"ModelPath": 994,
+		"ModelType": 3,
+		"Blueprint": "4,2;1,4",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 400,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown08",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown08",
+		"BuildingName": {
+			"hash": -212861866
+		},
+		"BuildingDes": {
+			"hash": -1250801187
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			3107
+		],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 2,
+		"DataImpl": {},
+		"BuildingID": 2308
+	},
+	{
+		"ModelPath": 993,
+		"ModelType": 3,
+		"Blueprint": "3,1;0,3",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 300,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown07",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown07",
+		"BuildingName": {
+			"hash": -212861865
+		},
+		"BuildingDes": {
+			"hash": -1250801186
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			3103
+		],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 2,
+		"DataImpl": {},
+		"BuildingID": 2309
+	},
+	{
+		"ModelPath": 979,
+		"ModelType": 3,
+		"Blueprint": "0,3,0;4,2,4",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 400,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown11",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown11",
+		"BuildingName": {
+			"hash": -212861843
+		},
+		"BuildingDes": {
+			"hash": -1250801164
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			3111
+		],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 2,
+		"DataImpl": {},
+		"BuildingID": 2310
+	},
+	{
+		"ModelPath": 964,
+		"ModelType": 3,
+		"Blueprint": "1,2;2,1",
+		"UItype": 2,
+		"IsCanSell": true,
+		"Price": 400,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown03",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown03",
+		"BuildingName": {
+			"hash": -212861842
+		},
+		"BuildingDes": {
+			"hash": -1250801163
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 1,
+		"BackgroundColor": 3,
+		"DataImpl": {},
+		"BuildingID": 2311
+	},
+	{
+		"ModelPath": 965,
+		"ModelType": 3,
+		"Blueprint": "1,1",
+		"UItype": 2,
+		"IsCanSell": false,
+		"Price": 100,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown04",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown04",
+		"BuildingName": {
+			"hash": -212861811
+		},
+		"BuildingDes": {
+			"hash": -1250801132
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			1011
+		],
+		"Hp": 2,
+		"BuildingLimit": 3,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 2321
+	},
+	{
+		"ModelPath": 966,
+		"ModelType": 3,
+		"Blueprint": "3,3",
+		"UItype": 3,
+		"IsCanSell": true,
+		"Price": 200,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown06",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown06",
+		"BuildingName": {
+			"hash": -212861810
+		},
+		"BuildingDes": {
+			"hash": -1250801131
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 2322
+	},
+	{
+		"ModelPath": 996,
+		"ModelType": 3,
+		"Blueprint": "1,2;4,1",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 400,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown08",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown08",
+		"BuildingName": {
+			"hash": -212861809
+		},
+		"BuildingDes": {
+			"hash": -1250801130
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			3119
+		],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 2,
+		"DataImpl": {},
+		"BuildingID": 2323
+	},
+	{
+		"ModelPath": 995,
+		"ModelType": 3,
+		"Blueprint": "4,1;0,4",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 300,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown07",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown07",
+		"BuildingName": {
+			"hash": -212861808
+		},
+		"BuildingDes": {
+			"hash": -1250801129
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			3117
+		],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 2,
+		"DataImpl": {},
+		"BuildingID": 2324
+	},
+	{
+		"ModelPath": 997,
+		"ModelType": 3,
+		"Blueprint": "0,3,0;2,4,2",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 400,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown11",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown11",
+		"BuildingName": {
+			"hash": -212861807
+		},
+		"BuildingDes": {
+			"hash": -1250801128
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			3122
+		],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 3,
+		"DataImpl": {},
+		"BuildingID": 2325
+	},
+	{
+		"ModelPath": 997,
+		"ModelType": 3,
+		"Blueprint": "0,3,0;2,4,2",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 400,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown11",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown11",
+		"BuildingName": {
+			"hash": -212861806
+		},
+		"BuildingDes": {
+			"hash": -1250801127
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			3122
+		],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 3,
+		"DataImpl": {},
+		"BuildingID": 2326
+	},
+	{
+		"ModelPath": 998,
+		"ModelType": 3,
+		"Blueprint": "3,2;2,1",
+		"UItype": 2,
+		"IsCanSell": true,
+		"Price": 400,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown05",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown05",
+		"BuildingName": {
+			"hash": -212861805
+		},
+		"BuildingDes": {
+			"hash": -1250801126
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 1,
+		"BackgroundColor": 3,
+		"DataImpl": {},
+		"BuildingID": 2327
+	},
+	{
+		"ModelPath": 981,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": false,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown11",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown11",
+		"BuildingName": {
+			"hash": -212861804
+		},
+		"BuildingDes": {
+			"hash": -1250801125
+		},
+		"EffectType": 1,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 2328
+	},
+	{
+		"ModelPath": 983,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown11",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown11",
+		"BuildingName": {
+			"hash": -212861803
+		},
+		"BuildingDes": {
+			"hash": -1250801124
+		},
+		"EffectType": 2,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 2329
+	},
+	{
+		"ModelPath": 983,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown11",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown11",
+		"BuildingName": {
+			"hash": -212861781
+		},
+		"BuildingDes": {
+			"hash": -1250801102
+		},
+		"EffectType": 2,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 2330
+	},
+	{
+		"ModelPath": 983,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": false,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown11",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown11",
+		"BuildingName": {
+			"hash": -212861781
+		},
+		"BuildingDes": {
+			"hash": -1250801102
+		},
+		"EffectType": 2,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 2331
+	},
+	{
+		"ModelPath": 998,
+		"ModelType": 3,
+		"Blueprint": "3,2;2,1",
+		"UItype": 2,
+		"IsCanSell": true,
+		"Price": 400,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown05",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown05",
+		"BuildingName": {
+			"hash": -212861805
+		},
+		"BuildingDes": {
+			"hash": -1250801100
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 1,
+		"BackgroundColor": 3,
+		"DataImpl": {},
+		"BuildingID": 2332
+	},
+	{
+		"ModelPath": 965,
+		"ModelType": 3,
+		"Blueprint": "1,1",
+		"UItype": 2,
+		"IsCanSell": false,
+		"Price": 100,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown04",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown04",
+		"BuildingName": {
+			"hash": -212861749
+		},
+		"BuildingDes": {
+			"hash": -1250801070
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			1011
+		],
+		"Hp": 2,
+		"BuildingLimit": 3,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 2341
+	},
+	{
+		"ModelPath": 966,
+		"ModelType": 3,
+		"Blueprint": "3,3",
+		"UItype": 3,
+		"IsCanSell": true,
+		"Price": 200,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown06",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown06",
+		"BuildingName": {
+			"hash": -212861748
+		},
+		"BuildingDes": {
+			"hash": -1250801069
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 2342
+	},
+	{
+		"ModelPath": 994,
+		"ModelType": 3,
+		"Blueprint": "4,2;1,4",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 400,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown08",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown08",
+		"BuildingName": {
+			"hash": -212861747
+		},
+		"BuildingDes": {
+			"hash": -1250801068
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			3130
+		],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 2,
+		"DataImpl": {},
+		"BuildingID": 2343
+	},
+	{
+		"ModelPath": 993,
+		"ModelType": 3,
+		"Blueprint": "3,1;0,3",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 300,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown07",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown07",
+		"BuildingName": {
+			"hash": -212861746
+		},
+		"BuildingDes": {
+			"hash": -1250801067
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			3128
+		],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 2,
+		"DataImpl": {},
+		"BuildingID": 2344
+	},
+	{
+		"ModelPath": 961,
+		"ModelType": 3,
+		"Blueprint": "0,4,0;5,4,5",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 400,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown02",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown02",
+		"BuildingName": {
+			"hash": -212861745
+		},
+		"BuildingDes": {
+			"hash": -1250801066
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 3,
+		"DataImpl": {},
+		"BuildingID": 2345
+	},
+	{
+		"ModelPath": 961,
+		"ModelType": 3,
+		"Blueprint": "0,4,0;5,4,5",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 400,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown02",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown02",
+		"BuildingName": {
+			"hash": -212861744
+		},
+		"BuildingDes": {
+			"hash": -1250801065
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 3,
+		"DataImpl": {},
+		"BuildingID": 2346
+	},
+	{
+		"ModelPath": 962,
+		"ModelType": 3,
+		"Blueprint": "4,1;1,3",
+		"UItype": 2,
+		"IsCanSell": true,
+		"Price": 400,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown09",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown09",
+		"BuildingName": {
+			"hash": -212861743
+		},
+		"BuildingDes": {
+			"hash": -1250801064
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			1011
+		],
+		"Hp": 2,
+		"BuildingLimit": 1,
+		"BackgroundColor": 3,
+		"DataImpl": {},
+		"BuildingID": 2347
+	},
+	{
+		"ModelPath": 982,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": false,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown11",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown11",
+		"BuildingName": {
+			"hash": -212861742
+		},
+		"BuildingDes": {
+			"hash": -1250801063
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 2348
+	},
+	{
+		"ModelPath": 984,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": false,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown11",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown11",
+		"BuildingName": {
+			"hash": -212861741
+		},
+		"BuildingDes": {
+			"hash": -1250801062
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 2349
+	},
+	{
+		"ModelPath": 995,
+		"ModelType": 3,
+		"Blueprint": "4,1;0,4",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 300,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown07",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown07",
+		"BuildingName": {
+			"hash": -212861719
+		},
+		"BuildingDes": {
+			"hash": -1250801040
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			3138
+		],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 2,
+		"DataImpl": {},
+		"BuildingID": 2350
+	},
+	{
+		"ModelPath": 996,
+		"ModelType": 3,
+		"Blueprint": "1,2;3,1",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 400,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown08",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown08",
+		"BuildingName": {
+			"hash": -212861718
+		},
+		"BuildingDes": {
+			"hash": -1250801039
+		},
+		"EffectType": 0,
+		"TriggerHint": [
+			3139
+		],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 2,
+		"DataImpl": {},
+		"BuildingID": 2351
+	},
+	{
+		"ModelPath": 997,
+		"ModelType": 3,
+		"Blueprint": "0,3,0;2,4,2",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 400,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown11",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown11",
+		"BuildingName": {
+			"hash": -212861717
+		},
+		"BuildingDes": {
+			"hash": -1250801038
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 3,
+		"DataImpl": {},
+		"BuildingID": 2352
+	},
+	{
+		"ModelPath": 987,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown11",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown11",
+		"BuildingName": {
+			"hash": -212860912
+		},
+		"BuildingDes": {
+			"hash": -1250800233
+		},
+		"EffectType": 1,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 3,
+		"DataImpl": {},
+		"BuildingID": 2401
+	},
+	{
+		"ModelPath": 988,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown11",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown11",
+		"BuildingName": {
+			"hash": -212860911
+		},
+		"BuildingDes": {
+			"hash": -1250800232
+		},
+		"EffectType": 1,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 3,
+		"DataImpl": {},
+		"BuildingID": 2402
+	},
+	{
+		"ModelPath": 989,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown11",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown11",
+		"BuildingName": {
+			"hash": -212860910
+		},
+		"BuildingDes": {
+			"hash": -1250800231
+		},
+		"EffectType": 1,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 3,
+		"DataImpl": {},
+		"BuildingID": 2403
+	},
+	{
+		"ModelPath": 990,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown11",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown11",
+		"BuildingName": {
+			"hash": -212860909
+		},
+		"BuildingDes": {
+			"hash": -1250800230
+		},
+		"EffectType": 1,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 3,
+		"DataImpl": {},
+		"BuildingID": 2404
+	},
+	{
+		"ModelPath": 923,
+		"ModelType": 1,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": false,
+		"Price": 0,
+		"IconPath": "SpriteOutput/SummerTreasureHunt/Floor/Garden_Object_Plane_Stigmata_S3E",
+		"ImagePath": "SpriteOutput/SummerTreasureHunt/Floor/Garden_Object_Plane_Stigmata_S3E",
+		"BuildingName": {
+			"hash": -212834934
+		},
+		"BuildingDes": {
+			"hash": -1250774255
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 4,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 3011
+	},
+	{
+		"ModelPath": 923,
+		"ModelType": 1,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": false,
+		"Price": 0,
+		"IconPath": "SpriteOutput/SummerTreasureHunt/Floor/Garden_Object_Plane_Stigmata_S3E",
+		"ImagePath": "SpriteOutput/SummerTreasureHunt/Floor/Garden_Object_Plane_Stigmata_S3E",
+		"BuildingName": {
+			"hash": -212834934
+		},
+		"BuildingDes": {
+			"hash": -1250774255
+		},
+		"EffectType": 0,
+		"TriggerHint": [],
+		"Hp": 12,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 3012
+	},
+	{
+		"ModelPath": 994,
+		"ModelType": 3,
+		"Blueprint": "4,2;1,4",
+		"UItype": 1,
+		"IsCanSell": true,
+		"Price": 400,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/HouKaiTown08",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/12I",
+		"BuildingName": {
+			"hash": 1567784010
+		},
+		"BuildingDes": {
+			"hash": 540509201
+		},
+		"EffectType": 1,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 113000
+	},
+	{
+		"ModelPath": 970,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": false,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/12",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/12I",
+		"BuildingName": {
+			"hash": 1567784011
+		},
+		"BuildingDes": {
+			"hash": 540509202
+		},
+		"EffectType": 1,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 113001
+	},
+	{
+		"ModelPath": 999,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": false,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/12",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/12I",
+		"BuildingName": {
+			"hash": 1567784012
+		},
+		"BuildingDes": {
+			"hash": 540509203
+		},
+		"EffectType": 1,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 113002
+	},
+	{
+		"ModelPath": 970,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": false,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/12",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/12I",
+		"BuildingName": {
+			"hash": 1567784013
+		},
+		"BuildingDes": {
+			"hash": 540509204
+		},
+		"EffectType": 1,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 113003
+	},
+	{
+		"ModelPath": 999,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": false,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/12",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/12I",
+		"BuildingName": {
+			"hash": 1567784014
+		},
+		"BuildingDes": {
+			"hash": 540509205
+		},
+		"EffectType": 1,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 113004
+	},
+	{
+		"ModelPath": 970,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": false,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/12",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/12I",
+		"BuildingName": {
+			"hash": 1567784015
+		},
+		"BuildingDes": {
+			"hash": 540509206
+		},
+		"EffectType": 1,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 113005
+	},
+	{
+		"ModelPath": 999,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": false,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/12",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/12I",
+		"BuildingName": {
+			"hash": 1567784016
+		},
+		"BuildingDes": {
+			"hash": 540509207
+		},
+		"EffectType": 1,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 113006
+	},
+	{
+		"ModelPath": 970,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": false,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/12",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/12I",
+		"BuildingName": {
+			"hash": 1567784017
+		},
+		"BuildingDes": {
+			"hash": 540509208
+		},
+		"EffectType": 1,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 113007
+	},
+	{
+		"ModelPath": 999,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": false,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/12",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/12I",
+		"BuildingName": {
+			"hash": 1567784018
+		},
+		"BuildingDes": {
+			"hash": 540509209
+		},
+		"EffectType": 1,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 113008
+	},
+	{
+		"ModelPath": 970,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": false,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/12",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/12I",
+		"BuildingName": {
+			"hash": 1567784019
+		},
+		"BuildingDes": {
+			"hash": 540509210
+		},
+		"EffectType": 1,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 113009
+	},
+	{
+		"ModelPath": 999,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": false,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/12",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/12I",
+		"BuildingName": {
+			"hash": 1567784041
+		},
+		"BuildingDes": {
+			"hash": 540509232
+		},
+		"EffectType": 1,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 113010
+	},
+	{
+		"ModelPath": 970,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": false,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/12",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/12I",
+		"BuildingName": {
+			"hash": 1567784042
+		},
+		"BuildingDes": {
+			"hash": 540509233
+		},
+		"EffectType": 1,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 113011
+	},
+	{
+		"ModelPath": 999,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": false,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/12",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/12I",
+		"BuildingName": {
+			"hash": 1567784043
+		},
+		"BuildingDes": {
+			"hash": 540509234
+		},
+		"EffectType": 1,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 113012
+	},
+	{
+		"ModelPath": 970,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": false,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/12",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/12I",
+		"BuildingName": {
+			"hash": 1567784044
+		},
+		"BuildingDes": {
+			"hash": 540509235
+		},
+		"EffectType": 1,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 113013
+	},
+	{
+		"ModelPath": 999,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": false,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/12",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/12I",
+		"BuildingName": {
+			"hash": 1567784045
+		},
+		"BuildingDes": {
+			"hash": 540509236
+		},
+		"EffectType": 1,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 113014
+	},
+	{
+		"ModelPath": 970,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": false,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/12",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/12I",
+		"BuildingName": {
+			"hash": 1567784046
+		},
+		"BuildingDes": {
+			"hash": 540509237
+		},
+		"EffectType": 1,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 113015
+	},
+	{
+		"ModelPath": 999,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": false,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/12",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/12I",
+		"BuildingName": {
+			"hash": 1567784047
+		},
+		"BuildingDes": {
+			"hash": 540509238
+		},
+		"EffectType": 1,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 113016
+	},
+	{
+		"ModelPath": 970,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": false,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/12",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/12I",
+		"BuildingName": {
+			"hash": 1567784048
+		},
+		"BuildingDes": {
+			"hash": 540509239
+		},
+		"EffectType": 1,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 113017
+	},
+	{
+		"ModelPath": 999,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": false,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/12",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/12I",
+		"BuildingName": {
+			"hash": 1567784049
+		},
+		"BuildingDes": {
+			"hash": 540509240
+		},
+		"EffectType": 1,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 113018
+	},
+	{
+		"ModelPath": 970,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": false,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/12",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/12I",
+		"BuildingName": {
+			"hash": 1567784050
+		},
+		"BuildingDes": {
+			"hash": 540509241
+		},
+		"EffectType": 1,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 113019
+	},
+	{
+		"ModelPath": 975,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": false,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/12",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/12I",
+		"BuildingName": {
+			"hash": 1567784072
+		},
+		"BuildingDes": {
+			"hash": 540509263
+		},
+		"EffectType": 1,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 113020
+	},
+	{
+		"ModelPath": 977,
+		"ModelType": 2,
+		"Blueprint": "0",
+		"UItype": 1,
+		"IsCanSell": false,
+		"Price": 0,
+		"IconPath": "SpriteOutput/TiledGame/SpringFes/12",
+		"ImagePath": "SpriteOutput/TiledGame/SpringFes/12I",
+		"BuildingName": {
+			"hash": 1567784298
+		},
+		"BuildingDes": {
+			"hash": 540509489
+		},
+		"EffectType": 1,
+		"TriggerHint": [],
+		"Hp": 2,
+		"BuildingLimit": 0,
+		"BackgroundColor": 1,
+		"DataImpl": {},
+		"BuildingID": 113099
+	}
+]

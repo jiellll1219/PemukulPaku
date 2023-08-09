@@ -1,0 +1,870 @@
+[
+	{
+		"name": {
+			"hash": 1428489017
+		},
+		"propName": "",
+		"indicatorOffset": 0,
+		"rarity": 1,
+		"type": 2,
+		"maxUseRange": 0,
+		"minUseRange": 0,
+		"paramScore": 0,
+		"RelateBuff": 0,
+		"paramStr": "OWEndlessItem_PhysicalDamageUp_Small",
+		"iconPath": "SpriteOutput/ItemsIcon/El_Item_70016",
+		"smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70016",
+		"descriptionShort": {
+			"hash": -417257171
+		},
+		"description": {
+			"hash": 1391497130
+		},
+		"buffDesc": {
+			"hash": 1978585565
+		},
+		"debuffDesc": {
+			"hash": 1978585565
+		},
+		"showHint": "EL_HINT_150001",
+		"DataImpl": {},
+		"ID": 150001
+	},
+	{
+		"name": {
+			"hash": 1428489018
+		},
+		"propName": "",
+		"indicatorOffset": 0,
+		"rarity": 1,
+		"type": 2,
+		"maxUseRange": 0,
+		"minUseRange": 0,
+		"paramScore": 0,
+		"RelateBuff": 0,
+		"paramStr": "OWEndlessItem_PhysicalDamageUp_Medium",
+		"iconPath": "SpriteOutput/ItemsIcon/El_Item_70016",
+		"smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70016",
+		"descriptionShort": {
+			"hash": -417257170
+		},
+		"description": {
+			"hash": 1391497131
+		},
+		"buffDesc": {
+			"hash": 1978585566
+		},
+		"debuffDesc": {
+			"hash": 1978585566
+		},
+		"showHint": "EL_HINT_150002",
+		"DataImpl": {},
+		"ID": 150002
+	},
+	{
+		"name": {
+			"hash": 1428489019
+		},
+		"propName": "",
+		"indicatorOffset": 0,
+		"rarity": 1,
+		"type": 2,
+		"maxUseRange": 0,
+		"minUseRange": 0,
+		"paramScore": 0,
+		"RelateBuff": 0,
+		"paramStr": "OWEndlessItem_PhysicalDamageUp_Large",
+		"iconPath": "SpriteOutput/ItemsIcon/El_Item_70016",
+		"smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70016",
+		"descriptionShort": {
+			"hash": -417257169
+		},
+		"description": {
+			"hash": 1391497132
+		},
+		"buffDesc": {
+			"hash": 1978585567
+		},
+		"debuffDesc": {
+			"hash": 1978585567
+		},
+		"showHint": "EL_HINT_150003",
+		"DataImpl": {},
+		"ID": 150003
+	},
+	{
+		"name": {
+			"hash": 1428489020
+		},
+		"propName": "",
+		"indicatorOffset": 0,
+		"rarity": 1,
+		"type": 2,
+		"maxUseRange": 0,
+		"minUseRange": 0,
+		"paramScore": 0,
+		"RelateBuff": 0,
+		"paramStr": "OWEndlessItem_ElementalDamageUp_Small",
+		"iconPath": "SpriteOutput/ItemsIcon/El_Item_70020",
+		"smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70020",
+		"descriptionShort": {
+			"hash": -417257168
+		},
+		"description": {
+			"hash": 1391497133
+		},
+		"buffDesc": {
+			"hash": 1978585568
+		},
+		"debuffDesc": {
+			"hash": 1978585568
+		},
+		"showHint": "EL_HINT_150004",
+		"DataImpl": {},
+		"ID": 150004
+	},
+	{
+		"name": {
+			"hash": 1428489021
+		},
+		"propName": "",
+		"indicatorOffset": 0,
+		"rarity": 1,
+		"type": 2,
+		"maxUseRange": 0,
+		"minUseRange": 0,
+		"paramScore": 0,
+		"RelateBuff": 0,
+		"paramStr": "OWEndlessItem_ElementalDamageUp_Medium",
+		"iconPath": "SpriteOutput/ItemsIcon/El_Item_70020",
+		"smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70020",
+		"descriptionShort": {
+			"hash": -417257167
+		},
+		"description": {
+			"hash": 1391497134
+		},
+		"buffDesc": {
+			"hash": 1978585569
+		},
+		"debuffDesc": {
+			"hash": 1978585569
+		},
+		"showHint": "EL_HINT_150005",
+		"DataImpl": {},
+		"ID": 150005
+	},
+	{
+		"name": {
+			"hash": 1428489022
+		},
+		"propName": "",
+		"indicatorOffset": 0,
+		"rarity": 1,
+		"type": 2,
+		"maxUseRange": 0,
+		"minUseRange": 0,
+		"paramScore": 0,
+		"RelateBuff": 0,
+		"paramStr": "OWEndlessItem_ElementalDamageUp_Large",
+		"iconPath": "SpriteOutput/ItemsIcon/El_Item_70020",
+		"smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70020",
+		"descriptionShort": {
+			"hash": -417257166
+		},
+		"description": {
+			"hash": 1391497135
+		},
+		"buffDesc": {
+			"hash": 1978585570
+		},
+		"debuffDesc": {
+			"hash": 1978585570
+		},
+		"showHint": "EL_HINT_150006",
+		"DataImpl": {},
+		"ID": 150006
+	},
+	{
+		"name": {
+			"hash": 1428489023
+		},
+		"propName": "",
+		"indicatorOffset": 0,
+		"rarity": 1,
+		"type": 2,
+		"maxUseRange": 0,
+		"minUseRange": 0,
+		"paramScore": 0,
+		"RelateBuff": 0,
+		"paramStr": "OWEndlessSPRecoverUp_Small",
+		"iconPath": "SpriteOutput/ItemsIcon/El_Item_70001",
+		"smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70001",
+		"descriptionShort": {
+			"hash": -417257165
+		},
+		"description": {
+			"hash": 1391497136
+		},
+		"buffDesc": {
+			"hash": 1978585571
+		},
+		"debuffDesc": {
+			"hash": 1978585571
+		},
+		"showHint": "EL_HINT_150007",
+		"DataImpl": {},
+		"ID": 150007
+	},
+	{
+		"name": {
+			"hash": 1428489024
+		},
+		"propName": "",
+		"indicatorOffset": 0,
+		"rarity": 1,
+		"type": 2,
+		"maxUseRange": 0,
+		"minUseRange": 0,
+		"paramScore": 0,
+		"RelateBuff": 0,
+		"paramStr": "OWEndlessSPRecoverUp_Medium",
+		"iconPath": "SpriteOutput/ItemsIcon/El_Item_70001",
+		"smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70001",
+		"descriptionShort": {
+			"hash": -417257164
+		},
+		"description": {
+			"hash": 1391497137
+		},
+		"buffDesc": {
+			"hash": 1978585572
+		},
+		"debuffDesc": {
+			"hash": 1978585572
+		},
+		"showHint": "EL_HINT_150008",
+		"DataImpl": {},
+		"ID": 150008
+	},
+	{
+		"name": {
+			"hash": 1428489025
+		},
+		"propName": "",
+		"indicatorOffset": 0,
+		"rarity": 1,
+		"type": 2,
+		"maxUseRange": 0,
+		"minUseRange": 0,
+		"paramScore": 0,
+		"RelateBuff": 0,
+		"paramStr": "OWEndlessSPRecoverUp_Large",
+		"iconPath": "SpriteOutput/ItemsIcon/El_Item_70001",
+		"smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70001",
+		"descriptionShort": {
+			"hash": -417257163
+		},
+		"description": {
+			"hash": 1391497138
+		},
+		"buffDesc": {
+			"hash": 1978585573
+		},
+		"debuffDesc": {
+			"hash": 1978585573
+		},
+		"showHint": "EL_HINT_150009",
+		"DataImpl": {},
+		"ID": 150009
+	},
+	{
+		"name": {
+			"hash": 1428489047
+		},
+		"propName": "",
+		"indicatorOffset": 0,
+		"rarity": 1,
+		"type": 1,
+		"maxUseRange": 3,
+		"minUseRange": 3,
+		"paramScore": 0,
+		"RelateBuff": 0,
+		"paramStr": "",
+		"iconPath": "SpriteOutput/ItemsIcon/El_Item_70030",
+		"smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70030",
+		"descriptionShort": {
+			"hash": -417257141
+		},
+		"description": {
+			"hash": 1391497160
+		},
+		"buffDesc": {
+			"hash": 1978585595
+		},
+		"debuffDesc": {
+			"hash": 1978585595
+		},
+		"showHint": "EL_HINT_150010",
+		"DataImpl": {},
+		"ID": 150010
+	},
+	{
+		"name": {
+			"hash": 1428489078
+		},
+		"propName": "",
+		"indicatorOffset": 0,
+		"rarity": 1,
+		"type": 5,
+		"maxUseRange": 0,
+		"minUseRange": 0,
+		"paramScore": 0,
+		"RelateBuff": 0,
+		"paramStr": "",
+		"iconPath": "SpriteOutput/ItemsIcon/El_Item_70032",
+		"smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70032",
+		"descriptionShort": {
+			"hash": -417257110
+		},
+		"description": {
+			"hash": 1391497191
+		},
+		"buffDesc": {
+			"hash": 1978585626
+		},
+		"debuffDesc": {
+			"hash": 1978585626
+		},
+		"showHint": "EL_HINT_150020",
+		"DataImpl": {},
+		"ID": 150020
+	},
+	{
+		"name": {
+			"hash": 1428489079
+		},
+		"propName": "OWEndless_Trap_Airplane_1",
+		"indicatorOffset": 4.5,
+		"rarity": 1,
+		"type": 3,
+		"maxUseRange": 0,
+		"minUseRange": 0,
+		"paramScore": 0,
+		"RelateBuff": 150031,
+		"paramStr": "",
+		"iconPath": "SpriteOutput/ItemsIcon/El_Item_70023",
+		"smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70023",
+		"descriptionShort": {
+			"hash": -417257109
+		},
+		"description": {
+			"hash": 1391497192
+		},
+		"buffDesc": {
+			"hash": 1978585627
+		},
+		"debuffDesc": {
+			"hash": 1978585627
+		},
+		"showHint": "EL_HINT_150021",
+		"DataImpl": {},
+		"ID": 150021
+	},
+	{
+		"name": {
+			"hash": 1428489080
+		},
+		"propName": "OWEndless_Trap_Airplane_2",
+		"indicatorOffset": 4.5,
+		"rarity": 1,
+		"type": 3,
+		"maxUseRange": 0,
+		"minUseRange": 0,
+		"paramScore": 0,
+		"RelateBuff": 150032,
+		"paramStr": "",
+		"iconPath": "SpriteOutput/ItemsIcon/El_Item_70022",
+		"smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70022",
+		"descriptionShort": {
+			"hash": -417257108
+		},
+		"description": {
+			"hash": 1391497193
+		},
+		"buffDesc": {
+			"hash": 1978585628
+		},
+		"debuffDesc": {
+			"hash": 1978585628
+		},
+		"showHint": "EL_HINT_150022",
+		"DataImpl": {},
+		"ID": 150022
+	},
+	{
+		"name": {
+			"hash": 1428489081
+		},
+		"propName": "OWEndless_Trap_Airplane_3",
+		"indicatorOffset": 4.5,
+		"rarity": 1,
+		"type": 3,
+		"maxUseRange": 0,
+		"minUseRange": 0,
+		"paramScore": 0,
+		"RelateBuff": 150033,
+		"paramStr": "",
+		"iconPath": "SpriteOutput/ItemsIcon/El_Item_70024",
+		"smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70024",
+		"descriptionShort": {
+			"hash": -417257107
+		},
+		"description": {
+			"hash": 1391497194
+		},
+		"buffDesc": {
+			"hash": 1978585629
+		},
+		"debuffDesc": {
+			"hash": 1978585629
+		},
+		"showHint": "EL_HINT_150023",
+		"DataImpl": {},
+		"ID": 150023
+	},
+	{
+		"name": {
+			"hash": 1428489082
+		},
+		"propName": "OWEndless_Trap_Airplane_4",
+		"indicatorOffset": 4.5,
+		"rarity": 1,
+		"type": 3,
+		"maxUseRange": 0,
+		"minUseRange": 0,
+		"paramScore": 0,
+		"RelateBuff": 150034,
+		"paramStr": "",
+		"iconPath": "SpriteOutput/ItemsIcon/El_Item_70025",
+		"smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70025",
+		"descriptionShort": {
+			"hash": -417257106
+		},
+		"description": {
+			"hash": 1391497195
+		},
+		"buffDesc": {
+			"hash": 1978585630
+		},
+		"debuffDesc": {
+			"hash": 1978585630
+		},
+		"showHint": "EL_HINT_150024",
+		"DataImpl": {},
+		"ID": 150024
+	},
+	{
+		"name": {
+			"hash": 1428489083
+		},
+		"propName": "OWEndless_Trap_RotateLaser",
+		"indicatorOffset": 3.5,
+		"rarity": 1,
+		"type": 3,
+		"maxUseRange": 0,
+		"minUseRange": 0,
+		"paramScore": 0,
+		"RelateBuff": 150035,
+		"paramStr": "",
+		"iconPath": "SpriteOutput/ItemsIcon/El_Item_70029",
+		"smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70029",
+		"descriptionShort": {
+			"hash": -417257105
+		},
+		"description": {
+			"hash": 1391497196
+		},
+		"buffDesc": {
+			"hash": 1978585631
+		},
+		"debuffDesc": {
+			"hash": 1978585631
+		},
+		"showHint": "EL_HINT_150025",
+		"DataImpl": {},
+		"ID": 150025
+	},
+	{
+		"name": {
+			"hash": 1428489084
+		},
+		"propName": "OWEndless_Trap_HonkaiCore",
+		"indicatorOffset": 3.5,
+		"rarity": 1,
+		"type": 3,
+		"maxUseRange": 0,
+		"minUseRange": 0,
+		"paramScore": 0,
+		"RelateBuff": 150036,
+		"paramStr": "",
+		"iconPath": "SpriteOutput/ItemsIcon/El_Item_70026",
+		"smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70026",
+		"descriptionShort": {
+			"hash": -417257104
+		},
+		"description": {
+			"hash": 1391497197
+		},
+		"buffDesc": {
+			"hash": 1978585632
+		},
+		"debuffDesc": {
+			"hash": 1978585632
+		},
+		"showHint": "EL_HINT_150026",
+		"DataImpl": {},
+		"ID": 150026
+	},
+	{
+		"name": {
+			"hash": 1428489085
+		},
+		"propName": "OWEndless_Trap_Interfere_1",
+		"indicatorOffset": 3.5,
+		"rarity": 1,
+		"type": 3,
+		"maxUseRange": 0,
+		"minUseRange": 0,
+		"paramScore": 0,
+		"RelateBuff": 150037,
+		"paramStr": "",
+		"iconPath": "SpriteOutput/ItemsIcon/El_Item_70027",
+		"smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70027",
+		"descriptionShort": {
+			"hash": -417257103
+		},
+		"description": {
+			"hash": 1391497198
+		},
+		"buffDesc": {
+			"hash": 1978585633
+		},
+		"debuffDesc": {
+			"hash": 1978585633
+		},
+		"showHint": "EL_HINT_150027",
+		"DataImpl": {},
+		"ID": 150027
+	},
+	{
+		"name": {
+			"hash": 1428489086
+		},
+		"propName": "OWEndless_Trap_Interfere_2",
+		"indicatorOffset": 3.5,
+		"rarity": 1,
+		"type": 3,
+		"maxUseRange": 0,
+		"minUseRange": 0,
+		"paramScore": 0,
+		"RelateBuff": 150038,
+		"paramStr": "",
+		"iconPath": "SpriteOutput/ItemsIcon/El_Item_70028",
+		"smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70028",
+		"descriptionShort": {
+			"hash": -417257102
+		},
+		"description": {
+			"hash": 1391497199
+		},
+		"buffDesc": {
+			"hash": 1978585634
+		},
+		"debuffDesc": {
+			"hash": 1978585634
+		},
+		"showHint": "EL_HINT_150028",
+		"DataImpl": {},
+		"ID": 150028
+	},
+	{
+		"name": {
+			"hash": 1428489110
+		},
+		"propName": "",
+		"indicatorOffset": 0,
+		"rarity": 1,
+		"type": 6,
+		"maxUseRange": 0,
+		"minUseRange": 0,
+		"paramScore": 0,
+		"RelateBuff": 0,
+		"paramStr": "OWEndless_Trap_Airplane_1_Buff",
+		"iconPath": "SpriteOutput/ItemsIcon/El_Item_70023",
+		"smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70023",
+		"descriptionShort": {
+			"hash": -417257078
+		},
+		"description": {
+			"hash": 1391497223
+		},
+		"buffDesc": {
+			"hash": 1978585658
+		},
+		"debuffDesc": {
+			"hash": 1978585658
+		},
+		"showHint": "EL_HINT_150031",
+		"DataImpl": {},
+		"ID": 150031
+	},
+	{
+		"name": {
+			"hash": 1428489111
+		},
+		"propName": "",
+		"indicatorOffset": 0,
+		"rarity": 1,
+		"type": 6,
+		"maxUseRange": 0,
+		"minUseRange": 0,
+		"paramScore": 0,
+		"RelateBuff": 0,
+		"paramStr": "OWEndless_Trap_Airplane_2_Buff",
+		"iconPath": "SpriteOutput/ItemsIcon/El_Item_70022",
+		"smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70022",
+		"descriptionShort": {
+			"hash": -417257077
+		},
+		"description": {
+			"hash": 1391497224
+		},
+		"buffDesc": {
+			"hash": 1978585659
+		},
+		"debuffDesc": {
+			"hash": 1978585659
+		},
+		"showHint": "EL_HINT_150032",
+		"DataImpl": {},
+		"ID": 150032
+	},
+	{
+		"name": {
+			"hash": 1428489112
+		},
+		"propName": "",
+		"indicatorOffset": 0,
+		"rarity": 1,
+		"type": 6,
+		"maxUseRange": 0,
+		"minUseRange": 0,
+		"paramScore": 0,
+		"RelateBuff": 0,
+		"paramStr": "OWEndless_Trap_Airplane_3_Buff",
+		"iconPath": "SpriteOutput/ItemsIcon/El_Item_70024",
+		"smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70024",
+		"descriptionShort": {
+			"hash": -417257076
+		},
+		"description": {
+			"hash": 1391497225
+		},
+		"buffDesc": {
+			"hash": 1978585660
+		},
+		"debuffDesc": {
+			"hash": 1978585660
+		},
+		"showHint": "EL_HINT_150033",
+		"DataImpl": {},
+		"ID": 150033
+	},
+	{
+		"name": {
+			"hash": 1428489113
+		},
+		"propName": "",
+		"indicatorOffset": 0,
+		"rarity": 1,
+		"type": 6,
+		"maxUseRange": 0,
+		"minUseRange": 0,
+		"paramScore": 0,
+		"RelateBuff": 0,
+		"paramStr": "OWEndless_Trap_Airplane_4_Buff",
+		"iconPath": "SpriteOutput/ItemsIcon/El_Item_70025",
+		"smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70025",
+		"descriptionShort": {
+			"hash": -417257075
+		},
+		"description": {
+			"hash": 1391497226
+		},
+		"buffDesc": {
+			"hash": 1978585661
+		},
+		"debuffDesc": {
+			"hash": 1978585661
+		},
+		"showHint": "EL_HINT_150034",
+		"DataImpl": {},
+		"ID": 150034
+	},
+	{
+		"name": {
+			"hash": 1428489114
+		},
+		"propName": "",
+		"indicatorOffset": 0,
+		"rarity": 1,
+		"type": 6,
+		"maxUseRange": 0,
+		"minUseRange": 0,
+		"paramScore": 0,
+		"RelateBuff": 0,
+		"paramStr": "OWEndless_Trap_RotateLaser_Buff",
+		"iconPath": "SpriteOutput/ItemsIcon/El_Item_70029",
+		"smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70029",
+		"descriptionShort": {
+			"hash": -417257074
+		},
+		"description": {
+			"hash": 1391497227
+		},
+		"buffDesc": {
+			"hash": 1978585662
+		},
+		"debuffDesc": {
+			"hash": 1978585662
+		},
+		"showHint": "EL_HINT_150035",
+		"DataImpl": {},
+		"ID": 150035
+	},
+	{
+		"name": {
+			"hash": 1428489115
+		},
+		"propName": "",
+		"indicatorOffset": 0,
+		"rarity": 1,
+		"type": 6,
+		"maxUseRange": 0,
+		"minUseRange": 0,
+		"paramScore": 0,
+		"RelateBuff": 0,
+		"paramStr": "OWEndless_Trap_HonkaiCore_Buff",
+		"iconPath": "SpriteOutput/ItemsIcon/El_Item_70026",
+		"smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70026",
+		"descriptionShort": {
+			"hash": -417257073
+		},
+		"description": {
+			"hash": 1391497228
+		},
+		"buffDesc": {
+			"hash": 1978585663
+		},
+		"debuffDesc": {
+			"hash": 1978585663
+		},
+		"showHint": "EL_HINT_150036",
+		"DataImpl": {},
+		"ID": 150036
+	},
+	{
+		"name": {
+			"hash": 1428489116
+		},
+		"propName": "",
+		"indicatorOffset": 0,
+		"rarity": 1,
+		"type": 6,
+		"maxUseRange": 0,
+		"minUseRange": 0,
+		"paramScore": 0,
+		"RelateBuff": 0,
+		"paramStr": "OWEndless_Trap_Interfere_1_Buff",
+		"iconPath": "SpriteOutput/ItemsIcon/El_Item_70027",
+		"smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70027",
+		"descriptionShort": {
+			"hash": -417257072
+		},
+		"description": {
+			"hash": 1391497229
+		},
+		"buffDesc": {
+			"hash": 1978585664
+		},
+		"debuffDesc": {
+			"hash": 1978585664
+		},
+		"showHint": "EL_HINT_150037",
+		"DataImpl": {},
+		"ID": 150037
+	},
+	{
+		"name": {
+			"hash": 1428489117
+		},
+		"propName": "",
+		"indicatorOffset": 0,
+		"rarity": 1,
+		"type": 6,
+		"maxUseRange": 0,
+		"minUseRange": 0,
+		"paramScore": 0,
+		"RelateBuff": 0,
+		"paramStr": "OWEndless_Trap_Interfere_2_Buff",
+		"iconPath": "SpriteOutput/ItemsIcon/El_Item_70028",
+		"smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70028",
+		"descriptionShort": {
+			"hash": -417257071
+		},
+		"description": {
+			"hash": 1391497230
+		},
+		"buffDesc": {
+			"hash": 1978585665
+		},
+		"debuffDesc": {
+			"hash": 1978585665
+		},
+		"showHint": "EL_HINT_150038",
+		"DataImpl": {},
+		"ID": 150038
+	},
+	{
+		"name": {
+			"hash": 1428489140
+		},
+		"propName": "",
+		"indicatorOffset": 0,
+		"rarity": 1,
+		"type": 4,
+		"maxUseRange": 0,
+		"minUseRange": 0,
+		"paramScore": 0,
+		"RelateBuff": 0,
+		"paramStr": "OWEndless_Trap_Dispose",
+		"iconPath": "SpriteOutput/ItemsIcon/El_Item_70031",
+		"smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70031",
+		"descriptionShort": {
+			"hash": -417257048
+		},
+		"description": {
+			"hash": 1391497253
+		},
+		"buffDesc": {
+			"hash": 1978585688
+		},
+		"debuffDesc": {
+			"hash": 1978585688
+		},
+		"showHint": "EL_HINT_150040",
+		"DataImpl": {},
+		"ID": 150040
+	}
+]

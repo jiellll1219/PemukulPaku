@@ -1,0 +1,495 @@
+[
+	{
+		"priority": 2,
+		"isHide": false,
+		"buffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_DLCVulnerable",
+		"buffName": {
+			"hash": 1876680852
+		},
+		"buffDesc": {
+			"hash": -1807050598
+		},
+		"showType": 0,
+		"isDisplayed1": false,
+		"buffSustainEffectPath": "",
+		"nodeName": "",
+		"DataImpl": {},
+		"buffKey": "AddableDotDamage"
+	},
+	{
+		"priority": 7,
+		"isHide": false,
+		"buffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_MonoAtk",
+		"buffName": {
+			"hash": -387857745
+		},
+		"buffDesc": {
+			"hash": -1400729291
+		},
+		"showType": 1,
+		"isDisplayed1": false,
+		"buffSustainEffectPath": "",
+		"nodeName": "",
+		"DataImpl": {},
+		"buffKey": "AddableIncreaseTakeDamage"
+	},
+	{
+		"priority": 3,
+		"isHide": false,
+		"buffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_Bronya_CH_Help_Tag",
+		"buffName": {
+			"hash": 1862498137
+		},
+		"buffDesc": {
+			"hash": 638659859
+		},
+		"showType": 0,
+		"isDisplayed1": true,
+		"buffSustainEffectPath": "",
+		"nodeName": "",
+		"DataImpl": {},
+		"buffKey": "BronyaPassive"
+	},
+	{
+		"priority": 1,
+		"isHide": false,
+		"buffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_EnergyShield",
+		"buffName": {
+			"hash": 1983381984
+		},
+		"buffDesc": {
+			"hash": 1105586534
+		},
+		"showType": 0,
+		"isDisplayed1": false,
+		"buffSustainEffectPath": "UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxShield",
+		"nodeName": "White",
+		"DataImpl": {},
+		"buffKey": "CountableShield"
+	},
+	{
+		"priority": 3,
+		"isHide": false,
+		"buffIcon": "SpriteOutput/InLevel/BuffIcon/Rogue_Buff_Twins_BS_0_3",
+		"buffName": {
+			"hash": -1978263162
+		},
+		"buffDesc": {
+			"hash": -1879194484
+		},
+		"showType": 0,
+		"isDisplayed1": false,
+		"buffSustainEffectPath": "",
+		"nodeName": "",
+		"DataImpl": {},
+		"buffKey": "DeltaPassive"
+	},
+	{
+		"priority": 2,
+		"isHide": false,
+		"buffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_Bleed",
+		"buffName": {
+			"hash": 1942427713
+		},
+		"buffDesc": {
+			"hash": -700925189
+		},
+		"showType": 0,
+		"isDisplayed1": false,
+		"buffSustainEffectPath": "",
+		"nodeName": "",
+		"DataImpl": {},
+		"buffKey": "DotDamage"
+	},
+	{
+		"priority": 2,
+		"isHide": true,
+		"buffIcon": "",
+		"buffName": {
+			"hash": 0
+		},
+		"buffDesc": {
+			"hash": 0
+		},
+		"showType": 0,
+		"isDisplayed1": false,
+		"buffSustainEffectPath": "",
+		"nodeName": "",
+		"DataImpl": {},
+		"buffKey": "DynamicDifficulty"
+	},
+	{
+		"priority": 2,
+		"isHide": true,
+		"buffIcon": "",
+		"buffName": {
+			"hash": 0
+		},
+		"buffDesc": {
+			"hash": 0
+		},
+		"showType": 0,
+		"isDisplayed1": false,
+		"buffSustainEffectPath": "",
+		"nodeName": "",
+		"DataImpl": {},
+		"buffKey": "EnemyWaveChange"
+	},
+	{
+		"priority": 8,
+		"isHide": false,
+		"buffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_MonoHP",
+		"buffName": {
+			"hash": -2102936093
+		},
+		"buffDesc": {
+			"hash": -1491700247
+		},
+		"showType": 1,
+		"isDisplayed1": false,
+		"buffSustainEffectPath": "",
+		"nodeName": "",
+		"DataImpl": {},
+		"buffKey": "IncreaseConfigHP"
+	},
+	{
+		"priority": 8,
+		"isHide": false,
+		"buffIcon": "",
+		"buffName": {
+			"hash": 248867607
+		},
+		"buffDesc": {
+			"hash": 961321553
+		},
+		"showType": 1,
+		"isDisplayed1": false,
+		"buffSustainEffectPath": "",
+		"nodeName": "",
+		"DataImpl": {},
+		"buffKey": "IncreaseDefence"
+	},
+	{
+		"priority": 8,
+		"isHide": false,
+		"buffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_MonoAtk",
+		"buffName": {
+			"hash": 2090255140
+		},
+		"buffDesc": {
+			"hash": -1488993110
+		},
+		"showType": 1,
+		"isDisplayed1": false,
+		"buffSustainEffectPath": "",
+		"nodeName": "",
+		"DataImpl": {},
+		"buffKey": "IncreaseDirAtk"
+	},
+	{
+		"priority": 8,
+		"isHide": false,
+		"buffIcon": "SpriteOutput/InLevel/BuffIcon/BuffIconBuff_Robot_001_Ultra02",
+		"buffName": {
+			"hash": -1592698940
+		},
+		"buffDesc": {
+			"hash": -981463094
+		},
+		"showType": 1,
+		"isDisplayed1": false,
+		"buffSustainEffectPath": "",
+		"nodeName": "",
+		"DataImpl": {},
+		"buffKey": "IncreaseMagicAtk"
+	},
+	{
+		"priority": 8,
+		"isHide": false,
+		"buffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_ChargeAttackUp",
+		"buffName": {
+			"hash": -1861877328
+		},
+		"buffDesc": {
+			"hash": -1146158282
+		},
+		"showType": 1,
+		"isDisplayed1": false,
+		"buffSustainEffectPath": "",
+		"nodeName": "",
+		"DataImpl": {},
+		"buffKey": "IncreasePhyAtk"
+	},
+	{
+		"priority": 8,
+		"isHide": false,
+		"buffIcon": "",
+		"buffName": {
+			"hash": -1807529917
+		},
+		"buffDesc": {
+			"hash": -1091810871
+		},
+		"showType": 1,
+		"isDisplayed1": false,
+		"buffSustainEffectPath": "",
+		"nodeName": "",
+		"DataImpl": {},
+		"buffKey": "IncreaseResist"
+	},
+	{
+		"priority": 7,
+		"isHide": false,
+		"buffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_MonoAtk",
+		"buffName": {
+			"hash": -387857745
+		},
+		"buffDesc": {
+			"hash": -1400729291
+		},
+		"showType": 2,
+		"isDisplayed1": false,
+		"buffSustainEffectPath": "",
+		"nodeName": "",
+		"DataImpl": {},
+		"buffKey": "IncreaseTakeDamage"
+	},
+	{
+		"priority": 2,
+		"isHide": true,
+		"buffIcon": "",
+		"buffName": {
+			"hash": 0
+		},
+		"buffDesc": {
+			"hash": 0
+		},
+		"showType": 0,
+		"isDisplayed1": false,
+		"buffSustainEffectPath": "",
+		"nodeName": "",
+		"DataImpl": {},
+		"buffKey": "MuteLethalDamage"
+	},
+	{
+		"priority": 1,
+		"isHide": false,
+		"buffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_SuperShield",
+		"buffName": {
+			"hash": -126182463
+		},
+		"buffDesc": {
+			"hash": -1350020741
+		},
+		"showType": 1,
+		"isDisplayed1": false,
+		"buffSustainEffectPath": "UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxShield",
+		"nodeName": "Purple",
+		"DataImpl": {},
+		"buffKey": "MuteNormalAtk"
+	},
+	{
+		"priority": 7,
+		"isHide": false,
+		"buffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_ElementFit",
+		"buffName": {
+			"hash": -326589340
+		},
+		"buffDesc": {
+			"hash": 385864606
+		},
+		"showType": 0,
+		"isDisplayed1": false,
+		"buffSustainEffectPath": "",
+		"nodeName": "",
+		"DataImpl": {},
+		"buffKey": "RandomPolishGem"
+	},
+	{
+		"priority": 8,
+		"isHide": false,
+		"buffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_Fragile",
+		"buffName": {
+			"hash": -1471469133
+		},
+		"buffDesc": {
+			"hash": 1599659885
+		},
+		"showType": 2,
+		"isDisplayed1": false,
+		"buffSustainEffectPath": "",
+		"nodeName": "",
+		"DataImpl": {},
+		"buffKey": "ReduceDefence"
+	},
+	{
+		"priority": 8,
+		"isHide": false,
+		"buffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_Weak",
+		"buffName": {
+			"hash": -597638904
+		},
+		"buffDesc": {
+			"hash": -498570226
+		},
+		"showType": 2,
+		"isDisplayed1": false,
+		"buffSustainEffectPath": "",
+		"nodeName": "",
+		"DataImpl": {},
+		"buffKey": "ReduceDirAtk"
+	},
+	{
+		"priority": 8,
+		"isHide": false,
+		"buffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_EnemyWeek",
+		"buffName": {
+			"hash": 911436968
+		},
+		"buffDesc": {
+			"hash": 1627156014
+		},
+		"showType": 2,
+		"isDisplayed1": false,
+		"buffSustainEffectPath": "",
+		"nodeName": "",
+		"DataImpl": {},
+		"buffKey": "ReduceMagicAtk"
+	},
+	{
+		"priority": 8,
+		"isHide": false,
+		"buffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_AttackSpeedDown",
+		"buffName": {
+			"hash": -254804076
+		},
+		"buffDesc": {
+			"hash": -155735398
+		},
+		"showType": 2,
+		"isDisplayed1": false,
+		"buffSustainEffectPath": "",
+		"nodeName": "",
+		"DataImpl": {},
+		"buffKey": "ReducePhyAtk"
+	},
+	{
+		"priority": 8,
+		"isHide": true,
+		"buffIcon": "SpriteOutput/InLevel/EliteIcon/Buff_RabbitEars",
+		"buffName": {
+			"hash": -200456665
+		},
+		"buffDesc": {
+			"hash": -101387987
+		},
+		"showType": 2,
+		"isDisplayed1": false,
+		"buffSustainEffectPath": "",
+		"nodeName": "",
+		"DataImpl": {},
+		"buffKey": "ReduceResist"
+	},
+	{
+		"priority": 7,
+		"isHide": false,
+		"buffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_Weak",
+		"buffName": {
+			"hash": 905064083
+		},
+		"buffDesc": {
+			"hash": 1516299929
+		},
+		"showType": 2,
+		"isDisplayed1": false,
+		"buffSustainEffectPath": "",
+		"nodeName": "",
+		"DataImpl": {},
+		"buffKey": "ReduceTakeDamage"
+	},
+	{
+		"priority": 1,
+		"isHide": false,
+		"buffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_TM_01",
+		"buffName": {
+			"hash": 189075091
+		},
+		"buffDesc": {
+			"hash": -1747391795
+		},
+		"showType": 1,
+		"isDisplayed1": false,
+		"buffSustainEffectPath": "",
+		"nodeName": "",
+		"DataImpl": {},
+		"buffKey": "RestoreLife"
+	},
+	{
+		"priority": 3,
+		"isHide": false,
+		"buffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_RitaC5_Rose",
+		"buffName": {
+			"hash": 921461644
+		},
+		"buffDesc": {
+			"hash": -1015005242
+		},
+		"showType": 0,
+		"isDisplayed1": false,
+		"buffSustainEffectPath": "",
+		"nodeName": "",
+		"DataImpl": {},
+		"buffKey": "RitaPassive"
+	},
+	{
+		"priority": 3,
+		"isHide": false,
+		"buffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_Sakura_NJ_NinjiaSignBuff",
+		"buffName": {
+			"hash": 259731049
+		},
+		"buffDesc": {
+			"hash": -964107229
+		},
+		"showType": 0,
+		"isDisplayed1": true,
+		"buffSustainEffectPath": "",
+		"nodeName": "",
+		"DataImpl": {},
+		"buffKey": "SakuraPassive"
+	},
+	{
+		"priority": 3,
+		"isHide": false,
+		"buffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_RabbitEars",
+		"buffName": {
+			"hash": -90323151
+		},
+		"buffDesc": {
+			"hash": -1314161429
+		},
+		"showType": 0,
+		"isDisplayed1": false,
+		"buffSustainEffectPath": "",
+		"nodeName": "",
+		"DataImpl": {},
+		"buffKey": "TeririPassive"
+	},
+	{
+		"priority": 2,
+		"isHide": false,
+		"buffIcon": "SpriteOutput/InLevel/EliteIcon/GodWar_Elite_Vampire",
+		"buffName": {
+			"hash": -473541513
+		},
+		"buffDesc": {
+			"hash": -1915396687
+		},
+		"showType": 1,
+		"isDisplayed1": false,
+		"buffSustainEffectPath": "",
+		"nodeName": "",
+		"DataImpl": {},
+		"buffKey": "Vampire"
+	}
+]

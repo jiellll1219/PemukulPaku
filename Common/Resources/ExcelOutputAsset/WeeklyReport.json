@@ -1,0 +1,38 @@
+[
+	{
+		"tabName": "weeklyreport_maintab_self_summary",
+		"priority": 2,
+		"levelmax": 88,
+		"levelmin": 40,
+		"beginTime": "2020-06-01 19:00:00",
+		"DataImpl": {},
+		"ID": 1
+	},
+	{
+		"tabName": "weeklyreport_maintab_self_exam",
+		"priority": 3,
+		"levelmax": 88,
+		"levelmin": 30,
+		"beginTime": "2020-06-01 10:00:00",
+		"DataImpl": {},
+		"ID": 2
+	},
+	{
+		"tabName": "weeklyreport_maintab_recomm_avatar",
+		"priority": 4,
+		"levelmax": 88,
+		"levelmin": 40,
+		"beginTime": "2025-06-01 19:00:00",
+		"DataImpl": {},
+		"ID": 3
+	},
+	{
+		"tabName": "weeklyreport_maintab_recomm_player",
+		"priority": 5,
+		"levelmax": 88,
+		"levelmin": 40,
+		"beginTime": "2025-06-01 19:00:00",
+		"DataImpl": {},
+		"ID": 4
+	}
+]

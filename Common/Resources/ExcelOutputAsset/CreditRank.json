@@ -1,0 +1,42 @@
+[
+	{
+		"RankName": "CreditRankName_1",
+		"RankColor": "#00C3FFFF",
+		"ShowWarningHint": 0,
+		"WarningHint": "",
+		"MinScore": 90,
+		"MaxScore": 100,
+		"DataImpl": {},
+		"RankID": 1
+	},
+	{
+		"RankName": "CreditRankName_2",
+		"RankColor": "#FFDD3EFF",
+		"ShowWarningHint": 0,
+		"WarningHint": "",
+		"MinScore": 75,
+		"MaxScore": 89,
+		"DataImpl": {},
+		"RankID": 2
+	},
+	{
+		"RankName": "CreditRankName_3",
+		"RankColor": "#FF8080FF",
+		"ShowWarningHint": 1,
+		"WarningHint": "WarningHintCreditRank_3",
+		"MinScore": 60,
+		"MaxScore": 74,
+		"DataImpl": {},
+		"RankID": 3
+	},
+	{
+		"RankName": "CreditRankName_4",
+		"RankColor": "#FF8080FF",
+		"ShowWarningHint": 1,
+		"WarningHint": "WarningHintCreditRank_4",
+		"MinScore": 0,
+		"MaxScore": 59,
+		"DataImpl": {},
+		"RankID": 4
+	}
+]

@@ -1,0 +1,29 @@
+[
+	{
+		"Type": 1,
+		"MapID": 801,
+		"SellerImagePath": "SpriteOutput/Rogue/GodCloseUp/RougeGod_VillV01",
+		"ChangePhase": 22,
+		"ChangePhaseV2": 31,
+		"TabDesc": "ChapterOWShopLinkTab_02",
+		"CurrencyShowList": [
+			123002
+		],
+		"DataImpl": {},
+		"ShopID": 61
+	},
+	{
+		"Type": 2,
+		"MapID": 801,
+		"SellerImagePath": "SpriteOutput/Rogue/GodCloseUp/RougeGod_Pardofelis",
+		"ChangePhase": 20,
+		"ChangePhaseV2": 31,
+		"TabDesc": "ChapterOWShopLinkTab_01",
+		"CurrencyShowList": [
+			123002,
+			123012
+		],
+		"DataImpl": {},
+		"ShopID": 69
+	}
+]

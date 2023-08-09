@@ -1,0 +1,1103 @@
+[
+	{
+		"stateType": 1,
+		"stateName": {
+			"hash": 1717405365
+		},
+		"stateDes": {
+			"hash": 600478988
+		},
+		"stateIcon": "",
+		"IsUnique": false,
+		"canDestroy": true,
+		"cleanTime": 1,
+		"countdown": 0,
+		"cleanMethod": 1,
+		"nextState": 101,
+		"isMovable": false,
+		"isDroppable": false,
+		"triggerSkill": [],
+		"effectEnterAnimationName": "MatchThreeMainBattleRowFrozenLoop",
+		"effectExitAnimationName": "MatchThreeMainBattleRowFrozenOut",
+		"isPlayRootExitAnimation": false,
+		"exitEffectPath": "",
+		"effectPath": [
+			"UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxFrozen"
+		],
+		"flyableEffectPath": "UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxLineWhiteS",
+		"showInfo": true,
+		"showNewInfo": true,
+		"explodePath": "",
+		"enterAudioPath": "Activity_6_6_MatchThree_Frozen",
+		"exitAudioPath": "Activity_6_6_MatchThree_Frozen_Clear",
+		"DataImpl": {},
+		"stateID": 1
+	},
+	{
+		"stateType": 1,
+		"stateName": {
+			"hash": 1717405366
+		},
+		"stateDes": {
+			"hash": 600478989
+		},
+		"stateIcon": "",
+		"IsUnique": false,
+		"canDestroy": true,
+		"cleanTime": 1,
+		"countdown": 0,
+		"cleanMethod": 1,
+		"nextState": 0,
+		"isMovable": true,
+		"isDroppable": true,
+		"triggerSkill": [
+			{
+				"TriggerType": 4,
+				"SkillId": 51
+			}
+		],
+		"effectEnterAnimationName": "",
+		"effectExitAnimationName": "",
+		"isPlayRootExitAnimation": false,
+		"exitEffectPath": "",
+		"effectPath": [
+			"UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxFire"
+		],
+		"flyableEffectPath": "UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxLineRedS",
+		"showInfo": true,
+		"showNewInfo": true,
+		"explodePath": "",
+		"enterAudioPath": "Activity_6_6_MatchThree_Burn",
+		"exitAudioPath": "Activity_6_6_MatchThree_Burn_Clear",
+		"DataImpl": {},
+		"stateID": 2
+	},
+	{
+		"stateType": 1,
+		"stateName": {
+			"hash": 1717405367
+		},
+		"stateDes": {
+			"hash": 600478990
+		},
+		"stateIcon": "",
+		"IsUnique": false,
+		"canDestroy": true,
+		"cleanTime": 1,
+		"countdown": 0,
+		"cleanMethod": 1,
+		"nextState": 0,
+		"isMovable": true,
+		"isDroppable": true,
+		"triggerSkill": [
+			{
+				"TriggerType": 4,
+				"SkillId": 52
+			}
+		],
+		"effectEnterAnimationName": "",
+		"effectExitAnimationName": "",
+		"isPlayRootExitAnimation": false,
+		"exitEffectPath": "",
+		"effectPath": [
+			"UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxEvilSlime"
+		],
+		"flyableEffectPath": "UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxLinePurpleS",
+		"showInfo": true,
+		"showNewInfo": true,
+		"explodePath": "",
+		"enterAudioPath": "Activity_6_6_MatchThree_Slime",
+		"exitAudioPath": "Activity_6_6_MatchThree_Slime_Clear",
+		"DataImpl": {},
+		"stateID": 3
+	},
+	{
+		"stateType": 1,
+		"stateName": {
+			"hash": 1717405368
+		},
+		"stateDes": {
+			"hash": 600478991
+		},
+		"stateIcon": "",
+		"IsUnique": false,
+		"canDestroy": true,
+		"cleanTime": 1,
+		"countdown": 0,
+		"cleanMethod": 1,
+		"nextState": 0,
+		"isMovable": true,
+		"isDroppable": true,
+		"triggerSkill": [],
+		"effectEnterAnimationName": "",
+		"effectExitAnimationName": "",
+		"isPlayRootExitAnimation": false,
+		"exitEffectPath": "",
+		"effectPath": [],
+		"flyableEffectPath": "",
+		"showInfo": true,
+		"showNewInfo": true,
+		"explodePath": "",
+		"enterAudioPath": "",
+		"exitAudioPath": "",
+		"DataImpl": {},
+		"stateID": 4
+	},
+	{
+		"stateType": 1,
+		"stateName": {
+			"hash": 1717405369
+		},
+		"stateDes": {
+			"hash": 600478992
+		},
+		"stateIcon": "",
+		"IsUnique": false,
+		"canDestroy": true,
+		"cleanTime": 1,
+		"countdown": 3,
+		"cleanMethod": 1,
+		"nextState": 0,
+		"isMovable": true,
+		"isDroppable": true,
+		"triggerSkill": [
+			{
+				"TriggerType": 2,
+				"SkillId": 66
+			},
+			{
+				"TriggerType": 3,
+				"SkillId": 67
+			}
+		],
+		"effectEnterAnimationName": "",
+		"effectExitAnimationName": "",
+		"isPlayRootExitAnimation": false,
+		"exitEffectPath": "",
+		"effectPath": [
+			"UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxFog"
+		],
+		"flyableEffectPath": "UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxLineGreenS",
+		"showInfo": true,
+		"showNewInfo": true,
+		"explodePath": "",
+		"enterAudioPath": "Activity_6_6_MatchThree_PoisongGas",
+		"exitAudioPath": "Activity_6_6_MatchThree_PoisongGas_Clear",
+		"DataImpl": {},
+		"stateID": 5
+	},
+	{
+		"stateType": 2,
+		"stateName": {
+			"hash": 1717405370
+		},
+		"stateDes": {
+			"hash": 600478993
+		},
+		"stateIcon": "SpriteOutput/MatchThree/Obstacle/Obstacle13",
+		"IsUnique": false,
+		"canDestroy": false,
+		"cleanTime": 1,
+		"countdown": 0,
+		"cleanMethod": 3,
+		"nextState": 0,
+		"isMovable": false,
+		"isDroppable": true,
+		"triggerSkill": [],
+		"effectEnterAnimationName": "",
+		"effectExitAnimationName": "",
+		"isPlayRootExitAnimation": false,
+		"exitEffectPath": "",
+		"effectPath": [
+			"UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxArrowDown"
+		],
+		"flyableEffectPath": "UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxLineWhiteS",
+		"showInfo": true,
+		"showNewInfo": true,
+		"explodePath": "",
+		"enterAudioPath": "Activity_6_6_MatchThree_Key",
+		"exitAudioPath": "Activity_6_6_MatchThree_Key_Clear",
+		"DataImpl": {},
+		"stateID": 6
+	},
+	{
+		"stateType": 2,
+		"stateName": {
+			"hash": 1717405371
+		},
+		"stateDes": {
+			"hash": 600478994
+		},
+		"stateIcon": "SpriteOutput/MatchThree/Obstacle/Obstacle14",
+		"IsUnique": false,
+		"canDestroy": true,
+		"cleanTime": 1,
+		"countdown": 0,
+		"cleanMethod": 3,
+		"nextState": 0,
+		"isMovable": false,
+		"isDroppable": true,
+		"triggerSkill": [
+			{
+				"TriggerType": 4,
+				"SkillId": 59
+			}
+		],
+		"effectEnterAnimationName": "",
+		"effectExitAnimationName": "",
+		"isPlayRootExitAnimation": false,
+		"exitEffectPath": "",
+		"effectPath": [
+			"UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxArrowDown",
+			"UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxEvilSlime"
+		],
+		"flyableEffectPath": "UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxLinePurpleS",
+		"showInfo": true,
+		"showNewInfo": true,
+		"explodePath": "",
+		"enterAudioPath": "Activity_6_6_MatchThree_EvilKey",
+		"exitAudioPath": "Activity_6_6_MatchThree_EvilKey_Clear",
+		"DataImpl": {},
+		"stateID": 7
+	},
+	{
+		"stateType": 2,
+		"stateName": {
+			"hash": 1717405372
+		},
+		"stateDes": {
+			"hash": 600478995
+		},
+		"stateIcon": "SpriteOutput/MatchThree/Obstacle/Obstacle19",
+		"IsUnique": false,
+		"canDestroy": true,
+		"cleanTime": 3,
+		"countdown": 0,
+		"cleanMethod": 2,
+		"nextState": 0,
+		"isMovable": false,
+		"isDroppable": false,
+		"triggerSkill": [
+			{
+				"TriggerType": 6,
+				"SkillId": 68
+			},
+			{
+				"TriggerType": 4,
+				"SkillId": 69
+			}
+		],
+		"effectEnterAnimationName": "",
+		"effectExitAnimationName": "",
+		"isPlayRootExitAnimation": false,
+		"exitEffectPath": "UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxVanishSimple",
+		"effectPath": [],
+		"flyableEffectPath": "UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxLineGreenS",
+		"showInfo": true,
+		"showNewInfo": true,
+		"explodePath": "",
+		"enterAudioPath": "Activity_6_6_MatchThree_Vines",
+		"exitAudioPath": "Activity_6_6_MatchThree_Vines_Clear",
+		"DataImpl": {},
+		"stateID": 8
+	},
+	{
+		"stateType": 2,
+		"stateName": {
+			"hash": 1717405373
+		},
+		"stateDes": {
+			"hash": 600478996
+		},
+		"stateIcon": "SpriteOutput/MatchThree/Obstacle/Obstacle20",
+		"IsUnique": false,
+		"canDestroy": true,
+		"cleanTime": 1,
+		"countdown": 0,
+		"cleanMethod": 2,
+		"nextState": 0,
+		"isMovable": false,
+		"isDroppable": false,
+		"triggerSkill": [],
+		"effectEnterAnimationName": "",
+		"effectExitAnimationName": "",
+		"isPlayRootExitAnimation": false,
+		"exitEffectPath": "UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxVanishSimple",
+		"effectPath": [],
+		"flyableEffectPath": "UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxLineGreenS",
+		"showInfo": true,
+		"showNewInfo": true,
+		"explodePath": "",
+		"enterAudioPath": "Activity_6_6_MatchThree_Vines",
+		"exitAudioPath": "Activity_6_6_MatchThree_Vines_Clear",
+		"DataImpl": {},
+		"stateID": 9
+	},
+	{
+		"stateType": 2,
+		"stateName": {
+			"hash": 1699958811
+		},
+		"stateDes": {
+			"hash": 1434979492
+		},
+		"stateIcon": "SpriteOutput/MatchThree/Obstacle/Obstacle10",
+		"IsUnique": false,
+		"canDestroy": true,
+		"cleanTime": 3,
+		"countdown": 4,
+		"cleanMethod": 2,
+		"nextState": 0,
+		"isMovable": false,
+		"isDroppable": false,
+		"triggerSkill": [
+			{
+				"TriggerType": 2,
+				"SkillId": 53
+			}
+		],
+		"effectEnterAnimationName": "",
+		"effectExitAnimationName": "",
+		"isPlayRootExitAnimation": true,
+		"exitEffectPath": "",
+		"effectPath": [
+			"UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxBoomFuse"
+		],
+		"flyableEffectPath": "UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxLineRedS",
+		"showInfo": true,
+		"showNewInfo": true,
+		"explodePath": "UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxBoom",
+		"enterAudioPath": "Activity_6_6_MatchThree_Bomb",
+		"exitAudioPath": "Activity_6_6_MatchThree_Bomb_Clear",
+		"DataImpl": {},
+		"stateID": 10
+	},
+	{
+		"stateType": 2,
+		"stateName": {
+			"hash": 1699958812
+		},
+		"stateDes": {
+			"hash": 1434979493
+		},
+		"stateIcon": "SpriteOutput/MatchThree/Obstacle/Obstacle12",
+		"IsUnique": false,
+		"canDestroy": true,
+		"cleanTime": 3,
+		"countdown": 4,
+		"cleanMethod": 2,
+		"nextState": 0,
+		"isMovable": false,
+		"isDroppable": false,
+		"triggerSkill": [
+			{
+				"TriggerType": 2,
+				"SkillId": 54
+			}
+		],
+		"effectEnterAnimationName": "",
+		"effectExitAnimationName": "",
+		"isPlayRootExitAnimation": true,
+		"exitEffectPath": "",
+		"effectPath": [
+			"UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxBoomFuse"
+		],
+		"flyableEffectPath": "UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxLineWhiteS",
+		"showInfo": true,
+		"showNewInfo": true,
+		"explodePath": "UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxBoomIce",
+		"enterAudioPath": "Activity_6_6_MatchThree_Bomb",
+		"exitAudioPath": "Activity_6_6_MatchThree_Bomb_Clear",
+		"DataImpl": {},
+		"stateID": 11
+	},
+	{
+		"stateType": 2,
+		"stateName": {
+			"hash": 1699958813
+		},
+		"stateDes": {
+			"hash": 1434979494
+		},
+		"stateIcon": "SpriteOutput/MatchThree/Obstacle/Obstacle11",
+		"IsUnique": false,
+		"canDestroy": true,
+		"cleanTime": 3,
+		"countdown": 4,
+		"cleanMethod": 2,
+		"nextState": 0,
+		"isMovable": false,
+		"isDroppable": false,
+		"triggerSkill": [
+			{
+				"TriggerType": 2,
+				"SkillId": 55
+			}
+		],
+		"effectEnterAnimationName": "",
+		"effectExitAnimationName": "",
+		"isPlayRootExitAnimation": true,
+		"exitEffectPath": "",
+		"effectPath": [
+			"UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxBoomFuse"
+		],
+		"flyableEffectPath": "UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxLineRedS",
+		"showInfo": true,
+		"showNewInfo": true,
+		"explodePath": "UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxBoom",
+		"enterAudioPath": "Activity_6_6_MatchThree_Bomb",
+		"exitAudioPath": "Activity_6_6_MatchThree_Bomb_Clear",
+		"DataImpl": {},
+		"stateID": 12
+	},
+	{
+		"stateType": 2,
+		"stateName": {
+			"hash": 1699958814
+		},
+		"stateDes": {
+			"hash": 1434979495
+		},
+		"stateIcon": "SpriteOutput/MatchThree/Obstacle/Obstacle9",
+		"IsUnique": false,
+		"canDestroy": false,
+		"cleanTime": 3,
+		"countdown": 0,
+		"cleanMethod": 2,
+		"nextState": 0,
+		"isMovable": true,
+		"isDroppable": true,
+		"triggerSkill": [
+			{
+				"TriggerType": 3,
+				"SkillId": 71
+			}
+		],
+		"effectEnterAnimationName": "",
+		"effectExitAnimationName": "",
+		"isPlayRootExitAnimation": false,
+		"exitEffectPath": "UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxTakaraLight",
+		"effectPath": [],
+		"flyableEffectPath": "UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxLineWhiteS",
+		"showInfo": true,
+		"showNewInfo": true,
+		"explodePath": "",
+		"enterAudioPath": "Activity_6_6_MatchThree_Bag",
+		"exitAudioPath": "Activity_6_6_MatchThree_Bag_Clear",
+		"DataImpl": {},
+		"stateID": 13
+	},
+	{
+		"stateType": 2,
+		"stateName": {
+			"hash": 1699958815
+		},
+		"stateDes": {
+			"hash": 1434979496
+		},
+		"stateIcon": "SpriteOutput/MatchThree/Obstacle/Obstacle18",
+		"IsUnique": false,
+		"canDestroy": true,
+		"cleanTime": 1,
+		"countdown": 0,
+		"cleanMethod": 2,
+		"nextState": 0,
+		"isMovable": true,
+		"isDroppable": true,
+		"triggerSkill": [],
+		"effectEnterAnimationName": "",
+		"effectExitAnimationName": "",
+		"isPlayRootExitAnimation": false,
+		"exitEffectPath": "UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxStone",
+		"effectPath": [],
+		"flyableEffectPath": "UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxLineWhiteS",
+		"showInfo": true,
+		"showNewInfo": true,
+		"explodePath": "",
+		"enterAudioPath": "Activity_6_6_MatchThree_Stone_Small",
+		"exitAudioPath": "Activity_6_6_MatchThree_Stone_Clear",
+		"DataImpl": {},
+		"stateID": 14
+	},
+	{
+		"stateType": 2,
+		"stateName": {
+			"hash": 1699958816
+		},
+		"stateDes": {
+			"hash": 1434979497
+		},
+		"stateIcon": "SpriteOutput/MatchThree/Obstacle/Obstacle17",
+		"IsUnique": false,
+		"canDestroy": true,
+		"cleanTime": 1,
+		"countdown": 0,
+		"cleanMethod": 2,
+		"nextState": 14,
+		"isMovable": false,
+		"isDroppable": false,
+		"triggerSkill": [],
+		"effectEnterAnimationName": "",
+		"effectExitAnimationName": "",
+		"isPlayRootExitAnimation": false,
+		"exitEffectPath": "UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxStone",
+		"effectPath": [],
+		"flyableEffectPath": "UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxLineWhiteS",
+		"showInfo": true,
+		"showNewInfo": true,
+		"explodePath": "",
+		"enterAudioPath": "Activity_6_6_MatchThree_Stone",
+		"exitAudioPath": "Activity_6_6_MatchThree_Stone_Clear",
+		"DataImpl": {},
+		"stateID": 15
+	},
+	{
+		"stateType": 2,
+		"stateName": {
+			"hash": 1699958817
+		},
+		"stateDes": {
+			"hash": 1434979498
+		},
+		"stateIcon": "SpriteOutput/MatchThree/Obstacle/Obstacle4",
+		"IsUnique": false,
+		"canDestroy": false,
+		"cleanTime": 1,
+		"countdown": 0,
+		"cleanMethod": 2,
+		"nextState": 17,
+		"isMovable": false,
+		"isDroppable": false,
+		"triggerSkill": [],
+		"effectEnterAnimationName": "",
+		"effectExitAnimationName": "",
+		"isPlayRootExitAnimation": false,
+		"exitEffectPath": "UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxRunes",
+		"effectPath": [],
+		"flyableEffectPath": "UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxLineWhiteS",
+		"showInfo": true,
+		"showNewInfo": false,
+		"explodePath": "",
+		"enterAudioPath": "Activity_6_6_MatchThree_Rune_Open",
+		"exitAudioPath": "Activity_6_6_MatchThree_Rune_Open",
+		"DataImpl": {},
+		"stateID": 16
+	},
+	{
+		"stateType": 2,
+		"stateName": {
+			"hash": 1699958818
+		},
+		"stateDes": {
+			"hash": 1434979499
+		},
+		"stateIcon": "SpriteOutput/MatchThree/Obstacle/Obstacle5",
+		"IsUnique": false,
+		"canDestroy": false,
+		"cleanTime": 1,
+		"countdown": 0,
+		"cleanMethod": 2,
+		"nextState": 16,
+		"isMovable": false,
+		"isDroppable": false,
+		"triggerSkill": [],
+		"effectEnterAnimationName": "",
+		"effectExitAnimationName": "",
+		"isPlayRootExitAnimation": false,
+		"exitEffectPath": "UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxRunes",
+		"effectPath": [],
+		"flyableEffectPath": "UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxLineWhiteS",
+		"showInfo": true,
+		"showNewInfo": false,
+		"explodePath": "",
+		"enterAudioPath": "Activity_6_6_MatchThree_Rune_Close",
+		"exitAudioPath": "Activity_6_6_MatchThree_Rune_Close",
+		"DataImpl": {},
+		"stateID": 17
+	},
+	{
+		"stateType": 2,
+		"stateName": {
+			"hash": 1699958819
+		},
+		"stateDes": {
+			"hash": 1434979500
+		},
+		"stateIcon": "SpriteOutput/MatchThree/Obstacle/Obstacle3",
+		"IsUnique": false,
+		"canDestroy": true,
+		"cleanTime": 3,
+		"countdown": 0,
+		"cleanMethod": 2,
+		"nextState": 0,
+		"isMovable": false,
+		"isDroppable": false,
+		"triggerSkill": [
+			{
+				"TriggerType": 3,
+				"SkillId": 60
+			},
+			{
+				"TriggerType": 5,
+				"SkillId": 62
+			}
+		],
+		"effectEnterAnimationName": "",
+		"effectExitAnimationName": "",
+		"isPlayRootExitAnimation": false,
+		"exitEffectPath": "UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxRunes",
+		"effectPath": [],
+		"flyableEffectPath": "UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxLineWhiteS",
+		"showInfo": true,
+		"showNewInfo": false,
+		"explodePath": "",
+		"enterAudioPath": "Activity_6_6_MatchThree_RuneStone",
+		"exitAudioPath": "Activity_6_6_MatchThree_RuneStone_Clear",
+		"DataImpl": {},
+		"stateID": 18
+	},
+	{
+		"stateType": 2,
+		"stateName": {
+			"hash": 1699958820
+		},
+		"stateDes": {
+			"hash": 1434979501
+		},
+		"stateIcon": "SpriteOutput/MatchThree/Obstacle/Obstacle2",
+		"IsUnique": false,
+		"canDestroy": true,
+		"cleanTime": 3,
+		"countdown": 0,
+		"cleanMethod": 2,
+		"nextState": 0,
+		"isMovable": false,
+		"isDroppable": false,
+		"triggerSkill": [
+			{
+				"TriggerType": 3,
+				"SkillId": 61
+			},
+			{
+				"TriggerType": 5,
+				"SkillId": 63
+			}
+		],
+		"effectEnterAnimationName": "",
+		"effectExitAnimationName": "",
+		"isPlayRootExitAnimation": false,
+		"exitEffectPath": "UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxRunes",
+		"effectPath": [],
+		"flyableEffectPath": "UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxLineWhiteS",
+		"showInfo": true,
+		"showNewInfo": false,
+		"explodePath": "",
+		"enterAudioPath": "Activity_6_6_MatchThree_RuneStone",
+		"exitAudioPath": "Activity_6_6_MatchThree_RuneStone_Clear",
+		"DataImpl": {},
+		"stateID": 19
+	},
+	{
+		"stateType": 2,
+		"stateName": {
+			"hash": 1699958842
+		},
+		"stateDes": {
+			"hash": 1434979523
+		},
+		"stateIcon": "SpriteOutput/MatchThree/Obstacle/Obstacle6",
+		"IsUnique": true,
+		"canDestroy": true,
+		"cleanTime": 3,
+		"countdown": 0,
+		"cleanMethod": 2,
+		"nextState": 0,
+		"isMovable": false,
+		"isDroppable": false,
+		"triggerSkill": [
+			{
+				"TriggerType": 4,
+				"SkillId": 58
+			}
+		],
+		"effectEnterAnimationName": "",
+		"effectExitAnimationName": "",
+		"isPlayRootExitAnimation": false,
+		"exitEffectPath": "UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxRunes",
+		"effectPath": [],
+		"flyableEffectPath": "UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxLineGreenS",
+		"showInfo": true,
+		"showNewInfo": true,
+		"explodePath": "",
+		"enterAudioPath": "Activity_6_6_MatchThree_RuneStone",
+		"exitAudioPath": "Activity_6_6_MatchThree_RuneStone_Clear",
+		"DataImpl": {},
+		"stateID": 20
+	},
+	{
+		"stateType": 2,
+		"stateName": {
+			"hash": 1699958843
+		},
+		"stateDes": {
+			"hash": 1434979524
+		},
+		"stateIcon": "SpriteOutput/MatchThree/Obstacle/Obstacle7",
+		"IsUnique": true,
+		"canDestroy": true,
+		"cleanTime": 3,
+		"countdown": 0,
+		"cleanMethod": 2,
+		"nextState": 0,
+		"isMovable": false,
+		"isDroppable": false,
+		"triggerSkill": [
+			{
+				"TriggerType": 1,
+				"SkillId": 64
+			},
+			{
+				"TriggerType": 5,
+				"SkillId": 65
+			}
+		],
+		"effectEnterAnimationName": "",
+		"effectExitAnimationName": "",
+		"isPlayRootExitAnimation": false,
+		"exitEffectPath": "UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxRunes",
+		"effectPath": [],
+		"flyableEffectPath": "UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxLineWhiteS",
+		"showInfo": true,
+		"showNewInfo": true,
+		"explodePath": "",
+		"enterAudioPath": "Activity_6_6_MatchThree_RuneStone",
+		"exitAudioPath": "Activity_6_6_MatchThree_RuneStone_Clear",
+		"DataImpl": {},
+		"stateID": 21
+	},
+	{
+		"stateType": 2,
+		"stateName": {
+			"hash": 1699958844
+		},
+		"stateDes": {
+			"hash": 1434979525
+		},
+		"stateIcon": "SpriteOutput/MatchThree/Obstacle/Obstacle8",
+		"IsUnique": true,
+		"canDestroy": true,
+		"cleanTime": 3,
+		"countdown": 0,
+		"cleanMethod": 2,
+		"nextState": 0,
+		"isMovable": false,
+		"isDroppable": false,
+		"triggerSkill": [
+			{
+				"TriggerType": 1,
+				"SkillId": 56
+			},
+			{
+				"TriggerType": 5,
+				"SkillId": 57
+			}
+		],
+		"effectEnterAnimationName": "",
+		"effectExitAnimationName": "",
+		"isPlayRootExitAnimation": false,
+		"exitEffectPath": "UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxRunes",
+		"effectPath": [],
+		"flyableEffectPath": "UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxLineRedS",
+		"showInfo": true,
+		"showNewInfo": true,
+		"explodePath": "",
+		"enterAudioPath": "Activity_6_6_MatchThree_RuneStone",
+		"exitAudioPath": "Activity_6_6_MatchThree_RuneStone_Clear",
+		"DataImpl": {},
+		"stateID": 22
+	},
+	{
+		"stateType": 2,
+		"stateName": {
+			"hash": 1699958845
+		},
+		"stateDes": {
+			"hash": 1434979526
+		},
+		"stateIcon": "SpriteOutput/MatchThree/Obstacle/Obstacle15",
+		"IsUnique": false,
+		"canDestroy": true,
+		"cleanTime": 3,
+		"countdown": 0,
+		"cleanMethod": 2,
+		"nextState": 0,
+		"isMovable": false,
+		"isDroppable": false,
+		"triggerSkill": [
+			{
+				"TriggerType": 4,
+				"SkillId": 70
+			}
+		],
+		"effectEnterAnimationName": "",
+		"effectExitAnimationName": "",
+		"isPlayRootExitAnimation": false,
+		"exitEffectPath": "",
+		"effectPath": [],
+		"flyableEffectPath": "UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxLineRedS",
+		"showInfo": true,
+		"showNewInfo": true,
+		"explodePath": "",
+		"enterAudioPath": "Activity_6_6_MatchThree_EvilEye",
+		"exitAudioPath": "Activity_6_6_MatchThree_EvilEye_Clear",
+		"DataImpl": {},
+		"stateID": 23
+	},
+	{
+		"stateType": 2,
+		"stateName": {
+			"hash": 1699958846
+		},
+		"stateDes": {
+			"hash": 1434979527
+		},
+		"stateIcon": "SpriteOutput/MatchThree/Obstacle/Obstacle16",
+		"IsUnique": false,
+		"canDestroy": true,
+		"cleanTime": 3,
+		"countdown": 0,
+		"cleanMethod": 2,
+		"nextState": 0,
+		"isMovable": false,
+		"isDroppable": false,
+		"triggerSkill": [
+			{
+				"TriggerType": 4,
+				"SkillId": 113
+			}
+		],
+		"effectEnterAnimationName": "",
+		"effectExitAnimationName": "",
+		"isPlayRootExitAnimation": false,
+		"exitEffectPath": "",
+		"effectPath": [],
+		"flyableEffectPath": "UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxLineGreenS",
+		"showInfo": true,
+		"showNewInfo": true,
+		"explodePath": "",
+		"enterAudioPath": "Activity_6_6_MatchThree_EvilEye",
+		"exitAudioPath": "Activity_6_6_MatchThree_EvilEye_Clear",
+		"DataImpl": {},
+		"stateID": 24
+	},
+	{
+		"stateType": 2,
+		"stateName": {
+			"hash": 1699958847
+		},
+		"stateDes": {
+			"hash": 1434979528
+		},
+		"stateIcon": "SpriteOutput/MatchThree/Obstacle/Obstacle3",
+		"IsUnique": false,
+		"canDestroy": true,
+		"cleanTime": 3,
+		"countdown": 0,
+		"cleanMethod": 2,
+		"nextState": 0,
+		"isMovable": false,
+		"isDroppable": false,
+		"triggerSkill": [
+			{
+				"TriggerType": 3,
+				"SkillId": 75
+			},
+			{
+				"TriggerType": 5,
+				"SkillId": 73
+			}
+		],
+		"effectEnterAnimationName": "",
+		"effectExitAnimationName": "",
+		"isPlayRootExitAnimation": false,
+		"exitEffectPath": "UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxRunes",
+		"effectPath": [],
+		"flyableEffectPath": "UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxLineWhiteS",
+		"showInfo": true,
+		"showNewInfo": false,
+		"explodePath": "",
+		"enterAudioPath": "Activity_6_6_MatchThree_RuneStone",
+		"exitAudioPath": "Activity_6_6_MatchThree_RuneStone_Clear",
+		"DataImpl": {},
+		"stateID": 25
+	},
+	{
+		"stateType": 2,
+		"stateName": {
+			"hash": 1699958848
+		},
+		"stateDes": {
+			"hash": 1434979529
+		},
+		"stateIcon": "SpriteOutput/MatchThree/Obstacle/Obstacle2",
+		"IsUnique": false,
+		"canDestroy": true,
+		"cleanTime": 3,
+		"countdown": 0,
+		"cleanMethod": 2,
+		"nextState": 0,
+		"isMovable": false,
+		"isDroppable": false,
+		"triggerSkill": [
+			{
+				"TriggerType": 3,
+				"SkillId": 76
+			},
+			{
+				"TriggerType": 5,
+				"SkillId": 74
+			}
+		],
+		"effectEnterAnimationName": "",
+		"effectExitAnimationName": "",
+		"isPlayRootExitAnimation": false,
+		"exitEffectPath": "UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxRunes",
+		"effectPath": [],
+		"flyableEffectPath": "UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeRowVfxLineWhiteS",
+		"showInfo": true,
+		"showNewInfo": false,
+		"explodePath": "",
+		"enterAudioPath": "Activity_6_6_MatchThree_RuneStone",
+		"exitAudioPath": "Activity_6_6_MatchThree_RuneStone_Clear",
+		"DataImpl": {},
+		"stateID": 26
+	},
+	{
+		"stateType": 1,
+		"stateName": {
+			"hash": 1699959066
+		},
+		"stateDes": {
+			"hash": 1434979747
+		},
+		"stateIcon": "",
+		"IsUnique": false,
+		"canDestroy": false,
+		"cleanTime": 1,
+		"countdown": 0,
+		"cleanMethod": 1,
+		"nextState": 0,
+		"isMovable": true,
+		"isDroppable": true,
+		"triggerSkill": [],
+		"effectEnterAnimationName": "",
+		"effectExitAnimationName": "",
+		"isPlayRootExitAnimation": false,
+		"exitEffectPath": "",
+		"effectPath": [],
+		"flyableEffectPath": "",
+		"showInfo": false,
+		"showNewInfo": false,
+		"explodePath": "",
+		"enterAudioPath": "",
+		"exitAudioPath": "",
+		"DataImpl": {},
+		"stateID": 97
+	},
+	{
+		"stateType": 1,
+		"stateName": {
+			"hash": 1699959067
+		},
+		"stateDes": {
+			"hash": 1434979748
+		},
+		"stateIcon": "",
+		"IsUnique": false,
+		"canDestroy": false,
+		"cleanTime": 1,
+		"countdown": 0,
+		"cleanMethod": 1,
+		"nextState": 0,
+		"isMovable": false,
+		"isDroppable": true,
+		"triggerSkill": [],
+		"effectEnterAnimationName": "",
+		"effectExitAnimationName": "",
+		"isPlayRootExitAnimation": false,
+		"exitEffectPath": "",
+		"effectPath": [],
+		"flyableEffectPath": "",
+		"showInfo": false,
+		"showNewInfo": false,
+		"explodePath": "",
+		"enterAudioPath": "",
+		"exitAudioPath": "",
+		"DataImpl": {},
+		"stateID": 98
+	},
+	{
+		"stateType": 2,
+		"stateName": {
+			"hash": 1699959068
+		},
+		"stateDes": {
+			"hash": 1434979749
+		},
+		"stateIcon": "SpriteOutput/MatchThree/Obstacle/Obstacle5",
+		"IsUnique": false,
+		"canDestroy": true,
+		"cleanTime": 1,
+		"countdown": 0,
+		"cleanMethod": 0,
+		"nextState": 0,
+		"isMovable": false,
+		"isDroppable": true,
+		"triggerSkill": [],
+		"effectEnterAnimationName": "",
+		"effectExitAnimationName": "",
+		"isPlayRootExitAnimation": false,
+		"exitEffectPath": "",
+		"effectPath": [],
+		"flyableEffectPath": "",
+		"showInfo": false,
+		"showNewInfo": false,
+		"explodePath": "",
+		"enterAudioPath": "",
+		"exitAudioPath": "",
+		"DataImpl": {},
+		"stateID": 99
+	},
+	{
+		"stateType": 1,
+		"stateName": {
+			"hash": 1159115638
+		},
+		"stateDes": {
+			"hash": 1534691341
+		},
+		"stateIcon": "",
+		"IsUnique": false,
+		"canDestroy": true,
+		"cleanTime": 1,
+		"countdown": 0,
+		"cleanMethod": 1,
+		"nextState": 0,
+		"isMovable": true,
+		"isDroppable": true,
+		"triggerSkill": [],
+		"effectEnterAnimationName": "",
+		"effectExitAnimationName": "",
+		"isPlayRootExitAnimation": false,
+		"exitEffectPath": "",
+		"effectPath": [],
+		"flyableEffectPath": "",
+		"showInfo": false,
+		"showNewInfo": false,
+		"explodePath": "",
+		"enterAudioPath": "",
+		"exitAudioPath": "",
+		"DataImpl": {},
+		"stateID": 101
+	}
+]

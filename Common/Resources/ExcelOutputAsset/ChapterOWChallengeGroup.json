@@ -1,0 +1,182 @@
+[
+	{
+		"LocationID": 150301,
+		"ChallengeConfigID": 1,
+		"UnlockConditionList": "5|305100",
+		"OpenTimeScheduleText": {
+			"hash": -510001214
+		},
+		"Title": {
+			"hash": 1412622564
+		},
+		"RecommendHero": 1,
+		"HighlightMaterialList": [
+			996401,
+			996402
+		],
+		"DataImpl": {},
+		"GroupID": 1
+	},
+	{
+		"LocationID": 150302,
+		"ChallengeConfigID": 2,
+		"UnlockConditionList": "5|305100;5|304104",
+		"OpenTimeScheduleText": {
+			"hash": -510001214
+		},
+		"Title": {
+			"hash": 1412622565
+		},
+		"RecommendHero": 2,
+		"HighlightMaterialList": [
+			996403,
+			996404
+		],
+		"DataImpl": {},
+		"GroupID": 2
+	},
+	{
+		"LocationID": 150303,
+		"ChallengeConfigID": 3,
+		"UnlockConditionList": "5|304104",
+		"OpenTimeScheduleText": {
+			"hash": -510001214
+		},
+		"Title": {
+			"hash": 1412622566
+		},
+		"RecommendHero": 3,
+		"HighlightMaterialList": [
+			996401,
+			996403
+		],
+		"DataImpl": {},
+		"GroupID": 3
+	},
+	{
+		"LocationID": 150301,
+		"ChallengeConfigID": 1,
+		"UnlockConditionList": "5|305100",
+		"OpenTimeScheduleText": {
+			"hash": -510001213
+		},
+		"Title": {
+			"hash": 1412622564
+		},
+		"RecommendHero": 1,
+		"HighlightMaterialList": [
+			996401,
+			996402
+		],
+		"DataImpl": {},
+		"GroupID": 4
+	},
+	{
+		"LocationID": 150302,
+		"ChallengeConfigID": 2,
+		"UnlockConditionList": "5|305100;5|304104",
+		"OpenTimeScheduleText": {
+			"hash": -510001213
+		},
+		"Title": {
+			"hash": 1412622565
+		},
+		"RecommendHero": 2,
+		"HighlightMaterialList": [
+			996403,
+			996404
+		],
+		"DataImpl": {},
+		"GroupID": 5
+	},
+	{
+		"LocationID": 150303,
+		"ChallengeConfigID": 3,
+		"UnlockConditionList": "5|304104",
+		"OpenTimeScheduleText": {
+			"hash": -510001213
+		},
+		"Title": {
+			"hash": 1412622566
+		},
+		"RecommendHero": 3,
+		"HighlightMaterialList": [
+			996401,
+			996403
+		],
+		"DataImpl": {},
+		"GroupID": 6
+	},
+	{
+		"LocationID": 150304,
+		"ChallengeConfigID": 4,
+		"UnlockConditionList": "5|314002",
+		"OpenTimeScheduleText": {
+			"hash": -510001214
+		},
+		"Title": {
+			"hash": 1412622567
+		},
+		"RecommendHero": 8,
+		"HighlightMaterialList": [
+			996401,
+			996402
+		],
+		"DataImpl": {},
+		"GroupID": 7
+	},
+	{
+		"LocationID": 150305,
+		"ChallengeConfigID": 5,
+		"UnlockConditionList": "5|314002",
+		"OpenTimeScheduleText": {
+			"hash": -510001214
+		},
+		"Title": {
+			"hash": 1412622568
+		},
+		"RecommendHero": 9,
+		"HighlightMaterialList": [
+			996403,
+			996404
+		],
+		"DataImpl": {},
+		"GroupID": 8
+	},
+	{
+		"LocationID": 150304,
+		"ChallengeConfigID": 4,
+		"UnlockConditionList": "5|314002",
+		"OpenTimeScheduleText": {
+			"hash": -510001213
+		},
+		"Title": {
+			"hash": 1412622567
+		},
+		"RecommendHero": 8,
+		"HighlightMaterialList": [
+			996401,
+			996402
+		],
+		"DataImpl": {},
+		"GroupID": 9
+	},
+	{
+		"LocationID": 150305,
+		"ChallengeConfigID": 5,
+		"UnlockConditionList": "5|314002",
+		"OpenTimeScheduleText": {
+			"hash": -510001213
+		},
+		"Title": {
+			"hash": 1412622568
+		},
+		"RecommendHero": 9,
+		"HighlightMaterialList": [
+			996403,
+			996404
+		],
+		"DataImpl": {},
+		"GroupID": 10
+	}
+]

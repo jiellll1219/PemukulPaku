@@ -1,0 +1,194 @@
+[
+	{
+		"Type": 1,
+		"DestroyEffectPattern": "",
+		"InteractRange": 0,
+		"SceneItemNameText": {
+			"hash": 1554391294
+		},
+		"IsNameShow": false,
+		"SceneItemModel": "ChatLobby/SceneItem/QAvatar_SceneItem_Speed/QAvatar_SceneItem_Speedup",
+		"DataImpl": {},
+		"SceneItemID": 101
+	},
+	{
+		"Type": 1,
+		"DestroyEffectPattern": "",
+		"InteractRange": 0,
+		"SceneItemNameText": {
+			"hash": 1554391295
+		},
+		"IsNameShow": false,
+		"SceneItemModel": "ChatLobby/SceneItem/QAvatar_SceneItem_Speed/QAvatar_SceneItem_Speeddown",
+		"DataImpl": {},
+		"SceneItemID": 102
+	},
+	{
+		"Type": 1,
+		"DestroyEffectPattern": "",
+		"InteractRange": 0,
+		"SceneItemNameText": {
+			"hash": 1554391296
+		},
+		"IsNameShow": false,
+		"SceneItemModel": "ChatLobby/SceneItem/QAvatar_SceneItem_Invincible/QAvatar_SceneItem_Invincible_Num1",
+		"DataImpl": {},
+		"SceneItemID": 103
+	},
+	{
+		"Type": 2,
+		"DestroyEffectPattern": "ChatLobby_SceneItem_DestroyEffect",
+		"InteractRange": 0,
+		"SceneItemNameText": {
+			"hash": 1554391297
+		},
+		"IsNameShow": false,
+		"SceneItemModel": "ChatLobby/SceneItem/QAvatar_SceneItem_Barrel/QAvatar_SceneItem_Barrel01",
+		"DataImpl": {},
+		"SceneItemID": 104
+	},
+	{
+		"Type": 3,
+		"DestroyEffectPattern": "",
+		"InteractRange": 8,
+		"SceneItemNameText": {
+			"hash": 1554391298
+		},
+		"IsNameShow": false,
+		"SceneItemModel": "ChatLobby/SceneItem/QAvatar_SceneItem_Spring/QAvatar_SceneItem_Spring_Neutral",
+		"DataImpl": {},
+		"SceneItemID": 105
+	},
+	{
+		"Type": 3,
+		"DestroyEffectPattern": "",
+		"InteractRange": 8,
+		"SceneItemNameText": {
+			"hash": 1554391299
+		},
+		"IsNameShow": false,
+		"SceneItemModel": "ChatLobby/SceneItem/QAvatar_SceneItem_Spring/QAvatar_SceneItem_Spring_Red",
+		"DataImpl": {},
+		"SceneItemID": 106
+	},
+	{
+		"Type": 3,
+		"DestroyEffectPattern": "",
+		"InteractRange": 8,
+		"SceneItemNameText": {
+			"hash": 1554391300
+		},
+		"IsNameShow": false,
+		"SceneItemModel": "ChatLobby/SceneItem/QAvatar_SceneItem_Spring/QAvatar_SceneItem_Spring_Blue",
+		"DataImpl": {},
+		"SceneItemID": 107
+	},
+	{
+		"Type": 1,
+		"DestroyEffectPattern": "",
+		"InteractRange": 0,
+		"SceneItemNameText": {
+			"hash": 1554391301
+		},
+		"IsNameShow": false,
+		"SceneItemModel": "ChatLobby/SceneItem/QAvatar_SceneItem_Spring/QAvatar_SceneItem_Hp_Circle_Pickup",
+		"DataImpl": {},
+		"SceneItemID": 108
+	},
+	{
+		"Type": 4,
+		"DestroyEffectPattern": "ChatLobby_SceneItem_TreasureOpen",
+		"InteractRange": 2,
+		"SceneItemNameText": {
+			"hash": 1554391302
+		},
+		"IsNameShow": false,
+		"SceneItemModel": "ChatLobby/SceneItem/QAvatar_SceneItem_Treasure/QAvatar_SceneItem_Treasure01",
+		"DataImpl": {},
+		"SceneItemID": 109
+	},
+	{
+		"Type": 4,
+		"DestroyEffectPattern": "",
+		"InteractRange": 2,
+		"SceneItemNameText": {
+			"hash": 1554391324
+		},
+		"IsNameShow": false,
+		"SceneItemModel": "ChatLobby/SceneItem/3_3_Test_To_Delete/QAvatar_SceneItem_TapBox",
+		"DataImpl": {},
+		"SceneItemID": 110
+	},
+	{
+		"Type": 4,
+		"DestroyEffectPattern": "",
+		"InteractRange": 2,
+		"SceneItemNameText": {
+			"hash": 1554391325
+		},
+		"IsNameShow": false,
+		"SceneItemModel": "ChatLobby/SceneItem/3_3_Test_To_Delete/QAvatar_SceneItem_TapBox",
+		"DataImpl": {},
+		"SceneItemID": 111
+	},
+	{
+		"Type": 1,
+		"DestroyEffectPattern": "",
+		"InteractRange": 0,
+		"SceneItemNameText": {
+			"hash": 1554391326
+		},
+		"IsNameShow": false,
+		"SceneItemModel": "ChatLobby/SceneItem/QAvatar_SceneItem_ParalysisTrap/QAvatar_SceneItem_Paralysis_Pickup",
+		"DataImpl": {},
+		"SceneItemID": 112
+	},
+	{
+		"Type": 5,
+		"DestroyEffectPattern": "",
+		"InteractRange": 2,
+		"SceneItemNameText": {
+			"hash": 1554391327
+		},
+		"IsNameShow": false,
+		"SceneItemModel": "ChatLobby/SceneItem/QAvatar_SceneItem_ParalysisTrap/QAvatar_SceneItem_Paralysis_Summon",
+		"DataImpl": {},
+		"SceneItemID": 113
+	},
+	{
+		"Type": 5,
+		"DestroyEffectPattern": "",
+		"InteractRange": 3,
+		"SceneItemNameText": {
+			"hash": 1554391328
+		},
+		"IsNameShow": false,
+		"SceneItemModel": "ChatLobby/SceneItem/QAvatar_SceneItem_Spring/QAvatar_SceneItem_Hp_Circle_Summon",
+		"DataImpl": {},
+		"SceneItemID": 114
+	},
+	{
+		"Type": 2,
+		"DestroyEffectPattern": "ChatLobby_SceneItem_DestroyEffect",
+		"InteractRange": 0,
+		"SceneItemNameText": {
+			"hash": 1554391329
+		},
+		"IsNameShow": false,
+		"SceneItemModel": "ChatLobby/SceneItem/QAvatar_SceneItem_Barrel/QAvatar_SceneItem_Barrel01",
+		"DataImpl": {},
+		"SceneItemID": 115
+	},
+	{
+		"Type": 4,
+		"DestroyEffectPattern": "ChatLobby_SceneItem_TreasureOpen",
+		"InteractRange": 2,
+		"SceneItemNameText": {
+			"hash": 1554391302
+		},
+		"IsNameShow": false,
+		"SceneItemModel": "ChatLobby/SceneItem/QAvatar_SceneItem_Treasure/QAvatar_SceneItem_Treasure01",
+		"DataImpl": {},
+		"SceneItemID": 116
+	}
+]

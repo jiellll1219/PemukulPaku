@@ -1,0 +1,361 @@
+[
+	{
+		"ElfID": 101,
+		"TriggerName": "Tease_1_Trigger",
+		"Audio": "VO_Elf_01_BloodEmbrace_Respond_01",
+		"AudioDelayTime": 100,
+		"SelfCD": 5000,
+		"Priority": 1,
+		"TriggerEffectList": [],
+		"FaceAnimationKey": "Elf_01_01",
+		"FaceAnimationDelayTime": 0,
+		"DataImpl": {},
+		"GalEventID": 10101
+	},
+	{
+		"ElfID": 101,
+		"TriggerName": "Tease_2_Trigger",
+		"Audio": "VO_Elf_01_BloodEmbrace_Respond_02",
+		"AudioDelayTime": 100,
+		"SelfCD": 6000,
+		"Priority": 2,
+		"TriggerEffectList": [
+			{
+				"BeginTime": 0.1,
+				"AttachPoint": "LeftHand",
+				"EffectPath": "Effect/Elf/Elf_01/Elf_01_UI_FX_Idle_Spin"
+			},
+			{
+				"BeginTime": 0.1,
+				"AttachPoint": "RightHand",
+				"EffectPath": "Effect/Elf/Elf_01/Elf_01_UI_FX_Idle_Spin"
+			}
+		],
+		"FaceAnimationKey": "Elf_01_02",
+		"FaceAnimationDelayTime": 0,
+		"DataImpl": {},
+		"GalEventID": 10102
+	},
+	{
+		"ElfID": 102,
+		"TriggerName": "Tease_1_Trigger",
+		"Audio": "VO_Elf_02_JWwings_Respond_02",
+		"AudioDelayTime": 100,
+		"SelfCD": 6000,
+		"Priority": 1,
+		"TriggerEffectList": [],
+		"FaceAnimationKey": "Elf_02_01",
+		"FaceAnimationDelayTime": 0,
+		"DataImpl": {},
+		"GalEventID": 10201
+	},
+	{
+		"ElfID": 102,
+		"TriggerName": "Tease_2_Trigger",
+		"Audio": "VO_Elf_02_JWwings_Respond_01",
+		"AudioDelayTime": 100,
+		"SelfCD": 8000,
+		"Priority": 2,
+		"TriggerEffectList": [
+			{
+				"BeginTime": 0.7,
+				"AttachPoint": "Transform",
+				"EffectPath": "Effect/Elf/Elf_02/Elf_02_FX_Idle_Sit_Chair"
+			}
+		],
+		"FaceAnimationKey": "Elf_02_02",
+		"FaceAnimationDelayTime": 0,
+		"DataImpl": {},
+		"GalEventID": 10202
+	},
+	{
+		"ElfID": 103,
+		"TriggerName": "Tease_1_Trigger",
+		"Audio": "VO_Elf_03_SelunesElegy_Respond_2",
+		"AudioDelayTime": 100,
+		"SelfCD": 6000,
+		"Priority": 1,
+		"TriggerEffectList": [],
+		"FaceAnimationKey": "Elf_03_01",
+		"FaceAnimationDelayTime": 0,
+		"DataImpl": {},
+		"GalEventID": 10301
+	},
+	{
+		"ElfID": 103,
+		"TriggerName": "Tease_2_Trigger",
+		"Audio": "VO_Elf_03_SelunesElegy_Respond_1",
+		"AudioDelayTime": 100,
+		"SelfCD": 6500,
+		"Priority": 2,
+		"TriggerEffectList": [
+			{
+				"BeginTime": 0.7,
+				"AttachPoint": "RightHand",
+				"EffectPath": "Effect/Elf/Elf_03/Elf_03_FX_Idle02_Fire"
+			}
+		],
+		"FaceAnimationKey": "Elf_03_02",
+		"FaceAnimationDelayTime": 0,
+		"DataImpl": {},
+		"GalEventID": 10302
+	},
+	{
+		"ElfID": 106,
+		"TriggerName": "Tease_1_Trigger",
+		"Audio": "VO_Elf_06_BookOfFuxi_Respond_1",
+		"AudioDelayTime": 1200,
+		"SelfCD": 11000,
+		"Priority": 1,
+		"TriggerEffectList": [
+			{
+				"BeginTime": 0.1,
+				"AttachPoint": "RootNode",
+				"EffectPath": "Effect/Elf/Elf_06/Elf_06_Common_Idle_01"
+			}
+		],
+		"FaceAnimationKey": "Elf_06_01",
+		"FaceAnimationDelayTime": 0,
+		"DataImpl": {},
+		"GalEventID": 10601
+	},
+	{
+		"ElfID": 106,
+		"TriggerName": "Tease_2_Trigger",
+		"Audio": "VO_Elf_06_BookOfFuxi_Respond_2",
+		"AudioDelayTime": 1000,
+		"SelfCD": 11000,
+		"Priority": 2,
+		"TriggerEffectList": [
+			{
+				"BeginTime": 0.1,
+				"AttachPoint": "RootNode",
+				"EffectPath": "Effect/Elf/Elf_06/Elf_06_Common_Idle_02"
+			}
+		],
+		"FaceAnimationKey": "Elf_06_02",
+		"FaceAnimationDelayTime": 0,
+		"DataImpl": {},
+		"GalEventID": 10602
+	},
+	{
+		"ElfID": 108,
+		"TriggerName": "Tease_2_Trigger",
+		"Audio": "VO_Elf_08_WotanFists_Respond_1",
+		"AudioDelayTime": 100,
+		"SelfCD": 11000,
+		"Priority": 1,
+		"TriggerEffectList": [],
+		"FaceAnimationKey": "Elf_08_01",
+		"FaceAnimationDelayTime": 0,
+		"DataImpl": {},
+		"GalEventID": 10801
+	},
+	{
+		"ElfID": 108,
+		"TriggerName": "Tease_3_Trigger",
+		"Audio": "VO_Elf_08_WotanFists_Respond_2",
+		"AudioDelayTime": 100,
+		"SelfCD": 11000,
+		"Priority": 2,
+		"TriggerEffectList": [],
+		"FaceAnimationKey": "Elf_08_02",
+		"FaceAnimationDelayTime": 0,
+		"DataImpl": {},
+		"GalEventID": 10802
+	},
+	{
+		"ElfID": 109,
+		"TriggerName": "Tease_1_Trigger",
+		"Audio": "VO_Elf_09_Benares_Respond_1",
+		"AudioDelayTime": 100,
+		"SelfCD": 11000,
+		"Priority": 1,
+		"TriggerEffectList": [],
+		"FaceAnimationKey": "Elf_09_01",
+		"FaceAnimationDelayTime": 0,
+		"DataImpl": {},
+		"GalEventID": 10901
+	},
+	{
+		"ElfID": 109,
+		"TriggerName": "Tease_2_Trigger",
+		"Audio": "VO_Elf_09_Benares_Respond_2",
+		"AudioDelayTime": 100,
+		"SelfCD": 11000,
+		"Priority": 2,
+		"TriggerEffectList": [],
+		"FaceAnimationKey": "Elf_09_02",
+		"FaceAnimationDelayTime": 0,
+		"DataImpl": {},
+		"GalEventID": 10902
+	},
+	{
+		"ElfID": 110,
+		"TriggerName": "Tease_1_Trigger",
+		"Audio": "VO_Elf_10_Ruoshui_Respond_1",
+		"AudioDelayTime": 100,
+		"SelfCD": 11000,
+		"Priority": 1,
+		"TriggerEffectList": [
+			{
+				"BeginTime": 0,
+				"AttachPoint": "ShuiQiu",
+				"EffectPath": "Effect/Elf/Elf_10/Elf_10_Common_Idle_01"
+			}
+		],
+		"FaceAnimationKey": "Elf_10_01",
+		"FaceAnimationDelayTime": 0,
+		"DataImpl": {},
+		"GalEventID": 11001
+	},
+	{
+		"ElfID": 110,
+		"TriggerName": "Tease_2_Trigger",
+		"Audio": "VO_Elf_10_Ruoshui_Respond_2",
+		"AudioDelayTime": 100,
+		"SelfCD": 11000,
+		"Priority": 2,
+		"TriggerEffectList": [],
+		"FaceAnimationKey": "Elf_10_02",
+		"FaceAnimationDelayTime": 0,
+		"DataImpl": {},
+		"GalEventID": 11002
+	},
+	{
+		"ElfID": 111,
+		"TriggerName": "Tease_1_Trigger",
+		"Audio": "VO_Elf_11_Sirin_Respond_1",
+		"AudioDelayTime": 100,
+		"SelfCD": 11000,
+		"Priority": 1,
+		"TriggerEffectList": [],
+		"FaceAnimationKey": "Elf_11_01",
+		"FaceAnimationDelayTime": 0,
+		"DataImpl": {},
+		"GalEventID": 11101
+	},
+	{
+		"ElfID": 111,
+		"TriggerName": "Tease_2_Trigger",
+		"Audio": "VO_Elf_11_Sirin_Respond_2",
+		"AudioDelayTime": 100,
+		"SelfCD": 11000,
+		"Priority": 2,
+		"TriggerEffectList": [],
+		"FaceAnimationKey": "Elf_11_02",
+		"FaceAnimationDelayTime": 0,
+		"DataImpl": {},
+		"GalEventID": 11102
+	},
+	{
+		"ElfID": 112,
+		"TriggerName": "Tease_1_Trigger",
+		"Audio": "VO_Elf_12_Klein_Respond_1",
+		"AudioDelayTime": 100,
+		"SelfCD": 5400,
+		"Priority": 1,
+		"TriggerEffectList": [],
+		"FaceAnimationKey": "Elf_12_01",
+		"FaceAnimationDelayTime": 0,
+		"DataImpl": {},
+		"GalEventID": 11201
+	},
+	{
+		"ElfID": 112,
+		"TriggerName": "Tease_2_Trigger",
+		"Audio": "VO_Elf_12_Klein_Respond_2",
+		"AudioDelayTime": 100,
+		"SelfCD": 6100,
+		"Priority": 2,
+		"TriggerEffectList": [],
+		"FaceAnimationKey": "Elf_12_02",
+		"FaceAnimationDelayTime": 0,
+		"DataImpl": {},
+		"GalEventID": 11202
+	},
+	{
+		"ElfID": 113,
+		"TriggerName": "Tease_1_Trigger",
+		"Audio": "VO_Elf_13_DurSword_Respond_1",
+		"AudioDelayTime": 600,
+		"SelfCD": 11000,
+		"Priority": 1,
+		"TriggerEffectList": [],
+		"FaceAnimationKey": "Elf_13_01",
+		"FaceAnimationDelayTime": 0,
+		"DataImpl": {},
+		"GalEventID": 11301
+	},
+	{
+		"ElfID": 113,
+		"TriggerName": "Tease_2_Trigger",
+		"Audio": "VO_Elf_13_DurSword_Respond_2",
+		"AudioDelayTime": 3458,
+		"SelfCD": 18500,
+		"Priority": 2,
+		"TriggerEffectList": [],
+		"FaceAnimationKey": "Elf_13_02",
+		"FaceAnimationDelayTime": 0,
+		"DataImpl": {},
+		"GalEventID": 11302
+	},
+	{
+		"ElfID": 114,
+		"TriggerName": "Tease_1_Trigger",
+		"Audio": "VO_Elf_14_ElfEly_Respond_1",
+		"AudioDelayTime": 100,
+		"SelfCD": 5000,
+		"Priority": 2,
+		"TriggerEffectList": [],
+		"FaceAnimationKey": "Elf_14_01",
+		"FaceAnimationDelayTime": 0,
+		"DataImpl": {},
+		"GalEventID": 11401
+	},
+	{
+		"ElfID": 114,
+		"TriggerName": "Tease_2_Trigger",
+		"Audio": "VO_Elf_14_ElfEly_Respond_2",
+		"AudioDelayTime": 100,
+		"SelfCD": 5000,
+		"Priority": 1,
+		"TriggerEffectList": [
+			{
+				"BeginTime": 2.5,
+				"AttachPoint": "WeaponEffectUI",
+				"EffectPath": "Effect/Elf/Elf_14/Effect_Elf_14_Idle_2_Show"
+			}
+		],
+		"FaceAnimationKey": "Elf_14_02",
+		"FaceAnimationDelayTime": 0,
+		"DataImpl": {},
+		"GalEventID": 11402
+	},
+	{
+		"ElfID": 115,
+		"TriggerName": "Tease_1_Trigger",
+		"Audio": "VO_Elf_15_Kiana_Respond_1",
+		"AudioDelayTime": 100,
+		"SelfCD": 5000,
+		"Priority": 2,
+		"TriggerEffectList": [],
+		"FaceAnimationKey": "Elf_15_01",
+		"FaceAnimationDelayTime": 0,
+		"DataImpl": {},
+		"GalEventID": 11501
+	},
+	{
+		"ElfID": 115,
+		"TriggerName": "Tease_2_Trigger",
+		"Audio": "VO_Elf_15_Kiana_Respond_2",
+		"AudioDelayTime": 100,
+		"SelfCD": 5000,
+		"Priority": 1,
+		"TriggerEffectList": [],
+		"FaceAnimationKey": "Elf_15_02",
+		"FaceAnimationDelayTime": 0,
+		"DataImpl": {},
+		"GalEventID": 11502
+	}
+]

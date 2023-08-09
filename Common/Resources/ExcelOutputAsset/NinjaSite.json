@@ -1,0 +1,794 @@
+[
+	{
+		"AreaID": 8,
+		"SiteType": 1,
+		"UIIndex": "1_1",
+		"LineUIIndex": "",
+		"StageID": 15200101,
+		"NextStageID": 15200107,
+		"ChangeText": {
+			"hash": -2014377047
+		},
+		"UnlockSlotLevel": 0,
+		"PreSiteID": 0,
+		"LockText": {
+			"hash": -1901258210
+		},
+		"PointTitle": {
+			"hash": -1435597961
+		},
+		"PointDesc": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"SiteID": 2001
+	},
+	{
+		"AreaID": 8,
+		"SiteType": 1,
+		"UIIndex": "1_2",
+		"LineUIIndex": "1_1",
+		"StageID": 15200102,
+		"NextStageID": 15200108,
+		"ChangeText": {
+			"hash": -2014377046
+		},
+		"UnlockSlotLevel": 0,
+		"PreSiteID": 2001,
+		"LockText": {
+			"hash": -1901258209
+		},
+		"PointTitle": {
+			"hash": -1435597960
+		},
+		"PointDesc": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"SiteID": 2002
+	},
+	{
+		"AreaID": 8,
+		"SiteType": 1,
+		"UIIndex": "1_3",
+		"LineUIIndex": "1_2",
+		"StageID": 15200103,
+		"NextStageID": 15200109,
+		"ChangeText": {
+			"hash": -2014377045
+		},
+		"UnlockSlotLevel": 0,
+		"PreSiteID": 2002,
+		"LockText": {
+			"hash": -1901258208
+		},
+		"PointTitle": {
+			"hash": -1435597959
+		},
+		"PointDesc": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"SiteID": 2003
+	},
+	{
+		"AreaID": 8,
+		"SiteType": 2,
+		"UIIndex": "1_Boss",
+		"LineUIIndex": "1_3",
+		"StageID": 15200104,
+		"NextStageID": 0,
+		"ChangeText": {
+			"hash": -1022930667
+		},
+		"UnlockSlotLevel": 1,
+		"PreSiteID": 2003,
+		"LockText": {
+			"hash": -1901258207
+		},
+		"PointTitle": {
+			"hash": -1435597958
+		},
+		"PointDesc": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"SiteID": 2004
+	},
+	{
+		"AreaID": 8,
+		"SiteType": 3,
+		"UIIndex": "1_Event",
+		"LineUIIndex": "",
+		"StageID": 15200105,
+		"NextStageID": 0,
+		"ChangeText": {
+			"hash": -1643113998
+		},
+		"UnlockSlotLevel": 0,
+		"PreSiteID": 2004,
+		"LockText": {
+			"hash": -1901258206
+		},
+		"PointTitle": {
+			"hash": -1435597957
+		},
+		"PointDesc": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"SiteID": 2005
+	},
+	{
+		"AreaID": 9,
+		"SiteType": 1,
+		"UIIndex": "2_1",
+		"LineUIIndex": "",
+		"StageID": 15200111,
+		"NextStageID": 15200117,
+		"ChangeText": {
+			"hash": -2014376086
+		},
+		"UnlockSlotLevel": 0,
+		"PreSiteID": 0,
+		"LockText": {
+			"hash": -1901258179
+		},
+		"PointTitle": {
+			"hash": -1435597930
+		},
+		"PointDesc": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"SiteID": 2011
+	},
+	{
+		"AreaID": 9,
+		"SiteType": 1,
+		"UIIndex": "2_2",
+		"LineUIIndex": "2_1",
+		"StageID": 15200112,
+		"NextStageID": 15200118,
+		"ChangeText": {
+			"hash": -2014376085
+		},
+		"UnlockSlotLevel": 0,
+		"PreSiteID": 2011,
+		"LockText": {
+			"hash": -1901258178
+		},
+		"PointTitle": {
+			"hash": -1435597929
+		},
+		"PointDesc": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"SiteID": 2012
+	},
+	{
+		"AreaID": 9,
+		"SiteType": 1,
+		"UIIndex": "2_3",
+		"LineUIIndex": "2_2",
+		"StageID": 15200113,
+		"NextStageID": 15200119,
+		"ChangeText": {
+			"hash": -2014376084
+		},
+		"UnlockSlotLevel": 0,
+		"PreSiteID": 2012,
+		"LockText": {
+			"hash": -1901258177
+		},
+		"PointTitle": {
+			"hash": -1435597928
+		},
+		"PointDesc": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"SiteID": 2013
+	},
+	{
+		"AreaID": 9,
+		"SiteType": 2,
+		"UIIndex": "2_Boss",
+		"LineUIIndex": "2_3",
+		"StageID": 15200114,
+		"NextStageID": 0,
+		"ChangeText": {
+			"hash": -994301516
+		},
+		"UnlockSlotLevel": 1,
+		"PreSiteID": 2013,
+		"LockText": {
+			"hash": -1901258176
+		},
+		"PointTitle": {
+			"hash": -1435597927
+		},
+		"PointDesc": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"SiteID": 2014
+	},
+	{
+		"AreaID": 9,
+		"SiteType": 3,
+		"UIIndex": "2_Event",
+		"LineUIIndex": "",
+		"StageID": 15200115,
+		"NextStageID": 0,
+		"ChangeText": {
+			"hash": -755610317
+		},
+		"UnlockSlotLevel": 0,
+		"PreSiteID": 2014,
+		"LockText": {
+			"hash": -1901258175
+		},
+		"PointTitle": {
+			"hash": -1435597926
+		},
+		"PointDesc": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"SiteID": 2015
+	},
+	{
+		"AreaID": 10,
+		"SiteType": 1,
+		"UIIndex": "3_1",
+		"LineUIIndex": "",
+		"StageID": 15200121,
+		"NextStageID": 15200127,
+		"ChangeText": {
+			"hash": -2014375125
+		},
+		"UnlockSlotLevel": 0,
+		"PreSiteID": 0,
+		"LockText": {
+			"hash": -1901258148
+		},
+		"PointTitle": {
+			"hash": -1435597899
+		},
+		"PointDesc": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"SiteID": 2021
+	},
+	{
+		"AreaID": 10,
+		"SiteType": 1,
+		"UIIndex": "3_2",
+		"LineUIIndex": "3_1",
+		"StageID": 15200122,
+		"NextStageID": 15200128,
+		"ChangeText": {
+			"hash": -2014375124
+		},
+		"UnlockSlotLevel": 0,
+		"PreSiteID": 2021,
+		"LockText": {
+			"hash": -1901258147
+		},
+		"PointTitle": {
+			"hash": -1435597898
+		},
+		"PointDesc": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"SiteID": 2022
+	},
+	{
+		"AreaID": 10,
+		"SiteType": 1,
+		"UIIndex": "3_3",
+		"LineUIIndex": "3_2",
+		"StageID": 15200123,
+		"NextStageID": 15200129,
+		"ChangeText": {
+			"hash": -2014375123
+		},
+		"UnlockSlotLevel": 0,
+		"PreSiteID": 2022,
+		"LockText": {
+			"hash": -1901258146
+		},
+		"PointTitle": {
+			"hash": -1435597897
+		},
+		"PointDesc": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"SiteID": 2023
+	},
+	{
+		"AreaID": 10,
+		"SiteType": 2,
+		"UIIndex": "3_Boss",
+		"LineUIIndex": "3_3",
+		"StageID": 15200124,
+		"NextStageID": 0,
+		"ChangeText": {
+			"hash": -965672365
+		},
+		"UnlockSlotLevel": 1,
+		"PreSiteID": 2023,
+		"LockText": {
+			"hash": -1901258145
+		},
+		"PointTitle": {
+			"hash": -1435597896
+		},
+		"PointDesc": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"SiteID": 2024
+	},
+	{
+		"AreaID": 10,
+		"SiteType": 3,
+		"UIIndex": "3_Event",
+		"LineUIIndex": "",
+		"StageID": 15200125,
+		"NextStageID": 0,
+		"ChangeText": {
+			"hash": 131893364
+		},
+		"UnlockSlotLevel": 0,
+		"PreSiteID": 2024,
+		"LockText": {
+			"hash": -1901258144
+		},
+		"PointTitle": {
+			"hash": -1435597895
+		},
+		"PointDesc": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"SiteID": 2025
+	},
+	{
+		"AreaID": 11,
+		"SiteType": 1,
+		"UIIndex": "4_1",
+		"LineUIIndex": "",
+		"StageID": 15200131,
+		"NextStageID": 15200137,
+		"ChangeText": {
+			"hash": -2014374164
+		},
+		"UnlockSlotLevel": 0,
+		"PreSiteID": 0,
+		"LockText": {
+			"hash": -1901258117
+		},
+		"PointTitle": {
+			"hash": -1435597868
+		},
+		"PointDesc": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"SiteID": 2031
+	},
+	{
+		"AreaID": 11,
+		"SiteType": 1,
+		"UIIndex": "4_2",
+		"LineUIIndex": "4_1",
+		"StageID": 15200132,
+		"NextStageID": 15200138,
+		"ChangeText": {
+			"hash": -2014374163
+		},
+		"UnlockSlotLevel": 0,
+		"PreSiteID": 2031,
+		"LockText": {
+			"hash": -1901258116
+		},
+		"PointTitle": {
+			"hash": -1435597867
+		},
+		"PointDesc": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"SiteID": 2032
+	},
+	{
+		"AreaID": 11,
+		"SiteType": 1,
+		"UIIndex": "4_3",
+		"LineUIIndex": "4_2",
+		"StageID": 15200133,
+		"NextStageID": 15200139,
+		"ChangeText": {
+			"hash": -2014374162
+		},
+		"UnlockSlotLevel": 0,
+		"PreSiteID": 2032,
+		"LockText": {
+			"hash": -1901258115
+		},
+		"PointTitle": {
+			"hash": -1435597866
+		},
+		"PointDesc": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"SiteID": 2033
+	},
+	{
+		"AreaID": 11,
+		"SiteType": 2,
+		"UIIndex": "4_Boss",
+		"LineUIIndex": "4_3",
+		"StageID": 15200134,
+		"NextStageID": 0,
+		"ChangeText": {
+			"hash": -937043214
+		},
+		"UnlockSlotLevel": 1,
+		"PreSiteID": 2033,
+		"LockText": {
+			"hash": -1901258114
+		},
+		"PointTitle": {
+			"hash": -1435597865
+		},
+		"PointDesc": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"SiteID": 2034
+	},
+	{
+		"AreaID": 11,
+		"SiteType": 3,
+		"UIIndex": "4_Event",
+		"LineUIIndex": "",
+		"StageID": 15200135,
+		"NextStageID": 0,
+		"ChangeText": {
+			"hash": 1019397045
+		},
+		"UnlockSlotLevel": 0,
+		"PreSiteID": 2034,
+		"LockText": {
+			"hash": -1901258113
+		},
+		"PointTitle": {
+			"hash": -1435597864
+		},
+		"PointDesc": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"SiteID": 2035
+	},
+	{
+		"AreaID": 12,
+		"SiteType": 1,
+		"UIIndex": "5_1",
+		"LineUIIndex": "",
+		"StageID": 15200141,
+		"NextStageID": 15200147,
+		"ChangeText": {
+			"hash": -2014373203
+		},
+		"UnlockSlotLevel": 0,
+		"PreSiteID": 0,
+		"LockText": {
+			"hash": -1901258086
+		},
+		"PointTitle": {
+			"hash": -1435597837
+		},
+		"PointDesc": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"SiteID": 2041
+	},
+	{
+		"AreaID": 12,
+		"SiteType": 1,
+		"UIIndex": "5_2",
+		"LineUIIndex": "5_1",
+		"StageID": 15200142,
+		"NextStageID": 15200148,
+		"ChangeText": {
+			"hash": -2014373202
+		},
+		"UnlockSlotLevel": 0,
+		"PreSiteID": 2041,
+		"LockText": {
+			"hash": -1901258085
+		},
+		"PointTitle": {
+			"hash": -1435597836
+		},
+		"PointDesc": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"SiteID": 2042
+	},
+	{
+		"AreaID": 12,
+		"SiteType": 1,
+		"UIIndex": "5_3",
+		"LineUIIndex": "5_2",
+		"StageID": 15200143,
+		"NextStageID": 15200149,
+		"ChangeText": {
+			"hash": -2014373201
+		},
+		"UnlockSlotLevel": 0,
+		"PreSiteID": 2042,
+		"LockText": {
+			"hash": -1901258084
+		},
+		"PointTitle": {
+			"hash": -1435597835
+		},
+		"PointDesc": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"SiteID": 2043
+	},
+	{
+		"AreaID": 12,
+		"SiteType": 2,
+		"UIIndex": "5_Boss",
+		"LineUIIndex": "5_3",
+		"StageID": 15200144,
+		"NextStageID": 0,
+		"ChangeText": {
+			"hash": -908414063
+		},
+		"UnlockSlotLevel": 1,
+		"PreSiteID": 2043,
+		"LockText": {
+			"hash": -1901258083
+		},
+		"PointTitle": {
+			"hash": -1435597834
+		},
+		"PointDesc": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"SiteID": 2044
+	},
+	{
+		"AreaID": 12,
+		"SiteType": 3,
+		"UIIndex": "5_Event",
+		"LineUIIndex": "",
+		"StageID": 15200145,
+		"NextStageID": 0,
+		"ChangeText": {
+			"hash": 1906900726
+		},
+		"UnlockSlotLevel": 0,
+		"PreSiteID": 2044,
+		"LockText": {
+			"hash": -1901258082
+		},
+		"PointTitle": {
+			"hash": -1435597833
+		},
+		"PointDesc": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"SiteID": 2045
+	},
+	{
+		"AreaID": 13,
+		"SiteType": 1,
+		"UIIndex": "6_1",
+		"LineUIIndex": "",
+		"StageID": 15200151,
+		"NextStageID": 15200157,
+		"ChangeText": {
+			"hash": -2014372242
+		},
+		"UnlockSlotLevel": 0,
+		"PreSiteID": 0,
+		"LockText": {
+			"hash": -1901258055
+		},
+		"PointTitle": {
+			"hash": -1435597806
+		},
+		"PointDesc": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"SiteID": 2051
+	},
+	{
+		"AreaID": 13,
+		"SiteType": 1,
+		"UIIndex": "6_2",
+		"LineUIIndex": "6_1",
+		"StageID": 15200152,
+		"NextStageID": 15200158,
+		"ChangeText": {
+			"hash": -2014372241
+		},
+		"UnlockSlotLevel": 0,
+		"PreSiteID": 2051,
+		"LockText": {
+			"hash": -1901258054
+		},
+		"PointTitle": {
+			"hash": -1435597805
+		},
+		"PointDesc": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"SiteID": 2052
+	},
+	{
+		"AreaID": 13,
+		"SiteType": 1,
+		"UIIndex": "6_3",
+		"LineUIIndex": "6_2",
+		"StageID": 15200153,
+		"NextStageID": 15200159,
+		"ChangeText": {
+			"hash": -2014372240
+		},
+		"UnlockSlotLevel": 0,
+		"PreSiteID": 2052,
+		"LockText": {
+			"hash": -1901258053
+		},
+		"PointTitle": {
+			"hash": -1435597804
+		},
+		"PointDesc": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"SiteID": 2053
+	},
+	{
+		"AreaID": 13,
+		"SiteType": 2,
+		"UIIndex": "6_Boss",
+		"LineUIIndex": "6_3",
+		"StageID": 15200154,
+		"NextStageID": 0,
+		"ChangeText": {
+			"hash": -879784912
+		},
+		"UnlockSlotLevel": 1,
+		"PreSiteID": 2053,
+		"LockText": {
+			"hash": -1901258052
+		},
+		"PointTitle": {
+			"hash": -1435597803
+		},
+		"PointDesc": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"SiteID": 2054
+	},
+	{
+		"AreaID": 13,
+		"SiteType": 3,
+		"UIIndex": "6_Event",
+		"LineUIIndex": "",
+		"StageID": 15200155,
+		"NextStageID": 0,
+		"ChangeText": {
+			"hash": -1500562889
+		},
+		"UnlockSlotLevel": 0,
+		"PreSiteID": 2054,
+		"LockText": {
+			"hash": -1901258051
+		},
+		"PointTitle": {
+			"hash": -1435597802
+		},
+		"PointDesc": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"SiteID": 2055
+	},
+	{
+		"AreaID": 14,
+		"SiteType": 1,
+		"UIIndex": "7_1",
+		"LineUIIndex": "",
+		"StageID": 15200163,
+		"NextStageID": 15200164,
+		"ChangeText": {
+			"hash": -2014371281
+		},
+		"UnlockSlotLevel": 0,
+		"PreSiteID": 0,
+		"LockText": {
+			"hash": -1901258024
+		},
+		"PointTitle": {
+			"hash": -1435597775
+		},
+		"PointDesc": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"SiteID": 2061
+	},
+	{
+		"AreaID": 14,
+		"SiteType": 2,
+		"UIIndex": "7_Boss",
+		"LineUIIndex": "7_1",
+		"StageID": 15200161,
+		"NextStageID": 0,
+		"ChangeText": {
+			"hash": -851155761
+		},
+		"UnlockSlotLevel": 0,
+		"PreSiteID": 2061,
+		"LockText": {
+			"hash": -1901258023
+		},
+		"PointTitle": {
+			"hash": -1435597774
+		},
+		"PointDesc": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"SiteID": 2062
+	},
+	{
+		"AreaID": 14,
+		"SiteType": 3,
+		"UIIndex": "7_Event",
+		"LineUIIndex": "",
+		"StageID": 15200162,
+		"NextStageID": 0,
+		"ChangeText": {
+			"hash": -613059208
+		},
+		"UnlockSlotLevel": 0,
+		"PreSiteID": 2062,
+		"LockText": {
+			"hash": -1901258022
+		},
+		"PointTitle": {
+			"hash": -1435597773
+		},
+		"PointDesc": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"SiteID": 2063
+	}
+]

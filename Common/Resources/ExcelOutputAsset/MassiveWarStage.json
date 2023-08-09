@@ -1,0 +1,126 @@
+[
+	{
+		"DamageNeedRatio": 100,
+		"MonsterWaveList": [
+			{
+				"Wave": 1,
+				"MessageID": 1,
+				"UniqueMonsterID": 1831
+			}
+		],
+		"BossIdList": [
+			1
+		],
+		"StageImagePath": "SpriteOutput/ActPicBoss/ActPicBoss180",
+		"StageImagePathRankingPage": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_180",
+		"StageInfoIdList": [
+			4,
+			5,
+			6
+		],
+		"DataImpl": {},
+		"StageID": 145601
+	},
+	{
+		"DamageNeedRatio": 100,
+		"MonsterWaveList": [
+			{
+				"Wave": 1,
+				"MessageID": 1,
+				"UniqueMonsterID": 1822
+			}
+		],
+		"BossIdList": [
+			3
+		],
+		"StageImagePath": "SpriteOutput/ActPicBoss/ActPicBoss180",
+		"StageImagePathRankingPage": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_180",
+		"StageInfoIdList": [
+			4,
+			5,
+			6
+		],
+		"DataImpl": {},
+		"StageID": 145602
+	},
+	{
+		"DamageNeedRatio": 100,
+		"MonsterWaveList": [
+			{
+				"Wave": 1,
+				"MessageID": 1,
+				"UniqueMonsterID": 1826
+			}
+		],
+		"BossIdList": [
+			2
+		],
+		"StageImagePath": "SpriteOutput/ActPicBoss/ActPicBoss190",
+		"StageImagePathRankingPage": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_190",
+		"StageInfoIdList": [],
+		"DataImpl": {},
+		"StageID": 145603
+	},
+	{
+		"DamageNeedRatio": 100,
+		"MonsterWaveList": [
+			{
+				"Wave": 1,
+				"MessageID": 1,
+				"UniqueMonsterID": 1826
+			}
+		],
+		"BossIdList": [
+			4
+		],
+		"StageImagePath": "SpriteOutput/ActPicBoss/ActPicBoss190",
+		"StageImagePathRankingPage": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_190",
+		"StageInfoIdList": [],
+		"DataImpl": {},
+		"StageID": 145604
+	},
+	{
+		"DamageNeedRatio": 100,
+		"MonsterWaveList": [
+			{
+				"Wave": 1,
+				"MessageID": 1,
+				"UniqueMonsterID": 1849
+			}
+		],
+		"BossIdList": [
+			5
+		],
+		"StageImagePath": "SpriteOutput/ActPicBoss/ActPicBoss230",
+		"StageImagePathRankingPage": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_230",
+		"StageInfoIdList": [
+			1,
+			2,
+			3
+		],
+		"DataImpl": {},
+		"StageID": 145605
+	},
+	{
+		"DamageNeedRatio": 100,
+		"MonsterWaveList": [
+			{
+				"Wave": 1,
+				"MessageID": 1,
+				"UniqueMonsterID": 1851
+			}
+		],
+		"BossIdList": [
+			6
+		],
+		"StageImagePath": "SpriteOutput/ActPicBoss/ActPicBoss230",
+		"StageImagePathRankingPage": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_230",
+		"StageInfoIdList": [
+			1,
+			2,
+			3
+		],
+		"DataImpl": {},
+		"StageID": 145606
+	}
+]

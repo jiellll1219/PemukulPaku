@@ -1,0 +1,182 @@
+[
+	{
+		"EntryPrefab": "UI/Menus/Widget/MainPage/BottomEntry/Newcomer",
+		"BeginTime": {
+			"TimeStampForBakedReader": 1577880000
+		},
+		"EndTime": {
+			"TimeStampForBakedReader": 4070952000
+		},
+		"MinLevel": 0,
+		"MaxLevel": 255,
+		"Priority": 0,
+		"Type": 1,
+		"Param1": [
+			1069
+		],
+		"DataImpl": {},
+		"ID": 1
+	},
+	{
+		"EntryPrefab": "UI/Menus/Widget/MainPage/BottomEntry/GradeRewardBtn",
+		"BeginTime": {
+			"TimeStampForBakedReader": 1577880000
+		},
+		"EndTime": {
+			"TimeStampForBakedReader": 4070952000
+		},
+		"MinLevel": 0,
+		"MaxLevel": 255,
+		"Priority": 3,
+		"Type": 2,
+		"Param1": [
+			131
+		],
+		"DataImpl": {},
+		"ID": 2
+	},
+	{
+		"EntryPrefab": "UI/Menus/Widget/MainPage/BottomEntry/Blessings",
+		"BeginTime": {
+			"TimeStampForBakedReader": 1577880000
+		},
+		"EndTime": {
+			"TimeStampForBakedReader": 4070952000
+		},
+		"MinLevel": 0,
+		"MaxLevel": 255,
+		"Priority": 6,
+		"Type": 3,
+		"Param1": [
+			0
+		],
+		"DataImpl": {},
+		"ID": 3
+	},
+	{
+		"EntryPrefab": "UI/Menus/Page/HerrscherOfFlamescionPreheatActivity/HerrscherOfFlamescionPreheatActivityBtn",
+		"BeginTime": {
+			"TimeStampForBakedReader": 1626321600
+		},
+		"EndTime": {
+			"TimeStampForBakedReader": 1626667200
+		},
+		"MinLevel": 0,
+		"MaxLevel": 255,
+		"Priority": 4,
+		"Type": 4,
+		"Param1": [
+			132
+		],
+		"DataImpl": {},
+		"ID": 4
+	},
+	{
+		"EntryPrefab": "UI/Menus/Widget/MainPage/BottomEntry/AILetterBtn",
+		"BeginTime": {
+			"TimeStampForBakedReader": 1626523200
+		},
+		"EndTime": {
+			"TimeStampForBakedReader": 1628913600
+		},
+		"MinLevel": 0,
+		"MaxLevel": 255,
+		"Priority": 5,
+		"Type": 5,
+		"Param1": [
+			134
+		],
+		"DataImpl": {},
+		"ID": 5
+	},
+	{
+		"EntryPrefab": "UI/Menus/Widget/MainPage/BottomEntry/AILetterBtn",
+		"BeginTime": {
+			"TimeStampForBakedReader": 1633289400
+		},
+		"EndTime": {
+			"TimeStampForBakedReader": 1633462199
+		},
+		"MinLevel": 0,
+		"MaxLevel": 255,
+		"Priority": 5,
+		"Type": 5,
+		"Param1": [
+			134
+		],
+		"DataImpl": {},
+		"ID": 6
+	},
+	{
+		"EntryPrefab": "UI/Menus/Page/HerrscherOfFlamescionPreheatActivity/HerrscherOfFlamescionPreheatActivityBtn",
+		"BeginTime": {
+			"TimeStampForBakedReader": 1660190400
+		},
+		"EndTime": {
+			"TimeStampForBakedReader": 1665144000
+		},
+		"MinLevel": 0,
+		"MaxLevel": 255,
+		"Priority": 4,
+		"Type": 4,
+		"Param1": [
+			132
+		],
+		"DataImpl": {},
+		"ID": 8
+	},
+	{
+		"EntryPrefab": "UI/Menus/Widget/MainPage/BottomEntry/AILetterBtn",
+		"BeginTime": {
+			"TimeStampForBakedReader": 1663358400
+		},
+		"EndTime": {
+			"TimeStampForBakedReader": 1665144000
+		},
+		"MinLevel": 0,
+		"MaxLevel": 255,
+		"Priority": 5,
+		"Type": 5,
+		"Param1": [
+			134
+		],
+		"DataImpl": {},
+		"ID": 9
+	},
+	{
+		"EntryPrefab": "UI/Menus/Widget/MainPage/BottomEntry/AILetterBtn",
+		"BeginTime": {
+			"TimeStampForBakedReader": 1678356000
+		},
+		"EndTime": {
+			"TimeStampForBakedReader": 1680753599
+		},
+		"MinLevel": 30,
+		"MaxLevel": 255,
+		"Priority": 5,
+		"Type": 5,
+		"Param1": [
+			134
+		],
+		"DataImpl": {},
+		"ID": 11
+	},
+	{
+		"EntryPrefab": "UI/Menus/Page/HerrscherOfCrescentPreheatActivity/HerrscherOfCrescentPreheatActivityBtn",
+		"BeginTime": {
+			"TimeStampForBakedReader": 1676520000
+		},
+		"EndTime": {
+			"TimeStampForBakedReader": 1679054400
+		},
+		"MinLevel": 0,
+		"MaxLevel": 255,
+		"Priority": 4,
+		"Type": 4,
+		"Param1": [
+			132
+		],
+		"DataImpl": {},
+		"ID": 12
+	}
+]

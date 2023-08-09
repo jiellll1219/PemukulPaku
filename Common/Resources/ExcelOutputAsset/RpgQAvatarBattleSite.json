@@ -1,0 +1,67 @@
+[
+	{
+		"BGM": "KingdomWarPhaseOne",
+		"BattleTimeMax": 200,
+		"WinCondition": 2,
+		"FinishBattleKill": 6,
+		"DieEffect": "TiledGame_Effect_CreateObj_PVP",
+		"GadgetBuffName": "QAVATAR_BUFF_AttackUp_Stackable1",
+		"GadgetBuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_AtkDfUp",
+		"BeatKillNum": 5,
+		"BeatRemainTime": 20,
+		"DataImpl": {},
+		"SiteId": 14401
+	},
+	{
+		"BGM": "KingdomWarPhaseOne",
+		"BattleTimeMax": 200,
+		"WinCondition": 1,
+		"FinishBattleKill": 12,
+		"DieEffect": "TiledGame_Effect_CreateObj_PVP",
+		"GadgetBuffName": "QAVATAR_BUFF_AttackUp_Stackable1",
+		"GadgetBuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_AtkDfUp",
+		"BeatKillNum": 11,
+		"BeatRemainTime": 20,
+		"DataImpl": {},
+		"SiteId": 14402
+	},
+	{
+		"BGM": "KingdomWarPhaseOne",
+		"BattleTimeMax": 220,
+		"WinCondition": 1,
+		"FinishBattleKill": 15,
+		"DieEffect": "TiledGame_Effect_CreateObj_PVP",
+		"GadgetBuffName": "QAVATAR_BUFF_AttackUp_Stackable1",
+		"GadgetBuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_AtkDfUp",
+		"BeatKillNum": 14,
+		"BeatRemainTime": 20,
+		"DataImpl": {},
+		"SiteId": 14403
+	},
+	{
+		"BGM": "KingdomWarPhaseOne",
+		"BattleTimeMax": 200,
+		"WinCondition": 1,
+		"FinishBattleKill": 12,
+		"DieEffect": "TiledGame_Effect_CreateObj_PVP",
+		"GadgetBuffName": "QAVATAR_BUFF_AttackUp_Stackable1",
+		"GadgetBuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_AtkDfUp",
+		"BeatKillNum": 11,
+		"BeatRemainTime": 20,
+		"DataImpl": {},
+		"SiteId": 14404
+	},
+	{
+		"BGM": "KingdomWarPhaseOne",
+		"BattleTimeMax": 200,
+		"WinCondition": 1,
+		"FinishBattleKill": 9,
+		"DieEffect": "TiledGame_Effect_CreateObj_PVP",
+		"GadgetBuffName": "QAVATAR_BUFF_AttackUp_Stackable1",
+		"GadgetBuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_AtkDfUp",
+		"BeatKillNum": 5,
+		"BeatRemainTime": 20,
+		"DataImpl": {},
+		"SiteId": 14405
+	}
+]

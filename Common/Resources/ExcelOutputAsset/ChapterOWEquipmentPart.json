@@ -1,0 +1,71 @@
+[
+	{
+		"UnlockConditionList": "",
+		"SlotIDList": [
+			1
+		],
+		"InitialCost": 20,
+		"UINodePath": "Node0",
+		"DataImpl": {},
+		"PartID": 1
+	},
+	{
+		"UnlockConditionList": "",
+		"SlotIDList": [
+			2,
+			3,
+			4,
+			5
+		],
+		"InitialCost": 20,
+		"UINodePath": "Node1",
+		"DataImpl": {},
+		"PartID": 2
+	},
+	{
+		"UnlockConditionList": "",
+		"SlotIDList": [
+			6,
+			7,
+			8,
+			9
+		],
+		"InitialCost": 20,
+		"UINodePath": "Node2",
+		"DataImpl": {},
+		"PartID": 3
+	},
+	{
+		"UnlockConditionList": "",
+		"SlotIDList": [
+			10,
+			13
+		],
+		"InitialCost": 0,
+		"UINodePath": "Node3",
+		"DataImpl": {},
+		"PartID": 4
+	},
+	{
+		"UnlockConditionList": "",
+		"SlotIDList": [
+			11,
+			14
+		],
+		"InitialCost": 0,
+		"UINodePath": "Node4",
+		"DataImpl": {},
+		"PartID": 5
+	},
+	{
+		"UnlockConditionList": "",
+		"SlotIDList": [
+			12,
+			15
+		],
+		"InitialCost": 0,
+		"UINodePath": "Node5",
+		"DataImpl": {},
+		"PartID": 6
+	}
+]

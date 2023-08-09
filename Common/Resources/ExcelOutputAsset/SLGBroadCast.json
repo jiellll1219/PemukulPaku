@@ -1,0 +1,962 @@
+[
+	{
+		"ConfigID": 1,
+		"Type": 1,
+		"Parameter": "",
+		"Desc": {
+			"hash": 498407361
+		},
+		"ShowTime": 6,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 1
+	},
+	{
+		"ConfigID": 1,
+		"Type": 2,
+		"Parameter": "22000",
+		"Desc": {
+			"hash": 351871902
+		},
+		"ShowTime": 6,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 4
+	},
+	{
+		"ConfigID": 1,
+		"Type": 2,
+		"Parameter": "30000",
+		"Desc": {
+			"hash": 351871903
+		},
+		"ShowTime": 6,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 5
+	},
+	{
+		"ConfigID": 1,
+		"Type": 3,
+		"Parameter": "3",
+		"Desc": {
+			"hash": -2066858313
+		},
+		"ShowTime": 6,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 6
+	},
+	{
+		"ConfigID": 1,
+		"Type": 3,
+		"Parameter": "5",
+		"Desc": {
+			"hash": -2066858311
+		},
+		"ShowTime": 6,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 7
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-04-30 12:00:00",
+		"Desc": {
+			"hash": -2066857347
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 8
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-04-30 13:50:00",
+		"Desc": {
+			"hash": -2066857346
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 9
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-04-30 20:00:00",
+		"Desc": {
+			"hash": -2066857347
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 10
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-04-30 21:50:00",
+		"Desc": {
+			"hash": -2066857346
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 11
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-01 12:00:00",
+		"Desc": {
+			"hash": -2066857347
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 12
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-01 13:50:00",
+		"Desc": {
+			"hash": -2066857346
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 13
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-01 20:00:00",
+		"Desc": {
+			"hash": -2066857347
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 14
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-01 21:50:00",
+		"Desc": {
+			"hash": -2066857346
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 15
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-02 12:00:00",
+		"Desc": {
+			"hash": -2066857347
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 16
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-02 13:50:00",
+		"Desc": {
+			"hash": -2066857346
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 17
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-02 20:00:00",
+		"Desc": {
+			"hash": -2066857347
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 18
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-02 21:50:00",
+		"Desc": {
+			"hash": -2066857346
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 19
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-03 12:00:00",
+		"Desc": {
+			"hash": -2066857347
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 20
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-03 13:50:00",
+		"Desc": {
+			"hash": -2066857346
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 21
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-03 20:00:00",
+		"Desc": {
+			"hash": -2066857347
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 22
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-03 21:50:00",
+		"Desc": {
+			"hash": -2066857346
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 23
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-04 12:00:00",
+		"Desc": {
+			"hash": -2066857347
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 24
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-04 13:50:00",
+		"Desc": {
+			"hash": -2066857346
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 25
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-04 20:00:00",
+		"Desc": {
+			"hash": -2066857347
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 26
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-04 21:50:00",
+		"Desc": {
+			"hash": -2066857346
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 27
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-05 12:00:00",
+		"Desc": {
+			"hash": -2066857347
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 28
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-05 13:50:00",
+		"Desc": {
+			"hash": -2066857346
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 29
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-05 20:00:00",
+		"Desc": {
+			"hash": -2066857347
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 30
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-05 21:50:00",
+		"Desc": {
+			"hash": -2066857346
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 31
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-06 12:00:00",
+		"Desc": {
+			"hash": -2066857347
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 32
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-06 13:50:00",
+		"Desc": {
+			"hash": -2066857346
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 33
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-06 20:00:00",
+		"Desc": {
+			"hash": -2066857347
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 34
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-06 21:50:00",
+		"Desc": {
+			"hash": -2066857346
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 35
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-07 12:00:00",
+		"Desc": {
+			"hash": -2066857347
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 36
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-07 13:50:00",
+		"Desc": {
+			"hash": -2066857346
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 37
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-07 20:00:00",
+		"Desc": {
+			"hash": -2066857347
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 38
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-07 21:50:00",
+		"Desc": {
+			"hash": -2066857346
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 39
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-08 12:00:00",
+		"Desc": {
+			"hash": -2066857347
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 40
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-08 13:50:00",
+		"Desc": {
+			"hash": -2066857346
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 41
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-08 20:00:00",
+		"Desc": {
+			"hash": -2066857347
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 42
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-08 21:50:00",
+		"Desc": {
+			"hash": -2066857346
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 43
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-09 12:00:00",
+		"Desc": {
+			"hash": -2066857347
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 44
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-09 13:50:00",
+		"Desc": {
+			"hash": -2066857346
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 45
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-09 20:00:00",
+		"Desc": {
+			"hash": -2066857347
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 46
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-09 21:50:00",
+		"Desc": {
+			"hash": -2066857346
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 47
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-10 12:00:00",
+		"Desc": {
+			"hash": -2066857347
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 48
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-10 13:50:00",
+		"Desc": {
+			"hash": -2066857346
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 49
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-10 20:00:00",
+		"Desc": {
+			"hash": -2066857347
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 50
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-10 21:50:00",
+		"Desc": {
+			"hash": -2066857346
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 51
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-11 12:00:00",
+		"Desc": {
+			"hash": -2066857347
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 52
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-11 13:50:00",
+		"Desc": {
+			"hash": -2066857346
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 53
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-11 20:00:00",
+		"Desc": {
+			"hash": -2066857347
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 54
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-11 21:50:00",
+		"Desc": {
+			"hash": -2066857346
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 55
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-12 12:00:00",
+		"Desc": {
+			"hash": -2066857347
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 56
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-12 13:50:00",
+		"Desc": {
+			"hash": -2066857346
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 57
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-12 20:00:00",
+		"Desc": {
+			"hash": -2066857347
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 58
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-12 21:50:00",
+		"Desc": {
+			"hash": -2066857346
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 59
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-13 12:00:00",
+		"Desc": {
+			"hash": -2066857347
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 60
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-13 13:50:00",
+		"Desc": {
+			"hash": -2066857346
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 61
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-13 20:00:00",
+		"Desc": {
+			"hash": -2066857347
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 62
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-13 21:50:00",
+		"Desc": {
+			"hash": -2066857346
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 63
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-14 12:00:00",
+		"Desc": {
+			"hash": -2066857347
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 64
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-14 13:50:00",
+		"Desc": {
+			"hash": -2066857346
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 65
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-14 20:00:00",
+		"Desc": {
+			"hash": -2066857347
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 66
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-14 21:50:00",
+		"Desc": {
+			"hash": -2066857346
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 67
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-04-30 22:50:00",
+		"Desc": {
+			"hash": 351931514
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 68
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-01 22:50:00",
+		"Desc": {
+			"hash": 351931514
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 69
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-02 22:50:00",
+		"Desc": {
+			"hash": 351931514
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 70
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-03 22:50:00",
+		"Desc": {
+			"hash": 351931514
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 71
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-04 22:50:00",
+		"Desc": {
+			"hash": 351931514
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 72
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-05 22:50:00",
+		"Desc": {
+			"hash": 351931514
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 73
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-06 22:50:00",
+		"Desc": {
+			"hash": 351931514
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 74
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-07 22:50:00",
+		"Desc": {
+			"hash": 351931514
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 75
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-08 22:50:00",
+		"Desc": {
+			"hash": 351931514
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 76
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-09 22:50:00",
+		"Desc": {
+			"hash": 351931514
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 77
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-10 22:50:00",
+		"Desc": {
+			"hash": 351931514
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 78
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-11 22:50:00",
+		"Desc": {
+			"hash": 351931514
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 79
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-12 22:50:00",
+		"Desc": {
+			"hash": 351931514
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 80
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-13 22:50:00",
+		"Desc": {
+			"hash": 351931514
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 81
+	},
+	{
+		"ConfigID": 1,
+		"Type": 4,
+		"Parameter": "2021-05-14 22:50:00",
+		"Desc": {
+			"hash": 351931514
+		},
+		"ShowTime": 7,
+		"IsShow": true,
+		"DataImpl": {},
+		"ID": 82
+	}
+]

@@ -1,0 +1,142 @@
+[
+	{
+		"TriggerPath": "Bip001",
+		"TriggerEffect": "Effect/AvatarBronya/GZ/Avatar_Bronya_GZ_Gal_Seele_Appear",
+		"Duration": 5000,
+		"DataImpl": {},
+		"EffectID": 1001
+	},
+	{
+		"TriggerPath": "Bip001",
+		"TriggerEffect": "Effect/AvatarSeele/HY/Avatar_Seele_HY_Seele_Appear",
+		"Duration": 5000,
+		"DataImpl": {},
+		"EffectID": 1002
+	},
+	{
+		"TriggerPath": "Bip001/Bip001 Prop2/Avatar_Durandal_C2_Weapon",
+		"TriggerEffect": "Effect/AvatarDurandal/Durandal_Common_Effect/Durandal_C2_Show_Start",
+		"Duration": 10000,
+		"DataImpl": {},
+		"EffectID": 1003
+	},
+	{
+		"TriggerPath": "Bip001/Bip001 Prop2/Avatar_Durandal_C2_Weapon",
+		"TriggerEffect": "Effect/AvatarDurandal/Durandal_Common_Effect/Durandal_C2_Show_Land",
+		"Duration": 10000,
+		"DataImpl": {},
+		"EffectID": 1004
+	},
+	{
+		"TriggerPath": "ROOT",
+		"TriggerEffect": "Effect/AvatarMei/AC/Avatar_Mei_AC_UI_EnterEffect_01",
+		"Duration": 10000,
+		"DataImpl": {},
+		"EffectID": 1005
+	},
+	{
+		"TriggerPath": "ROOT",
+		"TriggerEffect": "Effect/AvatarMei/AC/Avatar_Mei_AC_UI_EnterEffect_02",
+		"Duration": 10000,
+		"DataImpl": {},
+		"EffectID": 1006
+	},
+	{
+		"TriggerPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand",
+		"TriggerEffect": "Effect/AvatarMei/AC/Avatar_Mei_AC_UI_EnterEffect_03",
+		"Duration": 10000,
+		"DataImpl": {},
+		"EffectID": 1007
+	},
+	{
+		"TriggerPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand",
+		"TriggerEffect": "Effect/AvatarMei/AC/Avatar_Mei_AC_UI_EnterEffect_04",
+		"Duration": 10000,
+		"DataImpl": {},
+		"EffectID": 1008
+	},
+	{
+		"TriggerPath": "ROOT",
+		"TriggerEffect": "Effect/AvatarMei/AC/Avatar_Mei_AC_UI_EnterEffect_05",
+		"Duration": 50000,
+		"DataImpl": {},
+		"EffectID": 1009
+	},
+	{
+		"TriggerPath": "ROOT",
+		"TriggerEffect": "Effect/AvatarRita/IA/Avatar_Effect_Rita_IA_Gal13_Owl",
+		"Duration": 50000,
+		"DataImpl": {},
+		"EffectID": 1010
+	},
+	{
+		"TriggerPath": "ROOT",
+		"TriggerEffect": "Effect/AvatarRita/IA/Avatar_Effect_Rita_IA_Gal13_Owl_Dress01",
+		"Duration": 50000,
+		"DataImpl": {},
+		"EffectID": 1011
+	},
+	{
+		"TriggerPath": "ROOT",
+		"TriggerEffect": "Effect/AvatarBronya/CH/Avatar_Bronya_CH_UIPanel",
+		"Duration": 50000,
+		"DataImpl": {},
+		"EffectID": 1012
+	},
+	{
+		"TriggerPath": "ROOT",
+		"TriggerEffect": "Effect/AvatarBronya/CH_Dress04_01/Avatar_Bronya_CH_UIPanel_Dress04_01",
+		"Duration": 50000,
+		"DataImpl": {},
+		"EffectID": 1013
+	},
+	{
+		"TriggerPath": "ROOT",
+		"TriggerEffect": "Effect/AvatarBronya/CH/Avatar_Bronya_CH_UIGun",
+		"Duration": 50000,
+		"DataImpl": {},
+		"EffectID": 1014
+	},
+	{
+		"TriggerPath": "ROOT",
+		"TriggerEffect": "Effect/AvatarBronya/CH_Dress04_01/Avatar_Bronya_CH_UIGun_Dress04_01",
+		"Duration": 50000,
+		"DataImpl": {},
+		"EffectID": 1015
+	},
+	{
+		"TriggerPath": "ROOT",
+		"TriggerEffect": "Effect/AvatarBronya/CH/Avatar_Bronya_CH_UIUAV",
+		"Duration": 50000,
+		"DataImpl": {},
+		"EffectID": 1016
+	},
+	{
+		"TriggerPath": "ROOT",
+		"TriggerEffect": "Effect/AvatarBronya/CH_Dress04_01/Avatar_Bronya_CH_UIUAV_Dress04_01",
+		"Duration": 50000,
+		"DataImpl": {},
+		"EffectID": 1017
+	},
+	{
+		"TriggerPath": "ROOT",
+		"TriggerEffect": "Effect/AvatarSeele/Seele_SP_Effect/Avatar_Effect_Seele_SP_ScreenClaw",
+		"Duration": 50000,
+		"DataImpl": {},
+		"EffectID": 1018
+	},
+	{
+		"TriggerPath": "ROOT",
+		"TriggerEffect": "Effect/AvatarBronya/CH_Dress03_01/Avatar_Bronya_CH_UIUAV_Dress03_01",
+		"Duration": 50000,
+		"DataImpl": {},
+		"EffectID": 1019
+	},
+	{
+		"TriggerPath": "Bip001/DC_Bonus_Coin",
+		"TriggerEffect": "Effect/AvatarRaven/DC/Effect_Avatar_Raven_DC_Mm_Coin",
+		"Duration": 50000,
+		"DataImpl": {},
+		"EffectID": 1020
+	}
+]

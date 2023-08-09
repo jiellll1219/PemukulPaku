@@ -1,0 +1,38 @@
+[
+	{
+		"UnlockConditionList": "",
+		"MaterialDropLimitList": [
+			{
+				"MaterialID": 121522,
+				"Number": 1600
+			}
+		],
+		"DataImpl": {},
+		"ActivityScheduleID": 2001,
+		"Priority": 1
+	},
+	{
+		"UnlockConditionList": "2|1727010",
+		"MaterialDropLimitList": [
+			{
+				"MaterialID": 121522,
+				"Number": 3600
+			}
+		],
+		"DataImpl": {},
+		"ActivityScheduleID": 2001,
+		"Priority": 2
+	},
+	{
+		"UnlockConditionList": "2|1727014",
+		"MaterialDropLimitList": [
+			{
+				"MaterialID": 121522,
+				"Number": 6000
+			}
+		],
+		"DataImpl": {},
+		"ActivityScheduleID": 2001,
+		"Priority": 3
+	}
+]

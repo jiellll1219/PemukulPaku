@@ -1,0 +1,42 @@
+[
+	{
+		"DelayTime": 0.5,
+		"TargetIndex": 0,
+		"TargetSubPathList": [],
+		"ComparePath": "ItemIconButton/ItemIcon/Icon",
+		"CompareType": "Image",
+		"CompareField": "sprite.name",
+		"CompareValue": "S3C_1",
+		"UseTextID": true,
+		"DataImpl": {},
+		"StepID": 12505
+	},
+	{
+		"DelayTime": 0.5,
+		"TargetIndex": 0,
+		"TargetSubPathList": [
+			"Valkyrie/1",
+			"Valkyrie/2",
+			"Valkyrie/3"
+		],
+		"ComparePath": "Name",
+		"CompareType": "Text",
+		"CompareField": "text",
+		"CompareValue": "TutorialTitle_40000164",
+		"UseTextID": true,
+		"DataImpl": {},
+		"StepID": 12514
+	},
+	{
+		"DelayTime": 0.5,
+		"TargetIndex": 0,
+		"TargetSubPathList": [],
+		"ComparePath": "ItemIconButton/ItemIcon/Icon",
+		"CompareType": "Image",
+		"CompareField": "sprite.name",
+		"CompareValue": "122704",
+		"UseTextID": true,
+		"DataImpl": {},
+		"StepID": 553601
+	}
+]

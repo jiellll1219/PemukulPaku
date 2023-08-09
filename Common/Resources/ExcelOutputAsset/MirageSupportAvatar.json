@@ -1,0 +1,253 @@
+[
+	{
+		"SkillFunctionName": "",
+		"AbilityName": "AvatarAssistant_TimeSLowNotHeal_EX",
+		"ParamList": [
+			"12",
+			"0",
+			"5",
+			"1",
+			"-0.45"
+		],
+		"CD": 40,
+		"SkillName": {
+			"hash": -1575797887
+		},
+		"SkillDesc": {
+			"hash": -1858218489
+		},
+		"SkillIcon": "SpriteOutput/AvatarIconSide/104",
+		"DataImpl": {},
+		"SupportAvatarID": 104
+	},
+	{
+		"SkillFunctionName": "",
+		"AbilityName": "AvatarAssistant_HealSP",
+		"ParamList": [
+			"50",
+			"40"
+		],
+		"CD": 40,
+		"SkillName": {
+			"hash": -1575797880
+		},
+		"SkillDesc": {
+			"hash": -1858218482
+		},
+		"SkillIcon": "SpriteOutput/AvatarIconSide/204",
+		"DataImpl": {},
+		"SupportAvatarID": 204
+	},
+	{
+		"SkillFunctionName": "AvatarAssistant_BronyaBlackHole",
+		"AbilityName": "AvatarAssistant_BronyaBlackHole",
+		"ParamList": [
+			"30"
+		],
+		"CD": 30,
+		"SkillName": {
+			"hash": -1575797886
+		},
+		"SkillDesc": {
+			"hash": -1858218488
+		},
+		"SkillIcon": "SpriteOutput/AvatarIconSide/301",
+		"DataImpl": {},
+		"SupportAvatarID": 301
+	},
+	{
+		"SkillFunctionName": "AvatarAssistant_BronyaC3Ultra",
+		"AbilityName": "AvatarAssistant_BronyaC3Ultra",
+		"ParamList": [
+			"50"
+		],
+		"CD": 60,
+		"SkillName": {
+			"hash": -1575797885
+		},
+		"SkillDesc": {
+			"hash": -1858218487
+		},
+		"SkillIcon": "SpriteOutput/AvatarIconSide/303",
+		"DataImpl": {},
+		"SupportAvatarID": 303
+	},
+	{
+		"SkillFunctionName": "AvatarAssistant_BronyaC8Ultra",
+		"AbilityName": "AvatarAssistant_BronyaC8Ultra",
+		"ParamList": [
+			"1300"
+		],
+		"CD": 40,
+		"SkillName": {
+			"hash": -1575797879
+		},
+		"SkillDesc": {
+			"hash": -1858218481
+		},
+		"SkillIcon": "SpriteOutput/AvatarIconSide/314",
+		"DataImpl": {},
+		"SupportAvatarID": 314
+	},
+	{
+		"SkillFunctionName": "",
+		"AbilityName": "AvatarAssistant_AddDamage",
+		"ParamList": [
+			"10",
+			"-0.3",
+			"0.6",
+			"40"
+		],
+		"CD": 40,
+		"SkillName": {
+			"hash": -1575797881
+		},
+		"SkillDesc": {
+			"hash": -1858218483
+		},
+		"SkillIcon": "SpriteOutput/AvatarIconSide/404",
+		"DataImpl": {},
+		"SupportAvatarID": 404
+	},
+	{
+		"SkillFunctionName": "AvatarAssistant_HimekoC6Ultra",
+		"AbilityName": "AvatarAssistant_HimekoC6Ultra",
+		"ParamList": [
+			"3880",
+			"1",
+			"3"
+		],
+		"CD": 60,
+		"SkillName": {
+			"hash": -1575797884
+		},
+		"SkillDesc": {
+			"hash": -1858218486
+		},
+		"SkillIcon": "SpriteOutput/AvatarIconSide/412",
+		"DataImpl": {},
+		"SupportAvatarID": 412
+	},
+	{
+		"SkillFunctionName": "AvatarAssistant_TheresaC6Ultra",
+		"AbilityName": "AvatarAssistant_TheresaC6Ultra",
+		"ParamList": [
+			"1300"
+		],
+		"CD": 50,
+		"SkillName": {
+			"hash": -1605094191
+		},
+		"SkillDesc": {
+			"hash": -1770198261
+		},
+		"SkillIcon": "SpriteOutput/AvatarIconSide/506",
+		"DataImpl": {},
+		"SupportAvatarID": 506
+	},
+	{
+		"SkillFunctionName": "AvatarAssistant_FukaC5Ultra",
+		"AbilityName": "AvatarAssistant_FukaC5Ultra",
+		"ParamList": [
+			"2100"
+		],
+		"CD": 50,
+		"SkillName": {
+			"hash": -1575797882
+		},
+		"SkillDesc": {
+			"hash": -1858218484
+		},
+		"SkillIcon": "SpriteOutput/AvatarIconSide/611",
+		"DataImpl": {},
+		"SupportAvatarID": 611
+	},
+	{
+		"SkillFunctionName": "AvatarAssistant_RitaC5Branch",
+		"AbilityName": "AvatarAssistant_RitaC5Branch",
+		"ParamList": [
+			"1300"
+		],
+		"CD": 45,
+		"SkillName": {
+			"hash": -1605094189
+		},
+		"SkillDesc": {
+			"hash": -1770198259
+		},
+		"SkillIcon": "SpriteOutput/AvatarIconSide/705",
+		"DataImpl": {},
+		"SupportAvatarID": 705
+	},
+	{
+		"SkillFunctionName": "AvatarAssistant_SeeleC2HYUltra",
+		"AbilityName": "AvatarAssistant_SeeleC2HYUltra",
+		"ParamList": [
+			"1300"
+		],
+		"CD": 30,
+		"SkillName": {
+			"hash": -1605094190
+		},
+		"SkillDesc": {
+			"hash": -1770198260
+		},
+		"SkillIcon": "SpriteOutput/AvatarIconSide/712",
+		"DataImpl": {},
+		"SupportAvatarID": 712
+	},
+	{
+		"SkillFunctionName": "AvatarAssistant_DurandalC2Ultra_EX",
+		"AbilityName": "AvatarAssistant_DurandalC2Ultra",
+		"ParamList": [
+			"2890",
+			"1",
+			"5",
+			"3"
+		],
+		"CD": 30,
+		"SkillName": {
+			"hash": -1575797883
+		},
+		"SkillDesc": {
+			"hash": -1858218485
+		},
+		"SkillIcon": "SpriteOutput/AvatarIconSide/802",
+		"DataImpl": {},
+		"SupportAvatarID": 802
+	},
+	{
+		"SkillFunctionName": "AvatarAssistant_RavenC1Ultra",
+		"AbilityName": "AvatarAssistant_RavenC1Ultra",
+		"ParamList": [
+			"1300"
+		],
+		"CD": 60,
+		"SkillName": {
+			"hash": -1605094193
+		},
+		"SkillDesc": {
+			"hash": -1770198263
+		},
+		"SkillIcon": "SpriteOutput/AvatarIconSide/2401",
+		"DataImpl": {},
+		"SupportAvatarID": 2401
+	},
+	{
+		"SkillFunctionName": "AvatarAssistant_PardofelisC1QTE",
+		"AbilityName": "AvatarAssistant_PardofelisC1QTE",
+		"ParamList": [
+			"1300"
+		],
+		"CD": 50,
+		"SkillName": {
+			"hash": -1605094192
+		},
+		"SkillDesc": {
+			"hash": -1770198262
+		},
+		"SkillIcon": "SpriteOutput/AvatarIconSide/2601",
+		"DataImpl": {},
+		"SupportAvatarID": 2601
+	}
+]

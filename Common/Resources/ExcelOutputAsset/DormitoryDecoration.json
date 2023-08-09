@@ -1,0 +1,3509 @@
+[
+	{
+		"TargetRoom": 1012,
+		"DecorationPhase": 1,
+		"DecorationStepShow": 0,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 0,
+		"DecorationEffectList": [],
+		"NeedTime": 0,
+		"MaterialList": [],
+		"DataImpl": {},
+		"DecorationLevel": 1,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1022,
+		"DecorationPhase": 1,
+		"DecorationStepShow": 0,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 0,
+		"DecorationEffectList": [],
+		"NeedTime": 0,
+		"MaterialList": [],
+		"DataImpl": {},
+		"DecorationLevel": 1,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1012,
+		"DecorationPhase": 1,
+		"DecorationStepShow": 1,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 150,
+		"DecorationEffectList": [
+			10111,
+			10112
+		],
+		"NeedTime": 600,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 7
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 2,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1022,
+		"DecorationPhase": 1,
+		"DecorationStepShow": 1,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 1800,
+		"DecorationEffectList": [
+			20111,
+			20112
+		],
+		"NeedTime": 600,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 11
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 2,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1012,
+		"DecorationPhase": 1,
+		"DecorationStepShow": 2,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 175,
+		"DecorationEffectList": [
+			10121,
+			10122
+		],
+		"NeedTime": 600,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 7
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 3,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1022,
+		"DecorationPhase": 1,
+		"DecorationStepShow": 2,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 1825,
+		"DecorationEffectList": [
+			20121,
+			20122
+		],
+		"NeedTime": 600,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 12
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 3,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1012,
+		"DecorationPhase": 1,
+		"DecorationStepShow": 3,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 200,
+		"DecorationEffectList": [
+			10131,
+			10132
+		],
+		"NeedTime": 600,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 7
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 4,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1022,
+		"DecorationPhase": 1,
+		"DecorationStepShow": 3,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 1850,
+		"DecorationEffectList": [
+			20131,
+			20132
+		],
+		"NeedTime": 600,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 12
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 4,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1012,
+		"DecorationPhase": 1,
+		"DecorationStepShow": 4,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 225,
+		"DecorationEffectList": [
+			10141,
+			10142
+		],
+		"NeedTime": 600,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 8
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 5,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1022,
+		"DecorationPhase": 1,
+		"DecorationStepShow": 4,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 1875,
+		"DecorationEffectList": [
+			20141,
+			20142
+		],
+		"NeedTime": 600,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 12
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 5,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1012,
+		"DecorationPhase": 1,
+		"DecorationStepShow": 5,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 250,
+		"DecorationEffectList": [
+			10151,
+			10152
+		],
+		"NeedTime": 600,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 8
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 6,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1022,
+		"DecorationPhase": 1,
+		"DecorationStepShow": 5,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 1900,
+		"DecorationEffectList": [
+			20151,
+			20152
+		],
+		"NeedTime": 600,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 13
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 6,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1012,
+		"DecorationPhase": 2,
+		"DecorationStepShow": 0,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 275,
+		"DecorationEffectList": [
+			10161
+		],
+		"NeedTime": 600,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 12
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 7,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1022,
+		"DecorationPhase": 2,
+		"DecorationStepShow": 0,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 1925,
+		"DecorationEffectList": [
+			20161
+		],
+		"NeedTime": 600,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 17
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 7,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1011,
+		"DecorationPhase": 2,
+		"DecorationStepShow": 1,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 305,
+		"DecorationEffectList": [
+			10211
+		],
+		"NeedTime": 1200,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 9
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 8,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1021,
+		"DecorationPhase": 2,
+		"DecorationStepShow": 1,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 1955,
+		"DecorationEffectList": [
+			20211
+		],
+		"NeedTime": 1200,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 14
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 8,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1011,
+		"DecorationPhase": 2,
+		"DecorationStepShow": 2,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 330,
+		"DecorationEffectList": [
+			10221
+		],
+		"NeedTime": 1200,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 10
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 9,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1021,
+		"DecorationPhase": 2,
+		"DecorationStepShow": 2,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 1980,
+		"DecorationEffectList": [
+			20221
+		],
+		"NeedTime": 1200,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 14
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 9,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1011,
+		"DecorationPhase": 2,
+		"DecorationStepShow": 3,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 360,
+		"DecorationEffectList": [
+			10231,
+			10232
+		],
+		"NeedTime": 1200,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 11
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 10,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1021,
+		"DecorationPhase": 2,
+		"DecorationStepShow": 3,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 2010,
+		"DecorationEffectList": [
+			20231,
+			20232
+		],
+		"NeedTime": 1200,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 15
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 10,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1011,
+		"DecorationPhase": 2,
+		"DecorationStepShow": 4,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 390,
+		"DecorationEffectList": [
+			10241
+		],
+		"NeedTime": 1200,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 11
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 11,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1021,
+		"DecorationPhase": 2,
+		"DecorationStepShow": 4,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 2040,
+		"DecorationEffectList": [
+			20241
+		],
+		"NeedTime": 1200,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 15
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 11,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1011,
+		"DecorationPhase": 2,
+		"DecorationStepShow": 5,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 420,
+		"DecorationEffectList": [
+			10251
+		],
+		"NeedTime": 1200,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 12
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 12,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1021,
+		"DecorationPhase": 2,
+		"DecorationStepShow": 5,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 2070,
+		"DecorationEffectList": [
+			20251
+		],
+		"NeedTime": 1200,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 16
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 12,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1011,
+		"DecorationPhase": 3,
+		"DecorationStepShow": 0,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 450,
+		"DecorationEffectList": [
+			10261,
+			10262,
+			10263
+		],
+		"NeedTime": 1200,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 16
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 13,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1021,
+		"DecorationPhase": 3,
+		"DecorationStepShow": 0,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 2100,
+		"DecorationEffectList": [
+			20261,
+			20262,
+			20263
+		],
+		"NeedTime": 1200,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 21
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 13,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1013,
+		"DecorationPhase": 3,
+		"DecorationStepShow": 1,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 480,
+		"DecorationEffectList": [
+			10311,
+			10312
+		],
+		"NeedTime": 2400,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 13
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 14,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1023,
+		"DecorationPhase": 3,
+		"DecorationStepShow": 1,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 2130,
+		"DecorationEffectList": [
+			20311,
+			20312
+		],
+		"NeedTime": 2400,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 17
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 14,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1013,
+		"DecorationPhase": 3,
+		"DecorationStepShow": 2,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 515,
+		"DecorationEffectList": [
+			10321,
+			10322
+		],
+		"NeedTime": 2400,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 14
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 15,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1023,
+		"DecorationPhase": 3,
+		"DecorationStepShow": 2,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 2165,
+		"DecorationEffectList": [
+			20321,
+			20322
+		],
+		"NeedTime": 2400,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 17
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 15,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1013,
+		"DecorationPhase": 3,
+		"DecorationStepShow": 3,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 550,
+		"DecorationEffectList": [
+			10331,
+			10332
+		],
+		"NeedTime": 2400,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 15
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 16,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1023,
+		"DecorationPhase": 3,
+		"DecorationStepShow": 3,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 2200,
+		"DecorationEffectList": [
+			20331,
+			20332
+		],
+		"NeedTime": 2400,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 18
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 16,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1013,
+		"DecorationPhase": 3,
+		"DecorationStepShow": 4,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 580,
+		"DecorationEffectList": [
+			10341,
+			10342
+		],
+		"NeedTime": 2400,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 16
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 17,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1023,
+		"DecorationPhase": 3,
+		"DecorationStepShow": 4,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 2230,
+		"DecorationEffectList": [
+			20341,
+			20342
+		],
+		"NeedTime": 2400,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 19
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 17,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1013,
+		"DecorationPhase": 3,
+		"DecorationStepShow": 5,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 615,
+		"DecorationEffectList": [
+			10351,
+			10352
+		],
+		"NeedTime": 2400,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 16
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 18,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1023,
+		"DecorationPhase": 3,
+		"DecorationStepShow": 5,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 2265,
+		"DecorationEffectList": [
+			20351,
+			20352
+		],
+		"NeedTime": 2400,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 19
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 18,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1013,
+		"DecorationPhase": 4,
+		"DecorationStepShow": 0,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 655,
+		"DecorationEffectList": [
+			10361
+		],
+		"NeedTime": 2400,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 22
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 19,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1023,
+		"DecorationPhase": 4,
+		"DecorationStepShow": 0,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 2305,
+		"DecorationEffectList": [
+			20361
+		],
+		"NeedTime": 2400,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 26
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 19,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1012,
+		"DecorationPhase": 4,
+		"DecorationStepShow": 1,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 690,
+		"DecorationEffectList": [
+			10411,
+			10412
+		],
+		"NeedTime": 3600,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 18
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 20,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1022,
+		"DecorationPhase": 4,
+		"DecorationStepShow": 1,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 2340,
+		"DecorationEffectList": [
+			20411,
+			20412
+		],
+		"NeedTime": 3600,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 20
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 20,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1012,
+		"DecorationPhase": 4,
+		"DecorationStepShow": 2,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 730,
+		"DecorationEffectList": [
+			10421,
+			10422
+		],
+		"NeedTime": 3600,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 19
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 21,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1022,
+		"DecorationPhase": 4,
+		"DecorationStepShow": 2,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 2380,
+		"DecorationEffectList": [
+			20421,
+			20422
+		],
+		"NeedTime": 3600,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 21
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 21,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1012,
+		"DecorationPhase": 4,
+		"DecorationStepShow": 3,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 765,
+		"DecorationEffectList": [
+			10431,
+			10432,
+			10433
+		],
+		"NeedTime": 3600,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 20
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 22,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1022,
+		"DecorationPhase": 4,
+		"DecorationStepShow": 3,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 2415,
+		"DecorationEffectList": [
+			20431,
+			20432,
+			20433
+		],
+		"NeedTime": 3600,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 22
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 22,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1012,
+		"DecorationPhase": 4,
+		"DecorationStepShow": 4,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 805,
+		"DecorationEffectList": [
+			10441,
+			10442
+		],
+		"NeedTime": 3600,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 21
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 23,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1022,
+		"DecorationPhase": 4,
+		"DecorationStepShow": 4,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 2455,
+		"DecorationEffectList": [
+			20441,
+			20442
+		],
+		"NeedTime": 3600,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 23
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 23,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1012,
+		"DecorationPhase": 4,
+		"DecorationStepShow": 5,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 850,
+		"DecorationEffectList": [
+			10451,
+			10452
+		],
+		"NeedTime": 3600,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 22
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 24,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1022,
+		"DecorationPhase": 4,
+		"DecorationStepShow": 5,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 2500,
+		"DecorationEffectList": [
+			20451,
+			20452
+		],
+		"NeedTime": 3600,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 23
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 24,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1012,
+		"DecorationPhase": 5,
+		"DecorationStepShow": 0,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 890,
+		"DecorationEffectList": [
+			10461
+		],
+		"NeedTime": 3600,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 30
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 25,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1022,
+		"DecorationPhase": 5,
+		"DecorationStepShow": 0,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 2540,
+		"DecorationEffectList": [
+			20461
+		],
+		"NeedTime": 3600,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 31
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 25,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1011,
+		"DecorationPhase": 5,
+		"DecorationStepShow": 1,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 930,
+		"DecorationEffectList": [
+			10511
+		],
+		"NeedTime": 7200,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 24
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 26,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1021,
+		"DecorationPhase": 5,
+		"DecorationStepShow": 1,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 2580,
+		"DecorationEffectList": [
+			20511
+		],
+		"NeedTime": 7200,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 25
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 26,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1011,
+		"DecorationPhase": 5,
+		"DecorationStepShow": 2,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 975,
+		"DecorationEffectList": [
+			10521
+		],
+		"NeedTime": 7200,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 25
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 27,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1021,
+		"DecorationPhase": 5,
+		"DecorationStepShow": 2,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 2625,
+		"DecorationEffectList": [
+			20521
+		],
+		"NeedTime": 7200,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 25
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 27,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1011,
+		"DecorationPhase": 5,
+		"DecorationStepShow": 3,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 1020,
+		"DecorationEffectList": [
+			10531,
+			10532
+		],
+		"NeedTime": 7200,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 26
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 28,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1021,
+		"DecorationPhase": 5,
+		"DecorationStepShow": 3,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 2670,
+		"DecorationEffectList": [
+			20531,
+			20532
+		],
+		"NeedTime": 7200,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 26
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 28,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1011,
+		"DecorationPhase": 5,
+		"DecorationStepShow": 4,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 1065,
+		"DecorationEffectList": [
+			10541
+		],
+		"NeedTime": 7200,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 28
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 29,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1021,
+		"DecorationPhase": 5,
+		"DecorationStepShow": 4,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 2715,
+		"DecorationEffectList": [
+			20541
+		],
+		"NeedTime": 7200,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 27
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 29,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1011,
+		"DecorationPhase": 5,
+		"DecorationStepShow": 5,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 1110,
+		"DecorationEffectList": [
+			10551,
+			10552
+		],
+		"NeedTime": 7200,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 29
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 30,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1021,
+		"DecorationPhase": 5,
+		"DecorationStepShow": 5,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 2760,
+		"DecorationEffectList": [
+			20551,
+			20552
+		],
+		"NeedTime": 7200,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 28
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 30,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1011,
+		"DecorationPhase": 6,
+		"DecorationStepShow": 0,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 1160,
+		"DecorationEffectList": [
+			10561
+		],
+		"NeedTime": 7200,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 39
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 31,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1021,
+		"DecorationPhase": 6,
+		"DecorationStepShow": 0,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 2810,
+		"DecorationEffectList": [
+			20561
+		],
+		"NeedTime": 7200,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 37
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 31,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1013,
+		"DecorationPhase": 6,
+		"DecorationStepShow": 1,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 1210,
+		"DecorationEffectList": [
+			10611,
+			10612
+		],
+		"NeedTime": 14400,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 31
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 32,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1023,
+		"DecorationPhase": 6,
+		"DecorationStepShow": 1,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 2860,
+		"DecorationEffectList": [
+			20611,
+			20612
+		],
+		"NeedTime": 14400,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 29
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 32,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1013,
+		"DecorationPhase": 6,
+		"DecorationStepShow": 2,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 1255,
+		"DecorationEffectList": [
+			10621,
+			10622
+		],
+		"NeedTime": 14400,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 33
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 33,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1023,
+		"DecorationPhase": 6,
+		"DecorationStepShow": 2,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 2905,
+		"DecorationEffectList": [
+			20621,
+			20622
+		],
+		"NeedTime": 14400,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 30
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 33,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1013,
+		"DecorationPhase": 6,
+		"DecorationStepShow": 3,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 1310,
+		"DecorationEffectList": [
+			10631,
+			10632,
+			10633
+		],
+		"NeedTime": 14400,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 34
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 34,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1023,
+		"DecorationPhase": 6,
+		"DecorationStepShow": 3,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 2960,
+		"DecorationEffectList": [
+			20631,
+			20632,
+			20633
+		],
+		"NeedTime": 14400,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 31
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 34,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1013,
+		"DecorationPhase": 6,
+		"DecorationStepShow": 4,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 1360,
+		"DecorationEffectList": [
+			10641,
+			10642
+		],
+		"NeedTime": 14400,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 35
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 35,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1023,
+		"DecorationPhase": 6,
+		"DecorationStepShow": 4,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 3010,
+		"DecorationEffectList": [
+			20641,
+			20642
+		],
+		"NeedTime": 14400,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 32
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 35,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1013,
+		"DecorationPhase": 6,
+		"DecorationStepShow": 5,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 1410,
+		"DecorationEffectList": [
+			10651,
+			10652
+		],
+		"NeedTime": 14400,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 37
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 36,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1023,
+		"DecorationPhase": 6,
+		"DecorationStepShow": 5,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 3060,
+		"DecorationEffectList": [
+			20651,
+			20652
+		],
+		"NeedTime": 14400,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 33
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 36,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1013,
+		"DecorationPhase": 7,
+		"DecorationStepShow": 0,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 1465,
+		"DecorationEffectList": [
+			10661
+		],
+		"NeedTime": 14400,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 50
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 37,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1023,
+		"DecorationPhase": 7,
+		"DecorationStepShow": 0,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 3115,
+		"DecorationEffectList": [
+			20661,
+			20662,
+			20663
+		],
+		"NeedTime": 14400,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 44
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 37,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1012,
+		"DecorationPhase": 7,
+		"DecorationStepShow": 1,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 1520,
+		"DecorationEffectList": [
+			10711,
+			10712
+		],
+		"NeedTime": 28800,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 40
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 38,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1024,
+		"DecorationPhase": 7,
+		"DecorationStepShow": 1,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 3170,
+		"DecorationEffectList": [
+			20711,
+			20712
+		],
+		"NeedTime": 28800,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 35
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 38,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1012,
+		"DecorationPhase": 7,
+		"DecorationStepShow": 2,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 1575,
+		"DecorationEffectList": [
+			10721,
+			10722
+		],
+		"NeedTime": 28800,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 41
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 39,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1024,
+		"DecorationPhase": 7,
+		"DecorationStepShow": 2,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 3225,
+		"DecorationEffectList": [
+			20721,
+			20722
+		],
+		"NeedTime": 28800,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 36
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 39,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1012,
+		"DecorationPhase": 7,
+		"DecorationStepShow": 3,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 1630,
+		"DecorationEffectList": [
+			10731,
+			10732
+		],
+		"NeedTime": 28800,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 43
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 40,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1024,
+		"DecorationPhase": 7,
+		"DecorationStepShow": 3,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 3280,
+		"DecorationEffectList": [
+			20731,
+			20732
+		],
+		"NeedTime": 28800,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 37
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 40,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1012,
+		"DecorationPhase": 7,
+		"DecorationStepShow": 4,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 1690,
+		"DecorationEffectList": [
+			10741,
+			10742
+		],
+		"NeedTime": 28800,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 44
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 41,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1024,
+		"DecorationPhase": 7,
+		"DecorationStepShow": 4,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 3340,
+		"DecorationEffectList": [
+			20741,
+			20742
+		],
+		"NeedTime": 28800,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 38
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 41,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1012,
+		"DecorationPhase": 7,
+		"DecorationStepShow": 5,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 1750,
+		"DecorationEffectList": [
+			10751,
+			10752
+		],
+		"NeedTime": 28800,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 46
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 42,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1024,
+		"DecorationPhase": 7,
+		"DecorationStepShow": 5,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 3400,
+		"DecorationEffectList": [
+			20751,
+			20752
+		],
+		"NeedTime": 28800,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 39
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 42,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1012,
+		"DecorationPhase": 8,
+		"DecorationStepShow": 0,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 1810,
+		"DecorationEffectList": [
+			10761
+		],
+		"NeedTime": 28800,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 62
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 43,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1024,
+		"DecorationPhase": 8,
+		"DecorationStepShow": 0,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 3460,
+		"DecorationEffectList": [
+			20761
+		],
+		"NeedTime": 28800,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 51
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 43,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1011,
+		"DecorationPhase": 8,
+		"DecorationStepShow": 1,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 1870,
+		"DecorationEffectList": [
+			10811
+		],
+		"NeedTime": 43200,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 49
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 44,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1024,
+		"DecorationPhase": 8,
+		"DecorationStepShow": 1,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 3520,
+		"DecorationEffectList": [
+			20811,
+			20812
+		],
+		"NeedTime": 43200,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 41
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 44,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1011,
+		"DecorationPhase": 8,
+		"DecorationStepShow": 2,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 1930,
+		"DecorationEffectList": [
+			10821
+		],
+		"NeedTime": 43200,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 51
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 45,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1024,
+		"DecorationPhase": 8,
+		"DecorationStepShow": 2,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 3580,
+		"DecorationEffectList": [
+			20821,
+			20822
+		],
+		"NeedTime": 43200,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 42
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 45,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1011,
+		"DecorationPhase": 8,
+		"DecorationStepShow": 3,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 1995,
+		"DecorationEffectList": [
+			10831,
+			10832
+		],
+		"NeedTime": 43200,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 53
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 46,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1024,
+		"DecorationPhase": 8,
+		"DecorationStepShow": 3,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 3645,
+		"DecorationEffectList": [
+			20831,
+			20832,
+			20833
+		],
+		"NeedTime": 43200,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 43
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 46,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1011,
+		"DecorationPhase": 8,
+		"DecorationStepShow": 4,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 2060,
+		"DecorationEffectList": [
+			10841
+		],
+		"NeedTime": 43200,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 54
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 47,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1024,
+		"DecorationPhase": 8,
+		"DecorationStepShow": 4,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 3710,
+		"DecorationEffectList": [
+			20841,
+			20842
+		],
+		"NeedTime": 43200,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 44
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 47,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1011,
+		"DecorationPhase": 8,
+		"DecorationStepShow": 5,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 2125,
+		"DecorationEffectList": [
+			10851
+		],
+		"NeedTime": 43200,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 56
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 48,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1024,
+		"DecorationPhase": 8,
+		"DecorationStepShow": 5,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 3775,
+		"DecorationEffectList": [
+			20851,
+			20852
+		],
+		"NeedTime": 43200,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 45
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 48,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1011,
+		"DecorationPhase": 9,
+		"DecorationStepShow": 0,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 2190,
+		"DecorationEffectList": [
+			10861
+		],
+		"NeedTime": 43200,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 75
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 49,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1024,
+		"DecorationPhase": 9,
+		"DecorationStepShow": 0,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 3840,
+		"DecorationEffectList": [
+			20861
+		],
+		"NeedTime": 43200,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 59
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 49,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1013,
+		"DecorationPhase": 9,
+		"DecorationStepShow": 1,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 2255,
+		"DecorationEffectList": [
+			10911,
+			10912
+		],
+		"NeedTime": 50400,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 60
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 50,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1022,
+		"DecorationPhase": 9,
+		"DecorationStepShow": 1,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 3905,
+		"DecorationEffectList": [
+			20911,
+			20912
+		],
+		"NeedTime": 50400,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 47
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 50,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1013,
+		"DecorationPhase": 9,
+		"DecorationStepShow": 2,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 2325,
+		"DecorationEffectList": [
+			10921,
+			10922
+		],
+		"NeedTime": 50400,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 62
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 51,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1022,
+		"DecorationPhase": 9,
+		"DecorationStepShow": 2,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 3975,
+		"DecorationEffectList": [
+			20921,
+			20922
+		],
+		"NeedTime": 50400,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 48
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 51,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1013,
+		"DecorationPhase": 9,
+		"DecorationStepShow": 3,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 2395,
+		"DecorationEffectList": [
+			10931,
+			10932
+		],
+		"NeedTime": 50400,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 64
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 52,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1022,
+		"DecorationPhase": 9,
+		"DecorationStepShow": 3,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 4045,
+		"DecorationEffectList": [
+			20931,
+			20932
+		],
+		"NeedTime": 50400,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 49
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 52,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1013,
+		"DecorationPhase": 9,
+		"DecorationStepShow": 4,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 2465,
+		"DecorationEffectList": [
+			10941,
+			10942
+		],
+		"NeedTime": 50400,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 66
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 53,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1022,
+		"DecorationPhase": 9,
+		"DecorationStepShow": 4,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 4115,
+		"DecorationEffectList": [
+			20941,
+			20942
+		],
+		"NeedTime": 50400,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 50
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 53,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1013,
+		"DecorationPhase": 9,
+		"DecorationStepShow": 5,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 2540,
+		"DecorationEffectList": [
+			10951,
+			10952
+		],
+		"NeedTime": 50400,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 68
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 54,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1022,
+		"DecorationPhase": 9,
+		"DecorationStepShow": 5,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 4190,
+		"DecorationEffectList": [
+			20951,
+			20952
+		],
+		"NeedTime": 50400,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 51
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 54,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1013,
+		"DecorationPhase": 10,
+		"DecorationStepShow": 0,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 2610,
+		"DecorationEffectList": [
+			10961
+		],
+		"NeedTime": 50400,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 91
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 55,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1022,
+		"DecorationPhase": 10,
+		"DecorationStepShow": 0,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 4260,
+		"DecorationEffectList": [
+			20961
+		],
+		"NeedTime": 50400,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 68
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 55,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1012,
+		"DecorationPhase": 10,
+		"DecorationStepShow": 1,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 2685,
+		"DecorationEffectList": [
+			11011,
+			11012
+		],
+		"NeedTime": 57600,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 72
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 56,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1021,
+		"DecorationPhase": 10,
+		"DecorationStepShow": 1,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 4335,
+		"DecorationEffectList": [
+			21011
+		],
+		"NeedTime": 57600,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 54
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 56,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1012,
+		"DecorationPhase": 10,
+		"DecorationStepShow": 2,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 2760,
+		"DecorationEffectList": [
+			11021,
+			11022
+		],
+		"NeedTime": 57600,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 74
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 57,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1021,
+		"DecorationPhase": 10,
+		"DecorationStepShow": 2,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 4410,
+		"DecorationEffectList": [
+			21021
+		],
+		"NeedTime": 57600,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 55
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 57,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1012,
+		"DecorationPhase": 10,
+		"DecorationStepShow": 3,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 2835,
+		"DecorationEffectList": [
+			11031,
+			11032
+		],
+		"NeedTime": 57600,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 76
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 58,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1021,
+		"DecorationPhase": 10,
+		"DecorationStepShow": 3,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 4485,
+		"DecorationEffectList": [
+			21031,
+			21032
+		],
+		"NeedTime": 57600,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 56
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 58,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1012,
+		"DecorationPhase": 10,
+		"DecorationStepShow": 4,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 2915,
+		"DecorationEffectList": [
+			11041,
+			11042
+		],
+		"NeedTime": 57600,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 78
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 59,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1021,
+		"DecorationPhase": 10,
+		"DecorationStepShow": 4,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 4565,
+		"DecorationEffectList": [
+			21041
+		],
+		"NeedTime": 57600,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 57
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 59,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1012,
+		"DecorationPhase": 10,
+		"DecorationStepShow": 5,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 2990,
+		"DecorationEffectList": [
+			11051,
+			11052
+		],
+		"NeedTime": 57600,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 81
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 60,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1021,
+		"DecorationPhase": 10,
+		"DecorationStepShow": 5,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 4640,
+		"DecorationEffectList": [
+			21051
+		],
+		"NeedTime": 57600,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 59
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 60,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1012,
+		"DecorationPhase": 11,
+		"DecorationStepShow": 0,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 3070,
+		"DecorationEffectList": [
+			11061
+		],
+		"NeedTime": 57600,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 108
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 61,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1021,
+		"DecorationPhase": 11,
+		"DecorationStepShow": 0,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 4720,
+		"DecorationEffectList": [
+			21061
+		],
+		"NeedTime": 57600,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 78
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 61,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1011,
+		"DecorationPhase": 11,
+		"DecorationStepShow": 1,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 3155,
+		"DecorationEffectList": [
+			11111
+		],
+		"NeedTime": 64800,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 85
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 62,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1023,
+		"DecorationPhase": 11,
+		"DecorationStepShow": 1,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 4805,
+		"DecorationEffectList": [
+			21111,
+			21112
+		],
+		"NeedTime": 64800,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 61
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 62,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1011,
+		"DecorationPhase": 11,
+		"DecorationStepShow": 2,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 3235,
+		"DecorationEffectList": [
+			11121
+		],
+		"NeedTime": 64800,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 88
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 63,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1023,
+		"DecorationPhase": 11,
+		"DecorationStepShow": 2,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 4885,
+		"DecorationEffectList": [
+			21121,
+			21122
+		],
+		"NeedTime": 64800,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 62
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 63,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1011,
+		"DecorationPhase": 11,
+		"DecorationStepShow": 3,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 3320,
+		"DecorationEffectList": [
+			11131
+		],
+		"NeedTime": 64800,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 90
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 64,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1023,
+		"DecorationPhase": 11,
+		"DecorationStepShow": 3,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 4970,
+		"DecorationEffectList": [
+			21131,
+			21132
+		],
+		"NeedTime": 64800,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 64
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 64,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1011,
+		"DecorationPhase": 11,
+		"DecorationStepShow": 4,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 3400,
+		"DecorationEffectList": [
+			11141
+		],
+		"NeedTime": 64800,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 93
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 65,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1023,
+		"DecorationPhase": 11,
+		"DecorationStepShow": 4,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 5050,
+		"DecorationEffectList": [
+			21141,
+			21142
+		],
+		"NeedTime": 64800,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 65
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 65,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1011,
+		"DecorationPhase": 11,
+		"DecorationStepShow": 5,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 3485,
+		"DecorationEffectList": [
+			11151,
+			11152
+		],
+		"NeedTime": 64800,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 95
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 66,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1023,
+		"DecorationPhase": 11,
+		"DecorationStepShow": 5,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 5135,
+		"DecorationEffectList": [
+			21151,
+			21152
+		],
+		"NeedTime": 64800,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 66
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 66,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1011,
+		"DecorationPhase": 12,
+		"DecorationStepShow": 0,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 3575,
+		"DecorationEffectList": [
+			11161
+		],
+		"NeedTime": 64800,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 127
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 67,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1023,
+		"DecorationPhase": 12,
+		"DecorationStepShow": 0,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 5225,
+		"DecorationEffectList": [
+			21161
+		],
+		"NeedTime": 64800,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 88
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 67,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1013,
+		"DecorationPhase": 12,
+		"DecorationStepShow": 1,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 3660,
+		"DecorationEffectList": [
+			11211,
+			11212
+		],
+		"NeedTime": 72000,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 100
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 68,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1024,
+		"DecorationPhase": 12,
+		"DecorationStepShow": 1,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 5310,
+		"DecorationEffectList": [
+			21211,
+			21212
+		],
+		"NeedTime": 72000,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 69
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 68,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1013,
+		"DecorationPhase": 12,
+		"DecorationStepShow": 2,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 3750,
+		"DecorationEffectList": [
+			11221,
+			11222
+		],
+		"NeedTime": 72000,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 103
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 69,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1024,
+		"DecorationPhase": 12,
+		"DecorationStepShow": 2,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 5400,
+		"DecorationEffectList": [
+			21221,
+			21222
+		],
+		"NeedTime": 72000,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 70
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 69,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1013,
+		"DecorationPhase": 12,
+		"DecorationStepShow": 3,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 3840,
+		"DecorationEffectList": [
+			11231,
+			11232
+		],
+		"NeedTime": 72000,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 105
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 70,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1024,
+		"DecorationPhase": 12,
+		"DecorationStepShow": 3,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 5490,
+		"DecorationEffectList": [
+			21231,
+			21232
+		],
+		"NeedTime": 72000,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 72
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 70,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1013,
+		"DecorationPhase": 12,
+		"DecorationStepShow": 4,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 3930,
+		"DecorationEffectList": [
+			11241,
+			11242
+		],
+		"NeedTime": 72000,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 108
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 71,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1024,
+		"DecorationPhase": 12,
+		"DecorationStepShow": 4,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 5580,
+		"DecorationEffectList": [
+			21241,
+			21242
+		],
+		"NeedTime": 72000,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 73
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 71,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1013,
+		"DecorationPhase": 12,
+		"DecorationStepShow": 5,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 4025,
+		"DecorationEffectList": [
+			11251,
+			11252
+		],
+		"NeedTime": 72000,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 111
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 72,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1024,
+		"DecorationPhase": 12,
+		"DecorationStepShow": 5,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 5675,
+		"DecorationEffectList": [
+			21251,
+			21252
+		],
+		"NeedTime": 72000,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 74
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 72,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1013,
+		"DecorationPhase": 12,
+		"DecorationStepShow": 6,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 4120,
+		"DecorationEffectList": [
+			11261
+		],
+		"NeedTime": 72000,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 148
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 73,
+		"TargetHouse": 101
+	},
+	{
+		"TargetRoom": 1024,
+		"DecorationPhase": 13,
+		"DecorationStepShow": 0,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 5770,
+		"DecorationEffectList": [
+			21261
+		],
+		"NeedTime": 72000,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 99
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 73,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1022,
+		"DecorationPhase": 13,
+		"DecorationStepShow": 1,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 5865,
+		"DecorationEffectList": [
+			21311,
+			21312
+		],
+		"NeedTime": 75600,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 77
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 74,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1022,
+		"DecorationPhase": 13,
+		"DecorationStepShow": 2,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 5960,
+		"DecorationEffectList": [
+			21321,
+			21322
+		],
+		"NeedTime": 75600,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 79
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 75,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1022,
+		"DecorationPhase": 13,
+		"DecorationStepShow": 3,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 6055,
+		"DecorationEffectList": [
+			21331,
+			21332
+		],
+		"NeedTime": 75600,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 80
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 76,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1022,
+		"DecorationPhase": 13,
+		"DecorationStepShow": 4,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 6155,
+		"DecorationEffectList": [
+			21341,
+			21342
+		],
+		"NeedTime": 75600,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 82
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 77,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1022,
+		"DecorationPhase": 13,
+		"DecorationStepShow": 5,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 6255,
+		"DecorationEffectList": [
+			21351,
+			21352
+		],
+		"NeedTime": 75600,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 83
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 78,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1022,
+		"DecorationPhase": 14,
+		"DecorationStepShow": 0,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 6355,
+		"DecorationEffectList": [
+			21361
+		],
+		"NeedTime": 75600,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 110
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 79,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1021,
+		"DecorationPhase": 14,
+		"DecorationStepShow": 1,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 6460,
+		"DecorationEffectList": [
+			21411
+		],
+		"NeedTime": 79200,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 86
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 80,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1021,
+		"DecorationPhase": 14,
+		"DecorationStepShow": 2,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 6560,
+		"DecorationEffectList": [
+			21421
+		],
+		"NeedTime": 79200,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 88
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 81,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1021,
+		"DecorationPhase": 14,
+		"DecorationStepShow": 3,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 6665,
+		"DecorationEffectList": [
+			21431
+		],
+		"NeedTime": 79200,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 90
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 82,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1021,
+		"DecorationPhase": 14,
+		"DecorationStepShow": 4,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 6770,
+		"DecorationEffectList": [
+			21441
+		],
+		"NeedTime": 79200,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 91
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 83,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1021,
+		"DecorationPhase": 14,
+		"DecorationStepShow": 5,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 6880,
+		"DecorationEffectList": [
+			21451,
+			21452
+		],
+		"NeedTime": 79200,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 93
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 84,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1021,
+		"DecorationPhase": 15,
+		"DecorationStepShow": 0,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 6985,
+		"DecorationEffectList": [
+			21461
+		],
+		"NeedTime": 79200,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 123
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 85,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1023,
+		"DecorationPhase": 15,
+		"DecorationStepShow": 1,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 7095,
+		"DecorationEffectList": [
+			21511,
+			21512
+		],
+		"NeedTime": 82800,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 96
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 86,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1023,
+		"DecorationPhase": 15,
+		"DecorationStepShow": 2,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 7205,
+		"DecorationEffectList": [
+			21521,
+			21522
+		],
+		"NeedTime": 82800,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 98
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 87,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1023,
+		"DecorationPhase": 15,
+		"DecorationStepShow": 3,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 7320,
+		"DecorationEffectList": [
+			21531,
+			21532
+		],
+		"NeedTime": 82800,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 99
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 88,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1023,
+		"DecorationPhase": 15,
+		"DecorationStepShow": 4,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 7430,
+		"DecorationEffectList": [
+			21541,
+			21542
+		],
+		"NeedTime": 82800,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 101
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 89,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1023,
+		"DecorationPhase": 15,
+		"DecorationStepShow": 5,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 7545,
+		"DecorationEffectList": [
+			21551,
+			21552
+		],
+		"NeedTime": 82800,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 103
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 90,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1023,
+		"DecorationPhase": 16,
+		"DecorationStepShow": 0,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 7660,
+		"DecorationEffectList": [
+			21561
+		],
+		"NeedTime": 82800,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 136
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 91,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1024,
+		"DecorationPhase": 16,
+		"DecorationStepShow": 1,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 7780,
+		"DecorationEffectList": [
+			21611,
+			21612
+		],
+		"NeedTime": 86400,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 106
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 92,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1024,
+		"DecorationPhase": 16,
+		"DecorationStepShow": 2,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 7895,
+		"DecorationEffectList": [
+			21621,
+			21622
+		],
+		"NeedTime": 86400,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 108
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 93,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1024,
+		"DecorationPhase": 16,
+		"DecorationStepShow": 3,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 8015,
+		"DecorationEffectList": [
+			21631,
+			21632
+		],
+		"NeedTime": 86400,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 110
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 94,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1024,
+		"DecorationPhase": 16,
+		"DecorationStepShow": 4,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 8135,
+		"DecorationEffectList": [
+			21641,
+			21642
+		],
+		"NeedTime": 86400,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 111
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 95,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1024,
+		"DecorationPhase": 16,
+		"DecorationStepShow": 5,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 8255,
+		"DecorationEffectList": [
+			21651,
+			21652
+		],
+		"NeedTime": 86400,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 113
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 96,
+		"TargetHouse": 102
+	},
+	{
+		"TargetRoom": 1024,
+		"DecorationPhase": 16,
+		"DecorationStepShow": 6,
+		"DecorationMaxStep": 6,
+		"NeedComfort": 8380,
+		"DecorationEffectList": [
+			21661
+		],
+		"NeedTime": 86400,
+		"MaterialList": [
+			{
+				"MaterialID": 3110,
+				"Number": 150
+			}
+		],
+		"DataImpl": {},
+		"DecorationLevel": 97,
+		"TargetHouse": 102
+	}
+]

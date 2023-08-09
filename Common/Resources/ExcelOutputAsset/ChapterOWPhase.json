@@ -1,0 +1,483 @@
+[
+	{
+		"UnlockConditionList": "",
+		"ProgressText": {
+			"hash": 639898313
+		},
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/Img_MainLine_029",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/PicMainStory29",
+		"ActivityEntryImagePath": "SpriteOutput/WorldMap/Entry/ChapterOW_Activity_01",
+		"BGMStateName": "ChapterActivity_15",
+		"PhaseNumber": 1,
+		"DataImpl": {},
+		"PhaseID": 1
+	},
+	{
+		"UnlockConditionList": "3|13004",
+		"ProgressText": {
+			"hash": 639898313
+		},
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/Img_MainLine_029",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/PicMainStory29",
+		"ActivityEntryImagePath": "SpriteOutput/WorldMap/Entry/ChapterOW_Activity_01",
+		"BGMStateName": "ChapterActivity_15",
+		"PhaseNumber": 2,
+		"DataImpl": {},
+		"PhaseID": 2
+	},
+	{
+		"UnlockConditionList": "5|107109",
+		"ProgressText": {
+			"hash": 639898313
+		},
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/Img_MainLine_029",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/PicMainStory29",
+		"ActivityEntryImagePath": "SpriteOutput/WorldMap/Entry/ChapterOW_Activity_01",
+		"BGMStateName": "ChapterActivity_15",
+		"PhaseNumber": 3,
+		"DataImpl": {},
+		"PhaseID": 3
+	},
+	{
+		"UnlockConditionList": "5|107507",
+		"ProgressText": {
+			"hash": 639898314
+		},
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/Img_MainLine_030_01",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/PicMainStory30_01",
+		"ActivityEntryImagePath": "SpriteOutput/WorldMap/Entry/ChapterOW_Activity_01",
+		"BGMStateName": "ChapterActivity_16",
+		"PhaseNumber": 4,
+		"DataImpl": {},
+		"PhaseID": 4
+	},
+	{
+		"UnlockConditionList": "5|118012",
+		"ProgressText": {
+			"hash": 639898314
+		},
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/Img_MainLine_030_02",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/PicMainStory30_02",
+		"ActivityEntryImagePath": "SpriteOutput/WorldMap/Entry/ChapterOW_Activity_01",
+		"BGMStateName": "ChapterActivity_16",
+		"PhaseNumber": 5,
+		"DataImpl": {},
+		"PhaseID": 5
+	},
+	{
+		"UnlockConditionList": "5|118504",
+		"ProgressText": {
+			"hash": 639898314
+		},
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/Img_MainLine_030_03",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/PicMainStory30_03",
+		"ActivityEntryImagePath": "SpriteOutput/WorldMap/Entry/ChapterOW_Activity_01",
+		"BGMStateName": "ChapterActivity_16",
+		"PhaseNumber": 6,
+		"DataImpl": {},
+		"PhaseID": 6
+	},
+	{
+		"UnlockConditionList": "5|118714",
+		"ProgressText": {
+			"hash": 639898315
+		},
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/Img_MainLine_030_04",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/PicMainStory31",
+		"ActivityEntryImagePath": "SpriteOutput/WorldMap/Entry/ChapterOW_Activity_01",
+		"BGMStateName": "ChapterActivity_16",
+		"PhaseNumber": 7,
+		"DataImpl": {},
+		"PhaseID": 7
+	},
+	{
+		"UnlockConditionList": "5|140011",
+		"ProgressText": {
+			"hash": 639898315
+		},
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/Img_MainLine_030_04",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/PicMainStory31",
+		"ActivityEntryImagePath": "SpriteOutput/WorldMap/Entry/ChapterOW_Activity_01",
+		"BGMStateName": "ChapterActivity_17",
+		"PhaseNumber": 8,
+		"DataImpl": {},
+		"PhaseID": 8
+	},
+	{
+		"UnlockConditionList": "5|140011;2|2022-01-06 10:00:00",
+		"ProgressText": {
+			"hash": 639898315
+		},
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/Img_MainLine_030_04",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/PicMainStory31",
+		"ActivityEntryImagePath": "SpriteOutput/WorldMap/Entry/ChapterOW_Activity_01",
+		"BGMStateName": "ChapterActivity_17",
+		"PhaseNumber": 9,
+		"DataImpl": {},
+		"PhaseID": 9
+	},
+	{
+		"UnlockConditionList": "3|13206;2|2022-01-14 10:00:00",
+		"ProgressText": {
+			"hash": 639898315
+		},
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/Img_MainLine_030_04",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/PicMainStory31",
+		"ActivityEntryImagePath": "SpriteOutput/WorldMap/Entry/ChapterOW_Activity_01",
+		"BGMStateName": "ChapterActivity_18",
+		"PhaseNumber": 10,
+		"DataImpl": {},
+		"PhaseID": 10
+	},
+	{
+		"UnlockConditionList": "3|13211;2|2022-01-21 12:00:00",
+		"ProgressText": {
+			"hash": 639898315
+		},
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/Img_MainLine_030_04",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/PicMainStory31",
+		"ActivityEntryImagePath": "SpriteOutput/WorldMap/Entry/ChapterOW_Activity_01",
+		"BGMStateName": "ChapterActivity_19",
+		"PhaseNumber": 11,
+		"DataImpl": {},
+		"PhaseID": 11
+	},
+	{
+		"UnlockConditionList": "3|13214",
+		"ProgressText": {
+			"hash": 639898316
+		},
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/Img_MainLine_030_04",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/PicMainStory31",
+		"ActivityEntryImagePath": "SpriteOutput/WorldMap/Entry/ChapterOW_Activity_01",
+		"BGMStateName": "ChapterActivity_15",
+		"PhaseNumber": 12,
+		"DataImpl": {},
+		"PhaseID": 12
+	},
+	{
+		"UnlockConditionList": "",
+		"ProgressText": {
+			"hash": -2147006159
+		},
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/Img_MainLine_032",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/PicMainStory32",
+		"ActivityEntryImagePath": "SpriteOutput/WorldMap/Entry/5.7_Elysium_truecolor",
+		"BGMStateName": "ChapterOW29_01",
+		"PhaseNumber": 1,
+		"DataImpl": {},
+		"PhaseID": 13
+	},
+	{
+		"UnlockConditionList": "2|2022-05-26 10:00:00;5|301403",
+		"ProgressText": {
+			"hash": -2147006159
+		},
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/Img_MainLine_032_01",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/PicMainStory32_01",
+		"ActivityEntryImagePath": "SpriteOutput/WorldMap/Entry/5.7_Elysium_truecolor",
+		"BGMStateName": "ChapterOW29_01",
+		"PhaseNumber": 2,
+		"DataImpl": {},
+		"PhaseID": 14
+	},
+	{
+		"UnlockConditionList": "5|302609",
+		"ProgressText": {
+			"hash": -2147006159
+		},
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/Img_MainLine_032_01",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/PicMainStory32_01",
+		"ActivityEntryImagePath": "SpriteOutput/WorldMap/Entry/5.7_Elysium_truecolor",
+		"BGMStateName": "ChapterOW29_02",
+		"PhaseNumber": 3,
+		"DataImpl": {},
+		"PhaseID": 15
+	},
+	{
+		"UnlockConditionList": "5|303401",
+		"ProgressText": {
+			"hash": -2147006159
+		},
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/Img_MainLine_032_01",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/PicMainStory32_01",
+		"ActivityEntryImagePath": "SpriteOutput/WorldMap/Entry/5.7_Elysium_truecolor",
+		"BGMStateName": "ChapterOW29_02",
+		"PhaseNumber": 4,
+		"DataImpl": {},
+		"PhaseID": 16
+	},
+	{
+		"UnlockConditionList": "2|2022-07-11 10:00:00",
+		"ProgressText": {
+			"hash": -2147006158
+		},
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/Img_MainLine_032_5.8_01",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/PicMainStory_032_5.8_01",
+		"ActivityEntryImagePath": "event/Immediately/ChapterBg/ChapterOWPicture/back_5.9_Elysium_truecolor",
+		"BGMStateName": "ChapterOW29_02",
+		"PhaseNumber": 5,
+		"DataImpl": {},
+		"PhaseID": 17
+	},
+	{
+		"UnlockConditionList": "2|2022-07-14 10:00:00;5|311601",
+		"ProgressText": {
+			"hash": -2147006158
+		},
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/Img_MainLine_032_5.8_01",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/PicMainStory_032_5.8_01",
+		"ActivityEntryImagePath": "event/Immediately/ChapterBg/ChapterOWPicture/back_5.9_Elysium_truecolor",
+		"BGMStateName": "ChapterOW29_02",
+		"PhaseNumber": 6,
+		"DataImpl": {},
+		"PhaseID": 18
+	},
+	{
+		"UnlockConditionList": "5|312401",
+		"ProgressText": {
+			"hash": -2147006158
+		},
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/Img_MainLine_032_5.8_02",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/PicMainStory_032_5.8_02",
+		"ActivityEntryImagePath": "event/Immediately/ChapterBg/ChapterOWPicture/back_5.9_Elysium_truecolor",
+		"BGMStateName": "ChapterOW29_02",
+		"PhaseNumber": 7,
+		"DataImpl": {},
+		"PhaseID": 19
+	},
+	{
+		"UnlockConditionList": "5|312602",
+		"ProgressText": {
+			"hash": -2147006158
+		},
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/Img_MainLine_032_5.8_03",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/PicMainStory_032_5.8_03",
+		"ActivityEntryImagePath": "event/Immediately/ChapterBg/ChapterOWPicture/back_5.9_Elysium_truecolor",
+		"BGMStateName": "ChapterOW29_02",
+		"PhaseNumber": 8,
+		"DataImpl": {},
+		"PhaseID": 20
+	},
+	{
+		"UnlockConditionList": "5|313301",
+		"ProgressText": {
+			"hash": -2147006158
+		},
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/Img_MainLine_032_5.8_04",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/PicMainStory_032_5.8_04",
+		"ActivityEntryImagePath": "event/Immediately/ChapterBg/ChapterOWPicture/back_5.9_Elysium_truecolor",
+		"BGMStateName": "ChapterOW29_02",
+		"PhaseNumber": 9,
+		"DataImpl": {},
+		"PhaseID": 21
+	},
+	{
+		"UnlockConditionList": "5|313504",
+		"ProgressText": {
+			"hash": -2147006158
+		},
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/Img_MainLine_032_5.8_05",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/PicMainStory_032_5.8_05",
+		"ActivityEntryImagePath": "event/Immediately/ChapterBg/ChapterOWPicture/back_5.9_Elysium_truecolor",
+		"BGMStateName": "ChapterOW29_02",
+		"PhaseNumber": 10,
+		"DataImpl": {},
+		"PhaseID": 22
+	},
+	{
+		"UnlockConditionList": "5|313504;2|2022-08-26 10:00:00",
+		"ProgressText": {
+			"hash": -2147006157
+		},
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/Img_MainLine_032_5.9_01",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/PicMainStory_032_5.9_01",
+		"ActivityEntryImagePath": "event/Immediately/WorldMap/Entry/back_5.9_Elysium_truecolor",
+		"BGMStateName": "ChapterOW29_02",
+		"PhaseNumber": 11,
+		"DataImpl": {},
+		"PhaseID": 23
+	},
+	{
+		"UnlockConditionList": "5|321304;2|2022-08-26 10:00:00",
+		"ProgressText": {
+			"hash": -2147006157
+		},
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/Img_MainLine_032_5.9_02",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/PicMainStory_032_5.9_02",
+		"ActivityEntryImagePath": "event/Immediately/WorldMap/Entry/back_5.9_Elysium_truecolor",
+		"BGMStateName": "ChapterOW29_02",
+		"PhaseNumber": 12,
+		"DataImpl": {},
+		"PhaseID": 24
+	},
+	{
+		"UnlockConditionList": "5|322002",
+		"ProgressText": {
+			"hash": -2147006157
+		},
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/Img_MainLine_032_5.9_02",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/PicMainStory_032_5.9_02",
+		"ActivityEntryImagePath": "event/Immediately/WorldMap/Entry/back_5.9_Elysium_truecolor",
+		"BGMStateName": "ChapterOW29_02",
+		"PhaseNumber": 13,
+		"DataImpl": {},
+		"PhaseID": 25
+	},
+	{
+		"UnlockConditionList": "5|322201",
+		"ProgressText": {
+			"hash": -2147006157
+		},
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/Img_MainLine_032_5.9_03",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/PicMainStory_032_5.9_03",
+		"ActivityEntryImagePath": "event/Immediately/WorldMap/Entry/back_5.9_Elysium_truecolor",
+		"BGMStateName": "ChapterOW29_02",
+		"PhaseNumber": 14,
+		"DataImpl": {},
+		"PhaseID": 26
+	},
+	{
+		"UnlockConditionList": "5|322504",
+		"ProgressText": {
+			"hash": -2147006157
+		},
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/Img_MainLine_032_5.9_03",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/PicMainStory_032_5.9_03",
+		"ActivityEntryImagePath": "event/Immediately/WorldMap/Entry/back_5.9_Elysium_truecolor",
+		"BGMStateName": "ChapterOW29_02",
+		"PhaseNumber": 15,
+		"DataImpl": {},
+		"PhaseID": 27
+	},
+	{
+		"UnlockConditionList": "5|322602;2|2022-08-26 10:00:00",
+		"ProgressText": {
+			"hash": -2147006157
+		},
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/Img_MainLine_032_5.9_04",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/PicMainStory_032_5.9_04",
+		"ActivityEntryImagePath": "event/Immediately/WorldMap/Entry/back_5.9_Elysium_truecolor",
+		"BGMStateName": "ChapterOW29_02",
+		"PhaseNumber": 16,
+		"DataImpl": {},
+		"PhaseID": 28
+	},
+	{
+		"UnlockConditionList": "5|323001",
+		"ProgressText": {
+			"hash": -2147006157
+		},
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/Img_MainLine_032_5.9_04",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/PicMainStory_032_5.9_04",
+		"ActivityEntryImagePath": "event/Immediately/WorldMap/Entry/back_5.9_Elysium_truecolor",
+		"BGMStateName": "ChapterOW29_02",
+		"PhaseNumber": 17,
+		"DataImpl": {},
+		"PhaseID": 29
+	},
+	{
+		"UnlockConditionList": "5|323109",
+		"ProgressText": {
+			"hash": -2147006157
+		},
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/Img_MainLine_032_5.9_06",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/PicMainStory_032_5.9_06",
+		"ActivityEntryImagePath": "event/Immediately/WorldMap/Entry/back_5.9_Elysium_truecolor",
+		"BGMStateName": "ChapterOW29_02",
+		"PhaseNumber": 18,
+		"DataImpl": {},
+		"PhaseID": 30
+	},
+	{
+		"UnlockConditionList": "5|323110;2|2022-09-09 14:00:00",
+		"ProgressText": {
+			"hash": 0
+		},
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/Img_MainLine_032_5.9_06",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/PicMainStory_032_5.9_06",
+		"ActivityEntryImagePath": "event/Immediately/WorldMap/Entry/back_5.9_Elysium_truecolor",
+		"BGMStateName": "ChapterOW29_02",
+		"PhaseNumber": 19,
+		"DataImpl": {},
+		"PhaseID": 31
+	},
+	{
+		"UnlockConditionList": "",
+		"ProgressText": {
+			"hash": 639898408
+		},
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/Img_MainLine_033_01",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/PicMainStory33_01",
+		"ActivityEntryImagePath": "SpriteOutput/WorldMap/Entry/5.7_Elysium_truecolor",
+		"BGMStateName": "ChapterActivity_32_Refuge",
+		"PhaseNumber": 1,
+		"DataImpl": {},
+		"PhaseID": 32
+	},
+	{
+		"UnlockConditionList": "5|401107;2|2022-11-10 10:00:00",
+		"ProgressText": {
+			"hash": 639898408
+		},
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/Img_MainLine_033_02",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/PicMainStory33_02",
+		"ActivityEntryImagePath": "SpriteOutput/WorldMap/Entry/5.7_Elysium_truecolor",
+		"BGMStateName": "ChapterActivity_32_Refuge",
+		"PhaseNumber": 2,
+		"DataImpl": {},
+		"PhaseID": 33
+	},
+	{
+		"UnlockConditionList": "5|402211;2|2022-11-17 10:00:00",
+		"ProgressText": {
+			"hash": 639898408
+		},
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/Img_MainLine_033_03",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/PicMainStory33_03",
+		"ActivityEntryImagePath": "SpriteOutput/WorldMap/Entry/5.7_Elysium_truecolor",
+		"BGMStateName": "ChapterActivity_32_Refuge",
+		"PhaseNumber": 3,
+		"DataImpl": {},
+		"PhaseID": 34
+	},
+	{
+		"UnlockConditionList": "5|403501;2|2022-11-21 10:00:00",
+		"ProgressText": {
+			"hash": 639898409
+		},
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/6.2_Img_MainLine_034_01",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/6.2_PicMainStory34_01",
+		"ActivityEntryImagePath": "SpriteOutput/WorldMap/Entry/5.7_Elysium_truecolor",
+		"BGMStateName": "ChapterActivity_32_Refuge",
+		"PhaseNumber": 4,
+		"DataImpl": {},
+		"PhaseID": 35
+	},
+	{
+		"UnlockConditionList": "5|441204",
+		"ProgressText": {
+			"hash": 639898409
+		},
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/6.2_Img_MainLine_034_02",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/6.2_PicMainStory34_02",
+		"ActivityEntryImagePath": "SpriteOutput/WorldMap/Entry/5.7_Elysium_truecolor",
+		"BGMStateName": "ChapterActivity_32_Refuge",
+		"PhaseNumber": 5,
+		"DataImpl": {},
+		"PhaseID": 36
+	},
+	{
+		"UnlockConditionList": "5|442502;2|2022-12-01 10:00:00",
+		"ProgressText": {
+			"hash": 639898409
+		},
+		"CoverImagePath": "SpriteOutput/WorldMap/Main/6.2_Img_MainLine_034_03",
+		"MainStoryEntryImagePath": "SpriteOutput/WorldMap/ActivityEntry/6.2_PicMainStory34_03",
+		"ActivityEntryImagePath": "SpriteOutput/WorldMap/Entry/5.7_Elysium_truecolor",
+		"BGMStateName": "ChapterActivity_32_Refuge",
+		"PhaseNumber": 6,
+		"DataImpl": {},
+		"PhaseID": 37
+	}
+]

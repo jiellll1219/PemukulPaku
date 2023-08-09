@@ -1,0 +1,2242 @@
+[
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 30,
+		"BuffWeight": 10,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_Skill_A3",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980735
+		},
+		"Desc": {
+			"hash": -1080239609
+		},
+		"AbilityName": "Stage26_GeneralBuff_002",
+		"ConfigType": "Default",
+		"ParamList": [
+			"4",
+			"6"
+		],
+		"MaterialId": 122103,
+		"SourceDesc": {
+			"hash": -1967511717
+		},
+		"DataImpl": {},
+		"ID": 1003,
+		"Level": 1
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 50,
+		"BuffWeight": 11,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_Skill_A3",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980734
+		},
+		"Desc": {
+			"hash": -1080239608
+		},
+		"AbilityName": "Stage26_GeneralBuff_002_2",
+		"ConfigType": "Default",
+		"ParamList": [
+			"6",
+			"6"
+		],
+		"MaterialId": 122104,
+		"SourceDesc": {
+			"hash": -1967511716
+		},
+		"DataImpl": {},
+		"ID": 1004,
+		"Level": 2
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 70,
+		"BuffWeight": 12,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_Skill_A3",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980733
+		},
+		"Desc": {
+			"hash": -1080239607
+		},
+		"AbilityName": "Stage26_GeneralBuff_002_3",
+		"ConfigType": "Default",
+		"ParamList": [
+			"8",
+			"6"
+		],
+		"MaterialId": 122105,
+		"SourceDesc": {
+			"hash": -1967511715
+		},
+		"DataImpl": {},
+		"ID": 1005,
+		"Level": 3
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 30,
+		"BuffWeight": 20,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_Weapon_24",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980732
+		},
+		"Desc": {
+			"hash": -1080239606
+		},
+		"AbilityName": "Stage26_GeneralBuff_003",
+		"ConfigType": "Default",
+		"ParamList": [
+			"0.5"
+		],
+		"MaterialId": 122106,
+		"SourceDesc": {
+			"hash": -1967511714
+		},
+		"DataImpl": {},
+		"ID": 1006,
+		"Level": 1
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 50,
+		"BuffWeight": 21,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_Weapon_24",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980731
+		},
+		"Desc": {
+			"hash": -1080239605
+		},
+		"AbilityName": "Stage26_GeneralBuff_003_2",
+		"ConfigType": "Default",
+		"ParamList": [
+			"0.7"
+		],
+		"MaterialId": 122107,
+		"SourceDesc": {
+			"hash": -1967511713
+		},
+		"DataImpl": {},
+		"ID": 1007,
+		"Level": 2
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 50,
+		"BuffWeight": 30,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_41127",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980730
+		},
+		"Desc": {
+			"hash": -1080239604
+		},
+		"AbilityName": "Stage26_GeneralBuff_004",
+		"ConfigType": "Default",
+		"ParamList": [
+			"2"
+		],
+		"MaterialId": 122108,
+		"SourceDesc": {
+			"hash": -1967511712
+		},
+		"DataImpl": {},
+		"ID": 1008,
+		"Level": 2
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 70,
+		"BuffWeight": 31,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_41127",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980729
+		},
+		"Desc": {
+			"hash": -1080239603
+		},
+		"AbilityName": "Stage26_GeneralBuff_004_2",
+		"ConfigType": "Default",
+		"ParamList": [
+			"3"
+		],
+		"MaterialId": 122109,
+		"SourceDesc": {
+			"hash": -1967511711
+		},
+		"DataImpl": {},
+		"ID": 1009,
+		"Level": 3
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 30,
+		"BuffWeight": 40,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Theresa_Weapon_13",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980707
+		},
+		"Desc": {
+			"hash": -1080239581
+		},
+		"AbilityName": "Stage26_GeneralBuff_005",
+		"ConfigType": "Default",
+		"ParamList": [
+			"0.15"
+		],
+		"MaterialId": 122110,
+		"SourceDesc": {
+			"hash": -1967511689
+		},
+		"DataImpl": {},
+		"ID": 1010,
+		"Level": 1
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 50,
+		"BuffWeight": 41,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Theresa_Weapon_13",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980706
+		},
+		"Desc": {
+			"hash": -1080239580
+		},
+		"AbilityName": "Stage26_GeneralBuff_005_2",
+		"ConfigType": "Default",
+		"ParamList": [
+			"0.25"
+		],
+		"MaterialId": 122111,
+		"SourceDesc": {
+			"hash": -1967511688
+		},
+		"DataImpl": {},
+		"ID": 1011,
+		"Level": 2
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 70,
+		"BuffWeight": 42,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Theresa_Weapon_13",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980705
+		},
+		"Desc": {
+			"hash": -1080239579
+		},
+		"AbilityName": "Stage26_GeneralBuff_005_3",
+		"ConfigType": "Default",
+		"ParamList": [
+			"0.35"
+		],
+		"MaterialId": 122112,
+		"SourceDesc": {
+			"hash": -1967511687
+		},
+		"DataImpl": {},
+		"ID": 1012,
+		"Level": 3
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 30,
+		"BuffWeight": 50,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_BQ_Artifact01_003",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980704
+		},
+		"Desc": {
+			"hash": -1080239578
+		},
+		"AbilityName": "Stage26_GeneralBuff_006",
+		"ConfigType": "Default",
+		"ParamList": [
+			"-0.2"
+		],
+		"MaterialId": 122113,
+		"SourceDesc": {
+			"hash": -1967511686
+		},
+		"DataImpl": {},
+		"ID": 1013,
+		"Level": 1
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 30,
+		"BuffWeight": 60,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_41107",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980703
+		},
+		"Desc": {
+			"hash": -1080239577
+		},
+		"AbilityName": "Stage26_GeneralBuff_007",
+		"ConfigType": "Default",
+		"ParamList": [
+			"0.2"
+		],
+		"MaterialId": 122114,
+		"SourceDesc": {
+			"hash": -1967511685
+		},
+		"DataImpl": {},
+		"ID": 1014,
+		"Level": 1
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 50,
+		"BuffWeight": 61,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_41107",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980702
+		},
+		"Desc": {
+			"hash": -1080239576
+		},
+		"AbilityName": "Stage26_GeneralBuff_007_2",
+		"ConfigType": "Default",
+		"ParamList": [
+			"0.35"
+		],
+		"MaterialId": 122115,
+		"SourceDesc": {
+			"hash": -1967511684
+		},
+		"DataImpl": {},
+		"ID": 1015,
+		"Level": 2
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 70,
+		"BuffWeight": 62,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_41107",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980701
+		},
+		"Desc": {
+			"hash": -1080239575
+		},
+		"AbilityName": "Stage26_GeneralBuff_007_3",
+		"ConfigType": "Default",
+		"ParamList": [
+			"0.5"
+		],
+		"MaterialId": 122116,
+		"SourceDesc": {
+			"hash": -1967511683
+		},
+		"DataImpl": {},
+		"ID": 1016,
+		"Level": 3
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 30,
+		"BuffWeight": 70,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Element",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980700
+		},
+		"Desc": {
+			"hash": -1080239574
+		},
+		"AbilityName": "Stage26_GeneralBuff_008",
+		"ConfigType": "Default",
+		"ParamList": [
+			"0.2"
+		],
+		"MaterialId": 122117,
+		"SourceDesc": {
+			"hash": -1967511682
+		},
+		"DataImpl": {},
+		"ID": 1017,
+		"Level": 1
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 50,
+		"BuffWeight": 71,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Element",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980699
+		},
+		"Desc": {
+			"hash": -1080239573
+		},
+		"AbilityName": "Stage26_GeneralBuff_008_2",
+		"ConfigType": "Default",
+		"ParamList": [
+			"0.35"
+		],
+		"MaterialId": 122118,
+		"SourceDesc": {
+			"hash": -1967511681
+		},
+		"DataImpl": {},
+		"ID": 1018,
+		"Level": 2
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 70,
+		"BuffWeight": 72,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Element",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980698
+		},
+		"Desc": {
+			"hash": -1080239572
+		},
+		"AbilityName": "Stage26_GeneralBuff_008_3",
+		"ConfigType": "Default",
+		"ParamList": [
+			"0.5"
+		],
+		"MaterialId": 122119,
+		"SourceDesc": {
+			"hash": -1967511680
+		},
+		"DataImpl": {},
+		"ID": 1019,
+		"Level": 3
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 30,
+		"BuffWeight": 80,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_Weapon_34",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980676
+		},
+		"Desc": {
+			"hash": -1080239550
+		},
+		"AbilityName": "Stage26_GeneralBuff_009",
+		"ConfigType": "Default",
+		"ParamList": [
+			"0.45",
+			"12"
+		],
+		"MaterialId": 122120,
+		"SourceDesc": {
+			"hash": -1967511658
+		},
+		"DataImpl": {},
+		"ID": 1020,
+		"Level": 1
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 50,
+		"BuffWeight": 81,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_Weapon_34",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980675
+		},
+		"Desc": {
+			"hash": -1080239549
+		},
+		"AbilityName": "Stage26_GeneralBuff_009_2",
+		"ConfigType": "Default",
+		"ParamList": [
+			"0.6",
+			"15"
+		],
+		"MaterialId": 122121,
+		"SourceDesc": {
+			"hash": -1967511657
+		},
+		"DataImpl": {},
+		"ID": 1021,
+		"Level": 2
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 50,
+		"BuffWeight": 90,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Theresa_Weapon_21",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980674
+		},
+		"Desc": {
+			"hash": -1080239548
+		},
+		"AbilityName": "Stage26_GeneralBuff_010",
+		"ConfigType": "Default",
+		"ParamList": [
+			"0.4"
+		],
+		"MaterialId": 122122,
+		"SourceDesc": {
+			"hash": -1967511656
+		},
+		"DataImpl": {},
+		"ID": 1022,
+		"Level": 2
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 50,
+		"BuffWeight": 100,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_WS_004",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980673
+		},
+		"Desc": {
+			"hash": -1080239547
+		},
+		"AbilityName": "Stage26_GeneralBuff_011",
+		"ConfigType": "Default",
+		"ParamList": [
+			"6",
+			"0.5"
+		],
+		"MaterialId": 122123,
+		"SourceDesc": {
+			"hash": -1967511655
+		},
+		"DataImpl": {},
+		"ID": 1023,
+		"Level": 2
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 50,
+		"BuffWeight": 110,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_FakeAvatar_Robot_Attack",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980670
+		},
+		"Desc": {
+			"hash": -1080239544
+		},
+		"AbilityName": "Stage26_GeneralBuff_013",
+		"ConfigType": "Default",
+		"ParamList": [
+			"0.45",
+			"8"
+		],
+		"MaterialId": 122126,
+		"SourceDesc": {
+			"hash": -1967511652
+		},
+		"DataImpl": {},
+		"ID": 1026,
+		"Level": 2
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 70,
+		"BuffWeight": 111,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_FakeAvatar_Robot_Attack",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980669
+		},
+		"Desc": {
+			"hash": -1080239543
+		},
+		"AbilityName": "Stage26_GeneralBuff_013_2",
+		"ConfigType": "Default",
+		"ParamList": [
+			"0.55",
+			"8"
+		],
+		"MaterialId": 122127,
+		"SourceDesc": {
+			"hash": -1967511651
+		},
+		"DataImpl": {},
+		"ID": 1027,
+		"Level": 3
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 50,
+		"BuffWeight": 120,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_Weapon_22",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980668
+		},
+		"Desc": {
+			"hash": -1080239542
+		},
+		"AbilityName": "Stage26_GeneralBuff_014",
+		"ConfigType": "Default",
+		"ParamList": [
+			"0.4"
+		],
+		"MaterialId": 122128,
+		"SourceDesc": {
+			"hash": -1967511650
+		},
+		"DataImpl": {},
+		"ID": 1028,
+		"Level": 2
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 70,
+		"BuffWeight": 121,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_Weapon_22",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980667
+		},
+		"Desc": {
+			"hash": -1080239541
+		},
+		"AbilityName": "Stage26_GeneralBuff_014_2",
+		"ConfigType": "Default",
+		"ParamList": [
+			"0.5"
+		],
+		"MaterialId": 122129,
+		"SourceDesc": {
+			"hash": -1967511649
+		},
+		"DataImpl": {},
+		"ID": 1029,
+		"Level": 3
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 30,
+		"BuffWeight": 130,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Mech__01",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980645
+		},
+		"Desc": {
+			"hash": -1080239519
+		},
+		"AbilityName": "Stage26_GeneralBuff_015",
+		"ConfigType": "Default",
+		"ParamList": [
+			"0.3",
+			"8"
+		],
+		"MaterialId": 122130,
+		"SourceDesc": {
+			"hash": -1967511627
+		},
+		"DataImpl": {},
+		"ID": 1030,
+		"Level": 1
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 50,
+		"BuffWeight": 131,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Mech__01",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980644
+		},
+		"Desc": {
+			"hash": -1080239518
+		},
+		"AbilityName": "Stage26_GeneralBuff_015_2",
+		"ConfigType": "Default",
+		"ParamList": [
+			"0.45",
+			"8"
+		],
+		"MaterialId": 122131,
+		"SourceDesc": {
+			"hash": -1967511626
+		},
+		"DataImpl": {},
+		"ID": 1031,
+		"Level": 2
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 30,
+		"BuffWeight": 140,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_Weapon_10",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980643
+		},
+		"Desc": {
+			"hash": -1080239517
+		},
+		"AbilityName": "Stage26_GeneralBuff_016",
+		"ConfigType": "Default",
+		"ParamList": [
+			"0.15",
+			"8"
+		],
+		"MaterialId": 122132,
+		"SourceDesc": {
+			"hash": -1967511625
+		},
+		"DataImpl": {},
+		"ID": 1032,
+		"Level": 1
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 50,
+		"BuffWeight": 141,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_Weapon_10",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980642
+		},
+		"Desc": {
+			"hash": -1080239516
+		},
+		"AbilityName": "Stage26_GeneralBuff_016_2",
+		"ConfigType": "Default",
+		"ParamList": [
+			"0.25",
+			"8"
+		],
+		"MaterialId": 122133,
+		"SourceDesc": {
+			"hash": -1967511624
+		},
+		"DataImpl": {},
+		"ID": 1033,
+		"Level": 2
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 70,
+		"BuffWeight": 22,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_Weapon_24",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980610
+		},
+		"Desc": {
+			"hash": -1080239484
+		},
+		"AbilityName": "Stage26_GeneralBuff_003_3",
+		"ConfigType": "Default",
+		"ParamList": [
+			"1"
+		],
+		"MaterialId": 122144,
+		"SourceDesc": {
+			"hash": -1967511592
+		},
+		"DataImpl": {},
+		"ID": 1044,
+		"Level": 3
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 70,
+		"BuffWeight": 51,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_BQ_Artifact01_003",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980609
+		},
+		"Desc": {
+			"hash": -1080239483
+		},
+		"AbilityName": "Stage26_GeneralBuff_006_3",
+		"ConfigType": "Default",
+		"ParamList": [
+			"-0.35"
+		],
+		"MaterialId": 122145,
+		"SourceDesc": {
+			"hash": -1967511591
+		},
+		"DataImpl": {},
+		"ID": 1045,
+		"Level": 3
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 70,
+		"BuffWeight": 91,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Theresa_Weapon_21",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980608
+		},
+		"Desc": {
+			"hash": -1080239482
+		},
+		"AbilityName": "Stage26_GeneralBuff_010_3",
+		"ConfigType": "Default",
+		"ParamList": [
+			"0.5"
+		],
+		"MaterialId": 122146,
+		"SourceDesc": {
+			"hash": -1967511590
+		},
+		"DataImpl": {},
+		"ID": 1046,
+		"Level": 3
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 70,
+		"BuffWeight": 150,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Mei_20318",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980607
+		},
+		"Desc": {
+			"hash": -1080239481
+		},
+		"AbilityName": "Stage26_GeneralBuff_5301",
+		"ConfigType": "Default",
+		"ParamList": [
+			"0.2"
+		],
+		"MaterialId": 122147,
+		"SourceDesc": {
+			"hash": -1967511589
+		},
+		"DataImpl": {},
+		"ID": 1047,
+		"Level": 3
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 70,
+		"BuffWeight": 160,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_41128",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980606
+		},
+		"Desc": {
+			"hash": -1080239480
+		},
+		"AbilityName": "Stage26_GeneralBuff_5302",
+		"ConfigType": "Default",
+		"ParamList": [
+			"0.2"
+		],
+		"MaterialId": 122148,
+		"SourceDesc": {
+			"hash": -1967511588
+		},
+		"DataImpl": {},
+		"ID": 1048,
+		"Level": 3
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 70,
+		"BuffWeight": 170,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Restraint",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980605
+		},
+		"Desc": {
+			"hash": -1080239479
+		},
+		"AbilityName": "Stage26_GeneralBuff_5303",
+		"ConfigType": "Default",
+		"ParamList": [
+			"0.5"
+		],
+		"MaterialId": 122149,
+		"SourceDesc": {
+			"hash": -1967511587
+		},
+		"DataImpl": {},
+		"ID": 1049,
+		"Level": 3
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 70,
+		"BuffWeight": 82,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_Weapon_34",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980583
+		},
+		"Desc": {
+			"hash": -1080239457
+		},
+		"AbilityName": "Stage26_GeneralBuff_009_3",
+		"ConfigType": "Default",
+		"ParamList": [
+			"0.8"
+		],
+		"MaterialId": 122150,
+		"SourceDesc": {
+			"hash": -1967511565
+		},
+		"DataImpl": {},
+		"ID": 1050,
+		"Level": 3
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 70,
+		"BuffWeight": 101,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_WS_004",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980582
+		},
+		"Desc": {
+			"hash": -1080239456
+		},
+		"AbilityName": "Stage26_GeneralBuff_011_3",
+		"ConfigType": "Default",
+		"ParamList": [
+			"6",
+			"0.7"
+		],
+		"MaterialId": 122151,
+		"SourceDesc": {
+			"hash": -1967511564
+		},
+		"DataImpl": {},
+		"ID": 1051,
+		"Level": 3
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 70,
+		"BuffWeight": 180,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/ChapterOW_SpEnergy_ATKup",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980581
+		},
+		"Desc": {
+			"hash": -1080239455
+		},
+		"AbilityName": "Stage26_GeneralBuff_5304",
+		"ConfigType": "Default",
+		"ParamList": [
+			"20"
+		],
+		"MaterialId": 122152,
+		"SourceDesc": {
+			"hash": -1967511563
+		},
+		"DataImpl": {},
+		"ID": 1052,
+		"Level": 3
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 100,
+		"BuffWeight": 43,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Theresa_Weapon_13",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980580
+		},
+		"Desc": {
+			"hash": -1080239454
+		},
+		"AbilityName": "Stage26_GeneralBuff_005_4",
+		"ConfigType": "Default",
+		"ParamList": [
+			"0.45"
+		],
+		"MaterialId": 122153,
+		"SourceDesc": {
+			"hash": -1967511562
+		},
+		"DataImpl": {},
+		"ID": 1053,
+		"Level": 4
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 100,
+		"BuffWeight": 112,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_FakeAvatar_Robot_Attack",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980579
+		},
+		"Desc": {
+			"hash": -1080239453
+		},
+		"AbilityName": "Stage26_GeneralBuff_013_4",
+		"ConfigType": "Default",
+		"ParamList": [
+			"0.6",
+			"12"
+		],
+		"MaterialId": 122154,
+		"SourceDesc": {
+			"hash": -1967511561
+		},
+		"DataImpl": {},
+		"ID": 1054,
+		"Level": 4
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 100,
+		"BuffWeight": 190,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Infinite_Wrath",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980552
+		},
+		"Desc": {
+			"hash": -1080239426
+		},
+		"AbilityName": "Stage26_Tower_SPDamage",
+		"ConfigType": "Default",
+		"ParamList": [
+			"0.008"
+		],
+		"MaterialId": 122160,
+		"SourceDesc": {
+			"hash": -1967511534
+		},
+		"DataImpl": {},
+		"ID": 1060,
+		"Level": 4
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 100,
+		"BuffWeight": 200,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Carol_30402",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980551
+		},
+		"Desc": {
+			"hash": -1080239425
+		},
+		"AbilityName": "Stage26_Tower_CheckStatesDamage",
+		"ConfigType": "Default",
+		"ParamList": [
+			"0.3"
+		],
+		"MaterialId": 122161,
+		"SourceDesc": {
+			"hash": -1967511533
+		},
+		"DataImpl": {},
+		"ID": 1061,
+		"Level": 4
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 100,
+		"BuffWeight": 210,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Mei_Skill_B1",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980550
+		},
+		"Desc": {
+			"hash": -1080239424
+		},
+		"AbilityName": "Stage26_GeneralBuff_BOOM",
+		"ConfigType": "Default",
+		"ParamList": [
+			"8",
+			"2"
+		],
+		"MaterialId": 122162,
+		"SourceDesc": {
+			"hash": -1967511532
+		},
+		"DataImpl": {},
+		"ID": 1062,
+		"Level": 4
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 100,
+		"BuffWeight": 220,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Damage",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980549
+		},
+		"Desc": {
+			"hash": -1080239423
+		},
+		"AbilityName": "Stage26_Tower_AvatarSwitchDamage",
+		"ConfigType": "Default",
+		"ParamList": [
+			"0.6",
+			"12"
+		],
+		"MaterialId": 122163,
+		"SourceDesc": {
+			"hash": -1967511531
+		},
+		"DataImpl": {},
+		"ID": 1063,
+		"Level": 4
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 100,
+		"BuffWeight": 13,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_Skill_A3",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980548
+		},
+		"Desc": {
+			"hash": -1080239422
+		},
+		"AbilityName": "Stage26_GeneralBuff_002_4",
+		"ConfigType": "Default",
+		"ParamList": [
+			"10",
+			"6"
+		],
+		"MaterialId": 122164,
+		"SourceDesc": {
+			"hash": -1967511530
+		},
+		"DataImpl": {},
+		"ID": 1064,
+		"Level": 4
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 100,
+		"BuffWeight": 142,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_Weapon_10",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980547
+		},
+		"Desc": {
+			"hash": -1080239421
+		},
+		"AbilityName": "Stage26_GeneralBuff_016_3",
+		"ConfigType": "Default",
+		"ParamList": [
+			"0.5",
+			"12"
+		],
+		"MaterialId": 122165,
+		"SourceDesc": {
+			"hash": -1967511529
+		},
+		"DataImpl": {},
+		"ID": 1065,
+		"Level": 4
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 100,
+		"BuffWeight": 181,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/ChapterOW_SpEnergy_ATKup",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980546
+		},
+		"Desc": {
+			"hash": -1080239420
+		},
+		"AbilityName": "Stage26_GeneralBuff_5304_2",
+		"ConfigType": "Default",
+		"ParamList": [
+			"30"
+		],
+		"MaterialId": 122166,
+		"SourceDesc": {
+			"hash": -1967511528
+		},
+		"DataImpl": {},
+		"ID": 1066,
+		"Level": 4
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 100,
+		"BuffWeight": 63,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_41107",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980545
+		},
+		"Desc": {
+			"hash": -1080239419
+		},
+		"AbilityName": "Stage26_GeneralBuff_007_4",
+		"ConfigType": "Default",
+		"ParamList": [
+			"0.6"
+		],
+		"MaterialId": 122167,
+		"SourceDesc": {
+			"hash": -1967511527
+		},
+		"DataImpl": {},
+		"ID": 1067,
+		"Level": 4
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 100,
+		"BuffWeight": 73,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Element",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980544
+		},
+		"Desc": {
+			"hash": -1080239418
+		},
+		"AbilityName": "Stage26_GeneralBuff_008_4",
+		"ConfigType": "Default",
+		"ParamList": [
+			"0.6"
+		],
+		"MaterialId": 122168,
+		"SourceDesc": {
+			"hash": -1967511526
+		},
+		"DataImpl": {},
+		"ID": 1068,
+		"Level": 4
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 100,
+		"BuffWeight": 151,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Mei_20318",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980543
+		},
+		"Desc": {
+			"hash": -1080239417
+		},
+		"AbilityName": "Stage26_GeneralBuff_5301_2",
+		"ConfigType": "Default",
+		"ParamList": [
+			"0.25"
+		],
+		"MaterialId": 122169,
+		"SourceDesc": {
+			"hash": -1967511525
+		},
+		"DataImpl": {},
+		"ID": 1069,
+		"Level": 4
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 100,
+		"BuffWeight": 161,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_41128",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980521
+		},
+		"Desc": {
+			"hash": -1080239395
+		},
+		"AbilityName": "Stage26_GeneralBuff_5302_2",
+		"ConfigType": "Default",
+		"ParamList": [
+			"0.25"
+		],
+		"MaterialId": 122170,
+		"SourceDesc": {
+			"hash": -1967511503
+		},
+		"DataImpl": {},
+		"ID": 1070,
+		"Level": 4
+	},
+	{
+		"MapID": 701,
+		"Type": 1,
+		"Cost": 100,
+		"BuffWeight": 92,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Theresa_Weapon_21",
+		"SuitID": 0,
+		"Name": {
+			"hash": -256980520
+		},
+		"Desc": {
+			"hash": -1080239394
+		},
+		"AbilityName": "Stage26_GeneralBuff_010_4",
+		"ConfigType": "Default",
+		"ParamList": [
+			"0.65"
+		],
+		"MaterialId": 122171,
+		"SourceDesc": {
+			"hash": -1967511502
+		},
+		"DataImpl": {},
+		"ID": 1071,
+		"Level": 4
+	},
+	{
+		"MapID": 701,
+		"Type": 2,
+		"Cost": 70,
+		"BuffWeight": 10,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_Weapon_01",
+		"SuitID": 1,
+		"Name": {
+			"hash": 623591345
+		},
+		"Desc": {
+			"hash": 872370027
+		},
+		"AbilityName": "Stage26_GeneralBuff_Suit101",
+		"ConfigType": "Default",
+		"ParamList": [
+			"100",
+			"0.5"
+		],
+		"MaterialId": 122201,
+		"SourceDesc": {
+			"hash": -1967510758
+		},
+		"DataImpl": {},
+		"ID": 2001,
+		"Level": 3
+	},
+	{
+		"MapID": 701,
+		"Type": 2,
+		"Cost": 70,
+		"BuffWeight": 11,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Mei_Skill_A3",
+		"SuitID": 1,
+		"Name": {
+			"hash": 623591346
+		},
+		"Desc": {
+			"hash": 872370028
+		},
+		"AbilityName": "Stage26_GeneralBuff_Suit102",
+		"ConfigType": "Default",
+		"ParamList": [
+			"25"
+		],
+		"MaterialId": 122202,
+		"SourceDesc": {
+			"hash": -1967510757
+		},
+		"DataImpl": {},
+		"ID": 2002,
+		"Level": 3
+	},
+	{
+		"MapID": 701,
+		"Type": 2,
+		"Cost": 70,
+		"BuffWeight": 12,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Mei_Skill_A2",
+		"SuitID": 1,
+		"Name": {
+			"hash": 623591347
+		},
+		"Desc": {
+			"hash": 872370029
+		},
+		"AbilityName": "Stage26_GeneralBuff_Suit103",
+		"ConfigType": "Default",
+		"ParamList": [
+			"2"
+		],
+		"MaterialId": 122203,
+		"SourceDesc": {
+			"hash": -1967510756
+		},
+		"DataImpl": {},
+		"ID": 2003,
+		"Level": 3
+	},
+	{
+		"MapID": 701,
+		"Type": 2,
+		"Cost": 70,
+		"BuffWeight": 20,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/HealHP",
+		"SuitID": 2,
+		"Name": {
+			"hash": 623591348
+		},
+		"Desc": {
+			"hash": 872370030
+		},
+		"AbilityName": "Stage26_GeneralBuff_Suit401",
+		"ConfigType": "Default",
+		"ParamList": [
+			"1200"
+		],
+		"MaterialId": 122204,
+		"SourceDesc": {
+			"hash": -1967510755
+		},
+		"DataImpl": {},
+		"ID": 2004,
+		"Level": 3
+	},
+	{
+		"MapID": 701,
+		"Type": 2,
+		"Cost": 70,
+		"BuffWeight": 21,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/ChapterOW_LP_ATK_Enhancement",
+		"SuitID": 2,
+		"Name": {
+			"hash": 623591349
+		},
+		"Desc": {
+			"hash": 872370031
+		},
+		"AbilityName": "Stage26_GeneralBuff_Suit402",
+		"ConfigType": "Default",
+		"ParamList": [
+			"600",
+			"0.02",
+			"0.01"
+		],
+		"MaterialId": 122205,
+		"SourceDesc": {
+			"hash": -1967510754
+		},
+		"DataImpl": {},
+		"ID": 2005,
+		"Level": 3
+	},
+	{
+		"MapID": 701,
+		"Type": 2,
+		"Cost": 70,
+		"BuffWeight": 22,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/ChapterOW_LP_DEF_Reduction",
+		"SuitID": 2,
+		"Name": {
+			"hash": 623591350
+		},
+		"Desc": {
+			"hash": 872370032
+		},
+		"AbilityName": "Stage26_GeneralBuff_Suit403",
+		"ConfigType": "Default",
+		"ParamList": [
+			"600",
+			"0.04",
+			"0.02"
+		],
+		"MaterialId": 122206,
+		"SourceDesc": {
+			"hash": -1967510753
+		},
+		"DataImpl": {},
+		"ID": 2006,
+		"Level": 3
+	},
+	{
+		"MapID": 701,
+		"Type": 2,
+		"Cost": 70,
+		"BuffWeight": 30,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/ChapterOW_ShieldSkill_Suit3",
+		"SuitID": 3,
+		"Name": {
+			"hash": 623591351
+		},
+		"Desc": {
+			"hash": 872370033
+		},
+		"AbilityName": "Stage26_GeneralBuff_Suit201",
+		"ConfigType": "Default",
+		"ParamList": [
+			"8",
+			"0.4"
+		],
+		"MaterialId": 122207,
+		"SourceDesc": {
+			"hash": -1967510752
+		},
+		"DataImpl": {},
+		"ID": 2007,
+		"Level": 3
+	},
+	{
+		"MapID": 701,
+		"Type": 2,
+		"Cost": 70,
+		"BuffWeight": 31,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/ChapterOW_ShieldSkill_Suit1",
+		"SuitID": 3,
+		"Name": {
+			"hash": 623591352
+		},
+		"Desc": {
+			"hash": 872370034
+		},
+		"AbilityName": "Stage26_GeneralBuff_Suit202",
+		"ConfigType": "Default",
+		"ParamList": [
+			"1"
+		],
+		"MaterialId": 122208,
+		"SourceDesc": {
+			"hash": -1967510751
+		},
+		"DataImpl": {},
+		"ID": 2008,
+		"Level": 3
+	},
+	{
+		"MapID": 701,
+		"Type": 2,
+		"Cost": 70,
+		"BuffWeight": 32,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/ChapterOW_ShieldSkill_Suit2",
+		"SuitID": 3,
+		"Name": {
+			"hash": 623591353
+		},
+		"Desc": {
+			"hash": 872370035
+		},
+		"AbilityName": "Stage26_GeneralBuff_Suit203",
+		"ConfigType": "Default",
+		"ParamList": [
+			"-0.5"
+		],
+		"MaterialId": 122209,
+		"SourceDesc": {
+			"hash": -1967510750
+		},
+		"DataImpl": {},
+		"ID": 2009,
+		"Level": 3
+	},
+	{
+		"MapID": 701,
+		"Type": 2,
+		"Cost": 70,
+		"BuffWeight": 40,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_41115",
+		"SuitID": 4,
+		"Name": {
+			"hash": 623591375
+		},
+		"Desc": {
+			"hash": 872370057
+		},
+		"AbilityName": "Stage26_GeneralBuff_Suit501",
+		"ConfigType": "Default",
+		"ParamList": [
+			"15"
+		],
+		"MaterialId": 122210,
+		"SourceDesc": {
+			"hash": -1967510728
+		},
+		"DataImpl": {},
+		"ID": 2010,
+		"Level": 3
+	},
+	{
+		"MapID": 701,
+		"Type": 2,
+		"Cost": 70,
+		"BuffWeight": 41,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_41111",
+		"SuitID": 4,
+		"Name": {
+			"hash": 623591376
+		},
+		"Desc": {
+			"hash": 872370058
+		},
+		"AbilityName": "Stage26_GeneralBuff_Suit502",
+		"ConfigType": "Default",
+		"ParamList": [
+			"0.6",
+			"4",
+			"0.3"
+		],
+		"MaterialId": 122211,
+		"SourceDesc": {
+			"hash": -1967510727
+		},
+		"DataImpl": {},
+		"ID": 2011,
+		"Level": 3
+	},
+	{
+		"MapID": 701,
+		"Type": 2,
+		"Cost": 70,
+		"BuffWeight": 42,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_41113",
+		"SuitID": 4,
+		"Name": {
+			"hash": 623591377
+		},
+		"Desc": {
+			"hash": 872370059
+		},
+		"AbilityName": "Stage26_GeneralBuff_Suit503",
+		"ConfigType": "Default",
+		"ParamList": [
+			"450",
+			"4",
+			"225"
+		],
+		"MaterialId": 122212,
+		"SourceDesc": {
+			"hash": -1967510726
+		},
+		"DataImpl": {},
+		"ID": 2012,
+		"Level": 3
+	},
+	{
+		"MapID": 701,
+		"Type": 2,
+		"Cost": 70,
+		"BuffWeight": 50,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/ChapterOW_Imaginary_Suit1",
+		"SuitID": 5,
+		"Name": {
+			"hash": 623591378
+		},
+		"Desc": {
+			"hash": 872370060
+		},
+		"AbilityName": "Stage26_GeneralBuff_Suit301",
+		"ConfigType": "Default",
+		"ParamList": [
+			"0.25"
+		],
+		"MaterialId": 122213,
+		"SourceDesc": {
+			"hash": -1967510725
+		},
+		"DataImpl": {},
+		"ID": 2013,
+		"Level": 3
+	},
+	{
+		"MapID": 701,
+		"Type": 2,
+		"Cost": 70,
+		"BuffWeight": 51,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/ChapterOW_Imaginary_Suit2",
+		"SuitID": 5,
+		"Name": {
+			"hash": 623591379
+		},
+		"Desc": {
+			"hash": 872370061
+		},
+		"AbilityName": "Stage26_GeneralBuff_Suit302",
+		"ConfigType": "Default",
+		"ParamList": [
+			"0.35"
+		],
+		"MaterialId": 122214,
+		"SourceDesc": {
+			"hash": -1967510724
+		},
+		"DataImpl": {},
+		"ID": 2014,
+		"Level": 3
+	},
+	{
+		"MapID": 701,
+		"Type": 2,
+		"Cost": 70,
+		"BuffWeight": 52,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/ChapterOW_Imaginary_Suit3",
+		"SuitID": 5,
+		"Name": {
+			"hash": 623591380
+		},
+		"Desc": {
+			"hash": 872370062
+		},
+		"AbilityName": "Stage26_GeneralBuff_Suit303",
+		"ConfigType": "Default",
+		"ParamList": [
+			"-0.2"
+		],
+		"MaterialId": 122215,
+		"SourceDesc": {
+			"hash": -1967510723
+		},
+		"DataImpl": {},
+		"ID": 2015,
+		"Level": 3
+	},
+	{
+		"MapID": 701,
+		"Type": 2,
+		"Cost": 70,
+		"BuffWeight": 60,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit1",
+		"SuitID": 6,
+		"Name": {
+			"hash": 623591381
+		},
+		"Desc": {
+			"hash": 872370063
+		},
+		"AbilityName": "Stage26_GeneralBuff_Suit601",
+		"ConfigType": "Default",
+		"ParamList": [
+			"0.3",
+			"8"
+		],
+		"MaterialId": 122216,
+		"SourceDesc": {
+			"hash": -1967510722
+		},
+		"DataImpl": {},
+		"ID": 2016,
+		"Level": 3
+	},
+	{
+		"MapID": 701,
+		"Type": 2,
+		"Cost": 70,
+		"BuffWeight": 61,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit2",
+		"SuitID": 6,
+		"Name": {
+			"hash": 623591382
+		},
+		"Desc": {
+			"hash": 872370064
+		},
+		"AbilityName": "Stage26_GeneralBuff_Suit602",
+		"ConfigType": "Default",
+		"ParamList": [
+			"0.4",
+			"8"
+		],
+		"MaterialId": 122217,
+		"SourceDesc": {
+			"hash": -1967510721
+		},
+		"DataImpl": {},
+		"ID": 2017,
+		"Level": 3
+	},
+	{
+		"MapID": 701,
+		"Type": 2,
+		"Cost": 70,
+		"BuffWeight": 62,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit3",
+		"SuitID": 6,
+		"Name": {
+			"hash": 623591383
+		},
+		"Desc": {
+			"hash": 872370065
+		},
+		"AbilityName": "Stage26_GeneralBuff_001",
+		"ConfigType": "Default",
+		"ParamList": [
+			"0.5"
+		],
+		"MaterialId": 122218,
+		"SourceDesc": {
+			"hash": -1967510720
+		},
+		"DataImpl": {},
+		"ID": 2018,
+		"Level": 3
+	},
+	{
+		"MapID": 701,
+		"Type": 3,
+		"Cost": 0,
+		"BuffWeight": 10,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/ChapterOW_CoreSkill01_1",
+		"SuitID": 0,
+		"Name": {
+			"hash": 623621136
+		},
+		"Desc": {
+			"hash": 872399818
+		},
+		"AbilityName": "Stage26_Fight_Button_1_LV1",
+		"ConfigType": "Default",
+		"ParamList": [
+			"1"
+		],
+		"MaterialId": 122301,
+		"SourceDesc": {
+			"hash": -1967509797
+		},
+		"DataImpl": {},
+		"ID": 3001,
+		"Level": 1
+	},
+	{
+		"MapID": 701,
+		"Type": 3,
+		"Cost": 0,
+		"BuffWeight": 11,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/ChapterOW_CoreSkill01_2",
+		"SuitID": 0,
+		"Name": {
+			"hash": 623621139
+		},
+		"Desc": {
+			"hash": 872399821
+		},
+		"AbilityName": "Stage26_Fight_Button_1_LV2",
+		"ConfigType": "Default",
+		"ParamList": [
+			"1"
+		],
+		"MaterialId": 122304,
+		"SourceDesc": {
+			"hash": -1967509794
+		},
+		"DataImpl": {},
+		"ID": 3001,
+		"Level": 2
+	},
+	{
+		"MapID": 701,
+		"Type": 3,
+		"Cost": 0,
+		"BuffWeight": 12,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/ChapterOW_CoreSkill01_3",
+		"SuitID": 0,
+		"Name": {
+			"hash": 623621142
+		},
+		"Desc": {
+			"hash": 872399824
+		},
+		"AbilityName": "Stage26_Fight_Button_1_LV3",
+		"ConfigType": "Default",
+		"ParamList": [
+			"1"
+		],
+		"MaterialId": 122307,
+		"SourceDesc": {
+			"hash": -1967509791
+		},
+		"DataImpl": {},
+		"ID": 3001,
+		"Level": 3
+	},
+	{
+		"MapID": 701,
+		"Type": 3,
+		"Cost": 0,
+		"BuffWeight": 20,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/ChapterOW_CoreSkill02_1",
+		"SuitID": 0,
+		"Name": {
+			"hash": 623621137
+		},
+		"Desc": {
+			"hash": 872399819
+		},
+		"AbilityName": "Stage26_Fight_Button_2_LV1",
+		"ConfigType": "Default",
+		"ParamList": [
+			"1"
+		],
+		"MaterialId": 122302,
+		"SourceDesc": {
+			"hash": -1967509796
+		},
+		"DataImpl": {},
+		"ID": 3002,
+		"Level": 1
+	},
+	{
+		"MapID": 701,
+		"Type": 3,
+		"Cost": 0,
+		"BuffWeight": 21,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/ChapterOW_CoreSkill02_2",
+		"SuitID": 0,
+		"Name": {
+			"hash": 623621140
+		},
+		"Desc": {
+			"hash": 872399822
+		},
+		"AbilityName": "Stage26_Fight_Button_2_LV2",
+		"ConfigType": "Default",
+		"ParamList": [
+			"1"
+		],
+		"MaterialId": 122305,
+		"SourceDesc": {
+			"hash": -1967509793
+		},
+		"DataImpl": {},
+		"ID": 3002,
+		"Level": 2
+	},
+	{
+		"MapID": 701,
+		"Type": 3,
+		"Cost": 0,
+		"BuffWeight": 22,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/ChapterOW_CoreSkill02_3",
+		"SuitID": 0,
+		"Name": {
+			"hash": 623621143
+		},
+		"Desc": {
+			"hash": 872399825
+		},
+		"AbilityName": "Stage26_Fight_Button_2_LV3",
+		"ConfigType": "Default",
+		"ParamList": [
+			"1"
+		],
+		"MaterialId": 122308,
+		"SourceDesc": {
+			"hash": -1967509790
+		},
+		"DataImpl": {},
+		"ID": 3002,
+		"Level": 3
+	},
+	{
+		"MapID": 701,
+		"Type": 3,
+		"Cost": 0,
+		"BuffWeight": 30,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/ChapterOW_CoreSkill03_1",
+		"SuitID": 0,
+		"Name": {
+			"hash": 623621138
+		},
+		"Desc": {
+			"hash": 872399820
+		},
+		"AbilityName": "Stage26_Fight_Button_3_LV1",
+		"ConfigType": "Default",
+		"ParamList": [
+			"1"
+		],
+		"MaterialId": 122303,
+		"SourceDesc": {
+			"hash": -1967509795
+		},
+		"DataImpl": {},
+		"ID": 3003,
+		"Level": 1
+	},
+	{
+		"MapID": 701,
+		"Type": 3,
+		"Cost": 0,
+		"BuffWeight": 31,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/ChapterOW_CoreSkill03_2",
+		"SuitID": 0,
+		"Name": {
+			"hash": 623621141
+		},
+		"Desc": {
+			"hash": 872399823
+		},
+		"AbilityName": "Stage26_Fight_Button_3_LV2",
+		"ConfigType": "Default",
+		"ParamList": [
+			"1"
+		],
+		"MaterialId": 122306,
+		"SourceDesc": {
+			"hash": -1967509792
+		},
+		"DataImpl": {},
+		"ID": 3003,
+		"Level": 2
+	},
+	{
+		"MapID": 701,
+		"Type": 3,
+		"Cost": 0,
+		"BuffWeight": 32,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/ChapterOW_CoreSkill03_3",
+		"SuitID": 0,
+		"Name": {
+			"hash": 623621144
+		},
+		"Desc": {
+			"hash": 872399826
+		},
+		"AbilityName": "Stage26_Fight_Button_3_LV3",
+		"ConfigType": "Default",
+		"ParamList": [
+			"1"
+		],
+		"MaterialId": 122309,
+		"SourceDesc": {
+			"hash": -1967509789
+		},
+		"DataImpl": {},
+		"ID": 3003,
+		"Level": 3
+	},
+	{
+		"MapID": 801,
+		"Type": 4,
+		"Cost": 0,
+		"BuffWeight": 1,
+		"IconPath": "SpriteOutput/MaterialIcons/123301",
+		"SuitID": 0,
+		"Name": {
+			"hash": 623650927
+		},
+		"Desc": {
+			"hash": 872429609
+		},
+		"AbilityName": "Button_Stage29_BreakWalls_LV1",
+		"ConfigType": "Default",
+		"ParamList": [
+			"1"
+		],
+		"MaterialId": 123301,
+		"SourceDesc": {
+			"hash": -1967480006
+		},
+		"DataImpl": {},
+		"ID": 4001,
+		"Level": 1
+	},
+	{
+		"MapID": 801,
+		"Type": 4,
+		"Cost": 0,
+		"BuffWeight": 1,
+		"IconPath": "SpriteOutput/MaterialIcons/123302",
+		"SuitID": 0,
+		"Name": {
+			"hash": 623650928
+		},
+		"Desc": {
+			"hash": 872429610
+		},
+		"AbilityName": "Button_Stage29_BreakWalls_LV2",
+		"ConfigType": "Default",
+		"ParamList": [
+			"1"
+		],
+		"MaterialId": 123302,
+		"SourceDesc": {
+			"hash": -1967480005
+		},
+		"DataImpl": {},
+		"ID": 4001,
+		"Level": 2
+	},
+	{
+		"MapID": 801,
+		"Type": 4,
+		"Cost": 0,
+		"BuffWeight": 2,
+		"IconPath": "SpriteOutput/MaterialIcons/123303",
+		"SuitID": 0,
+		"Name": {
+			"hash": 623650929
+		},
+		"Desc": {
+			"hash": 872429611
+		},
+		"AbilityName": "Button_Stage29_Goggles_LV1",
+		"ConfigType": "Default",
+		"ParamList": [
+			"1"
+		],
+		"MaterialId": 123303,
+		"SourceDesc": {
+			"hash": -1967480004
+		},
+		"DataImpl": {},
+		"ID": 4002,
+		"Level": 1
+	},
+	{
+		"MapID": 801,
+		"Type": 4,
+		"Cost": 0,
+		"BuffWeight": 2,
+		"IconPath": "SpriteOutput/MaterialIcons/123304",
+		"SuitID": 0,
+		"Name": {
+			"hash": 623650930
+		},
+		"Desc": {
+			"hash": 872429612
+		},
+		"AbilityName": "Button_Stage29_Goggles_LV2",
+		"ConfigType": "Default",
+		"ParamList": [
+			"1"
+		],
+		"MaterialId": 123304,
+		"SourceDesc": {
+			"hash": -1967480003
+		},
+		"DataImpl": {},
+		"ID": 4002,
+		"Level": 2
+	},
+	{
+		"MapID": 801,
+		"Type": 4,
+		"Cost": 0,
+		"BuffWeight": 3,
+		"IconPath": "SpriteOutput/MaterialIcons/123305",
+		"SuitID": 0,
+		"Name": {
+			"hash": 623650931
+		},
+		"Desc": {
+			"hash": 872429613
+		},
+		"AbilityName": "Button_Stage29_Lightsource_LV1",
+		"ConfigType": "Default",
+		"ParamList": [
+			"1"
+		],
+		"MaterialId": 123305,
+		"SourceDesc": {
+			"hash": -1967480002
+		},
+		"DataImpl": {},
+		"ID": 4003,
+		"Level": 1
+	},
+	{
+		"MapID": 801,
+		"Type": 4,
+		"Cost": 0,
+		"BuffWeight": 3,
+		"IconPath": "SpriteOutput/MaterialIcons/123306",
+		"SuitID": 0,
+		"Name": {
+			"hash": 623650932
+		},
+		"Desc": {
+			"hash": 872429614
+		},
+		"AbilityName": "Button_Stage29_Lightsource_LV2",
+		"ConfigType": "Default",
+		"ParamList": [
+			"1"
+		],
+		"MaterialId": 123306,
+		"SourceDesc": {
+			"hash": -1967480001
+		},
+		"DataImpl": {},
+		"ID": 4003,
+		"Level": 2
+	}
+]

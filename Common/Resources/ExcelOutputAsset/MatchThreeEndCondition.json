@@ -1,0 +1,187 @@
+[
+	{
+		"resultType": 1,
+		"resultText": {
+			"hash": 6804917
+		},
+		"monsterDie": true,
+		"roleDie": false,
+		"reachMaxRound": false,
+		"reachSpecificRound": 0,
+		"reachMaxShuffle": false,
+		"CleanStateList": [],
+		"GoalStateList": [],
+		"DataImpl": {},
+		"conditionID": 1
+	},
+	{
+		"resultType": 2,
+		"resultText": {
+			"hash": 6804918
+		},
+		"monsterDie": false,
+		"roleDie": true,
+		"reachMaxRound": false,
+		"reachSpecificRound": 0,
+		"reachMaxShuffle": false,
+		"CleanStateList": [],
+		"GoalStateList": [],
+		"DataImpl": {},
+		"conditionID": 2
+	},
+	{
+		"resultType": 3,
+		"resultText": {
+			"hash": 6804919
+		},
+		"monsterDie": false,
+		"roleDie": false,
+		"reachMaxRound": true,
+		"reachSpecificRound": 0,
+		"reachMaxShuffle": false,
+		"CleanStateList": [],
+		"GoalStateList": [],
+		"DataImpl": {},
+		"conditionID": 3
+	},
+	{
+		"resultType": 4,
+		"resultText": {
+			"hash": 6804920
+		},
+		"monsterDie": false,
+		"roleDie": false,
+		"reachMaxRound": false,
+		"reachSpecificRound": 0,
+		"reachMaxShuffle": true,
+		"CleanStateList": [],
+		"GoalStateList": [],
+		"DataImpl": {},
+		"conditionID": 4
+	},
+	{
+		"resultType": 1,
+		"resultText": {
+			"hash": 6804917
+		},
+		"monsterDie": true,
+		"roleDie": false,
+		"reachMaxRound": false,
+		"reachSpecificRound": 0,
+		"reachMaxShuffle": false,
+		"CleanStateList": [
+			{
+				"stateID": 103,
+				"stateTime": 10
+			}
+		],
+		"GoalStateList": [],
+		"DataImpl": {},
+		"conditionID": 5
+	},
+	{
+		"resultType": 1,
+		"resultText": {
+			"hash": 6804917
+		},
+		"monsterDie": false,
+		"roleDie": false,
+		"reachMaxRound": true,
+		"reachSpecificRound": 0,
+		"reachMaxShuffle": false,
+		"CleanStateList": [],
+		"GoalStateList": [],
+		"DataImpl": {},
+		"conditionID": 6
+	},
+	{
+		"resultType": 1,
+		"resultText": {
+			"hash": 6804917
+		},
+		"monsterDie": true,
+		"roleDie": false,
+		"reachMaxRound": false,
+		"reachSpecificRound": 0,
+		"reachMaxShuffle": false,
+		"CleanStateList": [],
+		"GoalStateList": [
+			{
+				"stateID": 6,
+				"stateNum": 0
+			}
+		],
+		"DataImpl": {},
+		"conditionID": 7
+	},
+	{
+		"resultType": 1,
+		"resultText": {
+			"hash": 6804917
+		},
+		"monsterDie": true,
+		"roleDie": false,
+		"reachMaxRound": false,
+		"reachSpecificRound": 0,
+		"reachMaxShuffle": false,
+		"CleanStateList": [],
+		"GoalStateList": [
+			{
+				"stateID": 17,
+				"stateNum": 0
+			}
+		],
+		"DataImpl": {},
+		"conditionID": 8
+	},
+	{
+		"resultType": 1,
+		"resultText": {
+			"hash": 6804917
+		},
+		"monsterDie": true,
+		"roleDie": false,
+		"reachMaxRound": false,
+		"reachSpecificRound": 0,
+		"reachMaxShuffle": false,
+		"CleanStateList": [
+			{
+				"stateID": 103,
+				"stateTime": 18
+			}
+		],
+		"GoalStateList": [],
+		"DataImpl": {},
+		"conditionID": 9
+	},
+	{
+		"resultType": 1,
+		"resultText": {
+			"hash": 6804917
+		},
+		"monsterDie": false,
+		"roleDie": false,
+		"reachMaxRound": false,
+		"reachSpecificRound": 10,
+		"reachMaxShuffle": false,
+		"CleanStateList": [],
+		"GoalStateList": [],
+		"DataImpl": {},
+		"conditionID": 10
+	},
+	{
+		"resultType": 5,
+		"resultText": {
+			"hash": 6804921
+		},
+		"monsterDie": false,
+		"roleDie": false,
+		"reachMaxRound": false,
+		"reachSpecificRound": 0,
+		"reachMaxShuffle": false,
+		"CleanStateList": [],
+		"GoalStateList": [],
+		"DataImpl": {},
+		"conditionID": 99
+	}
+]

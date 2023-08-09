@@ -1,0 +1,51 @@
+[
+	{
+		"UIManager": "UI/3D/WaveRush/WaveRushUIManager",
+		"AreaMapList": [
+			{
+				"ID": 1,
+				"PrefabPath": "UI/3D/WaveRush/WaveRushGatelPanel01"
+			},
+			{
+				"ID": 2,
+				"PrefabPath": "UI/3D/WaveRush/WaveRushGatelPanel02"
+			}
+		],
+		"WebLink": "",
+		"Tutorial": [
+			{
+				"Content": "WaveRushTutorialDesc_1",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/WaveRushGuide01",
+				"Title": "WaveRushTutorialTitle_1"
+			},
+			{
+				"Content": "WaveRushTutorialDesc_2",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/WaveRushGuide02",
+				"Title": "WaveRushTutorialTitle_2"
+			},
+			{
+				"Content": "WaveRushTutorialDesc_3",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/WaveRushGuide03",
+				"Title": "WaveRushTutorialTitle_3"
+			},
+			{
+				"Content": "WaveRushTutorialDesc_4",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/WaveRushGuide04",
+				"Title": "WaveRushTutorialTitle_4"
+			},
+			{
+				"Content": "WaveRushTutorialDesc_5",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/WaveRushGuide05",
+				"Title": "WaveRushTutorialTitle_5"
+			},
+			{
+				"Content": "WaveRushTutorialDesc_6",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/WaveRushGuide06",
+				"Title": "WaveRushTutorialTitle_6"
+			}
+		],
+		"MissionMaxShowNum": 6,
+		"DataImpl": {},
+		"UIConfigID": 1
+	}
+]

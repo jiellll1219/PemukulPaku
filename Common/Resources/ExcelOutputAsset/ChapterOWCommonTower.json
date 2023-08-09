@@ -1,0 +1,564 @@
+[
+	{
+		"TowerID": 1,
+		"Type": 2,
+		"SiteContent": 55481,
+		"PreSite": 0,
+		"SiteTitle": "CommonTower1_Site1_Title",
+		"MonsterIDList": [],
+		"RecommendCost": 0,
+		"RecommendBuffList": [],
+		"HardTag": false,
+		"IsBossLevel": false,
+		"DataImpl": {},
+		"SiteID": 1
+	},
+	{
+		"TowerID": 1,
+		"Type": 1,
+		"SiteContent": 149800,
+		"PreSite": 1,
+		"SiteTitle": "CommonTower1_Site2_Title",
+		"MonsterIDList": [
+			1055,
+			1041
+		],
+		"RecommendCost": 200,
+		"RecommendBuffList": [
+			1053,
+			1012,
+			1064,
+			1005
+		],
+		"HardTag": false,
+		"IsBossLevel": false,
+		"DataImpl": {},
+		"SiteID": 2
+	},
+	{
+		"TowerID": 1,
+		"Type": 1,
+		"SiteContent": 149801,
+		"PreSite": 2,
+		"SiteTitle": "CommonTower1_Site3_Title",
+		"MonsterIDList": [
+			1049,
+			1041,
+			109
+		],
+		"RecommendCost": 250,
+		"RecommendBuffList": [
+			1053,
+			1012,
+			1064,
+			1005
+		],
+		"HardTag": false,
+		"IsBossLevel": false,
+		"DataImpl": {},
+		"SiteID": 3
+	},
+	{
+		"TowerID": 1,
+		"Type": 1,
+		"SiteContent": 149802,
+		"PreSite": 3,
+		"SiteTitle": "CommonTower1_Site4_Title",
+		"MonsterIDList": [
+			1001,
+			4055
+		],
+		"RecommendCost": 300,
+		"RecommendBuffList": [
+			1053,
+			1012,
+			1064,
+			1005
+		],
+		"HardTag": true,
+		"IsBossLevel": false,
+		"DataImpl": {},
+		"SiteID": 4
+	},
+	{
+		"TowerID": 1,
+		"Type": 2,
+		"SiteContent": 55482,
+		"PreSite": 4,
+		"SiteTitle": "CommonTower1_Site5_Title",
+		"MonsterIDList": [],
+		"RecommendCost": 0,
+		"RecommendBuffList": [],
+		"HardTag": false,
+		"IsBossLevel": false,
+		"DataImpl": {},
+		"SiteID": 5
+	},
+	{
+		"TowerID": 1,
+		"Type": 1,
+		"SiteContent": 149803,
+		"PreSite": 5,
+		"SiteTitle": "CommonTower1_Site6_Title",
+		"MonsterIDList": [
+			1072,
+			2064,
+			1020,
+			2062
+		],
+		"RecommendCost": 400,
+		"RecommendBuffList": [
+			1060,
+			1064,
+			1005
+		],
+		"HardTag": false,
+		"IsBossLevel": false,
+		"DataImpl": {},
+		"SiteID": 6
+	},
+	{
+		"TowerID": 1,
+		"Type": 1,
+		"SiteContent": 149804,
+		"PreSite": 6,
+		"SiteTitle": "CommonTower1_Site7_Title",
+		"MonsterIDList": [
+			4290,
+			83
+		],
+		"RecommendCost": 450,
+		"RecommendBuffList": [
+			1060,
+			1064,
+			1005
+		],
+		"HardTag": true,
+		"IsBossLevel": false,
+		"DataImpl": {},
+		"SiteID": 7
+	},
+	{
+		"TowerID": 1,
+		"Type": 2,
+		"SiteContent": 55483,
+		"PreSite": 7,
+		"SiteTitle": "CommonTower1_Site8_Title",
+		"MonsterIDList": [],
+		"RecommendCost": 0,
+		"RecommendBuffList": [],
+		"HardTag": false,
+		"IsBossLevel": false,
+		"DataImpl": {},
+		"SiteID": 8
+	},
+	{
+		"TowerID": 1,
+		"Type": 1,
+		"SiteContent": 149805,
+		"PreSite": 8,
+		"SiteTitle": "CommonTower1_Site9_Title",
+		"MonsterIDList": [
+			4111
+		],
+		"RecommendCost": 700,
+		"RecommendBuffList": [
+			1060,
+			1064,
+			1005,
+			1046
+		],
+		"HardTag": true,
+		"IsBossLevel": true,
+		"DataImpl": {},
+		"SiteID": 9
+	},
+	{
+		"TowerID": 1,
+		"Type": 2,
+		"SiteContent": 55484,
+		"PreSite": 9,
+		"SiteTitle": "CommonTower1_Site10_Title",
+		"MonsterIDList": [],
+		"RecommendCost": 0,
+		"RecommendBuffList": [],
+		"HardTag": false,
+		"IsBossLevel": false,
+		"DataImpl": {},
+		"SiteID": 10
+	},
+	{
+		"TowerID": 2,
+		"Type": 2,
+		"SiteContent": 55485,
+		"PreSite": 0,
+		"SiteTitle": "CommonTower2_Site1_Title",
+		"MonsterIDList": [],
+		"RecommendCost": 0,
+		"RecommendBuffList": [],
+		"HardTag": false,
+		"IsBossLevel": false,
+		"DataImpl": {},
+		"SiteID": 20
+	},
+	{
+		"TowerID": 2,
+		"Type": 1,
+		"SiteContent": 149806,
+		"PreSite": 20,
+		"SiteTitle": "CommonTower2_Site2_Title",
+		"MonsterIDList": [
+			1072,
+			1073
+		],
+		"RecommendCost": 420,
+		"RecommendBuffList": [
+			3001,
+			1054,
+			1027,
+			1061
+		],
+		"HardTag": false,
+		"IsBossLevel": false,
+		"DataImpl": {},
+		"SiteID": 21
+	},
+	{
+		"TowerID": 2,
+		"Type": 1,
+		"SiteContent": 149807,
+		"PreSite": 21,
+		"SiteTitle": "CommonTower2_Site3_Title",
+		"MonsterIDList": [
+			1049,
+			1041,
+			1045
+		],
+		"RecommendCost": 510,
+		"RecommendBuffList": [
+			3001,
+			1054,
+			1027,
+			1061
+		],
+		"HardTag": true,
+		"IsBossLevel": false,
+		"DataImpl": {},
+		"SiteID": 22
+	},
+	{
+		"TowerID": 2,
+		"Type": 1,
+		"SiteContent": 149808,
+		"PreSite": 22,
+		"SiteTitle": "CommonTower2_Site4_Title",
+		"MonsterIDList": [
+			4057,
+			1019
+		],
+		"RecommendCost": 0,
+		"RecommendBuffList": [
+			1052
+		],
+		"HardTag": false,
+		"IsBossLevel": false,
+		"DataImpl": {},
+		"SiteID": 23
+	},
+	{
+		"TowerID": 2,
+		"Type": 2,
+		"SiteContent": 55486,
+		"PreSite": 23,
+		"SiteTitle": "CommonTower2_Site5_Title",
+		"MonsterIDList": [],
+		"RecommendCost": 0,
+		"RecommendBuffList": [],
+		"HardTag": false,
+		"IsBossLevel": false,
+		"DataImpl": {},
+		"SiteID": 24
+	},
+	{
+		"TowerID": 2,
+		"Type": 1,
+		"SiteContent": 149809,
+		"PreSite": 24,
+		"SiteTitle": "CommonTower2_Site6_Title",
+		"MonsterIDList": [
+			109,
+			1064
+		],
+		"RecommendCost": 610,
+		"RecommendBuffList": [
+			3002,
+			1066,
+			1052,
+			1061
+		],
+		"HardTag": false,
+		"IsBossLevel": false,
+		"DataImpl": {},
+		"SiteID": 25
+	},
+	{
+		"TowerID": 2,
+		"Type": 1,
+		"SiteContent": 149810,
+		"PreSite": 25,
+		"SiteTitle": "CommonTower2_Site7_Title",
+		"MonsterIDList": [
+			83,
+			1062
+		],
+		"RecommendCost": 710,
+		"RecommendBuffList": [
+			3002,
+			1066,
+			1052,
+			1061
+		],
+		"HardTag": true,
+		"IsBossLevel": false,
+		"DataImpl": {},
+		"SiteID": 26
+	},
+	{
+		"TowerID": 2,
+		"Type": 2,
+		"SiteContent": 55487,
+		"PreSite": 26,
+		"SiteTitle": "CommonTower2_Site8_Title",
+		"MonsterIDList": [],
+		"RecommendCost": 0,
+		"RecommendBuffList": [],
+		"HardTag": false,
+		"IsBossLevel": false,
+		"DataImpl": {},
+		"SiteID": 27
+	},
+	{
+		"TowerID": 2,
+		"Type": 1,
+		"SiteContent": 149811,
+		"PreSite": 27,
+		"SiteTitle": "CommonTower2_Site9_Title",
+		"MonsterIDList": [
+			2076
+		],
+		"RecommendCost": 810,
+		"RecommendBuffList": [
+			3002,
+			1054,
+			1066,
+			1052,
+			1046
+		],
+		"HardTag": true,
+		"IsBossLevel": true,
+		"DataImpl": {},
+		"SiteID": 28
+	},
+	{
+		"TowerID": 2,
+		"Type": 2,
+		"SiteContent": 55488,
+		"PreSite": 28,
+		"SiteTitle": "CommonTower2_Site10_Title",
+		"MonsterIDList": [],
+		"RecommendCost": 0,
+		"RecommendBuffList": [],
+		"HardTag": false,
+		"IsBossLevel": false,
+		"DataImpl": {},
+		"SiteID": 29
+	},
+	{
+		"TowerID": 3,
+		"Type": 2,
+		"SiteContent": 55489,
+		"PreSite": 0,
+		"SiteTitle": "CommonTower3_Site1_Title",
+		"MonsterIDList": [],
+		"RecommendCost": 0,
+		"RecommendBuffList": [],
+		"HardTag": false,
+		"IsBossLevel": false,
+		"DataImpl": {},
+		"SiteID": 40
+	},
+	{
+		"TowerID": 3,
+		"Type": 1,
+		"SiteContent": 149812,
+		"PreSite": 40,
+		"SiteTitle": "CommonTower3_Site2_Title",
+		"MonsterIDList": [
+			1014
+		],
+		"RecommendCost": 790,
+		"RecommendBuffList": [
+			3003,
+			1054,
+			1027,
+			1061,
+			1062
+		],
+		"HardTag": false,
+		"IsBossLevel": false,
+		"DataImpl": {},
+		"SiteID": 41
+	},
+	{
+		"TowerID": 3,
+		"Type": 1,
+		"SiteContent": 149813,
+		"PreSite": 41,
+		"SiteTitle": "CommonTower3_Site3_Title",
+		"MonsterIDList": [
+			1001,
+			1007
+		],
+		"RecommendCost": 840,
+		"RecommendBuffList": [
+			3003,
+			1054,
+			1027,
+			1061,
+			1062
+		],
+		"HardTag": false,
+		"IsBossLevel": false,
+		"DataImpl": {},
+		"SiteID": 42
+	},
+	{
+		"TowerID": 3,
+		"Type": 1,
+		"SiteContent": 149814,
+		"PreSite": 42,
+		"SiteTitle": "CommonTower3_Site4_Title",
+		"MonsterIDList": [
+			1072,
+			67,
+			4290
+		],
+		"RecommendCost": 890,
+		"RecommendBuffList": [
+			3003,
+			1054,
+			1027,
+			1061,
+			1062
+		],
+		"HardTag": true,
+		"IsBossLevel": false,
+		"DataImpl": {},
+		"SiteID": 43
+	},
+	{
+		"TowerID": 3,
+		"Type": 2,
+		"SiteContent": 55490,
+		"PreSite": 43,
+		"SiteTitle": "CommonTower3_Site5_Title",
+		"MonsterIDList": [],
+		"RecommendCost": 0,
+		"RecommendBuffList": [],
+		"HardTag": false,
+		"IsBossLevel": false,
+		"DataImpl": {},
+		"SiteID": 44
+	},
+	{
+		"TowerID": 3,
+		"Type": 1,
+		"SiteContent": 149815,
+		"PreSite": 44,
+		"SiteTitle": "CommonTower3_Site6_Title",
+		"MonsterIDList": [
+			1014,
+			4295,
+			4296
+		],
+		"RecommendCost": 990,
+		"RecommendBuffList": [
+			1053,
+			1012,
+			1063
+		],
+		"HardTag": false,
+		"IsBossLevel": false,
+		"DataImpl": {},
+		"SiteID": 45
+	},
+	{
+		"TowerID": 3,
+		"Type": 1,
+		"SiteContent": 149816,
+		"PreSite": 45,
+		"SiteTitle": "CommonTower3_Site7_Title",
+		"MonsterIDList": [
+			1041,
+			1049,
+			1060
+		],
+		"RecommendCost": 1090,
+		"RecommendBuffList": [
+			1053,
+			1012,
+			1063
+		],
+		"HardTag": true,
+		"IsBossLevel": false,
+		"DataImpl": {},
+		"SiteID": 46
+	},
+	{
+		"TowerID": 3,
+		"Type": 2,
+		"SiteContent": 55491,
+		"PreSite": 46,
+		"SiteTitle": "CommonTower3_Site8_Title",
+		"MonsterIDList": [],
+		"RecommendCost": 0,
+		"RecommendBuffList": [],
+		"HardTag": false,
+		"IsBossLevel": false,
+		"DataImpl": {},
+		"SiteID": 47
+	},
+	{
+		"TowerID": 3,
+		"Type": 1,
+		"SiteContent": 149817,
+		"PreSite": 47,
+		"SiteTitle": "CommonTower3_Site9_Title",
+		"MonsterIDList": [
+			4363
+		],
+		"RecommendCost": 1160,
+		"RecommendBuffList": [
+			1071,
+			1046
+		],
+		"HardTag": true,
+		"IsBossLevel": true,
+		"DataImpl": {},
+		"SiteID": 48
+	},
+	{
+		"TowerID": 3,
+		"Type": 2,
+		"SiteContent": 55492,
+		"PreSite": 48,
+		"SiteTitle": "CommonTower3_Site10_Title",
+		"MonsterIDList": [],
+		"RecommendCost": 0,
+		"RecommendBuffList": [],
+		"HardTag": false,
+		"IsBossLevel": false,
+		"DataImpl": {},
+		"SiteID": 49
+	}
+]

@@ -1,0 +1,2282 @@
+[
+	{
+		"TaleType": 1,
+		"BeginEvent": 0,
+		"TaleCurrency": [
+			0
+		],
+		"BuffMaterialList": [
+			0
+		],
+		"GachaLink": "",
+		"TaleWebLink": "",
+		"TaleTutorial": [],
+		"TaleInfo": [],
+		"FuncLinkType": 0,
+		"FuncParam": [],
+		"ShopLink": 0,
+		"MuseumID": 0,
+		"GenCfgPath": "0",
+		"ContextName": "",
+		"WeaponList": [],
+		"ShowUnlockSiteList": [],
+		"ShowPriority": 999,
+		"BookPageShowPageList": [
+			0,
+			1,
+			2,
+			3
+		],
+		"MenuShowList": [
+			"WebLinkBtn",
+			"AlbumBtn",
+			"MissionBtn"
+		],
+		"EntryShowType": 0,
+		"DataImpl": {},
+		"TaleID": 1001
+	},
+	{
+		"TaleType": 1,
+		"BeginEvent": 0,
+		"TaleCurrency": [
+			0
+		],
+		"BuffMaterialList": [
+			0
+		],
+		"GachaLink": "",
+		"TaleWebLink": "",
+		"TaleTutorial": [],
+		"TaleInfo": [],
+		"FuncLinkType": 0,
+		"FuncParam": [],
+		"ShopLink": 0,
+		"MuseumID": 4,
+		"GenCfgPath": "0",
+		"ContextName": "",
+		"WeaponList": [
+			1,
+			2,
+			3,
+			4,
+			5,
+			6
+		],
+		"ShowUnlockSiteList": [],
+		"ShowPriority": 999,
+		"BookPageShowPageList": [
+			0,
+			1,
+			2,
+			3
+		],
+		"MenuShowList": [
+			"WebLinkBtn",
+			"AlbumBtn",
+			"MissionBtn"
+		],
+		"EntryShowType": 0,
+		"DataImpl": {},
+		"TaleID": 1002
+	},
+	{
+		"TaleType": 1,
+		"BeginEvent": 0,
+		"TaleCurrency": [
+			0
+		],
+		"BuffMaterialList": [
+			0
+		],
+		"GachaLink": "",
+		"TaleWebLink": "",
+		"TaleTutorial": [],
+		"TaleInfo": [],
+		"FuncLinkType": 0,
+		"FuncParam": [],
+		"ShopLink": 0,
+		"MuseumID": 4,
+		"GenCfgPath": "0",
+		"ContextName": "",
+		"WeaponList": [
+			1,
+			2,
+			3,
+			4,
+			5,
+			6
+		],
+		"ShowUnlockSiteList": [],
+		"ShowPriority": 999,
+		"BookPageShowPageList": [
+			0,
+			1,
+			2,
+			3
+		],
+		"MenuShowList": [
+			"WebLinkBtn",
+			"AlbumBtn",
+			"MissionBtn"
+		],
+		"EntryShowType": 0,
+		"DataImpl": {},
+		"TaleID": 1003
+	},
+	{
+		"TaleType": 7,
+		"BeginEvent": 21,
+		"TaleCurrency": [
+			114715
+		],
+		"BuffMaterialList": [
+			0
+		],
+		"GachaLink": "",
+		"TaleWebLink": "",
+		"TaleTutorial": [
+			{
+				"Content": "Tutorial_RpgSpring21Event_1001",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/Q2021Tutorial_01",
+				"Title": "Tutorial_RpgSpring21Event_Title_1001"
+			},
+			{
+				"Content": "Tutorial_RpgSpring21Event_1002",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/Q2021Tutorial_02",
+				"Title": "Tutorial_RpgSpring21Event_Title_1002"
+			},
+			{
+				"Content": "Tutorial_RpgSpring21Event_1003",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/Q2021Tutorial_03",
+				"Title": "Tutorial_RpgSpring21Event_Title_1003"
+			},
+			{
+				"Content": "Tutorial_RpgSpring21Event_1004",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/Q2021Tutorial_04",
+				"Title": "Tutorial_RpgSpring21Event_Title_1004"
+			},
+			{
+				"Content": "Tutorial_RpgSpring21Event_1005",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/Q2021Tutorial_05",
+				"Title": "Tutorial_RpgSpring21Event_Title_1005"
+			},
+			{
+				"Content": "Tutorial_RpgSpring21Event_1006",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/Q2021Tutorial_06",
+				"Title": "Tutorial_RpgSpring21Event_Title_1006"
+			},
+			{
+				"Content": "Tutorial_RpgSpring21Event_1007",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/Q2021Tutorial_07",
+				"Title": "Tutorial_RpgSpring21Event_Title_1007"
+			}
+		],
+		"TaleInfo": [
+			"DisplayData_ActivityName_SpringFestival2021",
+			"DisplayData_AcitivityDetailDes_SpringFestival2021"
+		],
+		"FuncLinkType": 112,
+		"FuncParam": [
+			42
+		],
+		"ShopLink": 304,
+		"MuseumID": 4,
+		"GenCfgPath": "Data/RpgQShoot/RpgQShootSpringFestivalUIConfig",
+		"ContextName": "",
+		"WeaponList": [
+			21,
+			22,
+			24,
+			26,
+			27,
+			28
+		],
+		"ShowUnlockSiteList": [
+			14101,
+			14201,
+			14301,
+			14308
+		],
+		"ShowPriority": 999,
+		"BookPageShowPageList": [
+			3
+		],
+		"MenuShowList": [
+			"AlbumBtn",
+			"MissionBtn"
+		],
+		"EntryShowType": 0,
+		"DataImpl": {},
+		"TaleID": 1010
+	},
+	{
+		"TaleType": 1,
+		"BeginEvent": 0,
+		"TaleCurrency": [
+			114335
+		],
+		"BuffMaterialList": [
+			0
+		],
+		"GachaLink": "",
+		"TaleWebLink": "",
+		"TaleTutorial": [
+			{
+				"Content": "Tutorial_RpgTale_1001",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/RpgTale_Tutorial_01",
+				"Title": "Tutorial_RpgTale_Title_1001"
+			},
+			{
+				"Content": "Tutorial_RpgTale_1002",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/RpgTale_Tutorial_03",
+				"Title": "Tutorial_RpgTale_Title_1002"
+			},
+			{
+				"Content": "Tutorial_RpgTale_1003",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/RpgTale_Tutorial_02",
+				"Title": "Tutorial_RpgTale_Title_1003"
+			},
+			{
+				"Content": "Tutorial_RpgTale_1004",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/RpgTale_Tutorial_05",
+				"Title": "Tutorial_RpgTale_Title_1004"
+			},
+			{
+				"Content": "Tutorial_RpgTale_1005",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/RpgTale_Tutorial_04",
+				"Title": "Tutorial_RpgTale_Title_1005"
+			}
+		],
+		"TaleInfo": [],
+		"FuncLinkType": 0,
+		"FuncParam": [],
+		"ShopLink": 3,
+		"MuseumID": 2,
+		"GenCfgPath": "0",
+		"ContextName": "",
+		"WeaponList": [],
+		"ShowUnlockSiteList": [
+			16001,
+			16002,
+			16003,
+			16004
+		],
+		"ShowPriority": 999,
+		"BookPageShowPageList": [
+			0,
+			1,
+			2,
+			3
+		],
+		"MenuShowList": [
+			"TutorialBtn",
+			"ShopBtn",
+			"MuseumBtn"
+		],
+		"EntryShowType": 0,
+		"DataImpl": {},
+		"TaleID": 1100
+	},
+	{
+		"TaleType": 4,
+		"BeginEvent": 6,
+		"TaleCurrency": [
+			114339,
+			114340
+		],
+		"BuffMaterialList": [
+			0
+		],
+		"GachaLink": "",
+		"TaleWebLink": "",
+		"TaleTutorial": [
+			{
+				"Content": "Tutorial_SummerTreasureHunt_Desc_1001",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/SummerTreasure_Tutorial01",
+				"Title": "Tutorial_SummerTreasureHunt_Title_1001"
+			},
+			{
+				"Content": "Tutorial_SummerTreasureHunt_Desc_1002",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/SummerTreasure_Tutorial02",
+				"Title": "Tutorial_SummerTreasureHunt_Title_1002"
+			},
+			{
+				"Content": "Tutorial_SummerTreasureHunt_Desc_1003",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/SummerTreasure_Tutorial04",
+				"Title": "Tutorial_SummerTreasureHunt_Title_1003"
+			},
+			{
+				"Content": "Tutorial_SummerTreasureHunt_Desc_1004",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/SummerTreasure_Tutorial03",
+				"Title": "Tutorial_SummerTreasureHunt_Title_1004"
+			},
+			{
+				"Content": "Tutorial_SummerTreasureHunt_Desc_1005",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/SummerTreasure_Tutorial05",
+				"Title": "Tutorial_SummerTreasureHunt_Title_1005"
+			}
+		],
+		"TaleInfo": [],
+		"FuncLinkType": 0,
+		"FuncParam": [],
+		"ShopLink": 3,
+		"MuseumID": 0,
+		"GenCfgPath": "0",
+		"ContextName": "SummerTreasurePageContext",
+		"WeaponList": [],
+		"ShowUnlockSiteList": [],
+		"ShowPriority": 999,
+		"BookPageShowPageList": [
+			1,
+			2
+		],
+		"MenuShowList": [
+			"TutorialBtn",
+			"AlbumBtn",
+			"ShopBtn"
+		],
+		"EntryShowType": 0,
+		"DataImpl": {},
+		"TaleID": 1200
+	},
+	{
+		"TaleType": 9,
+		"BeginEvent": 42,
+		"TaleCurrency": [
+			121205
+		],
+		"BuffMaterialList": [
+			0
+		],
+		"GachaLink": "",
+		"TaleWebLink": "",
+		"TaleTutorial": [
+			{
+				"Content": "Tutorial_SummerRanch_Desc_1001",
+				"Sprite": "event/Immediately/SummerRanch/6.0_guide1",
+				"Title": "Tutorial_SummerRanch_Title_1001"
+			},
+			{
+				"Content": "Tutorial_SummerRanch_Desc_1006",
+				"Sprite": "event/Immediately/SummerRanch/6.0_guide6",
+				"Title": "Tutorial_SummerRanch_Title_1006"
+			},
+			{
+				"Content": "Tutorial_SummerRanch_Desc_1002",
+				"Sprite": "event/Immediately/SummerRanch/6.0_guide2",
+				"Title": "Tutorial_SummerRanch_Title_1002"
+			},
+			{
+				"Content": "Tutorial_SummerRanch_Desc_1003",
+				"Sprite": "event/Immediately/SummerRanch/6.0_guide3",
+				"Title": "Tutorial_SummerRanch_Title_1003"
+			},
+			{
+				"Content": "Tutorial_SummerRanch_Desc_1004",
+				"Sprite": "event/Immediately/SummerRanch/6.0_guide4",
+				"Title": "Tutorial_SummerRanch_Title_1004"
+			},
+			{
+				"Content": "Tutorial_SummerRanch_Desc_1005",
+				"Sprite": "event/Immediately/SummerRanch/6.0_guide5",
+				"Title": "Tutorial_SummerRanch_Title_1005"
+			}
+		],
+		"TaleInfo": [],
+		"FuncLinkType": 0,
+		"FuncParam": [],
+		"ShopLink": 306,
+		"MuseumID": 0,
+		"GenCfgPath": "Data/RpgIslander/RpgIslanderConfig",
+		"ContextName": "RpgIslanderMainPageContext",
+		"WeaponList": [],
+		"ShowUnlockSiteList": [
+			12600101,
+			13000101,
+			13400101
+		],
+		"ShowPriority": 999,
+		"BookPageShowPageList": [],
+		"MenuShowList": [
+			"TutorialBtn",
+			"AlbumBtn",
+			"ShopBtn"
+		],
+		"EntryShowType": 0,
+		"DataImpl": {},
+		"TaleID": 1210
+	},
+	{
+		"TaleType": 3,
+		"BeginEvent": 3,
+		"TaleCurrency": [
+			0
+		],
+		"BuffMaterialList": [
+			0
+		],
+		"GachaLink": "",
+		"TaleWebLink": "",
+		"TaleTutorial": [
+			{
+				"Content": "Tutorial_Gen01_Text_1001",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/Ninja_Tutorial01",
+				"Title": "Tutorial_Gen01_Title_1001"
+			},
+			{
+				"Content": "Tutorial_Gen01_Text_1002",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/Ninja_Tutorial02",
+				"Title": "Tutorial_Gen01_Title_1002"
+			},
+			{
+				"Content": "Tutorial_Gen01_Text_1003",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/Ninja_Tutorial03",
+				"Title": "Tutorial_Gen01_Title_1003"
+			},
+			{
+				"Content": "Tutorial_Gen01_Text_1004",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/Ninja_Tutorial04",
+				"Title": "Tutorial_Gen01_Title_1004"
+			},
+			{
+				"Content": "Tutorial_Gen01_Text_1005",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/Ninja_Tutorial05",
+				"Title": "Tutorial_Gen01_Title_1005"
+			}
+		],
+		"TaleInfo": [],
+		"FuncLinkType": 0,
+		"FuncParam": [],
+		"ShopLink": 0,
+		"MuseumID": 0,
+		"GenCfgPath": "Data/GeneralAvatarAvtivity/GeneralAvatarActivity_Durandal_C1_TJ",
+		"ContextName": "",
+		"WeaponList": [],
+		"ShowUnlockSiteList": [],
+		"ShowPriority": 999,
+		"BookPageShowPageList": [
+			3
+		],
+		"MenuShowList": [
+			"AlbumBtn",
+			"MissionBtn"
+		],
+		"EntryShowType": 3,
+		"DataImpl": {},
+		"TaleID": 2001
+	},
+	{
+		"TaleType": 3,
+		"BeginEvent": 31,
+		"TaleCurrency": [
+			121326
+		],
+		"BuffMaterialList": [
+			121325
+		],
+		"GachaLink": "",
+		"TaleWebLink": "",
+		"TaleTutorial": [
+			{
+				"Content": "Tutorial_Gen01_Text_1001",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/Ninja_Tutorial01",
+				"Title": "Tutorial_Gen01_Title_1001"
+			},
+			{
+				"Content": "Tutorial_Gen01_Text_1002",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/Ninja_Tutorial02",
+				"Title": "Tutorial_Gen01_Title_1002"
+			},
+			{
+				"Content": "Tutorial_Gen01_Text_1003",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/Ninja_Tutorial03",
+				"Title": "Tutorial_Gen01_Title_1003"
+			},
+			{
+				"Content": "Tutorial_Gen01_Text_1004",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/Ninja_Tutorial04",
+				"Title": "Tutorial_Gen01_Title_1004"
+			},
+			{
+				"Content": "Tutorial_Gen01_Text_1005",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/Ninja_Tutorial05",
+				"Title": "Tutorial_Gen01_Title_1005"
+			}
+		],
+		"TaleInfo": [],
+		"FuncLinkType": 0,
+		"FuncParam": [],
+		"ShopLink": 307,
+		"MuseumID": 4,
+		"GenCfgPath": "Data/GeneralAvatarAvtivity/GeneralAvatarActivity_Theresa_C6_ZG",
+		"ContextName": "",
+		"WeaponList": [],
+		"ShowUnlockSiteList": [
+			21011
+		],
+		"ShowPriority": 999,
+		"BookPageShowPageList": [
+			3
+		],
+		"MenuShowList": [
+			"AlbumBtn",
+			"MissionBtn"
+		],
+		"EntryShowType": 3,
+		"DataImpl": {},
+		"TaleID": 2002
+	},
+	{
+		"TaleType": 3,
+		"BeginEvent": 37,
+		"TaleCurrency": [
+			0
+		],
+		"BuffMaterialList": [
+			114763
+		],
+		"GachaLink": "",
+		"TaleWebLink": "",
+		"TaleTutorial": [
+			{
+				"Content": "Tutorial_Gen01_Text_1001",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/Ninja_Tutorial01",
+				"Title": "Tutorial_Gen01_Title_1001"
+			},
+			{
+				"Content": "Tutorial_Gen01_Text_1002",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/Ninja_Tutorial02",
+				"Title": "Tutorial_Gen01_Title_1002"
+			},
+			{
+				"Content": "Tutorial_Gen01_Text_1003",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/Ninja_Tutorial03",
+				"Title": "Tutorial_Gen01_Title_1003"
+			},
+			{
+				"Content": "Tutorial_Gen01_Text_1004",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/Ninja_Tutorial04",
+				"Title": "Tutorial_Gen01_Title_1004"
+			},
+			{
+				"Content": "Tutorial_Gen01_Text_1005",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/Ninja_Tutorial05",
+				"Title": "Tutorial_Gen01_Title_1005"
+			}
+		],
+		"TaleInfo": [],
+		"FuncLinkType": 0,
+		"FuncParam": [],
+		"ShopLink": 303,
+		"MuseumID": 4,
+		"GenCfgPath": "Data/GeneralAvatarAvtivity/GeneralAvatarActivity_Rita_C5_IA",
+		"ContextName": "GeneralAvatarActivityRitaC5MainPage",
+		"WeaponList": [],
+		"ShowUnlockSiteList": [],
+		"ShowPriority": 3,
+		"BookPageShowPageList": [],
+		"MenuShowList": [
+			"AlbumBtn",
+			"MissionBtn"
+		],
+		"EntryShowType": 3,
+		"DataImpl": {},
+		"TaleID": 2010
+	},
+	{
+		"TaleType": 3,
+		"BeginEvent": 0,
+		"TaleCurrency": [
+			0
+		],
+		"BuffMaterialList": [
+			0
+		],
+		"GachaLink": "",
+		"TaleWebLink": "",
+		"TaleTutorial": [],
+		"TaleInfo": [],
+		"FuncLinkType": 0,
+		"FuncParam": [],
+		"ShopLink": 3,
+		"MuseumID": 0,
+		"GenCfgPath": "Data/GeneralAvatarAvtivity/GeneralAvatarActivity_RSLA",
+		"ContextName": "AvatarActivityFluffyMainPageContext",
+		"WeaponList": [],
+		"ShowUnlockSiteList": [],
+		"ShowPriority": 999,
+		"BookPageShowPageList": [],
+		"MenuShowList": [
+			"MissionBtn",
+			"InfoBtn"
+		],
+		"EntryShowType": 3,
+		"DataImpl": {},
+		"TaleID": 2030
+	},
+	{
+		"TaleType": 3,
+		"BeginEvent": 0,
+		"TaleCurrency": [
+			0
+		],
+		"BuffMaterialList": [
+			114385
+		],
+		"GachaLink": "",
+		"TaleWebLink": "",
+		"TaleTutorial": [],
+		"TaleInfo": [],
+		"FuncLinkType": 0,
+		"FuncParam": [],
+		"ShopLink": 302,
+		"MuseumID": 0,
+		"GenCfgPath": "Data/GeneralAvatarAvtivity/GeneralAvatarActivity_Durandal_C3_SW",
+		"ContextName": "AvatarActivityDurandalC3MainPageContext",
+		"WeaponList": [],
+		"ShowUnlockSiteList": [],
+		"ShowPriority": 200,
+		"BookPageShowPageList": [],
+		"MenuShowList": [
+			"MissionBtn",
+			"InfoBtn"
+		],
+		"EntryShowType": 3,
+		"DataImpl": {},
+		"TaleID": 2040
+	},
+	{
+		"TaleType": 3,
+		"BeginEvent": 0,
+		"TaleCurrency": [
+			0
+		],
+		"BuffMaterialList": [
+			0
+		],
+		"GachaLink": "",
+		"TaleWebLink": "",
+		"TaleTutorial": [],
+		"TaleInfo": [],
+		"FuncLinkType": 0,
+		"FuncParam": [],
+		"ShopLink": 3,
+		"MuseumID": 0,
+		"GenCfgPath": "Data/GeneralAvatarAvtivity/GeneralAvatarActivity_Fuka_C6_FL",
+		"ContextName": "BlackFireFuhuaMainPageContext",
+		"WeaponList": [],
+		"ShowUnlockSiteList": [],
+		"ShowPriority": 999,
+		"BookPageShowPageList": [],
+		"MenuShowList": [
+			"InfoBtn"
+		],
+		"EntryShowType": 3,
+		"DataImpl": {},
+		"TaleID": 2050
+	},
+	{
+		"TaleType": 3,
+		"BeginEvent": 0,
+		"TaleCurrency": [
+			0
+		],
+		"BuffMaterialList": [
+			0
+		],
+		"GachaLink": "",
+		"TaleWebLink": "",
+		"TaleTutorial": [],
+		"TaleInfo": [],
+		"FuncLinkType": 0,
+		"FuncParam": [],
+		"ShopLink": 3,
+		"MuseumID": 0,
+		"GenCfgPath": "Data/GeneralAvatarAvtivity/GeneralAvatarActivity_Seele_C3_SP",
+		"ContextName": "AvatarActivitySeeleC3PageContext",
+		"WeaponList": [],
+		"ShowUnlockSiteList": [],
+		"ShowPriority": 999,
+		"BookPageShowPageList": [],
+		"MenuShowList": [
+			"InfoBtn"
+		],
+		"EntryShowType": 3,
+		"DataImpl": {},
+		"TaleID": 2060
+	},
+	{
+		"TaleType": 3,
+		"BeginEvent": 0,
+		"TaleCurrency": [
+			0
+		],
+		"BuffMaterialList": [
+			0
+		],
+		"GachaLink": "",
+		"TaleWebLink": "",
+		"TaleTutorial": [],
+		"TaleInfo": [],
+		"FuncLinkType": 0,
+		"FuncParam": [],
+		"ShopLink": 3,
+		"MuseumID": 0,
+		"GenCfgPath": "Data/GeneralAvatarAvtivity/GeneralAvatarActivity_Kiana_C6",
+		"ContextName": "AvatarActivityKianaC6PageContext",
+		"WeaponList": [],
+		"ShowUnlockSiteList": [],
+		"ShowPriority": 999,
+		"BookPageShowPageList": [],
+		"MenuShowList": [
+			"InfoBtn"
+		],
+		"EntryShowType": 3,
+		"DataImpl": {},
+		"TaleID": 2070
+	},
+	{
+		"TaleType": 3,
+		"BeginEvent": 43,
+		"TaleCurrency": [
+			0
+		],
+		"BuffMaterialList": [
+			0
+		],
+		"GachaLink": "<type=\"7|4\" text=\"\"/>",
+		"TaleWebLink": "https://bh3.mihoyo.com/gl/activity/detail/22519?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429&winmode=fullscreen",
+		"TaleTutorial": [],
+		"TaleInfo": [],
+		"FuncLinkType": 64,
+		"FuncParam": [],
+		"ShopLink": 302,
+		"MuseumID": 0,
+		"GenCfgPath": "Data/GeneralAvatarAvtivity/GeneralAvatarActivity_Lisushang_C2_TX",
+		"ContextName": "AvatarActivityLisushangPageContext",
+		"WeaponList": [],
+		"ShowUnlockSiteList": [],
+		"ShowPriority": 2,
+		"BookPageShowPageList": [
+			1
+		],
+		"MenuShowList": [
+			"MissionBtn",
+			"GachaBtn",
+			"AlbumBtn",
+			"TutorialBtn",
+			"WebLinkBtn"
+		],
+		"EntryShowType": 3,
+		"DataImpl": {},
+		"TaleID": 2090
+	},
+	{
+		"TaleType": 19,
+		"BeginEvent": 0,
+		"TaleCurrency": [
+			122701,
+			122705
+		],
+		"BuffMaterialList": [
+			0
+		],
+		"GachaLink": "",
+		"TaleWebLink": "",
+		"TaleTutorial": [],
+		"TaleInfo": [],
+		"FuncLinkType": 0,
+		"FuncParam": [],
+		"ShopLink": 3,
+		"MuseumID": 0,
+		"GenCfgPath": "",
+		"ContextName": "",
+		"WeaponList": [],
+		"ShowUnlockSiteList": [
+			2093103,
+			2093104,
+			2093105,
+			2093203,
+			2093204,
+			2093205,
+			2093303,
+			2093304,
+			2093305
+		],
+		"ShowPriority": 2,
+		"BookPageShowPageList": [
+			1,
+			2
+		],
+		"MenuShowList": [],
+		"EntryShowType": 1,
+		"DataImpl": {},
+		"TaleID": 2093
+	},
+	{
+		"TaleType": 3,
+		"BeginEvent": 50,
+		"TaleCurrency": [
+			126501,
+			126502
+		],
+		"BuffMaterialList": [
+			0
+		],
+		"GachaLink": "<type=\"7|4\" text=\"\"/>",
+		"TaleWebLink": "",
+		"TaleTutorial": [
+			{
+				"Content": "Tutorial_SusannaTrial_Desc_1",
+				"Sprite": "event/Immediately/Tutorial/6.5_SusannaTutorial01",
+				"Title": "Tutorial_SusannaTrial_Title_1"
+			},
+			{
+				"Content": "Tutorial_SusannaTrial_Desc_2",
+				"Sprite": "event/Immediately/Tutorial/6.5_SusannaTutorial02",
+				"Title": "Tutorial_SusannaTrial_Title_2"
+			},
+			{
+				"Content": "Tutorial_SusannaTrial_Desc_3",
+				"Sprite": "event/Immediately/Tutorial/6.5_SusannaTutorial03",
+				"Title": "Tutorial_SusannaTrial_Title_3"
+			},
+			{
+				"Content": "Tutorial_SusannaTrial_Desc_4",
+				"Sprite": "event/Immediately/Tutorial/6.5_SusannaTutorial04",
+				"Title": "Tutorial_SusannaTrial_Title_4"
+			}
+		],
+		"TaleInfo": [],
+		"FuncLinkType": 64,
+		"FuncParam": [],
+		"ShopLink": 303,
+		"MuseumID": 0,
+		"GenCfgPath": "Data/GeneralAvatarAvtivity/GeneralAvatarActivity_Susanna",
+		"ContextName": "AvatarActivityLisushangPageContext",
+		"WeaponList": [],
+		"ShowUnlockSiteList": [],
+		"ShowPriority": 1,
+		"BookPageShowPageList": [
+			1
+		],
+		"MenuShowList": [
+			"MissionBtn",
+			"GachaBtn",
+			"AlbumBtn",
+			"TutorialBtn"
+		],
+		"EntryShowType": 7,
+		"DataImpl": {},
+		"TaleID": 2100
+	},
+	{
+		"TaleType": 20,
+		"BeginEvent": 0,
+		"TaleCurrency": [
+			126600
+		],
+		"BuffMaterialList": [
+			0
+		],
+		"GachaLink": "",
+		"TaleWebLink": "",
+		"TaleTutorial": [],
+		"TaleInfo": [],
+		"FuncLinkType": 64,
+		"FuncParam": [],
+		"ShopLink": 308,
+		"MuseumID": 0,
+		"GenCfgPath": "Data/GeneralAvatarAvtivity/GeneralAvatarActivity_Lisushang_C2_TX",
+		"ContextName": "AvatarActivityLisushangPageContext",
+		"WeaponList": [],
+		"ShowUnlockSiteList": [],
+		"ShowPriority": 1,
+		"BookPageShowPageList": [
+			1
+		],
+		"MenuShowList": [
+			"MissionBtn",
+			"ShopBtn",
+			"TutorialBtn"
+		],
+		"EntryShowType": 6,
+		"DataImpl": {},
+		"TaleID": 2200
+	},
+	{
+		"TaleType": 2,
+		"BeginEvent": 0,
+		"TaleCurrency": [
+			0
+		],
+		"BuffMaterialList": [
+			0
+		],
+		"GachaLink": "",
+		"TaleWebLink": "",
+		"TaleTutorial": [],
+		"TaleInfo": [
+			"DisplayData_ActivityName_10700100",
+			"DisplayData_AcitivityDetailDes_10700100"
+		],
+		"FuncLinkType": 0,
+		"FuncParam": [],
+		"ShopLink": 3,
+		"MuseumID": 0,
+		"GenCfgPath": "Data/ChallengeWar/RpgChallengeWarUIConfig",
+		"ContextName": "RpgChallengeWarPageContext",
+		"WeaponList": [],
+		"ShowUnlockSiteList": [],
+		"ShowPriority": 999,
+		"BookPageShowPageList": [],
+		"MenuShowList": [
+			"InfoBtn"
+		],
+		"EntryShowType": 2,
+		"DataImpl": {},
+		"TaleID": 3010
+	},
+	{
+		"TaleType": 2,
+		"BeginEvent": 0,
+		"TaleCurrency": [
+			0
+		],
+		"BuffMaterialList": [
+			0
+		],
+		"GachaLink": "",
+		"TaleWebLink": "",
+		"TaleTutorial": [],
+		"TaleInfo": [
+			"DisplayData_ActivityName_10700100",
+			"DisplayData_AcitivityDetailDes_10700100"
+		],
+		"FuncLinkType": 0,
+		"FuncParam": [],
+		"ShopLink": 3,
+		"MuseumID": 0,
+		"GenCfgPath": "Data/ChallengeWar/RpgChallengeWarUIConfig",
+		"ContextName": "RpgChallengeWarPageContext",
+		"WeaponList": [],
+		"ShowUnlockSiteList": [],
+		"ShowPriority": 999,
+		"BookPageShowPageList": [],
+		"MenuShowList": [
+			"InfoBtn"
+		],
+		"EntryShowType": 2,
+		"DataImpl": {},
+		"TaleID": 3020
+	},
+	{
+		"TaleType": 2,
+		"BeginEvent": 0,
+		"TaleCurrency": [
+			0
+		],
+		"BuffMaterialList": [
+			0
+		],
+		"GachaLink": "",
+		"TaleWebLink": "",
+		"TaleTutorial": [],
+		"TaleInfo": [
+			"DisplayData_ActivityName_10700100",
+			"DisplayData_AcitivityDetailDes_10700100"
+		],
+		"FuncLinkType": 0,
+		"FuncParam": [],
+		"ShopLink": 3,
+		"MuseumID": 0,
+		"GenCfgPath": "Data/ChallengeWar/RpgChallengeWarUIConfig",
+		"ContextName": "RpgChallengeWarPageContext",
+		"WeaponList": [],
+		"ShowUnlockSiteList": [],
+		"ShowPriority": 999,
+		"BookPageShowPageList": [],
+		"MenuShowList": [
+			"InfoBtn"
+		],
+		"EntryShowType": 2,
+		"DataImpl": {},
+		"TaleID": 3030
+	},
+	{
+		"TaleType": 2,
+		"BeginEvent": 0,
+		"TaleCurrency": [
+			0
+		],
+		"BuffMaterialList": [
+			0
+		],
+		"GachaLink": "",
+		"TaleWebLink": "",
+		"TaleTutorial": [],
+		"TaleInfo": [
+			"DisplayData_ActivityName_10700100",
+			"DisplayData_AcitivityDetailDes_10700100"
+		],
+		"FuncLinkType": 0,
+		"FuncParam": [],
+		"ShopLink": 3,
+		"MuseumID": 0,
+		"GenCfgPath": "Data/ChallengeWar/RpgChallengeWarUIConfig",
+		"ContextName": "RpgChallengeWarPageContext",
+		"WeaponList": [],
+		"ShowUnlockSiteList": [],
+		"ShowPriority": 999,
+		"BookPageShowPageList": [],
+		"MenuShowList": [
+			"InfoBtn"
+		],
+		"EntryShowType": 2,
+		"DataImpl": {},
+		"TaleID": 3040
+	},
+	{
+		"TaleType": 2,
+		"BeginEvent": 0,
+		"TaleCurrency": [
+			0
+		],
+		"BuffMaterialList": [
+			0
+		],
+		"GachaLink": "",
+		"TaleWebLink": "",
+		"TaleTutorial": [],
+		"TaleInfo": [
+			"DisplayData_ActivityName_10700100",
+			"DisplayData_AcitivityDetailDes_10700100"
+		],
+		"FuncLinkType": 0,
+		"FuncParam": [],
+		"ShopLink": 3,
+		"MuseumID": 0,
+		"GenCfgPath": "Data/ChallengeWar/RpgChallengeWarUIConfig",
+		"ContextName": "RpgChallengeWarPageContext",
+		"WeaponList": [],
+		"ShowUnlockSiteList": [],
+		"ShowPriority": 999,
+		"BookPageShowPageList": [],
+		"MenuShowList": [
+			"InfoBtn"
+		],
+		"EntryShowType": 2,
+		"DataImpl": {},
+		"TaleID": 3050
+	},
+	{
+		"TaleType": 2,
+		"BeginEvent": 0,
+		"TaleCurrency": [
+			0
+		],
+		"BuffMaterialList": [
+			0
+		],
+		"GachaLink": "",
+		"TaleWebLink": "",
+		"TaleTutorial": [],
+		"TaleInfo": [
+			"DisplayData_ActivityName_10700100",
+			"DisplayData_AcitivityDetailDes_10700100"
+		],
+		"FuncLinkType": 0,
+		"FuncParam": [],
+		"ShopLink": 3,
+		"MuseumID": 0,
+		"GenCfgPath": "Data/ChallengeWar/RpgChallengeWarUIConfig",
+		"ContextName": "RpgChallengeWarPageContext",
+		"WeaponList": [],
+		"ShowUnlockSiteList": [],
+		"ShowPriority": 999,
+		"BookPageShowPageList": [],
+		"MenuShowList": [
+			"InfoBtn"
+		],
+		"EntryShowType": 2,
+		"DataImpl": {},
+		"TaleID": 3060
+	},
+	{
+		"TaleType": 2,
+		"BeginEvent": 0,
+		"TaleCurrency": [
+			0
+		],
+		"BuffMaterialList": [
+			0
+		],
+		"GachaLink": "",
+		"TaleWebLink": "",
+		"TaleTutorial": [],
+		"TaleInfo": [
+			"DisplayData_ActivityName_10700100",
+			"DisplayData_AcitivityDetailDes_10700100"
+		],
+		"FuncLinkType": 0,
+		"FuncParam": [],
+		"ShopLink": 3,
+		"MuseumID": 0,
+		"GenCfgPath": "Data/ChallengeWar/RpgChallengeWarUIConfig",
+		"ContextName": "RpgChallengeWarPageContext",
+		"WeaponList": [],
+		"ShowUnlockSiteList": [],
+		"ShowPriority": 999,
+		"BookPageShowPageList": [],
+		"MenuShowList": [
+			"InfoBtn"
+		],
+		"EntryShowType": 2,
+		"DataImpl": {},
+		"TaleID": 3070
+	},
+	{
+		"TaleType": 3,
+		"BeginEvent": 0,
+		"TaleCurrency": [
+			0
+		],
+		"BuffMaterialList": [
+			0
+		],
+		"GachaLink": "",
+		"TaleWebLink": "",
+		"TaleTutorial": [],
+		"TaleInfo": [],
+		"FuncLinkType": 0,
+		"FuncParam": [],
+		"ShopLink": 3,
+		"MuseumID": 0,
+		"GenCfgPath": "Data/GeneralAvatarAvtivity/GeneralAvatarActivity_Mei_C5_AC",
+		"ContextName": "AvatarActivityMeiC5MainPageContext",
+		"WeaponList": [],
+		"ShowUnlockSiteList": [],
+		"ShowPriority": 999,
+		"BookPageShowPageList": [],
+		"MenuShowList": [
+			"MissionBtn",
+			"InfoBtn"
+		],
+		"EntryShowType": 3,
+		"DataImpl": {},
+		"TaleID": 4001
+	},
+	{
+		"TaleType": 5,
+		"BeginEvent": 0,
+		"TaleCurrency": [
+			0
+		],
+		"BuffMaterialList": [
+			114400
+		],
+		"GachaLink": "",
+		"TaleWebLink": "",
+		"TaleTutorial": [],
+		"TaleInfo": [
+			"DisplayData_ActivityName_4002",
+			"DisplayData_AcitivityDetailDes_1002"
+		],
+		"FuncLinkType": 0,
+		"FuncParam": [],
+		"ShopLink": 305,
+		"MuseumID": 0,
+		"GenCfgPath": "Data/ChallengeWar/RpgChallengeWarUIConfig",
+		"ContextName": "RpgChallengeWarPageContext",
+		"WeaponList": [],
+		"ShowUnlockSiteList": [],
+		"ShowPriority": 999,
+		"BookPageShowPageList": [],
+		"MenuShowList": [
+			"InfoBtn",
+			"ShopBtn"
+		],
+		"EntryShowType": 0,
+		"DataImpl": {},
+		"TaleID": 4002
+	},
+	{
+		"TaleType": 6,
+		"BeginEvent": 0,
+		"TaleCurrency": [
+			114598,
+			114599
+		],
+		"BuffMaterialList": [
+			0
+		],
+		"GachaLink": "",
+		"TaleWebLink": "",
+		"TaleTutorial": [
+			{
+				"Content": "Tutorial_RogueTower_Text_1001",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/RogueTower_Tutorial_1",
+				"Title": "Tutorial_RogueTower_Title_1001"
+			},
+			{
+				"Content": "Tutorial_RogueTower_Text_1002",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/RogueTower_Tutorial_4",
+				"Title": "Tutorial_RogueTower_Title_1002"
+			},
+			{
+				"Content": "Tutorial_RogueTower_Text_1003",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/RogueTower_Tutorial_2",
+				"Title": "Tutorial_RogueTower_Title_1003"
+			},
+			{
+				"Content": "Tutorial_RogueTower_Text_1004",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/RogueTower_Tutorial_3",
+				"Title": "Tutorial_RogueTower_Title_1004"
+			},
+			{
+				"Content": "Tutorial_RogueTower_Text_1005",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/RogueTower_Tutorial_5",
+				"Title": "Tutorial_RogueTower_Title_1005"
+			}
+		],
+		"TaleInfo": [
+			"DisplayData_ActivityName_4010",
+			"DisplayData_AcitivityDetailDes_4010"
+		],
+		"FuncLinkType": 0,
+		"FuncParam": [],
+		"ShopLink": 304,
+		"MuseumID": 0,
+		"GenCfgPath": "",
+		"ContextName": "RpgRogueTowerPageContext",
+		"WeaponList": [],
+		"ShowUnlockSiteList": [
+			31006,
+			31007
+		],
+		"ShowPriority": 999,
+		"BookPageShowPageList": [],
+		"MenuShowList": [
+			"TutorialBtn",
+			"ShopBtn"
+		],
+		"EntryShowType": 0,
+		"DataImpl": {},
+		"TaleID": 4010
+	},
+	{
+		"TaleType": 6,
+		"BeginEvent": 0,
+		"TaleCurrency": [
+			115901,
+			114715
+		],
+		"BuffMaterialList": [
+			0
+		],
+		"GachaLink": "",
+		"TaleWebLink": "",
+		"TaleTutorial": [
+			{
+				"Content": "Tutorial_RogueTower_Text_2001",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/RogueTower_TutorialV2_1",
+				"Title": "Tutorial_RogueTower_Title_2001"
+			},
+			{
+				"Content": "Tutorial_RogueTower_Text_2002",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/RogueTower_TutorialV2_7",
+				"Title": "Tutorial_RogueTower_Title_2002"
+			},
+			{
+				"Content": "Tutorial_RogueTower_Text_2003",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/RogueTower_TutorialV2_2",
+				"Title": "Tutorial_RogueTower_Title_2003"
+			},
+			{
+				"Content": "Tutorial_RogueTower_Text_2004",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/RogueTower_TutorialV2_4",
+				"Title": "Tutorial_RogueTower_Title_2004"
+			},
+			{
+				"Content": "Tutorial_RogueTower_Text_2005",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/RogueTower_TutorialV2_3",
+				"Title": "Tutorial_RogueTower_Title_2005"
+			},
+			{
+				"Content": "Tutorial_RogueTower_Text_2006",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/RogueTower_TutorialV2_6",
+				"Title": "Tutorial_RogueTower_Title_2006"
+			},
+			{
+				"Content": "Tutorial_RogueTower_Text_2007",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/RogueTower_TutorialV2_5",
+				"Title": "Tutorial_RogueTower_Title_2007"
+			}
+		],
+		"TaleInfo": [
+			"DisplayData_ActivityName_4010",
+			"DisplayData_AcitivityDetailDes_4010"
+		],
+		"FuncLinkType": 0,
+		"FuncParam": [],
+		"ShopLink": 304,
+		"MuseumID": 0,
+		"GenCfgPath": "",
+		"ContextName": "RpgRogueTowerPageContext",
+		"WeaponList": [],
+		"ShowUnlockSiteList": [
+			32020,
+			32121,
+			32220,
+			32999
+		],
+		"ShowPriority": 999,
+		"BookPageShowPageList": [],
+		"MenuShowList": [
+			"TutorialBtn",
+			"ShopBtn"
+		],
+		"EntryShowType": 0,
+		"DataImpl": {},
+		"TaleID": 4020
+	},
+	{
+		"TaleType": 6,
+		"BeginEvent": 0,
+		"TaleCurrency": [
+			118801,
+			118803
+		],
+		"BuffMaterialList": [
+			0
+		],
+		"GachaLink": "",
+		"TaleWebLink": "",
+		"TaleTutorial": [
+			{
+				"Content": "Tutorial_RogueTower_Text_2001",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/RogueTower_TutorialV2_1",
+				"Title": "Tutorial_RogueTower_Title_2001"
+			},
+			{
+				"Content": "Tutorial_RogueTower_Text_2002",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/RogueTower_TutorialV2_7",
+				"Title": "Tutorial_RogueTower_Title_2002"
+			},
+			{
+				"Content": "Tutorial_RogueTower_Text_2003",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/RogueTower_TutorialV2_2",
+				"Title": "Tutorial_RogueTower_Title_2003"
+			},
+			{
+				"Content": "Tutorial_RogueTower_Text_2004",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/RogueTower_TutorialV2_4",
+				"Title": "Tutorial_RogueTower_Title_2004"
+			},
+			{
+				"Content": "Tutorial_RogueTower_Text_2005",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/RogueTower_TutorialV2_3",
+				"Title": "Tutorial_RogueTower_Title_2005"
+			},
+			{
+				"Content": "Tutorial_RogueTower_Text_2006",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/RogueTower_TutorialV2_6",
+				"Title": "Tutorial_RogueTower_Title_2006"
+			},
+			{
+				"Content": "Tutorial_RogueTower_Text_2007",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/RogueTower_TutorialV2_5",
+				"Title": "Tutorial_RogueTower_Title_2007"
+			},
+			{
+				"Content": "Tutorial_RogueTower_Text_2008",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/RogueTower_TutorialV2_8",
+				"Title": "Tutorial_RogueTower_Title_2008"
+			}
+		],
+		"TaleInfo": [
+			"DisplayData_ActivityName_4010",
+			"DisplayData_AcitivityDetailDes_4010"
+		],
+		"FuncLinkType": 0,
+		"FuncParam": [],
+		"ShopLink": 304,
+		"MuseumID": 0,
+		"GenCfgPath": "",
+		"ContextName": "RpgRogueTowerPageContext",
+		"WeaponList": [],
+		"ShowUnlockSiteList": [
+			33020,
+			33121,
+			33220,
+			33999
+		],
+		"ShowPriority": 999,
+		"BookPageShowPageList": [],
+		"MenuShowList": [
+			"TutorialBtn",
+			"ShopBtn"
+		],
+		"EntryShowType": 0,
+		"DataImpl": {},
+		"TaleID": 4030
+	},
+	{
+		"TaleType": 2,
+		"BeginEvent": 0,
+		"TaleCurrency": [
+			0
+		],
+		"BuffMaterialList": [
+			0
+		],
+		"GachaLink": "",
+		"TaleWebLink": "",
+		"TaleTutorial": [],
+		"TaleInfo": [],
+		"FuncLinkType": 0,
+		"FuncParam": [],
+		"ShopLink": 0,
+		"MuseumID": 0,
+		"GenCfgPath": "0",
+		"ContextName": "",
+		"WeaponList": [],
+		"ShowUnlockSiteList": [],
+		"ShowPriority": 999,
+		"BookPageShowPageList": [],
+		"MenuShowList": [],
+		"EntryShowType": 2,
+		"DataImpl": {},
+		"TaleID": 5003
+	},
+	{
+		"TaleType": 3,
+		"BeginEvent": 20,
+		"TaleCurrency": [
+			114679
+		],
+		"BuffMaterialList": [
+			0
+		],
+		"GachaLink": "",
+		"TaleWebLink": "",
+		"TaleTutorial": [
+			{
+				"Content": "Tutorial_Gen01_Text_1001",
+				"Sprite": "event/Immediately/EVA/EvaGuideMap01",
+				"Title": "Tutorial_Gen01_Title_1001"
+			},
+			{
+				"Content": "Tutorial_Gen01_Text_1002",
+				"Sprite": "event/Immediately/EVA/EvaGuideMap02",
+				"Title": "Tutorial_Gen01_Title_1002"
+			},
+			{
+				"Content": "Tutorial_Gen01_Text_1003",
+				"Sprite": "event/Immediately/EVA/EvaGuideMap03",
+				"Title": "Tutorial_Gen01_Title_1003"
+			},
+			{
+				"Content": "Tutorial_Gen01_Text_1004",
+				"Sprite": "event/Immediately/EVA/EvaGuideMap04",
+				"Title": "Tutorial_Gen01_Title_1004"
+			},
+			{
+				"Content": "Tutorial_Gen01_Text_1005",
+				"Sprite": "event/Immediately/EVA/EvaGuideMap05",
+				"Title": "Tutorial_Gen01_Title_1005"
+			},
+			{
+				"Content": "Tutorial_Gen01_Text_1006",
+				"Sprite": "event/Immediately/EVA/EvaGuideMap06",
+				"Title": "Tutorial_Gen01_Title_1006"
+			},
+			{
+				"Content": "Tutorial_Gen01_Text_1007",
+				"Sprite": "event/Immediately/EVA/EvaGuideMap07",
+				"Title": "Tutorial_Gen01_Title_1007"
+			},
+			{
+				"Content": "Tutorial_Gen01_Text_1008",
+				"Sprite": "event/Immediately/EVA/EvaGuideMap08",
+				"Title": "Tutorial_Gen01_Title_1008"
+			},
+			{
+				"Content": "Tutorial_Gen01_Text_1009",
+				"Sprite": "event/Immediately/EVA/EvaGuideMap09",
+				"Title": "Tutorial_Gen01_Title_1009"
+			}
+		],
+		"TaleInfo": [],
+		"FuncLinkType": 0,
+		"FuncParam": [],
+		"ShopLink": 302,
+		"MuseumID": 4,
+		"GenCfgPath": "Data/GeneralAvatarAvtivity/GeneralAvatarActivity_EVA",
+		"ContextName": "CoOpActEVAPageContext",
+		"WeaponList": [],
+		"ShowUnlockSiteList": [],
+		"ShowPriority": 999,
+		"BookPageShowPageList": [],
+		"MenuShowList": [
+			"AlbumBtn",
+			"MissionBtn",
+			"GachaBtn"
+		],
+		"EntryShowType": 3,
+		"DataImpl": {},
+		"TaleID": 6001
+	},
+	{
+		"TaleType": 17,
+		"BeginEvent": 0,
+		"TaleCurrency": [
+			121527,
+			121529,
+			121526
+		],
+		"BuffMaterialList": [
+			0
+		],
+		"GachaLink": "<type=\"7|4\" text=\"\"/>",
+		"TaleWebLink": "https://bh3.mihoyo.com/gl/activity/detail/22519?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429&winmode=fullscreen",
+		"TaleTutorial": [
+			{
+				"Content": "Tutorial_GlobalExplore_Desc_1",
+				"Sprite": "event/Immediately/GlobalExplore/6.3_GlobalExplore_01",
+				"Title": "Tutorial_GlobalExplore_Title_1"
+			},
+			{
+				"Content": "Tutorial_GlobalExplore_Desc_2",
+				"Sprite": "event/Immediately/GlobalExplore/6.3_GlobalExplore_02",
+				"Title": "Tutorial_GlobalExplore_Title_2"
+			},
+			{
+				"Content": "Tutorial_GlobalExplore_Desc_3",
+				"Sprite": "event/Immediately/GlobalExplore/6.3_GlobalExplore_03",
+				"Title": "Tutorial_GlobalExplore_Title_3"
+			},
+			{
+				"Content": "Tutorial_GlobalExplore_Desc_4",
+				"Sprite": "event/Immediately/GlobalExplore/6.3_GlobalExplore_04",
+				"Title": "Tutorial_GlobalExplore_Title_4"
+			},
+			{
+				"Content": "Tutorial_GlobalExplore_Desc_5",
+				"Sprite": "event/Immediately/GlobalExplore/6.3_GlobalExplore_05",
+				"Title": "Tutorial_GlobalExplore_Title_5"
+			},
+			{
+				"Content": "Tutorial_GlobalExplore_Desc_6",
+				"Sprite": "event/Immediately/GlobalExplore/6.3_GlobalExplore_06",
+				"Title": "Tutorial_GlobalExplore_Title_6"
+			},
+			{
+				"Content": "Tutorial_GlobalExplore_Desc_7",
+				"Sprite": "event/Immediately/GlobalExplore/6.3_GlobalExplore_07",
+				"Title": "Tutorial_GlobalExplore_Title_7"
+			}
+		],
+		"TaleInfo": [],
+		"FuncLinkType": 64,
+		"FuncParam": [],
+		"ShopLink": 303,
+		"MuseumID": 0,
+		"GenCfgPath": "Data/GeneralAvatarAvtivity/GeneralAvatarActivity_Lisushang_C2_TX",
+		"ContextName": "AvatarActivityLisushangPageContext",
+		"WeaponList": [],
+		"ShowUnlockSiteList": [],
+		"ShowPriority": 2,
+		"BookPageShowPageList": [
+			1
+		],
+		"MenuShowList": [
+			"MissionBtn",
+			"GachaBtn",
+			"AlbumBtn",
+			"TutorialBtn",
+			"WebLinkBtn"
+		],
+		"EntryShowType": 1,
+		"DataImpl": {},
+		"TaleID": 6300
+	},
+	{
+		"TaleType": 2,
+		"BeginEvent": 0,
+		"TaleCurrency": [
+			0
+		],
+		"BuffMaterialList": [
+			0
+		],
+		"GachaLink": "",
+		"TaleWebLink": "",
+		"TaleTutorial": [],
+		"TaleInfo": [],
+		"FuncLinkType": 0,
+		"FuncParam": [],
+		"ShopLink": 0,
+		"MuseumID": 0,
+		"GenCfgPath": "0",
+		"ContextName": "",
+		"WeaponList": [],
+		"ShowUnlockSiteList": [],
+		"ShowPriority": 999,
+		"BookPageShowPageList": [],
+		"MenuShowList": [],
+		"EntryShowType": 2,
+		"DataImpl": {},
+		"TaleID": 7001
+	},
+	{
+		"TaleType": 8,
+		"BeginEvent": 25,
+		"TaleCurrency": [
+			119230,
+			119233
+		],
+		"BuffMaterialList": [
+			0
+		],
+		"GachaLink": "",
+		"TaleWebLink": "",
+		"TaleTutorial": [
+			{
+				"Content": "Tutorial_Genshin_Text_1",
+				"Sprite": "event/Immediately/GenshinGuide/GenshinGuide01",
+				"Title": "Tutorial_Genshin_Title_1"
+			},
+			{
+				"Content": "Tutorial_Genshin_Text_2",
+				"Sprite": "event/Immediately/GenshinGuide/GenshinGuide02",
+				"Title": "Tutorial_Genshin_Title_2"
+			},
+			{
+				"Content": "Tutorial_Genshin_Text_6",
+				"Sprite": "event/Immediately/GenshinGuide/GenshinGuide06",
+				"Title": "Tutorial_Genshin_Title_6"
+			},
+			{
+				"Content": "Tutorial_Genshin_Text_3",
+				"Sprite": "event/Immediately/GenshinGuide/GenshinGuide03",
+				"Title": "Tutorial_Genshin_Title_3"
+			},
+			{
+				"Content": "Tutorial_Genshin_Text_4",
+				"Sprite": "event/Immediately/GenshinGuide/GenshinGuide04",
+				"Title": "Tutorial_Genshin_Title_4"
+			},
+			{
+				"Content": "Tutorial_Genshin_Text_5",
+				"Sprite": "event/Immediately/GenshinGuide/GenshinGuide05",
+				"Title": "Tutorial_Genshin_Title_5"
+			}
+		],
+		"TaleInfo": [],
+		"FuncLinkType": 0,
+		"FuncParam": [],
+		"ShopLink": 3,
+		"MuseumID": 2,
+		"GenCfgPath": "0",
+		"ContextName": "",
+		"WeaponList": [],
+		"ShowUnlockSiteList": [],
+		"ShowPriority": 999,
+		"BookPageShowPageList": [
+			1,
+			2
+		],
+		"MenuShowList": [
+			"TutorialBtn",
+			"BookBtn",
+			"ShopBtn",
+			"GachaBtn"
+		],
+		"EntryShowType": 0,
+		"DataImpl": {},
+		"TaleID": 9001
+	},
+	{
+		"TaleType": 10,
+		"BeginEvent": 30,
+		"TaleCurrency": [
+			121501,
+			121503
+		],
+		"BuffMaterialList": [
+			0
+		],
+		"GachaLink": "",
+		"TaleWebLink": "",
+		"TaleTutorial": [
+			{
+				"Content": "Tutorial_5thAnvGuide_Desc_01",
+				"Sprite": "event/Immediately/5thAnvGuide/5thAnvGuide_01",
+				"Title": "Tutorial_5thAnvGuide_Title_01"
+			},
+			{
+				"Content": "Tutorial_5thAnvGuide_Desc_02",
+				"Sprite": "event/Immediately/5thAnvGuide/5thAnvGuide_02",
+				"Title": "Tutorial_5thAnvGuide_Title_02"
+			},
+			{
+				"Content": "Tutorial_5thAnvGuide_Desc_03",
+				"Sprite": "event/Immediately/5thAnvGuide/5thAnvGuide_03",
+				"Title": "Tutorial_5thAnvGuide_Title_03"
+			},
+			{
+				"Content": "Tutorial_5thAnvGuide_Desc_04",
+				"Sprite": "event/Immediately/5thAnvGuide/5thAnvGuide_04",
+				"Title": "Tutorial_5thAnvGuide_Title_04"
+			},
+			{
+				"Content": "Tutorial_5thAnvGuide_Desc_05",
+				"Sprite": "event/Immediately/5thAnvGuide/5thAnvGuide_05",
+				"Title": "Tutorial_5thAnvGuide_Title_05"
+			},
+			{
+				"Content": "Tutorial_5thAnvGuide_Desc_06",
+				"Sprite": "event/Immediately/5thAnvGuide/5thAnvGuide_06",
+				"Title": "Tutorial_5thAnvGuide_Title_06"
+			},
+			{
+				"Content": "Tutorial_5thAnvGuide_Desc_07",
+				"Sprite": "event/Immediately/5thAnvGuide/5thAnvGuide_07",
+				"Title": "Tutorial_5thAnvGuide_Title_07"
+			},
+			{
+				"Content": "Tutorial_5thAnvGuide_Desc_08",
+				"Sprite": "event/Immediately/5thAnvGuide/5thAnvGuide_08",
+				"Title": "Tutorial_5thAnvGuide_Title_08"
+			}
+		],
+		"TaleInfo": [
+			"DisplayData_ActivityName_4010",
+			"DisplayData_AcitivityDetailDes_4010"
+		],
+		"FuncLinkType": 0,
+		"FuncParam": [],
+		"ShopLink": 306,
+		"MuseumID": 0,
+		"GenCfgPath": "0",
+		"ContextName": "AnvRestaurantPageContext",
+		"WeaponList": [],
+		"ShowUnlockSiteList": [],
+		"ShowPriority": 999,
+		"BookPageShowPageList": [
+			1
+		],
+		"MenuShowList": [
+			"InfoBtn",
+			"StrategyBtn",
+			"AlbumBtn",
+			"ShopBtn"
+		],
+		"EntryShowType": 0,
+		"DataImpl": {},
+		"TaleID": 9010
+	},
+	{
+		"TaleType": 12,
+		"BeginEvent": 34,
+		"TaleCurrency": [
+			0
+		],
+		"BuffMaterialList": [
+			0
+		],
+		"GachaLink": "",
+		"TaleWebLink": "",
+		"TaleTutorial": [
+			{
+				"Content": "Tutorial_SummerTreasureHunt_Desc_1001",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/SummerTreasure_Tutorial01",
+				"Title": "Tutorial_SummerTreasureHunt_Title_1001"
+			},
+			{
+				"Content": "Tutorial_SummerTreasureHunt_Desc_1002",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/SummerTreasure_Tutorial02",
+				"Title": "Tutorial_SummerTreasureHunt_Title_1002"
+			},
+			{
+				"Content": "Tutorial_SummerTreasureHunt_Desc_1003",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/SummerTreasure_Tutorial04",
+				"Title": "Tutorial_SummerTreasureHunt_Title_1003"
+			},
+			{
+				"Content": "Tutorial_SummerTreasureHunt_Desc_1004",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/SummerTreasure_Tutorial03",
+				"Title": "Tutorial_SummerTreasureHunt_Title_1004"
+			},
+			{
+				"Content": "Tutorial_SummerTreasureHunt_Desc_1005",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/SummerTreasure_Tutorial05",
+				"Title": "Tutorial_SummerTreasureHunt_Title_1005"
+			}
+		],
+		"TaleInfo": [],
+		"FuncLinkType": 64,
+		"FuncParam": [
+			5163
+		],
+		"ShopLink": 307,
+		"MuseumID": 0,
+		"GenCfgPath": "Data/RpgHoukaiTown/HoukaiTownConfig",
+		"ContextName": "RpgHoukaiTownMainPageContext",
+		"WeaponList": [],
+		"ShowUnlockSiteList": [
+			9020101,
+			9020102,
+			9020103,
+			9020104,
+			9020105,
+			9020106,
+			9020107,
+			9020108,
+			9020109,
+			9020110,
+			9020111,
+			9020112,
+			9020113,
+			9020114,
+			9020115,
+			9020116,
+			9020117,
+			9020118,
+			9020119,
+			9020120,
+			9020121,
+			9020201,
+			9020202,
+			9020203,
+			9020204,
+			9020205,
+			9020206,
+			9020207,
+			9020208,
+			9020209,
+			9020210,
+			9020211,
+			9020212,
+			9020213,
+			9020214,
+			9020215,
+			9020216,
+			9020217,
+			9020218,
+			9020219,
+			9020220,
+			9020221,
+			9020222,
+			9020301,
+			9020302,
+			9020303,
+			9020304,
+			9020305,
+			9020306,
+			9020307,
+			9020308,
+			9020309,
+			9020310,
+			9020311,
+			9020312,
+			9020313,
+			9020314,
+			9020315,
+			9020316,
+			9020317,
+			9020318
+		],
+		"ShowPriority": 999,
+		"BookPageShowPageList": [
+			1,
+			2
+		],
+		"MenuShowList": [
+			"TutorialBtn",
+			"AlbumBtn",
+			"ShopBtn"
+		],
+		"EntryShowType": 1,
+		"DataImpl": {},
+		"TaleID": 9020
+	},
+	{
+		"TaleType": 14,
+		"BeginEvent": 38,
+		"TaleCurrency": [
+			124104,
+			124102
+		],
+		"BuffMaterialList": [
+			0
+		],
+		"GachaLink": "",
+		"TaleWebLink": "",
+		"TaleTutorial": [
+			{
+				"Content": "MonsterCardTutorialDesc_1",
+				"Sprite": "event/Immediately/Tutorial/5.8_MonsterCardTutorial1",
+				"Title": "MonsterCardTutorialTitle_1"
+			},
+			{
+				"Content": "MonsterCardTutorialDesc_2",
+				"Sprite": "event/Immediately/Tutorial/5.8_MonsterCardTutorial2",
+				"Title": "MonsterCardTutorialTitle_2"
+			},
+			{
+				"Content": "MonsterCardTutorialDesc_3",
+				"Sprite": "event/Immediately/Tutorial/5.8_MonsterCardTutorial3",
+				"Title": "MonsterCardTutorialTitle_3"
+			},
+			{
+				"Content": "MonsterCardTutorialDesc_4",
+				"Sprite": "event/Immediately/Tutorial/5.8_MonsterCardTutorial4",
+				"Title": "MonsterCardTutorialTitle_4"
+			},
+			{
+				"Content": "MonsterCardTutorialDesc_5",
+				"Sprite": "event/Immediately/Tutorial/5.8_MonsterCardTutorial5",
+				"Title": "MonsterCardTutorialTitle_5"
+			},
+			{
+				"Content": "MonsterCardTutorialDesc_6",
+				"Sprite": "event/Immediately/Tutorial/5.8_MonsterCardTutorial6",
+				"Title": "MonsterCardTutorialTitle_6"
+			}
+		],
+		"TaleInfo": [],
+		"FuncLinkType": 0,
+		"FuncParam": [],
+		"ShopLink": 302,
+		"MuseumID": 0,
+		"GenCfgPath": "Data/RpgMonsterCard/RpgMonsterCardConfig",
+		"ContextName": "RpgMonsterCardPageContext",
+		"WeaponList": [],
+		"ShowUnlockSiteList": [
+			9030108,
+			9030122,
+			9030201,
+			9030301,
+			9030501
+		],
+		"ShowPriority": 2,
+		"BookPageShowPageList": [],
+		"MenuShowList": [
+			"AlbumBtn",
+			"ShopBtn",
+			"TutorialBtn"
+		],
+		"EntryShowType": 1,
+		"DataImpl": {},
+		"TaleID": 9030
+	},
+	{
+		"TaleType": 15,
+		"BeginEvent": 40,
+		"TaleCurrency": [
+			121513,
+			121512
+		],
+		"BuffMaterialList": [
+			0
+		],
+		"GachaLink": "",
+		"TaleWebLink": "",
+		"TaleTutorial": [
+			{
+				"Content": "Tutorial_DiceyDungeon_Desc_01",
+				"Sprite": "event/Immediately/Newbie/SummerDungeon/5.9_SummerDungeon_Guide_01",
+				"Title": "Tutorial_DiceyDungeon_Title_01"
+			},
+			{
+				"Content": "Tutorial_DiceyDungeon_Desc_02",
+				"Sprite": "event/Immediately/Newbie/SummerDungeon/5.9_SummerDungeon_Guide_02",
+				"Title": "Tutorial_DiceyDungeon_Title_02"
+			},
+			{
+				"Content": "Tutorial_DiceyDungeon_Desc_03",
+				"Sprite": "event/Immediately/Newbie/SummerDungeon/5.9_SummerDungeon_Guide_03",
+				"Title": "Tutorial_DiceyDungeon_Title_03"
+			},
+			{
+				"Content": "Tutorial_DiceyDungeon_Desc_04",
+				"Sprite": "event/Immediately/Newbie/SummerDungeon/5.9_SummerDungeon_Guide_04",
+				"Title": "Tutorial_DiceyDungeon_Title_04"
+			},
+			{
+				"Content": "Tutorial_DiceyDungeon_Desc_05",
+				"Sprite": "event/Immediately/Newbie/SummerDungeon/5.9_SummerDungeon_Guide_05",
+				"Title": "Tutorial_DiceyDungeon_Title_05"
+			},
+			{
+				"Content": "Tutorial_DiceyDungeon_Desc_06",
+				"Sprite": "event/Immediately/Newbie/SummerDungeon/5.9_SummerDungeon_Guide_06",
+				"Title": "Tutorial_DiceyDungeon_Title_06"
+			},
+			{
+				"Content": "Tutorial_DiceyDungeon_Desc_07",
+				"Sprite": "event/Immediately/Newbie/SummerDungeon/5.9_SummerDungeon_Guide_07",
+				"Title": "Tutorial_DiceyDungeon_Title_07"
+			},
+			{
+				"Content": "Tutorial_DiceyDungeon_Desc_08",
+				"Sprite": "event/Immediately/Newbie/SummerDungeon/5.9_SummerDungeon_Guide_08",
+				"Title": "Tutorial_DiceyDungeon_Title_08"
+			},
+			{
+				"Content": "Tutorial_DiceyDungeon_Desc_09",
+				"Sprite": "event/Immediately/Newbie/SummerDungeon/5.9_SummerDungeon_Guide_09",
+				"Title": "Tutorial_DiceyDungeon_Title_09"
+			}
+		],
+		"TaleInfo": [
+			"DisplayData_ActivityName_4010",
+			"DisplayData_AcitivityDetailDes_4010"
+		],
+		"FuncLinkType": 0,
+		"FuncParam": [],
+		"ShopLink": 307,
+		"MuseumID": 0,
+		"GenCfgPath": "0",
+		"ContextName": "RpgDiceyDungeonMainPageContext",
+		"WeaponList": [],
+		"ShowUnlockSiteList": [],
+		"ShowPriority": 2,
+		"BookPageShowPageList": [
+			1
+		],
+		"MenuShowList": [
+			"InfoBtn",
+			"StrategyBtn",
+			"AlbumBtn",
+			"ShopBtn"
+		],
+		"EntryShowType": 0,
+		"DataImpl": {},
+		"TaleID": 9040
+	},
+	{
+		"TaleType": 16,
+		"BeginEvent": 41,
+		"TaleCurrency": [
+			118952,
+			118953,
+			118951
+		],
+		"BuffMaterialList": [
+			0
+		],
+		"GachaLink": "",
+		"TaleWebLink": "https://bh3.mihoyo.com/gl/activity/detail/22056?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429&winmode=fullscreen",
+		"TaleTutorial": [
+			{
+				"Content": "Tutorial_6.0_Summer2Desc_1",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/Summer2.0_TutorialTest01",
+				"Title": "Tutorial_6.0_Summer2Title_1"
+			},
+			{
+				"Content": "Tutorial_6.0_Summer2Desc_2",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/Summer2.0_TutorialTest02",
+				"Title": "Tutorial_6.0_Summer2Title_2"
+			},
+			{
+				"Content": "Tutorial_6.0_Summer2Desc_3",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/Summer2.0_TutorialTest03",
+				"Title": "Tutorial_6.0_Summer2Title_3"
+			},
+			{
+				"Content": "Tutorial_6.0_Summer2Desc_4",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/Summer2.0_TutorialTest04",
+				"Title": "Tutorial_6.0_Summer2Title_4"
+			},
+			{
+				"Content": "Tutorial_6.0_Summer2Desc_5",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/Summer2.0_TutorialTest05",
+				"Title": "Tutorial_6.0_Summer2Title_5"
+			},
+			{
+				"Content": "Tutorial_6.0_Summer2Desc_6",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/Summer2.0_TutorialTest06",
+				"Title": "Tutorial_6.0_Summer2Title_6"
+			},
+			{
+				"Content": "Tutorial_6.0_Summer2Desc_7",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/Summer2.0_TutorialTest07",
+				"Title": "Tutorial_6.0_Summer2Title_7"
+			}
+		],
+		"TaleInfo": [],
+		"FuncLinkType": 64,
+		"FuncParam": [
+			5163
+		],
+		"ShopLink": 303,
+		"MuseumID": 0,
+		"GenCfgPath": "Data/RpgHoukaiTown/HoukaiTownConfig",
+		"ContextName": "RpgHoukaiTownMainPageContext",
+		"WeaponList": [],
+		"ShowUnlockSiteList": [],
+		"ShowPriority": 3,
+		"BookPageShowPageList": [
+			1,
+			2
+		],
+		"MenuShowList": [
+			"TutorialBtn",
+			"AlbumBtn",
+			"ShopBtn",
+			"WebLinkBtn"
+		],
+		"EntryShowType": 4,
+		"DataImpl": {},
+		"TaleID": 9050
+	},
+	{
+		"TaleType": 18,
+		"BeginEvent": 49,
+		"TaleCurrency": [
+			126002,
+			126003,
+			126005
+		],
+		"BuffMaterialList": [
+			0
+		],
+		"GachaLink": "",
+		"TaleWebLink": "",
+		"TaleTutorial": [],
+		"TaleInfo": [],
+		"FuncLinkType": 64,
+		"FuncParam": [],
+		"ShopLink": 307,
+		"MuseumID": 0,
+		"GenCfgPath": "Data/RpgHoukaiTown/HoukaiTownConfig",
+		"ContextName": "PlatformShooterMainPageContext",
+		"WeaponList": [],
+		"ShowUnlockSiteList": [],
+		"ShowPriority": 2,
+		"BookPageShowPageList": [
+			1,
+			2
+		],
+		"MenuShowList": [
+			"InfoBtn",
+			"GachaBtn",
+			"TutorialBtn",
+			"AlbumBtn",
+			"ShopBtn"
+		],
+		"EntryShowType": 5,
+		"DataImpl": {},
+		"TaleID": 9060
+	},
+	{
+		"TaleType": 21,
+		"BeginEvent": 0,
+		"TaleCurrency": [
+			122760,
+			122761
+		],
+		"BuffMaterialList": [
+			0
+		],
+		"GachaLink": "",
+		"TaleWebLink": "",
+		"TaleTutorial": [],
+		"TaleInfo": [],
+		"FuncLinkType": 0,
+		"FuncParam": [],
+		"ShopLink": 302,
+		"MuseumID": 0,
+		"GenCfgPath": "",
+		"ContextName": "",
+		"WeaponList": [],
+		"ShowUnlockSiteList": [
+			90700101,
+			90700111,
+			90700112,
+			90700113,
+			90700201,
+			90700211,
+			90700212,
+			90700213
+		],
+		"ShowPriority": 2,
+		"BookPageShowPageList": [],
+		"MenuShowList": [],
+		"EntryShowType": 1,
+		"DataImpl": {},
+		"TaleID": 9070
+	},
+	{
+		"TaleType": 22,
+		"BeginEvent": 51,
+		"TaleCurrency": [
+			126702,
+			126703
+		],
+		"BuffMaterialList": [
+			0
+		],
+		"GachaLink": "",
+		"TaleWebLink": "",
+		"TaleTutorial": [],
+		"TaleInfo": [],
+		"FuncLinkType": 0,
+		"FuncParam": [],
+		"ShopLink": 303,
+		"MuseumID": 0,
+		"GenCfgPath": "",
+		"ContextName": "MatchThreeMainPageContext",
+		"WeaponList": [],
+		"ShowUnlockSiteList": [
+			9080105,
+			9080106,
+			9080110
+		],
+		"ShowPriority": 1,
+		"BookPageShowPageList": [],
+		"MenuShowList": [
+			"AlbumBtn",
+			"ShopBtn",
+			"WebLinkBtn"
+		],
+		"EntryShowType": 1,
+		"DataImpl": {},
+		"TaleID": 9080
+	},
+	{
+		"TaleType": 11,
+		"BeginEvent": 0,
+		"TaleCurrency": [
+			0
+		],
+		"BuffMaterialList": [
+			0
+		],
+		"GachaLink": "",
+		"TaleWebLink": "",
+		"TaleTutorial": [],
+		"TaleInfo": [],
+		"FuncLinkType": 0,
+		"FuncParam": [],
+		"ShopLink": 0,
+		"MuseumID": 0,
+		"GenCfgPath": "Data/GeneralAvatarAvtivity/GeneralAvatarActivity_Fuka_C6_FL",
+		"ContextName": "RpgDLC2PreheatPageContext",
+		"WeaponList": [],
+		"ShowUnlockSiteList": [],
+		"ShowPriority": 999,
+		"BookPageShowPageList": [],
+		"MenuShowList": [
+			"AlbumBtn",
+			"GachaBtn"
+		],
+		"EntryShowType": 0,
+		"DataImpl": {},
+		"TaleID": 10000
+	}
+]

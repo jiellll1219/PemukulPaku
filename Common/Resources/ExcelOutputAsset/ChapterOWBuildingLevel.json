@@ -1,0 +1,2351 @@
+[
+	{
+		"BuildingType": 1,
+		"Tips": {
+			"hash": -1171671583
+		},
+		"CostTime": 0,
+		"NeedTerminalLevel": 1,
+		"CostMaterialList": [],
+		"PrefabPath": "Stage/Stage_MoonBase_OW/Stage_MoonBase_Stove_Lv1",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [
+			"Stage_MoonBase_Stove_Lv1_01",
+			"Stage_MoonBase_Stove_Lv1_01/LED2"
+		],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Furnace_01",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0.5,
+		"ProgressPanelHeight": 3,
+		"DataImpl": {},
+		"MainID": 10,
+		"Level": 1
+	},
+	{
+		"BuildingType": 1,
+		"Tips": {
+			"hash": -1171671582
+		},
+		"CostTime": 3600,
+		"NeedTerminalLevel": 1,
+		"CostMaterialList": [
+			{
+				"CostNum": 100,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "Stage/Stage_MoonBase_OW/Stage_MoonBase_Stove_Lv1",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [
+			"Stage_MoonBase_Stove_Lv1_01",
+			"Stage_MoonBase_Stove_Lv1_01/LED2"
+		],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Furnace_01",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0.5,
+		"ProgressPanelHeight": 3,
+		"DataImpl": {},
+		"MainID": 10,
+		"Level": 2
+	},
+	{
+		"BuildingType": 1,
+		"Tips": {
+			"hash": -1171671581
+		},
+		"CostTime": 7200,
+		"NeedTerminalLevel": 3,
+		"CostMaterialList": [
+			{
+				"CostNum": 150,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "Stage/Stage_MoonBase_OW/Stage_MoonBase_Stove_Lv1",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [
+			"Stage_MoonBase_Stove_Lv1_01",
+			"Stage_MoonBase_Stove_Lv1_01/LED2"
+		],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Furnace_01",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0.5,
+		"ProgressPanelHeight": 3,
+		"DataImpl": {},
+		"MainID": 10,
+		"Level": 3
+	},
+	{
+		"BuildingType": 1,
+		"Tips": {
+			"hash": -1171671580
+		},
+		"CostTime": 10800,
+		"NeedTerminalLevel": 4,
+		"CostMaterialList": [
+			{
+				"CostNum": 200,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "Stage/Stage_MoonBase_OW/Stage_MoonBase_Stove_Lv1",
+		"UpgradeAddPrefabList": [
+			"Stage/Stage_MoonBase_OW/Stage_MoonBase_Stove_Lv1to2",
+			"Stage/Stage_MoonBase_OW/Stage_MoonBase_LittleRobot_LevelUp"
+		],
+		"UpgradeAddPathList": [
+			"",
+			""
+		],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [
+			"Stage_MoonBase_Stove_Lv1_01",
+			"Stage_MoonBase_Stove_Lv1_01/LED2"
+		],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Furnace_01",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0.5,
+		"ProgressPanelHeight": 3,
+		"DataImpl": {},
+		"MainID": 10,
+		"Level": 4
+	},
+	{
+		"BuildingType": 1,
+		"Tips": {
+			"hash": -1171671579
+		},
+		"CostTime": 54000,
+		"NeedTerminalLevel": 5,
+		"CostMaterialList": [
+			{
+				"CostNum": 250,
+				"MaterialID": 122321
+			},
+			{
+				"CostNum": 200,
+				"MaterialID": 122322
+			}
+		],
+		"PrefabPath": "Stage/Stage_MoonBase_OW/Stage_MoonBase_Stove_Lv2",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [
+			"Stage_MoonBase_Stove_Lv1_01",
+			"Stage_MoonBase_Stove_Lv1_01/LED2"
+		],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Furnace_02",
+		"RemindTipsList": [
+			{
+				"ConditionID": 1012,
+				"ConditionTextID": {
+					"hash": 830272898
+				}
+			}
+		],
+		"ProgressPanelRadius": 0.5,
+		"ProgressPanelHeight": 3,
+		"DataImpl": {},
+		"MainID": 10,
+		"Level": 5
+	},
+	{
+		"BuildingType": 1,
+		"Tips": {
+			"hash": -1171671578
+		},
+		"CostTime": 36000,
+		"NeedTerminalLevel": 6,
+		"CostMaterialList": [
+			{
+				"CostNum": 300,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "Stage/Stage_MoonBase_OW/Stage_MoonBase_Stove_Lv2",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [
+			"Stage_MoonBase_Stove_Lv1_01",
+			"Stage_MoonBase_Stove_Lv1_01/LED2"
+		],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Furnace_02",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0.5,
+		"ProgressPanelHeight": 3,
+		"DataImpl": {},
+		"MainID": 10,
+		"Level": 6
+	},
+	{
+		"BuildingType": 1,
+		"Tips": {
+			"hash": -1171671577
+		},
+		"CostTime": 36000,
+		"NeedTerminalLevel": 7,
+		"CostMaterialList": [
+			{
+				"CostNum": 350,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "Stage/Stage_MoonBase_OW/Stage_MoonBase_Stove_Lv2",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [
+			"Stage_MoonBase_Stove_Lv1_01",
+			"Stage_MoonBase_Stove_Lv1_01/LED2"
+		],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Furnace_02",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0.5,
+		"ProgressPanelHeight": 3,
+		"DataImpl": {},
+		"MainID": 10,
+		"Level": 7
+	},
+	{
+		"BuildingType": 1,
+		"Tips": {
+			"hash": -1171671576
+		},
+		"CostTime": 36000,
+		"NeedTerminalLevel": 9,
+		"CostMaterialList": [
+			{
+				"CostNum": 400,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "Stage/Stage_MoonBase_OW/Stage_MoonBase_Stove_Lv2",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [
+			"Stage_MoonBase_Stove_Lv1_01",
+			"Stage_MoonBase_Stove_Lv1_01/LED2"
+		],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Furnace_02",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0.5,
+		"ProgressPanelHeight": 3,
+		"DataImpl": {},
+		"MainID": 10,
+		"Level": 8
+	},
+	{
+		"BuildingType": 1,
+		"Tips": {
+			"hash": -1171671575
+		},
+		"CostTime": 36000,
+		"NeedTerminalLevel": 11,
+		"CostMaterialList": [
+			{
+				"CostNum": 450,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "Stage/Stage_MoonBase_OW/Stage_MoonBase_Stove_Lv2",
+		"UpgradeAddPrefabList": [
+			"Stage/Stage_MoonBase_OW/Stage_MoonBase_Stove_Lv2to3",
+			"Stage/Stage_MoonBase_OW/Stage_MoonBase_LittleRobot_LevelUp"
+		],
+		"UpgradeAddPathList": [
+			"",
+			""
+		],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [
+			"Stage_MoonBase_Stove_Lv1_01",
+			"Stage_MoonBase_Stove_Lv1_01/LED2"
+		],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Furnace_02",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0.5,
+		"ProgressPanelHeight": 3,
+		"DataImpl": {},
+		"MainID": 10,
+		"Level": 9
+	},
+	{
+		"BuildingType": 1,
+		"Tips": {
+			"hash": -1962080657
+		},
+		"CostTime": 54000,
+		"NeedTerminalLevel": 12,
+		"CostMaterialList": [
+			{
+				"CostNum": 500,
+				"MaterialID": 122321
+			},
+			{
+				"CostNum": 500,
+				"MaterialID": 122322
+			}
+		],
+		"PrefabPath": "Stage/Stage_MoonBase_OW/Stage_MoonBase_Stove_Lv3",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [
+			"Stage_MoonBase_Stove_Lv1_01",
+			"Stage_MoonBase_Stove_Lv1_01/LED2"
+		],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Furnace_03",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0.5,
+		"ProgressPanelHeight": 3,
+		"DataImpl": {},
+		"MainID": 10,
+		"Level": 10
+	},
+	{
+		"BuildingType": 1,
+		"Tips": {
+			"hash": -1962080656
+		},
+		"CostTime": 54000,
+		"NeedTerminalLevel": 14,
+		"CostMaterialList": [
+			{
+				"CostNum": 600,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "Stage/Stage_MoonBase_OW/Stage_MoonBase_Stove_Lv3",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [
+			"Stage_MoonBase_Stove_Lv1_01",
+			"Stage_MoonBase_Stove_Lv1_01/LED2"
+		],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Furnace_03",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0.5,
+		"ProgressPanelHeight": 3,
+		"DataImpl": {},
+		"MainID": 10,
+		"Level": 11
+	},
+	{
+		"BuildingType": 1,
+		"Tips": {
+			"hash": -1962080655
+		},
+		"CostTime": 54000,
+		"NeedTerminalLevel": 17,
+		"CostMaterialList": [
+			{
+				"CostNum": 700,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "Stage/Stage_MoonBase_OW/Stage_MoonBase_Stove_Lv3",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [
+			"Stage_MoonBase_Stove_Lv1_01",
+			"Stage_MoonBase_Stove_Lv1_01/LED2"
+		],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Furnace_03",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0.5,
+		"ProgressPanelHeight": 3,
+		"DataImpl": {},
+		"MainID": 10,
+		"Level": 12
+	},
+	{
+		"BuildingType": 1,
+		"Tips": {
+			"hash": -1962080654
+		},
+		"CostTime": 54000,
+		"NeedTerminalLevel": 20,
+		"CostMaterialList": [
+			{
+				"CostNum": 800,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "Stage/Stage_MoonBase_OW/Stage_MoonBase_Stove_Lv3",
+		"UpgradeAddPrefabList": [
+			"Stage/Stage_MoonBase_OW/Stage_MoonBase_Stove_Lv3to4",
+			"Stage/Stage_MoonBase_OW/Stage_MoonBase_LittleRobot_LevelUp"
+		],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [
+			"Stage_MoonBase_Stove_Lv1_01",
+			"Stage_MoonBase_Stove_Lv1_01/LED2"
+		],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Furnace_03",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0.5,
+		"ProgressPanelHeight": 3,
+		"DataImpl": {},
+		"MainID": 10,
+		"Level": 13
+	},
+	{
+		"BuildingType": 1,
+		"Tips": {
+			"hash": -1962080653
+		},
+		"CostTime": 72000,
+		"NeedTerminalLevel": 22,
+		"CostMaterialList": [
+			{
+				"CostNum": 900,
+				"MaterialID": 122321
+			},
+			{
+				"CostNum": 500,
+				"MaterialID": 122322
+			}
+		],
+		"PrefabPath": "Stage/Stage_MoonBase_OW/Stage_MoonBase_Stove_Lv4",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [
+			"Stage_MoonBase_Stove_Lv1_01",
+			"Stage_MoonBase_Stove_Lv1_01/LED2"
+		],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Furnace_04",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0.5,
+		"ProgressPanelHeight": 3,
+		"DataImpl": {},
+		"MainID": 10,
+		"Level": 14
+	},
+	{
+		"BuildingType": 1,
+		"Tips": {
+			"hash": -1962080652
+		},
+		"CostTime": 54000,
+		"NeedTerminalLevel": 24,
+		"CostMaterialList": [
+			{
+				"CostNum": 1000,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "Stage/Stage_MoonBase_OW/Stage_MoonBase_Stove_Lv4",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [
+			"Stage_MoonBase_Stove_Lv1_01",
+			"Stage_MoonBase_Stove_Lv1_01/LED2"
+		],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Furnace_04",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0.5,
+		"ProgressPanelHeight": 3,
+		"DataImpl": {},
+		"MainID": 10,
+		"Level": 15
+	},
+	{
+		"BuildingType": 2,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 0,
+		"NeedTerminalLevel": 1,
+		"CostMaterialList": [],
+		"PrefabPath": "Stage/Stage_MoonBase_OW/Stage_MoonBase_Mission_Lv1",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [
+			"Stage_MoonBase_Mission_Lv1/Base_Anim",
+			"Stage_MoonBase_Mission_Lv1/Base_Anim/Rotate_Anim"
+		],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Challenge",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0.5,
+		"ProgressPanelHeight": -3,
+		"DataImpl": {},
+		"MainID": 20,
+		"Level": 1
+	},
+	{
+		"BuildingType": 2,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 3600,
+		"NeedTerminalLevel": 2,
+		"CostMaterialList": [
+			{
+				"CostNum": 100,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "Stage/Stage_MoonBase_OW/Stage_MoonBase_Mission_Lv1",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [
+			"Stage_MoonBase_Mission_Lv1/Base_Anim",
+			"Stage_MoonBase_Mission_Lv1/Base_Anim/Rotate_Anim"
+		],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Challenge",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0.5,
+		"ProgressPanelHeight": -3,
+		"DataImpl": {},
+		"MainID": 20,
+		"Level": 2
+	},
+	{
+		"BuildingType": 2,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 7200,
+		"NeedTerminalLevel": 3,
+		"CostMaterialList": [
+			{
+				"CostNum": 150,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "Stage/Stage_MoonBase_OW/Stage_MoonBase_Mission_Lv1",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [
+			"Stage_MoonBase_Mission_Lv1/Base_Anim",
+			"Stage_MoonBase_Mission_Lv1/Base_Anim/Rotate_Anim"
+		],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Challenge",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0.5,
+		"ProgressPanelHeight": -3,
+		"DataImpl": {},
+		"MainID": 20,
+		"Level": 3
+	},
+	{
+		"BuildingType": 2,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 10800,
+		"NeedTerminalLevel": 4,
+		"CostMaterialList": [
+			{
+				"CostNum": 200,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "Stage/Stage_MoonBase_OW/Stage_MoonBase_Mission_Lv1",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [
+			"Stage_MoonBase_Mission_Lv1/Base_Anim",
+			"Stage_MoonBase_Mission_Lv1/Base_Anim/Rotate_Anim"
+		],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Challenge",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0.5,
+		"ProgressPanelHeight": -3,
+		"DataImpl": {},
+		"MainID": 20,
+		"Level": 4
+	},
+	{
+		"BuildingType": 2,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 54000,
+		"NeedTerminalLevel": 5,
+		"CostMaterialList": [
+			{
+				"CostNum": 250,
+				"MaterialID": 122321
+			},
+			{
+				"CostNum": 200,
+				"MaterialID": 122323
+			}
+		],
+		"PrefabPath": "Stage/Stage_MoonBase_OW/Stage_MoonBase_Mission_Lv1",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [
+			"Stage_MoonBase_Mission_Lv1/Base_Anim",
+			"Stage_MoonBase_Mission_Lv1/Base_Anim/Rotate_Anim"
+		],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Challenge",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0.5,
+		"ProgressPanelHeight": -3,
+		"DataImpl": {},
+		"MainID": 20,
+		"Level": 5
+	},
+	{
+		"BuildingType": 2,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 36000,
+		"NeedTerminalLevel": 6,
+		"CostMaterialList": [
+			{
+				"CostNum": 300,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "Stage/Stage_MoonBase_OW/Stage_MoonBase_Mission_Lv1",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [
+			"Stage_MoonBase_Mission_Lv1/Base_Anim",
+			"Stage_MoonBase_Mission_Lv1/Base_Anim/Rotate_Anim"
+		],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Challenge",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0.5,
+		"ProgressPanelHeight": -3,
+		"DataImpl": {},
+		"MainID": 20,
+		"Level": 6
+	},
+	{
+		"BuildingType": 2,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 36000,
+		"NeedTerminalLevel": 7,
+		"CostMaterialList": [
+			{
+				"CostNum": 350,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "Stage/Stage_MoonBase_OW/Stage_MoonBase_Mission_Lv1",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [
+			"Stage_MoonBase_Mission_Lv1/Base_Anim",
+			"Stage_MoonBase_Mission_Lv1/Base_Anim/Rotate_Anim"
+		],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Challenge",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0.5,
+		"ProgressPanelHeight": -3,
+		"DataImpl": {},
+		"MainID": 20,
+		"Level": 7
+	},
+	{
+		"BuildingType": 2,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 36000,
+		"NeedTerminalLevel": 9,
+		"CostMaterialList": [
+			{
+				"CostNum": 400,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "Stage/Stage_MoonBase_OW/Stage_MoonBase_Mission_Lv1",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [
+			"Stage_MoonBase_Mission_Lv1/Base_Anim",
+			"Stage_MoonBase_Mission_Lv1/Base_Anim/Rotate_Anim"
+		],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Challenge",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0.5,
+		"ProgressPanelHeight": -3,
+		"DataImpl": {},
+		"MainID": 20,
+		"Level": 8
+	},
+	{
+		"BuildingType": 2,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 36000,
+		"NeedTerminalLevel": 11,
+		"CostMaterialList": [
+			{
+				"CostNum": 450,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "Stage/Stage_MoonBase_OW/Stage_MoonBase_Mission_Lv1",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [
+			"Stage_MoonBase_Mission_Lv1/Base_Anim",
+			"Stage_MoonBase_Mission_Lv1/Base_Anim/Rotate_Anim"
+		],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Challenge",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0.5,
+		"ProgressPanelHeight": -3,
+		"DataImpl": {},
+		"MainID": 20,
+		"Level": 9
+	},
+	{
+		"BuildingType": 2,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 54000,
+		"NeedTerminalLevel": 13,
+		"CostMaterialList": [
+			{
+				"CostNum": 500,
+				"MaterialID": 122321
+			},
+			{
+				"CostNum": 500,
+				"MaterialID": 122323
+			}
+		],
+		"PrefabPath": "Stage/Stage_MoonBase_OW/Stage_MoonBase_Mission_Lv1",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [
+			"Stage_MoonBase_Mission_Lv1/Base_Anim",
+			"Stage_MoonBase_Mission_Lv1/Base_Anim/Rotate_Anim"
+		],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Challenge",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0.5,
+		"ProgressPanelHeight": -3,
+		"DataImpl": {},
+		"MainID": 20,
+		"Level": 10
+	},
+	{
+		"BuildingType": 2,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 54000,
+		"NeedTerminalLevel": 15,
+		"CostMaterialList": [
+			{
+				"CostNum": 600,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "Stage/Stage_MoonBase_OW/Stage_MoonBase_Mission_Lv1",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [
+			"Stage_MoonBase_Mission_Lv1/Base_Anim",
+			"Stage_MoonBase_Mission_Lv1/Base_Anim/Rotate_Anim"
+		],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Challenge",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0.5,
+		"ProgressPanelHeight": -3,
+		"DataImpl": {},
+		"MainID": 20,
+		"Level": 11
+	},
+	{
+		"BuildingType": 2,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 54000,
+		"NeedTerminalLevel": 17,
+		"CostMaterialList": [
+			{
+				"CostNum": 700,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "Stage/Stage_MoonBase_OW/Stage_MoonBase_Mission_Lv1",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [
+			"Stage_MoonBase_Mission_Lv1/Base_Anim",
+			"Stage_MoonBase_Mission_Lv1/Base_Anim/Rotate_Anim"
+		],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Challenge",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0.5,
+		"ProgressPanelHeight": -3,
+		"DataImpl": {},
+		"MainID": 20,
+		"Level": 12
+	},
+	{
+		"BuildingType": 2,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 54000,
+		"NeedTerminalLevel": 19,
+		"CostMaterialList": [
+			{
+				"CostNum": 800,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "Stage/Stage_MoonBase_OW/Stage_MoonBase_Mission_Lv1",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [
+			"Stage_MoonBase_Mission_Lv1/Base_Anim",
+			"Stage_MoonBase_Mission_Lv1/Base_Anim/Rotate_Anim"
+		],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Challenge",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0.5,
+		"ProgressPanelHeight": -3,
+		"DataImpl": {},
+		"MainID": 20,
+		"Level": 13
+	},
+	{
+		"BuildingType": 2,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 72000,
+		"NeedTerminalLevel": 21,
+		"CostMaterialList": [
+			{
+				"CostNum": 900,
+				"MaterialID": 122321
+			},
+			{
+				"CostNum": 500,
+				"MaterialID": 122323
+			}
+		],
+		"PrefabPath": "Stage/Stage_MoonBase_OW/Stage_MoonBase_Mission_Lv1",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [
+			"Stage_MoonBase_Mission_Lv1/Base_Anim",
+			"Stage_MoonBase_Mission_Lv1/Base_Anim/Rotate_Anim"
+		],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Challenge",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0.5,
+		"ProgressPanelHeight": -3,
+		"DataImpl": {},
+		"MainID": 20,
+		"Level": 14
+	},
+	{
+		"BuildingType": 2,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 54000,
+		"NeedTerminalLevel": 23,
+		"CostMaterialList": [
+			{
+				"CostNum": 1000,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "Stage/Stage_MoonBase_OW/Stage_MoonBase_Mission_Lv1",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [
+			"Stage_MoonBase_Mission_Lv1/Base_Anim",
+			"Stage_MoonBase_Mission_Lv1/Base_Anim/Rotate_Anim"
+		],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Challenge",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0.5,
+		"ProgressPanelHeight": -3,
+		"DataImpl": {},
+		"MainID": 20,
+		"Level": 15
+	},
+	{
+		"BuildingType": 3,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 0,
+		"NeedTerminalLevel": 0,
+		"CostMaterialList": [],
+		"PrefabPath": "Stage/Stage_MoonBase_OW/Stage_MoonBase_Robot_Lv0",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_WorkShop_01",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0.5,
+		"ProgressPanelHeight": 2.5,
+		"DataImpl": {},
+		"MainID": 30,
+		"Level": 0
+	},
+	{
+		"BuildingType": 3,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 0,
+		"NeedTerminalLevel": 1,
+		"CostMaterialList": [
+			{
+				"CostNum": 1,
+				"MaterialID": 122393
+			}
+		],
+		"PrefabPath": "Stage/Stage_MoonBase_OW/Stage_MoonBase_Robot_Lv1",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_WorkShop_01",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0.5,
+		"ProgressPanelHeight": 2.5,
+		"DataImpl": {},
+		"MainID": 30,
+		"Level": 1
+	},
+	{
+		"BuildingType": 3,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 3600,
+		"NeedTerminalLevel": 3,
+		"CostMaterialList": [
+			{
+				"CostNum": 100,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "Stage/Stage_MoonBase_OW/Stage_MoonBase_Robot_Lv1",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_WorkShop_01",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0.5,
+		"ProgressPanelHeight": 2.5,
+		"DataImpl": {},
+		"MainID": 30,
+		"Level": 2
+	},
+	{
+		"BuildingType": 3,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 7200,
+		"NeedTerminalLevel": 4,
+		"CostMaterialList": [
+			{
+				"CostNum": 150,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "Stage/Stage_MoonBase_OW/Stage_MoonBase_Robot_Lv1",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_WorkShop_01",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0.5,
+		"ProgressPanelHeight": 2.5,
+		"DataImpl": {},
+		"MainID": 30,
+		"Level": 3
+	},
+	{
+		"BuildingType": 3,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 10800,
+		"NeedTerminalLevel": 5,
+		"CostMaterialList": [
+			{
+				"CostNum": 200,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "Stage/Stage_MoonBase_OW/Stage_MoonBase_Robot_Lv1",
+		"UpgradeAddPrefabList": [
+			"Stage/Stage_MoonBase_OW/Stage_MoonBase_Robot_Lv01to2",
+			"Stage/Stage_MoonBase_OW/Stage_MoonBase_LittleRobot_LevelUp"
+		],
+		"UpgradeAddPathList": [
+			"",
+			""
+		],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [
+			"Stage_MoonBase_Home_UI_ItemBox_01 (1)",
+			"Stage_MoonBase_Home_UI_ItemBox_01 (2)"
+		],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_WorkShop_01",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0.5,
+		"ProgressPanelHeight": 2.5,
+		"DataImpl": {},
+		"MainID": 30,
+		"Level": 4
+	},
+	{
+		"BuildingType": 3,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 54000,
+		"NeedTerminalLevel": 6,
+		"CostMaterialList": [
+			{
+				"CostNum": 250,
+				"MaterialID": 122321
+			},
+			{
+				"CostNum": 200,
+				"MaterialID": 122324
+			}
+		],
+		"PrefabPath": "Stage/Stage_MoonBase_OW/Stage_MoonBase_Robot_Lv2",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_WorkShop_02",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0.5,
+		"ProgressPanelHeight": 2.5,
+		"DataImpl": {},
+		"MainID": 30,
+		"Level": 5
+	},
+	{
+		"BuildingType": 3,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 36000,
+		"NeedTerminalLevel": 7,
+		"CostMaterialList": [
+			{
+				"CostNum": 300,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "Stage/Stage_MoonBase_OW/Stage_MoonBase_Robot_Lv2",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_WorkShop_02",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0.5,
+		"ProgressPanelHeight": 2.5,
+		"DataImpl": {},
+		"MainID": 30,
+		"Level": 6
+	},
+	{
+		"BuildingType": 3,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 36000,
+		"NeedTerminalLevel": 8,
+		"CostMaterialList": [
+			{
+				"CostNum": 350,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "Stage/Stage_MoonBase_OW/Stage_MoonBase_Robot_Lv2",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_WorkShop_02",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0.5,
+		"ProgressPanelHeight": 2.5,
+		"DataImpl": {},
+		"MainID": 30,
+		"Level": 7
+	},
+	{
+		"BuildingType": 3,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 36000,
+		"NeedTerminalLevel": 10,
+		"CostMaterialList": [
+			{
+				"CostNum": 400,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "Stage/Stage_MoonBase_OW/Stage_MoonBase_Robot_Lv2",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_WorkShop_02",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0.5,
+		"ProgressPanelHeight": 2.5,
+		"DataImpl": {},
+		"MainID": 30,
+		"Level": 8
+	},
+	{
+		"BuildingType": 3,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 36000,
+		"NeedTerminalLevel": 11,
+		"CostMaterialList": [
+			{
+				"CostNum": 450,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "Stage/Stage_MoonBase_OW/Stage_MoonBase_Robot_Lv2",
+		"UpgradeAddPrefabList": [
+			"Stage/Stage_MoonBase_OW/Stage_MoonBase_Robot_Lv02to03",
+			"Stage/Stage_MoonBase_OW/Stage_MoonBase_LittleRobot_LevelUp"
+		],
+		"UpgradeAddPathList": [
+			"",
+			""
+		],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_WorkShop_02",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0.5,
+		"ProgressPanelHeight": 2.5,
+		"DataImpl": {},
+		"MainID": 30,
+		"Level": 9
+	},
+	{
+		"BuildingType": 3,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 54000,
+		"NeedTerminalLevel": 13,
+		"CostMaterialList": [
+			{
+				"CostNum": 500,
+				"MaterialID": 122321
+			},
+			{
+				"CostNum": 500,
+				"MaterialID": 122324
+			}
+		],
+		"PrefabPath": "Stage/Stage_MoonBase_OW/Stage_MoonBase_Robot_Lv3",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_WorkShop_03",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0.5,
+		"ProgressPanelHeight": 2.5,
+		"DataImpl": {},
+		"MainID": 30,
+		"Level": 10
+	},
+	{
+		"BuildingType": 3,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 54000,
+		"NeedTerminalLevel": 16,
+		"CostMaterialList": [
+			{
+				"CostNum": 600,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "Stage/Stage_MoonBase_OW/Stage_MoonBase_Robot_Lv3",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_WorkShop_03",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0.5,
+		"ProgressPanelHeight": 2.5,
+		"DataImpl": {},
+		"MainID": 30,
+		"Level": 11
+	},
+	{
+		"BuildingType": 3,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 54000,
+		"NeedTerminalLevel": 18,
+		"CostMaterialList": [
+			{
+				"CostNum": 700,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "Stage/Stage_MoonBase_OW/Stage_MoonBase_Robot_Lv3",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_WorkShop_03",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0.5,
+		"ProgressPanelHeight": 2.5,
+		"DataImpl": {},
+		"MainID": 30,
+		"Level": 12
+	},
+	{
+		"BuildingType": 3,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 54000,
+		"NeedTerminalLevel": 20,
+		"CostMaterialList": [
+			{
+				"CostNum": 800,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "Stage/Stage_MoonBase_OW/Stage_MoonBase_Robot_Lv3",
+		"UpgradeAddPrefabList": [
+			"Stage/Stage_MoonBase_OW/Stage_MoonBase_Robot_Lv03to4",
+			"Stage/Stage_MoonBase_OW/Stage_MoonBase_LittleRobot_LevelUp"
+		],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_WorkShop_03",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0.5,
+		"ProgressPanelHeight": 2.5,
+		"DataImpl": {},
+		"MainID": 30,
+		"Level": 13
+	},
+	{
+		"BuildingType": 3,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 72000,
+		"NeedTerminalLevel": 22,
+		"CostMaterialList": [
+			{
+				"CostNum": 900,
+				"MaterialID": 122321
+			},
+			{
+				"CostNum": 500,
+				"MaterialID": 122324
+			}
+		],
+		"PrefabPath": "Stage/Stage_MoonBase_OW/Stage_MoonBase_Robot_Lv4",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_WorkShop_04",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0.5,
+		"ProgressPanelHeight": 2.5,
+		"DataImpl": {},
+		"MainID": 30,
+		"Level": 14
+	},
+	{
+		"BuildingType": 3,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 54000,
+		"NeedTerminalLevel": 24,
+		"CostMaterialList": [
+			{
+				"CostNum": 1000,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "Stage/Stage_MoonBase_OW/Stage_MoonBase_Robot_Lv4",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_WorkShop_04",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0.5,
+		"ProgressPanelHeight": 2.5,
+		"DataImpl": {},
+		"MainID": 30,
+		"Level": 15
+	},
+	{
+		"BuildingType": 4,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 0,
+		"NeedTerminalLevel": 0,
+		"CostMaterialList": [],
+		"PrefabPath": "Stage/Stage_MoonBase_OW/Stage_MoonBase_Store_Lv1",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [
+			"water tank/Water/VFX_Burst/VFX_qipaoBurstSmall",
+			"water tank/Water/VFX_Burst/VFX_qipaoBurstBig"
+		],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Jar",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0,
+		"ProgressPanelHeight": 0,
+		"DataImpl": {},
+		"MainID": 40,
+		"Level": 1
+	},
+	{
+		"BuildingType": 5,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 0,
+		"NeedTerminalLevel": 0,
+		"CostMaterialList": [],
+		"PrefabPath": "",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Excavate",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0,
+		"ProgressPanelHeight": 0,
+		"DataImpl": {},
+		"MainID": 50,
+		"Level": 0
+	},
+	{
+		"BuildingType": 5,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 0,
+		"NeedTerminalLevel": 1,
+		"CostMaterialList": [
+			{
+				"CostNum": 1,
+				"MaterialID": 122392
+			}
+		],
+		"PrefabPath": "",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Excavate",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0,
+		"ProgressPanelHeight": 0,
+		"DataImpl": {},
+		"MainID": 50,
+		"Level": 1
+	},
+	{
+		"BuildingType": 5,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 0,
+		"NeedTerminalLevel": 0,
+		"CostMaterialList": [],
+		"PrefabPath": "",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Excavate",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0,
+		"ProgressPanelHeight": 0,
+		"DataImpl": {},
+		"MainID": 51,
+		"Level": 0
+	},
+	{
+		"BuildingType": 5,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 0,
+		"NeedTerminalLevel": 7,
+		"CostMaterialList": [
+			{
+				"CostNum": 500,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Excavate",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0,
+		"ProgressPanelHeight": 0,
+		"DataImpl": {},
+		"MainID": 51,
+		"Level": 1
+	},
+	{
+		"BuildingType": 5,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 0,
+		"NeedTerminalLevel": 0,
+		"CostMaterialList": [],
+		"PrefabPath": "",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Excavate",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0,
+		"ProgressPanelHeight": 0,
+		"DataImpl": {},
+		"MainID": 60,
+		"Level": 0
+	},
+	{
+		"BuildingType": 5,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 0,
+		"NeedTerminalLevel": 12,
+		"CostMaterialList": [
+			{
+				"CostNum": 1000,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Excavate",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0,
+		"ProgressPanelHeight": 0,
+		"DataImpl": {},
+		"MainID": 60,
+		"Level": 1
+	},
+	{
+		"BuildingType": 5,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 0,
+		"NeedTerminalLevel": 0,
+		"CostMaterialList": [],
+		"PrefabPath": "",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Excavate",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0,
+		"ProgressPanelHeight": 0,
+		"DataImpl": {},
+		"MainID": 61,
+		"Level": 0
+	},
+	{
+		"BuildingType": 5,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 0,
+		"NeedTerminalLevel": 20,
+		"CostMaterialList": [
+			{
+				"CostNum": 1500,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Excavate",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0,
+		"ProgressPanelHeight": 0,
+		"DataImpl": {},
+		"MainID": 61,
+		"Level": 1
+	},
+	{
+		"BuildingType": 6,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 0,
+		"NeedTerminalLevel": 0,
+		"CostMaterialList": [],
+		"PrefabPath": "",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Delivery_01",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0,
+		"ProgressPanelHeight": 0,
+		"DataImpl": {},
+		"MainID": 70,
+		"Level": 0
+	},
+	{
+		"BuildingType": 6,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 0,
+		"NeedTerminalLevel": 1,
+		"CostMaterialList": [
+			{
+				"CostNum": 300,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Delivery_02",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0,
+		"ProgressPanelHeight": 0,
+		"DataImpl": {},
+		"MainID": 70,
+		"Level": 1
+	},
+	{
+		"BuildingType": 6,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 0,
+		"NeedTerminalLevel": 0,
+		"CostMaterialList": [],
+		"PrefabPath": "",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Delivery_01",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0,
+		"ProgressPanelHeight": 0,
+		"DataImpl": {},
+		"MainID": 71,
+		"Level": 0
+	},
+	{
+		"BuildingType": 6,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 0,
+		"NeedTerminalLevel": 3,
+		"CostMaterialList": [
+			{
+				"CostNum": 300,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Delivery_02",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0,
+		"ProgressPanelHeight": 0,
+		"DataImpl": {},
+		"MainID": 71,
+		"Level": 1
+	},
+	{
+		"BuildingType": 6,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 0,
+		"NeedTerminalLevel": 0,
+		"CostMaterialList": [],
+		"PrefabPath": "",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Delivery_01",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0,
+		"ProgressPanelHeight": 0,
+		"DataImpl": {},
+		"MainID": 72,
+		"Level": 0
+	},
+	{
+		"BuildingType": 6,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 0,
+		"NeedTerminalLevel": 6,
+		"CostMaterialList": [
+			{
+				"CostNum": 300,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Delivery_02",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0,
+		"ProgressPanelHeight": 0,
+		"DataImpl": {},
+		"MainID": 72,
+		"Level": 1
+	},
+	{
+		"BuildingType": 6,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 0,
+		"NeedTerminalLevel": 0,
+		"CostMaterialList": [],
+		"PrefabPath": "",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Delivery_01",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0,
+		"ProgressPanelHeight": 0,
+		"DataImpl": {},
+		"MainID": 73,
+		"Level": 0
+	},
+	{
+		"BuildingType": 6,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 0,
+		"NeedTerminalLevel": 1,
+		"CostMaterialList": [
+			{
+				"CostNum": 300,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Delivery_02",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0,
+		"ProgressPanelHeight": 0,
+		"DataImpl": {},
+		"MainID": 73,
+		"Level": 1
+	},
+	{
+		"BuildingType": 6,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 0,
+		"NeedTerminalLevel": 0,
+		"CostMaterialList": [],
+		"PrefabPath": "",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Delivery_01",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0,
+		"ProgressPanelHeight": 0,
+		"DataImpl": {},
+		"MainID": 74,
+		"Level": 0
+	},
+	{
+		"BuildingType": 6,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 0,
+		"NeedTerminalLevel": 2,
+		"CostMaterialList": [
+			{
+				"CostNum": 300,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Delivery_02",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0,
+		"ProgressPanelHeight": 0,
+		"DataImpl": {},
+		"MainID": 74,
+		"Level": 1
+	},
+	{
+		"BuildingType": 6,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 0,
+		"NeedTerminalLevel": 0,
+		"CostMaterialList": [],
+		"PrefabPath": "",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Delivery_01",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0,
+		"ProgressPanelHeight": 0,
+		"DataImpl": {},
+		"MainID": 75,
+		"Level": 0
+	},
+	{
+		"BuildingType": 6,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 0,
+		"NeedTerminalLevel": 5,
+		"CostMaterialList": [
+			{
+				"CostNum": 300,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Delivery_02",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0,
+		"ProgressPanelHeight": 0,
+		"DataImpl": {},
+		"MainID": 75,
+		"Level": 1
+	},
+	{
+		"BuildingType": 6,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 0,
+		"NeedTerminalLevel": 0,
+		"CostMaterialList": [],
+		"PrefabPath": "",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Delivery_01",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0,
+		"ProgressPanelHeight": 0,
+		"DataImpl": {},
+		"MainID": 76,
+		"Level": 0
+	},
+	{
+		"BuildingType": 6,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 0,
+		"NeedTerminalLevel": 10,
+		"CostMaterialList": [
+			{
+				"CostNum": 300,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Delivery_02",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0,
+		"ProgressPanelHeight": 0,
+		"DataImpl": {},
+		"MainID": 76,
+		"Level": 1
+	},
+	{
+		"BuildingType": 6,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 0,
+		"NeedTerminalLevel": 0,
+		"CostMaterialList": [],
+		"PrefabPath": "",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Delivery_01",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0,
+		"ProgressPanelHeight": 0,
+		"DataImpl": {},
+		"MainID": 80,
+		"Level": 0
+	},
+	{
+		"BuildingType": 6,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 0,
+		"NeedTerminalLevel": 0,
+		"CostMaterialList": [
+			{
+				"CostNum": 500,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Delivery_02",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0,
+		"ProgressPanelHeight": 0,
+		"DataImpl": {},
+		"MainID": 80,
+		"Level": 1
+	},
+	{
+		"BuildingType": 6,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 0,
+		"NeedTerminalLevel": 0,
+		"CostMaterialList": [],
+		"PrefabPath": "",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Delivery_01",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0,
+		"ProgressPanelHeight": 0,
+		"DataImpl": {},
+		"MainID": 81,
+		"Level": 0
+	},
+	{
+		"BuildingType": 6,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 0,
+		"NeedTerminalLevel": 10,
+		"CostMaterialList": [
+			{
+				"CostNum": 500,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Delivery_02",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0,
+		"ProgressPanelHeight": 0,
+		"DataImpl": {},
+		"MainID": 81,
+		"Level": 1
+	},
+	{
+		"BuildingType": 6,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 0,
+		"NeedTerminalLevel": 0,
+		"CostMaterialList": [],
+		"PrefabPath": "",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Delivery_01",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0,
+		"ProgressPanelHeight": 0,
+		"DataImpl": {},
+		"MainID": 82,
+		"Level": 0
+	},
+	{
+		"BuildingType": 6,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 0,
+		"NeedTerminalLevel": 9,
+		"CostMaterialList": [
+			{
+				"CostNum": 500,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Delivery_02",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0,
+		"ProgressPanelHeight": 0,
+		"DataImpl": {},
+		"MainID": 82,
+		"Level": 1
+	},
+	{
+		"BuildingType": 6,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 0,
+		"NeedTerminalLevel": 0,
+		"CostMaterialList": [],
+		"PrefabPath": "",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Delivery_01",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0,
+		"ProgressPanelHeight": 0,
+		"DataImpl": {},
+		"MainID": 83,
+		"Level": 0
+	},
+	{
+		"BuildingType": 6,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 0,
+		"NeedTerminalLevel": 5,
+		"CostMaterialList": [
+			{
+				"CostNum": 500,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Delivery_02",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0,
+		"ProgressPanelHeight": 0,
+		"DataImpl": {},
+		"MainID": 83,
+		"Level": 1
+	},
+	{
+		"BuildingType": 6,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 0,
+		"NeedTerminalLevel": 0,
+		"CostMaterialList": [],
+		"PrefabPath": "",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Delivery_01",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0,
+		"ProgressPanelHeight": 0,
+		"DataImpl": {},
+		"MainID": 84,
+		"Level": 0
+	},
+	{
+		"BuildingType": 6,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 0,
+		"NeedTerminalLevel": 8,
+		"CostMaterialList": [
+			{
+				"CostNum": 500,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Delivery_02",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0,
+		"ProgressPanelHeight": 0,
+		"DataImpl": {},
+		"MainID": 84,
+		"Level": 1
+	},
+	{
+		"BuildingType": 6,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 0,
+		"NeedTerminalLevel": 0,
+		"CostMaterialList": [],
+		"PrefabPath": "",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Delivery_01",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0,
+		"ProgressPanelHeight": 0,
+		"DataImpl": {},
+		"MainID": 85,
+		"Level": 0
+	},
+	{
+		"BuildingType": 6,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 0,
+		"NeedTerminalLevel": 15,
+		"CostMaterialList": [
+			{
+				"CostNum": 500,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Delivery_02",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0,
+		"ProgressPanelHeight": 0,
+		"DataImpl": {},
+		"MainID": 85,
+		"Level": 1
+	},
+	{
+		"BuildingType": 6,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 0,
+		"NeedTerminalLevel": 0,
+		"CostMaterialList": [],
+		"PrefabPath": "",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Delivery_01",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0,
+		"ProgressPanelHeight": 0,
+		"DataImpl": {},
+		"MainID": 86,
+		"Level": 0
+	},
+	{
+		"BuildingType": 6,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 0,
+		"NeedTerminalLevel": 11,
+		"CostMaterialList": [
+			{
+				"CostNum": 500,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Delivery_02",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0,
+		"ProgressPanelHeight": 0,
+		"DataImpl": {},
+		"MainID": 86,
+		"Level": 1
+	},
+	{
+		"BuildingType": 6,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 0,
+		"NeedTerminalLevel": 0,
+		"CostMaterialList": [],
+		"PrefabPath": "",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Delivery_01",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0,
+		"ProgressPanelHeight": 0,
+		"DataImpl": {},
+		"MainID": 87,
+		"Level": 0
+	},
+	{
+		"BuildingType": 6,
+		"Tips": {
+			"hash": 0
+		},
+		"CostTime": 0,
+		"NeedTerminalLevel": 13,
+		"CostMaterialList": [
+			{
+				"CostNum": 500,
+				"MaterialID": 122321
+			}
+		],
+		"PrefabPath": "",
+		"UpgradeAddPrefabList": [],
+		"UpgradeAddPathList": [],
+		"UpgradeOpenPathList": [],
+		"UpgradeClosePathList": [],
+		"AnimPathList": [],
+		"IconPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Delivery_02",
+		"RemindTipsList": [],
+		"ProgressPanelRadius": 0,
+		"ProgressPanelHeight": 0,
+		"DataImpl": {},
+		"MainID": 87,
+		"Level": 1
+	}
+]

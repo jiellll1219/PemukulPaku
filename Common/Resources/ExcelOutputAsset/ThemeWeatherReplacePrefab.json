@@ -1,0 +1,143 @@
+[
+	{
+		"ReplacePrefabPath": "Stage/MainMenu_SpaceShip/Taixu/MainMenu_SpaceShip",
+		"TimeCondition": [
+			{
+				"EndDayTime": 24,
+				"StartDayTime": 0
+			}
+		],
+		"RealTimeWeatherCondition": [
+			0,
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8
+		],
+		"DataImpl": {},
+		"ReplacePrefabConfigID": 4
+	},
+	{
+		"ReplacePrefabPath": "Stage/MainMenu_SpaceShip/Taixu/MainMenu_SpaceShip_Night",
+		"TimeCondition": [
+			{
+				"EndDayTime": 24,
+				"StartDayTime": 19
+			},
+			{
+				"EndDayTime": 6,
+				"StartDayTime": 0
+			}
+		],
+		"RealTimeWeatherCondition": [
+			0,
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8
+		],
+		"DataImpl": {},
+		"ReplacePrefabConfigID": 5
+	},
+	{
+		"ReplacePrefabPath": "Stage/MainMenu_ArcCity/MainMenu_SpaceShip_ArcCity",
+		"TimeCondition": [
+			{
+				"EndDayTime": 24,
+				"StartDayTime": 0
+			}
+		],
+		"RealTimeWeatherCondition": [
+			0,
+			1,
+			2,
+			3,
+			5,
+			6,
+			7
+		],
+		"DataImpl": {},
+		"ReplacePrefabConfigID": 6
+	},
+	{
+		"ReplacePrefabPath": "Stage/MainMenu_ArcCity/MainMenu_SpaceShip_ArcCity_Rain",
+		"TimeCondition": [
+			{
+				"EndDayTime": 24,
+				"StartDayTime": 0
+			}
+		],
+		"RealTimeWeatherCondition": [
+			4,
+			8
+		],
+		"DataImpl": {},
+		"ReplacePrefabConfigID": 7
+	},
+	{
+		"ReplacePrefabPath": "Stage/MainMenu_ElysionBoss/MainMenu_SpaceShip_ElysionBoss",
+		"TimeCondition": [
+			{
+				"EndDayTime": 24,
+				"StartDayTime": 0
+			}
+		],
+		"RealTimeWeatherCondition": [
+			4,
+			8
+		],
+		"DataImpl": {},
+		"ReplacePrefabConfigID": 8
+	},
+	{
+		"ReplacePrefabPath": "Stage/MainMenu_KevinBoss/MainMenu_KevinBoss",
+		"TimeCondition": [
+			{
+				"EndDayTime": 24,
+				"StartDayTime": 0
+			}
+		],
+		"RealTimeWeatherCondition": [
+			0
+		],
+		"DataImpl": {},
+		"ReplacePrefabConfigID": 9
+	},
+	{
+		"ReplacePrefabPath": "Stage/MainMenu_KevinBoss/MainMenu_KevinBoss_Destroy",
+		"TimeCondition": [
+			{
+				"EndDayTime": 24,
+				"StartDayTime": 0
+			}
+		],
+		"RealTimeWeatherCondition": [
+			0
+		],
+		"DataImpl": {},
+		"ReplacePrefabConfigID": 10
+	},
+	{
+		"ReplacePrefabPath": "Stage/MainMenu_Subway/MainMenu_SpaceShip",
+		"TimeCondition": [
+			{
+				"EndDayTime": 24,
+				"StartDayTime": 0
+			}
+		],
+		"RealTimeWeatherCondition": [
+			2,
+			8
+		],
+		"DataImpl": {},
+		"ReplacePrefabConfigID": 11
+	}
+]

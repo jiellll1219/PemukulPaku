@@ -1,0 +1,324 @@
+[
+	{
+		"BeginTime": "2022-09-08 04:00:00",
+		"EndTime": "2022-09-15 03:59:59",
+		"MinLevel": 50,
+		"UIConfigID": 1,
+		"StageGroupConfigID": 1,
+		"BuffGroupConfigID": 1,
+		"CoreBuff": [
+			1101,
+			2101,
+			3101,
+			4101
+		],
+		"MaxCoreBuffNum": 2,
+		"SlotNumPreSiteList": [
+			{
+				"BuffLimit": 6,
+				"SiteID": 0
+			}
+		],
+		"RewardLineID": 3,
+		"Mission": [
+			115391,
+			115392,
+			115393,
+			115394,
+			115395,
+			115396,
+			115397,
+			115398,
+			115399,
+			115400,
+			115401,
+			115402,
+			115403,
+			115404,
+			115405,
+			115406,
+			115407,
+			115408,
+			115409,
+			115410
+		],
+		"ActivityMaterialID": 125191,
+		"MaterialID": [
+			125191
+		],
+		"EntryShowType": 1,
+		"TutorialStage": 10302024,
+		"DataImpl": {},
+		"ScheduleID": 1
+	},
+	{
+		"BeginTime": "2022-11-24 04:00:00",
+		"EndTime": "2022-12-08 03:59:59",
+		"MinLevel": 50,
+		"UIConfigID": 1,
+		"StageGroupConfigID": 1,
+		"BuffGroupConfigID": 1,
+		"CoreBuff": [
+			1101,
+			2101,
+			3101,
+			4101
+		],
+		"MaxCoreBuffNum": 2,
+		"SlotNumPreSiteList": [
+			{
+				"BuffLimit": 6,
+				"SiteID": 0
+			}
+		],
+		"RewardLineID": 3,
+		"Mission": [
+			672669,
+			672670,
+			672678,
+			672671,
+			672679,
+			672672,
+			672680,
+			672673,
+			672681,
+			672674,
+			672677,
+			672682,
+			672683,
+			672684,
+			672685,
+			672686,
+			672687
+		],
+		"ActivityMaterialID": 125191,
+		"MaterialID": [
+			125191
+		],
+		"EntryShowType": 1,
+		"TutorialStage": 10302024,
+		"DataImpl": {},
+		"ScheduleID": 10
+	},
+	{
+		"BeginTime": "2022-12-26 10:00:00",
+		"EndTime": "2023-01-09 03:59:59",
+		"MinLevel": 50,
+		"UIConfigID": 1,
+		"StageGroupConfigID": 2,
+		"BuffGroupConfigID": 2,
+		"CoreBuff": [
+			6101,
+			2101,
+			7101,
+			1101
+		],
+		"MaxCoreBuffNum": 2,
+		"SlotNumPreSiteList": [
+			{
+				"BuffLimit": 6,
+				"SiteID": 0
+			}
+		],
+		"RewardLineID": 5,
+		"Mission": [
+			672825,
+			672826,
+			672827,
+			672828,
+			672829,
+			672832,
+			672833,
+			672834,
+			672835,
+			672836,
+			672837
+		],
+		"ActivityMaterialID": 125191,
+		"MaterialID": [
+			125191
+		],
+		"EntryShowType": 1,
+		"TutorialStage": 10302024,
+		"DataImpl": {},
+		"ScheduleID": 20
+	},
+	{
+		"BeginTime": "2023-02-02 10:00:00",
+		"EndTime": "2023-02-16 03:59:59",
+		"MinLevel": 50,
+		"UIConfigID": 1,
+		"StageGroupConfigID": 3,
+		"BuffGroupConfigID": 3,
+		"CoreBuff": [
+			9101,
+			8101,
+			1101,
+			3101
+		],
+		"MaxCoreBuffNum": 2,
+		"SlotNumPreSiteList": [
+			{
+				"BuffLimit": 6,
+				"SiteID": 0
+			}
+		],
+		"RewardLineID": 6,
+		"Mission": [
+			676012,
+			676013,
+			676014,
+			676015,
+			676016,
+			676017,
+			676018,
+			676019,
+			676020,
+			676021,
+			676022,
+			676023
+		],
+		"ActivityMaterialID": 125191,
+		"MaterialID": [
+			125191
+		],
+		"EntryShowType": 1,
+		"TutorialStage": 10302024,
+		"DataImpl": {},
+		"ScheduleID": 30
+	},
+	{
+		"BeginTime": "2023-03-23 10:00:00",
+		"EndTime": "2023-04-06 03:59:59",
+		"MinLevel": 50,
+		"UIConfigID": 1,
+		"StageGroupConfigID": 4,
+		"BuffGroupConfigID": 4,
+		"CoreBuff": [
+			10101,
+			4101,
+			11101,
+			3101
+		],
+		"MaxCoreBuffNum": 2,
+		"SlotNumPreSiteList": [
+			{
+				"BuffLimit": 6,
+				"SiteID": 0
+			}
+		],
+		"RewardLineID": 8,
+		"Mission": [
+			676333,
+			676389,
+			676334,
+			676335,
+			676390,
+			676336,
+			676337,
+			676338,
+			676339,
+			676340,
+			676341,
+			676342,
+			676343,
+			676344
+		],
+		"ActivityMaterialID": 125191,
+		"MaterialID": [
+			125191
+		],
+		"EntryShowType": 1,
+		"TutorialStage": 10302024,
+		"DataImpl": {},
+		"ScheduleID": 40
+	},
+	{
+		"BeginTime": "2023-05-04 10:00:00",
+		"EndTime": "2023-05-18 03:59:59",
+		"MinLevel": 50,
+		"UIConfigID": 1,
+		"StageGroupConfigID": 5,
+		"BuffGroupConfigID": 5,
+		"CoreBuff": [
+			1101,
+			3101,
+			6101,
+			10101
+		],
+		"MaxCoreBuffNum": 2,
+		"SlotNumPreSiteList": [
+			{
+				"BuffLimit": 6,
+				"SiteID": 0
+			}
+		],
+		"RewardLineID": 9,
+		"Mission": [
+			676577,
+			676578,
+			676579,
+			676580,
+			676581,
+			676582,
+			676583,
+			676584,
+			676585,
+			676586,
+			676587,
+			676588
+		],
+		"ActivityMaterialID": 125191,
+		"MaterialID": [
+			125191
+		],
+		"EntryShowType": 1,
+		"TutorialStage": 10302024,
+		"DataImpl": {},
+		"ScheduleID": 50
+	},
+	{
+		"BeginTime": "2023-06-15 10:00:00",
+		"EndTime": "2023-06-29 03:59:59",
+		"MinLevel": 50,
+		"UIConfigID": 1,
+		"StageGroupConfigID": 6,
+		"BuffGroupConfigID": 6,
+		"CoreBuff": [
+			2101,
+			9101,
+			6101,
+			8101
+		],
+		"MaxCoreBuffNum": 2,
+		"SlotNumPreSiteList": [
+			{
+				"BuffLimit": 6,
+				"SiteID": 0
+			}
+		],
+		"RewardLineID": 8,
+		"Mission": [
+			677010,
+			677011,
+			677012,
+			677013,
+			677014,
+			677015,
+			677016,
+			677017,
+			677018,
+			677019,
+			677020,
+			677021
+		],
+		"ActivityMaterialID": 125191,
+		"MaterialID": [
+			125191
+		],
+		"EntryShowType": 1,
+		"TutorialStage": 10302024,
+		"DataImpl": {},
+		"ScheduleID": 60
+	}
+]

@@ -1,0 +1,50 @@
+[
+	{
+		"Key": 1,
+		"ConditionType": 4,
+		"Param": 0,
+		"AutoDisablePlayerControl": true,
+		"DataImpl": {},
+		"ValueTriggerID": 1
+	},
+	{
+		"Key": 1,
+		"ConditionType": 5,
+		"Param": 2,
+		"AutoDisablePlayerControl": false,
+		"DataImpl": {},
+		"ValueTriggerID": 2
+	},
+	{
+		"Key": 1,
+		"ConditionType": 5,
+		"Param": 1,
+		"AutoDisablePlayerControl": false,
+		"DataImpl": {},
+		"ValueTriggerID": 3
+	},
+	{
+		"Key": 3,
+		"ConditionType": 2,
+		"Param": 0,
+		"AutoDisablePlayerControl": false,
+		"DataImpl": {},
+		"ValueTriggerID": 4
+	},
+	{
+		"Key": 4,
+		"ConditionType": 2,
+		"Param": 0,
+		"AutoDisablePlayerControl": false,
+		"DataImpl": {},
+		"ValueTriggerID": 5
+	},
+	{
+		"Key": 5,
+		"ConditionType": 2,
+		"Param": 0,
+		"AutoDisablePlayerControl": false,
+		"DataImpl": {},
+		"ValueTriggerID": 6
+	}
+]

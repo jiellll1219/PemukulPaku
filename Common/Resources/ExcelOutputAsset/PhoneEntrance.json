@@ -1,0 +1,429 @@
+[
+	{
+		"BtnType": 1,
+		"EntranceBeginTime": "2017-10-30 04:00:00",
+		"EntranceEndTime": "2029-05-15 04:00:00",
+		"Weight": 15,
+		"UrlType": 0,
+		"LinkUrl": "",
+		"LinkType": 70,
+		"LinkParams": "0",
+		"EntranceText": {
+			"hash": 1460557660
+		},
+		"EntranceIconPath": "SpriteOutput/PhoneAppIcon/IconAppColletion",
+		"RedHintType": 1,
+		"RedHintUiType": 1,
+		"RedHintMainPage": 1,
+		"MinLv": 6,
+		"MaxLv": 99,
+		"ChannelSettingType": 0,
+		"UIOverrideItemList": [
+			11,
+			52,
+			53
+		],
+		"DataImpl": {},
+		"EntranceId": 101
+	},
+	{
+		"BtnType": 1,
+		"EntranceBeginTime": "2017-10-30 04:00:00",
+		"EntranceEndTime": "2029-05-15 04:00:00",
+		"Weight": 18,
+		"UrlType": 0,
+		"LinkUrl": "",
+		"LinkType": 70,
+		"LinkParams": "6",
+		"EntranceText": {
+			"hash": 1460557661
+		},
+		"EntranceIconPath": "SpriteOutput/PhoneAppIcon/IconAppAchievement",
+		"RedHintType": 13,
+		"RedHintUiType": 1,
+		"RedHintMainPage": 1,
+		"MinLv": 6,
+		"MaxLv": 99,
+		"ChannelSettingType": 0,
+		"UIOverrideItemList": [
+			12,
+			52,
+			53
+		],
+		"DataImpl": {},
+		"EntranceId": 102
+	},
+	{
+		"BtnType": 2,
+		"EntranceBeginTime": "2017-10-30 04:00:00",
+		"EntranceEndTime": "2029-05-15 04:00:00",
+		"Weight": 1,
+		"UrlType": 1,
+		"LinkUrl": "https://webstatic-sea.hoyoverse.com/csc-service-center-fe/index.html?sign_type=2&auth_appid=csc&authkey_ver=1&win_direction=portrait&page_id=6&game_biz=bh3_os",
+		"LinkType": 0,
+		"LinkParams": "",
+		"EntranceText": {
+			"hash": 1460557662
+		},
+		"EntranceIconPath": "SpriteOutput/PhoneAppIcon/IconAppAichanAssis",
+		"RedHintType": 17,
+		"RedHintUiType": 1,
+		"RedHintMainPage": 1,
+		"MinLv": 6,
+		"MaxLv": 99,
+		"ChannelSettingType": 0,
+		"UIOverrideItemList": [
+			13,
+			52,
+			53
+		],
+		"DataImpl": {},
+		"EntranceId": 103
+	},
+	{
+		"BtnType": 2,
+		"EntranceBeginTime": "2017-10-30 04:00:00",
+		"EntranceEndTime": "2029-05-15 04:00:00",
+		"Weight": 12,
+		"UrlType": 0,
+		"LinkUrl": "",
+		"LinkType": 35,
+		"LinkParams": "",
+		"EntranceText": {
+			"hash": 1460557668
+		},
+		"EntranceIconPath": "SpriteOutput/PhoneAppIcon/IconAppNotice",
+		"RedHintType": 9,
+		"RedHintUiType": 2,
+		"RedHintMainPage": 0,
+		"MinLv": 6,
+		"MaxLv": 99,
+		"ChannelSettingType": 0,
+		"UIOverrideItemList": [
+			27,
+			52,
+			53
+		],
+		"DataImpl": {},
+		"EntranceId": 109
+	},
+	{
+		"BtnType": 2,
+		"EntranceBeginTime": "2020-08-20 10:00:00",
+		"EntranceEndTime": "2020-09-26 04:00:00",
+		"Weight": 6,
+		"UrlType": 0,
+		"LinkUrl": "",
+		"LinkType": 59,
+		"LinkParams": "",
+		"EntranceText": {
+			"hash": 1460557695
+		},
+		"EntranceIconPath": "SpriteOutput/PhoneAppIcon/IconAppVersion",
+		"RedHintType": 10,
+		"RedHintUiType": 2,
+		"RedHintMainPage": 0,
+		"MinLv": 6,
+		"MaxLv": 99,
+		"ChannelSettingType": 0,
+		"UIOverrideItemList": [
+			35,
+			52,
+			53
+		],
+		"DataImpl": {},
+		"EntranceId": 115
+	},
+	{
+		"BtnType": 2,
+		"EntranceBeginTime": "2017-10-30 04:00:00",
+		"EntranceEndTime": "2029-05-15 04:00:00",
+		"Weight": 9,
+		"UrlType": 1,
+		"LinkUrl": "https://act.hoyoverse.com/bh3/event/around-event-sea/index.html?sign_type=2&authkey_ver=1&auth_appid=im_css&game_biz=bh3_os",
+		"LinkType": 0,
+		"LinkParams": "",
+		"EntranceText": {
+			"hash": 1460557721
+		},
+		"EntranceIconPath": "SpriteOutput/PhoneAppIcon/IconAppReward",
+		"RedHintType": 3,
+		"RedHintUiType": 2,
+		"RedHintMainPage": 1,
+		"MinLv": 6,
+		"MaxLv": 99,
+		"ChannelSettingType": 0,
+		"UIOverrideItemList": [
+			32,
+			52,
+			53
+		],
+		"DataImpl": {},
+		"EntranceId": 120
+	},
+	{
+		"BtnType": 2,
+		"EntranceBeginTime": "2017-10-30 04:00:00",
+		"EntranceEndTime": "2029-05-15 04:00:00",
+		"Weight": 15,
+		"UrlType": 0,
+		"LinkUrl": "",
+		"LinkType": 116,
+		"LinkParams": "0",
+		"EntranceText": {
+			"hash": 1460557724
+		},
+		"EntranceIconPath": "SpriteOutput/PhoneAppIcon/IconAppDownload",
+		"RedHintType": 15,
+		"RedHintUiType": 1,
+		"RedHintMainPage": 1,
+		"MinLv": 6,
+		"MaxLv": 99,
+		"ChannelSettingType": 0,
+		"UIOverrideItemList": [
+			18,
+			52,
+			53
+		],
+		"DataImpl": {},
+		"EntranceId": 123
+	},
+	{
+		"BtnType": 2,
+		"EntranceBeginTime": "2017-10-30 04:00:00",
+		"EntranceEndTime": "2029-05-15 04:00:00",
+		"Weight": 7,
+		"UrlType": 0,
+		"LinkUrl": "",
+		"LinkType": 117,
+		"LinkParams": "0",
+		"EntranceText": {
+			"hash": 1460557725
+		},
+		"EntranceIconPath": "SpriteOutput/PhoneAppIcon/IconSuperSignIn",
+		"RedHintType": 16,
+		"RedHintUiType": 3,
+		"RedHintMainPage": 1,
+		"MinLv": 60,
+		"MaxLv": 99,
+		"ChannelSettingType": 0,
+		"UIOverrideItemList": [
+			54,
+			52,
+			53
+		],
+		"DataImpl": {},
+		"EntranceId": 124
+	},
+	{
+		"BtnType": 2,
+		"EntranceBeginTime": "2017-10-30 04:00:00",
+		"EntranceEndTime": "2029-05-15 04:00:00",
+		"Weight": 10,
+		"UrlType": 2,
+		"LinkUrl": "https://www.youtube.com/channel/UCko6H6LokKM__B03i5_vBQQ",
+		"LinkType": 0,
+		"LinkParams": "",
+		"EntranceText": {
+			"hash": 1460557754
+		},
+		"EntranceIconPath": "SpriteOutput/PhoneAppIcon/IconAppYouTube",
+		"RedHintType": 5,
+		"RedHintUiType": 2,
+		"RedHintMainPage": 0,
+		"MinLv": 6,
+		"MaxLv": 99,
+		"ChannelSettingType": 0,
+		"UIOverrideItemList": [
+			38,
+			52,
+			53
+		],
+		"DataImpl": {},
+		"EntranceId": 132
+	},
+	{
+		"BtnType": 2,
+		"EntranceBeginTime": "2017-10-30 04:00:00",
+		"EntranceEndTime": "2029-05-15 04:00:00",
+		"Weight": 10,
+		"UrlType": 2,
+		"LinkUrl": "https://www.instagram.com/honkaiimpact3rd/",
+		"LinkType": 0,
+		"LinkParams": "",
+		"EntranceText": {
+			"hash": 1460557755
+		},
+		"EntranceIconPath": "SpriteOutput/PhoneAppIcon/IconAppInstagram",
+		"RedHintType": 5,
+		"RedHintUiType": 2,
+		"RedHintMainPage": 0,
+		"MinLv": 6,
+		"MaxLv": 99,
+		"ChannelSettingType": 0,
+		"UIOverrideItemList": [
+			24,
+			52,
+			53
+		],
+		"DataImpl": {},
+		"EntranceId": 133
+	},
+	{
+		"BtnType": 2,
+		"EntranceBeginTime": "2017-10-30 04:00:00",
+		"EntranceEndTime": "2029-05-15 04:00:00",
+		"Weight": 10,
+		"UrlType": 2,
+		"LinkUrl": "https://twitter.com/HonkaiImpact3rd",
+		"LinkType": 0,
+		"LinkParams": "",
+		"EntranceText": {
+			"hash": 1460557756
+		},
+		"EntranceIconPath": "SpriteOutput/PhoneAppIcon/IconAppTwitter",
+		"RedHintType": 5,
+		"RedHintUiType": 2,
+		"RedHintMainPage": 0,
+		"MinLv": 6,
+		"MaxLv": 99,
+		"ChannelSettingType": 0,
+		"UIOverrideItemList": [
+			34,
+			52,
+			53
+		],
+		"DataImpl": {},
+		"EntranceId": 134
+	},
+	{
+		"BtnType": 2,
+		"EntranceBeginTime": "2017-10-30 04:00:00",
+		"EntranceEndTime": "2029-05-15 04:00:00",
+		"Weight": 10,
+		"UrlType": 2,
+		"LinkUrl": "https://discord.com/invite/hi3",
+		"LinkType": 0,
+		"LinkParams": "",
+		"EntranceText": {
+			"hash": 1460557757
+		},
+		"EntranceIconPath": "SpriteOutput/PhoneAppIcon/IconAppDiscord",
+		"RedHintType": 5,
+		"RedHintUiType": 2,
+		"RedHintMainPage": 0,
+		"MinLv": 6,
+		"MaxLv": 99,
+		"ChannelSettingType": 0,
+		"UIOverrideItemList": [
+			17,
+			52,
+			53
+		],
+		"DataImpl": {},
+		"EntranceId": 135
+	},
+	{
+		"BtnType": 2,
+		"EntranceBeginTime": "2017-10-30 04:00:00",
+		"EntranceEndTime": "2029-05-15 04:00:00",
+		"Weight": 13,
+		"UrlType": 2,
+		"LinkUrl": "https://honkaiimpact3.hoyoverse.com/asia",
+		"LinkType": 0,
+		"LinkParams": "",
+		"EntranceText": {
+			"hash": 1460557758
+		},
+		"EntranceIconPath": "SpriteOutput/PhoneAppIcon/IconAppHoyoverse",
+		"RedHintType": 11,
+		"RedHintUiType": 2,
+		"RedHintMainPage": 1,
+		"MinLv": 6,
+		"MaxLv": 99,
+		"ChannelSettingType": 0,
+		"UIOverrideItemList": [
+			23,
+			52,
+			53
+		],
+		"DataImpl": {},
+		"EntranceId": 136
+	},
+	{
+		"BtnType": 2,
+		"EntranceBeginTime": "2017-10-30 04:00:00",
+		"EntranceEndTime": "2029-05-15 04:00:00",
+		"Weight": 12,
+		"UrlType": 2,
+		"LinkUrl": "https://www.tiktok.com/@honkaiimpact3rden",
+		"LinkType": 0,
+		"LinkParams": "",
+		"EntranceText": {
+			"hash": 1460557786
+		},
+		"EntranceIconPath": "SpriteOutput/PhoneAppIcon/IconAppTikTok",
+		"RedHintType": 5,
+		"RedHintUiType": 2,
+		"RedHintMainPage": 0,
+		"MinLv": 1,
+		"MaxLv": 99,
+		"ChannelSettingType": 0,
+		"UIOverrideItemList": [
+			33,
+			52,
+			53
+		],
+		"DataImpl": {},
+		"EntranceId": 143
+	},
+	{
+		"BtnType": 2,
+		"EntranceBeginTime": "2017-10-30 04:00:00",
+		"EntranceEndTime": "2029-05-15 04:00:00",
+		"Weight": 15,
+		"UrlType": 0,
+		"LinkUrl": "",
+		"LinkType": 150,
+		"LinkParams": "0",
+		"EntranceText": {
+			"hash": 1460557789
+		},
+		"EntranceIconPath": "SpriteOutput/PhoneAppIcon/IconAppDownload",
+		"RedHintType": 18,
+		"RedHintUiType": 1,
+		"RedHintMainPage": 1,
+		"MinLv": 1,
+		"MaxLv": 99,
+		"ChannelSettingType": 0,
+		"UIOverrideItemList": [],
+		"DataImpl": {},
+		"EntranceId": 146
+	},
+	{
+		"BtnType": 2,
+		"EntranceBeginTime": "2022-08-20 12:00:00",
+		"EntranceEndTime": "2022-09-05 04:00:00",
+		"Weight": 1,
+		"UrlType": 2,
+		"LinkUrl": "https://youtu.be/MbaoCMI9z5E",
+		"LinkType": 0,
+		"LinkParams": "",
+		"EntranceText": {
+			"hash": -858215211
+		},
+		"EntranceIconPath": "event/Immediately/PhonePage/5.9_IconAppConcert",
+		"RedHintType": 5,
+		"RedHintUiType": 2,
+		"RedHintMainPage": 0,
+		"MinLv": 1,
+		"MaxLv": 99,
+		"ChannelSettingType": 0,
+		"UIOverrideItemList": [
+			52,
+			53
+		],
+		"DataImpl": {},
+		"EntranceId": 16000
+	}
+]

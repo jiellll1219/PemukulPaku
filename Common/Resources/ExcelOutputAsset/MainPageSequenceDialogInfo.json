@@ -1,0 +1,368 @@
+[
+	{
+		"priority": 3200,
+		"checkType": [
+			1
+		],
+		"showType": 1,
+		"review": false,
+		"NewbieGuide": false,
+		"DataImpl": {},
+		"name": "AccountBindTip"
+	},
+	{
+		"priority": 5000,
+		"checkType": [
+			1,
+			2
+		],
+		"showType": 3,
+		"review": false,
+		"NewbieGuide": false,
+		"DataImpl": {},
+		"name": "AccoutBindForGovernment"
+	},
+	{
+		"priority": 700,
+		"checkType": [
+			1,
+			2
+		],
+		"showType": 2,
+		"review": false,
+		"NewbieGuide": false,
+		"DataImpl": {},
+		"name": "ActivityGift"
+	},
+	{
+		"priority": 500,
+		"checkType": [
+			1,
+			2
+		],
+		"showType": 2,
+		"review": false,
+		"NewbieGuide": false,
+		"DataImpl": {},
+		"name": "ActivityRemind"
+	},
+	{
+		"priority": 300,
+		"checkType": [
+			1,
+			2
+		],
+		"showType": 2,
+		"review": false,
+		"NewbieGuide": false,
+		"DataImpl": {},
+		"name": "AppStorePurchase"
+	},
+	{
+		"priority": 50,
+		"checkType": [
+			1,
+			2
+		],
+		"showType": 2,
+		"review": false,
+		"NewbieGuide": false,
+		"DataImpl": {},
+		"name": "AutoCG"
+	},
+	{
+		"priority": 3000,
+		"checkType": [
+			1,
+			2
+		],
+		"showType": 1,
+		"review": false,
+		"NewbieGuide": false,
+		"DataImpl": {},
+		"name": "Bulletin"
+	},
+	{
+		"priority": 2400,
+		"checkType": [
+			1,
+			2
+		],
+		"showType": 1,
+		"review": false,
+		"NewbieGuide": false,
+		"DataImpl": {},
+		"name": "CompetitionSeason"
+	},
+	{
+		"priority": 2100,
+		"checkType": [
+			1,
+			2
+		],
+		"showType": 1,
+		"review": false,
+		"NewbieGuide": false,
+		"DataImpl": {},
+		"name": "CompetitionSeasonSettle"
+	},
+	{
+		"priority": 3400,
+		"checkType": [
+			1
+		],
+		"showType": 1,
+		"review": false,
+		"NewbieGuide": false,
+		"DataImpl": {},
+		"name": "FeatureLimit"
+	},
+	{
+		"priority": 100,
+		"checkType": [
+			1,
+			2
+		],
+		"showType": 2,
+		"review": false,
+		"NewbieGuide": false,
+		"DataImpl": {},
+		"name": "FirstTimeGoback"
+	},
+	{
+		"priority": 3300,
+		"checkType": [
+			1
+		],
+		"showType": 1,
+		"review": false,
+		"NewbieGuide": false,
+		"DataImpl": {},
+		"name": "ForceRealNameVerify"
+	},
+	{
+		"priority": 2350,
+		"checkType": [
+			1,
+			2
+		],
+		"showType": 1,
+		"review": false,
+		"NewbieGuide": false,
+		"DataImpl": {},
+		"name": "GreedyEndlessRankSettlement"
+	},
+	{
+		"priority": 2500,
+		"checkType": [
+			1,
+			2
+		],
+		"showType": 1,
+		"review": false,
+		"NewbieGuide": false,
+		"DataImpl": {},
+		"name": "Integration"
+	},
+	{
+		"priority": 3100,
+		"checkType": [
+			1,
+			2
+		],
+		"showType": 1,
+		"review": false,
+		"NewbieGuide": false,
+		"DataImpl": {},
+		"name": "InviteHint"
+	},
+	{
+		"priority": 3500,
+		"checkType": [
+			1,
+			2
+		],
+		"showType": 1,
+		"review": false,
+		"NewbieGuide": false,
+		"DataImpl": {},
+		"name": "LevelBreak"
+	},
+	{
+		"priority": 5100,
+		"checkType": [
+			1,
+			2
+		],
+		"showType": 3,
+		"review": false,
+		"NewbieGuide": false,
+		"DataImpl": {},
+		"name": "MassiveWarReturn"
+	},
+	{
+		"priority": 5200,
+		"checkType": [
+			1,
+			2
+		],
+		"showType": 3,
+		"review": false,
+		"NewbieGuide": false,
+		"DataImpl": {},
+		"name": "MassiveWarReward"
+	},
+	{
+		"priority": 800,
+		"checkType": [
+			1,
+			2
+		],
+		"showType": 2,
+		"review": false,
+		"NewbieGuide": false,
+		"DataImpl": {},
+		"name": "MiHoYoSDKBulletin"
+	},
+	{
+		"priority": 2900,
+		"checkType": [
+			1,
+			2
+		],
+		"showType": 1,
+		"review": false,
+		"NewbieGuide": false,
+		"DataImpl": {},
+		"name": "NewAvatarVideo"
+	},
+	{
+		"priority": 400,
+		"checkType": [
+			1,
+			2
+		],
+		"showType": 2,
+		"review": false,
+		"NewbieGuide": false,
+		"DataImpl": {},
+		"name": "NewVersionPage"
+	},
+	{
+		"priority": 1000,
+		"checkType": [
+			1
+		],
+		"showType": 1,
+		"review": false,
+		"NewbieGuide": false,
+		"DataImpl": {},
+		"name": "NewbieActivityLoginPost"
+	},
+	{
+		"priority": 2700,
+		"checkType": [
+			1,
+			2
+		],
+		"showType": 1,
+		"review": false,
+		"NewbieGuide": false,
+		"DataImpl": {},
+		"name": "OWEndlessSettlemen"
+	},
+	{
+		"priority": 1200,
+		"checkType": [
+			1,
+			2
+		],
+		"showType": 1,
+		"review": false,
+		"NewbieGuide": false,
+		"DataImpl": {},
+		"name": "PriorityPlotMission"
+	},
+	{
+		"priority": 200,
+		"checkType": [
+			1,
+			2
+		],
+		"showType": 2,
+		"review": false,
+		"NewbieGuide": false,
+		"DataImpl": {},
+		"name": "RaffleHitFace"
+	},
+	{
+		"priority": 2800,
+		"checkType": [
+			1
+		],
+		"showType": 1,
+		"review": false,
+		"NewbieGuide": false,
+		"DataImpl": {},
+		"name": "SettingBirthday"
+	},
+	{
+		"priority": 2000,
+		"checkType": [
+			1,
+			2
+		],
+		"showType": 1,
+		"review": false,
+		"NewbieGuide": false,
+		"DataImpl": {},
+		"name": "ShopGiftGlobal"
+	},
+	{
+		"priority": 2600,
+		"checkType": [
+			1
+		],
+		"showType": 1,
+		"review": false,
+		"NewbieGuide": false,
+		"DataImpl": {},
+		"name": "TowerChallengeReward"
+	},
+	{
+		"priority": 600,
+		"checkType": [
+			1,
+			2
+		],
+		"showType": 2,
+		"review": false,
+		"NewbieGuide": false,
+		"DataImpl": {},
+		"name": "TriggleGiftDialog"
+	},
+	{
+		"priority": 2200,
+		"checkType": [
+			1,
+			2
+		],
+		"showType": 1,
+		"review": false,
+		"NewbieGuide": false,
+		"DataImpl": {},
+		"name": "UltraEndlessSeason"
+	},
+	{
+		"priority": 2300,
+		"checkType": [
+			1,
+			2
+		],
+		"showType": 1,
+		"review": false,
+		"NewbieGuide": false,
+		"DataImpl": {},
+		"name": "UltraEndlessSettlement"
+	}
+]

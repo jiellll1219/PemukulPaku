@@ -1,0 +1,781 @@
+[
+	{
+		"BuffType": 2,
+		"BuffName": {
+			"hash": -1284990519
+		},
+		"BuffDescription": {
+			"hash": -914537844
+		},
+		"BuffSimpleDescription": {
+			"hash": 34798046
+		},
+		"BuffIconPath": "SpriteOutput/Chapter29/BuffIcon/AssistDeBuff01",
+		"BuffStringName": "NewElysionEvent_ElementalShield",
+		"BuffParamList": [
+			"0.01",
+			"20"
+		],
+		"DataImpl": {},
+		"BuffID": 1
+	},
+	{
+		"BuffType": 2,
+		"BuffName": {
+			"hash": -1284990518
+		},
+		"BuffDescription": {
+			"hash": -914537843
+		},
+		"BuffSimpleDescription": {
+			"hash": 34798047
+		},
+		"BuffIconPath": "SpriteOutput/Chapter29/BuffIcon/AssistDeBuff02",
+		"BuffStringName": "NewElysionEvent_NormalShield",
+		"BuffParamList": [
+			"0.01",
+			"20"
+		],
+		"DataImpl": {},
+		"BuffID": 2
+	},
+	{
+		"BuffType": 2,
+		"BuffName": {
+			"hash": -1284990517
+		},
+		"BuffDescription": {
+			"hash": -914537842
+		},
+		"BuffSimpleDescription": {
+			"hash": 34798048
+		},
+		"BuffIconPath": "SpriteOutput/Chapter29/BuffIcon/AssistDeBuff03",
+		"BuffStringName": "NewElysionEvent_ShieldOnDMGUp",
+		"BuffParamList": [
+			"0.5"
+		],
+		"DataImpl": {},
+		"BuffID": 3
+	},
+	{
+		"BuffType": 2,
+		"BuffName": {
+			"hash": -1284990516
+		},
+		"BuffDescription": {
+			"hash": -914537841
+		},
+		"BuffSimpleDescription": {
+			"hash": 34798049
+		},
+		"BuffIconPath": "SpriteOutput/Chapter29/BuffIcon/AssistDeBuff04",
+		"BuffStringName": "NewElysionEvent_FlameShield",
+		"BuffParamList": [
+			"1"
+		],
+		"DataImpl": {},
+		"BuffID": 4
+	},
+	{
+		"BuffType": 2,
+		"BuffName": {
+			"hash": -1284990515
+		},
+		"BuffDescription": {
+			"hash": -914537840
+		},
+		"BuffSimpleDescription": {
+			"hash": 34798050
+		},
+		"BuffIconPath": "SpriteOutput/Chapter29/BuffIcon/AssistDeBuff05",
+		"BuffStringName": "NewElysionEvent_BasicImmune",
+		"BuffParamList": [],
+		"DataImpl": {},
+		"BuffID": 5
+	},
+	{
+		"BuffType": 1,
+		"BuffName": {
+			"hash": -504608886
+		},
+		"BuffDescription": {
+			"hash": -410368755
+		},
+		"BuffSimpleDescription": {
+			"hash": 1516873951
+		},
+		"BuffIconPath": "SpriteOutput/Chapter29/BuffIcon/AssistBuff01",
+		"BuffStringName": "NewElysionEvent_ReplaceOneDebuff",
+		"BuffParamList": [
+			"90"
+		],
+		"DataImpl": {},
+		"BuffID": 6
+	},
+	{
+		"BuffType": 1,
+		"BuffName": {
+			"hash": -504608885
+		},
+		"BuffDescription": {
+			"hash": -410368754
+		},
+		"BuffSimpleDescription": {
+			"hash": 1516873952
+		},
+		"BuffIconPath": "SpriteOutput/Chapter29/BuffIcon/AssistBuff02",
+		"BuffStringName": "NewElysionEvent_LightningDamageUp",
+		"BuffParamList": [
+			"1"
+		],
+		"DataImpl": {},
+		"BuffID": 7
+	},
+	{
+		"BuffType": 1,
+		"BuffName": {
+			"hash": -504608884
+		},
+		"BuffDescription": {
+			"hash": -410368753
+		},
+		"BuffSimpleDescription": {
+			"hash": 1516873953
+		},
+		"BuffIconPath": "SpriteOutput/Chapter29/BuffIcon/AssistBuff03",
+		"BuffStringName": "NewElysionEvent_BurningDamageUp",
+		"BuffParamList": [
+			"1"
+		],
+		"DataImpl": {},
+		"BuffID": 8
+	},
+	{
+		"BuffType": 1,
+		"BuffName": {
+			"hash": -504608883
+		},
+		"BuffDescription": {
+			"hash": -410368752
+		},
+		"BuffSimpleDescription": {
+			"hash": 1516873954
+		},
+		"BuffIconPath": "SpriteOutput/Chapter29/BuffIcon/AssistBuff04",
+		"BuffStringName": "NewElysionEvent_FrozeningDamageUp",
+		"BuffParamList": [
+			"1"
+		],
+		"DataImpl": {},
+		"BuffID": 9
+	},
+	{
+		"BuffType": 1,
+		"BuffName": {
+			"hash": -504608882
+		},
+		"BuffDescription": {
+			"hash": -410368751
+		},
+		"BuffSimpleDescription": {
+			"hash": 1516873955
+		},
+		"BuffIconPath": "SpriteOutput/Chapter29/BuffIcon/AssistBuff05",
+		"BuffStringName": "NewElysionEvent_NormalDamageUp",
+		"BuffParamList": [
+			"1"
+		],
+		"DataImpl": {},
+		"BuffID": 10
+	},
+	{
+		"BuffType": 2,
+		"BuffName": {
+			"hash": -385575891
+		},
+		"BuffDescription": {
+			"hash": -291335760
+		},
+		"BuffSimpleDescription": {
+			"hash": 1635906946
+		},
+		"BuffIconPath": "SpriteOutput/Chapter29/BuffIcon/AssistDeBuff06",
+		"BuffStringName": "NewElysionEvent_DeBuff_DMGTakenDown",
+		"BuffParamList": [
+			"0.2",
+			"0.5"
+		],
+		"DataImpl": {},
+		"BuffID": 11
+	},
+	{
+		"BuffType": 2,
+		"BuffName": {
+			"hash": -385575890
+		},
+		"BuffDescription": {
+			"hash": -291335759
+		},
+		"BuffSimpleDescription": {
+			"hash": 1635906947
+		},
+		"BuffIconPath": "SpriteOutput/Chapter29/BuffIcon/AssistDeBuff07",
+		"BuffStringName": "NewElysionEvent_20sec_LoseSP",
+		"BuffParamList": [
+			"20",
+			"10"
+		],
+		"DataImpl": {},
+		"BuffID": 12
+	},
+	{
+		"BuffType": 2,
+		"BuffName": {
+			"hash": -385575889
+		},
+		"BuffDescription": {
+			"hash": -291335758
+		},
+		"BuffSimpleDescription": {
+			"hash": 1635906948
+		},
+		"BuffIconPath": "SpriteOutput/Chapter29/BuffIcon/AssistDeBuff08",
+		"BuffStringName": "NewElysionEvent_TimeHalf",
+		"BuffParamList": [
+			"0.3"
+		],
+		"DataImpl": {},
+		"BuffID": 13
+	},
+	{
+		"BuffType": 2,
+		"BuffName": {
+			"hash": -385575888
+		},
+		"BuffDescription": {
+			"hash": -291335757
+		},
+		"BuffSimpleDescription": {
+			"hash": 1635906949
+		},
+		"BuffIconPath": "SpriteOutput/Chapter29/BuffIcon/AssistDeBuff09",
+		"BuffStringName": "NewElysionEvent_TimeHalf2",
+		"BuffParamList": [
+			"0.3"
+		],
+		"DataImpl": {},
+		"BuffID": 14
+	},
+	{
+		"BuffType": 2,
+		"BuffName": {
+			"hash": -385575887
+		},
+		"BuffDescription": {
+			"hash": -291335756
+		},
+		"BuffSimpleDescription": {
+			"hash": 1635906950
+		},
+		"BuffIconPath": "SpriteOutput/Chapter29/BuffIcon/AssistDeBuff10",
+		"BuffStringName": "NewElysionEvent_IsBlackIce",
+		"BuffParamList": [
+			"-0.0025",
+			"20"
+		],
+		"DataImpl": {},
+		"BuffID": 15
+	},
+	{
+		"BuffType": 1,
+		"BuffName": {
+			"hash": 1483390510
+		},
+		"BuffDescription": {
+			"hash": -983547791
+		},
+		"BuffSimpleDescription": {
+			"hash": -1173720893
+		},
+		"BuffIconPath": "SpriteOutput/Chapter29/BuffIcon/AssistBuff06",
+		"BuffStringName": "NewElysionEvent_DeBuff_DMGTakenUp",
+		"BuffParamList": [
+			"0.2",
+			"0.6"
+		],
+		"DataImpl": {},
+		"BuffID": 16
+	},
+	{
+		"BuffType": 1,
+		"BuffName": {
+			"hash": 1483390511
+		},
+		"BuffDescription": {
+			"hash": -983547790
+		},
+		"BuffSimpleDescription": {
+			"hash": -1173720892
+		},
+		"BuffIconPath": "SpriteOutput/Chapter29/BuffIcon/AssistBuff07",
+		"BuffStringName": "NewElysionEvent_AddVulnerableToMons",
+		"BuffParamList": [
+			"10",
+			"0.25"
+		],
+		"DataImpl": {},
+		"BuffID": 17
+	},
+	{
+		"BuffType": 1,
+		"BuffName": {
+			"hash": 1483390512
+		},
+		"BuffDescription": {
+			"hash": -983547789
+		},
+		"BuffSimpleDescription": {
+			"hash": -1173720891
+		},
+		"BuffIconPath": "SpriteOutput/Chapter29/BuffIcon/AssistBuff08",
+		"BuffStringName": "NewElysionEvent_OnkilledLDEvent",
+		"BuffParamList": [
+			"15"
+		],
+		"DataImpl": {},
+		"BuffID": 18
+	},
+	{
+		"BuffType": 1,
+		"BuffName": {
+			"hash": 1483390513
+		},
+		"BuffDescription": {
+			"hash": -983547788
+		},
+		"BuffSimpleDescription": {
+			"hash": -1173720890
+		},
+		"BuffIconPath": "SpriteOutput/Chapter29/BuffIcon/AssistBuff09",
+		"BuffStringName": "NewElysionEvent_AvatarKill_DMGUp",
+		"BuffParamList": [
+			"0.1"
+		],
+		"DataImpl": {},
+		"BuffID": 19
+	},
+	{
+		"BuffType": 1,
+		"BuffName": {
+			"hash": 1483390514
+		},
+		"BuffDescription": {
+			"hash": -983547787
+		},
+		"BuffSimpleDescription": {
+			"hash": -1173720889
+		},
+		"BuffIconPath": "SpriteOutput/Chapter29/BuffIcon/AssistBuff10",
+		"BuffStringName": "NewElysionEvent_OnBlackIce_DMGFixed",
+		"BuffParamList": [
+			"0.1"
+		],
+		"DataImpl": {},
+		"BuffID": 20
+	},
+	{
+		"BuffType": 2,
+		"BuffName": {
+			"hash": -1991015219
+		},
+		"BuffDescription": {
+			"hash": -1896775088
+		},
+		"BuffSimpleDescription": {
+			"hash": 30467618
+		},
+		"BuffIconPath": "SpriteOutput/Chapter29/BuffIcon/AssistDeBuff11",
+		"BuffStringName": "NewElysionEvent_AfterWeapon_DMGDown",
+		"BuffParamList": [],
+		"DataImpl": {},
+		"BuffID": 21
+	},
+	{
+		"BuffType": 2,
+		"BuffName": {
+			"hash": -1991015218
+		},
+		"BuffDescription": {
+			"hash": -1896775087
+		},
+		"BuffSimpleDescription": {
+			"hash": 30467619
+		},
+		"BuffIconPath": "SpriteOutput/Chapter29/BuffIcon/AssistDeBuff12",
+		"BuffStringName": "NewElysionEvent_AfterDock_DMGDown",
+		"BuffParamList": [],
+		"DataImpl": {},
+		"BuffID": 22
+	},
+	{
+		"BuffType": 2,
+		"BuffName": {
+			"hash": -1991015217
+		},
+		"BuffDescription": {
+			"hash": -1896775086
+		},
+		"BuffSimpleDescription": {
+			"hash": 30467620
+		},
+		"BuffIconPath": "SpriteOutput/Chapter29/BuffIcon/AssistDeBuff13",
+		"BuffStringName": "NewElysionEvent_MuteQTE",
+		"BuffParamList": [],
+		"DataImpl": {},
+		"BuffID": 23
+	},
+	{
+		"BuffType": 2,
+		"BuffName": {
+			"hash": -1991015216
+		},
+		"BuffDescription": {
+			"hash": -1896775085
+		},
+		"BuffSimpleDescription": {
+			"hash": 30467621
+		},
+		"BuffIconPath": "SpriteOutput/Chapter29/BuffIcon/AssistDeBuff14",
+		"BuffStringName": "NewElysionEvent_NoPets",
+		"BuffParamList": [],
+		"DataImpl": {},
+		"BuffID": 24
+	},
+	{
+		"BuffType": 2,
+		"BuffName": {
+			"hash": -1991015215
+		},
+		"BuffDescription": {
+			"hash": -1896775084
+		},
+		"BuffSimpleDescription": {
+			"hash": 30467622
+		},
+		"BuffIconPath": "SpriteOutput/Chapter29/BuffIcon/AssistDeBuff15",
+		"BuffStringName": "NewElysionEvent_OnBlackIce_DMGFixed02",
+		"BuffParamList": [
+			"-0.01"
+		],
+		"DataImpl": {},
+		"BuffID": 25
+	},
+	{
+		"BuffType": 1,
+		"BuffName": {
+			"hash": -122048818
+		},
+		"BuffDescription": {
+			"hash": 1705980177
+		},
+		"BuffSimpleDescription": {
+			"hash": 1515807075
+		},
+		"BuffIconPath": "SpriteOutput/Chapter29/BuffIcon/AssistBuff11",
+		"BuffStringName": "NewElysionEvent_ExtraDamage_WithWpnSkill",
+		"BuffParamList": [
+			"5"
+		],
+		"DataImpl": {},
+		"BuffID": 26
+	},
+	{
+		"BuffType": 1,
+		"BuffName": {
+			"hash": -122048817
+		},
+		"BuffDescription": {
+			"hash": 1705980178
+		},
+		"BuffSimpleDescription": {
+			"hash": 1515807076
+		},
+		"BuffIconPath": "SpriteOutput/Chapter29/BuffIcon/AssistBuff12",
+		"BuffStringName": "NewElysionEvent_EvadeSuccessSP_Ability",
+		"BuffParamList": [
+			"8"
+		],
+		"DataImpl": {},
+		"BuffID": 27
+	},
+	{
+		"BuffType": 1,
+		"BuffName": {
+			"hash": -122048816
+		},
+		"BuffDescription": {
+			"hash": 1705980179
+		},
+		"BuffSimpleDescription": {
+			"hash": 1515807077
+		},
+		"BuffIconPath": "SpriteOutput/Chapter29/BuffIcon/AssistBuff13",
+		"BuffStringName": "NewElysionEvent_Buff_QTEDMGUP",
+		"BuffParamList": [
+			"2"
+		],
+		"DataImpl": {},
+		"BuffID": 28
+	},
+	{
+		"BuffType": 1,
+		"BuffName": {
+			"hash": -122048815
+		},
+		"BuffDescription": {
+			"hash": 1705980180
+		},
+		"BuffSimpleDescription": {
+			"hash": 1515807078
+		},
+		"BuffIconPath": "SpriteOutput/Chapter29/BuffIcon/AssistDeBuff08",
+		"BuffStringName": "NewElysionEvent_PetSPRecover",
+		"BuffParamList": [
+			"-0.5",
+			"10"
+		],
+		"DataImpl": {},
+		"BuffID": 29
+	},
+	{
+		"BuffType": 1,
+		"BuffName": {
+			"hash": -122048814
+		},
+		"BuffDescription": {
+			"hash": 1705980181
+		},
+		"BuffSimpleDescription": {
+			"hash": 1515807079
+		},
+		"BuffIconPath": "SpriteOutput/Chapter29/BuffIcon/AssistBuff15",
+		"BuffStringName": "NewElysionEvent_DamageDouble",
+		"BuffParamList": [],
+		"DataImpl": {},
+		"BuffID": 30
+	},
+	{
+		"BuffType": 1,
+		"BuffName": {
+			"hash": 889055372
+		},
+		"BuffDescription": {
+			"hash": 983295503
+		},
+		"BuffSimpleDescription": {
+			"hash": -1384429087
+		},
+		"BuffIconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Thunder",
+		"BuffStringName": "NewElysionEvent_AreaShock_Ability",
+		"BuffParamList": [
+			"5",
+			"60000"
+		],
+		"DataImpl": {},
+		"BuffID": 31
+	},
+	{
+		"BuffType": 1,
+		"BuffName": {
+			"hash": 889055373
+		},
+		"BuffDescription": {
+			"hash": 983295504
+		},
+		"BuffSimpleDescription": {
+			"hash": -1384429086
+		},
+		"BuffIconPath": "SpriteOutput/SkillIconsInLevel/HealHP",
+		"BuffStringName": "NewElysionEvent_HealHP_Ability",
+		"BuffParamList": [
+			"5",
+			"0.05"
+		],
+		"DataImpl": {},
+		"BuffID": 32
+	},
+	{
+		"BuffType": 1,
+		"BuffName": {
+			"hash": 889055374
+		},
+		"BuffDescription": {
+			"hash": 983295505
+		},
+		"BuffSimpleDescription": {
+			"hash": -1384429085
+		},
+		"BuffIconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Paralyze",
+		"BuffStringName": "NewElysionEvent_StunOthers_Ability",
+		"BuffParamList": [
+			"5"
+		],
+		"DataImpl": {},
+		"BuffID": 33
+	},
+	{
+		"BuffType": 1,
+		"BuffName": {
+			"hash": 889055375
+		},
+		"BuffDescription": {
+			"hash": 983295506
+		},
+		"BuffSimpleDescription": {
+			"hash": -1384429084
+		},
+		"BuffIconPath": "SpriteOutput/Chapter29/BuffIcon/AssistDeBuff08",
+		"BuffStringName": "NewElysionEvent_CardSkillCDDown",
+		"BuffParamList": [
+			"-0.15"
+		],
+		"DataImpl": {},
+		"BuffID": 34
+	},
+	{
+		"BuffType": 1,
+		"BuffName": {
+			"hash": 889055376
+		},
+		"BuffDescription": {
+			"hash": 983295507
+		},
+		"BuffSimpleDescription": {
+			"hash": -1384429083
+		},
+		"BuffIconPath": "SpriteOutput/Chapter29/BuffIcon/AssistBuff12",
+		"BuffStringName": "NewElysionEvent_EvadeSuccessSP_Ability",
+		"BuffParamList": [
+			"8"
+		],
+		"DataImpl": {},
+		"BuffID": 35
+	},
+	{
+		"BuffType": 1,
+		"BuffName": {
+			"hash": 889055377
+		},
+		"BuffDescription": {
+			"hash": 983295508
+		},
+		"BuffSimpleDescription": {
+			"hash": -1384429082
+		},
+		"BuffIconPath": "SpriteOutput/Chapter29/BuffIcon/AssistBuff06",
+		"BuffStringName": "NewElysionEvent_DeBuff_DMGTakenUp",
+		"BuffParamList": [
+			"0.2",
+			"0.6"
+		],
+		"DataImpl": {},
+		"BuffID": 36
+	},
+	{
+		"BuffType": 1,
+		"BuffName": {
+			"hash": 889055378
+		},
+		"BuffDescription": {
+			"hash": 983295509
+		},
+		"BuffSimpleDescription": {
+			"hash": -1384429081
+		},
+		"BuffIconPath": "SpriteOutput/Chapter29/BuffIcon/AssistBuff07",
+		"BuffStringName": "NewElysionEvent_AddVulnerableToMons",
+		"BuffParamList": [
+			"10",
+			"0.25"
+		],
+		"DataImpl": {},
+		"BuffID": 37
+	},
+	{
+		"BuffType": 1,
+		"BuffName": {
+			"hash": 889055379
+		},
+		"BuffDescription": {
+			"hash": 983295510
+		},
+		"BuffSimpleDescription": {
+			"hash": -1384429080
+		},
+		"BuffIconPath": "SpriteOutput/Chapter29/BuffIcon/AssistBuff02",
+		"BuffStringName": "NewElysionEvent_LightningDamageUp",
+		"BuffParamList": [
+			"1"
+		],
+		"DataImpl": {},
+		"BuffID": 38
+	},
+	{
+		"BuffType": 1,
+		"BuffName": {
+			"hash": 889055380
+		},
+		"BuffDescription": {
+			"hash": 983295511
+		},
+		"BuffSimpleDescription": {
+			"hash": -1384429079
+		},
+		"BuffIconPath": "SpriteOutput/Chapter29/BuffIcon/AssistBuff03",
+		"BuffStringName": "NewElysionEvent_BurningDamageUp",
+		"BuffParamList": [
+			"1"
+		],
+		"DataImpl": {},
+		"BuffID": 39
+	},
+	{
+		"BuffType": 1,
+		"BuffName": {
+			"hash": 1790912804
+		},
+		"BuffDescription": {
+			"hash": 417389569
+		},
+		"BuffSimpleDescription": {
+			"hash": 32371311
+		},
+		"BuffIconPath": "SpriteOutput/Chapter29/BuffIcon/AssistBuff04",
+		"BuffStringName": "NewElysionEvent_FrozeningDamageUp",
+		"BuffParamList": [
+			"1"
+		],
+		"DataImpl": {},
+		"BuffID": 40
+	},
+	{
+		"BuffType": 1,
+		"BuffName": {
+			"hash": 1790912805
+		},
+		"BuffDescription": {
+			"hash": 417389570
+		},
+		"BuffSimpleDescription": {
+			"hash": 32371312
+		},
+		"BuffIconPath": "SpriteOutput/Chapter29/BuffIcon/AssistBuff01",
+		"BuffStringName": "NewElysionEvent_ReplaceOneDebuff",
+		"BuffParamList": [
+			"90"
+		],
+		"DataImpl": {},
+		"BuffID": 41
+	}
+]

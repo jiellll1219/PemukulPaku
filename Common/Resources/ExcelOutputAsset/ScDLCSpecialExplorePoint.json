@@ -1,0 +1,43 @@
+[
+	{
+		"ConditionID": 2007,
+		"MapID": 601,
+		"AreaID": 6011,
+		"TraceStoryID": 201804,
+		"AllowTransfer": false,
+		"RequiredAvatarList": [],
+		"RequiredAvatarHint": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"ExploreID": 106
+	},
+	{
+		"ConditionID": 1524,
+		"MapID": 601,
+		"AreaID": 6013,
+		"TraceStoryID": 202101,
+		"AllowTransfer": false,
+		"RequiredAvatarList": [
+			9011
+		],
+		"RequiredAvatarHint": {
+			"hash": 919460250
+		},
+		"DataImpl": {},
+		"ExploreID": 107
+	},
+	{
+		"ConditionID": 2034,
+		"MapID": 601,
+		"AreaID": 6012,
+		"TraceStoryID": 0,
+		"AllowTransfer": true,
+		"RequiredAvatarList": [],
+		"RequiredAvatarHint": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"ExploreID": 201
+	}
+]

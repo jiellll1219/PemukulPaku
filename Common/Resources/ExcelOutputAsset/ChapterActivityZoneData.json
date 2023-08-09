@@ -1,0 +1,272 @@
+[
+	{
+		"chapterID": 23,
+		"numInChapter": 1,
+		"preZone": 0,
+		"openTime": {
+			"TimeStampForBakedReader": 1602734400
+		},
+		"dropLimit": 2301,
+		"repeatStages": [
+			1231101,
+			1231201,
+			1231301
+		],
+		"challengeStages": [
+			1236101
+		],
+		"buffRequireList": [
+			1,
+			2,
+			3
+		],
+		"buffList": [
+			23101,
+			23102,
+			23103
+		],
+		"buffTitle": "Chapter20LimitRepeat_UpAvatarBuffTitle1",
+		"buffDesc": "Chapter20LimitRepeat_UpAvatarBuffDesc1",
+		"buffDescShort": "Chapter20LimitRepeat_UpAvatarBuffDescShort1",
+		"buffIcon": "",
+		"zoneOpenHint": "Chapter20_LimitZoneOpen1",
+		"zoneRefuseHint": "Menu_DropLimit_Hint1",
+		"DataImpl": {},
+		"zoneID": 2301
+	},
+	{
+		"chapterID": 23,
+		"numInChapter": 2,
+		"preZone": 2301,
+		"openTime": {
+			"TimeStampForBakedReader": 1603339200
+		},
+		"dropLimit": 2302,
+		"repeatStages": [
+			1232101,
+			1232201,
+			1232301
+		],
+		"challengeStages": [
+			1236201
+		],
+		"buffRequireList": [
+			1,
+			2,
+			3
+		],
+		"buffList": [
+			23201,
+			23202,
+			23203
+		],
+		"buffTitle": "Chapter20LimitRepeat_UpAvatarBuffTitle2",
+		"buffDesc": "Chapter20LimitRepeat_UpAvatarBuffDesc2",
+		"buffDescShort": "Chapter20LimitRepeat_UpAvatarBuffDescShort2",
+		"buffIcon": "",
+		"zoneOpenHint": "Chapter20_LimitZoneOpen2",
+		"zoneRefuseHint": "Menu_DropLimit_Hint2",
+		"DataImpl": {},
+		"zoneID": 2302
+	},
+	{
+		"chapterID": 23,
+		"numInChapter": 3,
+		"preZone": 2302,
+		"openTime": {
+			"TimeStampForBakedReader": 1603944000
+		},
+		"dropLimit": 2303,
+		"repeatStages": [
+			1233101,
+			1233201,
+			1233301
+		],
+		"challengeStages": [
+			1236301
+		],
+		"buffRequireList": [
+			1,
+			2,
+			3
+		],
+		"buffList": [
+			23301,
+			23302,
+			23303
+		],
+		"buffTitle": "Chapter20LimitRepeat_UpAvatarBuffTitle3",
+		"buffDesc": "Chapter20LimitRepeat_UpAvatarBuffDesc3",
+		"buffDescShort": "Chapter20LimitRepeat_UpAvatarBuffDescShort3",
+		"buffIcon": "",
+		"zoneOpenHint": "Chapter20_LimitZoneOpen3",
+		"zoneRefuseHint": "Menu_DropLimit_Hint3",
+		"DataImpl": {},
+		"zoneID": 2303
+	},
+	{
+		"chapterID": 24,
+		"numInChapter": 1,
+		"preZone": 0,
+		"openTime": {
+			"TimeStampForBakedReader": 1606968000
+		},
+		"dropLimit": 2401,
+		"repeatStages": [
+			1241101,
+			1241201,
+			1241301
+		],
+		"challengeStages": [
+			1246101
+		],
+		"buffRequireList": [
+			1,
+			2
+		],
+		"buffList": [
+			24101,
+			24102
+		],
+		"buffTitle": "Chapter21LimitRepeat_UpAvatarBuffTitle1",
+		"buffDesc": "Chapter21LimitRepeat_UpAvatarBuffDesc1",
+		"buffDescShort": "Chapter21LimitRepeat_UpAvatarBuffDescShort1",
+		"buffIcon": "",
+		"zoneOpenHint": "Chapter21_LimitZoneOpen1",
+		"zoneRefuseHint": "Chapter21_Menu_DropLimit_Hint1",
+		"DataImpl": {},
+		"zoneID": 2401
+	},
+	{
+		"chapterID": 24,
+		"numInChapter": 2,
+		"preZone": 2401,
+		"openTime": {
+			"TimeStampForBakedReader": 1607572800
+		},
+		"dropLimit": 2402,
+		"repeatStages": [
+			1242101,
+			1242201,
+			1242301
+		],
+		"challengeStages": [
+			1246201
+		],
+		"buffRequireList": [
+			1,
+			2
+		],
+		"buffList": [
+			24201,
+			24202
+		],
+		"buffTitle": "Chapter21LimitRepeat_UpAvatarBuffTitle2",
+		"buffDesc": "Chapter21LimitRepeat_UpAvatarBuffDesc2",
+		"buffDescShort": "Chapter21LimitRepeat_UpAvatarBuffDescShort2",
+		"buffIcon": "",
+		"zoneOpenHint": "Chapter21_LimitZoneOpen2",
+		"zoneRefuseHint": "Chapter21_Menu_DropLimit_Hint2",
+		"DataImpl": {},
+		"zoneID": 2402
+	},
+	{
+		"chapterID": 24,
+		"numInChapter": 3,
+		"preZone": 2402,
+		"openTime": {
+			"TimeStampForBakedReader": 1608177600
+		},
+		"dropLimit": 2403,
+		"repeatStages": [
+			1243101,
+			1243201,
+			1243301
+		],
+		"challengeStages": [
+			1246301
+		],
+		"buffRequireList": [
+			1,
+			2
+		],
+		"buffList": [
+			24301,
+			24302
+		],
+		"buffTitle": "Chapter21LimitRepeat_UpAvatarBuffTitle3",
+		"buffDesc": "Chapter21LimitRepeat_UpAvatarBuffDesc3",
+		"buffDescShort": "Chapter21LimitRepeat_UpAvatarBuffDescShort3",
+		"buffIcon": "",
+		"zoneOpenHint": "Chapter21_LimitZoneOpen3",
+		"zoneRefuseHint": "Chapter21_Menu_DropLimit_Hint3",
+		"DataImpl": {},
+		"zoneID": 2403
+	},
+	{
+		"chapterID": 25,
+		"numInChapter": 1,
+		"preZone": 0,
+		"openTime": {
+			"TimeStampForBakedReader": 1610683200
+		},
+		"dropLimit": 251,
+		"repeatStages": [
+			1251101,
+			1251301,
+			1251401
+		],
+		"challengeStages": [
+			1256101
+		],
+		"buffRequireList": [
+			1,
+			2
+		],
+		"buffList": [
+			25101,
+			25102
+		],
+		"buffTitle": "Chapter22LimitRepeat_UpAvatarBuffTitle1",
+		"buffDesc": "Chapter22LimitRepeat_UpAvatarBuffDesc1",
+		"buffDescShort": "Chapter22LimitRepeat_UpAvatarBuffDescShort1",
+		"buffIcon": "",
+		"zoneOpenHint": "Chapter22_LimitZoneOpen1",
+		"zoneRefuseHint": "Chapter22_Menu_DropLimit_Hint1",
+		"DataImpl": {},
+		"zoneID": 2501
+	},
+	{
+		"chapterID": 25,
+		"numInChapter": 2,
+		"preZone": 2501,
+		"openTime": {
+			"TimeStampForBakedReader": 1611288000
+		},
+		"dropLimit": 252,
+		"repeatStages": [
+			1252101,
+			1252301,
+			1252401
+		],
+		"challengeStages": [
+			1256201
+		],
+		"buffRequireList": [
+			1,
+			2
+		],
+		"buffList": [
+			25201,
+			25202
+		],
+		"buffTitle": "Chapter22LimitRepeat_UpAvatarBuffTitle2",
+		"buffDesc": "Chapter22LimitRepeat_UpAvatarBuffDesc2",
+		"buffDescShort": "Chapter22LimitRepeat_UpAvatarBuffDescShort2",
+		"buffIcon": "",
+		"zoneOpenHint": "Chapter22_LimitZoneOpen2",
+		"zoneRefuseHint": "Chapter22_Menu_DropLimit_Hint2",
+		"DataImpl": {},
+		"zoneID": 2502
+	}
+]

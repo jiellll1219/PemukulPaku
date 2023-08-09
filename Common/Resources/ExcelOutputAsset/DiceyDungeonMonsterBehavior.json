@@ -1,0 +1,1622 @@
+[
+	{
+		"skillID": 91011,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 5,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 91011
+	},
+	{
+		"skillID": 91021,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 5,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 91021
+	},
+	{
+		"skillID": 91022,
+		"beginTurn": 2,
+		"castTurn": 3,
+		"castPriority": 10,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 91022
+	},
+	{
+		"skillID": 91031,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 5,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 91031
+	},
+	{
+		"skillID": 91032,
+		"beginTurn": 2,
+		"castTurn": 3,
+		"castPriority": 10,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 91032
+	},
+	{
+		"skillID": 91033,
+		"beginTurn": 3,
+		"castTurn": 0,
+		"castPriority": 15,
+		"castLimit": "(($shp)<30)&(($opg)==0)",
+		"DataImpl": {},
+		"behaviorID": 91033
+	},
+	{
+		"skillID": 91211,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 5,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 91211
+	},
+	{
+		"skillID": 91212,
+		"beginTurn": 2,
+		"castTurn": 5,
+		"castPriority": 10,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 91212
+	},
+	{
+		"skillID": 91221,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 5,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 91221
+	},
+	{
+		"skillID": 91222,
+		"beginTurn": 2,
+		"castTurn": 5,
+		"castPriority": 10,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 91222
+	},
+	{
+		"skillID": 91231,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 5,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 91231
+	},
+	{
+		"skillID": 91232,
+		"beginTurn": 2,
+		"castTurn": 5,
+		"castPriority": 10,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 91232
+	},
+	{
+		"skillID": 91311,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 5,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 91311
+	},
+	{
+		"skillID": 91312,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 10,
+		"castLimit": "(($shp)<50)&(($opg)==0)",
+		"DataImpl": {},
+		"behaviorID": 91312
+	},
+	{
+		"skillID": 91321,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 5,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 91321
+	},
+	{
+		"skillID": 91322,
+		"beginTurn": 1,
+		"castTurn": 3,
+		"castPriority": 10,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 91322
+	},
+	{
+		"skillID": 91323,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 15,
+		"castLimit": "(($shp)<50)&(($opg)==0)",
+		"DataImpl": {},
+		"behaviorID": 91323
+	},
+	{
+		"skillID": 91331,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 5,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 91331
+	},
+	{
+		"skillID": 91332,
+		"beginTurn": 4,
+		"castTurn": 3,
+		"castPriority": 10,
+		"castLimit": "($shp)>10",
+		"DataImpl": {},
+		"behaviorID": 91332
+	},
+	{
+		"skillID": 91333,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 15,
+		"castLimit": "(($shp)<50)&(($opg)==0)",
+		"DataImpl": {},
+		"behaviorID": 91333
+	},
+	{
+		"skillID": 91411,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 5,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 91411
+	},
+	{
+		"skillID": 91412,
+		"beginTurn": 1,
+		"castTurn": 3,
+		"castPriority": 10,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 91412
+	},
+	{
+		"skillID": 91413,
+		"beginTurn": 0,
+		"castTurn": 5,
+		"castPriority": 15,
+		"castLimit": "($shp)<70",
+		"DataImpl": {},
+		"behaviorID": 91413
+	},
+	{
+		"skillID": 91414,
+		"beginTurn": 1,
+		"castTurn": 3,
+		"castPriority": 20,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 91414
+	},
+	{
+		"skillID": 92011,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 5,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 92011
+	},
+	{
+		"skillID": 92012,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 10,
+		"castLimit": "($shp)<60",
+		"DataImpl": {},
+		"behaviorID": 92012
+	},
+	{
+		"skillID": 92021,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 5,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 92021
+	},
+	{
+		"skillID": 92022,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 10,
+		"castLimit": "($shp)<60",
+		"DataImpl": {},
+		"behaviorID": 92022
+	},
+	{
+		"skillID": 92023,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 15,
+		"castLimit": "($shp)<30",
+		"DataImpl": {},
+		"behaviorID": 92023
+	},
+	{
+		"skillID": 92031,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 5,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 92031
+	},
+	{
+		"skillID": 92032,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 10,
+		"castLimit": "($shp)<60",
+		"DataImpl": {},
+		"behaviorID": 92032
+	},
+	{
+		"skillID": 92033,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 15,
+		"castLimit": "($shp)<30",
+		"DataImpl": {},
+		"behaviorID": 92033
+	},
+	{
+		"skillID": 92034,
+		"beginTurn": 2,
+		"castTurn": 5,
+		"castPriority": 20,
+		"castLimit": "($shp)>20",
+		"DataImpl": {},
+		"behaviorID": 92034
+	},
+	{
+		"skillID": 92111,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 5,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 92111
+	},
+	{
+		"skillID": 92112,
+		"beginTurn": 1,
+		"castTurn": 3,
+		"castPriority": 10,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 92112
+	},
+	{
+		"skillID": 92121,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 5,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 92121
+	},
+	{
+		"skillID": 92122,
+		"beginTurn": 1,
+		"castTurn": 3,
+		"castPriority": 10,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 92122
+	},
+	{
+		"skillID": 92131,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 5,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 92131
+	},
+	{
+		"skillID": 92132,
+		"beginTurn": 1,
+		"castTurn": 3,
+		"castPriority": 10,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 92132
+	},
+	{
+		"skillID": 92133,
+		"beginTurn": 1,
+		"castTurn": 3,
+		"castPriority": 15,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 92133
+	},
+	{
+		"skillID": 92134,
+		"beginTurn": 0,
+		"castTurn": 5,
+		"castPriority": 20,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 92134
+	},
+	{
+		"skillID": 92222,
+		"beginTurn": 0,
+		"castTurn": 3,
+		"castPriority": 8,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 92222
+	},
+	{
+		"skillID": 92232,
+		"beginTurn": 0,
+		"castTurn": 3,
+		"castPriority": 8,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 92232
+	},
+	{
+		"skillID": 92233,
+		"beginTurn": 2,
+		"castTurn": 2,
+		"castPriority": 13,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 92233
+	},
+	{
+		"skillID": 92241,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 5,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 92241
+	},
+	{
+		"skillID": 92242,
+		"beginTurn": 0,
+		"castTurn": 2,
+		"castPriority": 10,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 92242
+	},
+	{
+		"skillID": 92243,
+		"beginTurn": 0,
+		"castTurn": 2,
+		"castPriority": 15,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 92243
+	},
+	{
+		"skillID": 92244,
+		"beginTurn": 0,
+		"castTurn": 3,
+		"castPriority": 20,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 92244
+	},
+	{
+		"skillID": 92245,
+		"beginTurn": 3,
+		"castTurn": 4,
+		"castPriority": 25,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 92245
+	},
+	{
+		"skillID": 92246,
+		"beginTurn": 0,
+		"castTurn": 6,
+		"castPriority": 30,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 92246
+	},
+	{
+		"skillID": 93011,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 5,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 93011
+	},
+	{
+		"skillID": 93012,
+		"beginTurn": 0,
+		"castTurn": 255,
+		"castPriority": 10,
+		"castLimit": "($shp)<50",
+		"DataImpl": {},
+		"behaviorID": 93012
+	},
+	{
+		"skillID": 93021,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 5,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 93021
+	},
+	{
+		"skillID": 93022,
+		"beginTurn": 0,
+		"castTurn": 255,
+		"castPriority": 10,
+		"castLimit": "($shp)<50",
+		"DataImpl": {},
+		"behaviorID": 93022
+	},
+	{
+		"skillID": 93031,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 5,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 93031
+	},
+	{
+		"skillID": 93032,
+		"beginTurn": 0,
+		"castTurn": 255,
+		"castPriority": 10,
+		"castLimit": "($shp)<50",
+		"DataImpl": {},
+		"behaviorID": 93032
+	},
+	{
+		"skillID": 93111,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 5,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 93111
+	},
+	{
+		"skillID": 93121,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 5,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 93121
+	},
+	{
+		"skillID": 93122,
+		"beginTurn": 2,
+		"castTurn": 3,
+		"castPriority": 10,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 93122
+	},
+	{
+		"skillID": 93131,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 5,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 93131
+	},
+	{
+		"skillID": 93132,
+		"beginTurn": 2,
+		"castTurn": 3,
+		"castPriority": 10,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 93132
+	},
+	{
+		"skillID": 93133,
+		"beginTurn": 2,
+		"castTurn": 5,
+		"castPriority": 15,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 93133
+	},
+	{
+		"skillID": 93211,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 5,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 93211
+	},
+	{
+		"skillID": 93221,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 5,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 93221
+	},
+	{
+		"skillID": 93222,
+		"beginTurn": 2,
+		"castTurn": 5,
+		"castPriority": 10,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 93222
+	},
+	{
+		"skillID": 93231,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 5,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 93231
+	},
+	{
+		"skillID": 93232,
+		"beginTurn": 1,
+		"castTurn": 3,
+		"castPriority": 10,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 93232
+	},
+	{
+		"skillID": 93233,
+		"beginTurn": 2,
+		"castTurn": 5,
+		"castPriority": 15,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 93233
+	},
+	{
+		"skillID": 94001,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 5,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 94001
+	},
+	{
+		"skillID": 94002,
+		"beginTurn": 1,
+		"castTurn": 4,
+		"castPriority": 10,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 94002
+	},
+	{
+		"skillID": 94003,
+		"beginTurn": 1,
+		"castTurn": 4,
+		"castPriority": 15,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 94003
+	},
+	{
+		"skillID": 94004,
+		"beginTurn": 2,
+		"castTurn": 6,
+		"castPriority": 20,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 94004
+	},
+	{
+		"skillID": 95001,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 5,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 95001
+	},
+	{
+		"skillID": 95002,
+		"beginTurn": 1,
+		"castTurn": 2,
+		"castPriority": 10,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 95002
+	},
+	{
+		"skillID": 95003,
+		"beginTurn": 1,
+		"castTurn": 3,
+		"castPriority": 15,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 95003
+	},
+	{
+		"skillID": 95004,
+		"beginTurn": 1,
+		"castTurn": 4,
+		"castPriority": 20,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 95004
+	},
+	{
+		"skillID": 95005,
+		"beginTurn": 2,
+		"castTurn": 6,
+		"castPriority": 25,
+		"castLimit": "($shp)<50",
+		"DataImpl": {},
+		"behaviorID": 95005
+	},
+	{
+		"skillID": 95006,
+		"beginTurn": 0,
+		"castTurn": 6,
+		"castPriority": 30,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 95006
+	},
+	{
+		"skillID": 100001,
+		"beginTurn": 5,
+		"castTurn": 0,
+		"castPriority": 100,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 100001
+	},
+	{
+		"skillID": 100002,
+		"beginTurn": 10,
+		"castTurn": 0,
+		"castPriority": 100,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 100002
+	},
+	{
+		"skillID": 100101,
+		"beginTurn": 1,
+		"castTurn": 0,
+		"castPriority": 10,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 100101
+	},
+	{
+		"skillID": 100102,
+		"beginTurn": 2,
+		"castTurn": 0,
+		"castPriority": 20,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 100102
+	},
+	{
+		"skillID": 100103,
+		"beginTurn": 3,
+		"castTurn": 0,
+		"castPriority": 30,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 100103
+	},
+	{
+		"skillID": 100104,
+		"beginTurn": 4,
+		"castTurn": 0,
+		"castPriority": 40,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 100104
+	},
+	{
+		"skillID": 100201,
+		"beginTurn": 1,
+		"castTurn": 0,
+		"castPriority": 10,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 100201
+	},
+	{
+		"skillID": 100202,
+		"beginTurn": 2,
+		"castTurn": 0,
+		"castPriority": 20,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 100202
+	},
+	{
+		"skillID": 100203,
+		"beginTurn": 3,
+		"castTurn": 0,
+		"castPriority": 30,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 100203
+	},
+	{
+		"skillID": 100204,
+		"beginTurn": 4,
+		"castTurn": 0,
+		"castPriority": 40,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 100204
+	},
+	{
+		"skillID": 914110,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 5,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 914110
+	},
+	{
+		"skillID": 914111,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 5,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 914111
+	},
+	{
+		"skillID": 914112,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 5,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 914112
+	},
+	{
+		"skillID": 914113,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 5,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 914113
+	},
+	{
+		"skillID": 914120,
+		"beginTurn": 1,
+		"castTurn": 3,
+		"castPriority": 10,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 914120
+	},
+	{
+		"skillID": 914121,
+		"beginTurn": 1,
+		"castTurn": 3,
+		"castPriority": 10,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 914121
+	},
+	{
+		"skillID": 914122,
+		"beginTurn": 1,
+		"castTurn": 3,
+		"castPriority": 10,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 914122
+	},
+	{
+		"skillID": 914123,
+		"beginTurn": 1,
+		"castTurn": 3,
+		"castPriority": 10,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 914123
+	},
+	{
+		"skillID": 914130,
+		"beginTurn": 0,
+		"castTurn": 5,
+		"castPriority": 15,
+		"castLimit": "($shp)<70",
+		"DataImpl": {},
+		"behaviorID": 914130
+	},
+	{
+		"skillID": 914131,
+		"beginTurn": 0,
+		"castTurn": 5,
+		"castPriority": 15,
+		"castLimit": "($shp)<70",
+		"DataImpl": {},
+		"behaviorID": 914131
+	},
+	{
+		"skillID": 914132,
+		"beginTurn": 0,
+		"castTurn": 5,
+		"castPriority": 15,
+		"castLimit": "($shp)<70",
+		"DataImpl": {},
+		"behaviorID": 914132
+	},
+	{
+		"skillID": 914133,
+		"beginTurn": 0,
+		"castTurn": 5,
+		"castPriority": 15,
+		"castLimit": "($shp)<70",
+		"DataImpl": {},
+		"behaviorID": 914133
+	},
+	{
+		"skillID": 914140,
+		"beginTurn": 1,
+		"castTurn": 10,
+		"castPriority": 20,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 914140
+	},
+	{
+		"skillID": 914141,
+		"beginTurn": 1,
+		"castTurn": 10,
+		"castPriority": 20,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 914141
+	},
+	{
+		"skillID": 914142,
+		"beginTurn": 1,
+		"castTurn": 10,
+		"castPriority": 20,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 914142
+	},
+	{
+		"skillID": 914143,
+		"beginTurn": 1,
+		"castTurn": 10,
+		"castPriority": 20,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 914143
+	},
+	{
+		"skillID": 922111,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 1,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 922111
+	},
+	{
+		"skillID": 922112,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 3,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 922112
+	},
+	{
+		"skillID": 922113,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 1,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 922113
+	},
+	{
+		"skillID": 922211,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 1,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 922211
+	},
+	{
+		"skillID": 922212,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 3,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 922212
+	},
+	{
+		"skillID": 922213,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 1,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 922213
+	},
+	{
+		"skillID": 922311,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 3,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 922311
+	},
+	{
+		"skillID": 922312,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 3,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 922312
+	},
+	{
+		"skillID": 922313,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 2,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 922313
+	},
+	{
+		"skillID": 922410,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 5,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 922410
+	},
+	{
+		"skillID": 922411,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 5,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 922411
+	},
+	{
+		"skillID": 922412,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 5,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 922412
+	},
+	{
+		"skillID": 922413,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 5,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 922413
+	},
+	{
+		"skillID": 922420,
+		"beginTurn": 0,
+		"castTurn": 2,
+		"castPriority": 10,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 922420
+	},
+	{
+		"skillID": 922421,
+		"beginTurn": 0,
+		"castTurn": 2,
+		"castPriority": 10,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 922421
+	},
+	{
+		"skillID": 922422,
+		"beginTurn": 0,
+		"castTurn": 2,
+		"castPriority": 10,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 922422
+	},
+	{
+		"skillID": 922423,
+		"beginTurn": 0,
+		"castTurn": 2,
+		"castPriority": 10,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 922423
+	},
+	{
+		"skillID": 922430,
+		"beginTurn": 0,
+		"castTurn": 2,
+		"castPriority": 15,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 922430
+	},
+	{
+		"skillID": 922431,
+		"beginTurn": 0,
+		"castTurn": 2,
+		"castPriority": 15,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 922431
+	},
+	{
+		"skillID": 922432,
+		"beginTurn": 0,
+		"castTurn": 2,
+		"castPriority": 15,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 922432
+	},
+	{
+		"skillID": 922433,
+		"beginTurn": 0,
+		"castTurn": 2,
+		"castPriority": 15,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 922433
+	},
+	{
+		"skillID": 922440,
+		"beginTurn": 0,
+		"castTurn": 3,
+		"castPriority": 20,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 922440
+	},
+	{
+		"skillID": 922441,
+		"beginTurn": 0,
+		"castTurn": 3,
+		"castPriority": 20,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 922441
+	},
+	{
+		"skillID": 922442,
+		"beginTurn": 0,
+		"castTurn": 3,
+		"castPriority": 20,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 922442
+	},
+	{
+		"skillID": 922443,
+		"beginTurn": 0,
+		"castTurn": 3,
+		"castPriority": 20,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 922443
+	},
+	{
+		"skillID": 922450,
+		"beginTurn": 3,
+		"castTurn": 4,
+		"castPriority": 25,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 922450
+	},
+	{
+		"skillID": 922451,
+		"beginTurn": 3,
+		"castTurn": 4,
+		"castPriority": 25,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 922451
+	},
+	{
+		"skillID": 922452,
+		"beginTurn": 3,
+		"castTurn": 4,
+		"castPriority": 25,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 922452
+	},
+	{
+		"skillID": 922453,
+		"beginTurn": 3,
+		"castTurn": 4,
+		"castPriority": 25,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 922453
+	},
+	{
+		"skillID": 922460,
+		"beginTurn": 0,
+		"castTurn": 6,
+		"castPriority": 30,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 922460
+	},
+	{
+		"skillID": 922461,
+		"beginTurn": 0,
+		"castTurn": 6,
+		"castPriority": 30,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 922461
+	},
+	{
+		"skillID": 922462,
+		"beginTurn": 0,
+		"castTurn": 6,
+		"castPriority": 30,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 922462
+	},
+	{
+		"skillID": 922463,
+		"beginTurn": 0,
+		"castTurn": 6,
+		"castPriority": 30,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 922463
+	},
+	{
+		"skillID": 931220,
+		"beginTurn": 2,
+		"castTurn": 3,
+		"castPriority": 10,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 931220
+	},
+	{
+		"skillID": 931320,
+		"beginTurn": 2,
+		"castTurn": 3,
+		"castPriority": 10,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 931320
+	},
+	{
+		"skillID": 940010,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 5,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 940010
+	},
+	{
+		"skillID": 940011,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 5,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 940011
+	},
+	{
+		"skillID": 940012,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 5,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 940012
+	},
+	{
+		"skillID": 940020,
+		"beginTurn": 1,
+		"castTurn": 4,
+		"castPriority": 10,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 940020
+	},
+	{
+		"skillID": 940021,
+		"beginTurn": 1,
+		"castTurn": 4,
+		"castPriority": 10,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 940021
+	},
+	{
+		"skillID": 940022,
+		"beginTurn": 1,
+		"castTurn": 4,
+		"castPriority": 10,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 940022
+	},
+	{
+		"skillID": 940030,
+		"beginTurn": 1,
+		"castTurn": 4,
+		"castPriority": 15,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 940030
+	},
+	{
+		"skillID": 940031,
+		"beginTurn": 1,
+		"castTurn": 4,
+		"castPriority": 15,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 940031
+	},
+	{
+		"skillID": 940032,
+		"beginTurn": 1,
+		"castTurn": 4,
+		"castPriority": 15,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 940032
+	},
+	{
+		"skillID": 940040,
+		"beginTurn": 2,
+		"castTurn": 6,
+		"castPriority": 20,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 940040
+	},
+	{
+		"skillID": 940041,
+		"beginTurn": 2,
+		"castTurn": 6,
+		"castPriority": 20,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 940041
+	},
+	{
+		"skillID": 940042,
+		"beginTurn": 2,
+		"castTurn": 6,
+		"castPriority": 20,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 940042
+	},
+	{
+		"skillID": 950010,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 5,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 950010
+	},
+	{
+		"skillID": 950011,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 5,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 950011
+	},
+	{
+		"skillID": 950012,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 5,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 950012
+	},
+	{
+		"skillID": 950013,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 5,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 950013
+	},
+	{
+		"skillID": 950020,
+		"beginTurn": 1,
+		"castTurn": 2,
+		"castPriority": 10,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 950020
+	},
+	{
+		"skillID": 950021,
+		"beginTurn": 1,
+		"castTurn": 2,
+		"castPriority": 10,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 950021
+	},
+	{
+		"skillID": 950022,
+		"beginTurn": 1,
+		"castTurn": 2,
+		"castPriority": 10,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 950022
+	},
+	{
+		"skillID": 950023,
+		"beginTurn": 1,
+		"castTurn": 2,
+		"castPriority": 10,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 950023
+	},
+	{
+		"skillID": 950030,
+		"beginTurn": 1,
+		"castTurn": 3,
+		"castPriority": 15,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 950030
+	},
+	{
+		"skillID": 950031,
+		"beginTurn": 1,
+		"castTurn": 3,
+		"castPriority": 15,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 950031
+	},
+	{
+		"skillID": 950032,
+		"beginTurn": 1,
+		"castTurn": 3,
+		"castPriority": 15,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 950032
+	},
+	{
+		"skillID": 950033,
+		"beginTurn": 1,
+		"castTurn": 3,
+		"castPriority": 15,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 950033
+	},
+	{
+		"skillID": 950040,
+		"beginTurn": 1,
+		"castTurn": 4,
+		"castPriority": 20,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 950040
+	},
+	{
+		"skillID": 950041,
+		"beginTurn": 1,
+		"castTurn": 4,
+		"castPriority": 20,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 950041
+	},
+	{
+		"skillID": 950042,
+		"beginTurn": 1,
+		"castTurn": 4,
+		"castPriority": 20,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 950042
+	},
+	{
+		"skillID": 950043,
+		"beginTurn": 1,
+		"castTurn": 4,
+		"castPriority": 20,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 950043
+	},
+	{
+		"skillID": 950050,
+		"beginTurn": 2,
+		"castTurn": 6,
+		"castPriority": 25,
+		"castLimit": "($shp)<50",
+		"DataImpl": {},
+		"behaviorID": 950050
+	},
+	{
+		"skillID": 950051,
+		"beginTurn": 2,
+		"castTurn": 6,
+		"castPriority": 25,
+		"castLimit": "($shp)<50",
+		"DataImpl": {},
+		"behaviorID": 950051
+	},
+	{
+		"skillID": 950052,
+		"beginTurn": 2,
+		"castTurn": 6,
+		"castPriority": 25,
+		"castLimit": "($shp)<50",
+		"DataImpl": {},
+		"behaviorID": 950052
+	},
+	{
+		"skillID": 950053,
+		"beginTurn": 2,
+		"castTurn": 6,
+		"castPriority": 25,
+		"castLimit": "($shp)<50",
+		"DataImpl": {},
+		"behaviorID": 950053
+	},
+	{
+		"skillID": 950060,
+		"beginTurn": 0,
+		"castTurn": 6,
+		"castPriority": 30,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 950060
+	},
+	{
+		"skillID": 950061,
+		"beginTurn": 0,
+		"castTurn": 6,
+		"castPriority": 30,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 950061
+	},
+	{
+		"skillID": 950062,
+		"beginTurn": 0,
+		"castTurn": 6,
+		"castPriority": 30,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 950062
+	},
+	{
+		"skillID": 950063,
+		"beginTurn": 0,
+		"castTurn": 6,
+		"castPriority": 30,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 950063
+	},
+	{
+		"skillID": 9501101,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 1,
+		"castLimit": "",
+		"DataImpl": {},
+		"behaviorID": 9501101
+	},
+	{
+		"skillID": 9501102,
+		"beginTurn": 0,
+		"castTurn": 4,
+		"castPriority": 15,
+		"castLimit": "($Phase)>=2",
+		"DataImpl": {},
+		"behaviorID": 9501102
+	},
+	{
+		"skillID": 9501103,
+		"beginTurn": 0,
+		"castTurn": 2,
+		"castPriority": 10,
+		"castLimit": "($Phase)>=3",
+		"DataImpl": {},
+		"behaviorID": 9501103
+	},
+	{
+		"skillID": 9501104,
+		"beginTurn": 0,
+		"castTurn": 0,
+		"castPriority": 20,
+		"castLimit": "($Phase)>=4",
+		"DataImpl": {},
+		"behaviorID": 9501104
+	},
+	{
+		"skillID": 9501201,
+		"beginTurn": 0,
+		"castTurn": 255,
+		"castPriority": 90,
+		"castLimit": "($Phase)>=2",
+		"DataImpl": {},
+		"behaviorID": 9501201
+	}
+]

@@ -1,0 +1,761 @@
+[
+	{
+		"BuffID": 0,
+		"SkillFunctionName": "",
+		"AbilityName": "AvatarAssistant_TimeSLowandHeal",
+		"ParamList": [
+			"12",
+			"50",
+			"40"
+		],
+		"CD": 40,
+		"SkillIcon": "SpriteOutput\\AvatarIconSide\\104",
+		"SkillName": {
+			"hash": 829439591
+		},
+		"SkillDesc": {
+			"hash": 547018989
+		},
+		"DataImpl": {},
+		"SupportAvatarID": 1,
+		"SupportAvatarLevel": 1
+	},
+	{
+		"BuffID": 0,
+		"SkillFunctionName": "AvatarAssistant_BronyaBlackHole",
+		"AbilityName": "AvatarAssistant_BronyaBlackHole",
+		"ParamList": [
+			"30"
+		],
+		"CD": 30,
+		"SkillIcon": "SpriteOutput\\AvatarIconSide\\301",
+		"SkillName": {
+			"hash": 829439592
+		},
+		"SkillDesc": {
+			"hash": 547018990
+		},
+		"DataImpl": {},
+		"SupportAvatarID": 2,
+		"SupportAvatarLevel": 1
+	},
+	{
+		"BuffID": 0,
+		"SkillFunctionName": "",
+		"AbilityName": "AvatarAssistant_HealSP",
+		"ParamList": [
+			"60",
+			"40"
+		],
+		"CD": 40,
+		"SkillIcon": "SpriteOutput\\AvatarIconSide\\204",
+		"SkillName": {
+			"hash": 829439593
+		},
+		"SkillDesc": {
+			"hash": 547018991
+		},
+		"DataImpl": {},
+		"SupportAvatarID": 3,
+		"SupportAvatarLevel": 1
+	},
+	{
+		"BuffID": 0,
+		"SkillFunctionName": "",
+		"AbilityName": "AvatarAssistant_AddDamage",
+		"ParamList": [
+			"10",
+			"-0.3",
+			"1.5",
+			"40"
+		],
+		"CD": 30,
+		"SkillIcon": "SpriteOutput\\AvatarIconSide\\404",
+		"SkillName": {
+			"hash": 829439595
+		},
+		"SkillDesc": {
+			"hash": 547018993
+		},
+		"DataImpl": {},
+		"SupportAvatarID": 5,
+		"SupportAvatarLevel": 1
+	},
+	{
+		"BuffID": 0,
+		"SkillFunctionName": "",
+		"AbilityName": "AvatarAssistant_SakuraFire",
+		"ParamList": [
+			"3",
+			"10",
+			"30",
+			"200000"
+		],
+		"CD": 30,
+		"SkillIcon": "SpriteOutput\\AvatarIconSide\\503",
+		"SkillName": {
+			"hash": 829439596
+		},
+		"SkillDesc": {
+			"hash": 547018994
+		},
+		"DataImpl": {},
+		"SupportAvatarID": 6,
+		"SupportAvatarLevel": 1
+	},
+	{
+		"BuffID": 0,
+		"SkillFunctionName": "",
+		"AbilityName": "AvatarAssistant_UltraMode",
+		"ParamList": [
+			"5",
+			"0.5",
+			"200",
+			"30"
+		],
+		"CD": 30,
+		"SkillIcon": "SpriteOutput\\AvatarIconSide\\603",
+		"SkillName": {
+			"hash": 829439597
+		},
+		"SkillDesc": {
+			"hash": 547018995
+		},
+		"DataImpl": {},
+		"SupportAvatarID": 7,
+		"SupportAvatarLevel": 1
+	},
+	{
+		"BuffID": 0,
+		"SkillFunctionName": "",
+		"AbilityName": "AvatarAssistant_Paralyze",
+		"ParamList": [
+			"5",
+			"20"
+		],
+		"CD": 20,
+		"SkillIcon": "SpriteOutput\\AvatarIconSide\\402",
+		"SkillName": {
+			"hash": 829439598
+		},
+		"SkillDesc": {
+			"hash": 547018996
+		},
+		"DataImpl": {},
+		"SupportAvatarID": 8,
+		"SupportAvatarLevel": 1
+	},
+	{
+		"BuffID": 0,
+		"SkillFunctionName": "AvatarAssistant_FukaC5Ultra",
+		"AbilityName": "AvatarAssistant_FukaC5Ultra",
+		"ParamList": [],
+		"CD": 50,
+		"SkillIcon": "SpriteOutput\\AvatarIconSide\\611",
+		"SkillName": {
+			"hash": -57176403
+		},
+		"SkillDesc": {
+			"hash": -222280473
+		},
+		"DataImpl": {},
+		"SupportAvatarID": 14,
+		"SupportAvatarLevel": 1
+	},
+	{
+		"BuffID": 0,
+		"SkillFunctionName": "AvatarAssistant_SeeleC2Ultra",
+		"AbilityName": "AvatarAssistant_SeeleC2Ultra",
+		"ParamList": [],
+		"CD": 40,
+		"SkillIcon": "SpriteOutput\\AvatarIconSide\\712",
+		"SkillName": {
+			"hash": -57176401
+		},
+		"SkillDesc": {
+			"hash": -222280471
+		},
+		"DataImpl": {},
+		"SupportAvatarID": 16,
+		"SupportAvatarLevel": 1
+	},
+	{
+		"BuffID": 0,
+		"SkillFunctionName": "AvatarAssistant_BronyaC3Ultra",
+		"AbilityName": "AvatarAssistant_BronyaC3Ultra",
+		"ParamList": [],
+		"CD": 60,
+		"SkillIcon": "SpriteOutput\\AvatarIconSide\\303",
+		"SkillName": {
+			"hash": -57176400
+		},
+		"SkillDesc": {
+			"hash": -222280470
+		},
+		"DataImpl": {},
+		"SupportAvatarID": 17,
+		"SupportAvatarLevel": 1
+	},
+	{
+		"BuffID": 0,
+		"SkillFunctionName": "AvatarAssistant_FukaC1Ultra",
+		"AbilityName": "AvatarAssistant_FukaC1Ultra",
+		"ParamList": [],
+		"CD": 8,
+		"SkillIcon": "SpriteOutput\\AvatarIconSide\\601",
+		"SkillName": {
+			"hash": -57176400
+		},
+		"SkillDesc": {
+			"hash": -222280470
+		},
+		"DataImpl": {},
+		"SupportAvatarID": 18,
+		"SupportAvatarLevel": 1
+	},
+	{
+		"BuffID": 0,
+		"SkillFunctionName": "AvatarAssistant_BronyaC5Weapon",
+		"AbilityName": "AvatarAssistant_BronyaC5Weapon",
+		"ParamList": [],
+		"CD": 12,
+		"SkillIcon": "SpriteOutput\\AvatarIconSide\\311",
+		"SkillName": {
+			"hash": -57176400
+		},
+		"SkillDesc": {
+			"hash": -222280470
+		},
+		"DataImpl": {},
+		"SupportAvatarID": 19,
+		"SupportAvatarLevel": 1
+	},
+	{
+		"BuffID": 0,
+		"SkillFunctionName": "AvatarAssistant_KianaC6AirAttack",
+		"AbilityName": "AvatarAssistant_KianaC6AirAttack",
+		"ParamList": [],
+		"CD": 8,
+		"SkillIcon": "SpriteOutput\\AvatarIconSide\\105",
+		"SkillName": {
+			"hash": 824173578
+		},
+		"SkillDesc": {
+			"hash": 659069508
+		},
+		"DataImpl": {},
+		"SupportAvatarID": 20,
+		"SupportAvatarLevel": 1
+	},
+	{
+		"BuffID": 0,
+		"SkillFunctionName": "",
+		"AbilityName": "AvatarAssistant_TimeSLowandHeal",
+		"ParamList": [
+			"12",
+			"50",
+			"40"
+		],
+		"CD": 40,
+		"SkillIcon": "SpriteOutput\\AvatarIconSide\\104",
+		"SkillName": {
+			"hash": 424655003
+		},
+		"SkillDesc": {
+			"hash": 142234401
+		},
+		"DataImpl": {},
+		"SupportAvatarID": 101,
+		"SupportAvatarLevel": 1
+	},
+	{
+		"BuffID": 0,
+		"SkillFunctionName": "AvatarAssistant_BronyaBlackHole",
+		"AbilityName": "AvatarAssistant_BronyaBlackHole",
+		"ParamList": [
+			"30"
+		],
+		"CD": 30,
+		"SkillIcon": "SpriteOutput\\AvatarIconSide\\301",
+		"SkillName": {
+			"hash": 424655004
+		},
+		"SkillDesc": {
+			"hash": 142234402
+		},
+		"DataImpl": {},
+		"SupportAvatarID": 102,
+		"SupportAvatarLevel": 1
+	},
+	{
+		"BuffID": 0,
+		"SkillFunctionName": "",
+		"AbilityName": "AvatarAssistant_HealSP",
+		"ParamList": [
+			"60",
+			"40"
+		],
+		"CD": 40,
+		"SkillIcon": "SpriteOutput\\AvatarIconSide\\204",
+		"SkillName": {
+			"hash": 424655005
+		},
+		"SkillDesc": {
+			"hash": 142234403
+		},
+		"DataImpl": {},
+		"SupportAvatarID": 103,
+		"SupportAvatarLevel": 1
+	},
+	{
+		"BuffID": 0,
+		"SkillFunctionName": "",
+		"AbilityName": "AvatarAssistant_AddDamage",
+		"ParamList": [
+			"10",
+			"-0.3",
+			"1.5",
+			"40"
+		],
+		"CD": 30,
+		"SkillIcon": "SpriteOutput\\AvatarIconSide\\404",
+		"SkillName": {
+			"hash": 424655006
+		},
+		"SkillDesc": {
+			"hash": 142234404
+		},
+		"DataImpl": {},
+		"SupportAvatarID": 104,
+		"SupportAvatarLevel": 1
+	},
+	{
+		"BuffID": 0,
+		"SkillFunctionName": "",
+		"AbilityName": "AvatarAssistant_UltraMode",
+		"ParamList": [
+			"5",
+			"0.5",
+			"200",
+			"30"
+		],
+		"CD": 30,
+		"SkillIcon": "SpriteOutput\\AvatarIconSide\\603",
+		"SkillName": {
+			"hash": 424655007
+		},
+		"SkillDesc": {
+			"hash": 142234405
+		},
+		"DataImpl": {},
+		"SupportAvatarID": 105,
+		"SupportAvatarLevel": 1
+	},
+	{
+		"BuffID": 0,
+		"SkillFunctionName": "AvatarAssistant_FukaC5Ultra",
+		"AbilityName": "AvatarAssistant_FukaC5Ultra",
+		"ParamList": [],
+		"CD": 50,
+		"SkillIcon": "SpriteOutput\\AvatarIconSide\\611",
+		"SkillName": {
+			"hash": 424655008
+		},
+		"SkillDesc": {
+			"hash": 142234406
+		},
+		"DataImpl": {},
+		"SupportAvatarID": 106,
+		"SupportAvatarLevel": 1
+	},
+	{
+		"BuffID": 0,
+		"SkillFunctionName": "AvatarAssistant_SeeleC2Ultra",
+		"AbilityName": "AvatarAssistant_SeeleC2Ultra",
+		"ParamList": [],
+		"CD": 40,
+		"SkillIcon": "SpriteOutput\\AvatarIconSide\\712",
+		"SkillName": {
+			"hash": 424655009
+		},
+		"SkillDesc": {
+			"hash": 142234407
+		},
+		"DataImpl": {},
+		"SupportAvatarID": 107,
+		"SupportAvatarLevel": 1
+	},
+	{
+		"BuffID": 0,
+		"SkillFunctionName": "AvatarAssistant_BronyaC3Ultra",
+		"AbilityName": "AvatarAssistant_BronyaC3Ultra",
+		"ParamList": [
+			"50"
+		],
+		"CD": 60,
+		"SkillIcon": "SpriteOutput\\AvatarIconSide\\303",
+		"SkillName": {
+			"hash": 424655010
+		},
+		"SkillDesc": {
+			"hash": 142234408
+		},
+		"DataImpl": {},
+		"SupportAvatarID": 108,
+		"SupportAvatarLevel": 1
+	},
+	{
+		"BuffID": 0,
+		"SkillFunctionName": "AvatarAssistant_DurandalC2Ultra",
+		"AbilityName": "AvatarAssistant_DurandalC2Ultra",
+		"ParamList": [
+			"2000",
+			"1",
+			"5"
+		],
+		"CD": 30,
+		"SkillIcon": "SpriteOutput\\AvatarIconSide\\802",
+		"SkillName": {
+			"hash": 424655011
+		},
+		"SkillDesc": {
+			"hash": 142234409
+		},
+		"DataImpl": {},
+		"SupportAvatarID": 109,
+		"SupportAvatarLevel": 1
+	},
+	{
+		"BuffID": 0,
+		"SkillFunctionName": "AvatarAssistant_HimekoC6Ultra",
+		"AbilityName": "AvatarAssistant_HimekoC6Ultra",
+		"ParamList": [
+			"5000",
+			"1",
+			"3"
+		],
+		"CD": 60,
+		"SkillIcon": "SpriteOutput\\AvatarIconSide\\412",
+		"SkillName": {
+			"hash": 279403253
+		},
+		"SkillDesc": {
+			"hash": 114299183
+		},
+		"DataImpl": {},
+		"SupportAvatarID": 110,
+		"SupportAvatarLevel": 1
+	},
+	{
+		"BuffID": 0,
+		"SkillFunctionName": "",
+		"AbilityName": "AvatarAssistant_TimeSLowandHeal",
+		"ParamList": [
+			"12",
+			"50",
+			"40"
+		],
+		"CD": 40,
+		"SkillIcon": "SpriteOutput\\AvatarIconSide\\104",
+		"SkillName": {
+			"hash": 764669454
+		},
+		"SkillDesc": {
+			"hash": -58589420
+		},
+		"DataImpl": {},
+		"SupportAvatarID": 201,
+		"SupportAvatarLevel": 1
+	},
+	{
+		"BuffID": 10001,
+		"SkillFunctionName": "",
+		"AbilityName": "AvatarAssistant_TimeSLowandHeal_EX",
+		"ParamList": [
+			"12",
+			"50",
+			"5",
+			"1",
+			"-0.8"
+		],
+		"CD": 40,
+		"SkillIcon": "SpriteOutput\\AvatarIconSide\\104",
+		"SkillName": {
+			"hash": 764669455
+		},
+		"SkillDesc": {
+			"hash": -58589419
+		},
+		"DataImpl": {},
+		"SupportAvatarID": 201,
+		"SupportAvatarLevel": 2
+	},
+	{
+		"BuffID": 0,
+		"SkillFunctionName": "AvatarAssistant_BronyaBlackHole",
+		"AbilityName": "AvatarAssistant_BronyaBlackHole",
+		"ParamList": [
+			"30"
+		],
+		"CD": 30,
+		"SkillIcon": "SpriteOutput\\AvatarIconSide\\301",
+		"SkillName": {
+			"hash": 764670415
+		},
+		"SkillDesc": {
+			"hash": -58588459
+		},
+		"DataImpl": {},
+		"SupportAvatarID": 202,
+		"SupportAvatarLevel": 1
+	},
+	{
+		"BuffID": 10002,
+		"SkillFunctionName": "AvatarAssistant_BronyaBlackHole_EX",
+		"AbilityName": "AvatarAssistant_BronyaBlackHole_EX",
+		"ParamList": [
+			"30"
+		],
+		"CD": 30,
+		"SkillIcon": "SpriteOutput\\AvatarIconSide\\301",
+		"SkillName": {
+			"hash": 764670416
+		},
+		"SkillDesc": {
+			"hash": -58588458
+		},
+		"DataImpl": {},
+		"SupportAvatarID": 202,
+		"SupportAvatarLevel": 2
+	},
+	{
+		"BuffID": 0,
+		"SkillFunctionName": "",
+		"AbilityName": "AvatarAssistant_HealSP",
+		"ParamList": [
+			"60",
+			"40"
+		],
+		"CD": 40,
+		"SkillIcon": "SpriteOutput\\AvatarIconSide\\204",
+		"SkillName": {
+			"hash": 764671376
+		},
+		"SkillDesc": {
+			"hash": -58587498
+		},
+		"DataImpl": {},
+		"SupportAvatarID": 203,
+		"SupportAvatarLevel": 1
+	},
+	{
+		"BuffID": 10003,
+		"SkillFunctionName": "",
+		"AbilityName": "AvatarAssistant_HealSP_EX",
+		"ParamList": [
+			"60",
+			"15",
+			"5",
+			"3",
+			"1.5"
+		],
+		"CD": 40,
+		"SkillIcon": "SpriteOutput\\AvatarIconSide\\204",
+		"SkillName": {
+			"hash": 764671377
+		},
+		"SkillDesc": {
+			"hash": -58587497
+		},
+		"DataImpl": {},
+		"SupportAvatarID": 203,
+		"SupportAvatarLevel": 2
+	},
+	{
+		"BuffID": 0,
+		"SkillFunctionName": "",
+		"AbilityName": "AvatarAssistant_AddDamage",
+		"ParamList": [
+			"10",
+			"-0.3",
+			"1.5",
+			"40"
+		],
+		"CD": 30,
+		"SkillIcon": "SpriteOutput\\AvatarIconSide\\404",
+		"SkillName": {
+			"hash": 764672337
+		},
+		"SkillDesc": {
+			"hash": -58586537
+		},
+		"DataImpl": {},
+		"SupportAvatarID": 204,
+		"SupportAvatarLevel": 1
+	},
+	{
+		"BuffID": 10004,
+		"SkillFunctionName": "",
+		"AbilityName": "AvatarAssistant_AddDamageEX",
+		"ParamList": [
+			"10",
+			"-0.5",
+			"1"
+		],
+		"CD": 30,
+		"SkillIcon": "SpriteOutput\\AvatarIconSide\\404",
+		"SkillName": {
+			"hash": 764672338
+		},
+		"SkillDesc": {
+			"hash": -58586536
+		},
+		"DataImpl": {},
+		"SupportAvatarID": 204,
+		"SupportAvatarLevel": 2
+	},
+	{
+		"BuffID": 0,
+		"SkillFunctionName": "AvatarAssistant_SeeleC2Ultra",
+		"AbilityName": "AvatarAssistant_SeeleC2Ultra",
+		"ParamList": [],
+		"CD": 40,
+		"SkillIcon": "SpriteOutput\\AvatarIconSide\\712",
+		"SkillName": {
+			"hash": 764673298
+		},
+		"SkillDesc": {
+			"hash": -58585576
+		},
+		"DataImpl": {},
+		"SupportAvatarID": 205,
+		"SupportAvatarLevel": 1
+	},
+	{
+		"BuffID": 10005,
+		"SkillFunctionName": "AvatarAssistant_SeeleC2Ultra_EX",
+		"AbilityName": "AvatarAssistant_SeeleC2Ultra",
+		"ParamList": [],
+		"CD": 40,
+		"SkillIcon": "SpriteOutput\\AvatarIconSide\\712",
+		"SkillName": {
+			"hash": 764673299
+		},
+		"SkillDesc": {
+			"hash": -58585575
+		},
+		"DataImpl": {},
+		"SupportAvatarID": 205,
+		"SupportAvatarLevel": 2
+	},
+	{
+		"BuffID": 0,
+		"SkillFunctionName": "AvatarAssistant_FukaC5Ultra",
+		"AbilityName": "AvatarAssistant_FukaC5Ultra",
+		"ParamList": [],
+		"CD": 50,
+		"SkillIcon": "SpriteOutput\\AvatarIconSide\\611",
+		"SkillName": {
+			"hash": 764674259
+		},
+		"SkillDesc": {
+			"hash": -58584615
+		},
+		"DataImpl": {},
+		"SupportAvatarID": 206,
+		"SupportAvatarLevel": 1
+	},
+	{
+		"BuffID": 10006,
+		"SkillFunctionName": "AvatarAssistant_FukaC5Ultra_EX",
+		"AbilityName": "AvatarAssistant_FukaC5Ultra",
+		"ParamList": [],
+		"CD": 50,
+		"SkillIcon": "SpriteOutput\\AvatarIconSide\\611",
+		"SkillName": {
+			"hash": 764674260
+		},
+		"SkillDesc": {
+			"hash": -58584614
+		},
+		"DataImpl": {},
+		"SupportAvatarID": 206,
+		"SupportAvatarLevel": 2
+	},
+	{
+		"BuffID": 0,
+		"SkillFunctionName": "AvatarAssistant_DurandalC2Ultra",
+		"AbilityName": "AvatarAssistant_DurandalC2Ultra",
+		"ParamList": [
+			"2000",
+			"1",
+			"5"
+		],
+		"CD": 30,
+		"SkillIcon": "SpriteOutput\\AvatarIconSide\\802",
+		"SkillName": {
+			"hash": 764675220
+		},
+		"SkillDesc": {
+			"hash": -58583654
+		},
+		"DataImpl": {},
+		"SupportAvatarID": 207,
+		"SupportAvatarLevel": 1
+	},
+	{
+		"BuffID": 10007,
+		"SkillFunctionName": "AvatarAssistant_DurandalC2Ultra_EX",
+		"AbilityName": "AvatarAssistant_DurandalC2Ultra",
+		"ParamList": [
+			"2000",
+			"1",
+			"5"
+		],
+		"CD": 30,
+		"SkillIcon": "SpriteOutput\\AvatarIconSide\\802",
+		"SkillName": {
+			"hash": 764675221
+		},
+		"SkillDesc": {
+			"hash": -58583653
+		},
+		"DataImpl": {},
+		"SupportAvatarID": 207,
+		"SupportAvatarLevel": 2
+	},
+	{
+		"BuffID": 0,
+		"SkillFunctionName": "AvatarAssistant_RitaC4Ultra",
+		"AbilityName": "AvatarAssistant_RitaC4Ultra",
+		"ParamList": [],
+		"CD": 50,
+		"SkillIcon": "SpriteOutput\\AvatarIconSide\\704",
+		"SkillName": {
+			"hash": 764676181
+		},
+		"SkillDesc": {
+			"hash": -58582693
+		},
+		"DataImpl": {},
+		"SupportAvatarID": 208,
+		"SupportAvatarLevel": 1
+	},
+	{
+		"BuffID": 10008,
+		"SkillFunctionName": "AvatarAssistant_RitaC4Ultra_EX",
+		"AbilityName": "AvatarAssistant_RitaC4Ultra",
+		"ParamList": [],
+		"CD": 50,
+		"SkillIcon": "SpriteOutput\\AvatarIconSide\\704",
+		"SkillName": {
+			"hash": 764676182
+		},
+		"SkillDesc": {
+			"hash": -58582692
+		},
+		"DataImpl": {},
+		"SupportAvatarID": 208,
+		"SupportAvatarLevel": 2
+	}
+]

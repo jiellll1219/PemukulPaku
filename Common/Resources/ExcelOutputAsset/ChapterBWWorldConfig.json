@@ -1,0 +1,65 @@
+[
+	{
+		"RuneList": [
+			10,
+			11,
+			12,
+			13,
+			14,
+			15,
+			16,
+			17,
+			20,
+			21,
+			22,
+			23,
+			24,
+			30,
+			31,
+			32,
+			33,
+			34,
+			40,
+			41,
+			42,
+			43,
+			44,
+			9001,
+			9002,
+			9004,
+			9003
+		],
+		"MaxEquipRuneNum": 2,
+		"MaxRuneNum": 200,
+		"MaxRuneAffixNum": 4,
+		"UpgradeConsumeMaxRuneNum": 10,
+		"RewardLineMaterial": 122763,
+		"RewardLineConfigID": 1,
+		"RewardDisplayScheduleID": 67,
+		"LimitRewardEndTime": {
+			"TimeStampForBakedReader": 1691035199
+		},
+		"ExpMaterialList": [
+			{
+				"MaterialExp": 2500,
+				"MaterialID": 122765
+			},
+			{
+				"MaterialExp": 500,
+				"MaterialID": 122764
+			}
+		],
+		"MaxExpMaterialNum": 999,
+		"RuneExpConvertPercent": 80,
+		"RuneConsumeNoticeLevel": 10,
+		"FilterChapterIDCount": 1,
+		"DailyDifficultyCount": 3,
+		"RuneSystemUnlock": 15001,
+		"RuneLevelupUnlock": 15001,
+		"RuneFusionUnlock": 15101,
+		"UnlockMissionNoteLevelID": 15002,
+		"UnlockBlackWorldLevelID": 15001,
+		"DataImpl": {},
+		"ChapterID": 37
+	}
+]

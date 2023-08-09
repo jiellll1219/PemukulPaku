@@ -1,0 +1,50 @@
+[
+	{
+		"MapID": 701,
+		"UINodePath": "1",
+		"PlotID": 55573,
+		"SiteTitle": {
+			"hash": 118784445
+		},
+		"SiteSubTitle": {
+			"hash": 715325079
+		},
+		"WindowImgPath": "SpriteOutput/Chapter28/ReviewSystem/5.5_ChapterOWPlotSite_001",
+		"WindowDesc": {
+			"hash": 1915446656
+		},
+		"WindowBtnText": {
+			"hash": -457279439
+		},
+		"ShowCondition": "2|2022-01-14 10:00:00;3|13211",
+		"UnlockCondition": "2|2022-01-14 10:00:00;3|13211",
+		"PassedCondition": "4|671052",
+		"CloseCondition": "2|2022-01-21 11:59:59",
+		"DataImpl": {},
+		"SiteID": 1
+	},
+	{
+		"MapID": 701,
+		"UINodePath": "2",
+		"PlotID": 55574,
+		"SiteTitle": {
+			"hash": 118784446
+		},
+		"SiteSubTitle": {
+			"hash": 715325080
+		},
+		"WindowImgPath": "SpriteOutput/Chapter28/ReviewSystem/5.5_ChapterOWPlotSite_002",
+		"WindowDesc": {
+			"hash": 1915446657
+		},
+		"WindowBtnText": {
+			"hash": -457279438
+		},
+		"ShowCondition": "2|2022-01-21 12:00:00;3|13211",
+		"UnlockCondition": "2|2022-01-21 12:00:00;3|13211",
+		"PassedCondition": "4|671043",
+		"CloseCondition": "4|671043",
+		"DataImpl": {},
+		"SiteID": 2
+	}
+]

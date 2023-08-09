@@ -1,0 +1,382 @@
+[
+	{
+		"RuneSkillQuality": 99,
+		"RuneSkillQualityIconPath": "SpriteOutput/ChapterActivity/Chapter37/AffixIcon/05",
+		"RuneSkillDesc": "BWWorldRuneSkillDesc_0",
+		"PassiveSkillAbility": "",
+		"PassiveSkillParam": [],
+		"DataImpl": {},
+		"AffixID": 0
+	},
+	{
+		"RuneSkillQuality": 1,
+		"RuneSkillQualityIconPath": "SpriteOutput/ChapterActivity/Chapter37/AffixIcon/01",
+		"RuneSkillDesc": "BWWorldRuneSkillDesc_1001",
+		"PassiveSkillAbility": "WB_Perk_B_General_AllDamageUp_ABL",
+		"PassiveSkillParam": [
+			10,
+			0.1
+		],
+		"DataImpl": {},
+		"AffixID": 1001
+	},
+	{
+		"RuneSkillQuality": 1,
+		"RuneSkillQualityIconPath": "SpriteOutput/ChapterActivity/Chapter37/AffixIcon/01",
+		"RuneSkillDesc": "BWWorldRuneSkillDesc_1002",
+		"PassiveSkillAbility": "WB_Perk_B_General_DamageTakenUp_ABL",
+		"PassiveSkillParam": [
+			10,
+			0.06
+		],
+		"DataImpl": {},
+		"AffixID": 1002
+	},
+	{
+		"RuneSkillQuality": 1,
+		"RuneSkillQualityIconPath": "SpriteOutput/ChapterActivity/Chapter37/AffixIcon/01",
+		"RuneSkillDesc": "BWWorldRuneSkillDesc_1003",
+		"PassiveSkillAbility": "WB_Perk_B_General_ElementDamageUp_ABL",
+		"PassiveSkillParam": [
+			10,
+			0.15
+		],
+		"DataImpl": {},
+		"AffixID": 1003
+	},
+	{
+		"RuneSkillQuality": 1,
+		"RuneSkillQualityIconPath": "SpriteOutput/ChapterActivity/Chapter37/AffixIcon/01",
+		"RuneSkillDesc": "BWWorldRuneSkillDesc_1004",
+		"PassiveSkillAbility": "WB_Perk_B_General_ElementDamageUp_ABL",
+		"PassiveSkillParam": [
+			10,
+			0.15
+		],
+		"DataImpl": {},
+		"AffixID": 1004
+	},
+	{
+		"RuneSkillQuality": 1,
+		"RuneSkillQualityIconPath": "SpriteOutput/ChapterActivity/Chapter37/AffixIcon/01",
+		"RuneSkillDesc": "BWWorldRuneSkillDesc_1005",
+		"PassiveSkillAbility": "WB_Perk_B_General_ElementDamageUp_ABL",
+		"PassiveSkillParam": [
+			10,
+			0.15
+		],
+		"DataImpl": {},
+		"AffixID": 1005
+	},
+	{
+		"RuneSkillQuality": 1,
+		"RuneSkillQualityIconPath": "SpriteOutput/ChapterActivity/Chapter37/AffixIcon/01",
+		"RuneSkillDesc": "BWWorldRuneSkillDesc_1006",
+		"PassiveSkillAbility": "WB_Perk_B_General_AddSP_ABL",
+		"PassiveSkillParam": [
+			20
+		],
+		"DataImpl": {},
+		"AffixID": 1006
+	},
+	{
+		"RuneSkillQuality": 1,
+		"RuneSkillQualityIconPath": "SpriteOutput/ChapterActivity/Chapter37/AffixIcon/01",
+		"RuneSkillDesc": "BWWorldRuneSkillDesc_1007",
+		"PassiveSkillAbility": "WB_Perk_B_General_RuneDamageUp_ABL",
+		"PassiveSkillParam": [
+			0.04
+		],
+		"DataImpl": {},
+		"AffixID": 1007
+	},
+	{
+		"RuneSkillQuality": 1,
+		"RuneSkillQualityIconPath": "SpriteOutput/ChapterActivity/Chapter37/AffixIcon/01",
+		"RuneSkillDesc": "BWWorldRuneSkillDesc_1008",
+		"PassiveSkillAbility": "WB_Perk_B_General_AttackDamageUp_ABL",
+		"PassiveSkillParam": [
+			10,
+			0.12
+		],
+		"DataImpl": {},
+		"AffixID": 1008
+	},
+	{
+		"RuneSkillQuality": 1,
+		"RuneSkillQualityIconPath": "SpriteOutput/ChapterActivity/Chapter37/AffixIcon/01",
+		"RuneSkillDesc": "BWWorldRuneSkillDesc_1009",
+		"PassiveSkillAbility": "WB_Perk_B_General_AddSP_ABL",
+		"PassiveSkillParam": [
+			20,
+			0.3,
+			2,
+			1,
+			1
+		],
+		"DataImpl": {},
+		"AffixID": 1009
+	},
+	{
+		"RuneSkillQuality": 1,
+		"RuneSkillQualityIconPath": "SpriteOutput/ChapterActivity/Chapter37/AffixIcon/01",
+		"RuneSkillDesc": "BWWorldRuneSkillDesc_1010",
+		"PassiveSkillAbility": "WB_Perk_B_General_RuneDamageUp_ABL",
+		"PassiveSkillParam": [
+			20,
+			0.3,
+			2,
+			1,
+			1
+		],
+		"DataImpl": {},
+		"AffixID": 1010
+	},
+	{
+		"RuneSkillQuality": 1,
+		"RuneSkillQualityIconPath": "SpriteOutput/ChapterActivity/Chapter37/AffixIcon/01",
+		"RuneSkillDesc": "BWWorldRuneSkillDesc_1011",
+		"PassiveSkillAbility": "WB_Perk_B_General_RuneDamageUp_ABL",
+		"PassiveSkillParam": [
+			20,
+			0.3,
+			2,
+			1,
+			1
+		],
+		"DataImpl": {},
+		"AffixID": 1011
+	},
+	{
+		"RuneSkillQuality": 2,
+		"RuneSkillQualityIconPath": "SpriteOutput/ChapterActivity/Chapter37/AffixIcon/02",
+		"RuneSkillDesc": "BWWorldRuneSkillDesc_2001",
+		"PassiveSkillAbility": "WB_Perk_A_General_AllDamageUp_ABL",
+		"PassiveSkillParam": [
+			10,
+			0.15
+		],
+		"DataImpl": {},
+		"AffixID": 2001
+	},
+	{
+		"RuneSkillQuality": 2,
+		"RuneSkillQualityIconPath": "SpriteOutput/ChapterActivity/Chapter37/AffixIcon/02",
+		"RuneSkillDesc": "BWWorldRuneSkillDesc_2002",
+		"PassiveSkillAbility": "WB_Perk_A_General_DamageTakenUp_ABL",
+		"PassiveSkillParam": [
+			10,
+			0.1
+		],
+		"DataImpl": {},
+		"AffixID": 2002
+	},
+	{
+		"RuneSkillQuality": 2,
+		"RuneSkillQualityIconPath": "SpriteOutput/ChapterActivity/Chapter37/AffixIcon/02",
+		"RuneSkillDesc": "BWWorldRuneSkillDesc_2003",
+		"PassiveSkillAbility": "WB_Perk_A_General_ElementDamageUp_ABL",
+		"PassiveSkillParam": [
+			10,
+			0.27
+		],
+		"DataImpl": {},
+		"AffixID": 2003
+	},
+	{
+		"RuneSkillQuality": 2,
+		"RuneSkillQualityIconPath": "SpriteOutput/ChapterActivity/Chapter37/AffixIcon/02",
+		"RuneSkillDesc": "BWWorldRuneSkillDesc_2004",
+		"PassiveSkillAbility": "WB_Perk_A_General_ElementDamageUp_ABL",
+		"PassiveSkillParam": [
+			10,
+			0.27
+		],
+		"DataImpl": {},
+		"AffixID": 2004
+	},
+	{
+		"RuneSkillQuality": 2,
+		"RuneSkillQualityIconPath": "SpriteOutput/ChapterActivity/Chapter37/AffixIcon/02",
+		"RuneSkillDesc": "BWWorldRuneSkillDesc_2005",
+		"PassiveSkillAbility": "WB_Perk_A_General_ElementDamageUp_ABL",
+		"PassiveSkillParam": [
+			10,
+			0.27
+		],
+		"DataImpl": {},
+		"AffixID": 2005
+	},
+	{
+		"RuneSkillQuality": 2,
+		"RuneSkillQualityIconPath": "SpriteOutput/ChapterActivity/Chapter37/AffixIcon/02",
+		"RuneSkillDesc": "BWWorldRuneSkillDesc_2006",
+		"PassiveSkillAbility": "WB_Perk_A_General_AddSP_ABL",
+		"PassiveSkillParam": [
+			30
+		],
+		"DataImpl": {},
+		"AffixID": 2006
+	},
+	{
+		"RuneSkillQuality": 2,
+		"RuneSkillQualityIconPath": "SpriteOutput/ChapterActivity/Chapter37/AffixIcon/02",
+		"RuneSkillDesc": "BWWorldRuneSkillDesc_2007",
+		"PassiveSkillAbility": "WB_Perk_A_General_RuneDamageUp_ABL",
+		"PassiveSkillParam": [
+			0.08
+		],
+		"DataImpl": {},
+		"AffixID": 2007
+	},
+	{
+		"RuneSkillQuality": 2,
+		"RuneSkillQualityIconPath": "SpriteOutput/ChapterActivity/Chapter37/AffixIcon/02",
+		"RuneSkillDesc": "BWWorldRuneSkillDesc_2008",
+		"PassiveSkillAbility": "WB_Perk_A_General_AttackDamageUp_ABL",
+		"PassiveSkillParam": [
+			10,
+			0.2
+		],
+		"DataImpl": {},
+		"AffixID": 2008
+	},
+	{
+		"RuneSkillQuality": 3,
+		"RuneSkillQualityIconPath": "SpriteOutput/ChapterActivity/Chapter37/AffixIcon/03",
+		"RuneSkillDesc": "BWWorldRuneSkillDesc_3001",
+		"PassiveSkillAbility": "WB_Perk_S_General_AllDamageUp_ABL",
+		"PassiveSkillParam": [
+			10,
+			0.25
+		],
+		"DataImpl": {},
+		"AffixID": 3001
+	},
+	{
+		"RuneSkillQuality": 3,
+		"RuneSkillQualityIconPath": "SpriteOutput/ChapterActivity/Chapter37/AffixIcon/03",
+		"RuneSkillDesc": "BWWorldRuneSkillDesc_3002",
+		"PassiveSkillAbility": "WB_Perk_S_General_DamageTakenUp_ABL",
+		"PassiveSkillParam": [
+			10,
+			0.15
+		],
+		"DataImpl": {},
+		"AffixID": 3002
+	},
+	{
+		"RuneSkillQuality": 3,
+		"RuneSkillQualityIconPath": "SpriteOutput/ChapterActivity/Chapter37/AffixIcon/03",
+		"RuneSkillDesc": "BWWorldRuneSkillDesc_3003",
+		"PassiveSkillAbility": "WB_Perk_S_General_ElementDamageUp_ABL",
+		"PassiveSkillParam": [
+			10,
+			0.35
+		],
+		"DataImpl": {},
+		"AffixID": 3003
+	},
+	{
+		"RuneSkillQuality": 3,
+		"RuneSkillQualityIconPath": "SpriteOutput/ChapterActivity/Chapter37/AffixIcon/03",
+		"RuneSkillDesc": "BWWorldRuneSkillDesc_3004",
+		"PassiveSkillAbility": "WB_Perk_S_General_ElementDamageUp_ABL",
+		"PassiveSkillParam": [
+			10,
+			0.35
+		],
+		"DataImpl": {},
+		"AffixID": 3004
+	},
+	{
+		"RuneSkillQuality": 3,
+		"RuneSkillQualityIconPath": "SpriteOutput/ChapterActivity/Chapter37/AffixIcon/03",
+		"RuneSkillDesc": "BWWorldRuneSkillDesc_3005",
+		"PassiveSkillAbility": "WB_Perk_S_General_ElementDamageUp_ABL",
+		"PassiveSkillParam": [
+			10,
+			0.35
+		],
+		"DataImpl": {},
+		"AffixID": 3005
+	},
+	{
+		"RuneSkillQuality": 3,
+		"RuneSkillQualityIconPath": "SpriteOutput/ChapterActivity/Chapter37/AffixIcon/03",
+		"RuneSkillDesc": "BWWorldRuneSkillDesc_3006",
+		"PassiveSkillAbility": "WB_Perk_S_General_AddSP_ABL",
+		"PassiveSkillParam": [
+			40
+		],
+		"DataImpl": {},
+		"AffixID": 3006
+	},
+	{
+		"RuneSkillQuality": 3,
+		"RuneSkillQualityIconPath": "SpriteOutput/ChapterActivity/Chapter37/AffixIcon/03",
+		"RuneSkillDesc": "BWWorldRuneSkillDesc_3007",
+		"PassiveSkillAbility": "WB_Perk_S_General_RuneDamageUp_ABL",
+		"PassiveSkillParam": [
+			0.12
+		],
+		"DataImpl": {},
+		"AffixID": 3007
+	},
+	{
+		"RuneSkillQuality": 3,
+		"RuneSkillQualityIconPath": "SpriteOutput/ChapterActivity/Chapter37/AffixIcon/03",
+		"RuneSkillDesc": "BWWorldRuneSkillDesc_3008",
+		"PassiveSkillAbility": "WB_Perk_S_General_AttackDamageUp_ABL",
+		"PassiveSkillParam": [
+			10,
+			0.3
+		],
+		"DataImpl": {},
+		"AffixID": 3008
+	},
+	{
+		"RuneSkillQuality": 4,
+		"RuneSkillQualityIconPath": "SpriteOutput/ChapterActivity/Chapter37/AffixIcon/04",
+		"RuneSkillDesc": "BWWorldRuneSkillDesc_4001",
+		"PassiveSkillAbility": "WB_Perk_SSS_Exclusive_Execution_ABL",
+		"PassiveSkillParam": [
+			0.3
+		],
+		"DataImpl": {},
+		"AffixID": 4001
+	},
+	{
+		"RuneSkillQuality": 4,
+		"RuneSkillQualityIconPath": "SpriteOutput/ChapterActivity/Chapter37/AffixIcon/04",
+		"RuneSkillDesc": "BWWorldRuneSkillDesc_4002",
+		"PassiveSkillAbility": "WB_Perk_SSS_Exclusive_IceExplode_ABL",
+		"PassiveSkillParam": [
+			0.2
+		],
+		"DataImpl": {},
+		"AffixID": 4002
+	},
+	{
+		"RuneSkillQuality": 4,
+		"RuneSkillQualityIconPath": "SpriteOutput/ChapterActivity/Chapter37/AffixIcon/04",
+		"RuneSkillDesc": "BWWorldRuneSkillDesc_4003",
+		"PassiveSkillAbility": "WB_Perk_SSS_Exclusive_ThunderExtraHit_ABL",
+		"PassiveSkillParam": [
+			20
+		],
+		"DataImpl": {},
+		"AffixID": 4003
+	},
+	{
+		"RuneSkillQuality": 4,
+		"RuneSkillQualityIconPath": "SpriteOutput/ChapterActivity/Chapter37/AffixIcon/04",
+		"RuneSkillDesc": "BWWorldRuneSkillDesc_4004",
+		"PassiveSkillAbility": "WB_Perk_SSS_Exclusive_FallExplode_ABL",
+		"PassiveSkillParam": [
+			1.2
+		],
+		"DataImpl": {},
+		"AffixID": 4004
+	}
+]

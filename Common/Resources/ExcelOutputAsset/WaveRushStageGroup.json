@@ -1,0 +1,3488 @@
+[
+	{
+		"SiteID": 1,
+		"SiteName": {
+			"hash": -888237970
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 0,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [
+			1001
+		],
+		"SiteIndex": 1,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 1,
+		"StageID": 10302001
+	},
+	{
+		"SiteID": 2,
+		"SiteName": {
+			"hash": -888237969
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 1,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [
+			1002
+		],
+		"SiteIndex": 2,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 1,
+		"StageID": 10302002
+	},
+	{
+		"SiteID": 3,
+		"SiteName": {
+			"hash": -888237968
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 2,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [
+			1003,
+			1004
+		],
+		"SiteIndex": 3,
+		"ShowDialog": 1,
+		"DialogDesc": [
+			{
+				"hash": -2008854000
+			},
+			{
+				"hash": -323373147
+			}
+		],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 1,
+		"StageID": 10302003
+	},
+	{
+		"SiteID": 4,
+		"SiteName": {
+			"hash": -888237967
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 3,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 4,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 1,
+		"StageID": 10302004
+	},
+	{
+		"SiteID": 5,
+		"SiteName": {
+			"hash": -888237966
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 4,
+		"BeginTimeOffSet": 172800,
+		"UnlockBuffIDList": [
+			2001
+		],
+		"SiteIndex": 5,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 1,
+		"StageID": 10302005
+	},
+	{
+		"SiteID": 6,
+		"SiteName": {
+			"hash": -888237965
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 5,
+		"BeginTimeOffSet": 172800,
+		"UnlockBuffIDList": [
+			2002
+		],
+		"SiteIndex": 6,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 1,
+		"StageID": 10302006
+	},
+	{
+		"SiteID": 7,
+		"SiteName": {
+			"hash": -888237964
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 6,
+		"BeginTimeOffSet": 172800,
+		"UnlockBuffIDList": [
+			2003,
+			2004
+		],
+		"SiteIndex": 7,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 1,
+		"StageID": 10302007
+	},
+	{
+		"SiteID": 8,
+		"SiteName": {
+			"hash": -888237963
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 7,
+		"BeginTimeOffSet": 172800,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 8,
+		"ShowDialog": 1,
+		"DialogDesc": [
+			{
+				"hash": -1993647360
+			},
+			{
+				"hash": -308166507
+			}
+		],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 1,
+		"StageID": 10302008
+	},
+	{
+		"SiteID": 9,
+		"SiteName": {
+			"hash": -888237962
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 8,
+		"BeginTimeOffSet": 432000,
+		"UnlockBuffIDList": [
+			3001
+		],
+		"SiteIndex": 1,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 1,
+		"StageID": 10302009
+	},
+	{
+		"SiteID": 10,
+		"SiteName": {
+			"hash": -1765573246
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 9,
+		"BeginTimeOffSet": 432000,
+		"UnlockBuffIDList": [
+			3002,
+			3003
+		],
+		"SiteIndex": 2,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 1,
+		"StageID": 10302010
+	},
+	{
+		"SiteID": 11,
+		"SiteName": {
+			"hash": -1765573245
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 10,
+		"BeginTimeOffSet": 432000,
+		"UnlockBuffIDList": [
+			3004
+		],
+		"SiteIndex": 3,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 1,
+		"StageID": 10302011
+	},
+	{
+		"SiteID": 12,
+		"SiteName": {
+			"hash": -1765573244
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 11,
+		"BeginTimeOffSet": 432000,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 4,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 1,
+		"StageID": 10302012
+	},
+	{
+		"SiteID": 13,
+		"SiteName": {
+			"hash": -1765573243
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 12,
+		"BeginTimeOffSet": 691200,
+		"UnlockBuffIDList": [
+			4001
+		],
+		"SiteIndex": 5,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 1,
+		"StageID": 10302013
+	},
+	{
+		"SiteID": 14,
+		"SiteName": {
+			"hash": -1765573242
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 13,
+		"BeginTimeOffSet": 691200,
+		"UnlockBuffIDList": [
+			4002,
+			4003
+		],
+		"SiteIndex": 6,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 1,
+		"StageID": 10302014
+	},
+	{
+		"SiteID": 15,
+		"SiteName": {
+			"hash": -1765573241
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 14,
+		"BeginTimeOffSet": 691200,
+		"UnlockBuffIDList": [
+			4004
+		],
+		"SiteIndex": 7,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 1,
+		"StageID": 10302015
+	},
+	{
+		"SiteID": 16,
+		"SiteName": {
+			"hash": -1765573240
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 15,
+		"BeginTimeOffSet": 691200,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 8,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 1,
+		"StageID": 10302016
+	},
+	{
+		"SiteID": 17,
+		"SiteName": {
+			"hash": -1765573239
+		},
+		"Area": 0,
+		"Type": 2,
+		"SiteType": 1,
+		"PreSiteID": 3,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 0,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 1,
+		"StageID": 10302017
+	},
+	{
+		"SiteID": 18,
+		"SiteName": {
+			"hash": -1765573238
+		},
+		"Area": 0,
+		"Type": 2,
+		"SiteType": 1,
+		"PreSiteID": 3,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 0,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 1,
+		"StageID": 10302018
+	},
+	{
+		"SiteID": 19,
+		"SiteName": {
+			"hash": -1765573237
+		},
+		"Area": 0,
+		"Type": 2,
+		"SiteType": 1,
+		"PreSiteID": 3,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 0,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 1,
+		"StageID": 10302019
+	},
+	{
+		"SiteID": 20,
+		"SiteName": {
+			"hash": -1765573215
+		},
+		"Area": 0,
+		"Type": 2,
+		"SiteType": 1,
+		"PreSiteID": 3,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 0,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 1,
+		"StageID": 10302020
+	},
+	{
+		"SiteID": 21,
+		"SiteName": {
+			"hash": -1765573214
+		},
+		"Area": 0,
+		"Type": 3,
+		"SiteType": 1,
+		"PreSiteID": 8,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 0,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 1,
+		"StageID": 10302021
+	},
+	{
+		"SiteID": 22,
+		"SiteName": {
+			"hash": -1765573213
+		},
+		"Area": 0,
+		"Type": 3,
+		"SiteType": 1,
+		"PreSiteID": 12,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 0,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 1,
+		"StageID": 10302022
+	},
+	{
+		"SiteID": 23,
+		"SiteName": {
+			"hash": -1765573212
+		},
+		"Area": 0,
+		"Type": 3,
+		"SiteType": 1,
+		"PreSiteID": 16,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 0,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 1,
+		"StageID": 10302023
+	},
+	{
+		"SiteID": 1,
+		"SiteName": {
+			"hash": -888237970
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 0,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [
+			6001
+		],
+		"SiteIndex": 1,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 2,
+		"StageID": 10302101
+	},
+	{
+		"SiteID": 2,
+		"SiteName": {
+			"hash": -888237969
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 1,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [
+			6002
+		],
+		"SiteIndex": 2,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 2,
+		"StageID": 10302102
+	},
+	{
+		"SiteID": 3,
+		"SiteName": {
+			"hash": -888237968
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 2,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [
+			6003,
+			6004
+		],
+		"SiteIndex": 3,
+		"ShowDialog": 1,
+		"DialogDesc": [
+			{
+				"hash": -2008854000
+			},
+			{
+				"hash": -323373147
+			}
+		],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 2,
+		"StageID": 10302103
+	},
+	{
+		"SiteID": 4,
+		"SiteName": {
+			"hash": -888237967
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 3,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 4,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 2,
+		"StageID": 10302104
+	},
+	{
+		"SiteID": 5,
+		"SiteName": {
+			"hash": -888237966
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 4,
+		"BeginTimeOffSet": 151200,
+		"UnlockBuffIDList": [
+			2001
+		],
+		"SiteIndex": 5,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 2,
+		"StageID": 10302105
+	},
+	{
+		"SiteID": 6,
+		"SiteName": {
+			"hash": -888237965
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 5,
+		"BeginTimeOffSet": 151200,
+		"UnlockBuffIDList": [
+			2002
+		],
+		"SiteIndex": 6,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 2,
+		"StageID": 10302106
+	},
+	{
+		"SiteID": 7,
+		"SiteName": {
+			"hash": -888237964
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 6,
+		"BeginTimeOffSet": 151200,
+		"UnlockBuffIDList": [
+			2005,
+			2004
+		],
+		"SiteIndex": 7,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 2,
+		"StageID": 10302107
+	},
+	{
+		"SiteID": 8,
+		"SiteName": {
+			"hash": -888237963
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 7,
+		"BeginTimeOffSet": 151200,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 8,
+		"ShowDialog": 1,
+		"DialogDesc": [
+			{
+				"hash": -1993647360
+			},
+			{
+				"hash": -308166507
+			}
+		],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 2,
+		"StageID": 10302108
+	},
+	{
+		"SiteID": 9,
+		"SiteName": {
+			"hash": -888237962
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 8,
+		"BeginTimeOffSet": 410400,
+		"UnlockBuffIDList": [
+			7001
+		],
+		"SiteIndex": 1,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 2,
+		"StageID": 10302109
+	},
+	{
+		"SiteID": 10,
+		"SiteName": {
+			"hash": -1765573246
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 9,
+		"BeginTimeOffSet": 410400,
+		"UnlockBuffIDList": [
+			7002,
+			7003
+		],
+		"SiteIndex": 2,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 2,
+		"StageID": 10302110
+	},
+	{
+		"SiteID": 11,
+		"SiteName": {
+			"hash": -1765573245
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 10,
+		"BeginTimeOffSet": 410400,
+		"UnlockBuffIDList": [
+			7004
+		],
+		"SiteIndex": 3,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 2,
+		"StageID": 10302111
+	},
+	{
+		"SiteID": 12,
+		"SiteName": {
+			"hash": -1765573244
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 11,
+		"BeginTimeOffSet": 410400,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 4,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 2,
+		"StageID": 10302112
+	},
+	{
+		"SiteID": 13,
+		"SiteName": {
+			"hash": -1765573243
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 12,
+		"BeginTimeOffSet": 669600,
+		"UnlockBuffIDList": [
+			1001
+		],
+		"SiteIndex": 5,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 2,
+		"StageID": 10302113
+	},
+	{
+		"SiteID": 14,
+		"SiteName": {
+			"hash": -1765573242
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 13,
+		"BeginTimeOffSet": 669600,
+		"UnlockBuffIDList": [
+			1002,
+			1005
+		],
+		"SiteIndex": 6,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 2,
+		"StageID": 10302114
+	},
+	{
+		"SiteID": 15,
+		"SiteName": {
+			"hash": -1765573241
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 14,
+		"BeginTimeOffSet": 669600,
+		"UnlockBuffIDList": [
+			1004
+		],
+		"SiteIndex": 7,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 2,
+		"StageID": 10302115
+	},
+	{
+		"SiteID": 16,
+		"SiteName": {
+			"hash": -1765573240
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 15,
+		"BeginTimeOffSet": 669600,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 8,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 2,
+		"StageID": 10302116
+	},
+	{
+		"SiteID": 17,
+		"SiteName": {
+			"hash": -1765573239
+		},
+		"Area": 0,
+		"Type": 2,
+		"SiteType": 1,
+		"PreSiteID": 3,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 0,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 2,
+		"StageID": 10302117
+	},
+	{
+		"SiteID": 18,
+		"SiteName": {
+			"hash": -1765573238
+		},
+		"Area": 0,
+		"Type": 2,
+		"SiteType": 1,
+		"PreSiteID": 3,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 0,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 2,
+		"StageID": 10302118
+	},
+	{
+		"SiteID": 19,
+		"SiteName": {
+			"hash": -1765573237
+		},
+		"Area": 0,
+		"Type": 2,
+		"SiteType": 1,
+		"PreSiteID": 3,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 0,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 2,
+		"StageID": 10302119
+	},
+	{
+		"SiteID": 20,
+		"SiteName": {
+			"hash": -1765573215
+		},
+		"Area": 0,
+		"Type": 2,
+		"SiteType": 1,
+		"PreSiteID": 3,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 0,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 2,
+		"StageID": 10302120
+	},
+	{
+		"SiteID": 21,
+		"SiteName": {
+			"hash": -1765573214
+		},
+		"Area": 0,
+		"Type": 3,
+		"SiteType": 1,
+		"PreSiteID": 8,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 0,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 2,
+		"StageID": 10302121
+	},
+	{
+		"SiteID": 22,
+		"SiteName": {
+			"hash": -1765573213
+		},
+		"Area": 0,
+		"Type": 3,
+		"SiteType": 1,
+		"PreSiteID": 12,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 0,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 2,
+		"StageID": 10302122
+	},
+	{
+		"SiteID": 23,
+		"SiteName": {
+			"hash": -1765573212
+		},
+		"Area": 0,
+		"Type": 3,
+		"SiteType": 1,
+		"PreSiteID": 16,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 0,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 2,
+		"StageID": 10302123
+	},
+	{
+		"SiteID": 1,
+		"SiteName": {
+			"hash": -2018454742
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 0,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [
+			9001
+		],
+		"SiteIndex": 1,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 3,
+		"StageID": 10302201
+	},
+	{
+		"SiteID": 2,
+		"SiteName": {
+			"hash": -2018454741
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 1,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [
+			9002,
+			9003
+		],
+		"SiteIndex": 2,
+		"ShowDialog": 1,
+		"DialogDesc": [
+			{
+				"hash": -2008854000
+			},
+			{
+				"hash": -323373147
+			}
+		],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 3,
+		"StageID": 10302202
+	},
+	{
+		"SiteID": 3,
+		"SiteName": {
+			"hash": -2018454740
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 2,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [
+			9004
+		],
+		"SiteIndex": 3,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 3,
+		"StageID": 10302203
+	},
+	{
+		"SiteID": 4,
+		"SiteName": {
+			"hash": -2018454739
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 3,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 4,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": true,
+		"DataImpl": {},
+		"StageGroupConfigID": 3,
+		"StageID": 10302204
+	},
+	{
+		"SiteID": 5,
+		"SiteName": {
+			"hash": -2018454738
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 4,
+		"BeginTimeOffSet": 151200,
+		"UnlockBuffIDList": [
+			8001
+		],
+		"SiteIndex": 5,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 3,
+		"StageID": 10302205
+	},
+	{
+		"SiteID": 6,
+		"SiteName": {
+			"hash": -2018454737
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 5,
+		"BeginTimeOffSet": 151200,
+		"UnlockBuffIDList": [
+			8002,
+			8003
+		],
+		"SiteIndex": 6,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 3,
+		"StageID": 10302206
+	},
+	{
+		"SiteID": 7,
+		"SiteName": {
+			"hash": -2018454736
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 6,
+		"BeginTimeOffSet": 151200,
+		"UnlockBuffIDList": [
+			8004
+		],
+		"SiteIndex": 7,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 3,
+		"StageID": 10302207
+	},
+	{
+		"SiteID": 8,
+		"SiteName": {
+			"hash": -2018454735
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 7,
+		"BeginTimeOffSet": 151200,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 8,
+		"ShowDialog": 1,
+		"DialogDesc": [
+			{
+				"hash": -1993647360
+			},
+			{
+				"hash": -308166507
+			}
+		],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": true,
+		"DataImpl": {},
+		"StageGroupConfigID": 3,
+		"StageID": 10302208
+	},
+	{
+		"SiteID": 9,
+		"SiteName": {
+			"hash": -2018454734
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 8,
+		"BeginTimeOffSet": 324000,
+		"UnlockBuffIDList": [
+			1001
+		],
+		"SiteIndex": 1,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 3,
+		"StageID": 10302209
+	},
+	{
+		"SiteID": 10,
+		"SiteName": {
+			"hash": 1852412486
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 9,
+		"BeginTimeOffSet": 324000,
+		"UnlockBuffIDList": [
+			1002,
+			1003
+		],
+		"SiteIndex": 2,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 3,
+		"StageID": 10302210
+	},
+	{
+		"SiteID": 11,
+		"SiteName": {
+			"hash": 1852412487
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 10,
+		"BeginTimeOffSet": 324000,
+		"UnlockBuffIDList": [
+			1004
+		],
+		"SiteIndex": 3,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 3,
+		"StageID": 10302211
+	},
+	{
+		"SiteID": 12,
+		"SiteName": {
+			"hash": 1852412488
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 11,
+		"BeginTimeOffSet": 324000,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 4,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": true,
+		"DataImpl": {},
+		"StageGroupConfigID": 3,
+		"StageID": 10302212
+	},
+	{
+		"SiteID": 13,
+		"SiteName": {
+			"hash": 1852412489
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 12,
+		"BeginTimeOffSet": 583200,
+		"UnlockBuffIDList": [
+			3001
+		],
+		"SiteIndex": 5,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 3,
+		"StageID": 10302213
+	},
+	{
+		"SiteID": 14,
+		"SiteName": {
+			"hash": 1852412490
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 13,
+		"BeginTimeOffSet": 583200,
+		"UnlockBuffIDList": [
+			3002,
+			3003
+		],
+		"SiteIndex": 6,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 3,
+		"StageID": 10302214
+	},
+	{
+		"SiteID": 15,
+		"SiteName": {
+			"hash": 1852412491
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 14,
+		"BeginTimeOffSet": 583200,
+		"UnlockBuffIDList": [
+			3004
+		],
+		"SiteIndex": 7,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 3,
+		"StageID": 10302215
+	},
+	{
+		"SiteID": 16,
+		"SiteName": {
+			"hash": 1852412492
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 15,
+		"BeginTimeOffSet": 583200,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 8,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": true,
+		"DataImpl": {},
+		"StageGroupConfigID": 3,
+		"StageID": 10302216
+	},
+	{
+		"SiteID": 17,
+		"SiteName": {
+			"hash": 1852412493
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 2,
+		"PreSiteID": 4,
+		"BeginTimeOffSet": 64800,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 101,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": true,
+		"DataImpl": {},
+		"StageGroupConfigID": 3,
+		"StageID": 10302217
+	},
+	{
+		"SiteID": 18,
+		"SiteName": {
+			"hash": 1852412494
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 2,
+		"PreSiteID": 8,
+		"BeginTimeOffSet": 237600,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 102,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": true,
+		"DataImpl": {},
+		"StageGroupConfigID": 3,
+		"StageID": 10302218
+	},
+	{
+		"SiteID": 19,
+		"SiteName": {
+			"hash": 1852412495
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 2,
+		"PreSiteID": 12,
+		"BeginTimeOffSet": 410400,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 101,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": true,
+		"DataImpl": {},
+		"StageGroupConfigID": 3,
+		"StageID": 10302219
+	},
+	{
+		"SiteID": 20,
+		"SiteName": {
+			"hash": 1852412517
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 2,
+		"PreSiteID": 16,
+		"BeginTimeOffSet": 669600,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 102,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": true,
+		"DataImpl": {},
+		"StageGroupConfigID": 3,
+		"StageID": 10302220
+	},
+	{
+		"SiteID": 21,
+		"SiteName": {
+			"hash": 1852412518
+		},
+		"Area": 0,
+		"Type": 2,
+		"SiteType": 1,
+		"PreSiteID": 2,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 0,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 3,
+		"StageID": 10302221
+	},
+	{
+		"SiteID": 22,
+		"SiteName": {
+			"hash": 1852412519
+		},
+		"Area": 0,
+		"Type": 2,
+		"SiteType": 1,
+		"PreSiteID": 2,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 0,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 3,
+		"StageID": 10302222
+	},
+	{
+		"SiteID": 23,
+		"SiteName": {
+			"hash": 1852412520
+		},
+		"Area": 0,
+		"Type": 2,
+		"SiteType": 1,
+		"PreSiteID": 2,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 0,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 3,
+		"StageID": 10302223
+	},
+	{
+		"SiteID": 24,
+		"SiteName": {
+			"hash": 1852412521
+		},
+		"Area": 0,
+		"Type": 2,
+		"SiteType": 1,
+		"PreSiteID": 2,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 0,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 3,
+		"StageID": 10302224
+	},
+	{
+		"SiteID": 25,
+		"SiteName": {
+			"hash": 1852412522
+		},
+		"Area": 0,
+		"Type": 3,
+		"SiteType": 1,
+		"PreSiteID": 8,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 0,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 3,
+		"StageID": 10302225
+	},
+	{
+		"SiteID": 26,
+		"SiteName": {
+			"hash": 1852412523
+		},
+		"Area": 0,
+		"Type": 3,
+		"SiteType": 1,
+		"PreSiteID": 12,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 0,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 3,
+		"StageID": 10302226
+	},
+	{
+		"SiteID": 27,
+		"SiteName": {
+			"hash": 1852412524
+		},
+		"Area": 0,
+		"Type": 3,
+		"SiteType": 1,
+		"PreSiteID": 16,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 0,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 3,
+		"StageID": 10302227
+	},
+	{
+		"SiteID": 1,
+		"SiteName": {
+			"hash": -2018453781
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 0,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [
+			10001
+		],
+		"SiteIndex": 1,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 4,
+		"StageID": 10302301
+	},
+	{
+		"SiteID": 2,
+		"SiteName": {
+			"hash": -2018453780
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 1,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [
+			10002,
+			10003
+		],
+		"SiteIndex": 2,
+		"ShowDialog": 1,
+		"DialogDesc": [
+			{
+				"hash": -2008854000
+			},
+			{
+				"hash": -323373147
+			}
+		],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 4,
+		"StageID": 10302302
+	},
+	{
+		"SiteID": 3,
+		"SiteName": {
+			"hash": -2018453779
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 2,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [
+			10004
+		],
+		"SiteIndex": 3,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 4,
+		"StageID": 10302303
+	},
+	{
+		"SiteID": 4,
+		"SiteName": {
+			"hash": -2018453778
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 3,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 4,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": true,
+		"DataImpl": {},
+		"StageGroupConfigID": 4,
+		"StageID": 10302304
+	},
+	{
+		"SiteID": 5,
+		"SiteName": {
+			"hash": -2018453777
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 4,
+		"BeginTimeOffSet": 151200,
+		"UnlockBuffIDList": [
+			4001
+		],
+		"SiteIndex": 5,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 4,
+		"StageID": 10302305
+	},
+	{
+		"SiteID": 6,
+		"SiteName": {
+			"hash": -2018453776
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 5,
+		"BeginTimeOffSet": 151200,
+		"UnlockBuffIDList": [
+			4002,
+			4003
+		],
+		"SiteIndex": 6,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 4,
+		"StageID": 10302306
+	},
+	{
+		"SiteID": 7,
+		"SiteName": {
+			"hash": -2018453775
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 6,
+		"BeginTimeOffSet": 151200,
+		"UnlockBuffIDList": [
+			4004
+		],
+		"SiteIndex": 7,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 4,
+		"StageID": 10302307
+	},
+	{
+		"SiteID": 8,
+		"SiteName": {
+			"hash": -2018453774
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 7,
+		"BeginTimeOffSet": 151200,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 8,
+		"ShowDialog": 1,
+		"DialogDesc": [
+			{
+				"hash": -1993647360
+			},
+			{
+				"hash": -308166507
+			}
+		],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": true,
+		"DataImpl": {},
+		"StageGroupConfigID": 4,
+		"StageID": 10302308
+	},
+	{
+		"SiteID": 9,
+		"SiteName": {
+			"hash": -2018453773
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 8,
+		"BeginTimeOffSet": 324000,
+		"UnlockBuffIDList": [
+			11001
+		],
+		"SiteIndex": 1,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 4,
+		"StageID": 10302309
+	},
+	{
+		"SiteID": 10,
+		"SiteName": {
+			"hash": 1852442277
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 9,
+		"BeginTimeOffSet": 324000,
+		"UnlockBuffIDList": [
+			11002,
+			11003
+		],
+		"SiteIndex": 2,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 4,
+		"StageID": 10302310
+	},
+	{
+		"SiteID": 11,
+		"SiteName": {
+			"hash": 1852442278
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 10,
+		"BeginTimeOffSet": 324000,
+		"UnlockBuffIDList": [
+			11004
+		],
+		"SiteIndex": 3,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 4,
+		"StageID": 10302311
+	},
+	{
+		"SiteID": 12,
+		"SiteName": {
+			"hash": 1852442279
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 11,
+		"BeginTimeOffSet": 324000,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 4,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": true,
+		"DataImpl": {},
+		"StageGroupConfigID": 4,
+		"StageID": 10302312
+	},
+	{
+		"SiteID": 13,
+		"SiteName": {
+			"hash": 1852442280
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 12,
+		"BeginTimeOffSet": 583200,
+		"UnlockBuffIDList": [
+			3001
+		],
+		"SiteIndex": 5,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 4,
+		"StageID": 10302313
+	},
+	{
+		"SiteID": 14,
+		"SiteName": {
+			"hash": 1852442281
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 13,
+		"BeginTimeOffSet": 583200,
+		"UnlockBuffIDList": [
+			3002,
+			3003
+		],
+		"SiteIndex": 6,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 4,
+		"StageID": 10302314
+	},
+	{
+		"SiteID": 15,
+		"SiteName": {
+			"hash": 1852442282
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 14,
+		"BeginTimeOffSet": 583200,
+		"UnlockBuffIDList": [
+			3004
+		],
+		"SiteIndex": 7,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 4,
+		"StageID": 10302315
+	},
+	{
+		"SiteID": 16,
+		"SiteName": {
+			"hash": 1852442283
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 15,
+		"BeginTimeOffSet": 583200,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 8,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": true,
+		"DataImpl": {},
+		"StageGroupConfigID": 4,
+		"StageID": 10302316
+	},
+	{
+		"SiteID": 17,
+		"SiteName": {
+			"hash": 1852442284
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 2,
+		"PreSiteID": 4,
+		"BeginTimeOffSet": 64800,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 101,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": true,
+		"DataImpl": {},
+		"StageGroupConfigID": 4,
+		"StageID": 10302317
+	},
+	{
+		"SiteID": 18,
+		"SiteName": {
+			"hash": 1852442285
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 2,
+		"PreSiteID": 8,
+		"BeginTimeOffSet": 237600,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 102,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": true,
+		"DataImpl": {},
+		"StageGroupConfigID": 4,
+		"StageID": 10302318
+	},
+	{
+		"SiteID": 19,
+		"SiteName": {
+			"hash": 1852442286
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 2,
+		"PreSiteID": 12,
+		"BeginTimeOffSet": 410400,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 101,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": true,
+		"DataImpl": {},
+		"StageGroupConfigID": 4,
+		"StageID": 10302319
+	},
+	{
+		"SiteID": 20,
+		"SiteName": {
+			"hash": 1852442308
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 2,
+		"PreSiteID": 16,
+		"BeginTimeOffSet": 669600,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 102,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": true,
+		"DataImpl": {},
+		"StageGroupConfigID": 4,
+		"StageID": 10302320
+	},
+	{
+		"SiteID": 21,
+		"SiteName": {
+			"hash": 1852442309
+		},
+		"Area": 0,
+		"Type": 2,
+		"SiteType": 1,
+		"PreSiteID": 2,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 0,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 4,
+		"StageID": 10302321
+	},
+	{
+		"SiteID": 22,
+		"SiteName": {
+			"hash": 1852442310
+		},
+		"Area": 0,
+		"Type": 2,
+		"SiteType": 1,
+		"PreSiteID": 2,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 0,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 4,
+		"StageID": 10302322
+	},
+	{
+		"SiteID": 23,
+		"SiteName": {
+			"hash": 1852442311
+		},
+		"Area": 0,
+		"Type": 2,
+		"SiteType": 1,
+		"PreSiteID": 2,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 0,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 4,
+		"StageID": 10302323
+	},
+	{
+		"SiteID": 24,
+		"SiteName": {
+			"hash": 1852442312
+		},
+		"Area": 0,
+		"Type": 2,
+		"SiteType": 1,
+		"PreSiteID": 2,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 0,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 4,
+		"StageID": 10302324
+	},
+	{
+		"SiteID": 25,
+		"SiteName": {
+			"hash": 1852442313
+		},
+		"Area": 0,
+		"Type": 3,
+		"SiteType": 1,
+		"PreSiteID": 8,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 0,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 4,
+		"StageID": 10302325
+	},
+	{
+		"SiteID": 26,
+		"SiteName": {
+			"hash": 1852442314
+		},
+		"Area": 0,
+		"Type": 3,
+		"SiteType": 1,
+		"PreSiteID": 12,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 0,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 4,
+		"StageID": 10302326
+	},
+	{
+		"SiteID": 27,
+		"SiteName": {
+			"hash": 1852442315
+		},
+		"Area": 0,
+		"Type": 3,
+		"SiteType": 1,
+		"PreSiteID": 16,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 0,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 4,
+		"StageID": 10302327
+	},
+	{
+		"SiteID": 1,
+		"SiteName": {
+			"hash": -2018452820
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 0,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [
+			1001
+		],
+		"SiteIndex": 1,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 5,
+		"StageID": 10302401
+	},
+	{
+		"SiteID": 2,
+		"SiteName": {
+			"hash": -2018452819
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 1,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [
+			1002,
+			1003
+		],
+		"SiteIndex": 2,
+		"ShowDialog": 1,
+		"DialogDesc": [
+			{
+				"hash": -2008854000
+			},
+			{
+				"hash": -323373147
+			}
+		],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 5,
+		"StageID": 10302402
+	},
+	{
+		"SiteID": 3,
+		"SiteName": {
+			"hash": -2018452818
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 2,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [
+			1004
+		],
+		"SiteIndex": 3,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 5,
+		"StageID": 10302403
+	},
+	{
+		"SiteID": 4,
+		"SiteName": {
+			"hash": -2018452817
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 3,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 4,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": true,
+		"DataImpl": {},
+		"StageGroupConfigID": 5,
+		"StageID": 10302404
+	},
+	{
+		"SiteID": 5,
+		"SiteName": {
+			"hash": -2018452816
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 4,
+		"BeginTimeOffSet": 151200,
+		"UnlockBuffIDList": [
+			3001
+		],
+		"SiteIndex": 5,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 5,
+		"StageID": 10302405
+	},
+	{
+		"SiteID": 6,
+		"SiteName": {
+			"hash": -2018452815
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 5,
+		"BeginTimeOffSet": 151200,
+		"UnlockBuffIDList": [
+			3002,
+			3003
+		],
+		"SiteIndex": 6,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 5,
+		"StageID": 10302406
+	},
+	{
+		"SiteID": 7,
+		"SiteName": {
+			"hash": -2018452814
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 6,
+		"BeginTimeOffSet": 151200,
+		"UnlockBuffIDList": [
+			3004
+		],
+		"SiteIndex": 7,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 5,
+		"StageID": 10302407
+	},
+	{
+		"SiteID": 8,
+		"SiteName": {
+			"hash": -2018452813
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 7,
+		"BeginTimeOffSet": 151200,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 8,
+		"ShowDialog": 1,
+		"DialogDesc": [
+			{
+				"hash": -1993647360
+			},
+			{
+				"hash": -308166507
+			}
+		],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": true,
+		"DataImpl": {},
+		"StageGroupConfigID": 5,
+		"StageID": 10302408
+	},
+	{
+		"SiteID": 9,
+		"SiteName": {
+			"hash": -2018452812
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 8,
+		"BeginTimeOffSet": 324000,
+		"UnlockBuffIDList": [
+			6001
+		],
+		"SiteIndex": 1,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 5,
+		"StageID": 10302409
+	},
+	{
+		"SiteID": 10,
+		"SiteName": {
+			"hash": 1852472068
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 9,
+		"BeginTimeOffSet": 324000,
+		"UnlockBuffIDList": [
+			6002,
+			6003
+		],
+		"SiteIndex": 2,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 5,
+		"StageID": 10302410
+	},
+	{
+		"SiteID": 11,
+		"SiteName": {
+			"hash": 1852472069
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 10,
+		"BeginTimeOffSet": 324000,
+		"UnlockBuffIDList": [
+			6004
+		],
+		"SiteIndex": 3,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 5,
+		"StageID": 10302411
+	},
+	{
+		"SiteID": 12,
+		"SiteName": {
+			"hash": 1852472070
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 11,
+		"BeginTimeOffSet": 324000,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 4,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": true,
+		"DataImpl": {},
+		"StageGroupConfigID": 5,
+		"StageID": 10302412
+	},
+	{
+		"SiteID": 13,
+		"SiteName": {
+			"hash": 1852472071
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 12,
+		"BeginTimeOffSet": 583200,
+		"UnlockBuffIDList": [
+			10001
+		],
+		"SiteIndex": 5,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 5,
+		"StageID": 10302413
+	},
+	{
+		"SiteID": 14,
+		"SiteName": {
+			"hash": 1852472072
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 13,
+		"BeginTimeOffSet": 583200,
+		"UnlockBuffIDList": [
+			10002,
+			10003
+		],
+		"SiteIndex": 6,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 5,
+		"StageID": 10302414
+	},
+	{
+		"SiteID": 15,
+		"SiteName": {
+			"hash": 1852472073
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 14,
+		"BeginTimeOffSet": 583200,
+		"UnlockBuffIDList": [
+			10004
+		],
+		"SiteIndex": 7,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 5,
+		"StageID": 10302415
+	},
+	{
+		"SiteID": 16,
+		"SiteName": {
+			"hash": 1852472074
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 15,
+		"BeginTimeOffSet": 583200,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 8,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": true,
+		"DataImpl": {},
+		"StageGroupConfigID": 5,
+		"StageID": 10302416
+	},
+	{
+		"SiteID": 17,
+		"SiteName": {
+			"hash": 1852472075
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 2,
+		"PreSiteID": 4,
+		"BeginTimeOffSet": 64800,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 101,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": true,
+		"DataImpl": {},
+		"StageGroupConfigID": 5,
+		"StageID": 10302417
+	},
+	{
+		"SiteID": 18,
+		"SiteName": {
+			"hash": 1852472076
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 2,
+		"PreSiteID": 8,
+		"BeginTimeOffSet": 237600,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 102,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": true,
+		"DataImpl": {},
+		"StageGroupConfigID": 5,
+		"StageID": 10302418
+	},
+	{
+		"SiteID": 19,
+		"SiteName": {
+			"hash": 1852472077
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 2,
+		"PreSiteID": 12,
+		"BeginTimeOffSet": 410400,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 101,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": true,
+		"DataImpl": {},
+		"StageGroupConfigID": 5,
+		"StageID": 10302419
+	},
+	{
+		"SiteID": 20,
+		"SiteName": {
+			"hash": 1852472099
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 2,
+		"PreSiteID": 16,
+		"BeginTimeOffSet": 669600,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 102,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": true,
+		"DataImpl": {},
+		"StageGroupConfigID": 5,
+		"StageID": 10302420
+	},
+	{
+		"SiteID": 21,
+		"SiteName": {
+			"hash": 1852472100
+		},
+		"Area": 0,
+		"Type": 2,
+		"SiteType": 1,
+		"PreSiteID": 2,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 0,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 5,
+		"StageID": 10302421
+	},
+	{
+		"SiteID": 22,
+		"SiteName": {
+			"hash": 1852472101
+		},
+		"Area": 0,
+		"Type": 2,
+		"SiteType": 1,
+		"PreSiteID": 2,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 0,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 5,
+		"StageID": 10302422
+	},
+	{
+		"SiteID": 23,
+		"SiteName": {
+			"hash": 1852472102
+		},
+		"Area": 0,
+		"Type": 2,
+		"SiteType": 1,
+		"PreSiteID": 2,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 0,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 5,
+		"StageID": 10302423
+	},
+	{
+		"SiteID": 24,
+		"SiteName": {
+			"hash": 1852472103
+		},
+		"Area": 0,
+		"Type": 2,
+		"SiteType": 1,
+		"PreSiteID": 2,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 0,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 5,
+		"StageID": 10302424
+	},
+	{
+		"SiteID": 25,
+		"SiteName": {
+			"hash": 1852472104
+		},
+		"Area": 0,
+		"Type": 3,
+		"SiteType": 1,
+		"PreSiteID": 8,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 0,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 5,
+		"StageID": 10302425
+	},
+	{
+		"SiteID": 26,
+		"SiteName": {
+			"hash": 1852472105
+		},
+		"Area": 0,
+		"Type": 3,
+		"SiteType": 1,
+		"PreSiteID": 12,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 0,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 5,
+		"StageID": 10302426
+	},
+	{
+		"SiteID": 27,
+		"SiteName": {
+			"hash": 1852472106
+		},
+		"Area": 0,
+		"Type": 3,
+		"SiteType": 1,
+		"PreSiteID": 16,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 0,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 5,
+		"StageID": 10302427
+	},
+	{
+		"SiteID": 1,
+		"SiteName": {
+			"hash": -2018451859
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 0,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [
+			2001
+		],
+		"SiteIndex": 1,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 6,
+		"StageID": 10306601
+	},
+	{
+		"SiteID": 2,
+		"SiteName": {
+			"hash": -2018451858
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 1,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [
+			2002,
+			2003
+		],
+		"SiteIndex": 2,
+		"ShowDialog": 1,
+		"DialogDesc": [
+			{
+				"hash": -2008854000
+			},
+			{
+				"hash": -323373147
+			}
+		],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 6,
+		"StageID": 10306602
+	},
+	{
+		"SiteID": 3,
+		"SiteName": {
+			"hash": -2018451857
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 2,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [
+			2004
+		],
+		"SiteIndex": 3,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 6,
+		"StageID": 10306603
+	},
+	{
+		"SiteID": 4,
+		"SiteName": {
+			"hash": -2018451856
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 3,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 4,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": true,
+		"DataImpl": {},
+		"StageGroupConfigID": 6,
+		"StageID": 10306604
+	},
+	{
+		"SiteID": 5,
+		"SiteName": {
+			"hash": -2018451855
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 4,
+		"BeginTimeOffSet": 151200,
+		"UnlockBuffIDList": [
+			9001
+		],
+		"SiteIndex": 5,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 6,
+		"StageID": 10306605
+	},
+	{
+		"SiteID": 6,
+		"SiteName": {
+			"hash": -2018451854
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 5,
+		"BeginTimeOffSet": 151200,
+		"UnlockBuffIDList": [
+			9002,
+			9003
+		],
+		"SiteIndex": 6,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 6,
+		"StageID": 10306606
+	},
+	{
+		"SiteID": 7,
+		"SiteName": {
+			"hash": -2018451853
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 6,
+		"BeginTimeOffSet": 151200,
+		"UnlockBuffIDList": [
+			9004
+		],
+		"SiteIndex": 7,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 6,
+		"StageID": 10306607
+	},
+	{
+		"SiteID": 8,
+		"SiteName": {
+			"hash": -2018451852
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 7,
+		"BeginTimeOffSet": 151200,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 8,
+		"ShowDialog": 1,
+		"DialogDesc": [
+			{
+				"hash": -1993647360
+			},
+			{
+				"hash": -308166507
+			}
+		],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": true,
+		"DataImpl": {},
+		"StageGroupConfigID": 6,
+		"StageID": 10306608
+	},
+	{
+		"SiteID": 9,
+		"SiteName": {
+			"hash": -2018451851
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 8,
+		"BeginTimeOffSet": 324000,
+		"UnlockBuffIDList": [
+			6001
+		],
+		"SiteIndex": 1,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 6,
+		"StageID": 10306609
+	},
+	{
+		"SiteID": 10,
+		"SiteName": {
+			"hash": 1852501859
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 9,
+		"BeginTimeOffSet": 324000,
+		"UnlockBuffIDList": [
+			6002,
+			6003
+		],
+		"SiteIndex": 2,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 6,
+		"StageID": 10306610
+	},
+	{
+		"SiteID": 11,
+		"SiteName": {
+			"hash": 1852501860
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 10,
+		"BeginTimeOffSet": 324000,
+		"UnlockBuffIDList": [
+			6004
+		],
+		"SiteIndex": 3,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 6,
+		"StageID": 10306611
+	},
+	{
+		"SiteID": 12,
+		"SiteName": {
+			"hash": 1852501861
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 11,
+		"BeginTimeOffSet": 324000,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 4,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": true,
+		"DataImpl": {},
+		"StageGroupConfigID": 6,
+		"StageID": 10306612
+	},
+	{
+		"SiteID": 13,
+		"SiteName": {
+			"hash": 1852501862
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 12,
+		"BeginTimeOffSet": 583200,
+		"UnlockBuffIDList": [
+			8001
+		],
+		"SiteIndex": 5,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 6,
+		"StageID": 10306613
+	},
+	{
+		"SiteID": 14,
+		"SiteName": {
+			"hash": 1852501863
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 13,
+		"BeginTimeOffSet": 583200,
+		"UnlockBuffIDList": [
+			8002,
+			8003
+		],
+		"SiteIndex": 6,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 6,
+		"StageID": 10306614
+	},
+	{
+		"SiteID": 15,
+		"SiteName": {
+			"hash": 1852501864
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 14,
+		"BeginTimeOffSet": 583200,
+		"UnlockBuffIDList": [
+			8004
+		],
+		"SiteIndex": 7,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 6,
+		"StageID": 10306615
+	},
+	{
+		"SiteID": 16,
+		"SiteName": {
+			"hash": 1852501865
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 1,
+		"PreSiteID": 15,
+		"BeginTimeOffSet": 583200,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 8,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": true,
+		"DataImpl": {},
+		"StageGroupConfigID": 6,
+		"StageID": 10306616
+	},
+	{
+		"SiteID": 17,
+		"SiteName": {
+			"hash": 1852501866
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 2,
+		"PreSiteID": 4,
+		"BeginTimeOffSet": 64800,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 101,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": true,
+		"DataImpl": {},
+		"StageGroupConfigID": 6,
+		"StageID": 10306617
+	},
+	{
+		"SiteID": 18,
+		"SiteName": {
+			"hash": 1852501867
+		},
+		"Area": 1,
+		"Type": 1,
+		"SiteType": 2,
+		"PreSiteID": 8,
+		"BeginTimeOffSet": 237600,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 102,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": true,
+		"DataImpl": {},
+		"StageGroupConfigID": 6,
+		"StageID": 10306618
+	},
+	{
+		"SiteID": 19,
+		"SiteName": {
+			"hash": 1852501868
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 2,
+		"PreSiteID": 12,
+		"BeginTimeOffSet": 410400,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 101,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": true,
+		"DataImpl": {},
+		"StageGroupConfigID": 6,
+		"StageID": 10306619
+	},
+	{
+		"SiteID": 20,
+		"SiteName": {
+			"hash": 1852501890
+		},
+		"Area": 2,
+		"Type": 1,
+		"SiteType": 2,
+		"PreSiteID": 16,
+		"BeginTimeOffSet": 669600,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 102,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": false,
+		"IsNeedRankEntrance": false,
+		"IsShowSiteReward": true,
+		"DataImpl": {},
+		"StageGroupConfigID": 6,
+		"StageID": 10306620
+	},
+	{
+		"SiteID": 21,
+		"SiteName": {
+			"hash": 1852501891
+		},
+		"Area": 0,
+		"Type": 2,
+		"SiteType": 1,
+		"PreSiteID": 2,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 0,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 6,
+		"StageID": 10306621
+	},
+	{
+		"SiteID": 22,
+		"SiteName": {
+			"hash": 1852501892
+		},
+		"Area": 0,
+		"Type": 2,
+		"SiteType": 1,
+		"PreSiteID": 2,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 0,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 6,
+		"StageID": 10306622
+	},
+	{
+		"SiteID": 23,
+		"SiteName": {
+			"hash": 1852501893
+		},
+		"Area": 0,
+		"Type": 2,
+		"SiteType": 1,
+		"PreSiteID": 2,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 0,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 6,
+		"StageID": 10306623
+	},
+	{
+		"SiteID": 24,
+		"SiteName": {
+			"hash": 1852501894
+		},
+		"Area": 0,
+		"Type": 2,
+		"SiteType": 1,
+		"PreSiteID": 2,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 0,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 6,
+		"StageID": 10306624
+	},
+	{
+		"SiteID": 25,
+		"SiteName": {
+			"hash": 1852501895
+		},
+		"Area": 0,
+		"Type": 3,
+		"SiteType": 1,
+		"PreSiteID": 8,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 0,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 6,
+		"StageID": 10306625
+	},
+	{
+		"SiteID": 26,
+		"SiteName": {
+			"hash": 1852501896
+		},
+		"Area": 0,
+		"Type": 3,
+		"SiteType": 1,
+		"PreSiteID": 12,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 0,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 6,
+		"StageID": 10306626
+	},
+	{
+		"SiteID": 27,
+		"SiteName": {
+			"hash": 1852501897
+		},
+		"Area": 0,
+		"Type": 3,
+		"SiteType": 1,
+		"PreSiteID": 16,
+		"BeginTimeOffSet": 0,
+		"UnlockBuffIDList": [],
+		"SiteIndex": 0,
+		"ShowDialog": 0,
+		"DialogDesc": [],
+		"IsNeedRank": true,
+		"IsNeedRankEntrance": true,
+		"IsShowSiteReward": false,
+		"DataImpl": {},
+		"StageGroupConfigID": 6,
+		"StageID": 10306627
+	}
+]

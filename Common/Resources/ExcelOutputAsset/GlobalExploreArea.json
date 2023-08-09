@@ -1,0 +1,299 @@
+[
+	{
+		"AreaBuffID": 0,
+		"AreaName": {
+			"hash": 1887077977
+		},
+		"ShowQuestList": [
+			110101,
+			110201,
+			110202,
+			110301,
+			110302,
+			210101,
+			210201,
+			210202,
+			210301,
+			210302,
+			9110001,
+			9110002,
+			7110003,
+			7110004,
+			7110005
+		],
+		"PreAreaList": [],
+		"ThumbnailDeviation": [
+			-4122,
+			47
+		],
+		"ThumbnailScale": 0.18,
+		"ThumbnailPath": "SpriteOutput/GlobalExplore/Map/Breviary/01",
+		"AreaTpFrontMission": 672871,
+		"DropLimitID": 4009,
+		"AreaIconPath": "SpriteOutput/GlobalExplore/IconPortalImg",
+		"AudioSwitchEvent": "Set_Swich_Area_01",
+		"DataImpl": {},
+		"AreaID": 1
+	},
+	{
+		"AreaBuffID": 1,
+		"AreaName": {
+			"hash": 1887077978
+		},
+		"ShowQuestList": [
+			120101,
+			120201,
+			120202,
+			120301,
+			120302,
+			220101,
+			220201,
+			220202,
+			220301,
+			220302,
+			9020001,
+			9020002
+		],
+		"PreAreaList": [
+			1
+		],
+		"ThumbnailDeviation": [
+			-2604,
+			1169
+		],
+		"ThumbnailScale": 0.18,
+		"ThumbnailPath": "SpriteOutput/GlobalExplore/Map/Breviary/02",
+		"AreaTpFrontMission": 672872,
+		"DropLimitID": 4010,
+		"AreaIconPath": "SpriteOutput/GlobalExplore/IconPortalImg",
+		"AudioSwitchEvent": "Set_Swich_Area_02",
+		"DataImpl": {},
+		"AreaID": 2
+	},
+	{
+		"AreaBuffID": 2,
+		"AreaName": {
+			"hash": 1887077979
+		},
+		"ShowQuestList": [
+			130201,
+			130202,
+			130301,
+			130302,
+			130303,
+			913002,
+			913003
+		],
+		"PreAreaList": [
+			2
+		],
+		"ThumbnailDeviation": [
+			-2030.51,
+			631
+		],
+		"ThumbnailScale": 0.17,
+		"ThumbnailPath": "SpriteOutput/GlobalExplore/Map/Breviary/03",
+		"AreaTpFrontMission": 672873,
+		"DropLimitID": 4011,
+		"AreaIconPath": "SpriteOutput/GlobalExplore/IconPortalImg",
+		"AudioSwitchEvent": "Set_Swich_Area_03",
+		"DataImpl": {},
+		"AreaID": 3
+	},
+	{
+		"AreaBuffID": 3,
+		"AreaName": {
+			"hash": 1887077980
+		},
+		"ShowQuestList": [
+			140201,
+			140202,
+			140301,
+			140302,
+			140901,
+			140401,
+			140402
+		],
+		"PreAreaList": [
+			3
+		],
+		"ThumbnailDeviation": [
+			-2425,
+			-1250
+		],
+		"ThumbnailScale": 0.19,
+		"ThumbnailPath": "SpriteOutput/GlobalExplore/Map/Breviary/04",
+		"AreaTpFrontMission": 672874,
+		"DropLimitID": 4012,
+		"AreaIconPath": "SpriteOutput/GlobalExplore/IconPortalImg",
+		"AudioSwitchEvent": "Set_Swich_Area_04",
+		"DataImpl": {},
+		"AreaID": 4
+	},
+	{
+		"AreaBuffID": 0,
+		"AreaName": {
+			"hash": 1887077981
+		},
+		"ShowQuestList": [
+			110101,
+			110201,
+			110202,
+			110301,
+			110302,
+			210101,
+			210201,
+			210202,
+			210301,
+			210302,
+			9210001,
+			9210002,
+			7210003,
+			7210004,
+			7210005
+		],
+		"PreAreaList": [],
+		"ThumbnailDeviation": [
+			4122,
+			47
+		],
+		"ThumbnailScale": 0.18,
+		"ThumbnailPath": "SpriteOutput/GlobalExplore/Map/Breviary/01_1",
+		"AreaTpFrontMission": 672875,
+		"DropLimitID": 4009,
+		"AreaIconPath": "SpriteOutput/GlobalExplore/IconPortalImg",
+		"AudioSwitchEvent": "Set_Swich_Area_01",
+		"DataImpl": {},
+		"AreaID": 5
+	},
+	{
+		"AreaBuffID": 1,
+		"AreaName": {
+			"hash": 1887077982
+		},
+		"ShowQuestList": [
+			120101,
+			120201,
+			120202,
+			120301,
+			120302,
+			220101,
+			220201,
+			220202,
+			220301,
+			220302,
+			9020001,
+			9020002
+		],
+		"PreAreaList": [
+			5
+		],
+		"ThumbnailDeviation": [
+			2604,
+			1169
+		],
+		"ThumbnailScale": 0.18,
+		"ThumbnailPath": "SpriteOutput/GlobalExplore/Map/Breviary/02_1",
+		"AreaTpFrontMission": 672876,
+		"DropLimitID": 4010,
+		"AreaIconPath": "SpriteOutput/GlobalExplore/IconPortalImg",
+		"AudioSwitchEvent": "Set_Swich_Area_02",
+		"DataImpl": {},
+		"AreaID": 6
+	},
+	{
+		"AreaBuffID": 2,
+		"AreaName": {
+			"hash": 1887077983
+		},
+		"ShowQuestList": [
+			230201,
+			230202,
+			230301,
+			230302,
+			230303,
+			923002,
+			923003
+		],
+		"PreAreaList": [
+			6
+		],
+		"ThumbnailDeviation": [
+			2030.51,
+			631
+		],
+		"ThumbnailScale": 0.17,
+		"ThumbnailPath": "SpriteOutput/GlobalExplore/Map/Breviary/03_1",
+		"AreaTpFrontMission": 672877,
+		"DropLimitID": 4011,
+		"AreaIconPath": "SpriteOutput/GlobalExplore/IconPortalImg",
+		"AudioSwitchEvent": "Set_Swich_Area_03",
+		"DataImpl": {},
+		"AreaID": 7
+	},
+	{
+		"AreaBuffID": 3,
+		"AreaName": {
+			"hash": 1887077984
+		},
+		"ShowQuestList": [
+			240201,
+			240202,
+			240301,
+			240302,
+			240901,
+			140401,
+			140402
+		],
+		"PreAreaList": [
+			7
+		],
+		"ThumbnailDeviation": [
+			2425,
+			-1250
+		],
+		"ThumbnailScale": 0.19,
+		"ThumbnailPath": "SpriteOutput/GlobalExplore/Map/Breviary/04_1",
+		"AreaTpFrontMission": 672878,
+		"DropLimitID": 4012,
+		"AreaIconPath": "SpriteOutput/GlobalExplore/IconPortalImg",
+		"AudioSwitchEvent": "Set_Swich_Area_04",
+		"DataImpl": {},
+		"AreaID": 8
+	},
+	{
+		"AreaBuffID": 4,
+		"AreaName": {
+			"hash": 1887077985
+		},
+		"ShowQuestList": [
+			1501013,
+			1502012,
+			1502022,
+			15030121,
+			1503022,
+			1502032,
+			1502042,
+			1503032,
+			1503042,
+			9150003,
+			9150004
+		],
+		"PreAreaList": [
+			4,
+			8
+		],
+		"ThumbnailDeviation": [
+			0,
+			0
+		],
+		"ThumbnailScale": 0.13,
+		"ThumbnailPath": "SpriteOutput/GlobalExplore/Map/Breviary/05",
+		"AreaTpFrontMission": 672879,
+		"DropLimitID": 4017,
+		"AreaIconPath": "SpriteOutput/GlobalExplore/IconBossImg",
+		"AudioSwitchEvent": "Set_Swich_Area_05",
+		"DataImpl": {},
+		"AreaID": 9
+	}
+]

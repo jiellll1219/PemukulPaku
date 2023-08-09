@@ -1,0 +1,1626 @@
+[
+	{
+		"QAvatarID": 80001,
+		"Name": {
+			"hash": -153928440
+		},
+		"NameOffset": 2,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarChibiIcons/11014",
+		"Interactable": true,
+		"IdleList": [
+			{
+				"Weight": 30,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_Angry"
+			},
+			{
+				"Weight": 30,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_Dance"
+			},
+			{
+				"Weight": 30,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_HappyJump"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 3,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 2,
+		"BubbleDialogIntervalMax": 5,
+		"DataImpl": {},
+		"ID": 1000
+	},
+	{
+		"QAvatarID": 91002,
+		"Name": {
+			"hash": -1961382903
+		},
+		"NameOffset": 1.65,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/DaWeiGe",
+		"Interactable": true,
+		"IdleList": [
+			{
+				"Weight": 30,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_Angry"
+			},
+			{
+				"Weight": 30,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_Dance"
+			},
+			{
+				"Weight": 30,
+				"Path": "ChatLobby/Avatar/Animation/DaWeiGe_Ani_Reward"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.05,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 20,
+		"BubbleDialogIntervalMax": 35,
+		"DataImpl": {},
+		"ID": 1001
+	},
+	{
+		"QAvatarID": 80001,
+		"Name": {
+			"hash": 526129930
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarChibiIcons/11014",
+		"Interactable": true,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_Play_Guzheng"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 2,
+		"BubbleDialogIntervalMax": 5,
+		"DataImpl": {},
+		"ID": 1002
+	},
+	{
+		"QAvatarID": 80001,
+		"Name": {
+			"hash": -1281324533
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarChibiIcons/11014",
+		"Interactable": true,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_Poker"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 2,
+		"BubbleDialogIntervalMax": 5,
+		"DataImpl": {},
+		"ID": 1003
+	},
+	{
+		"QAvatarID": 80001,
+		"Name": {
+			"hash": 1206188300
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarChibiIcons/11014",
+		"Interactable": true,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_Poker"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 2,
+		"BubbleDialogIntervalMax": 5,
+		"DataImpl": {},
+		"ID": 1004
+	},
+	{
+		"QAvatarID": 80001,
+		"Name": {
+			"hash": -601266163
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarChibiIcons/11014",
+		"Interactable": true,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_Poker"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 2,
+		"BubbleDialogIntervalMax": 5,
+		"DataImpl": {},
+		"ID": 1005
+	},
+	{
+		"QAvatarID": 80001,
+		"Name": {
+			"hash": 1886246670
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarChibiIcons/11014",
+		"Interactable": true,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_Poker"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 2,
+		"BubbleDialogIntervalMax": 5,
+		"DataImpl": {},
+		"ID": 1006
+	},
+	{
+		"QAvatarID": 80001,
+		"Name": {
+			"hash": 78792207
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarChibiIcons/11014",
+		"Interactable": true,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_Eat"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 2,
+		"BubbleDialogIntervalMax": 5,
+		"DataImpl": {},
+		"ID": 1007
+	},
+	{
+		"QAvatarID": 80001,
+		"Name": {
+			"hash": -1728662256
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarChibiIcons/11014",
+		"Interactable": true,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_Sit"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 2,
+		"BubbleDialogIntervalMax": 5,
+		"DataImpl": {},
+		"ID": 1008
+	},
+	{
+		"QAvatarID": 80001,
+		"Name": {
+			"hash": 758850577
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarChibiIcons/11014",
+		"Interactable": true,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_Dance_Gawu"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 2,
+		"BubbleDialogIntervalMax": 5,
+		"DataImpl": {},
+		"ID": 1009
+	},
+	{
+		"QAvatarID": 80001,
+		"Name": {
+			"hash": -350441945
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarChibiIcons/11014",
+		"Interactable": true,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_Dance_Gawu"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 2,
+		"BubbleDialogIntervalMax": 5,
+		"DataImpl": {},
+		"ID": 1010
+	},
+	{
+		"QAvatarID": 80001,
+		"Name": {
+			"hash": 2137070888
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarChibiIcons/11014",
+		"Interactable": true,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_Dance_Gawu"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 2,
+		"BubbleDialogIntervalMax": 5,
+		"DataImpl": {},
+		"ID": 1011
+	},
+	{
+		"QAvatarID": 80001,
+		"Name": {
+			"hash": 329616425
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarChibiIcons/11014",
+		"Interactable": true,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_Dance_Gawu"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 2,
+		"BubbleDialogIntervalMax": 5,
+		"DataImpl": {},
+		"ID": 1012
+	},
+	{
+		"QAvatarID": 80001,
+		"Name": {
+			"hash": -1477838038
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarChibiIcons/11014",
+		"Interactable": true,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_Dance"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 2,
+		"BubbleDialogIntervalMax": 5,
+		"DataImpl": {},
+		"ID": 1013
+	},
+	{
+		"QAvatarID": 80001,
+		"Name": {
+			"hash": 1009674795
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarChibiIcons/11014",
+		"Interactable": true,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_Sit_Eat"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 2,
+		"BubbleDialogIntervalMax": 5,
+		"DataImpl": {},
+		"ID": 1014
+	},
+	{
+		"QAvatarID": 80001,
+		"Name": {
+			"hash": -797779668
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarChibiIcons/11014",
+		"Interactable": true,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_Face_Tsundere"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 2,
+		"BubbleDialogIntervalMax": 5,
+		"DataImpl": {},
+		"ID": 1015
+	},
+	{
+		"QAvatarID": 80001,
+		"Name": {
+			"hash": 1689733165
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarChibiIcons/11014",
+		"Interactable": true,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_Tsundere"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 2,
+		"BubbleDialogIntervalMax": 5,
+		"DataImpl": {},
+		"ID": 1016
+	},
+	{
+		"QAvatarID": 704,
+		"Name": {
+			"hash": -117721298
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/703",
+		"Interactable": true,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_Play_Guzheng"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 2,
+		"BubbleDialogIntervalMax": 5,
+		"DataImpl": {},
+		"ID": 1017
+	},
+	{
+		"QAvatarID": 412,
+		"Name": {
+			"hash": -1925175761
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/412",
+		"Interactable": true,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_Play_Guzheng"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 2,
+		"BubbleDialogIntervalMax": 5,
+		"DataImpl": {},
+		"ID": 1018
+	},
+	{
+		"QAvatarID": 113,
+		"Name": {
+			"hash": 562337072
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/113",
+		"Interactable": true,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_Play_Guzheng"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 2,
+		"BubbleDialogIntervalMax": 5,
+		"DataImpl": {},
+		"ID": 1019
+	},
+	{
+		"QAvatarID": 504,
+		"Name": {
+			"hash": -546955450
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/504",
+		"Interactable": true,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_Play_Guzheng"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 2,
+		"BubbleDialogIntervalMax": 5,
+		"DataImpl": {},
+		"ID": 1020
+	},
+	{
+		"QAvatarID": 312,
+		"Name": {
+			"hash": 1940557383
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/312",
+		"Interactable": true,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_Play_Guzheng"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 2,
+		"BubbleDialogIntervalMax": 5,
+		"DataImpl": {},
+		"ID": 1021
+	},
+	{
+		"QAvatarID": 111,
+		"Name": {
+			"hash": 133102920
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/111",
+		"Interactable": true,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_Play_Guzheng"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 2,
+		"BubbleDialogIntervalMax": 5,
+		"DataImpl": {},
+		"ID": 1022
+	},
+	{
+		"QAvatarID": 204,
+		"Name": {
+			"hash": -1674351543
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/204",
+		"Interactable": true,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_Play_Guzheng"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 2,
+		"BubbleDialogIntervalMax": 5,
+		"DataImpl": {},
+		"ID": 1023
+	},
+	{
+		"QAvatarID": 602,
+		"Name": {
+			"hash": 813161290
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/602",
+		"Interactable": true,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_Play_Guzheng"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 2,
+		"BubbleDialogIntervalMax": 5,
+		"DataImpl": {},
+		"ID": 1024
+	},
+	{
+		"QAvatarID": 604,
+		"Name": {
+			"hash": -994293173
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/604",
+		"Interactable": true,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_Play_Guzheng"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 2,
+		"BubbleDialogIntervalMax": 5,
+		"DataImpl": {},
+		"ID": 1025
+	},
+	{
+		"QAvatarID": 212,
+		"Name": {
+			"hash": 1493219660
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/212",
+		"Interactable": true,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_Play_Guzheng"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 2,
+		"BubbleDialogIntervalMax": 5,
+		"DataImpl": {},
+		"ID": 1026
+	},
+	{
+		"QAvatarID": 704,
+		"Name": {
+			"hash": -117721298
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/703",
+		"Interactable": true,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_Play_Guzheng"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 2,
+		"BubbleDialogIntervalMax": 5,
+		"DataImpl": {},
+		"ID": 1027
+	},
+	{
+		"QAvatarID": 412,
+		"Name": {
+			"hash": -1925175761
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/412",
+		"Interactable": true,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_Play_Guzheng"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 2,
+		"BubbleDialogIntervalMax": 5,
+		"DataImpl": {},
+		"ID": 1028
+	},
+	{
+		"QAvatarID": 113,
+		"Name": {
+			"hash": 562337072
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/113",
+		"Interactable": true,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_Play_Guzheng"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 2,
+		"BubbleDialogIntervalMax": 5,
+		"DataImpl": {},
+		"ID": 1029
+	},
+	{
+		"QAvatarID": 504,
+		"Name": {
+			"hash": -546955450
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/504",
+		"Interactable": true,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_Play_Guzheng"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 2,
+		"BubbleDialogIntervalMax": 5,
+		"DataImpl": {},
+		"ID": 1030
+	},
+	{
+		"QAvatarID": 312,
+		"Name": {
+			"hash": 1940557383
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/312",
+		"Interactable": true,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_Play_Guzheng"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 2,
+		"BubbleDialogIntervalMax": 5,
+		"DataImpl": {},
+		"ID": 1031
+	},
+	{
+		"QAvatarID": 111,
+		"Name": {
+			"hash": 133102920
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/111",
+		"Interactable": true,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_Play_Guzheng"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 2,
+		"BubbleDialogIntervalMax": 5,
+		"DataImpl": {},
+		"ID": 1032
+	},
+	{
+		"QAvatarID": 204,
+		"Name": {
+			"hash": -1674351543
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/204",
+		"Interactable": true,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_Play_Guzheng"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 2,
+		"BubbleDialogIntervalMax": 5,
+		"DataImpl": {},
+		"ID": 1033
+	},
+	{
+		"QAvatarID": 602,
+		"Name": {
+			"hash": 813161290
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/602",
+		"Interactable": true,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_Play_Guzheng"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 2,
+		"BubbleDialogIntervalMax": 5,
+		"DataImpl": {},
+		"ID": 1034
+	},
+	{
+		"QAvatarID": 604,
+		"Name": {
+			"hash": -994293173
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/604",
+		"Interactable": true,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_Play_Guzheng"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 2,
+		"BubbleDialogIntervalMax": 5,
+		"DataImpl": {},
+		"ID": 1035
+	},
+	{
+		"QAvatarID": 212,
+		"Name": {
+			"hash": 1493219660
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/212",
+		"Interactable": true,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_Play_Guzheng"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 2,
+		"BubbleDialogIntervalMax": 5,
+		"DataImpl": {},
+		"ID": 1036
+	},
+	{
+		"QAvatarID": 704,
+		"Name": {
+			"hash": -117721298
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/703",
+		"Interactable": true,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_idle"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.5,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 2,
+		"BubbleDialogIntervalMax": 5,
+		"DataImpl": {},
+		"ID": 1037
+	},
+	{
+		"QAvatarID": 204,
+		"Name": {
+			"hash": -1674351543
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/204",
+		"Interactable": true,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_idle"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 2,
+		"BubbleDialogIntervalMax": 5,
+		"DataImpl": {},
+		"ID": 1038
+	},
+	{
+		"QAvatarID": 212,
+		"Name": {
+			"hash": 1493219660
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/212",
+		"Interactable": true,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_idle"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 2,
+		"BubbleDialogIntervalMax": 5,
+		"DataImpl": {},
+		"ID": 1039
+	},
+	{
+		"QAvatarID": 91002,
+		"Name": {
+			"hash": -1961382903
+		},
+		"NameOffset": 1.65,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/DaWeiGe",
+		"Interactable": true,
+		"IdleList": [
+			{
+				"Weight": 30,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_Angry"
+			},
+			{
+				"Weight": 30,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_Dance"
+			},
+			{
+				"Weight": 30,
+				"Path": "ChatLobby/Avatar/Animation/DaWeiGe_Ani_Reward"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.05,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 10,
+		"BubbleDialogIntervalMax": 25,
+		"DataImpl": {},
+		"ID": 1040
+	},
+	{
+		"QAvatarID": 612,
+		"Name": {
+			"hash": 1547530373
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/612",
+		"Interactable": false,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_idle"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 10,
+		"BubbleDialogIntervalMax": 25,
+		"DataImpl": {},
+		"ID": 1041
+	},
+	{
+		"QAvatarID": 101,
+		"Name": {
+			"hash": -259924090
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/101",
+		"Interactable": false,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_idle"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 25,
+		"BubbleDialogIntervalMax": 30,
+		"DataImpl": {},
+		"ID": 1042
+	},
+	{
+		"QAvatarID": 201,
+		"Name": {
+			"hash": -2067378553
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/201",
+		"Interactable": false,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_idle"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 30,
+		"BubbleDialogIntervalMax": 40,
+		"DataImpl": {},
+		"ID": 1043
+	},
+	{
+		"QAvatarID": 301,
+		"Name": {
+			"hash": 420134280
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/301",
+		"Interactable": false,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_idle"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 35,
+		"BubbleDialogIntervalMax": 40,
+		"DataImpl": {},
+		"ID": 1044
+	},
+	{
+		"QAvatarID": 50092,
+		"Name": {
+			"hash": -1387320183
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/50092",
+		"Interactable": false,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_idle"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 25,
+		"BubbleDialogIntervalMax": 30,
+		"DataImpl": {},
+		"ID": 1045
+	},
+	{
+		"QAvatarID": 50095,
+		"Name": {
+			"hash": 1100192650
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/50095",
+		"Interactable": false,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_idle"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 30,
+		"BubbleDialogIntervalMax": 40,
+		"DataImpl": {},
+		"ID": 1046
+	},
+	{
+		"QAvatarID": 313,
+		"Name": {
+			"hash": -707261813
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/313",
+		"Interactable": false,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_idle"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 35,
+		"BubbleDialogIntervalMax": 40,
+		"DataImpl": {},
+		"ID": 1047
+	},
+	{
+		"QAvatarID": 711,
+		"Name": {
+			"hash": 1780251020
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/711",
+		"Interactable": false,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_idle"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 30,
+		"BubbleDialogIntervalMax": 35,
+		"DataImpl": {},
+		"ID": 1048
+	},
+	{
+		"QAvatarID": 50091,
+		"Name": {
+			"hash": -27203443
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/50091",
+		"Interactable": false,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_idle"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 25,
+		"BubbleDialogIntervalMax": 30,
+		"DataImpl": {},
+		"ID": 1049
+	},
+	{
+		"QAvatarID": 50098,
+		"Name": {
+			"hash": -1136495965
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/50098",
+		"Interactable": false,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_idle"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 35,
+		"BubbleDialogIntervalMax": 45,
+		"DataImpl": {},
+		"ID": 1050
+	},
+	{
+		"QAvatarID": 50092,
+		"Name": {
+			"hash": 1351016868
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/50092",
+		"Interactable": false,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_idle"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 25,
+		"BubbleDialogIntervalMax": 30,
+		"DataImpl": {},
+		"ID": 1051
+	},
+	{
+		"QAvatarID": 50095,
+		"Name": {
+			"hash": -456437595
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/50095",
+		"Interactable": false,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_idle"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 30,
+		"BubbleDialogIntervalMax": 40,
+		"DataImpl": {},
+		"ID": 1052
+	},
+	{
+		"QAvatarID": 313,
+		"Name": {
+			"hash": 2031075238
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/313",
+		"Interactable": false,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_idle"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 35,
+		"BubbleDialogIntervalMax": 40,
+		"DataImpl": {},
+		"ID": 1053
+	},
+	{
+		"QAvatarID": 711,
+		"Name": {
+			"hash": 223620775
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/711",
+		"Interactable": false,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_idle"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 30,
+		"BubbleDialogIntervalMax": 35,
+		"DataImpl": {},
+		"ID": 1054
+	},
+	{
+		"QAvatarID": 50091,
+		"Name": {
+			"hash": -1583833688
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/50091",
+		"Interactable": false,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_idle"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 25,
+		"BubbleDialogIntervalMax": 30,
+		"DataImpl": {},
+		"ID": 1055
+	},
+	{
+		"QAvatarID": 50098,
+		"Name": {
+			"hash": 903679145
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/50098",
+		"Interactable": false,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_idle"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 35,
+		"BubbleDialogIntervalMax": 45,
+		"DataImpl": {},
+		"ID": 1056
+	},
+	{
+		"QAvatarID": 612,
+		"Name": {
+			"hash": -903775318
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/612",
+		"Interactable": false,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_idle"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 15,
+		"BubbleDialogIntervalMax": 30,
+		"DataImpl": {},
+		"ID": 1057
+	},
+	{
+		"QAvatarID": 50158,
+		"Name": {
+			"hash": 1583737515
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/50158",
+		"Interactable": false,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_idle"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 30,
+		"BubbleDialogIntervalMax": 40,
+		"DataImpl": {},
+		"ID": 1058
+	},
+	{
+		"QAvatarID": 50080,
+		"Name": {
+			"hash": -223716948
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/50080",
+		"Interactable": false,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_idle"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 25,
+		"BubbleDialogIntervalMax": 45,
+		"DataImpl": {},
+		"ID": 1059
+	},
+	{
+		"QAvatarID": 612,
+		"Name": {
+			"hash": -1333009470
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/612",
+		"Interactable": false,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_idle"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 15,
+		"BubbleDialogIntervalMax": 30,
+		"DataImpl": {},
+		"ID": 1060
+	},
+	{
+		"QAvatarID": 20106,
+		"Name": {
+			"hash": 1154503363
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/20106",
+		"Interactable": false,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_idle"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.5,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 2,
+		"BubbleDialogIntervalMax": 5,
+		"DataImpl": {},
+		"ID": 1061
+	},
+	{
+		"QAvatarID": 421,
+		"Name": {
+			"hash": -652951100
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/421",
+		"Interactable": false,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_idle"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 2,
+		"BubbleDialogIntervalMax": 5,
+		"DataImpl": {},
+		"ID": 1062
+	},
+	{
+		"QAvatarID": 422,
+		"Name": {
+			"hash": 1834561733
+		},
+		"NameOffset": 1.7,
+		"IsNameShown": true,
+		"HeadIcon": "SpriteOutput/AvatarIcon/422",
+		"Interactable": false,
+		"IdleList": [
+			{
+				"Weight": 100,
+				"Path": "ChatLobby/Avatar/Animation/NPC_Ani_idle"
+			}
+		],
+		"IdleIntervalMin": 3,
+		"IdleIntervalMax": 12,
+		"DialogOffset": 2.1,
+		"NPCDialog": [],
+		"NPCBubbleDialog": [],
+		"BubbleDialogIntervalMin": 2,
+		"BubbleDialogIntervalMax": 5,
+		"DataImpl": {},
+		"ID": 1063
+	}
+]

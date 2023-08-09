@@ -1,0 +1,190 @@
+[
+	{
+		"IsHidden": false,
+		"UnlockStoryID": 104019,
+		"HiddenList": [
+			104029,
+			104030,
+			104031,
+			104032
+		],
+		"Name": {
+			"hash": 765670792
+		},
+		"Portrait": "SpriteOutput/AvatarCardIcons/Welt",
+		"AvatarIcon": "SpriteOutput/DLC/NPCAvatar/ImgAdam",
+		"ParentTransName": "Adam_C1_NZ_Loc",
+		"NPCPerfabPath": "Entities/PropObject/NPC/Standalone_NPC_DLC_Welt/NPC_Welt_DLC_UI",
+		"ActionName": "TriggerInteract",
+		"Audio": "VO_Elf_01_BloodEmbrace_Respond_01",
+		"AudioDelayTime": 100,
+		"Lines": {
+			"hash": -1366474776
+		},
+		"DialogStoryList": [
+			104214,
+			104218,
+			104224,
+			104232,
+			104233
+		],
+		"NPCSupportDesc": {
+			"hash": -1228076106
+		},
+		"NPCSupportInfo": {
+			"hash": -1479086151
+		},
+		"DataImpl": {},
+		"NPCID": 1
+	},
+	{
+		"IsHidden": false,
+		"UnlockStoryID": 104008,
+		"HiddenList": [
+			104020,
+			104021,
+			104022,
+			104023,
+			104029,
+			104030,
+			104031,
+			104032
+		],
+		"Name": {
+			"hash": -1846257787
+		},
+		"Portrait": "SpriteOutput/AvatarCardIcons/Welt_Baby",
+		"AvatarIcon": "SpriteOutput/DLC/NPCAvatar/ImgWelt",
+		"ParentTransName": "Welt_Baby_Loc",
+		"NPCPerfabPath": "Entities/PropObject/NPC/Standalone_NPC_DLC_Joyce/NPC_Joyce_DLC_UI",
+		"ActionName": "TriggerInteract",
+		"Audio": "VO_Elf_01_BloodEmbrace_Respond_02",
+		"AudioDelayTime": 100,
+		"Lines": {
+			"hash": -1366474775
+		},
+		"DialogStoryList": [
+			104205,
+			104207,
+			104208,
+			104237,
+			104217,
+			104223,
+			104231,
+			104235
+		],
+		"NPCSupportDesc": {
+			"hash": 572650582
+		},
+		"NPCSupportInfo": {
+			"hash": 1381273779
+		},
+		"DataImpl": {},
+		"NPCID": 2
+	},
+	{
+		"IsHidden": false,
+		"UnlockStoryID": 101,
+		"HiddenList": [],
+		"Name": {
+			"hash": 2102899423
+		},
+		"Portrait": "SpriteOutput/AvatarCardIcons/1203",
+		"AvatarIcon": "SpriteOutput/DLC/NPCAvatar/ImgMei",
+		"ParentTransName": "Mei_C1_BY_Loc",
+		"NPCPerfabPath": "Entities/PropObject/NPC/Standalone_NPC_Mei_BY/NPC_Mei_C1_BY_UI",
+		"ActionName": "TriggerInteract",
+		"Audio": "VO_Elf_02_JWwings_Respond_02",
+		"AudioDelayTime": 100,
+		"Lines": {
+			"hash": -1366474774
+		},
+		"DialogStoryList": [
+			104201,
+			104202,
+			104203,
+			104204,
+			104206,
+			104213,
+			104215,
+			104219,
+			104221,
+			104222,
+			104238,
+			104229
+		],
+		"NPCSupportDesc": {
+			"hash": -39624975
+		},
+		"NPCSupportInfo": {
+			"hash": -879006066
+		},
+		"DataImpl": {},
+		"NPCID": 3
+	},
+	{
+		"IsHidden": false,
+		"UnlockStoryID": 104014,
+		"HiddenList": [],
+		"Name": {
+			"hash": -2052593089
+		},
+		"Portrait": "SpriteOutput/AvatarCardIcons/1304",
+		"AvatarIcon": "SpriteOutput/DLC/NPCAvatar/ImgCarol",
+		"ParentTransName": "Carol_C1_HP_Loc",
+		"NPCPerfabPath": "Entities/PropObject/NPC/Standalone_NPC_Carol_HP/NPC_Carol_C1_HP_UI",
+		"ActionName": "TriggerInteract",
+		"Audio": "VO_Elf_02_JWwings_Respond_01",
+		"AudioDelayTime": 100,
+		"Lines": {
+			"hash": -1366474773
+		},
+		"DialogStoryList": [
+			104236,
+			104211,
+			104212,
+			104216,
+			104220,
+			104239,
+			104240,
+			104241,
+			104230,
+			104242
+		],
+		"NPCSupportDesc": {
+			"hash": 565762513
+		},
+		"NPCSupportInfo": {
+			"hash": 1374385710
+		},
+		"DataImpl": {},
+		"NPCID": 4
+	},
+	{
+		"IsHidden": true,
+		"UnlockStoryID": 101,
+		"HiddenList": [],
+		"Name": {
+			"hash": 1239175616
+		},
+		"Portrait": "SpriteOutput/AvatarIcon/504",
+		"AvatarIcon": "SpriteOutput/AvatarCardFigures/60304",
+		"ParentTransName": "Carol_C1_HP_Loc",
+		"NPCPerfabPath": "Entities/PropObject/NPC/Standalone_NPC_Carol_HP/NPC_Carol_C1_HP_UI",
+		"ActionName": "TriggerInteract",
+		"Audio": "VO_Elf_02_JWwings_Respond_01",
+		"AudioDelayTime": 100,
+		"Lines": {
+			"hash": -1366474773
+		},
+		"DialogStoryList": [],
+		"NPCSupportDesc": {
+			"hash": 0
+		},
+		"NPCSupportInfo": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"NPCID": 5
+	}
+]

@@ -1,0 +1,2756 @@
+[
+	{
+		"AbilityName": "",
+		"SkillType": 1,
+		"ParamList": [],
+		"Icon": "SpriteOutput/PlatformShooter/Level/0",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1883470840
+		},
+		"SkillDesc": {
+			"hash": 1001464355
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 0
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 1,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Kiana_FX_001",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771051189
+		},
+		"SkillDesc": {
+			"hash": -597557274
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10101
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 2,
+		"ParamList": [],
+		"Icon": "SpriteOutput/QCandyPVP/JumpUp",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771051188
+		},
+		"SkillDesc": {
+			"hash": -597557273
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10102
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 3,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Himeko_SD_003",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771051187
+		},
+		"SkillDesc": {
+			"hash": -597557272
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10103
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 4,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Kallen_JK_006",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771051186
+		},
+		"SkillDesc": {
+			"hash": -597557271
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10104
+	},
+	{
+		"AbilityName": "QPlat_Kevin_DamgeUp_ByAttack",
+		"SkillType": 5,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Kiana_FX_002",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771051185
+		},
+		"SkillDesc": {
+			"hash": -597557270
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10105
+	},
+	{
+		"AbilityName": "QPlat_Kevin_HealSP_ByKill",
+		"SkillType": 5,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Kallen_JK_001",
+		"UnlockLv": 10,
+		"SkillTitle": {
+			"hash": -1771051184
+		},
+		"SkillDesc": {
+			"hash": -597557269
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10106
+	},
+	{
+		"AbilityName": "QPlat_Kevin_DamgeTakenDown_ByAttack",
+		"SkillType": 5,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Bronya_BQ_Artifact01_006",
+		"UnlockLv": 20,
+		"SkillTitle": {
+			"hash": -1771051183
+		},
+		"SkillDesc": {
+			"hash": -597557268
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10107
+	},
+	{
+		"AbilityName": "QPlat_Kevin_Bullet_EX_Speed",
+		"SkillType": 5,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Kiana_PT_002",
+		"UnlockLv": 30,
+		"SkillTitle": {
+			"hash": -1771051182
+		},
+		"SkillDesc": {
+			"hash": -597557267
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10108
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 1,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Kiana_MH_641",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771050228
+		},
+		"SkillDesc": {
+			"hash": -597556313
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10201
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 2,
+		"ParamList": [],
+		"Icon": "SpriteOutput/QCandyPVP/JumpUp",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771050227
+		},
+		"SkillDesc": {
+			"hash": -597556312
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10202
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 3,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Kiana_MH_643",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771050226
+		},
+		"SkillDesc": {
+			"hash": -597556311
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10203
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 4,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Kiana_MH_644",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771050225
+		},
+		"SkillDesc": {
+			"hash": -597556310
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10204
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 5,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Himeko_NQ_004",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771050224
+		},
+		"SkillDesc": {
+			"hash": -597556309
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10205
+	},
+	{
+		"AbilityName": "Fake_PlatShoot_BaseBall_Evade_Reduce_OverHeat",
+		"SkillType": 5,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Kiana_MH_642",
+		"UnlockLv": 10,
+		"SkillTitle": {
+			"hash": -1771050223
+		},
+		"SkillDesc": {
+			"hash": -597556308
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10206
+	},
+	{
+		"AbilityName": "Fake_PlatShoot_BaseBall_DamageTakenDown_By_HP",
+		"SkillType": 5,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_AI_C1_JC_841",
+		"UnlockLv": 20,
+		"SkillTitle": {
+			"hash": -1771050222
+		},
+		"SkillDesc": {
+			"hash": -597556307
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10207
+	},
+	{
+		"AbilityName": "Fake_PlatShoot_BaseBall_30_Skill",
+		"SkillType": 5,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Kiana_MH_644_Down",
+		"UnlockLv": 30,
+		"SkillTitle": {
+			"hash": -1771050221
+		},
+		"SkillDesc": {
+			"hash": -597556306
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10208
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 1,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Kiana_FX_004",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771049267
+		},
+		"SkillDesc": {
+			"hash": -597555352
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10301
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 2,
+		"ParamList": [],
+		"Icon": "SpriteOutput/QCandyPVP/JumpUp",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771049266
+		},
+		"SkillDesc": {
+			"hash": -597555351
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10302
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 3,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Himeko_SD_003",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771049265
+		},
+		"SkillDesc": {
+			"hash": -597555350
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10303
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 4,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Bronya_ZP_004",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771049264
+		},
+		"SkillDesc": {
+			"hash": -597555349
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10304
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 5,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Kiana_PT_006",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771049263
+		},
+		"SkillDesc": {
+			"hash": -597555348
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10305
+	},
+	{
+		"AbilityName": "Q_PlatShoot_Kosma_Lv10Skl_ABL",
+		"SkillType": 5,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Himeko_NQ_006",
+		"UnlockLv": 10,
+		"SkillTitle": {
+			"hash": -1771049262
+		},
+		"SkillDesc": {
+			"hash": -597555347
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10306
+	},
+	{
+		"AbilityName": "Q_PlatShoot_Kosma_Lv30Skl_ABL",
+		"SkillType": 5,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Kallen_MC_002",
+		"UnlockLv": 20,
+		"SkillTitle": {
+			"hash": -1771049261
+		},
+		"SkillDesc": {
+			"hash": -597555346
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10307
+	},
+	{
+		"AbilityName": "Q_PlatShoot_Kosma_Lv20Skl_ABL",
+		"SkillType": 5,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Kiana_C7_SK_902",
+		"UnlockLv": 30,
+		"SkillTitle": {
+			"hash": -1771049260
+		},
+		"SkillDesc": {
+			"hash": -597555345
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10308
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 1,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Bronya_CH_001",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771048306
+		},
+		"SkillDesc": {
+			"hash": -597554391
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10401
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 2,
+		"ParamList": [],
+		"Icon": "SpriteOutput/QCandyPVP/JumpUp",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771048305
+		},
+		"SkillDesc": {
+			"hash": -597554390
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10402
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 3,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Bronya_CH_003",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771048304
+		},
+		"SkillDesc": {
+			"hash": -597554389
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10403
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 4,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Bronya_CH_004",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771048303
+		},
+		"SkillDesc": {
+			"hash": -597554388
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10404
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 5,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Bronya_CH_005",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771048302
+		},
+		"SkillDesc": {
+			"hash": -597554387
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10405
+	},
+	{
+		"AbilityName": "Q_PlatShoot_Bronya_Lv10Skl_ABL",
+		"SkillType": 5,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Bronya_BQ_Artifact01_003",
+		"UnlockLv": 10,
+		"SkillTitle": {
+			"hash": -1771048301
+		},
+		"SkillDesc": {
+			"hash": -597554386
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10406
+	},
+	{
+		"AbilityName": "Q_PlatShoot_Bronya_Lv20Skl_ABL",
+		"SkillType": 5,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Bronya_ZP_001",
+		"UnlockLv": 20,
+		"SkillTitle": {
+			"hash": -1771048300
+		},
+		"SkillDesc": {
+			"hash": -597554385
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10407
+	},
+	{
+		"AbilityName": "Q_PlatShoot_Bronya_Lv30Skl_ABL",
+		"SkillType": 5,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Bronya_CH_007",
+		"UnlockLv": 30,
+		"SkillTitle": {
+			"hash": -1771048299
+		},
+		"SkillDesc": {
+			"hash": -597554384
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10408
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 1,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Mei_AC_001",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771047345
+		},
+		"SkillDesc": {
+			"hash": -597553430
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10501
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 2,
+		"ParamList": [],
+		"Icon": "SpriteOutput/QCandyPVP/JumpUp",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771047344
+		},
+		"SkillDesc": {
+			"hash": -597553429
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10502
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 3,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Mei_LD_002",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771047343
+		},
+		"SkillDesc": {
+			"hash": -597553428
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10503
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 4,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Mei_LD_004",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771047342
+		},
+		"SkillDesc": {
+			"hash": -597553427
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10504
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 5,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Mei_C3_Artifact_004",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771047341
+		},
+		"SkillDesc": {
+			"hash": -597553426
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10505
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 5,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Mei_CK_006",
+		"UnlockLv": 10,
+		"SkillTitle": {
+			"hash": -1771047340
+		},
+		"SkillDesc": {
+			"hash": -597553425
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10506
+	},
+	{
+		"AbilityName": "Fake_PlatShoot_Knife_Kill_CD_Down",
+		"SkillType": 5,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Mei_DH_Artifact01_003",
+		"UnlockLv": 20,
+		"SkillTitle": {
+			"hash": -1771047339
+		},
+		"SkillDesc": {
+			"hash": -597553424
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10507
+	},
+	{
+		"AbilityName": "Fake_PlatShoot_Knife_Ultra_EX",
+		"SkillType": 5,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Mei_DH_Artifact01_002",
+		"UnlockLv": 30,
+		"SkillTitle": {
+			"hash": -1771047338
+		},
+		"SkillDesc": {
+			"hash": -597553423
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10508
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 1,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Bronya_BQ_Artifact01_001",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771046384
+		},
+		"SkillDesc": {
+			"hash": -597552469
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10601
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 2,
+		"ParamList": [],
+		"Icon": "SpriteOutput/QCandyPVP/JumpUp",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771046383
+		},
+		"SkillDesc": {
+			"hash": -597552468
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10602
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 3,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Pardofelis_C1_CG_743",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771046382
+		},
+		"SkillDesc": {
+			"hash": -597552467
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10603
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 4,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Pardofelis_C1_CG_744",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771046381
+		},
+		"SkillDesc": {
+			"hash": -597552466
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10604
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 5,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Pardofelis_C1_CG_742",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771046380
+		},
+		"SkillDesc": {
+			"hash": -597552465
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10605
+	},
+	{
+		"AbilityName": "Q_PlatShoot_Pardo_Lv10Skl_ABL",
+		"SkillType": 5,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Bronya_JJ_003",
+		"UnlockLv": 10,
+		"SkillTitle": {
+			"hash": -1771046379
+		},
+		"SkillDesc": {
+			"hash": -597552464
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10606
+	},
+	{
+		"AbilityName": "Q_PlatShoot_Pardo_Lv20Skl_ABL",
+		"SkillType": 5,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Pardofelis_C1_CG_741",
+		"UnlockLv": 20,
+		"SkillTitle": {
+			"hash": -1771046378
+		},
+		"SkillDesc": {
+			"hash": -597552463
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10607
+	},
+	{
+		"AbilityName": "Q_PlatShoot_Pardo_Lv30Skl_ABL",
+		"SkillType": 5,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Pardofelis_C1_CG_745",
+		"UnlockLv": 30,
+		"SkillTitle": {
+			"hash": -1771046377
+		},
+		"SkillDesc": {
+			"hash": -597552462
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10608
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 1,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Fuka_FL_005",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771045423
+		},
+		"SkillDesc": {
+			"hash": -597551508
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10701
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 2,
+		"ParamList": [],
+		"Icon": "SpriteOutput/QCandyPVP/JumpUp",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771045422
+		},
+		"SkillDesc": {
+			"hash": -597551507
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10702
+	},
+	{
+		"AbilityName": "Fake_PlatShoot_Fuka_Teleport",
+		"SkillType": 3,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Fuka_IN_003",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771045421
+		},
+		"SkillDesc": {
+			"hash": -597551506
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10703
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 4,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Fuka_IN_004",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771045420
+		},
+		"SkillDesc": {
+			"hash": -597551505
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10704
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 5,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Raven_DC_003",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771045419
+		},
+		"SkillDesc": {
+			"hash": -597551504
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10705
+	},
+	{
+		"AbilityName": "Q_PlatShoot_Fuka_Lv10Skl_ABL",
+		"SkillType": 5,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Fuka_JW_004",
+		"UnlockLv": 10,
+		"SkillTitle": {
+			"hash": -1771045418
+		},
+		"SkillDesc": {
+			"hash": -597551503
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10706
+	},
+	{
+		"AbilityName": "Q_PlatShoot_Fuka_Lv20Skl_ABL",
+		"SkillType": 5,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Fuka_IN_002",
+		"UnlockLv": 20,
+		"SkillTitle": {
+			"hash": -1771045417
+		},
+		"SkillDesc": {
+			"hash": -597551502
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10707
+	},
+	{
+		"AbilityName": "Q_PlatShoot_Fuka_Lv30Skl_ABL",
+		"SkillType": 5,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Fuka_FK_Artifact01_004",
+		"UnlockLv": 30,
+		"SkillTitle": {
+			"hash": -1771045416
+		},
+		"SkillDesc": {
+			"hash": -597551501
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10708
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 1,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Fischl_FS_001",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771044462
+		},
+		"SkillDesc": {
+			"hash": -597550547
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10801
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 2,
+		"ParamList": [],
+		"Icon": "SpriteOutput/QCandyPVP/JumpUp",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771044461
+		},
+		"SkillDesc": {
+			"hash": -597550546
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10802
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 3,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Elysia_GS_003",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771044460
+		},
+		"SkillDesc": {
+			"hash": -597550545
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10803
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 4,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Elysia_MC_001",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771044459
+		},
+		"SkillDesc": {
+			"hash": -597550544
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10804
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 5,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Elysia_GS_001",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771044458
+		},
+		"SkillDesc": {
+			"hash": -597550543
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10805
+	},
+	{
+		"AbilityName": "Platform_Elysia_Sub10",
+		"SkillType": 5,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Eden_C1_EL_003",
+		"UnlockLv": 10,
+		"SkillTitle": {
+			"hash": -1771044457
+		},
+		"SkillDesc": {
+			"hash": -597550542
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10806
+	},
+	{
+		"AbilityName": "Platform_Elysia_Sub20",
+		"SkillType": 5,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Elysia_MC_005",
+		"UnlockLv": 20,
+		"SkillTitle": {
+			"hash": -1771044456
+		},
+		"SkillDesc": {
+			"hash": -597550541
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10807
+	},
+	{
+		"AbilityName": "Platform_Elysia_Sub30",
+		"SkillType": 5,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Durandal_C1_002",
+		"UnlockLv": 30,
+		"SkillTitle": {
+			"hash": -1771044455
+		},
+		"SkillDesc": {
+			"hash": -597550540
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10808
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 1,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Theresa_C6_ZG_561",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771043501
+		},
+		"SkillDesc": {
+			"hash": -597549586
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10901
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 2,
+		"ParamList": [],
+		"Icon": "SpriteOutput/QCandyPVP/JumpUp",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771043500
+		},
+		"SkillDesc": {
+			"hash": -597549585
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10902
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 3,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Seele_C2_003",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771043499
+		},
+		"SkillDesc": {
+			"hash": -597549584
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10903
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 4,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Seele_C2_004",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771043498
+		},
+		"SkillDesc": {
+			"hash": -597549583
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10904
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 5,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Seele_QT_002",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771043497
+		},
+		"SkillDesc": {
+			"hash": -597549582
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10905
+	},
+	{
+		"AbilityName": "Platform_Seele_Sub10",
+		"SkillType": 5,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Seele_C2_005",
+		"UnlockLv": 10,
+		"SkillTitle": {
+			"hash": -1771043496
+		},
+		"SkillDesc": {
+			"hash": -597549581
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10906
+	},
+	{
+		"AbilityName": "Platform_Seele_Sub20",
+		"SkillType": 5,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Theresa_C6_ZG_567",
+		"UnlockLv": 20,
+		"SkillTitle": {
+			"hash": -1771043495
+		},
+		"SkillDesc": {
+			"hash": -597549580
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10907
+	},
+	{
+		"AbilityName": "Platform_Seele_Sub30",
+		"SkillType": 5,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Seele_C3_SP_635",
+		"UnlockLv": 30,
+		"SkillTitle": {
+			"hash": -1771043494
+		},
+		"SkillDesc": {
+			"hash": -597549579
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 10908
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 1,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Twins_BS_AF01_001",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771022359
+		},
+		"SkillDesc": {
+			"hash": -597528444
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 11001
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 2,
+		"ParamList": [],
+		"Icon": "SpriteOutput/QCandyPVP/JumpUp",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771022358
+		},
+		"SkillDesc": {
+			"hash": -597528443
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 11002
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 3,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Vill_V_C1_TK_793",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771022357
+		},
+		"SkillDesc": {
+			"hash": -597528442
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 11003
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 4,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Vill_V_C1_TK_795",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771022356
+		},
+		"SkillDesc": {
+			"hash": -597528441
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 11004
+	},
+	{
+		"AbilityName": "",
+		"SkillType": 5,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Kiana_YN_002",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1771022355
+		},
+		"SkillDesc": {
+			"hash": -597528440
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 11005
+	},
+	{
+		"AbilityName": "Fake_PlatShoot_Bazooka_10_Skill",
+		"SkillType": 5,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Vill_V_C1_TK_792",
+		"UnlockLv": 10,
+		"SkillTitle": {
+			"hash": -1771022354
+		},
+		"SkillDesc": {
+			"hash": -597528439
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 11006
+	},
+	{
+		"AbilityName": "Fake_PlatShoot_Bazooka_20_Skill",
+		"SkillType": 5,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Vill_V_C1_TK_796",
+		"UnlockLv": 20,
+		"SkillTitle": {
+			"hash": -1771022353
+		},
+		"SkillDesc": {
+			"hash": -597528438
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 11007
+	},
+	{
+		"AbilityName": "Fake_PlatShoot_Bazooka_30_Skill",
+		"SkillType": 5,
+		"ParamList": [],
+		"Icon": "SpriteOutput/SkillIcons/Skill_Vill_V_C1_TK_791",
+		"UnlockLv": 30,
+		"SkillTitle": {
+			"hash": -1771022352
+		},
+		"SkillDesc": {
+			"hash": -597528437
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 11008
+	},
+	{
+		"AbilityName": "QPlat_Kevin_Bullet_EX_Fire",
+		"SkillType": 6,
+		"ParamList": [
+			"20",
+			"1"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/5",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770127668
+		},
+		"SkillDesc": {
+			"hash": -596633753
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 20101
+	},
+	{
+		"AbilityName": "Fake_PlatShoot_BaseBall_DamageUp_By_HP",
+		"SkillType": 6,
+		"ParamList": [
+			"0.03"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/5",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770127667
+		},
+		"SkillDesc": {
+			"hash": -596633752
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 20102
+	},
+	{
+		"AbilityName": "Q_PlatShoot_Kosma_Lv40Skl_ABL",
+		"SkillType": 6,
+		"ParamList": [
+			"0.35"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/5",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770127666
+		},
+		"SkillDesc": {
+			"hash": -596633751
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 20103
+	},
+	{
+		"AbilityName": "Q_PlatShoot_Bronya_Lv40Skl_ABL",
+		"SkillType": 6,
+		"ParamList": [
+			"1.2"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/5",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770127665
+		},
+		"SkillDesc": {
+			"hash": -596633750
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 20104
+	},
+	{
+		"AbilityName": "Fake_PlatShoot_Knife_SKL01_EX",
+		"SkillType": 6,
+		"ParamList": [],
+		"Icon": "SpriteOutput/PlatformShooter/Level/5",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770127664
+		},
+		"SkillDesc": {
+			"hash": -596633749
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 20105
+	},
+	{
+		"AbilityName": "Q_PlatShoot_Pardo_AffixSkl_ABL",
+		"SkillType": 6,
+		"ParamList": [],
+		"Icon": "SpriteOutput/PlatformShooter/Level/5",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770127663
+		},
+		"SkillDesc": {
+			"hash": -596633748
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 20106
+	},
+	{
+		"AbilityName": "Q_PlatShoot_Fuka_AffixSkl_ABL",
+		"SkillType": 6,
+		"ParamList": [],
+		"Icon": "SpriteOutput/PlatformShooter/Level/5",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770127662
+		},
+		"SkillDesc": {
+			"hash": -596633747
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 20107
+	},
+	{
+		"AbilityName": "Platform_Elysia_Special",
+		"SkillType": 6,
+		"ParamList": [],
+		"Icon": "SpriteOutput/PlatformShooter/Level/5",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770127661
+		},
+		"SkillDesc": {
+			"hash": -596633746
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 20108
+	},
+	{
+		"AbilityName": "Platform_Seele_Special",
+		"SkillType": 6,
+		"ParamList": [
+			"1"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/5",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770127660
+		},
+		"SkillDesc": {
+			"hash": -596633745
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 20109
+	},
+	{
+		"AbilityName": "Fake_PlatShoot_Bazooka_EX_Skill",
+		"SkillType": 6,
+		"ParamList": [
+			"2"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/5",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770127638
+		},
+		"SkillDesc": {
+			"hash": -596633723
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 20110
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_AttackUP_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"0.05"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/1",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770098838
+		},
+		"SkillDesc": {
+			"hash": -596604923
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 21001
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_AttackUP_By_Sp_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"20",
+			"0.075"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/1",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770098837
+		},
+		"SkillDesc": {
+			"hash": -596604922
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 21002
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_CriticalRate_UP_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"0.1"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/1",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770098836
+		},
+		"SkillDesc": {
+			"hash": -596604921
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 21003
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_CriticalDamage_UP_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"0.2"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/1",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770098835
+		},
+		"SkillDesc": {
+			"hash": -596604920
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 21004
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_DamageUp_By_Ultra_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"0.15"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/1",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770098834
+		},
+		"SkillDesc": {
+			"hash": -596604919
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 21005
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_DamageUp_By_Attack_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"0.075"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/1",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770098833
+		},
+		"SkillDesc": {
+			"hash": -596604918
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 21006
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_DamageUp_By_Branch_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"0.15"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/1",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770098832
+		},
+		"SkillDesc": {
+			"hash": -596604917
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 21007
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_MaxHp_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"0.1"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/1",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770098831
+		},
+		"SkillDesc": {
+			"hash": -596604916
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 21008
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_DamageResist_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"0.075"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/1",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770098830
+		},
+		"SkillDesc": {
+			"hash": -596604915
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 21009
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_TimesShield_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"1"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/1",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770098808
+		},
+		"SkillDesc": {
+			"hash": -596604893
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 21010
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_HpHeal_By_Kill_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"0.005"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/1",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770098807
+		},
+		"SkillDesc": {
+			"hash": -596604892
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 21011
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_InitSP_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"10"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/1",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770098806
+		},
+		"SkillDesc": {
+			"hash": -596604891
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 21012
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_SP_Ratio_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"0.1"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/1",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770098805
+		},
+		"SkillDesc": {
+			"hash": -596604890
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 21013
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_SKL01_CD_DOWN_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"0.1"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/1",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770098804
+		},
+		"SkillDesc": {
+			"hash": -596604889
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 21014
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_SP_Delta_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"15"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/1",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770098803
+		},
+		"SkillDesc": {
+			"hash": -596604888
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 21015
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_AttackUP_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"0.1"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/2",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770069047
+		},
+		"SkillDesc": {
+			"hash": -596575132
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 22001
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_AttackUP_By_Sp_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"20",
+			"0.15"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/2",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770069046
+		},
+		"SkillDesc": {
+			"hash": -596575131
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 22002
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_CriticalRate_UP_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"0.2"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/2",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770069045
+		},
+		"SkillDesc": {
+			"hash": -596575130
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 22003
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_CriticalDamage_UP_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"0.4"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/2",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770069044
+		},
+		"SkillDesc": {
+			"hash": -596575129
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 22004
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_DamageUp_By_Ultra_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"0.3"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/2",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770069043
+		},
+		"SkillDesc": {
+			"hash": -596575128
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 22005
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_DamageUp_By_Attack_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"0.15"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/2",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770069042
+		},
+		"SkillDesc": {
+			"hash": -596575127
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 22006
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_DamageUp_By_Branch_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"0.3"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/2",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770069041
+		},
+		"SkillDesc": {
+			"hash": -596575126
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 22007
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_MaxHp_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"0.2"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/2",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770069040
+		},
+		"SkillDesc": {
+			"hash": -596575125
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 22008
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_DamageResist_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"0.15"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/2",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770069039
+		},
+		"SkillDesc": {
+			"hash": -596575124
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 22009
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_TimesShield_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"2"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/2",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770069017
+		},
+		"SkillDesc": {
+			"hash": -596575102
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 22010
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_HpHeal_By_Kill_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"0.01"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/2",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770069016
+		},
+		"SkillDesc": {
+			"hash": -596575101
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 22011
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_InitSP_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"20"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/2",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770069015
+		},
+		"SkillDesc": {
+			"hash": -596575100
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 22012
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_SP_Ratio_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"0.2"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/2",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770069014
+		},
+		"SkillDesc": {
+			"hash": -596575099
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 22013
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_SKL01_CD_DOWN_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"0.2"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/2",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770069013
+		},
+		"SkillDesc": {
+			"hash": -596575098
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 22014
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_SP_Delta_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"30"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/2",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770069012
+		},
+		"SkillDesc": {
+			"hash": -596575097
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 22015
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_AttackUP_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"0.15"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/3",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770039256
+		},
+		"SkillDesc": {
+			"hash": -596545341
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 23001
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_AttackUP_By_Sp_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"20",
+			"0.225"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/3",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770039255
+		},
+		"SkillDesc": {
+			"hash": -596545340
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 23002
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_CriticalRate_UP_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"0.3"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/3",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770039254
+		},
+		"SkillDesc": {
+			"hash": -596545339
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 23003
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_CriticalDamage_UP_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"0.6"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/3",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770039253
+		},
+		"SkillDesc": {
+			"hash": -596545338
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 23004
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_DamageUp_By_Ultra_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"0.45"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/3",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770039252
+		},
+		"SkillDesc": {
+			"hash": -596545337
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 23005
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_DamageUp_By_Attack_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"0.225"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/3",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770039251
+		},
+		"SkillDesc": {
+			"hash": -596545336
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 23006
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_DamageUp_By_Branch_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"0.45"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/3",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770039250
+		},
+		"SkillDesc": {
+			"hash": -596545335
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 23007
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_MaxHp_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"0.3"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/3",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770039249
+		},
+		"SkillDesc": {
+			"hash": -596545334
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 23008
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_DamageResist_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"0.225"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/3",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770039248
+		},
+		"SkillDesc": {
+			"hash": -596545333
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 23009
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_TimesShield_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"3"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/3",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770039226
+		},
+		"SkillDesc": {
+			"hash": -596545311
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 23010
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_HpHeal_By_Kill_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"0.015"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/3",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770039225
+		},
+		"SkillDesc": {
+			"hash": -596545310
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 23011
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_InitSP_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"30"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/3",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770039224
+		},
+		"SkillDesc": {
+			"hash": -596545309
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 23012
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_SP_Ratio_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"0.3"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/3",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770039223
+		},
+		"SkillDesc": {
+			"hash": -596545308
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 23013
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_SKL01_CD_DOWN_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"0.3"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/3",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770039222
+		},
+		"SkillDesc": {
+			"hash": -596545307
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 23014
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_SP_Delta_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"45"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/3",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770039221
+		},
+		"SkillDesc": {
+			"hash": -596545306
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 23015
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_AttackUP_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"0.2"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/4",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770009465
+		},
+		"SkillDesc": {
+			"hash": -596515550
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 24001
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_AttackUP_By_Sp_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"20",
+			"0.3"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/4",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770009464
+		},
+		"SkillDesc": {
+			"hash": -596515549
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 24002
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_CriticalRate_UP_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"0.4"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/4",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770009463
+		},
+		"SkillDesc": {
+			"hash": -596515548
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 24003
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_CriticalDamage_UP_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"0.8"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/4",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770009462
+		},
+		"SkillDesc": {
+			"hash": -596515547
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 24004
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_DamageUp_By_Ultra_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"0.6"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/4",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770009461
+		},
+		"SkillDesc": {
+			"hash": -596515546
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 24005
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_DamageUp_By_Attack_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"0.3"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/4",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770009460
+		},
+		"SkillDesc": {
+			"hash": -596515545
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 24006
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_DamageUp_By_Branch_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"0.6"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/4",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770009459
+		},
+		"SkillDesc": {
+			"hash": -596515544
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 24007
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_MaxHp_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"0.4"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/4",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770009458
+		},
+		"SkillDesc": {
+			"hash": -596515543
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 24008
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_DamageResist_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"0.3"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/4",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770009457
+		},
+		"SkillDesc": {
+			"hash": -596515542
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 24009
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_TimesShield_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"4"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/4",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770009435
+		},
+		"SkillDesc": {
+			"hash": -596515520
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 24010
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_HpHeal_By_Kill_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"0.02"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/4",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770009434
+		},
+		"SkillDesc": {
+			"hash": -596515519
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 24011
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_InitSP_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"40"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/4",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770009433
+		},
+		"SkillDesc": {
+			"hash": -596515518
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 24012
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_SP_Ratio_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"0.4"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/4",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770009432
+		},
+		"SkillDesc": {
+			"hash": -596515517
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 24013
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_SKL01_CD_DOWN_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"0.4"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/4",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770009431
+		},
+		"SkillDesc": {
+			"hash": -596515516
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 24014
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_SP_Delta_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"60"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/4",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1770009430
+		},
+		"SkillDesc": {
+			"hash": -596515515
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 24015
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_AttackUP_Ability",
+		"SkillType": 6,
+		"ParamList": [
+			"0.35"
+		],
+		"Icon": "SpriteOutput/PlatformShooter/Level/5",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1769979674
+		},
+		"SkillDesc": {
+			"hash": -596485759
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 25001
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_SKL02_CD_DOWN_Ability",
+		"SkillType": 7,
+		"ParamList": [
+			"0.2",
+			"1"
+		],
+		"Icon": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_Weapon_08",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1769205108
+		},
+		"SkillDesc": {
+			"hash": -595711193
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 30001
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_Reviv_Ability",
+		"SkillType": 7,
+		"ParamList": [
+			"0.3"
+		],
+		"Icon": "SpriteOutput/SkillIconsInLevel/Skill_Twins_GP_003",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1769205107
+		},
+		"SkillDesc": {
+			"hash": -595711192
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 30002
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_AttackUP_Ability",
+		"SkillType": 7,
+		"ParamList": [
+			"0.1"
+		],
+		"Icon": "SpriteOutput/SkillIconsInLevel/Skill_Infinite_Wrath",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1769205106
+		},
+		"SkillDesc": {
+			"hash": -595711191
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 30003
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_Crit_RateDamge_UP_Ability",
+		"SkillType": 7,
+		"ParamList": [
+			"0.15",
+			"0"
+		],
+		"Icon": "SpriteOutput/SkillIconsInLevel/Skill_Kallen_JK_001",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1769205105
+		},
+		"SkillDesc": {
+			"hash": -595711190
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 30004
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_SKL01_CD_DOWN_EX_Ability",
+		"SkillType": 7,
+		"ParamList": [
+			"0.2"
+		],
+		"Icon": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_Weapon_08",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1769205104
+		},
+		"SkillDesc": {
+			"hash": -595711189
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 30005
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_DamageUp_By_Attack_Ability",
+		"SkillType": 7,
+		"ParamList": [
+			"0.15"
+		],
+		"Icon": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_Weapon_17",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1769205103
+		},
+		"SkillDesc": {
+			"hash": -595711188
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 30006
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_DamageUp_By_Branch_Ability",
+		"SkillType": 7,
+		"ParamList": [
+			"0.3"
+		],
+		"Icon": "SpriteOutput/SkillIconsInLevel/Skill_Mei_Weapon_24",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1769205102
+		},
+		"SkillDesc": {
+			"hash": -595711187
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 30007
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_DamageUp_By_Ultra_Ability",
+		"SkillType": 7,
+		"ParamList": [
+			"0.3"
+		],
+		"Icon": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_Weapon_24",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1769205101
+		},
+		"SkillDesc": {
+			"hash": -595711186
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 30008
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_HealHp_Team_Ability",
+		"SkillType": 7,
+		"ParamList": [
+			"0.3"
+		],
+		"Icon": "SpriteOutput/SkillIconsInLevel/Step5",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1769205078
+		},
+		"SkillDesc": {
+			"hash": -595711163
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 30010
+	},
+	{
+		"AbilityName": "QPlatShoot_Equip_Crit_RateDamge_UP_Ability",
+		"SkillType": 7,
+		"ParamList": [
+			"0",
+			"0.3"
+		],
+		"Icon": "SpriteOutput/SkillIconsInLevel/Skill_Theresa_Weapon_07",
+		"UnlockLv": 0,
+		"SkillTitle": {
+			"hash": -1769205077
+		},
+		"SkillDesc": {
+			"hash": -595711162
+		},
+		"MaxLimit": 0,
+		"DataImpl": {},
+		"SkillId": 30011
+	}
+]

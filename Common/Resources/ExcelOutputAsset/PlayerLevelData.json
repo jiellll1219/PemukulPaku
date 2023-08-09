@@ -1,0 +1,882 @@
+[
+	{
+		"exp": 23,
+		"stamina": 80,
+		"numFriends": 20,
+		"avatarLevelLimit": 15,
+		"staminaBonus": 0,
+		"sweepStaminaLimit": 70,
+		"DataImpl": {},
+		"level": 1
+	},
+	{
+		"exp": 28,
+		"stamina": 81,
+		"numFriends": 21,
+		"avatarLevelLimit": 15,
+		"staminaBonus": 10,
+		"sweepStaminaLimit": 70,
+		"DataImpl": {},
+		"level": 2
+	},
+	{
+		"exp": 33,
+		"stamina": 82,
+		"numFriends": 22,
+		"avatarLevelLimit": 15,
+		"staminaBonus": 12,
+		"sweepStaminaLimit": 70,
+		"DataImpl": {},
+		"level": 3
+	},
+	{
+		"exp": 39,
+		"stamina": 83,
+		"numFriends": 23,
+		"avatarLevelLimit": 15,
+		"staminaBonus": 14,
+		"sweepStaminaLimit": 70,
+		"DataImpl": {},
+		"level": 4
+	},
+	{
+		"exp": 43,
+		"stamina": 84,
+		"numFriends": 24,
+		"avatarLevelLimit": 15,
+		"staminaBonus": 16,
+		"sweepStaminaLimit": 70,
+		"DataImpl": {},
+		"level": 5
+	},
+	{
+		"exp": 47,
+		"stamina": 85,
+		"numFriends": 25,
+		"avatarLevelLimit": 15,
+		"staminaBonus": 18,
+		"sweepStaminaLimit": 70,
+		"DataImpl": {},
+		"level": 6
+	},
+	{
+		"exp": 51,
+		"stamina": 86,
+		"numFriends": 26,
+		"avatarLevelLimit": 15,
+		"staminaBonus": 20,
+		"sweepStaminaLimit": 70,
+		"DataImpl": {},
+		"level": 7
+	},
+	{
+		"exp": 60,
+		"stamina": 87,
+		"numFriends": 27,
+		"avatarLevelLimit": 15,
+		"staminaBonus": 22,
+		"sweepStaminaLimit": 70,
+		"DataImpl": {},
+		"level": 8
+	},
+	{
+		"exp": 69,
+		"stamina": 88,
+		"numFriends": 28,
+		"avatarLevelLimit": 15,
+		"staminaBonus": 24,
+		"sweepStaminaLimit": 70,
+		"DataImpl": {},
+		"level": 9
+	},
+	{
+		"exp": 79,
+		"stamina": 90,
+		"numFriends": 29,
+		"avatarLevelLimit": 15,
+		"staminaBonus": 26,
+		"sweepStaminaLimit": 70,
+		"DataImpl": {},
+		"level": 10
+	},
+	{
+		"exp": 83,
+		"stamina": 91,
+		"numFriends": 30,
+		"avatarLevelLimit": 15,
+		"staminaBonus": 28,
+		"sweepStaminaLimit": 70,
+		"DataImpl": {},
+		"level": 11
+	},
+	{
+		"exp": 87,
+		"stamina": 92,
+		"numFriends": 31,
+		"avatarLevelLimit": 15,
+		"staminaBonus": 30,
+		"sweepStaminaLimit": 70,
+		"DataImpl": {},
+		"level": 12
+	},
+	{
+		"exp": 105,
+		"stamina": 93,
+		"numFriends": 32,
+		"avatarLevelLimit": 15,
+		"staminaBonus": 32,
+		"sweepStaminaLimit": 70,
+		"DataImpl": {},
+		"level": 13
+	},
+	{
+		"exp": 123,
+		"stamina": 94,
+		"numFriends": 33,
+		"avatarLevelLimit": 15,
+		"staminaBonus": 34,
+		"sweepStaminaLimit": 70,
+		"DataImpl": {},
+		"level": 14
+	},
+	{
+		"exp": 166,
+		"stamina": 95,
+		"numFriends": 34,
+		"avatarLevelLimit": 15,
+		"staminaBonus": 36,
+		"sweepStaminaLimit": 70,
+		"DataImpl": {},
+		"level": 15
+	},
+	{
+		"exp": 181,
+		"stamina": 96,
+		"numFriends": 35,
+		"avatarLevelLimit": 16,
+		"staminaBonus": 38,
+		"sweepStaminaLimit": 70,
+		"DataImpl": {},
+		"level": 16
+	},
+	{
+		"exp": 197,
+		"stamina": 97,
+		"numFriends": 36,
+		"avatarLevelLimit": 17,
+		"staminaBonus": 40,
+		"sweepStaminaLimit": 70,
+		"DataImpl": {},
+		"level": 17
+	},
+	{
+		"exp": 234,
+		"stamina": 98,
+		"numFriends": 37,
+		"avatarLevelLimit": 18,
+		"staminaBonus": 42,
+		"sweepStaminaLimit": 70,
+		"DataImpl": {},
+		"level": 18
+	},
+	{
+		"exp": 271,
+		"stamina": 99,
+		"numFriends": 38,
+		"avatarLevelLimit": 19,
+		"staminaBonus": 44,
+		"sweepStaminaLimit": 70,
+		"DataImpl": {},
+		"level": 19
+	},
+	{
+		"exp": 306,
+		"stamina": 100,
+		"numFriends": 39,
+		"avatarLevelLimit": 20,
+		"staminaBonus": 46,
+		"sweepStaminaLimit": 70,
+		"DataImpl": {},
+		"level": 20
+	},
+	{
+		"exp": 328,
+		"stamina": 101,
+		"numFriends": 40,
+		"avatarLevelLimit": 21,
+		"staminaBonus": 48,
+		"sweepStaminaLimit": 70,
+		"DataImpl": {},
+		"level": 21
+	},
+	{
+		"exp": 350,
+		"stamina": 102,
+		"numFriends": 41,
+		"avatarLevelLimit": 22,
+		"staminaBonus": 50,
+		"sweepStaminaLimit": 70,
+		"DataImpl": {},
+		"level": 22
+	},
+	{
+		"exp": 393,
+		"stamina": 103,
+		"numFriends": 42,
+		"avatarLevelLimit": 23,
+		"staminaBonus": 52,
+		"sweepStaminaLimit": 70,
+		"DataImpl": {},
+		"level": 23
+	},
+	{
+		"exp": 436,
+		"stamina": 104,
+		"numFriends": 43,
+		"avatarLevelLimit": 24,
+		"staminaBonus": 54,
+		"sweepStaminaLimit": 70,
+		"DataImpl": {},
+		"level": 24
+	},
+	{
+		"exp": 518,
+		"stamina": 105,
+		"numFriends": 44,
+		"avatarLevelLimit": 25,
+		"staminaBonus": 56,
+		"sweepStaminaLimit": 70,
+		"DataImpl": {},
+		"level": 25
+	},
+	{
+		"exp": 541,
+		"stamina": 106,
+		"numFriends": 45,
+		"avatarLevelLimit": 26,
+		"staminaBonus": 58,
+		"sweepStaminaLimit": 70,
+		"DataImpl": {},
+		"level": 26
+	},
+	{
+		"exp": 564,
+		"stamina": 107,
+		"numFriends": 46,
+		"avatarLevelLimit": 27,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 70,
+		"DataImpl": {},
+		"level": 27
+	},
+	{
+		"exp": 612,
+		"stamina": 108,
+		"numFriends": 47,
+		"avatarLevelLimit": 28,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 70,
+		"DataImpl": {},
+		"level": 28
+	},
+	{
+		"exp": 660,
+		"stamina": 109,
+		"numFriends": 48,
+		"avatarLevelLimit": 29,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 70,
+		"DataImpl": {},
+		"level": 29
+	},
+	{
+		"exp": 715,
+		"stamina": 110,
+		"numFriends": 49,
+		"avatarLevelLimit": 30,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 70,
+		"DataImpl": {},
+		"level": 30
+	},
+	{
+		"exp": 739,
+		"stamina": 111,
+		"numFriends": 50,
+		"avatarLevelLimit": 31,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 80,
+		"DataImpl": {},
+		"level": 31
+	},
+	{
+		"exp": 762,
+		"stamina": 112,
+		"numFriends": 51,
+		"avatarLevelLimit": 32,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 80,
+		"DataImpl": {},
+		"level": 32
+	},
+	{
+		"exp": 811,
+		"stamina": 113,
+		"numFriends": 52,
+		"avatarLevelLimit": 33,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 80,
+		"DataImpl": {},
+		"level": 33
+	},
+	{
+		"exp": 859,
+		"stamina": 114,
+		"numFriends": 53,
+		"avatarLevelLimit": 34,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 80,
+		"DataImpl": {},
+		"level": 34
+	},
+	{
+		"exp": 980,
+		"stamina": 115,
+		"numFriends": 54,
+		"avatarLevelLimit": 35,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 80,
+		"DataImpl": {},
+		"level": 35
+	},
+	{
+		"exp": 1005,
+		"stamina": 116,
+		"numFriends": 55,
+		"avatarLevelLimit": 36,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 80,
+		"DataImpl": {},
+		"level": 36
+	},
+	{
+		"exp": 1030,
+		"stamina": 117,
+		"numFriends": 56,
+		"avatarLevelLimit": 37,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 80,
+		"DataImpl": {},
+		"level": 37
+	},
+	{
+		"exp": 1082,
+		"stamina": 118,
+		"numFriends": 57,
+		"avatarLevelLimit": 38,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 80,
+		"DataImpl": {},
+		"level": 38
+	},
+	{
+		"exp": 1135,
+		"stamina": 119,
+		"numFriends": 58,
+		"avatarLevelLimit": 39,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 80,
+		"DataImpl": {},
+		"level": 39
+	},
+	{
+		"exp": 1159,
+		"stamina": 120,
+		"numFriends": 59,
+		"avatarLevelLimit": 40,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 90,
+		"DataImpl": {},
+		"level": 40
+	},
+	{
+		"exp": 1182,
+		"stamina": 121,
+		"numFriends": 60,
+		"avatarLevelLimit": 41,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 90,
+		"DataImpl": {},
+		"level": 41
+	},
+	{
+		"exp": 1206,
+		"stamina": 122,
+		"numFriends": 61,
+		"avatarLevelLimit": 42,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 90,
+		"DataImpl": {},
+		"level": 42
+	},
+	{
+		"exp": 1271,
+		"stamina": 123,
+		"numFriends": 62,
+		"avatarLevelLimit": 43,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 90,
+		"DataImpl": {},
+		"level": 43
+	},
+	{
+		"exp": 1335,
+		"stamina": 124,
+		"numFriends": 63,
+		"avatarLevelLimit": 44,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 90,
+		"DataImpl": {},
+		"level": 44
+	},
+	{
+		"exp": 1372,
+		"stamina": 125,
+		"numFriends": 64,
+		"avatarLevelLimit": 45,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 90,
+		"DataImpl": {},
+		"level": 45
+	},
+	{
+		"exp": 1407,
+		"stamina": 126,
+		"numFriends": 65,
+		"avatarLevelLimit": 46,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 90,
+		"DataImpl": {},
+		"level": 46
+	},
+	{
+		"exp": 1443,
+		"stamina": 127,
+		"numFriends": 66,
+		"avatarLevelLimit": 47,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 90,
+		"DataImpl": {},
+		"level": 47
+	},
+	{
+		"exp": 1520,
+		"stamina": 128,
+		"numFriends": 67,
+		"avatarLevelLimit": 48,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 90,
+		"DataImpl": {},
+		"level": 48
+	},
+	{
+		"exp": 1595,
+		"stamina": 129,
+		"numFriends": 68,
+		"avatarLevelLimit": 49,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 90,
+		"DataImpl": {},
+		"level": 49
+	},
+	{
+		"exp": 1630,
+		"stamina": 130,
+		"numFriends": 69,
+		"avatarLevelLimit": 50,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 100,
+		"DataImpl": {},
+		"level": 50
+	},
+	{
+		"exp": 1664,
+		"stamina": 131,
+		"numFriends": 70,
+		"avatarLevelLimit": 51,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 100,
+		"DataImpl": {},
+		"level": 51
+	},
+	{
+		"exp": 1698,
+		"stamina": 132,
+		"numFriends": 71,
+		"avatarLevelLimit": 52,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 100,
+		"DataImpl": {},
+		"level": 52
+	},
+	{
+		"exp": 1772,
+		"stamina": 133,
+		"numFriends": 72,
+		"avatarLevelLimit": 53,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 100,
+		"DataImpl": {},
+		"level": 53
+	},
+	{
+		"exp": 1845,
+		"stamina": 134,
+		"numFriends": 73,
+		"avatarLevelLimit": 54,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 100,
+		"DataImpl": {},
+		"level": 54
+	},
+	{
+		"exp": 1878,
+		"stamina": 135,
+		"numFriends": 74,
+		"avatarLevelLimit": 55,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 100,
+		"DataImpl": {},
+		"level": 55
+	},
+	{
+		"exp": 1910,
+		"stamina": 136,
+		"numFriends": 75,
+		"avatarLevelLimit": 56,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 100,
+		"DataImpl": {},
+		"level": 56
+	},
+	{
+		"exp": 1943,
+		"stamina": 137,
+		"numFriends": 76,
+		"avatarLevelLimit": 57,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 100,
+		"DataImpl": {},
+		"level": 57
+	},
+	{
+		"exp": 1977,
+		"stamina": 138,
+		"numFriends": 77,
+		"avatarLevelLimit": 58,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 100,
+		"DataImpl": {},
+		"level": 58
+	},
+	{
+		"exp": 2012,
+		"stamina": 139,
+		"numFriends": 78,
+		"avatarLevelLimit": 59,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 100,
+		"DataImpl": {},
+		"level": 59
+	},
+	{
+		"exp": 2048,
+		"stamina": 140,
+		"numFriends": 79,
+		"avatarLevelLimit": 60,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 120,
+		"DataImpl": {},
+		"level": 60
+	},
+	{
+		"exp": 2086,
+		"stamina": 141,
+		"numFriends": 80,
+		"avatarLevelLimit": 61,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 120,
+		"DataImpl": {},
+		"level": 61
+	},
+	{
+		"exp": 2127,
+		"stamina": 142,
+		"numFriends": 81,
+		"avatarLevelLimit": 62,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 120,
+		"DataImpl": {},
+		"level": 62
+	},
+	{
+		"exp": 2171,
+		"stamina": 143,
+		"numFriends": 82,
+		"avatarLevelLimit": 63,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 120,
+		"DataImpl": {},
+		"level": 63
+	},
+	{
+		"exp": 2219,
+		"stamina": 144,
+		"numFriends": 83,
+		"avatarLevelLimit": 64,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 120,
+		"DataImpl": {},
+		"level": 64
+	},
+	{
+		"exp": 2272,
+		"stamina": 145,
+		"numFriends": 84,
+		"avatarLevelLimit": 65,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 120,
+		"DataImpl": {},
+		"level": 65
+	},
+	{
+		"exp": 2332,
+		"stamina": 146,
+		"numFriends": 85,
+		"avatarLevelLimit": 66,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 120,
+		"DataImpl": {},
+		"level": 66
+	},
+	{
+		"exp": 2401,
+		"stamina": 147,
+		"numFriends": 86,
+		"avatarLevelLimit": 67,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 120,
+		"DataImpl": {},
+		"level": 67
+	},
+	{
+		"exp": 2481,
+		"stamina": 148,
+		"numFriends": 87,
+		"avatarLevelLimit": 68,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 120,
+		"DataImpl": {},
+		"level": 68
+	},
+	{
+		"exp": 2575,
+		"stamina": 149,
+		"numFriends": 88,
+		"avatarLevelLimit": 69,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 120,
+		"DataImpl": {},
+		"level": 69
+	},
+	{
+		"exp": 2687,
+		"stamina": 150,
+		"numFriends": 89,
+		"avatarLevelLimit": 70,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 140,
+		"DataImpl": {},
+		"level": 70
+	},
+	{
+		"exp": 2821,
+		"stamina": 151,
+		"numFriends": 90,
+		"avatarLevelLimit": 71,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 140,
+		"DataImpl": {},
+		"level": 71
+	},
+	{
+		"exp": 2983,
+		"stamina": 152,
+		"numFriends": 91,
+		"avatarLevelLimit": 72,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 140,
+		"DataImpl": {},
+		"level": 72
+	},
+	{
+		"exp": 3180,
+		"stamina": 153,
+		"numFriends": 92,
+		"avatarLevelLimit": 73,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 140,
+		"DataImpl": {},
+		"level": 73
+	},
+	{
+		"exp": 3421,
+		"stamina": 154,
+		"numFriends": 93,
+		"avatarLevelLimit": 74,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 140,
+		"DataImpl": {},
+		"level": 74
+	},
+	{
+		"exp": 3717,
+		"stamina": 155,
+		"numFriends": 94,
+		"avatarLevelLimit": 75,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 140,
+		"DataImpl": {},
+		"level": 75
+	},
+	{
+		"exp": 4082,
+		"stamina": 156,
+		"numFriends": 95,
+		"avatarLevelLimit": 76,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 140,
+		"DataImpl": {},
+		"level": 76
+	},
+	{
+		"exp": 4533,
+		"stamina": 157,
+		"numFriends": 96,
+		"avatarLevelLimit": 77,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 140,
+		"DataImpl": {},
+		"level": 77
+	},
+	{
+		"exp": 5092,
+		"stamina": 158,
+		"numFriends": 97,
+		"avatarLevelLimit": 78,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 140,
+		"DataImpl": {},
+		"level": 78
+	},
+	{
+		"exp": 5786,
+		"stamina": 159,
+		"numFriends": 98,
+		"avatarLevelLimit": 79,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 140,
+		"DataImpl": {},
+		"level": 79
+	},
+	{
+		"exp": 6649,
+		"stamina": 160,
+		"numFriends": 99,
+		"avatarLevelLimit": 80,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 140,
+		"DataImpl": {},
+		"level": 80
+	},
+	{
+		"exp": 20050,
+		"stamina": 161,
+		"numFriends": 99,
+		"avatarLevelLimit": 80,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 150,
+		"DataImpl": {},
+		"level": 81
+	},
+	{
+		"exp": 22100,
+		"stamina": 162,
+		"numFriends": 99,
+		"avatarLevelLimit": 80,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 150,
+		"DataImpl": {},
+		"level": 82
+	},
+	{
+		"exp": 24150,
+		"stamina": 163,
+		"numFriends": 99,
+		"avatarLevelLimit": 80,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 150,
+		"DataImpl": {},
+		"level": 83
+	},
+	{
+		"exp": 26200,
+		"stamina": 164,
+		"numFriends": 99,
+		"avatarLevelLimit": 80,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 150,
+		"DataImpl": {},
+		"level": 84
+	},
+	{
+		"exp": 28290,
+		"stamina": 165,
+		"numFriends": 99,
+		"avatarLevelLimit": 80,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 160,
+		"DataImpl": {},
+		"level": 85
+	},
+	{
+		"exp": 30550,
+		"stamina": 166,
+		"numFriends": 99,
+		"avatarLevelLimit": 80,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 160,
+		"DataImpl": {},
+		"level": 86
+	},
+	{
+		"exp": 32990,
+		"stamina": 167,
+		"numFriends": 99,
+		"avatarLevelLimit": 80,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 160,
+		"DataImpl": {},
+		"level": 87
+	},
+	{
+		"exp": 1000,
+		"stamina": 168,
+		"numFriends": 99,
+		"avatarLevelLimit": 80,
+		"staminaBonus": 60,
+		"sweepStaminaLimit": 160,
+		"DataImpl": {},
+		"level": 88
+	}
+]

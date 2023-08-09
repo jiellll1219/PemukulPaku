@@ -1,0 +1,812 @@
+[
+	{
+		"LevelRange": 0,
+		"MapID": 1001,
+		"DisplayDesc": "100",
+		"AbilityName": "ABL_OW_Moon_AvatarSetting",
+		"AbilityParamList": [
+			100
+		],
+		"RobotPropState": 1,
+		"RobotPrefabPath": "Entities/PropObject/Robot_001/Prop_Robot_001",
+		"RobotScale": 5,
+		"RobotPosition": [
+			0,
+			-10,
+			0
+		],
+		"RobotRotation": [
+			-15,
+			180,
+			0
+		],
+		"RobotImgPath": "SpriteOutput/Chapter30OW/AvatarIcon/RobotAvatar01",
+		"RobotUpgradeImgPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Robot_01",
+		"RobotOutlineBGPath": "SpriteOutput/Chapter30OW/Robot/Robot01",
+		"DataImpl": {},
+		"ID": 1
+	},
+	{
+		"LevelRange": 5,
+		"MapID": 1001,
+		"DisplayDesc": "150",
+		"AbilityName": "ABL_OW_Moon_AvatarSetting",
+		"AbilityParamList": [
+			150
+		],
+		"RobotPropState": 1,
+		"RobotPrefabPath": "Entities/PropObject/Robot_001/Prop_Robot_001",
+		"RobotScale": 5,
+		"RobotPosition": [
+			0,
+			-10,
+			0
+		],
+		"RobotRotation": [
+			-15,
+			180,
+			0
+		],
+		"RobotImgPath": "SpriteOutput/Chapter30OW/AvatarIcon/RobotAvatar01",
+		"RobotUpgradeImgPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Robot_01",
+		"RobotOutlineBGPath": "SpriteOutput/Chapter30OW/Robot/Robot01",
+		"DataImpl": {},
+		"ID": 2
+	},
+	{
+		"LevelRange": 10,
+		"MapID": 1001,
+		"DisplayDesc": "200",
+		"AbilityName": "ABL_OW_Moon_AvatarSetting",
+		"AbilityParamList": [
+			200
+		],
+		"RobotPropState": 1,
+		"RobotPrefabPath": "Entities/PropObject/Robot_001/Prop_Robot_001",
+		"RobotScale": 5,
+		"RobotPosition": [
+			0,
+			-10,
+			0
+		],
+		"RobotRotation": [
+			-15,
+			180,
+			0
+		],
+		"RobotImgPath": "SpriteOutput/Chapter30OW/AvatarIcon/RobotAvatar01",
+		"RobotUpgradeImgPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Robot_01",
+		"RobotOutlineBGPath": "SpriteOutput/Chapter30OW/Robot/Robot01",
+		"DataImpl": {},
+		"ID": 3
+	},
+	{
+		"LevelRange": 15,
+		"MapID": 1001,
+		"DisplayDesc": "250",
+		"AbilityName": "ABL_OW_Moon_AvatarSetting",
+		"AbilityParamList": [
+			250
+		],
+		"RobotPropState": 1,
+		"RobotPrefabPath": "Entities/PropObject/Robot_001/Prop_Robot_001",
+		"RobotScale": 5,
+		"RobotPosition": [
+			0,
+			-10,
+			0
+		],
+		"RobotRotation": [
+			-15,
+			180,
+			0
+		],
+		"RobotImgPath": "SpriteOutput/Chapter30OW/AvatarIcon/RobotAvatar01",
+		"RobotUpgradeImgPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Robot_01",
+		"RobotOutlineBGPath": "SpriteOutput/Chapter30OW/Robot/Robot01",
+		"DataImpl": {},
+		"ID": 4
+	},
+	{
+		"LevelRange": 20,
+		"MapID": 1001,
+		"DisplayDesc": "300",
+		"AbilityName": "ABL_OW_Moon_AvatarSetting",
+		"AbilityParamList": [
+			300
+		],
+		"RobotPropState": 1,
+		"RobotPrefabPath": "Entities/PropObject/Robot_001/Prop_Robot_001",
+		"RobotScale": 5,
+		"RobotPosition": [
+			0,
+			-10,
+			0
+		],
+		"RobotRotation": [
+			-15,
+			180,
+			0
+		],
+		"RobotImgPath": "SpriteOutput/Chapter30OW/AvatarIcon/RobotAvatar01",
+		"RobotUpgradeImgPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Robot_01",
+		"RobotOutlineBGPath": "SpriteOutput/Chapter30OW/Robot/Robot01",
+		"DataImpl": {},
+		"ID": 5
+	},
+	{
+		"LevelRange": 25,
+		"MapID": 1001,
+		"DisplayDesc": "400",
+		"AbilityName": "ABL_OW_Moon_AvatarSetting",
+		"AbilityParamList": [
+			400
+		],
+		"RobotPropState": 1,
+		"RobotPrefabPath": "Entities/PropObject/Robot_001/Prop_Robot_001",
+		"RobotScale": 5,
+		"RobotPosition": [
+			0,
+			-10,
+			0
+		],
+		"RobotRotation": [
+			-15,
+			180,
+			0
+		],
+		"RobotImgPath": "SpriteOutput/Chapter30OW/AvatarIcon/RobotAvatar01",
+		"RobotUpgradeImgPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Robot_01",
+		"RobotOutlineBGPath": "SpriteOutput/Chapter30OW/Robot/Robot01",
+		"DataImpl": {},
+		"ID": 6
+	},
+	{
+		"LevelRange": 30,
+		"MapID": 1001,
+		"DisplayDesc": "450",
+		"AbilityName": "ABL_OW_Moon_AvatarSetting",
+		"AbilityParamList": [
+			450
+		],
+		"RobotPropState": 2,
+		"RobotPrefabPath": "Entities/PropObject/Robot_001/Prop_Robot_002",
+		"RobotScale": 5,
+		"RobotPosition": [
+			0,
+			-10,
+			0
+		],
+		"RobotRotation": [
+			-15,
+			180,
+			0
+		],
+		"RobotImgPath": "SpriteOutput/Chapter30OW/AvatarIcon/RobotAvatar02",
+		"RobotUpgradeImgPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Robot_02",
+		"RobotOutlineBGPath": "SpriteOutput/Chapter30OW/Robot/Robot02",
+		"DataImpl": {},
+		"ID": 7
+	},
+	{
+		"LevelRange": 35,
+		"MapID": 1001,
+		"DisplayDesc": "500",
+		"AbilityName": "ABL_OW_Moon_AvatarSetting",
+		"AbilityParamList": [
+			500
+		],
+		"RobotPropState": 2,
+		"RobotPrefabPath": "Entities/PropObject/Robot_001/Prop_Robot_002",
+		"RobotScale": 5,
+		"RobotPosition": [
+			0,
+			-10,
+			0
+		],
+		"RobotRotation": [
+			-15,
+			180,
+			0
+		],
+		"RobotImgPath": "SpriteOutput/Chapter30OW/AvatarIcon/RobotAvatar02",
+		"RobotUpgradeImgPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Robot_02",
+		"RobotOutlineBGPath": "SpriteOutput/Chapter30OW/Robot/Robot02",
+		"DataImpl": {},
+		"ID": 8
+	},
+	{
+		"LevelRange": 40,
+		"MapID": 1001,
+		"DisplayDesc": "550",
+		"AbilityName": "ABL_OW_Moon_AvatarSetting",
+		"AbilityParamList": [
+			550
+		],
+		"RobotPropState": 2,
+		"RobotPrefabPath": "Entities/PropObject/Robot_001/Prop_Robot_002",
+		"RobotScale": 5,
+		"RobotPosition": [
+			0,
+			-10,
+			0
+		],
+		"RobotRotation": [
+			-15,
+			180,
+			0
+		],
+		"RobotImgPath": "SpriteOutput/Chapter30OW/AvatarIcon/RobotAvatar02",
+		"RobotUpgradeImgPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Robot_02",
+		"RobotOutlineBGPath": "SpriteOutput/Chapter30OW/Robot/Robot02",
+		"DataImpl": {},
+		"ID": 9
+	},
+	{
+		"LevelRange": 45,
+		"MapID": 1001,
+		"DisplayDesc": "650",
+		"AbilityName": "ABL_OW_Moon_AvatarSetting",
+		"AbilityParamList": [
+			650
+		],
+		"RobotPropState": 2,
+		"RobotPrefabPath": "Entities/PropObject/Robot_001/Prop_Robot_002",
+		"RobotScale": 5,
+		"RobotPosition": [
+			0,
+			-10,
+			0
+		],
+		"RobotRotation": [
+			-15,
+			180,
+			0
+		],
+		"RobotImgPath": "SpriteOutput/Chapter30OW/AvatarIcon/RobotAvatar02",
+		"RobotUpgradeImgPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Robot_02",
+		"RobotOutlineBGPath": "SpriteOutput/Chapter30OW/Robot/Robot02",
+		"DataImpl": {},
+		"ID": 10
+	},
+	{
+		"LevelRange": 50,
+		"MapID": 1001,
+		"DisplayDesc": "700",
+		"AbilityName": "ABL_OW_Moon_AvatarSetting",
+		"AbilityParamList": [
+			700
+		],
+		"RobotPropState": 2,
+		"RobotPrefabPath": "Entities/PropObject/Robot_001/Prop_Robot_002",
+		"RobotScale": 5,
+		"RobotPosition": [
+			0,
+			-10,
+			0
+		],
+		"RobotRotation": [
+			-15,
+			180,
+			0
+		],
+		"RobotImgPath": "SpriteOutput/Chapter30OW/AvatarIcon/RobotAvatar02",
+		"RobotUpgradeImgPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Robot_02",
+		"RobotOutlineBGPath": "SpriteOutput/Chapter30OW/Robot/Robot02",
+		"DataImpl": {},
+		"ID": 11
+	},
+	{
+		"LevelRange": 55,
+		"MapID": 1001,
+		"DisplayDesc": "750",
+		"AbilityName": "ABL_OW_Moon_AvatarSetting",
+		"AbilityParamList": [
+			750
+		],
+		"RobotPropState": 2,
+		"RobotPrefabPath": "Entities/PropObject/Robot_001/Prop_Robot_002",
+		"RobotScale": 5,
+		"RobotPosition": [
+			0,
+			-10,
+			0
+		],
+		"RobotRotation": [
+			-15,
+			180,
+			0
+		],
+		"RobotImgPath": "SpriteOutput/Chapter30OW/AvatarIcon/RobotAvatar02",
+		"RobotUpgradeImgPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Robot_02",
+		"RobotOutlineBGPath": "SpriteOutput/Chapter30OW/Robot/Robot02",
+		"DataImpl": {},
+		"ID": 12
+	},
+	{
+		"LevelRange": 60,
+		"MapID": 1001,
+		"DisplayDesc": "800",
+		"AbilityName": "ABL_OW_Moon_AvatarSetting",
+		"AbilityParamList": [
+			800
+		],
+		"RobotPropState": 3,
+		"RobotPrefabPath": "Entities/PropObject/Robot_001/Prop_Robot_003",
+		"RobotScale": 5,
+		"RobotPosition": [
+			0,
+			-10,
+			0
+		],
+		"RobotRotation": [
+			-15,
+			180,
+			0
+		],
+		"RobotImgPath": "SpriteOutput/Chapter30OW/AvatarIcon/RobotAvatar02",
+		"RobotUpgradeImgPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Robot_03",
+		"RobotOutlineBGPath": "SpriteOutput/Chapter30OW/Robot/Robot03",
+		"DataImpl": {},
+		"ID": 13
+	},
+	{
+		"LevelRange": 65,
+		"MapID": 1001,
+		"DisplayDesc": "850",
+		"AbilityName": "ABL_OW_Moon_AvatarSetting",
+		"AbilityParamList": [
+			850
+		],
+		"RobotPropState": 3,
+		"RobotPrefabPath": "Entities/PropObject/Robot_001/Prop_Robot_003",
+		"RobotScale": 5,
+		"RobotPosition": [
+			0,
+			-10,
+			0
+		],
+		"RobotRotation": [
+			-15,
+			180,
+			0
+		],
+		"RobotImgPath": "SpriteOutput/Chapter30OW/AvatarIcon/RobotAvatar02",
+		"RobotUpgradeImgPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Robot_03",
+		"RobotOutlineBGPath": "SpriteOutput/Chapter30OW/Robot/Robot03",
+		"DataImpl": {},
+		"ID": 14
+	},
+	{
+		"LevelRange": 70,
+		"MapID": 1001,
+		"DisplayDesc": "900",
+		"AbilityName": "ABL_OW_Moon_AvatarSetting",
+		"AbilityParamList": [
+			900
+		],
+		"RobotPropState": 3,
+		"RobotPrefabPath": "Entities/PropObject/Robot_001/Prop_Robot_003",
+		"RobotScale": 5,
+		"RobotPosition": [
+			0,
+			-10,
+			0
+		],
+		"RobotRotation": [
+			-15,
+			180,
+			0
+		],
+		"RobotImgPath": "SpriteOutput/Chapter30OW/AvatarIcon/RobotAvatar02",
+		"RobotUpgradeImgPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Robot_03",
+		"RobotOutlineBGPath": "SpriteOutput/Chapter30OW/Robot/Robot03",
+		"DataImpl": {},
+		"ID": 15
+	},
+	{
+		"LevelRange": 75,
+		"MapID": 1001,
+		"DisplayDesc": "950",
+		"AbilityName": "ABL_OW_Moon_AvatarSetting",
+		"AbilityParamList": [
+			950
+		],
+		"RobotPropState": 3,
+		"RobotPrefabPath": "Entities/PropObject/Robot_001/Prop_Robot_003",
+		"RobotScale": 5,
+		"RobotPosition": [
+			0,
+			-10,
+			0
+		],
+		"RobotRotation": [
+			-15,
+			180,
+			0
+		],
+		"RobotImgPath": "SpriteOutput/Chapter30OW/AvatarIcon/RobotAvatar02",
+		"RobotUpgradeImgPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Robot_03",
+		"RobotOutlineBGPath": "SpriteOutput/Chapter30OW/Robot/Robot03",
+		"DataImpl": {},
+		"ID": 16
+	},
+	{
+		"LevelRange": 80,
+		"MapID": 1001,
+		"DisplayDesc": "1000",
+		"AbilityName": "ABL_OW_Moon_AvatarSetting",
+		"AbilityParamList": [
+			1000
+		],
+		"RobotPropState": 3,
+		"RobotPrefabPath": "Entities/PropObject/Robot_001/Prop_Robot_003",
+		"RobotScale": 5,
+		"RobotPosition": [
+			0,
+			-10,
+			0
+		],
+		"RobotRotation": [
+			-15,
+			180,
+			0
+		],
+		"RobotImgPath": "SpriteOutput/Chapter30OW/AvatarIcon/RobotAvatar02",
+		"RobotUpgradeImgPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Robot_03",
+		"RobotOutlineBGPath": "SpriteOutput/Chapter30OW/Robot/Robot03",
+		"DataImpl": {},
+		"ID": 17
+	},
+	{
+		"LevelRange": 85,
+		"MapID": 1001,
+		"DisplayDesc": "1050",
+		"AbilityName": "ABL_OW_Moon_AvatarSetting",
+		"AbilityParamList": [
+			1050
+		],
+		"RobotPropState": 3,
+		"RobotPrefabPath": "Entities/PropObject/Robot_001/Prop_Robot_003",
+		"RobotScale": 5,
+		"RobotPosition": [
+			0,
+			-10,
+			0
+		],
+		"RobotRotation": [
+			-15,
+			180,
+			0
+		],
+		"RobotImgPath": "SpriteOutput/Chapter30OW/AvatarIcon/RobotAvatar02",
+		"RobotUpgradeImgPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Robot_03",
+		"RobotOutlineBGPath": "SpriteOutput/Chapter30OW/Robot/Robot03",
+		"DataImpl": {},
+		"ID": 18
+	},
+	{
+		"LevelRange": 90,
+		"MapID": 1001,
+		"DisplayDesc": "1100",
+		"AbilityName": "ABL_OW_Moon_AvatarSetting",
+		"AbilityParamList": [
+			1100
+		],
+		"RobotPropState": 3,
+		"RobotPrefabPath": "Entities/PropObject/Robot_001/Prop_Robot_003",
+		"RobotScale": 5,
+		"RobotPosition": [
+			0,
+			-10,
+			0
+		],
+		"RobotRotation": [
+			-15,
+			180,
+			0
+		],
+		"RobotImgPath": "SpriteOutput/Chapter30OW/AvatarIcon/RobotAvatar02",
+		"RobotUpgradeImgPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Robot_03",
+		"RobotOutlineBGPath": "SpriteOutput/Chapter30OW/Robot/Robot03",
+		"DataImpl": {},
+		"ID": 19
+	},
+	{
+		"LevelRange": 95,
+		"MapID": 1001,
+		"DisplayDesc": "1150",
+		"AbilityName": "ABL_OW_Moon_AvatarSetting",
+		"AbilityParamList": [
+			1150
+		],
+		"RobotPropState": 3,
+		"RobotPrefabPath": "Entities/PropObject/Robot_001/Prop_Robot_003",
+		"RobotScale": 5,
+		"RobotPosition": [
+			0,
+			-10,
+			0
+		],
+		"RobotRotation": [
+			-15,
+			180,
+			0
+		],
+		"RobotImgPath": "SpriteOutput/Chapter30OW/AvatarIcon/RobotAvatar02",
+		"RobotUpgradeImgPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Robot_03",
+		"RobotOutlineBGPath": "SpriteOutput/Chapter30OW/Robot/Robot03",
+		"DataImpl": {},
+		"ID": 20
+	},
+	{
+		"LevelRange": 100,
+		"MapID": 1001,
+		"DisplayDesc": "1200",
+		"AbilityName": "ABL_OW_Moon_AvatarSetting",
+		"AbilityParamList": [
+			1200
+		],
+		"RobotPropState": 4,
+		"RobotPrefabPath": "Entities/PropObject/Robot_001/Prop_Robot_004",
+		"RobotScale": 5,
+		"RobotPosition": [
+			0,
+			-10,
+			0
+		],
+		"RobotRotation": [
+			-15,
+			180,
+			0
+		],
+		"RobotImgPath": "SpriteOutput/Chapter30OW/AvatarIcon/RobotAvatar03",
+		"RobotUpgradeImgPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Robot_04",
+		"RobotOutlineBGPath": "SpriteOutput/Chapter30OW/Robot/Robot04",
+		"DataImpl": {},
+		"ID": 21
+	},
+	{
+		"LevelRange": 105,
+		"MapID": 1001,
+		"DisplayDesc": "1250",
+		"AbilityName": "ABL_OW_Moon_AvatarSetting",
+		"AbilityParamList": [
+			1250
+		],
+		"RobotPropState": 4,
+		"RobotPrefabPath": "Entities/PropObject/Robot_001/Prop_Robot_004",
+		"RobotScale": 5,
+		"RobotPosition": [
+			0,
+			-10,
+			0
+		],
+		"RobotRotation": [
+			-15,
+			180,
+			0
+		],
+		"RobotImgPath": "SpriteOutput/Chapter30OW/AvatarIcon/RobotAvatar03",
+		"RobotUpgradeImgPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Robot_04",
+		"RobotOutlineBGPath": "SpriteOutput/Chapter30OW/Robot/Robot04",
+		"DataImpl": {},
+		"ID": 22
+	},
+	{
+		"LevelRange": 110,
+		"MapID": 1001,
+		"DisplayDesc": "1300",
+		"AbilityName": "ABL_OW_Moon_AvatarSetting",
+		"AbilityParamList": [
+			1300
+		],
+		"RobotPropState": 4,
+		"RobotPrefabPath": "Entities/PropObject/Robot_001/Prop_Robot_004",
+		"RobotScale": 5,
+		"RobotPosition": [
+			0,
+			-10,
+			0
+		],
+		"RobotRotation": [
+			-15,
+			180,
+			0
+		],
+		"RobotImgPath": "SpriteOutput/Chapter30OW/AvatarIcon/RobotAvatar03",
+		"RobotUpgradeImgPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Robot_04",
+		"RobotOutlineBGPath": "SpriteOutput/Chapter30OW/Robot/Robot04",
+		"DataImpl": {},
+		"ID": 23
+	},
+	{
+		"LevelRange": 115,
+		"MapID": 1001,
+		"DisplayDesc": "1350",
+		"AbilityName": "ABL_OW_Moon_AvatarSetting",
+		"AbilityParamList": [
+			1350
+		],
+		"RobotPropState": 4,
+		"RobotPrefabPath": "Entities/PropObject/Robot_001/Prop_Robot_004",
+		"RobotScale": 5,
+		"RobotPosition": [
+			0,
+			-10,
+			0
+		],
+		"RobotRotation": [
+			-15,
+			180,
+			0
+		],
+		"RobotImgPath": "SpriteOutput/Chapter30OW/AvatarIcon/RobotAvatar03",
+		"RobotUpgradeImgPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Robot_04",
+		"RobotOutlineBGPath": "SpriteOutput/Chapter30OW/Robot/Robot04",
+		"DataImpl": {},
+		"ID": 24
+	},
+	{
+		"LevelRange": 120,
+		"MapID": 1001,
+		"DisplayDesc": "1400",
+		"AbilityName": "ABL_OW_Moon_AvatarSetting",
+		"AbilityParamList": [
+			1400
+		],
+		"RobotPropState": 4,
+		"RobotPrefabPath": "Entities/PropObject/Robot_001/Prop_Robot_004",
+		"RobotScale": 5,
+		"RobotPosition": [
+			0,
+			-10,
+			0
+		],
+		"RobotRotation": [
+			-15,
+			180,
+			0
+		],
+		"RobotImgPath": "SpriteOutput/Chapter30OW/AvatarIcon/RobotAvatar03",
+		"RobotUpgradeImgPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Robot_04",
+		"RobotOutlineBGPath": "SpriteOutput/Chapter30OW/Robot/Robot04",
+		"DataImpl": {},
+		"ID": 25
+	},
+	{
+		"LevelRange": 125,
+		"MapID": 1001,
+		"DisplayDesc": "1500",
+		"AbilityName": "ABL_OW_Moon_AvatarSetting",
+		"AbilityParamList": [
+			1500
+		],
+		"RobotPropState": 4,
+		"RobotPrefabPath": "Entities/PropObject/Robot_001/Prop_Robot_004",
+		"RobotScale": 5,
+		"RobotPosition": [
+			0,
+			-10,
+			0
+		],
+		"RobotRotation": [
+			-15,
+			180,
+			0
+		],
+		"RobotImgPath": "SpriteOutput/Chapter30OW/AvatarIcon/RobotAvatar03",
+		"RobotUpgradeImgPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Robot_04",
+		"RobotOutlineBGPath": "SpriteOutput/Chapter30OW/Robot/Robot04",
+		"DataImpl": {},
+		"ID": 26
+	},
+	{
+		"LevelRange": 130,
+		"MapID": 1001,
+		"DisplayDesc": "1500",
+		"AbilityName": "ABL_OW_Moon_AvatarSetting",
+		"AbilityParamList": [
+			1450
+		],
+		"RobotPropState": 4,
+		"RobotPrefabPath": "Entities/PropObject/Robot_001/Prop_Robot_004",
+		"RobotScale": 5,
+		"RobotPosition": [
+			0,
+			-10,
+			0
+		],
+		"RobotRotation": [
+			-15,
+			180,
+			0
+		],
+		"RobotImgPath": "SpriteOutput/Chapter30OW/AvatarIcon/RobotAvatar03",
+		"RobotUpgradeImgPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Robot_04",
+		"RobotOutlineBGPath": "SpriteOutput/Chapter30OW/Robot/Robot04",
+		"DataImpl": {},
+		"ID": 27
+	},
+	{
+		"LevelRange": 135,
+		"MapID": 1001,
+		"DisplayDesc": "1550",
+		"AbilityName": "ABL_OW_Moon_AvatarSetting",
+		"AbilityParamList": [
+			1550
+		],
+		"RobotPropState": 4,
+		"RobotPrefabPath": "Entities/PropObject/Robot_001/Prop_Robot_004",
+		"RobotScale": 5,
+		"RobotPosition": [
+			0,
+			-10,
+			0
+		],
+		"RobotRotation": [
+			-15,
+			180,
+			0
+		],
+		"RobotImgPath": "SpriteOutput/Chapter30OW/AvatarIcon/RobotAvatar03",
+		"RobotUpgradeImgPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Robot_04",
+		"RobotOutlineBGPath": "SpriteOutput/Chapter30OW/Robot/Robot04",
+		"DataImpl": {},
+		"ID": 28
+	},
+	{
+		"LevelRange": 140,
+		"MapID": 1001,
+		"DisplayDesc": "1600",
+		"AbilityName": "ABL_OW_Moon_AvatarSetting",
+		"AbilityParamList": [
+			1600
+		],
+		"RobotPropState": 4,
+		"RobotPrefabPath": "Entities/PropObject/Robot_001/Prop_Robot_004",
+		"RobotScale": 5,
+		"RobotPosition": [
+			0,
+			-10,
+			0
+		],
+		"RobotRotation": [
+			-15,
+			180,
+			0
+		],
+		"RobotImgPath": "SpriteOutput/Chapter30OW/AvatarIcon/RobotAvatar03",
+		"RobotUpgradeImgPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Robot_04",
+		"RobotOutlineBGPath": "SpriteOutput/Chapter30OW/Robot/Robot04",
+		"DataImpl": {},
+		"ID": 29
+	},
+	{
+		"LevelRange": 145,
+		"MapID": 1001,
+		"DisplayDesc": "1650",
+		"AbilityName": "ABL_OW_Moon_AvatarSetting",
+		"AbilityParamList": [
+			1650
+		],
+		"RobotPropState": 4,
+		"RobotPrefabPath": "Entities/PropObject/Robot_001/Prop_Robot_004",
+		"RobotScale": 5,
+		"RobotPosition": [
+			0,
+			-10,
+			0
+		],
+		"RobotRotation": [
+			-15,
+			180,
+			0
+		],
+		"RobotImgPath": "SpriteOutput/Chapter30OW/AvatarIcon/RobotAvatar03",
+		"RobotUpgradeImgPath": "SpriteOutput/Chapter30OW/Promote/Chapter30OWBuliding_Robot_04",
+		"RobotOutlineBGPath": "SpriteOutput/Chapter30OW/Robot/Robot04",
+		"DataImpl": {},
+		"ID": 30
+	}
+]

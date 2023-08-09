@@ -1,0 +1,113 @@
+[
+	{
+		"Name": {
+			"hash": 1385702545
+		},
+		"Type": 4,
+		"LeftBoardPageList": [
+			2
+		],
+		"ShowMissionList": [],
+		"QAvatarList": [
+			101,
+			102,
+			103,
+			104,
+			105
+		],
+		"PlayerSpawnPoint": [
+			23.8,
+			0,
+			25,
+			0
+		],
+		"PlayerRotation": 90,
+		"CameraRotation": -90,
+		"IsCameraLocked": true,
+		"CameraRotationReset": false,
+		"CameraRotationMin": -110,
+		"CameraRotationMax": -70,
+		"StagePath": "Stage/Stage_PVERogue/Stage_PVPRogue_Area01",
+		"Weather": "Style_Stage_Q_Shoot_1",
+		"ChatLobbySupportJump": 0,
+		"ChatLobbyMainUIPath": "UI/Menus/Page/InLevel/NewYearMealChatLobbyMainPage",
+		"DataImpl": {},
+		"ID": 103
+	},
+	{
+		"Name": {
+			"hash": 1442960847
+		},
+		"Type": 1,
+		"LeftBoardPageList": [
+			1
+		],
+		"ShowMissionList": [
+			80306,
+			80307,
+			80308,
+			80309,
+			80310,
+			80311,
+			80312,
+			80313,
+			80314,
+			80315
+		],
+		"QAvatarList": [],
+		"PlayerSpawnPoint": [
+			3.18,
+			0,
+			0.26,
+			0
+		],
+		"PlayerRotation": 180,
+		"CameraRotation": 270,
+		"IsCameraLocked": false,
+		"CameraRotationReset": false,
+		"CameraRotationMin": 0,
+		"CameraRotationMax": 0,
+		"StagePath": "Stage/Stage_Chatlobby/Stage_Lobby_Sakura",
+		"Weather": "ChatLobby_Default",
+		"ChatLobbySupportJump": 0,
+		"ChatLobbyMainUIPath": "UI/Menus/Page/InLevel/NewYearMealChatLobbyMainPage",
+		"DataImpl": {},
+		"ID": 105
+	},
+	{
+		"Name": {
+			"hash": 1557477451
+		},
+		"Type": 1,
+		"LeftBoardPageList": [
+			1
+		],
+		"ShowMissionList": [
+			671209,
+			671210,
+			671211,
+			671212,
+			671213,
+			671214
+		],
+		"QAvatarList": [],
+		"PlayerSpawnPoint": [
+			11,
+			0,
+			-2.3,
+			8
+		],
+		"PlayerRotation": 135,
+		"CameraRotation": 45,
+		"IsCameraLocked": false,
+		"CameraRotationReset": true,
+		"CameraRotationMin": 0,
+		"CameraRotationMax": 0,
+		"StagePath": "Stage/Stage_Lobby/Stage_Lobby_2022",
+		"Weather": "ChatLobby_Default",
+		"ChatLobbySupportJump": 1,
+		"ChatLobbyMainUIPath": "UI/Menus/Page/HoukaiTownChat/HoukaiTownChatPage",
+		"DataImpl": {},
+		"ID": 109
+	}
+]

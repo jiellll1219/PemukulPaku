@@ -1,0 +1,4493 @@
+[
+	{
+		"monsterName": "DeadWalker",
+		"configType": "Default",
+		"isElite": false,
+		"uniqueID": 111174,
+		"Score": 200,
+		"Nature": 1,
+		"monsterTagList": [
+			"Bio",
+			"Little",
+			"G1"
+		],
+		"monsterRank": 1,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 0,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1001
+	},
+	{
+		"monsterName": "DeadKiller",
+		"configType": "Default",
+		"isElite": false,
+		"uniqueID": 111175,
+		"Score": 200,
+		"Nature": 1,
+		"monsterTagList": [
+			"Bio",
+			"Little",
+			"G1"
+		],
+		"monsterRank": 1,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 0,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1002
+	},
+	{
+		"monsterName": "RobotTitan",
+		"configType": "Default",
+		"isElite": false,
+		"uniqueID": 111176,
+		"Score": 250,
+		"Nature": 3,
+		"monsterTagList": [
+			"Mec",
+			"Little",
+			"G1"
+		],
+		"monsterRank": 1,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 0,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1003
+	},
+	{
+		"monsterName": "UlyssesDefend",
+		"configType": "Default",
+		"isElite": false,
+		"uniqueID": 111177,
+		"Score": 200,
+		"Nature": 2,
+		"monsterTagList": [
+			"Psy",
+			"Little",
+			"G1"
+		],
+		"monsterRank": 1,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 0,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1004
+	},
+	{
+		"monsterName": "RobotLauncher",
+		"configType": "Default",
+		"isElite": false,
+		"uniqueID": 111178,
+		"Score": 200,
+		"Nature": 3,
+		"monsterTagList": [
+			"Mec",
+			"Little",
+			"G2"
+		],
+		"monsterRank": 1,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 0,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1005
+	},
+	{
+		"monsterName": "DeadWitch",
+		"configType": "Default",
+		"isElite": false,
+		"uniqueID": 111179,
+		"Score": 200,
+		"Nature": 1,
+		"monsterTagList": [
+			"Bio",
+			"Little",
+			"G2"
+		],
+		"monsterRank": 1,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 0,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1006
+	},
+	{
+		"monsterName": "UlyssesWarrior",
+		"configType": "Default",
+		"isElite": false,
+		"uniqueID": 111180,
+		"Score": 200,
+		"Nature": 2,
+		"monsterTagList": [
+			"Psy",
+			"Little",
+			"G1"
+		],
+		"monsterRank": 1,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 0,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1007
+	},
+	{
+		"monsterName": "UlyssesThrow",
+		"configType": "Default",
+		"isElite": false,
+		"uniqueID": 111181,
+		"Score": 200,
+		"Nature": 2,
+		"monsterTagList": [
+			"Psy",
+			"Little",
+			"G1"
+		],
+		"monsterRank": 1,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 0,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1008
+	},
+	{
+		"monsterName": "DeadArcher",
+		"configType": "Default",
+		"isElite": false,
+		"uniqueID": 111182,
+		"Score": 200,
+		"Nature": 1,
+		"monsterTagList": [
+			"Bio",
+			"Little",
+			"G1"
+		],
+		"monsterRank": 1,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 0,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1009
+	},
+	{
+		"monsterName": "UlyssesDefend",
+		"configType": "CS_Default",
+		"isElite": false,
+		"uniqueID": 111183,
+		"Score": 200,
+		"Nature": 2,
+		"monsterTagList": [
+			"Psy",
+			"Little",
+			"G1"
+		],
+		"monsterRank": 1,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 0,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1010
+	},
+	{
+		"monsterName": "DeadWalker",
+		"configType": "CS_Default",
+		"isElite": false,
+		"uniqueID": 111184,
+		"Score": 200,
+		"Nature": 1,
+		"monsterTagList": [
+			"Bio",
+			"Little",
+			"G1"
+		],
+		"monsterRank": 1,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 0,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1011
+	},
+	{
+		"monsterName": "RobotLauncher",
+		"configType": "CS_Default",
+		"isElite": false,
+		"uniqueID": 111185,
+		"Score": 200,
+		"Nature": 3,
+		"monsterTagList": [
+			"Mec",
+			"Little",
+			"G2"
+		],
+		"monsterRank": 1,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 0,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1012
+	},
+	{
+		"monsterName": "UlyssesWarrior",
+		"configType": "CS_Default",
+		"isElite": false,
+		"uniqueID": 111186,
+		"Score": 200,
+		"Nature": 2,
+		"monsterTagList": [
+			"Psy",
+			"Little",
+			"G1"
+		],
+		"monsterRank": 1,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 0,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1013
+	},
+	{
+		"monsterName": "DeadArcher",
+		"configType": "CS_Default",
+		"isElite": false,
+		"uniqueID": 111187,
+		"Score": 200,
+		"Nature": 1,
+		"monsterTagList": [
+			"Bio",
+			"Little",
+			"G1"
+		],
+		"monsterRank": 1,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 0,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1014
+	},
+	{
+		"monsterName": "RobotAssistant",
+		"configType": "Default",
+		"isElite": false,
+		"uniqueID": 111188,
+		"Score": 200,
+		"Nature": 3,
+		"monsterTagList": [
+			"Mec",
+			"Little",
+			"G1"
+		],
+		"monsterRank": 1,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 0,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1015
+	},
+	{
+		"monsterName": "UlyssesThrow",
+		"configType": "CS_Default",
+		"isElite": false,
+		"uniqueID": 111189,
+		"Score": 200,
+		"Nature": 2,
+		"monsterTagList": [
+			"Psy",
+			"Little",
+			"G1"
+		],
+		"monsterRank": 1,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 0,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1016
+	},
+	{
+		"monsterName": "DeadWitch",
+		"configType": "CS_Default",
+		"isElite": false,
+		"uniqueID": 111190,
+		"Score": 200,
+		"Nature": 1,
+		"monsterTagList": [
+			"Bio",
+			"Little",
+			"G3"
+		],
+		"monsterRank": 1,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 0,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1017
+	},
+	{
+		"monsterName": "DeadKiller",
+		"configType": "CS_Default",
+		"isElite": false,
+		"uniqueID": 111191,
+		"Score": 200,
+		"Nature": 1,
+		"monsterTagList": [
+			"Bio",
+			"Little",
+			"G1"
+		],
+		"monsterRank": 1,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 0,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1018
+	},
+	{
+		"monsterName": "DeadCat",
+		"configType": "Default",
+		"isElite": false,
+		"uniqueID": 111192,
+		"Score": 200,
+		"Nature": 1,
+		"monsterTagList": [
+			"Bio",
+			"Little",
+			"G1"
+		],
+		"monsterRank": 1,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 0,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1019
+	},
+	{
+		"monsterName": "RobotTitan",
+		"configType": "CS_Default",
+		"isElite": false,
+		"uniqueID": 111193,
+		"Score": 200,
+		"Nature": 3,
+		"monsterTagList": [
+			"Mec",
+			"Little",
+			"G3"
+		],
+		"monsterRank": 1,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 0,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1020
+	},
+	{
+		"monsterName": "UlyssesFast",
+		"configType": "Default",
+		"isElite": false,
+		"uniqueID": 111194,
+		"Score": 200,
+		"Nature": 2,
+		"monsterTagList": [
+			"Psy",
+			"Little",
+			"G1"
+		],
+		"monsterRank": 1,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 0,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1021
+	},
+	{
+		"monsterName": "UlyssesFast",
+		"configType": "CS_Default",
+		"isElite": false,
+		"uniqueID": 111195,
+		"Score": 200,
+		"Nature": 2,
+		"monsterTagList": [
+			"Psy",
+			"Little",
+			"G1"
+		],
+		"monsterRank": 1,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 0,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1022
+	},
+	{
+		"monsterName": "UlyssesOctopus",
+		"configType": "Default",
+		"isElite": false,
+		"uniqueID": 111196,
+		"Score": 200,
+		"Nature": 2,
+		"monsterTagList": [
+			"Psy",
+			"Sea",
+			"Little",
+			"G1"
+		],
+		"monsterRank": 1,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 0,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1023
+	},
+	{
+		"monsterName": "DeadWalker",
+		"configType": "CS_Default",
+		"isElite": true,
+		"uniqueID": 111067,
+		"Score": 500,
+		"Nature": 1,
+		"monsterTagList": [
+			"Bio",
+			"Elite",
+			"Common",
+			"G1"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2001,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1024
+	},
+	{
+		"monsterName": "RobotTitan",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111068,
+		"Score": 500,
+		"Nature": 3,
+		"monsterTagList": [
+			"Mec",
+			"Elite",
+			"Common",
+			"G1"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2002,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1025
+	},
+	{
+		"monsterName": "RobotTitan",
+		"configType": "CS_Default",
+		"isElite": true,
+		"uniqueID": 111069,
+		"Score": 500,
+		"Nature": 3,
+		"monsterTagList": [
+			"Mec",
+			"Elite",
+			"Common",
+			"G3"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2003,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1026
+	},
+	{
+		"monsterName": "DeadWalker",
+		"configType": "CS_Default",
+		"isElite": true,
+		"uniqueID": 111070,
+		"Score": 500,
+		"Nature": 1,
+		"monsterTagList": [
+			"Bio",
+			"Elite",
+			"Common",
+			"G1"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2004,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1027
+	},
+	{
+		"monsterName": "DeadArcher",
+		"configType": "CS_Default",
+		"isElite": true,
+		"uniqueID": 111071,
+		"Score": 500,
+		"Nature": 1,
+		"monsterTagList": [
+			"Bio",
+			"Elite",
+			"Common",
+			"G1"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2005,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1028
+	},
+	{
+		"monsterName": "UlyssesWarrior",
+		"configType": "CS_Default",
+		"isElite": true,
+		"uniqueID": 111072,
+		"Score": 500,
+		"Nature": 2,
+		"monsterTagList": [
+			"Psy",
+			"Elite",
+			"Common",
+			"G1"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2006,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1029
+	},
+	{
+		"monsterName": "UlyssesRider",
+		"configType": "CS_Default",
+		"isElite": true,
+		"uniqueID": 111073,
+		"Score": 500,
+		"Nature": 2,
+		"monsterTagList": [
+			"Psy",
+			"Elite",
+			"Common",
+			"G1"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2007,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1030
+	},
+	{
+		"monsterName": "DeadKiller",
+		"configType": "CS_Extend",
+		"isElite": true,
+		"uniqueID": 111074,
+		"Score": 500,
+		"Nature": 1,
+		"monsterTagList": [
+			"Bio",
+			"Elite",
+			"Common",
+			"G1"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2008,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1031
+	},
+	{
+		"monsterName": "RobotTitan",
+		"configType": "CS_Default",
+		"isElite": true,
+		"uniqueID": 111075,
+		"Score": 500,
+		"Nature": 3,
+		"monsterTagList": [
+			"Mec",
+			"Elite",
+			"Common",
+			"G3"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2009,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1032
+	},
+	{
+		"monsterName": "UlyssesDefend",
+		"configType": "CS_Default",
+		"isElite": true,
+		"uniqueID": 111076,
+		"Score": 500,
+		"Nature": 2,
+		"monsterTagList": [
+			"Psy",
+			"Elite",
+			"Common",
+			"G1"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2010,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1033
+	},
+	{
+		"monsterName": "DeadArcher",
+		"configType": "CS_Default",
+		"isElite": true,
+		"uniqueID": 111078,
+		"Score": 500,
+		"Nature": 1,
+		"monsterTagList": [
+			"Bio",
+			"Elite",
+			"Common",
+			"G1"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2012,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1034
+	},
+	{
+		"monsterName": "RobotTitan",
+		"configType": "CS_Default",
+		"isElite": true,
+		"uniqueID": 111080,
+		"Score": 500,
+		"Nature": 3,
+		"monsterTagList": [
+			"Mec",
+			"Elite",
+			"Common",
+			"G3"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2014,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1035
+	},
+	{
+		"monsterName": "DeadWalker",
+		"configType": "CS_Default",
+		"isElite": true,
+		"uniqueID": 111081,
+		"Score": 500,
+		"Nature": 1,
+		"monsterTagList": [
+			"Bio",
+			"Elite",
+			"Common",
+			"G1"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2015,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1036
+	},
+	{
+		"monsterName": "UlyssesDefend",
+		"configType": "CS_Default",
+		"isElite": true,
+		"uniqueID": 111082,
+		"Score": 500,
+		"Nature": 2,
+		"monsterTagList": [
+			"Psy",
+			"Thunder",
+			"Elite",
+			"G1"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2016,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1037
+	},
+	{
+		"monsterName": "RobotLauncher",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111083,
+		"Score": 500,
+		"Nature": 3,
+		"monsterTagList": [
+			"Mec",
+			"Elite",
+			"Common",
+			"G2"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2017,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1038
+	},
+	{
+		"monsterName": "DeadKiller",
+		"configType": "CS_Extend",
+		"isElite": true,
+		"uniqueID": 111084,
+		"Score": 500,
+		"Nature": 1,
+		"monsterTagList": [
+			"Bio",
+			"Elite",
+			"Common",
+			"G1"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2018,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1039
+	},
+	{
+		"monsterName": "DeadWitch",
+		"configType": "CS_Default",
+		"isElite": true,
+		"uniqueID": 111077,
+		"Score": 500,
+		"Nature": 1,
+		"monsterTagList": [
+			"Bio",
+			"Elite",
+			"Common",
+			"G3"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2011,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1040
+	},
+	{
+		"monsterName": "RobotLauncher",
+		"configType": "Fire_Default",
+		"isElite": true,
+		"uniqueID": 111085,
+		"Score": 500,
+		"Nature": 3,
+		"monsterTagList": [
+			"Mec",
+			"Elite",
+			"Fire",
+			"G3"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4071,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1041
+	},
+	{
+		"monsterName": "RobotTNinja",
+		"configType": "Dsword_Default",
+		"isElite": true,
+		"uniqueID": 111087,
+		"Score": 500,
+		"Nature": 3,
+		"monsterTagList": [
+			"Mec",
+			"Elite",
+			"Common",
+			"G2"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2030,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1042
+	},
+	{
+		"monsterName": "DeadCat",
+		"configType": "CS_Default",
+		"isElite": true,
+		"uniqueID": 111090,
+		"Score": 500,
+		"Nature": 1,
+		"monsterTagList": [
+			"Bio",
+			"Elite",
+			"Common",
+			"G1"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 61,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1043
+	},
+	{
+		"monsterName": "UlyssesThrow",
+		"configType": "CS_Extend",
+		"isElite": true,
+		"uniqueID": 111092,
+		"Score": 500,
+		"Nature": 2,
+		"monsterTagList": [
+			"Psy",
+			"Thunder",
+			"Elite",
+			"G1"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 77,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1044
+	},
+	{
+		"monsterName": "RobotTitan",
+		"configType": "CS_Default",
+		"isElite": true,
+		"uniqueID": 111094,
+		"Score": 500,
+		"Nature": 3,
+		"monsterTagList": [
+			"Mec",
+			"Elite",
+			"Common",
+			"G3"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 54,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1045
+	},
+	{
+		"monsterName": "UlyssesRider",
+		"configType": "Frost_Power",
+		"isElite": true,
+		"uniqueID": 111096,
+		"Score": 500,
+		"Nature": 2,
+		"monsterTagList": [
+			"Psy",
+			"Ice",
+			"Elite",
+			"G1"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4009,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1046
+	},
+	{
+		"monsterName": "UlyssesWarrior",
+		"configType": "Frost_Power",
+		"isElite": true,
+		"uniqueID": 111097,
+		"Score": 500,
+		"Nature": 2,
+		"monsterTagList": [
+			"Psy",
+			"Ice",
+			"Elite",
+			"G1"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4020,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1047
+	},
+	{
+		"monsterName": "DeadWalker",
+		"configType": "Frost_Default",
+		"isElite": true,
+		"uniqueID": 111098,
+		"Score": 500,
+		"Nature": 1,
+		"monsterTagList": [
+			"Bio",
+			"Ice",
+			"Elite",
+			"G1"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 81,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1048
+	},
+	{
+		"monsterName": "DeadArcher",
+		"configType": "Frost_Default",
+		"isElite": true,
+		"uniqueID": 111099,
+		"Score": 500,
+		"Nature": 1,
+		"monsterTagList": [
+			"Bio",
+			"Ice",
+			"Elite",
+			"G1"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 82,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1049
+	},
+	{
+		"monsterName": "RobotLauncher",
+		"configType": "Frost_Extend",
+		"isElite": true,
+		"uniqueID": 111100,
+		"Score": 500,
+		"Nature": 3,
+		"monsterTagList": [
+			"Mec",
+			"Ice",
+			"Elite",
+			"G3"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 60,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1050
+	},
+	{
+		"monsterName": "RobotTitan",
+		"configType": "Thunder_Default",
+		"isElite": true,
+		"uniqueID": 111106,
+		"Score": 500,
+		"Nature": 3,
+		"monsterTagList": [
+			"Mec",
+			"Thunder",
+			"Elite",
+			"G2"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4068,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1051
+	},
+	{
+		"monsterName": "RobotTCannon",
+		"configType": "Thunder_Default",
+		"isElite": true,
+		"uniqueID": 111107,
+		"Score": 500,
+		"Nature": 3,
+		"monsterTagList": [
+			"Mec",
+			"Thunder",
+			"Elite",
+			"G2"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4069,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1052
+	},
+	{
+		"monsterName": "UlyssesOctopus",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111113,
+		"Score": 500,
+		"Nature": 3,
+		"monsterTagList": [
+			"Psy",
+			"Sea",
+			"Elite",
+			"Common",
+			"G1"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 3004,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1053
+	},
+	{
+		"monsterName": "DeadWalker",
+		"configType": "CS_Default",
+		"isElite": true,
+		"uniqueID": 111067,
+		"Score": 500,
+		"Nature": 1,
+		"monsterTagList": [
+			"Bio",
+			"Elite",
+			"Common",
+			"G1"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2001,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1054
+	},
+	{
+		"monsterName": "RobotTitan",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111068,
+		"Score": 500,
+		"Nature": 3,
+		"monsterTagList": [
+			"Mec",
+			"Elite",
+			"Common",
+			"G1"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2002,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1055
+	},
+	{
+		"monsterName": "RobotTitan",
+		"configType": "CS_Default",
+		"isElite": true,
+		"uniqueID": 111069,
+		"Score": 500,
+		"Nature": 3,
+		"monsterTagList": [
+			"Mec",
+			"Elite",
+			"Common",
+			"G3"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2003,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1056
+	},
+	{
+		"monsterName": "DeadWalker",
+		"configType": "CS_Default",
+		"isElite": true,
+		"uniqueID": 111070,
+		"Score": 500,
+		"Nature": 1,
+		"monsterTagList": [
+			"Bio",
+			"Elite",
+			"Common",
+			"G1"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2004,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1057
+	},
+	{
+		"monsterName": "DeadArcher",
+		"configType": "CS_Default",
+		"isElite": true,
+		"uniqueID": 111071,
+		"Score": 500,
+		"Nature": 1,
+		"monsterTagList": [
+			"Bio",
+			"Elite",
+			"Common",
+			"G1"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2005,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1058
+	},
+	{
+		"monsterName": "UlyssesWarrior",
+		"configType": "CS_Default",
+		"isElite": true,
+		"uniqueID": 111072,
+		"Score": 500,
+		"Nature": 2,
+		"monsterTagList": [
+			"Psy",
+			"Elite",
+			"Common",
+			"Warrior",
+			"G1"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2006,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1059
+	},
+	{
+		"monsterName": "UlyssesRider",
+		"configType": "CS_Default",
+		"isElite": true,
+		"uniqueID": 111073,
+		"Score": 500,
+		"Nature": 2,
+		"monsterTagList": [
+			"Psy",
+			"Elite",
+			"Common",
+			"Rider",
+			"G1"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2007,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1060
+	},
+	{
+		"monsterName": "DeadKiller",
+		"configType": "CS_Extend",
+		"isElite": true,
+		"uniqueID": 111074,
+		"Score": 500,
+		"Nature": 1,
+		"monsterTagList": [
+			"Bio",
+			"Elite",
+			"Common",
+			"G1"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2008,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1061
+	},
+	{
+		"monsterName": "RobotTitan",
+		"configType": "CS_Default",
+		"isElite": true,
+		"uniqueID": 111075,
+		"Score": 500,
+		"Nature": 3,
+		"monsterTagList": [
+			"Mec",
+			"Elite",
+			"Common",
+			"G3"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2009,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1062
+	},
+	{
+		"monsterName": "UlyssesDefend",
+		"configType": "CS_Default",
+		"isElite": true,
+		"uniqueID": 111076,
+		"Score": 500,
+		"Nature": 2,
+		"monsterTagList": [
+			"Psy",
+			"Elite",
+			"Common",
+			"G1"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2010,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1063
+	},
+	{
+		"monsterName": "DeadArcher",
+		"configType": "CS_Default",
+		"isElite": true,
+		"uniqueID": 111078,
+		"Score": 500,
+		"Nature": 1,
+		"monsterTagList": [
+			"Bio",
+			"Elite",
+			"Common",
+			"G1"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2012,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1064
+	},
+	{
+		"monsterName": "RobotTitan",
+		"configType": "CS_Default",
+		"isElite": true,
+		"uniqueID": 111080,
+		"Score": 500,
+		"Nature": 3,
+		"monsterTagList": [
+			"Mec",
+			"Elite",
+			"Common",
+			"G3"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2014,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1065
+	},
+	{
+		"monsterName": "DeadWalker",
+		"configType": "CS_Default",
+		"isElite": true,
+		"uniqueID": 111081,
+		"Score": 500,
+		"Nature": 1,
+		"monsterTagList": [
+			"Bio",
+			"Elite",
+			"Common",
+			"G1"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2015,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1066
+	},
+	{
+		"monsterName": "UlyssesDefend",
+		"configType": "CS_Default",
+		"isElite": true,
+		"uniqueID": 111082,
+		"Score": 500,
+		"Nature": 2,
+		"monsterTagList": [
+			"Psy",
+			"Thunder",
+			"Elite",
+			"G1"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2016,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1067
+	},
+	{
+		"monsterName": "RobotLauncher",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111083,
+		"Score": 500,
+		"Nature": 3,
+		"monsterTagList": [
+			"Mec",
+			"Elite",
+			"Common",
+			"G2"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2017,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1068
+	},
+	{
+		"monsterName": "DeadKiller",
+		"configType": "CS_Default",
+		"isElite": true,
+		"uniqueID": 111084,
+		"Score": 500,
+		"Nature": 1,
+		"monsterTagList": [
+			"Bio",
+			"Elite",
+			"Common",
+			"G1"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4025,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1069
+	},
+	{
+		"monsterName": "RobotLauncher",
+		"configType": "Fire_Default",
+		"isElite": true,
+		"uniqueID": 111085,
+		"Score": 500,
+		"Nature": 3,
+		"monsterTagList": [
+			"Mec",
+			"Fire",
+			"Elite",
+			"G3"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4071,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1070
+	},
+	{
+		"monsterName": "RobotTNinja",
+		"configType": "Dsword_Default",
+		"isElite": true,
+		"uniqueID": 111087,
+		"Score": 500,
+		"Nature": 3,
+		"monsterTagList": [
+			"Mec",
+			"Elite",
+			"Common",
+			"G2"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2030,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1071
+	},
+	{
+		"monsterName": "DeadCat",
+		"configType": "CS_Default",
+		"isElite": true,
+		"uniqueID": 111090,
+		"Score": 500,
+		"Nature": 1,
+		"monsterTagList": [
+			"Bio",
+			"Elite",
+			"Common",
+			"G1"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 61,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1072
+	},
+	{
+		"monsterName": "UlyssesThrow",
+		"configType": "CS_Extend",
+		"isElite": true,
+		"uniqueID": 111092,
+		"Score": 500,
+		"Nature": 2,
+		"monsterTagList": [
+			"Psy",
+			"Thunder",
+			"Elite",
+			"G1"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 77,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1073
+	},
+	{
+		"monsterName": "RobotTitan",
+		"configType": "CS_Default",
+		"isElite": true,
+		"uniqueID": 111094,
+		"Score": 500,
+		"Nature": 3,
+		"monsterTagList": [
+			"Mec",
+			"Elite",
+			"Common",
+			"G3"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 54,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1074
+	},
+	{
+		"monsterName": "UlyssesRider",
+		"configType": "Frost_Power",
+		"isElite": true,
+		"uniqueID": 111096,
+		"Score": 500,
+		"Nature": 2,
+		"monsterTagList": [
+			"Psy",
+			"Ice",
+			"Elite",
+			"G1"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4009,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1075
+	},
+	{
+		"monsterName": "UlyssesWarrior",
+		"configType": "Frost_Power",
+		"isElite": true,
+		"uniqueID": 111097,
+		"Score": 500,
+		"Nature": 2,
+		"monsterTagList": [
+			"Psy",
+			"Ice",
+			"Elite",
+			"Warrior",
+			"G1"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4020,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1076
+	},
+	{
+		"monsterName": "DeadWalker",
+		"configType": "Frost_Default",
+		"isElite": true,
+		"uniqueID": 111098,
+		"Score": 500,
+		"Nature": 1,
+		"monsterTagList": [
+			"Bio",
+			"Ice",
+			"Elite",
+			"G1"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 81,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1077
+	},
+	{
+		"monsterName": "DeadArcher",
+		"configType": "Frost_Default",
+		"isElite": true,
+		"uniqueID": 111099,
+		"Score": 500,
+		"Nature": 1,
+		"monsterTagList": [
+			"Bio",
+			"Ice",
+			"Elite",
+			"G1"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 82,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1078
+	},
+	{
+		"monsterName": "RobotLauncher",
+		"configType": "Frost_Extend",
+		"isElite": true,
+		"uniqueID": 111100,
+		"Score": 500,
+		"Nature": 3,
+		"monsterTagList": [
+			"Mec",
+			"Ice",
+			"Elite",
+			"G3"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 60,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1079
+	},
+	{
+		"monsterName": "RobotTitan",
+		"configType": "Thunder_Default",
+		"isElite": true,
+		"uniqueID": 111106,
+		"Score": 500,
+		"Nature": 3,
+		"monsterTagList": [
+			"Mec",
+			"Thunder",
+			"Elite",
+			"G2"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4068,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1080
+	},
+	{
+		"monsterName": "RobotTCannon",
+		"configType": "Thunder_Default",
+		"isElite": true,
+		"uniqueID": 111107,
+		"Score": 500,
+		"Nature": 3,
+		"monsterTagList": [
+			"Mec",
+			"Thunder",
+			"Elite",
+			"G2"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4069,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1081
+	},
+	{
+		"monsterName": "UlyssesOctopus",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111113,
+		"Score": 500,
+		"Nature": 3,
+		"monsterTagList": [
+			"Psy",
+			"Sea",
+			"Elementary",
+			"Elite",
+			"Common",
+			"Octopus",
+			"G1"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 3004,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1082
+	},
+	{
+		"monsterName": "DeadGhost",
+		"configType": "Fire_Default",
+		"isElite": true,
+		"uniqueID": 111086,
+		"Score": 500,
+		"Nature": 1,
+		"monsterTagList": [
+			"Bio",
+			"Power",
+			"Elite",
+			"Common",
+			"Fire",
+			"G1"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2022,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1083
+	},
+	{
+		"monsterName": "RobotTNinja",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111088,
+		"Score": 500,
+		"Nature": 3,
+		"monsterTagList": [
+			"Mec",
+			"Power",
+			"Elite",
+			"Common",
+			"G1"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2032,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1084
+	},
+	{
+		"monsterName": "DeadGhost",
+		"configType": "CS_Default",
+		"isElite": true,
+		"uniqueID": 111091,
+		"Score": 500,
+		"Nature": 1,
+		"monsterTagList": [
+			"Bio",
+			"Power",
+			"Elite",
+			"Common",
+			"G1"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4001,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1085
+	},
+	{
+		"monsterName": "DeadSpider",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111824,
+		"Score": 500,
+		"Nature": 1,
+		"monsterTagList": [
+			"Psy",
+			"Power",
+			"Elite",
+			"Common",
+			"G3",
+			"TempBan"
+		],
+		"monsterRank": 5,
+		"Weight": 1,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4055,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1086
+	},
+	{
+		"monsterName": "RobotDeadGal",
+		"configType": "Frost_Default",
+		"isElite": true,
+		"uniqueID": 111095,
+		"Score": 500,
+		"Nature": 3,
+		"monsterTagList": [
+			"Mec",
+			"Ice",
+			"Power",
+			"Elite",
+			"G3"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 80,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1087
+	},
+	{
+		"monsterName": "DeadSpider",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111824,
+		"Score": 500,
+		"Nature": 1,
+		"monsterTagList": [
+			"Psy",
+			"Ice",
+			"Power",
+			"Elite",
+			"G3"
+		],
+		"monsterRank": 5,
+		"Weight": 1,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4055,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1088
+	},
+	{
+		"monsterName": "RobotTitan",
+		"configType": "Frost_Default",
+		"isElite": true,
+		"uniqueID": 111102,
+		"Score": 500,
+		"Nature": 3,
+		"monsterTagList": [
+			"Mec",
+			"Ice",
+			"Elite",
+			"G3"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4010,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1089
+	},
+	{
+		"monsterName": "RobotTitan",
+		"configType": "Frost_Power",
+		"isElite": true,
+		"uniqueID": 111103,
+		"Score": 500,
+		"Nature": 3,
+		"monsterTagList": [
+			"Mec",
+			"Ice",
+			"Elite",
+			"G2"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 23,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1090
+	},
+	{
+		"monsterName": "RobotTitan",
+		"configType": "Frost_Extend",
+		"isElite": true,
+		"uniqueID": 111104,
+		"Score": 500,
+		"Nature": 3,
+		"monsterTagList": [
+			"Mec",
+			"Fire",
+			"Elite",
+			"G2"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4072,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1091
+	},
+	{
+		"monsterName": "DeadSpider",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111824,
+		"Score": 500,
+		"Nature": 1,
+		"monsterTagList": [
+			"Psy",
+			"Fire",
+			"Power",
+			"Elite",
+			"G3"
+		],
+		"monsterRank": 5,
+		"Weight": 1,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4055,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1092
+	},
+	{
+		"monsterName": "UlyssesOctopus",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111113,
+		"Score": 500,
+		"Nature": 3,
+		"monsterTagList": [
+			"Psy",
+			"Sea",
+			"Power",
+			"Crab",
+			"Elite",
+			"Common",
+			"G1"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4017,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1093
+	},
+	{
+		"monsterName": "UlyssesWarrior",
+		"configType": "Quantum_Default",
+		"isElite": true,
+		"uniqueID": 111108,
+		"Score": 600,
+		"Nature": 4,
+		"monsterTagList": [
+			"QT",
+			"Warrior",
+			"G1"
+		],
+		"monsterRank": 4,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4012,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1094
+	},
+	{
+		"monsterName": "UlyssesRider",
+		"configType": "Quantum_Default",
+		"isElite": true,
+		"uniqueID": 111109,
+		"Score": 600,
+		"Nature": 4,
+		"monsterTagList": [
+			"QT",
+			"Rider",
+			"G1"
+		],
+		"monsterRank": 4,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4013,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1095
+	},
+	{
+		"monsterName": "UlyssesFast",
+		"configType": "Quantum_Default",
+		"isElite": true,
+		"uniqueID": 111114,
+		"Score": 600,
+		"Nature": 4,
+		"monsterTagList": [
+			"QT",
+			"Fast",
+			"G1"
+		],
+		"monsterRank": 4,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4014,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1096
+	},
+	{
+		"monsterName": "QuantumOctopus",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111115,
+		"Score": 600,
+		"Nature": 4,
+		"monsterTagList": [
+			"QT",
+			"Octopus",
+			"G1"
+		],
+		"monsterRank": 4,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4015,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1097
+	},
+	{
+		"monsterName": "DeadGhost",
+		"configType": "Fire_Default",
+		"isElite": true,
+		"uniqueID": 111120,
+		"Score": 1000,
+		"Nature": 1,
+		"monsterTagList": [
+			"Rush01",
+			"Fire",
+			"Rush",
+			"BioBoss",
+			"G2"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2022,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1098
+	},
+	{
+		"monsterName": "RobotTitan",
+		"configType": "Thunder_Default",
+		"isElite": true,
+		"uniqueID": 111125,
+		"Score": 1000,
+		"Nature": 3,
+		"monsterTagList": [
+			"Rush02",
+			"Thunder",
+			"Rush",
+			"MecBoss",
+			"G2"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4068,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1099
+	},
+	{
+		"monsterName": "BossUlysses",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111146,
+		"Score": 1000,
+		"Nature": 2,
+		"monsterTagList": [
+			"Rush03",
+			"Rush",
+			"PsyBoss",
+			"G1"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2072,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1100
+	},
+	{
+		"monsterName": "UlyssesHalo",
+		"configType": "CS_Default",
+		"isElite": true,
+		"uniqueID": 111147,
+		"Score": 1000,
+		"Nature": 2,
+		"monsterTagList": [
+			"Ice",
+			"Rush04",
+			"Rush",
+			"PsyBoss",
+			"G3"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2076,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1101
+	},
+	{
+		"monsterName": "RobotTitan",
+		"configType": "Frost_Power",
+		"isElite": true,
+		"uniqueID": 111148,
+		"Score": 1000,
+		"Nature": 3,
+		"monsterTagList": [
+			"Ice",
+			"Rush05",
+			"Rush",
+			"MecBoss",
+			"G2"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 23,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1102
+	},
+	{
+		"monsterName": "RobotTitan",
+		"configType": "Frost_Extend",
+		"isElite": true,
+		"uniqueID": 111149,
+		"Score": 1000,
+		"Nature": 3,
+		"monsterTagList": [
+			"Fire",
+			"Rush06",
+			"Rush",
+			"MecBoss",
+			"G2"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4072,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1103
+	},
+	{
+		"monsterName": "RobotLauncher",
+		"configType": "Fire_Default",
+		"isElite": true,
+		"uniqueID": 111197,
+		"Score": 1000,
+		"Nature": 3,
+		"monsterTagList": [
+			"Fire",
+			"Rush07",
+			"Rush",
+			"MecBoss",
+			"G3"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4071,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1104
+	},
+	{
+		"monsterName": "RobotTNinja",
+		"configType": "Dsword_Default",
+		"isElite": true,
+		"uniqueID": 111198,
+		"Score": 1000,
+		"Nature": 3,
+		"monsterTagList": [
+			"Rush08",
+			"Rush",
+			"MecBoss",
+			"G1"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2030,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1105
+	},
+	{
+		"monsterName": "DeadKiller",
+		"configType": "CS_Extend",
+		"isElite": true,
+		"uniqueID": 111199,
+		"Score": 1000,
+		"Nature": 1,
+		"monsterTagList": [
+			"Rush09",
+			"Rush",
+			"BioBoss",
+			"G1"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2008,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1106
+	},
+	{
+		"monsterName": "DeadKiller",
+		"configType": "CS_Default",
+		"isElite": true,
+		"uniqueID": 111200,
+		"Score": 1000,
+		"Nature": 1,
+		"monsterTagList": [
+			"Rush10",
+			"Rush",
+			"BioBoss",
+			"G1"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4025,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1107
+	},
+	{
+		"monsterName": "RobotTitan",
+		"configType": "CS_Default",
+		"isElite": true,
+		"uniqueID": 111201,
+		"Score": 1000,
+		"Nature": 3,
+		"monsterTagList": [
+			"Rush11",
+			"Rush",
+			"MecBoss",
+			"G3"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 54,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1108
+	},
+	{
+		"monsterName": "UlyssesRider",
+		"configType": "Frost_Power",
+		"isElite": true,
+		"uniqueID": 111202,
+		"Score": 1000,
+		"Nature": 2,
+		"monsterTagList": [
+			"Ice",
+			"Rush12",
+			"Rush",
+			"PsyBoss",
+			"G1"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4009,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1109
+	},
+	{
+		"monsterName": "DeadWalker",
+		"configType": "CS_Default",
+		"isElite": true,
+		"uniqueID": 111203,
+		"Score": 1000,
+		"Nature": 1,
+		"monsterTagList": [
+			"Rush13",
+			"Rush",
+			"BioBoss",
+			"G1"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2015,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1110
+	},
+	{
+		"monsterName": "DeadWalker",
+		"configType": "CS_Default",
+		"isElite": true,
+		"uniqueID": 111203,
+		"Score": 1000,
+		"Nature": 1,
+		"monsterTagList": [
+			"Rush14",
+			"Rush",
+			"BioBoss",
+			"G1"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2015,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1111
+	},
+	{
+		"monsterName": "UlyssesFast",
+		"configType": "Quantum_Default",
+		"isElite": true,
+		"uniqueID": 111121,
+		"Score": 1000,
+		"Nature": 4,
+		"monsterTagList": [
+			"QTRush01",
+			"Rush",
+			"QTRush",
+			"G1"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4014,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1112
+	},
+	{
+		"monsterName": "QuantumOctopus",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111122,
+		"Score": 1000,
+		"Nature": 4,
+		"monsterTagList": [
+			"QTRush02",
+			"Rush",
+			"QTRush",
+			"RushHard",
+			"G1"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4015,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1113
+	},
+	{
+		"monsterName": "UlyssesWarrior",
+		"configType": "Quantum_Default",
+		"isElite": true,
+		"uniqueID": 111123,
+		"Score": 1000,
+		"Nature": 4,
+		"monsterTagList": [
+			"QTRush03",
+			"Rush",
+			"QTRush",
+			"QTWarrior",
+			"G1"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4012,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1114
+	},
+	{
+		"monsterName": "UlyssesRider",
+		"configType": "Quantum_Default",
+		"isElite": true,
+		"uniqueID": 111124,
+		"Score": 1000,
+		"Nature": 4,
+		"monsterTagList": [
+			"QTRush04",
+			"Rush",
+			"QTRush",
+			"G1"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4013,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1115
+	},
+	{
+		"monsterName": "UlyssesCrab",
+		"configType": "Quantum_Default",
+		"isElite": true,
+		"uniqueID": 111173,
+		"Score": 1000,
+		"Nature": 0,
+		"monsterTagList": [
+			"QTRush05",
+			"Rush",
+			"QTRush",
+			"RushHard",
+			"QTCrab",
+			"G3"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4024,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1116
+	},
+	{
+		"monsterName": "BossUlysses",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111126,
+		"Score": 1000,
+		"Nature": 0,
+		"monsterTagList": [
+			"BRush01",
+			"Rush",
+			"RushHard"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 34,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1117
+	},
+	{
+		"monsterName": "UlyssesOctopus",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111524,
+		"Score": 1000,
+		"Nature": 3,
+		"monsterTagList": [
+			"BRush02",
+			"Rush",
+			"RushHard"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 3004,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1118
+	},
+	{
+		"monsterName": "RobotTNinja",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111119,
+		"Score": 1000,
+		"Nature": 3,
+		"monsterTagList": [
+			"BRush03",
+			"Rush",
+			"RushHard"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2032,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1119
+	},
+	{
+		"monsterName": "BossWendy",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111145,
+		"Score": 1000,
+		"Nature": 0,
+		"monsterTagList": [
+			"BRush04",
+			"Rush",
+			"RushHard"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 50,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1120
+	},
+	{
+		"monsterName": "UlyssesFist",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111204,
+		"Score": 1000,
+		"Nature": 2,
+		"monsterTagList": [
+			"BRush05",
+			"Rush",
+			"RushHard"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 100,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1121
+	},
+	{
+		"monsterName": "BossUlysses",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111128,
+		"Score": 2000,
+		"Nature": 0,
+		"monsterTagList": [
+			"F1"
+		],
+		"monsterRank": 3,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 34,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1122
+	},
+	{
+		"monsterName": "BossWendy",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111129,
+		"Score": 2000,
+		"Nature": 0,
+		"monsterTagList": [
+			"F1"
+		],
+		"monsterRank": 3,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 50,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1123
+	},
+	{
+		"monsterName": "BossBronya",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111138,
+		"Score": 2000,
+		"Nature": 0,
+		"monsterTagList": [
+			"F2"
+		],
+		"monsterRank": 3,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 35,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1124
+	},
+	{
+		"monsterName": "BossUlystorm",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111130,
+		"Score": 2000,
+		"Nature": 0,
+		"monsterTagList": [
+			"Ice",
+			"F2"
+		],
+		"monsterRank": 3,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 52,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1125
+	},
+	{
+		"monsterName": "BossTwins_L",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111131,
+		"Score": 2000,
+		"Nature": 2,
+		"monsterTagList": [
+			"F4",
+			"BOSSHand",
+			"BOSSLow"
+		],
+		"monsterRank": 3,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 13,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1126
+	},
+	{
+		"monsterName": "BossFox",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111132,
+		"Score": 2000,
+		"Nature": 2,
+		"monsterTagList": [
+			"BOSSF301"
+		],
+		"monsterRank": 3,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 32,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1127
+	},
+	{
+		"monsterName": "RobotTNinja",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111136,
+		"Score": 2000,
+		"Nature": 3,
+		"monsterTagList": [
+			"BOSSF302"
+		],
+		"monsterRank": 3,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2031,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1128
+	},
+	{
+		"monsterName": "UlyssesFist",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111133,
+		"Score": 1000,
+		"Nature": 2,
+		"monsterTagList": [
+			"Twin02"
+		],
+		"monsterRank": 3,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 100,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1130
+	},
+	{
+		"monsterName": "BossXuanyuan",
+		"configType": "Raid",
+		"isElite": true,
+		"uniqueID": 111134,
+		"Score": 2000,
+		"Nature": 2,
+		"monsterTagList": [
+			"F4",
+			"HLNormal",
+			"BOSSLow"
+		],
+		"monsterRank": 3,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 55,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1131
+	},
+	{
+		"monsterName": "RobotTitan",
+		"configType": "CS_Extend",
+		"isElite": true,
+		"uniqueID": 111135,
+		"Score": 2000,
+		"Nature": 3,
+		"monsterTagList": [
+			"BOSSF303"
+		],
+		"monsterRank": 3,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 83,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1132
+	},
+	{
+		"monsterName": "BossKianaC5",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111139,
+		"Score": 2000,
+		"Nature": 1,
+		"monsterTagList": [
+			"F4",
+			"HLHard01"
+		],
+		"monsterRank": 3,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4062,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1133
+	},
+	{
+		"monsterName": "BossTwins_R",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111142,
+		"Score": 2000,
+		"Nature": 0,
+		"monsterTagList": [
+			"F4",
+			"BOSSHand",
+			"BOSSLow"
+		],
+		"monsterRank": 3,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 14,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1134
+	},
+	{
+		"monsterName": "RobotTKnight",
+		"configType": "Default_Boss",
+		"isElite": true,
+		"uniqueID": 111143,
+		"Score": 2000,
+		"Nature": 0,
+		"monsterTagList": [
+			"F4",
+			"HLHard02"
+		],
+		"monsterRank": 3,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2055,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1135
+	},
+	{
+		"monsterName": "BossTwins",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111144,
+		"Score": 2000,
+		"Nature": 0,
+		"monsterTagList": [
+			"F4",
+			"HLHard03"
+		],
+		"monsterRank": 3,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 15,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1136
+	},
+	{
+		"monsterName": "BossUlysses",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111128,
+		"Score": 1000,
+		"Nature": 0,
+		"monsterTagList": [
+			"Twin01J"
+		],
+		"monsterRank": 3,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 34,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1137
+	},
+	{
+		"monsterName": "BossWendy",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111129,
+		"Score": 1000,
+		"Nature": 0,
+		"monsterTagList": [
+			"Twin01W"
+		],
+		"monsterRank": 3,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 50,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1138
+	},
+	{
+		"monsterName": "UlyssesWarrior",
+		"configType": "Quantum_Default",
+		"isElite": true,
+		"uniqueID": 111205,
+		"Score": 1000,
+		"Nature": 0,
+		"monsterTagList": [
+			"Twin03"
+		],
+		"monsterRank": 3,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4012,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1139
+	},
+	{
+		"monsterName": "ModelSimple",
+		"configType": "CS_Shadow",
+		"isElite": false,
+		"uniqueID": 111272,
+		"Score": 500,
+		"Nature": 0,
+		"monsterTagList": [
+			"ModelSimple"
+		],
+		"monsterRank": 1,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 1062,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1140
+	},
+	{
+		"monsterName": "BossDragon",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111273,
+		"Score": 2000,
+		"Nature": 0,
+		"monsterTagList": [
+			"Fire",
+			"F4",
+			"HLDragon"
+		],
+		"monsterRank": 3,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4016,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1141
+	},
+	{
+		"monsterName": "BossDragon",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111274,
+		"Score": 2000,
+		"Nature": 0,
+		"monsterTagList": [
+			"Thunder",
+			"F4",
+			"HLDragon"
+		],
+		"monsterRank": 3,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4044,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1142
+	},
+	{
+		"monsterName": "BossDragon",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111275,
+		"Score": 2000,
+		"Nature": 0,
+		"monsterTagList": [
+			"Ice",
+			"F4",
+			"HLDragon"
+		],
+		"monsterRank": 3,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4045,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1143
+	},
+	{
+		"monsterName": "BossSamurai",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111276,
+		"Score": 2000,
+		"Nature": 0,
+		"monsterTagList": [
+			"F4",
+			"HLHard04"
+		],
+		"monsterRank": 3,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4206,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1144
+	},
+	{
+		"monsterName": "BossRita",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111506,
+		"Score": 2000,
+		"Nature": 1,
+		"monsterTagList": [
+			"F4",
+			"BossRita"
+		],
+		"monsterRank": 3,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4054,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1145
+	},
+	{
+		"monsterName": "RobotTitan",
+		"configType": "Thunder_Default",
+		"isElite": true,
+		"uniqueID": 111508,
+		"Score": 500,
+		"Nature": 3,
+		"monsterTagList": [
+			"BossTitan",
+			"Titan1"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4068,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1146
+	},
+	{
+		"monsterName": "RobotTitan",
+		"configType": "Frost_Power",
+		"isElite": true,
+		"uniqueID": 111509,
+		"Score": 500,
+		"Nature": 3,
+		"monsterTagList": [
+			"BossTitan",
+			"Titan2"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 23,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1147
+	},
+	{
+		"monsterName": "RobotTitan",
+		"configType": "Frost_Extend",
+		"isElite": true,
+		"uniqueID": 111510,
+		"Score": 500,
+		"Nature": 3,
+		"monsterTagList": [
+			"BossTitan",
+			"Titan3"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4072,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1148
+	},
+	{
+		"monsterName": "RobotLauncher",
+		"configType": "Fire_Default",
+		"isElite": true,
+		"uniqueID": 111511,
+		"Score": 500,
+		"Nature": 3,
+		"monsterTagList": [
+			"BossTitan",
+			"Titan4"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4071,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1149
+	},
+	{
+		"monsterName": "RobotTitan",
+		"configType": "CS_Default",
+		"isElite": true,
+		"uniqueID": 111512,
+		"Score": 500,
+		"Nature": 3,
+		"monsterTagList": [
+			"BossTitan",
+			"Titan5"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 54,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1150
+	},
+	{
+		"monsterName": "RobotTNinja",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111507,
+		"Score": 500,
+		"Nature": 3,
+		"monsterTagList": [
+			"BossTitan",
+			"Titan6"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2032,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1151
+	},
+	{
+		"monsterName": "UlyssesFast",
+		"configType": "Quantum_Default",
+		"isElite": true,
+		"uniqueID": 111513,
+		"Score": 500,
+		"Nature": 4,
+		"monsterTagList": [
+			"BossQT",
+			"QTBoss1"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4014,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1152
+	},
+	{
+		"monsterName": "QuantumOctopus",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111514,
+		"Score": 500,
+		"Nature": 4,
+		"monsterTagList": [
+			"BossQT",
+			"QTBoss2"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4015,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1153
+	},
+	{
+		"monsterName": "UlyssesWarrior",
+		"configType": "Quantum_Default",
+		"isElite": true,
+		"uniqueID": 111515,
+		"Score": 500,
+		"Nature": 4,
+		"monsterTagList": [
+			"BossQT",
+			"QTBoss3"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4012,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1154
+	},
+	{
+		"monsterName": "UlyssesCrab",
+		"configType": "Quantum_Default",
+		"isElite": true,
+		"uniqueID": 111516,
+		"Score": 500,
+		"Nature": 4,
+		"monsterTagList": [
+			"BossQT",
+			"QTBoss4"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4024,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1155
+	},
+	{
+		"monsterName": "UlyssesRider",
+		"configType": "Quantum_Default",
+		"isElite": true,
+		"uniqueID": 111124,
+		"Score": 500,
+		"Nature": 4,
+		"monsterTagList": [
+			"BossQT",
+			"QTBoss5"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4013,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1156
+	},
+	{
+		"monsterName": "UlyssesHalo",
+		"configType": "Frost_Default",
+		"isElite": true,
+		"uniqueID": 111550,
+		"Score": 1000,
+		"Nature": 2,
+		"monsterTagList": [
+			"Ice",
+			"FinalBoss",
+			"Halo"
+		],
+		"monsterRank": 3,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2076,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1157
+	},
+	{
+		"monsterName": "UlyssesHalo",
+		"configType": "Magma_Default",
+		"isElite": true,
+		"uniqueID": 111551,
+		"Score": 1000,
+		"Nature": 2,
+		"monsterTagList": [
+			"Fire",
+			"FinalBoss",
+			"Halo"
+		],
+		"monsterRank": 3,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 62,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1158
+	},
+	{
+		"monsterName": "BossRita",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111552,
+		"Score": 2000,
+		"Nature": 1,
+		"monsterTagList": [
+			"BossRita",
+			"FinalBoss"
+		],
+		"monsterRank": 3,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4054,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1159
+	},
+	{
+		"monsterName": "RobotTNinja",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111553,
+		"Score": 500,
+		"Nature": 3,
+		"monsterTagList": [
+			"FinalBoss",
+			"Titan6"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2032,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1160
+	},
+	{
+		"monsterName": "RobotTitan",
+		"configType": "Thunder_Default",
+		"isElite": true,
+		"uniqueID": 111554,
+		"Score": 500,
+		"Nature": 3,
+		"monsterTagList": [
+			"FinalBoss",
+			"Titan1"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4068,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1161
+	},
+	{
+		"monsterName": "RobotTitan",
+		"configType": "Frost_Power",
+		"isElite": true,
+		"uniqueID": 111555,
+		"Score": 500,
+		"Nature": 3,
+		"monsterTagList": [
+			"FinalBoss",
+			"Titan2"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 23,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1162
+	},
+	{
+		"monsterName": "RobotTitan",
+		"configType": "Frost_Extend",
+		"isElite": true,
+		"uniqueID": 111556,
+		"Score": 500,
+		"Nature": 3,
+		"monsterTagList": [
+			"FinalBoss",
+			"Titan3"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4072,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1163
+	},
+	{
+		"monsterName": "RobotLauncher",
+		"configType": "Fire_Default",
+		"isElite": true,
+		"uniqueID": 111557,
+		"Score": 500,
+		"Nature": 3,
+		"monsterTagList": [
+			"FinalBoss",
+			"Titan4"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4071,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1164
+	},
+	{
+		"monsterName": "RobotTitan",
+		"configType": "CS_Default",
+		"isElite": true,
+		"uniqueID": 111558,
+		"Score": 500,
+		"Nature": 3,
+		"monsterTagList": [
+			"FinalBoss",
+			"Titan5"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 54,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1165
+	},
+	{
+		"monsterName": "UlyssesFast",
+		"configType": "Quantum_Default",
+		"isElite": true,
+		"uniqueID": 111559,
+		"Score": 500,
+		"Nature": 4,
+		"monsterTagList": [
+			"FinalBoss",
+			"QTBoss1"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4014,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1166
+	},
+	{
+		"monsterName": "QuantumOctopus",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111560,
+		"Score": 500,
+		"Nature": 4,
+		"monsterTagList": [
+			"FinalBoss",
+			"QTBoss2"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4015,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1167
+	},
+	{
+		"monsterName": "UlyssesWarrior",
+		"configType": "Quantum_Default",
+		"isElite": true,
+		"uniqueID": 111561,
+		"Score": 500,
+		"Nature": 4,
+		"monsterTagList": [
+			"FinalBoss",
+			"QTBoss3"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4012,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1168
+	},
+	{
+		"monsterName": "UlyssesCrab",
+		"configType": "Quantum_Default",
+		"isElite": true,
+		"uniqueID": 111562,
+		"Score": 500,
+		"Nature": 4,
+		"monsterTagList": [
+			"FinalBoss",
+			"QTBoss4"
+		],
+		"monsterRank": 5,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4024,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1169
+	},
+	{
+		"monsterName": "BossDragon",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111563,
+		"Score": 2000,
+		"Nature": 0,
+		"monsterTagList": [
+			"Ice",
+			"FinalBoss",
+			"HLDragon"
+		],
+		"monsterRank": 3,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4045,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1170
+	},
+	{
+		"monsterName": "BossDragon",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111564,
+		"Score": 2000,
+		"Nature": 0,
+		"monsterTagList": [
+			"Fire",
+			"FinalBoss",
+			"HLDragon"
+		],
+		"monsterRank": 3,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4016,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1171
+	},
+	{
+		"monsterName": "RobotTKnight",
+		"configType": "Default_Boss",
+		"isElite": true,
+		"uniqueID": 111565,
+		"Score": 2000,
+		"Nature": 0,
+		"monsterTagList": [
+			"F4",
+			"Tknight",
+			"FinalBoss"
+		],
+		"monsterRank": 3,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2055,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1172
+	},
+	{
+		"monsterName": "BossXuanyuan",
+		"configType": "Raid",
+		"isElite": true,
+		"uniqueID": 111566,
+		"Score": 2000,
+		"Nature": 2,
+		"monsterTagList": [
+			"F4",
+			"Horse",
+			"FinalBoss"
+		],
+		"monsterRank": 3,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 55,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1173
+	},
+	{
+		"monsterName": "BossSamurai",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111567,
+		"Score": 2000,
+		"Nature": 1,
+		"monsterTagList": [
+			"F4",
+			"PsyBoss1",
+			"FinalBoss"
+		],
+		"monsterRank": 3,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4206,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1174
+	},
+	{
+		"monsterName": "DeadSpider",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111568,
+		"Score": 1000,
+		"Nature": 1,
+		"monsterTagList": [
+			"Rush09",
+			"Rush",
+			"BioBoss",
+			"G3"
+		],
+		"monsterRank": 5,
+		"Weight": 5,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4055,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1175
+	},
+	{
+		"monsterName": "BossKianaC5",
+		"configType": "Default_Advance",
+		"isElite": true,
+		"uniqueID": 111801,
+		"Score": 2000,
+		"Nature": 1,
+		"monsterTagList": [
+			"F4BOSS",
+			"BossKianaC5"
+		],
+		"monsterRank": 3,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2060,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1176
+	},
+	{
+		"monsterName": "BossXuanyuan",
+		"configType": "Raid",
+		"isElite": true,
+		"uniqueID": 111802,
+		"Score": 2000,
+		"Nature": 2,
+		"monsterTagList": [
+			"F4BOSS",
+			"BossXuanyuan"
+		],
+		"monsterRank": 3,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2059,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1177
+	},
+	{
+		"monsterName": "BossUlystorm",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111803,
+		"Score": 2000,
+		"Nature": 2,
+		"monsterTagList": [
+			"F4BOSS",
+			"BossUlystorm"
+		],
+		"monsterRank": 3,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 52,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1178
+	},
+	{
+		"monsterName": "BossRita",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111506,
+		"Score": 2000,
+		"Nature": 1,
+		"monsterTagList": [
+			"F4BOSS",
+			"BossRita"
+		],
+		"monsterRank": 3,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4054,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1179
+	},
+	{
+		"monsterName": "BossDragon",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111804,
+		"Score": 2000,
+		"Nature": 1,
+		"monsterTagList": [
+			"F4BOSS",
+			"BossDragon"
+		],
+		"monsterRank": 3,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4016,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1180
+	},
+	{
+		"monsterName": "BossSamurai",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111276,
+		"Score": 2000,
+		"Nature": 0,
+		"monsterTagList": [
+			"F4BOSS",
+			"BossSamurai"
+		],
+		"monsterRank": 3,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4206,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1181
+	},
+	{
+		"monsterName": "RobotTKnight",
+		"configType": "Default_Boss",
+		"isElite": true,
+		"uniqueID": 111805,
+		"Score": 2000,
+		"Nature": 3,
+		"monsterTagList": [
+			"F4BOSS",
+			"RobotTKnight"
+		],
+		"monsterRank": 3,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2055,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1182
+	},
+	{
+		"monsterName": "BossTwins",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111144,
+		"Score": 2000,
+		"Nature": 0,
+		"monsterTagList": [
+			"F4BOSS",
+			"BossTwins"
+		],
+		"monsterRank": 3,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4112,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1183
+	},
+	{
+		"monsterName": "UlyssesHalo",
+		"configType": "Frost_Default",
+		"isElite": true,
+		"uniqueID": 111806,
+		"Score": 1000,
+		"Nature": 2,
+		"monsterTagList": [
+			"F4BOSS",
+			"UlyssesHalo1"
+		],
+		"monsterRank": 3,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2076,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1184
+	},
+	{
+		"monsterName": "UlyssesHalo",
+		"configType": "Magma_Default",
+		"isElite": true,
+		"uniqueID": 111807,
+		"Score": 1000,
+		"Nature": 2,
+		"monsterTagList": [
+			"F4BOSS",
+			"UlyssesHalo2"
+		],
+		"monsterRank": 3,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 62,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1185
+	},
+	{
+		"monsterName": "RobotTitan",
+		"configType": "Frost_Power",
+		"isElite": true,
+		"uniqueID": 111808,
+		"Score": 500,
+		"Nature": 3,
+		"monsterTagList": [
+			"F4BOSS",
+			"RobotTitan1"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 23,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1186
+	},
+	{
+		"monsterName": "RobotTitan",
+		"configType": "CS_Default",
+		"isElite": true,
+		"uniqueID": 111809,
+		"Score": 500,
+		"Nature": 3,
+		"monsterTagList": [
+			"F4BOSS",
+			"RobotTitan2"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4072,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1187
+	},
+	{
+		"monsterName": "DeadGhost",
+		"configType": "Frost_Default",
+		"isElite": true,
+		"uniqueID": 111810,
+		"Score": 500,
+		"Nature": 1,
+		"monsterTagList": [
+			"F4BOSS",
+			"DeadGal1"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 65,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1188
+	},
+	{
+		"monsterName": "DeadWitch",
+		"configType": "CS_Default",
+		"isElite": true,
+		"uniqueID": 111812,
+		"Score": 500,
+		"Nature": 1,
+		"monsterTagList": [
+			"F4BOSS",
+			"DeadGal2"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2011,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1189
+	},
+	{
+		"monsterName": "DeadKiller",
+		"configType": "CS_Default",
+		"isElite": true,
+		"uniqueID": 111813,
+		"Score": 250,
+		"Nature": 1,
+		"monsterTagList": [
+			"F4BOSS",
+			"DeadGal3"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4025,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1190
+	},
+	{
+		"monsterName": "DeadKiller",
+		"configType": "CS_Extend",
+		"isElite": true,
+		"uniqueID": 111814,
+		"Score": 250,
+		"Nature": 1,
+		"monsterTagList": [
+			"F4BOSS",
+			"DeadGal4"
+		],
+		"monsterRank": 2,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 2008,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1191
+	},
+	{
+		"monsterName": "BossUlysses",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111128,
+		"Score": 1000,
+		"Nature": 0,
+		"monsterTagList": [
+			"F4BOSS",
+			"BossUlysses"
+		],
+		"monsterRank": 3,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 34,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1192
+	},
+	{
+		"monsterName": "BossWendy",
+		"configType": "Default",
+		"isElite": true,
+		"uniqueID": 111129,
+		"Score": 1000,
+		"Nature": 0,
+		"monsterTagList": [
+			"F4BOSS",
+			"BossWendy"
+		],
+		"monsterRank": 3,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 50,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1193
+	},
+	{
+		"monsterName": "BossQuantum",
+		"configType": "Sin_Default",
+		"isElite": true,
+		"uniqueID": 111817,
+		"Score": 2000,
+		"Nature": 4,
+		"monsterTagList": [
+			"F4BOSS",
+			"BossQuantum"
+		],
+		"monsterRank": 3,
+		"Weight": 10,
+		"GroupLevelRange": [
+			1,
+			16
+		],
+		"MonsterDisplayID": 4060,
+		"Tags": null,
+		"DataImpl": {},
+		"monsterID": 1194
+	}
+]

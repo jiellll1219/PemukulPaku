@@ -1,0 +1,234 @@
+[
+	{
+		"BoxModel": "Stage/GachaV2/Boxs/GachaBox_Normal",
+		"BoxModelMaterialList": [
+			"Stage/GachaV2/Boxs/Material/GachaBox_Golden_01_Mat_Plate",
+			"Stage/GachaV2/Boxs/Material/GachaBox_Grey_01_Mat_Plate",
+			"Stage/GachaV2/Boxs/Material/GachaBox_Blue_01_Mat_Shell"
+		],
+		"StageModel": "Stage/GachaV2/Stages/GachaStage_Normal",
+		"StageOffset": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"StageModelMaterialList": [
+			"Stage/GachaV2/Stages/Material/GachaStage_Normal_01_Mat_Floor",
+			"Stage/GachaV2/Stages/Material/GachaStage_Normal_01_Mat_Wall"
+		],
+		"CameraAnim": "Stage/GachaV2/CameraAnimations/GachaCameraAnim_Normal",
+		"BoxModelPathInfoOneDraw": "Stage/Gacha/GachaBoxHCPrefab",
+		"BoxModelPathInfoTenDraw": "Stage/Gacha/GachaBoxHCBigPrefab",
+		"BoxPicPathInfo": "Stage/Gacha/GachaStageHC",
+		"BoxAudioPattern": "UI_DrawBox_Anim",
+		"BoxEffectPath": "Effect/Gacha/Gacha_4_0_Demo_01",
+		"DataImpl": {},
+		"BoxTypeID": 1
+	},
+	{
+		"BoxModel": "Stage/GachaV2/Boxs/GachaBox_Normal",
+		"BoxModelMaterialList": [
+			"Stage/GachaV2/Boxs/Material/GachaBox_Golden_01_Mat_Plate",
+			"Stage/GachaV2/Boxs/Material/GachaBox_Grey_01_Mat_Plate",
+			"Stage/GachaV2/Boxs/Material/GachaBox_Red_01_Mat_Shell"
+		],
+		"StageModel": "Stage/GachaV2/Stages/GachaStage_Normal",
+		"StageOffset": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"StageModelMaterialList": [
+			"Stage/GachaV2/Stages/Material/GachaStage_Normal_01_Mat_Floor",
+			"Stage/GachaV2/Stages/Material/GachaStage_Normal_01_Mat_Wall"
+		],
+		"CameraAnim": "Stage/GachaV2/CameraAnimations/GachaCameraAnim_Normal",
+		"BoxModelPathInfoOneDraw": "Stage/Gacha/GachaBoxHOPrefab",
+		"BoxModelPathInfoTenDraw": "Stage/Gacha/GachaBoxHOBigPrefab",
+		"BoxPicPathInfo": "Stage/Gacha/GachaStageHO",
+		"BoxAudioPattern": "UI_DrawBox_Anim",
+		"BoxEffectPath": "Effect/Gacha/Gacha_4_0_Demo_01",
+		"DataImpl": {},
+		"BoxTypeID": 2
+	},
+	{
+		"BoxModel": "Stage/GachaV2/Boxs/GachaBox_Normal",
+		"BoxModelMaterialList": [
+			"Stage/GachaV2/Boxs/Material/GachaBox_Golden_01_Mat_Plate",
+			"Stage/GachaV2/Boxs/Material/GachaBox_Grey_01_Mat_Plate",
+			"Stage/GachaV2/Boxs/Material/GachaBox_Red_01_Mat_Shell"
+		],
+		"StageModel": "Stage/GachaV2/Stages/GachaStage_Normal",
+		"StageOffset": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"StageModelMaterialList": [
+			"Stage/GachaV2/Stages/Material/GachaStage_Normal_01_Mat_Floor",
+			"Stage/GachaV2/Stages/Material/GachaStage_Normal_01_Mat_Wall"
+		],
+		"CameraAnim": "Stage/GachaV2/CameraAnimations/GachaCameraAnim_Normal",
+		"BoxModelPathInfoOneDraw": "Stage/Gacha/GachaBoxSPPrefab",
+		"BoxModelPathInfoTenDraw": "Stage/Gacha/GachaBoxSPBigPrefab",
+		"BoxPicPathInfo": "Stage/Gacha/GachaStageSP",
+		"BoxAudioPattern": "UI_DrawBox_Anim",
+		"BoxEffectPath": "Effect/Gacha/Gacha_4_0_Demo_01",
+		"DataImpl": {},
+		"BoxTypeID": 3
+	},
+	{
+		"BoxModel": "Stage/GachaV2/Boxs/GachaBox_Normal",
+		"BoxModelMaterialList": [
+			"Stage/GachaV2/Boxs/Material/GachaBox_Golden_01_Mat_Plate",
+			"Stage/GachaV2/Boxs/Material/GachaBox_Grey_01_Mat_Plate",
+			"Stage/GachaV2/Boxs/Material/GachaBox_Blue_01_Mat_Shell"
+		],
+		"StageModel": "Stage/GachaV2/Stages/GachaStage_Normal",
+		"StageOffset": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"StageModelMaterialList": [
+			"Stage/GachaV2/Stages/Material/GachaStage_Normal_01_Mat_Floor",
+			"Stage/GachaV2/Stages/Material/GachaStage_Normal_01_Mat_Wall"
+		],
+		"CameraAnim": "Stage/GachaV2/CameraAnimations/GachaCameraAnim_Normal",
+		"BoxModelPathInfoOneDraw": "Stage/Gacha/GachaBoxACPrefab",
+		"BoxModelPathInfoTenDraw": "Stage/Gacha/GachaBoxACBigPrefab",
+		"BoxPicPathInfo": "Stage/Gacha/GachaStageAC",
+		"BoxAudioPattern": "UI_DrawBox_Anim",
+		"BoxEffectPath": "Effect/Gacha/Gacha_4_0_Demo_01",
+		"DataImpl": {},
+		"BoxTypeID": 4
+	},
+	{
+		"BoxModel": "Stage/GachaV2/Boxs/GachaBox_Normal",
+		"BoxModelMaterialList": [
+			"Stage/GachaV2/Boxs/Material/GachaBox_Golden_01_Mat_Plate",
+			"Stage/GachaV2/Boxs/Material/GachaBox_Grey_01_Mat_Plate",
+			"Stage/GachaV2/Boxs/Material/GachaBox_Red_01_Mat_Shell"
+		],
+		"StageModel": "Stage/GachaV2/Stages/GachaStage_Normal",
+		"StageOffset": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"StageModelMaterialList": [
+			"Stage/GachaV2/Stages/Material/GachaStage_Normal_01_Mat_Floor",
+			"Stage/GachaV2/Stages/Material/GachaStage_Normal_01_Mat_Wall"
+		],
+		"CameraAnim": "Stage/GachaV2/CameraAnimations/GachaCameraAnim_Normal",
+		"BoxModelPathInfoOneDraw": "Stage/Gacha/GachaBoxECPrefab",
+		"BoxModelPathInfoTenDraw": "Stage/Gacha/GachaBoxECBigPrefab",
+		"BoxPicPathInfo": "Stage/Gacha/GachaStageEC",
+		"BoxAudioPattern": "UI_DrawBox_Anim",
+		"BoxEffectPath": "Effect/Gacha/Gacha_4_0_Demo_01",
+		"DataImpl": {},
+		"BoxTypeID": 5
+	},
+	{
+		"BoxModel": "Stage/GachaV2/Boxs/GachaBox_Normal",
+		"BoxModelMaterialList": [
+			"Stage/GachaV2/Boxs/Material/GachaBox_Golden_01_Mat_Plate",
+			"Stage/GachaV2/Boxs/Material/GachaBox_Grey_01_Mat_Plate",
+			"Stage/GachaV2/Boxs/Material/GachaBox_Black_01_Mat_Shell"
+		],
+		"StageModel": "Stage/GachaV2/Stages/GachaStage_Normal",
+		"StageOffset": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"StageModelMaterialList": [
+			"Stage/GachaV2/Stages/Material/GachaStage_Normal_01_Mat_Floor",
+			"Stage/GachaV2/Stages/Material/GachaStage_Normal_01_Mat_Wall"
+		],
+		"CameraAnim": "Stage/GachaV2/CameraAnimations/GachaCameraAnim_Normal",
+		"BoxModelPathInfoOneDraw": "Stage/Gacha/GachaBoxFPPrefab",
+		"BoxModelPathInfoTenDraw": "Stage/Gacha/GachaBoxFPPrefab",
+		"BoxPicPathInfo": "Stage/Gacha/GachaStageFP",
+		"BoxAudioPattern": "UI_DrawBox_Anim",
+		"BoxEffectPath": "Effect/Gacha/Gacha_4_0_Demo_01",
+		"DataImpl": {},
+		"BoxTypeID": 6
+	},
+	{
+		"BoxModel": "Stage/GachaV2/Boxs/GachaBox_Normal",
+		"BoxModelMaterialList": [
+			"Stage/GachaV2/Boxs/Material/GachaBox_Golden_01_Mat_Plate",
+			"Stage/GachaV2/Boxs/Material/GachaBox_Grey_01_Mat_Plate",
+			"Stage/GachaV2/Boxs/Material/GachaBox_Black_01_Mat_Shell"
+		],
+		"StageModel": "Stage/GachaV2/Stages/GachaStage_Normal",
+		"StageOffset": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"StageModelMaterialList": [
+			"Stage/GachaV2/Stages/Material/GachaStage_Normal_01_Mat_Floor",
+			"Stage/GachaV2/Stages/Material/GachaStage_Normal_01_Mat_Wall"
+		],
+		"CameraAnim": "Stage/GachaV2/CameraAnimations/GachaCameraAnim_Normal",
+		"BoxModelPathInfoOneDraw": "Stage/Gacha/GachaBoxElfPrefab",
+		"BoxModelPathInfoTenDraw": "Stage/Gacha/GachaBoxElfBigPrefab",
+		"BoxPicPathInfo": "Stage/Gacha/GachaStageElf",
+		"BoxAudioPattern": "UI_DrawBox_Anim",
+		"BoxEffectPath": "Effect/Gacha/Gacha_4_0_Demo_01",
+		"DataImpl": {},
+		"BoxTypeID": 7
+	},
+	{
+		"BoxModel": "Stage/GachaV2/Boxs/GachaBox_Mei",
+		"BoxModelMaterialList": [
+			"Stage/GachaV2/Boxs/Material/GachaBox_Mei_01_Mat_Plate",
+			"Stage/GachaV2/Boxs/Material/GachaBox_Grey_01_Mat_Plate",
+			"Stage/GachaV2/Boxs/Material/GachaBox_Mei_01_Mat_Shell"
+		],
+		"StageModel": "Stage/GachaV2/Stages/GachaStage_Normal",
+		"StageOffset": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"StageModelMaterialList": [
+			"Stage/GachaV2/Stages/Material/GachaStage_Normal_01_Mat_Floor",
+			"Stage/GachaV2/Stages/Material/GachaStage_Normal_01_Mat_Wall"
+		],
+		"CameraAnim": "Stage/GachaV2/CameraAnimations/GachaCameraAnim_Normal",
+		"BoxModelPathInfoOneDraw": "Stage/Gacha/GachaBoxACPrefab",
+		"BoxModelPathInfoTenDraw": "Stage/Gacha/GachaBoxACBigPrefab",
+		"BoxPicPathInfo": "Stage/Gacha/GachaStageAC",
+		"BoxAudioPattern": "UI_DrawBox_Anim",
+		"BoxEffectPath": "Effect/Gacha/Gacha_4_0_Demo_Mei_01",
+		"DataImpl": {},
+		"BoxTypeID": 8
+	}
+]

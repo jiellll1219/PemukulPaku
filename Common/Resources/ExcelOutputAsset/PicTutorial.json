@@ -1,0 +1,805 @@
+[
+	{
+		"Type": 1,
+		"Title": "PicTutorial_1",
+		"StepIDList": [
+			10,
+			11,
+			12,
+			13
+		],
+		"UnlockCondition": 0,
+		"Weight": 1,
+		"Param": 1001,
+		"DataImpl": {},
+		"ActivityID": 1,
+		"ID": 1
+	},
+	{
+		"Type": 1,
+		"Title": "PicTutorial_2",
+		"StepIDList": [
+			20,
+			21,
+			22,
+			23
+		],
+		"UnlockCondition": 0,
+		"Weight": 2,
+		"Param": 1001,
+		"DataImpl": {},
+		"ActivityID": 1,
+		"ID": 2
+	},
+	{
+		"Type": 1,
+		"Title": "PicTutorial_3",
+		"StepIDList": [
+			30,
+			31,
+			32,
+			33
+		],
+		"UnlockCondition": 1100,
+		"Weight": 3,
+		"Param": 1001,
+		"DataImpl": {},
+		"ActivityID": 1,
+		"ID": 3
+	},
+	{
+		"Type": 1,
+		"Title": "PicTutorial_4",
+		"StepIDList": [
+			40,
+			41,
+			42
+		],
+		"UnlockCondition": 0,
+		"Weight": 4,
+		"Param": 1001,
+		"DataImpl": {},
+		"ActivityID": 1,
+		"ID": 4
+	},
+	{
+		"Type": 1,
+		"Title": "PicTutorial_5",
+		"StepIDList": [
+			50,
+			51,
+			52
+		],
+		"UnlockCondition": 0,
+		"Weight": 5,
+		"Param": 1001,
+		"DataImpl": {},
+		"ActivityID": 1,
+		"ID": 5
+	},
+	{
+		"Type": 1,
+		"Title": "PicTutorial_6",
+		"StepIDList": [
+			60,
+			61,
+			62
+		],
+		"UnlockCondition": 1110,
+		"Weight": 6,
+		"Param": 1001,
+		"DataImpl": {},
+		"ActivityID": 1,
+		"ID": 6
+	},
+	{
+		"Type": 2,
+		"Title": "PicTutorial_7",
+		"StepIDList": [
+			70,
+			71,
+			72,
+			73
+		],
+		"UnlockCondition": 1102,
+		"Weight": 8,
+		"Param": 1001,
+		"DataImpl": {},
+		"ActivityID": 1,
+		"ID": 7
+	},
+	{
+		"Type": 1,
+		"Title": "PicTutorial_8",
+		"StepIDList": [
+			80,
+			81,
+			82,
+			83
+		],
+		"UnlockCondition": 0,
+		"Weight": 9,
+		"Param": 1001,
+		"DataImpl": {},
+		"ActivityID": 1,
+		"ID": 8
+	},
+	{
+		"Type": 1,
+		"Title": "PicTutorial_9",
+		"StepIDList": [
+			90,
+			91
+		],
+		"UnlockCondition": 0,
+		"Weight": 10,
+		"Param": 1001,
+		"DataImpl": {},
+		"ActivityID": 1,
+		"ID": 9
+	},
+	{
+		"Type": 1,
+		"Title": "PicTutorial_10",
+		"StepIDList": [
+			100,
+			101
+		],
+		"UnlockCondition": 0,
+		"Weight": 11,
+		"Param": 1001,
+		"DataImpl": {},
+		"ActivityID": 1,
+		"ID": 10
+	},
+	{
+		"Type": 2,
+		"Title": "PicTutorial_11",
+		"StepIDList": [
+			110,
+			111,
+			112,
+			113,
+			114,
+			115
+		],
+		"UnlockCondition": 1104,
+		"Weight": 7,
+		"Param": 1001,
+		"DataImpl": {},
+		"ActivityID": 1,
+		"ID": 11
+	},
+	{
+		"Type": 2,
+		"Title": "PicTutorial_12",
+		"StepIDList": [
+			120,
+			121
+		],
+		"UnlockCondition": 1105,
+		"Weight": 12,
+		"Param": 1001,
+		"DataImpl": {},
+		"ActivityID": 1,
+		"ID": 12
+	},
+	{
+		"Type": 2,
+		"Title": "PicTutorial_13",
+		"StepIDList": [
+			130
+		],
+		"UnlockCondition": 1111,
+		"Weight": 13,
+		"Param": 1001,
+		"DataImpl": {},
+		"ActivityID": 1,
+		"ID": 13
+	},
+	{
+		"Type": 2,
+		"Title": "PicTutorial_14",
+		"StepIDList": [
+			140,
+			141,
+			142
+		],
+		"UnlockCondition": 1106,
+		"Weight": 14,
+		"Param": 1001,
+		"DataImpl": {},
+		"ActivityID": 1,
+		"ID": 14
+	},
+	{
+		"Type": 2,
+		"Title": "PicTutorial_15",
+		"StepIDList": [
+			150
+		],
+		"UnlockCondition": 1112,
+		"Weight": 15,
+		"Param": 1001,
+		"DataImpl": {},
+		"ActivityID": 1,
+		"ID": 15
+	},
+	{
+		"Type": 2,
+		"Title": "PicTutorial_16",
+		"StepIDList": [
+			160,
+			161
+		],
+		"UnlockCondition": 1107,
+		"Weight": 16,
+		"Param": 1001,
+		"DataImpl": {},
+		"ActivityID": 1,
+		"ID": 16
+	},
+	{
+		"Type": 2,
+		"Title": "PicTutorial_17",
+		"StepIDList": [
+			170,
+			171,
+			172
+		],
+		"UnlockCondition": 1114,
+		"Weight": 17,
+		"Param": 1001,
+		"DataImpl": {},
+		"ActivityID": 1,
+		"ID": 17
+	},
+	{
+		"Type": 2,
+		"Title": "PicTutorial_18",
+		"StepIDList": [
+			180
+		],
+		"UnlockCondition": 1113,
+		"Weight": 18,
+		"Param": 1001,
+		"DataImpl": {},
+		"ActivityID": 1,
+		"ID": 18
+	},
+	{
+		"Type": 2,
+		"Title": "PicTutorial_19",
+		"StepIDList": [
+			190
+		],
+		"UnlockCondition": 1200,
+		"Weight": 21,
+		"Param": 1001,
+		"DataImpl": {},
+		"ActivityID": 1,
+		"ID": 19
+	},
+	{
+		"Type": 2,
+		"Title": "PicTutorial_21",
+		"StepIDList": [
+			200
+		],
+		"UnlockCondition": 1202,
+		"Weight": 23,
+		"Param": 1001,
+		"DataImpl": {},
+		"ActivityID": 1,
+		"ID": 21
+	},
+	{
+		"Type": 2,
+		"Title": "PicTutorial_22",
+		"StepIDList": [
+			205,
+			206
+		],
+		"UnlockCondition": 1203,
+		"Weight": 24,
+		"Param": 1001,
+		"DataImpl": {},
+		"ActivityID": 1,
+		"ID": 22
+	},
+	{
+		"Type": 2,
+		"Title": "PicTutorial_23",
+		"StepIDList": [
+			210
+		],
+		"UnlockCondition": 1204,
+		"Weight": 25,
+		"Param": 1001,
+		"DataImpl": {},
+		"ActivityID": 1,
+		"ID": 23
+	},
+	{
+		"Type": 2,
+		"Title": "PicTutorial_24",
+		"StepIDList": [
+			215,
+			216
+		],
+		"UnlockCondition": 1205,
+		"Weight": 26,
+		"Param": 1001,
+		"DataImpl": {},
+		"ActivityID": 1,
+		"ID": 24
+	},
+	{
+		"Type": 2,
+		"Title": "PicTutorial_26",
+		"StepIDList": [
+			225
+		],
+		"UnlockCondition": 1207,
+		"Weight": 28,
+		"Param": 1001,
+		"DataImpl": {},
+		"ActivityID": 1,
+		"ID": 26
+	},
+	{
+		"Type": 1,
+		"Title": "PicTutorial_27",
+		"StepIDList": [
+			270,
+			271,
+			272,
+			273
+		],
+		"UnlockCondition": 1208,
+		"Weight": 19,
+		"Param": 1001,
+		"DataImpl": {},
+		"ActivityID": 1,
+		"ID": 27
+	},
+	{
+		"Type": 1,
+		"Title": "PicTutorial_28",
+		"StepIDList": [
+			280,
+			281,
+			282,
+			283
+		],
+		"UnlockCondition": 1209,
+		"Weight": 20,
+		"Param": 1001,
+		"DataImpl": {},
+		"ActivityID": 1,
+		"ID": 28
+	},
+	{
+		"Type": 2,
+		"Title": "PicTutorial_29",
+		"StepIDList": [
+			290,
+			291,
+			292,
+			293
+		],
+		"UnlockCondition": 1210,
+		"Weight": 29,
+		"Param": 1001,
+		"DataImpl": {},
+		"ActivityID": 1,
+		"ID": 29
+	},
+	{
+		"Type": 2,
+		"Title": "PicTutorial_30",
+		"StepIDList": [
+			300,
+			301
+		],
+		"UnlockCondition": 1211,
+		"Weight": 30,
+		"Param": 1001,
+		"DataImpl": {},
+		"ActivityID": 1,
+		"ID": 30
+	},
+	{
+		"Type": 2,
+		"Title": "PicTutorial_31",
+		"StepIDList": [
+			310,
+			311
+		],
+		"UnlockCondition": 1212,
+		"Weight": 31,
+		"Param": 1001,
+		"DataImpl": {},
+		"ActivityID": 1,
+		"ID": 31
+	},
+	{
+		"Type": 2,
+		"Title": "PicTutorial_32",
+		"StepIDList": [
+			320,
+			321
+		],
+		"UnlockCondition": 1213,
+		"Weight": 32,
+		"Param": 1001,
+		"DataImpl": {},
+		"ActivityID": 1,
+		"ID": 32
+	},
+	{
+		"Type": 2,
+		"Title": "PicTutorial_38",
+		"StepIDList": [
+			381,
+			382
+		],
+		"UnlockCondition": 0,
+		"Weight": 6,
+		"Param": 34,
+		"DataImpl": {},
+		"ActivityID": 2,
+		"ID": 38
+	},
+	{
+		"Type": 1,
+		"Title": "PicTutorial_49",
+		"StepIDList": [
+			459
+		],
+		"UnlockCondition": 0,
+		"Weight": 1,
+		"Param": 37,
+		"DataImpl": {},
+		"ActivityID": 2,
+		"ID": 49
+	},
+	{
+		"Type": 1,
+		"Title": "PicTutorial_50",
+		"StepIDList": [
+			462,
+			463,
+			464,
+			465
+		],
+		"UnlockCondition": 9001,
+		"Weight": 3,
+		"Param": 37,
+		"DataImpl": {},
+		"ActivityID": 2,
+		"ID": 50
+	},
+	{
+		"Type": 2,
+		"Title": "PicTutorial_57",
+		"StepIDList": [
+			480
+		],
+		"UnlockCondition": 9001,
+		"Weight": 5,
+		"Param": 37,
+		"DataImpl": {},
+		"ActivityID": 2,
+		"ID": 57
+	},
+	{
+		"Type": 2,
+		"Title": "PicTutorial_58",
+		"StepIDList": [
+			481
+		],
+		"UnlockCondition": 9003,
+		"Weight": 6,
+		"Param": 37,
+		"DataImpl": {},
+		"ActivityID": 2,
+		"ID": 58
+	},
+	{
+		"Type": 2,
+		"Title": "PicTutorial_59",
+		"StepIDList": [
+			482,
+			484,
+			485
+		],
+		"UnlockCondition": 9004,
+		"Weight": 7,
+		"Param": 37,
+		"DataImpl": {},
+		"ActivityID": 2,
+		"ID": 59
+	},
+	{
+		"Type": 2,
+		"Title": "PicTutorial_60",
+		"StepIDList": [
+			483
+		],
+		"UnlockCondition": 9005,
+		"Weight": 8,
+		"Param": 37,
+		"DataImpl": {},
+		"ActivityID": 2,
+		"ID": 60
+	},
+	{
+		"Type": 2,
+		"Title": "PicTutorial_62",
+		"StepIDList": [
+			487,
+			488
+		],
+		"UnlockCondition": 9001,
+		"Weight": 9,
+		"Param": 37,
+		"DataImpl": {},
+		"ActivityID": 2,
+		"ID": 62
+	},
+	{
+		"Type": 1,
+		"Title": "PicTutorial_63",
+		"StepIDList": [
+			460
+		],
+		"UnlockCondition": 9002,
+		"Weight": 4,
+		"Param": 37,
+		"DataImpl": {},
+		"ActivityID": 2,
+		"ID": 63
+	},
+	{
+		"Type": 1,
+		"Title": "PicTutorial_64",
+		"StepIDList": [
+			461
+		],
+		"UnlockCondition": 9001,
+		"Weight": 2,
+		"Param": 37,
+		"DataImpl": {},
+		"ActivityID": 2,
+		"ID": 64
+	},
+	{
+		"Type": 2,
+		"Title": "PicTutorial_65",
+		"StepIDList": [
+			489,
+			490
+		],
+		"UnlockCondition": 9006,
+		"Weight": 10,
+		"Param": 37,
+		"DataImpl": {},
+		"ActivityID": 2,
+		"ID": 65
+	},
+	{
+		"Type": 0,
+		"Title": "PicTutorial_39",
+		"StepIDList": [
+			390,
+			391
+		],
+		"UnlockCondition": 0,
+		"Weight": 1,
+		"Param": 9060,
+		"DataImpl": {},
+		"ActivityID": 3,
+		"ID": 39
+	},
+	{
+		"Type": 0,
+		"Title": "PicTutorial_40",
+		"StepIDList": [
+			401,
+			402,
+			403,
+			404
+		],
+		"UnlockCondition": 0,
+		"Weight": 2,
+		"Param": 9060,
+		"DataImpl": {},
+		"ActivityID": 3,
+		"ID": 40
+	},
+	{
+		"Type": 0,
+		"Title": "PicTutorial_41",
+		"StepIDList": [
+			411,
+			412
+		],
+		"UnlockCondition": 1,
+		"Weight": 3,
+		"Param": 9060,
+		"DataImpl": {},
+		"ActivityID": 3,
+		"ID": 41
+	},
+	{
+		"Type": 0,
+		"Title": "PicTutorial_42",
+		"StepIDList": [
+			421,
+			422
+		],
+		"UnlockCondition": 2,
+		"Weight": 4,
+		"Param": 9060,
+		"DataImpl": {},
+		"ActivityID": 3,
+		"ID": 42
+	},
+	{
+		"Type": 0,
+		"Title": "PicTutorial_43",
+		"StepIDList": [
+			431,
+			432
+		],
+		"UnlockCondition": 3,
+		"Weight": 5,
+		"Param": 9060,
+		"DataImpl": {},
+		"ActivityID": 3,
+		"ID": 43
+	},
+	{
+		"Type": 0,
+		"Title": "PicTutorial_44",
+		"StepIDList": [
+			441,
+			442
+		],
+		"UnlockCondition": 5,
+		"Weight": 6,
+		"Param": 9060,
+		"DataImpl": {},
+		"ActivityID": 3,
+		"ID": 44
+	},
+	{
+		"Type": 0,
+		"Title": "PicTutorial_45",
+		"StepIDList": [
+			451,
+			452,
+			453,
+			454
+		],
+		"UnlockCondition": 4,
+		"Weight": 7,
+		"Param": 9060,
+		"DataImpl": {},
+		"ActivityID": 3,
+		"ID": 45
+	},
+	{
+		"Type": 0,
+		"Title": "PicTutorial_51",
+		"StepIDList": [
+			466
+		],
+		"UnlockCondition": 0,
+		"Weight": 1,
+		"Param": 9080,
+		"DataImpl": {},
+		"ActivityID": 3,
+		"ID": 51
+	},
+	{
+		"Type": 0,
+		"Title": "PicTutorial_52",
+		"StepIDList": [
+			467,
+			468,
+			469,
+			470,
+			486
+		],
+		"UnlockCondition": 0,
+		"Weight": 2,
+		"Param": 9080,
+		"DataImpl": {},
+		"ActivityID": 3,
+		"ID": 52
+	},
+	{
+		"Type": 0,
+		"Title": "PicTutorial_53",
+		"StepIDList": [
+			471,
+			472,
+			473
+		],
+		"UnlockCondition": 0,
+		"Weight": 3,
+		"Param": 9080,
+		"DataImpl": {},
+		"ActivityID": 3,
+		"ID": 53
+	},
+	{
+		"Type": 0,
+		"Title": "PicTutorial_54",
+		"StepIDList": [
+			474,
+			475
+		],
+		"UnlockCondition": 0,
+		"Weight": 4,
+		"Param": 9080,
+		"DataImpl": {},
+		"ActivityID": 3,
+		"ID": 54
+	},
+	{
+		"Type": 0,
+		"Title": "PicTutorial_55",
+		"StepIDList": [
+			476
+		],
+		"UnlockCondition": 7,
+		"Weight": 5,
+		"Param": 9080,
+		"DataImpl": {},
+		"ActivityID": 3,
+		"ID": 55
+	},
+	{
+		"Type": 0,
+		"Title": "PicTutorial_56",
+		"StepIDList": [
+			478,
+			479
+		],
+		"UnlockCondition": 6,
+		"Weight": 7,
+		"Param": 9080,
+		"DataImpl": {},
+		"ActivityID": 3,
+		"ID": 56
+	},
+	{
+		"Type": 0,
+		"Title": "PicTutorial_61",
+		"StepIDList": [
+			477
+		],
+		"UnlockCondition": 8,
+		"Weight": 6,
+		"Param": 9080,
+		"DataImpl": {},
+		"ActivityID": 3,
+		"ID": 61
+	},
+	{
+		"Type": 0,
+		"Title": "PicTutorial_66",
+		"StepIDList": [
+			491
+		],
+		"UnlockCondition": 0,
+		"Weight": 1,
+		"Param": 36,
+		"DataImpl": {},
+		"ActivityID": 4,
+		"ID": 66
+	}
+]

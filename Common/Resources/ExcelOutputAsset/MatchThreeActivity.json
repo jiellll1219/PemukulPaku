@@ -1,0 +1,51 @@
+[
+	{
+		"initialRoleIDList": [
+			{
+				"RoleID": 1,
+				"RoleLevel": 1
+			}
+		],
+		"initialItemIDList": [
+			1,
+			2
+		],
+		"gachaMaterialList": {
+			"MateriaId": 126703,
+			"MateriaNum": 1
+		},
+		"experienceMaterialID": 126702,
+		"dailyUnlockSite": 9080105,
+		"gachaUnlockSite": 9080104,
+		"towerUnlockSite": 9080109,
+		"medalID": 101127,
+		"gachaPoolList": [
+			1,
+			2,
+			3
+		],
+		"limitItemNum": 3,
+		"normGem": 101,
+		"normGrid": 102,
+		"ratingScore": [
+			1,
+			1250,
+			1500,
+			1750,
+			2000
+		],
+		"roundScore": [
+			20,
+			8,
+			6,
+			4,
+			3
+		],
+		"weightLimit": 41,
+		"tutorialGemState1": 97,
+		"tutorialGemState2": 98,
+		"tutorialObstacle": 99,
+		"DataImpl": {},
+		"activityID": 1001
+	}
+]

@@ -1,0 +1,618 @@
+[
+	{
+		"CharID": 100,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/AvatarCardFigures/60203_04_01",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 1000
+	},
+	{
+		"CharID": 100,
+		"FaceType": 1,
+		"ImageChar2DPath": "SpriteOutput/AvatarCardFigures/602_04_01",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 1001
+	},
+	{
+		"CharID": 100,
+		"FaceType": 2,
+		"ImageChar2DPath": "SpriteOutput/AvatarCardFigures/601_04_01",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 1002
+	},
+	{
+		"CharID": 101,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/AvatarCardFigures/60421_04_01",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 1010
+	},
+	{
+		"CharID": 101,
+		"FaceType": 1,
+		"ImageChar2DPath": "SpriteOutput/AvatarCardFigures/60421_03_01",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 1011
+	},
+	{
+		"CharID": 101,
+		"FaceType": 2,
+		"ImageChar2DPath": "SpriteOutput/AvatarCardFigures/60421_04_03",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 1012
+	},
+	{
+		"CharID": 102,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/AvatarCardFigures/605_04_01",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 1020
+	},
+	{
+		"CharID": 102,
+		"FaceType": 1,
+		"ImageChar2DPath": "SpriteOutput/AvatarCardFigures/60501_04_01",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 1021
+	},
+	{
+		"CharID": 102,
+		"FaceType": 2,
+		"ImageChar2DPath": "SpriteOutput/AvatarCardFigures/60501_04_05",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 1022
+	},
+	{
+		"CharID": 103,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/AvatarCardFigures/TestIcon01",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 1030
+	},
+	{
+		"CharID": 104,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Mei",
+		"SpImageChar2DPath": "SpriteOutput/AvatarCardFigures/TestIcon09",
+		"DataImpl": {},
+		"ImageChar2DID": 1040
+	},
+	{
+		"CharID": 2001,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Kevin",
+		"SpImageChar2DPath": "SpriteOutput/AvatarCardFigures/TestIcon02",
+		"DataImpl": {},
+		"ImageChar2DID": 2001
+	},
+	{
+		"CharID": 2002,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Eden",
+		"SpImageChar2DPath": "SpriteOutput/AvatarCardFigures/TestIcon05",
+		"DataImpl": {},
+		"ImageChar2DID": 2002
+	},
+	{
+		"CharID": 2003,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Kalpas",
+		"SpImageChar2DPath": "SpriteOutput/AvatarCardFigures/TestIcon06",
+		"DataImpl": {},
+		"ImageChar2DID": 2003
+	},
+	{
+		"CharID": 2004,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Su",
+		"SpImageChar2DPath": "SpriteOutput/AvatarCardFigures/TestIcon07",
+		"DataImpl": {},
+		"ImageChar2DID": 2004
+	},
+	{
+		"CharID": 2005,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Sakura",
+		"SpImageChar2DPath": "SpriteOutput/AvatarCardFigures/TestIcon04",
+		"DataImpl": {},
+		"ImageChar2DID": 2005
+	},
+	{
+		"CharID": 2006,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Mobius",
+		"SpImageChar2DPath": "SpriteOutput/AvatarCardFigures/TestIcon08",
+		"DataImpl": {},
+		"ImageChar2DID": 2006
+	},
+	{
+		"CharID": 2007,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Hua",
+		"SpImageChar2DPath": "SpriteOutput/AvatarCardFigures/TestIcon03",
+		"DataImpl": {},
+		"ImageChar2DID": 2007
+	},
+	{
+		"CharID": 2008,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Elysia",
+		"SpImageChar2DPath": "SpriteOutput/AvatarCardFigures/TestIcon01",
+		"DataImpl": {},
+		"ImageChar2DID": 2008
+	},
+	{
+		"CharID": 2009,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Mei",
+		"SpImageChar2DPath": "SpriteOutput/AvatarCardFigures/TestIcon09",
+		"DataImpl": {},
+		"ImageChar2DID": 2009
+	},
+	{
+		"CharID": 2010,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Mobius_Boss",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 2010
+	},
+	{
+		"CharID": 2011,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Mobius_02",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 2011
+	},
+	{
+		"CharID": 2012,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Raven",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 2012
+	},
+	{
+		"CharID": 2013,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Elf_12",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 2013
+	},
+	{
+		"CharID": 2014,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/Rogue/GodCloseUp/RougeGod_Aponia",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 2014
+	},
+	{
+		"CharID": 2015,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/Rogue/GodCloseUp/RougeGod_Raven_02",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 2015
+	},
+	{
+		"CharID": 2016,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/Rogue/GodCloseUp/RougeGod_Griseo1",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 2016
+	},
+	{
+		"CharID": 2017,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/Rogue/GodCloseUp/RougeGod_Griseo2",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 2017
+	},
+	{
+		"CharID": 2018,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/Rogue/GodCloseUp/RougeGod_Kosma",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 2018
+	},
+	{
+		"CharID": 2019,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/Rogue/GodCloseUp/RougeGod_Pardofelis_cat",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 2019
+	},
+	{
+		"CharID": 2020,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/Rogue/GodCloseUp/RougeGod_Pardofelis",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 2020
+	},
+	{
+		"CharID": 2021,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/Rogue/GodCloseUp/RougeGod_VillV01",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 2021
+	},
+	{
+		"CharID": 2022,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/Rogue/GodCloseUp/RougeGod_VillV02",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 2022
+	},
+	{
+		"CharID": 3001,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/5thAnv/Avatar/RpgRestaurant_DaWeiGe",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 3001
+	},
+	{
+		"CharID": 3002,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/5thAnv/Avatar/RpgRestaurant_Mei",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 3002
+	},
+	{
+		"CharID": 3003,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/5thAnv/Avatar/RpgRestaurant_Kiana_01",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 3003
+	},
+	{
+		"CharID": 3004,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/5thAnv/Avatar/RpgRestaurant_Kiana_02",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 3004
+	},
+	{
+		"CharID": 3005,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/5thAnv/Avatar/RpgRestaurant_Kiana_03",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 3005
+	},
+	{
+		"CharID": 3006,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/5thAnv/Avatar/RpgRestaurant_Bronya",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 3006
+	},
+	{
+		"CharID": 3007,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/5thAnv/Avatar/RpgRestaurant_Theresa",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 3007
+	},
+	{
+		"CharID": 3008,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/5thAnv/Avatar/RpgRestaurant_Himeko",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 3008
+	},
+	{
+		"CharID": 3009,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/5thAnv/Avatar/RpgRestaurant_Fuka",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 3009
+	},
+	{
+		"CharID": 3010,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/5thAnv/Avatar/RpgRestaurant_Twins01",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 3010
+	},
+	{
+		"CharID": 3011,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/5thAnv/Avatar/RpgRestaurant_Twins02",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 3011
+	},
+	{
+		"CharID": 3012,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/5thAnv/Avatar/RpgRestaurant_Rita",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 3012
+	},
+	{
+		"CharID": 3013,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/5thAnv/Avatar/RpgRestaurant_Durandal",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 3013
+	},
+	{
+		"CharID": 3014,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/5thAnv/Avatar/RpgRestaurant_Seele01",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 3014
+	},
+	{
+		"CharID": 3015,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/5thAnv/Avatar/RpgRestaurant_Seele02",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 3015
+	},
+	{
+		"CharID": 3016,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/5thAnv/Avatar/RpgRestaurant_Kallen",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 3016
+	},
+	{
+		"CharID": 3017,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/5thAnv/Avatar/RpgRestaurant_Sakura",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 3017
+	},
+	{
+		"CharID": 3018,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/5thAnv/Avatar/RpgRestaurant_Otto",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 3018
+	},
+	{
+		"CharID": 3019,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/5thAnv/Avatar/RpgRestaurant_Raven",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 3019
+	},
+	{
+		"CharID": 3020,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/5thAnv/Avatar/RpgRestaurant_Tesla",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 3020
+	},
+	{
+		"CharID": 3021,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/5thAnv/Avatar/RpgRestaurant_Ein",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 3021
+	},
+	{
+		"CharID": 3022,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/5thAnv/Avatar/RpgRestaurant_Aichan",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 3022
+	},
+	{
+		"CharID": 3023,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/5thAnv/Avatar/RpgRestaurant_Homu",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 3023
+	},
+	{
+		"CharID": 3024,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/5thAnv/Avatar/RpgRestaurant_Higokumaru",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 3024
+	},
+	{
+		"CharID": 3025,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/5thAnv/Avatar/RpgRestaurant_Chic",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 3025
+	},
+	{
+		"CharID": 4001,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/Rogue/GodCloseUp/RougeGod_Aponia",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 4001
+	},
+	{
+		"CharID": 4002,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/Rogue/GodCloseUp/RougeGod_VillV01",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 4002
+	},
+	{
+		"CharID": 4003,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/Rogue/GodCloseUp/RougeGod_Kosma",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 4003
+	},
+	{
+		"CharID": 4004,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/Rogue/GodCloseUp/RougeGod_Griseo1",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 4004
+	},
+	{
+		"CharID": 4005,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/Rogue/GodCloseUp/RougeGod_Pardofelis",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 4005
+	},
+	{
+		"CharID": 7001,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/V5.8Drawer/Drawer2D",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 7001
+	},
+	{
+		"CharID": 7002,
+		"FaceType": 0,
+		"ImageChar2DPath": "event/Immediately/V5.8Drawer/5.8_Knight_truecolor",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 7002
+	},
+	{
+		"CharID": 7003,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/V5.8Drawer/xiaoguaiA",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 7003
+	},
+	{
+		"CharID": 7004,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/V5.8Drawer/xiaoguaiB",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 7004
+	},
+	{
+		"CharID": 7005,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/V5.8Drawer/xiaoguaiC",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 7005
+	},
+	{
+		"CharID": 7006,
+		"FaceType": 0,
+		"ImageChar2DPath": "event/Immediately/V5.8Drawer/5.8_CheChe_truecolor",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 7006
+	},
+	{
+		"CharID": 7007,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/V5.8Drawer/Fly2D",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 7007
+	},
+	{
+		"CharID": 7008,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/V5.8Drawer/Fly2D_1",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 7008
+	},
+	{
+		"CharID": 7009,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/V5.8Drawer/AP2D",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 7009
+	},
+	{
+		"CharID": 7010,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/V5.8Drawer/Cat2D",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 7010
+	},
+	{
+		"CharID": 7011,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/V5.8Drawer/Elf2D",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 7011
+	},
+	{
+		"CharID": 7012,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/V5.8Drawer/Ksm2D",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 7012
+	},
+	{
+		"CharID": 7013,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/V5.8Drawer/Mob2D",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 7013
+	},
+	{
+		"CharID": 8014,
+		"FaceType": 0,
+		"ImageChar2DPath": "SpriteOutput/Rogue/GodCloseUp/Elf_10014",
+		"SpImageChar2DPath": "",
+		"DataImpl": {},
+		"ImageChar2DID": 8014
+	}
+]

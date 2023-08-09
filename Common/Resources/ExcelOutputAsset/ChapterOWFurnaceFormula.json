@@ -1,0 +1,488 @@
+[
+	{
+		"FormulaName": {
+			"hash": 186472547
+		},
+		"ProduceMaterial": 122327,
+		"ProduceNumber": 60,
+		"FurnaceLevel": 1,
+		"NeedMaterial_1": 122321,
+		"NeedNumber_1": 200,
+		"NeedMaterial_2": 0,
+		"NeedNumber_2": 0,
+		"NeedMaterial_3": 0,
+		"NeedNumber_3": 0,
+		"CostTime": 3600,
+		"MaxUseTimes": 1,
+		"DataImpl": {},
+		"ID": 1
+	},
+	{
+		"FormulaName": {
+			"hash": 186472548
+		},
+		"ProduceMaterial": 122327,
+		"ProduceNumber": 40,
+		"FurnaceLevel": 1,
+		"NeedMaterial_1": 122321,
+		"NeedNumber_1": 50,
+		"NeedMaterial_2": 122323,
+		"NeedNumber_2": 400,
+		"NeedMaterial_3": 0,
+		"NeedNumber_3": 0,
+		"CostTime": 3600,
+		"MaxUseTimes": 1,
+		"DataImpl": {},
+		"ID": 2
+	},
+	{
+		"FormulaName": {
+			"hash": 186472549
+		},
+		"ProduceMaterial": 122327,
+		"ProduceNumber": 70,
+		"FurnaceLevel": 1,
+		"NeedMaterial_1": 122321,
+		"NeedNumber_1": 50,
+		"NeedMaterial_2": 122322,
+		"NeedNumber_2": 400,
+		"NeedMaterial_3": 0,
+		"NeedNumber_3": 0,
+		"CostTime": 3600,
+		"MaxUseTimes": 1,
+		"DataImpl": {},
+		"ID": 3
+	},
+	{
+		"FormulaName": {
+			"hash": 186472550
+		},
+		"ProduceMaterial": 122327,
+		"ProduceNumber": 30,
+		"FurnaceLevel": 1,
+		"NeedMaterial_1": 122321,
+		"NeedNumber_1": 50,
+		"NeedMaterial_2": 122324,
+		"NeedNumber_2": 400,
+		"NeedMaterial_3": 0,
+		"NeedNumber_3": 0,
+		"CostTime": 3600,
+		"MaxUseTimes": 1,
+		"DataImpl": {},
+		"ID": 4
+	},
+	{
+		"FormulaName": {
+			"hash": 186472551
+		},
+		"ProduceMaterial": 122327,
+		"ProduceNumber": 150,
+		"FurnaceLevel": 3,
+		"NeedMaterial_1": 122321,
+		"NeedNumber_1": 300,
+		"NeedMaterial_2": 122323,
+		"NeedNumber_2": 1200,
+		"NeedMaterial_3": 0,
+		"NeedNumber_3": 0,
+		"CostTime": 43200,
+		"MaxUseTimes": 2,
+		"DataImpl": {},
+		"ID": 5
+	},
+	{
+		"FormulaName": {
+			"hash": 186472552
+		},
+		"ProduceMaterial": 122327,
+		"ProduceNumber": 250,
+		"FurnaceLevel": 3,
+		"NeedMaterial_1": 122321,
+		"NeedNumber_1": 300,
+		"NeedMaterial_2": 122322,
+		"NeedNumber_2": 1200,
+		"NeedMaterial_3": 0,
+		"NeedNumber_3": 0,
+		"CostTime": 54000,
+		"MaxUseTimes": 2,
+		"DataImpl": {},
+		"ID": 6
+	},
+	{
+		"FormulaName": {
+			"hash": 186472553
+		},
+		"ProduceMaterial": 122327,
+		"ProduceNumber": 100,
+		"FurnaceLevel": 4,
+		"NeedMaterial_1": 122321,
+		"NeedNumber_1": 300,
+		"NeedMaterial_2": 122324,
+		"NeedNumber_2": 1200,
+		"NeedMaterial_3": 0,
+		"NeedNumber_3": 0,
+		"CostTime": 64800,
+		"MaxUseTimes": 2,
+		"DataImpl": {},
+		"ID": 7
+	},
+	{
+		"FormulaName": {
+			"hash": 186472554
+		},
+		"ProduceMaterial": 122327,
+		"ProduceNumber": 200,
+		"FurnaceLevel": 2,
+		"NeedMaterial_1": 122321,
+		"NeedNumber_1": 1200,
+		"NeedMaterial_2": 0,
+		"NeedNumber_2": 0,
+		"NeedMaterial_3": 0,
+		"NeedNumber_3": 0,
+		"CostTime": 79200,
+		"MaxUseTimes": 3,
+		"DataImpl": {},
+		"ID": 8
+	},
+	{
+		"FormulaName": {
+			"hash": 186472555
+		},
+		"ProduceMaterial": 122327,
+		"ProduceNumber": 150,
+		"FurnaceLevel": 6,
+		"NeedMaterial_1": 122321,
+		"NeedNumber_1": 300,
+		"NeedMaterial_2": 122323,
+		"NeedNumber_2": 1200,
+		"NeedMaterial_3": 0,
+		"NeedNumber_3": 0,
+		"CostTime": 43200,
+		"MaxUseTimes": 2,
+		"DataImpl": {},
+		"ID": 9
+	},
+	{
+		"FormulaName": {
+			"hash": 1485681709
+		},
+		"ProduceMaterial": 122327,
+		"ProduceNumber": 250,
+		"FurnaceLevel": 6,
+		"NeedMaterial_1": 122321,
+		"NeedNumber_1": 300,
+		"NeedMaterial_2": 122322,
+		"NeedNumber_2": 1200,
+		"NeedMaterial_3": 0,
+		"NeedNumber_3": 0,
+		"CostTime": 54000,
+		"MaxUseTimes": 2,
+		"DataImpl": {},
+		"ID": 10
+	},
+	{
+		"FormulaName": {
+			"hash": 1485681710
+		},
+		"ProduceMaterial": 122327,
+		"ProduceNumber": 100,
+		"FurnaceLevel": 7,
+		"NeedMaterial_1": 122321,
+		"NeedNumber_1": 300,
+		"NeedMaterial_2": 122324,
+		"NeedNumber_2": 1200,
+		"NeedMaterial_3": 0,
+		"NeedNumber_3": 0,
+		"CostTime": 64800,
+		"MaxUseTimes": 2,
+		"DataImpl": {},
+		"ID": 11
+	},
+	{
+		"FormulaName": {
+			"hash": 1485681711
+		},
+		"ProduceMaterial": 122327,
+		"ProduceNumber": 200,
+		"FurnaceLevel": 5,
+		"NeedMaterial_1": 122321,
+		"NeedNumber_1": 1200,
+		"NeedMaterial_2": 0,
+		"NeedNumber_2": 0,
+		"NeedMaterial_3": 0,
+		"NeedNumber_3": 0,
+		"CostTime": 79200,
+		"MaxUseTimes": 3,
+		"DataImpl": {},
+		"ID": 12
+	},
+	{
+		"FormulaName": {
+			"hash": 1485681712
+		},
+		"ProduceMaterial": 122327,
+		"ProduceNumber": 150,
+		"FurnaceLevel": 9,
+		"NeedMaterial_1": 122321,
+		"NeedNumber_1": 300,
+		"NeedMaterial_2": 122323,
+		"NeedNumber_2": 1200,
+		"NeedMaterial_3": 0,
+		"NeedNumber_3": 0,
+		"CostTime": 43200,
+		"MaxUseTimes": 2,
+		"DataImpl": {},
+		"ID": 13
+	},
+	{
+		"FormulaName": {
+			"hash": 1485681713
+		},
+		"ProduceMaterial": 122327,
+		"ProduceNumber": 250,
+		"FurnaceLevel": 9,
+		"NeedMaterial_1": 122321,
+		"NeedNumber_1": 300,
+		"NeedMaterial_2": 122322,
+		"NeedNumber_2": 1200,
+		"NeedMaterial_3": 0,
+		"NeedNumber_3": 0,
+		"CostTime": 54000,
+		"MaxUseTimes": 2,
+		"DataImpl": {},
+		"ID": 14
+	},
+	{
+		"FormulaName": {
+			"hash": 1485681714
+		},
+		"ProduceMaterial": 122327,
+		"ProduceNumber": 100,
+		"FurnaceLevel": 10,
+		"NeedMaterial_1": 122321,
+		"NeedNumber_1": 300,
+		"NeedMaterial_2": 122324,
+		"NeedNumber_2": 1200,
+		"NeedMaterial_3": 0,
+		"NeedNumber_3": 0,
+		"CostTime": 64800,
+		"MaxUseTimes": 2,
+		"DataImpl": {},
+		"ID": 15
+	},
+	{
+		"FormulaName": {
+			"hash": 1485681715
+		},
+		"ProduceMaterial": 122327,
+		"ProduceNumber": 200,
+		"FurnaceLevel": 8,
+		"NeedMaterial_1": 122321,
+		"NeedNumber_1": 1200,
+		"NeedMaterial_2": 0,
+		"NeedNumber_2": 0,
+		"NeedMaterial_3": 0,
+		"NeedNumber_3": 0,
+		"CostTime": 79200,
+		"MaxUseTimes": 3,
+		"DataImpl": {},
+		"ID": 16
+	},
+	{
+		"FormulaName": {
+			"hash": 1485681716
+		},
+		"ProduceMaterial": 122327,
+		"ProduceNumber": 150,
+		"FurnaceLevel": 11,
+		"NeedMaterial_1": 122321,
+		"NeedNumber_1": 300,
+		"NeedMaterial_2": 122323,
+		"NeedNumber_2": 1200,
+		"NeedMaterial_3": 0,
+		"NeedNumber_3": 0,
+		"CostTime": 43200,
+		"MaxUseTimes": 2,
+		"DataImpl": {},
+		"ID": 17
+	},
+	{
+		"FormulaName": {
+			"hash": 1485681717
+		},
+		"ProduceMaterial": 122327,
+		"ProduceNumber": 250,
+		"FurnaceLevel": 12,
+		"NeedMaterial_1": 122321,
+		"NeedNumber_1": 300,
+		"NeedMaterial_2": 122322,
+		"NeedNumber_2": 1200,
+		"NeedMaterial_3": 0,
+		"NeedNumber_3": 0,
+		"CostTime": 54000,
+		"MaxUseTimes": 2,
+		"DataImpl": {},
+		"ID": 18
+	},
+	{
+		"FormulaName": {
+			"hash": 1485681718
+		},
+		"ProduceMaterial": 122327,
+		"ProduceNumber": 100,
+		"FurnaceLevel": 11,
+		"NeedMaterial_1": 122321,
+		"NeedNumber_1": 300,
+		"NeedMaterial_2": 122324,
+		"NeedNumber_2": 1200,
+		"NeedMaterial_3": 0,
+		"NeedNumber_3": 0,
+		"CostTime": 64800,
+		"MaxUseTimes": 6,
+		"DataImpl": {},
+		"ID": 19
+	},
+	{
+		"FormulaName": {
+			"hash": 1485681740
+		},
+		"ProduceMaterial": 122327,
+		"ProduceNumber": 200,
+		"FurnaceLevel": 12,
+		"NeedMaterial_1": 122321,
+		"NeedNumber_1": 1200,
+		"NeedMaterial_2": 0,
+		"NeedNumber_2": 0,
+		"NeedMaterial_3": 0,
+		"NeedNumber_3": 0,
+		"CostTime": 79200,
+		"MaxUseTimes": 2,
+		"DataImpl": {},
+		"ID": 20
+	},
+	{
+		"FormulaName": {
+			"hash": 1485681741
+		},
+		"ProduceMaterial": 122327,
+		"ProduceNumber": 150,
+		"FurnaceLevel": 13,
+		"NeedMaterial_1": 122321,
+		"NeedNumber_1": 300,
+		"NeedMaterial_2": 122323,
+		"NeedNumber_2": 1200,
+		"NeedMaterial_3": 0,
+		"NeedNumber_3": 0,
+		"CostTime": 43200,
+		"MaxUseTimes": 3,
+		"DataImpl": {},
+		"ID": 21
+	},
+	{
+		"FormulaName": {
+			"hash": 1485681742
+		},
+		"ProduceMaterial": 122327,
+		"ProduceNumber": 250,
+		"FurnaceLevel": 14,
+		"NeedMaterial_1": 122321,
+		"NeedNumber_1": 300,
+		"NeedMaterial_2": 122322,
+		"NeedNumber_2": 1200,
+		"NeedMaterial_3": 0,
+		"NeedNumber_3": 0,
+		"CostTime": 54000,
+		"MaxUseTimes": 2,
+		"DataImpl": {},
+		"ID": 22
+	},
+	{
+		"FormulaName": {
+			"hash": 1485681743
+		},
+		"ProduceMaterial": 122327,
+		"ProduceNumber": 100,
+		"FurnaceLevel": 13,
+		"NeedMaterial_1": 122321,
+		"NeedNumber_1": 300,
+		"NeedMaterial_2": 122324,
+		"NeedNumber_2": 1200,
+		"NeedMaterial_3": 0,
+		"NeedNumber_3": 0,
+		"CostTime": 64800,
+		"MaxUseTimes": 6,
+		"DataImpl": {},
+		"ID": 23
+	},
+	{
+		"FormulaName": {
+			"hash": 1485681744
+		},
+		"ProduceMaterial": 122327,
+		"ProduceNumber": 200,
+		"FurnaceLevel": 14,
+		"NeedMaterial_1": 122321,
+		"NeedNumber_1": 1200,
+		"NeedMaterial_2": 0,
+		"NeedNumber_2": 0,
+		"NeedMaterial_3": 0,
+		"NeedNumber_3": 0,
+		"CostTime": 79200,
+		"MaxUseTimes": 2,
+		"DataImpl": {},
+		"ID": 24
+	},
+	{
+		"FormulaName": {
+			"hash": 1485681745
+		},
+		"ProduceMaterial": 122327,
+		"ProduceNumber": 150,
+		"FurnaceLevel": 15,
+		"NeedMaterial_1": 122321,
+		"NeedNumber_1": 300,
+		"NeedMaterial_2": 122323,
+		"NeedNumber_2": 1200,
+		"NeedMaterial_3": 0,
+		"NeedNumber_3": 0,
+		"CostTime": 43200,
+		"MaxUseTimes": 3,
+		"DataImpl": {},
+		"ID": 25
+	},
+	{
+		"FormulaName": {
+			"hash": 1485681746
+		},
+		"ProduceMaterial": 122327,
+		"ProduceNumber": 100,
+		"FurnaceLevel": 15,
+		"NeedMaterial_1": 122321,
+		"NeedNumber_1": 300,
+		"NeedMaterial_2": 122324,
+		"NeedNumber_2": 1200,
+		"NeedMaterial_3": 0,
+		"NeedNumber_3": 0,
+		"CostTime": 64800,
+		"MaxUseTimes": 4,
+		"DataImpl": {},
+		"ID": 26
+	},
+	{
+		"FormulaName": {
+			"hash": 1485681747
+		},
+		"ProduceMaterial": 122327,
+		"ProduceNumber": 200,
+		"FurnaceLevel": 15,
+		"NeedMaterial_1": 122321,
+		"NeedNumber_1": 1200,
+		"NeedMaterial_2": 0,
+		"NeedNumber_2": 0,
+		"NeedMaterial_3": 0,
+		"NeedNumber_3": 0,
+		"CostTime": 79200,
+		"MaxUseTimes": 2,
+		"DataImpl": {},
+		"ID": 27
+	}
+]

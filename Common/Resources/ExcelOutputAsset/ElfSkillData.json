@@ -1,0 +1,4906 @@
+[
+	{
+		"ElfID": 101,
+		"Name": {
+			"hash": 1178393178
+		},
+		"Info": {
+			"hash": 1991438071
+		},
+		"SkillTypeTag": {
+			"hash": -2000458111
+		},
+		"MaxLv": 1,
+		"SkillType": 1,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Attack_101",
+		"IconType": 1,
+		"UnlockStar": 1,
+		"UIPointRow": 1,
+		"UIPointColumn": 1,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 8,
+		"AbilityParamAdd_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 10101
+	},
+	{
+		"ElfID": 101,
+		"Name": {
+			"hash": 1178393179
+		},
+		"Info": {
+			"hash": 1991438072
+		},
+		"SkillTypeTag": {
+			"hash": -2000458112
+		},
+		"MaxLv": 1,
+		"SkillType": 0,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Ultra",
+		"IconType": 1,
+		"UnlockStar": 1,
+		"UIPointRow": 2,
+		"UIPointColumn": 1,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 1,
+		"AbilityParamAdd_1": 0,
+		"AbilityParamBase_2": 3000,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 10102
+	},
+	{
+		"ElfID": 101,
+		"Name": {
+			"hash": 1178393180
+		},
+		"Info": {
+			"hash": 1991438073
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 1,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Passive",
+		"IconType": 1,
+		"UnlockStar": 1,
+		"UIPointRow": 3,
+		"UIPointColumn": 1,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.5,
+		"AbilityParamAdd_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 10103
+	},
+	{
+		"ElfID": 102,
+		"Name": {
+			"hash": 1178394139
+		},
+		"Info": {
+			"hash": 1991439032
+		},
+		"SkillTypeTag": {
+			"hash": -2000458111
+		},
+		"MaxLv": 1,
+		"SkillType": 1,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Attack_102",
+		"IconType": 1,
+		"UnlockStar": 1,
+		"UIPointRow": 1,
+		"UIPointColumn": 1,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 5,
+		"AbilityParamAdd_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 10201
+	},
+	{
+		"ElfID": 102,
+		"Name": {
+			"hash": 1178394140
+		},
+		"Info": {
+			"hash": 1991439033
+		},
+		"SkillTypeTag": {
+			"hash": -2000458112
+		},
+		"MaxLv": 1,
+		"SkillType": 0,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Ultra",
+		"IconType": 1,
+		"UnlockStar": 1,
+		"UIPointRow": 2,
+		"UIPointColumn": 1,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 100,
+		"AbilityParamAdd_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 10202
+	},
+	{
+		"ElfID": 102,
+		"Name": {
+			"hash": 1178394141
+		},
+		"Info": {
+			"hash": 1991439034
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 4,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Passive",
+		"IconType": 1,
+		"UnlockStar": 1,
+		"UIPointRow": 3,
+		"UIPointColumn": 1,
+		"TagList": [],
+		"IconSpecial": 1,
+		"AbilityParamBase_1": 0.11,
+		"AbilityParamAdd_1": 0.03,
+		"AbilityParamBase_2": 0.15,
+		"AbilityParamAdd_2": 0.05,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 10203
+	},
+	{
+		"ElfID": 103,
+		"Name": {
+			"hash": 1178395100
+		},
+		"Info": {
+			"hash": 1991439993
+		},
+		"SkillTypeTag": {
+			"hash": -2000458111
+		},
+		"MaxLv": 1,
+		"SkillType": 1,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Attack_103",
+		"IconType": 1,
+		"UnlockStar": 1,
+		"UIPointRow": 1,
+		"UIPointColumn": 1,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 8,
+		"AbilityParamAdd_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 10301
+	},
+	{
+		"ElfID": 103,
+		"Name": {
+			"hash": 1178395101
+		},
+		"Info": {
+			"hash": 1991439994
+		},
+		"SkillTypeTag": {
+			"hash": -2000458112
+		},
+		"MaxLv": 1,
+		"SkillType": 0,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Ultra",
+		"IconType": 1,
+		"UnlockStar": 1,
+		"UIPointRow": 2,
+		"UIPointColumn": 1,
+		"TagList": [
+			{
+				"TagID": 1007,
+				"TagComment": {
+					"hash": 448769663
+				}
+			}
+		],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 8,
+		"AbilityParamAdd_1": 0,
+		"AbilityParamBase_2": 8,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 10302
+	},
+	{
+		"ElfID": 103,
+		"Name": {
+			"hash": 1178395102
+		},
+		"Info": {
+			"hash": 1991439995
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 1,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Passive",
+		"IconType": 1,
+		"UnlockStar": 1,
+		"UIPointRow": 3,
+		"UIPointColumn": 1,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.4,
+		"AbilityParamAdd_1": 0,
+		"AbilityParamBase_2": 10,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 10303
+	},
+	{
+		"ElfID": 103,
+		"Name": {
+			"hash": 1178395103
+		},
+		"Info": {
+			"hash": 1991439996
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Attack_Up",
+		"IconType": 2,
+		"UnlockStar": 4,
+		"UIPointRow": 1,
+		"UIPointColumn": 2,
+		"TagList": [],
+		"IconSpecial": 1,
+		"AbilityParamBase_1": 0.03,
+		"AbilityParamAdd_1": 0.0075,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 10304
+	},
+	{
+		"ElfID": 103,
+		"Name": {
+			"hash": 1178395104
+		},
+		"Info": {
+			"hash": 1991439997
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Attack_Freeze",
+		"IconType": 2,
+		"UnlockStar": 7,
+		"UIPointRow": 1,
+		"UIPointColumn": 3,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.8,
+		"AbilityParamAdd_1": 0.175,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 10305
+	},
+	{
+		"ElfID": 103,
+		"Name": {
+			"hash": 1178395105
+		},
+		"Info": {
+			"hash": 1991439998
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Freeze",
+		"IconType": 2,
+		"UnlockStar": 4,
+		"UIPointRow": 2,
+		"UIPointColumn": 2,
+		"TagList": [],
+		"IconSpecial": 1,
+		"AbilityParamBase_1": 4,
+		"AbilityParamAdd_1": 0.5,
+		"AbilityParamBase_2": 1.5,
+		"AbilityParamAdd_2": 0.25,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 10306
+	},
+	{
+		"ElfID": 103,
+		"Name": {
+			"hash": 1178395106
+		},
+		"Info": {
+			"hash": 1991439999
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Ultra_Up",
+		"IconType": 2,
+		"UnlockStar": 7,
+		"UIPointRow": 2,
+		"UIPointColumn": 3,
+		"TagList": [],
+		"IconSpecial": 1,
+		"AbilityParamBase_1": 0.12,
+		"AbilityParamAdd_1": 0.0325,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 10307
+	},
+	{
+		"ElfID": 103,
+		"Name": {
+			"hash": 1178395107
+		},
+		"Info": {
+			"hash": 1991440000
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Attack",
+		"IconType": 2,
+		"UnlockStar": 2,
+		"UIPointRow": 3,
+		"UIPointColumn": 2,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.06,
+		"AbilityParamAdd_1": 0.0225,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 10308
+	},
+	{
+		"ElfID": 103,
+		"Name": {
+			"hash": 1178395108
+		},
+		"Info": {
+			"hash": 1991440001
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Freeze_Vulnerability",
+		"IconType": 2,
+		"UnlockStar": 7,
+		"UIPointRow": 3,
+		"UIPointColumn": 3,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.06,
+		"AbilityParamAdd_1": 0.01,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 10309
+	},
+	{
+		"ElfID": 103,
+		"Name": {
+			"hash": 1178395130
+		},
+		"Info": {
+			"hash": 1991440023
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 4,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_SP_Up",
+		"IconType": 1,
+		"UnlockStar": 1,
+		"UIPointRow": 4,
+		"UIPointColumn": 1,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.06,
+		"AbilityParamAdd_1": 0.02,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 10310
+	},
+	{
+		"ElfID": 103,
+		"Name": {
+			"hash": 1178395131
+		},
+		"Info": {
+			"hash": 1991440024
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 4,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_CD_Down",
+		"IconType": 2,
+		"UnlockStar": 1,
+		"UIPointRow": 4,
+		"UIPointColumn": 2,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.15,
+		"AbilityParamAdd_1": 0.05,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 10311
+	},
+	{
+		"ElfID": 103,
+		"Name": {
+			"hash": 1178395132
+		},
+		"Info": {
+			"hash": 1991440025
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 4,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_SP_Initial_UP",
+		"IconType": 2,
+		"UnlockStar": 1,
+		"UIPointRow": 4,
+		"UIPointColumn": 3,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 20,
+		"AbilityParamAdd_1": 6.666667,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 10312
+	},
+	{
+		"ElfID": 103,
+		"Name": {
+			"hash": 1178395133
+		},
+		"Info": {
+			"hash": 1991440026
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 4,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Attack",
+		"IconType": 2,
+		"UnlockStar": 4,
+		"UIPointRow": 4,
+		"UIPointColumn": 4,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.05,
+		"AbilityParamAdd_1": 0.016667,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 10313
+	},
+	{
+		"ElfID": 103,
+		"Name": {
+			"hash": 1178395134
+		},
+		"Info": {
+			"hash": 1991440027
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 4,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Attack",
+		"IconType": 2,
+		"UnlockStar": 7,
+		"UIPointRow": 3,
+		"UIPointColumn": 4,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.06,
+		"AbilityParamAdd_1": 0.02,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 10314
+	},
+	{
+		"ElfID": 106,
+		"Name": {
+			"hash": 1178397983
+		},
+		"Info": {
+			"hash": 1991442876
+		},
+		"SkillTypeTag": {
+			"hash": -2000458111
+		},
+		"MaxLv": 1,
+		"SkillType": 1,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Attack_106",
+		"IconType": 1,
+		"UnlockStar": 1,
+		"UIPointRow": 1,
+		"UIPointColumn": 1,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0,
+		"AbilityParamAdd_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 10601
+	},
+	{
+		"ElfID": 106,
+		"Name": {
+			"hash": 1178397984
+		},
+		"Info": {
+			"hash": 1991442877
+		},
+		"SkillTypeTag": {
+			"hash": -2000458112
+		},
+		"MaxLv": 1,
+		"SkillType": 0,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Ultra",
+		"IconType": 1,
+		"UnlockStar": 1,
+		"UIPointRow": 2,
+		"UIPointColumn": 1,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.1,
+		"AbilityParamAdd_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 10602
+	},
+	{
+		"ElfID": 106,
+		"Name": {
+			"hash": 1178397985
+		},
+		"Info": {
+			"hash": 1991442878
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 1,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Attack",
+		"IconType": 1,
+		"UnlockStar": 2,
+		"UIPointRow": 3,
+		"UIPointColumn": 1,
+		"TagList": [],
+		"IconSpecial": 1,
+		"AbilityParamBase_1": 0.09,
+		"AbilityParamAdd_1": 0,
+		"AbilityParamBase_2": 0.06,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 10603
+	},
+	{
+		"ElfID": 106,
+		"Name": {
+			"hash": 1178397986
+		},
+		"Info": {
+			"hash": 1991442879
+		},
+		"SkillTypeTag": {
+			"hash": -2000458109
+		},
+		"MaxLv": 4,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Attack",
+		"IconType": 1,
+		"UnlockStar": 2,
+		"UIPointRow": 4,
+		"UIPointColumn": 1,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.04,
+		"AbilityParamAdd_1": 0.013333,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 10604
+	},
+	{
+		"ElfID": 108,
+		"Name": {
+			"hash": 1178399905
+		},
+		"Info": {
+			"hash": 1991444798
+		},
+		"SkillTypeTag": {
+			"hash": -2000458111
+		},
+		"MaxLv": 1,
+		"SkillType": 1,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Attack_106",
+		"IconType": 1,
+		"UnlockStar": 1,
+		"UIPointRow": 1,
+		"UIPointColumn": 1,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 4,
+		"AbilityParamAdd_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 10801
+	},
+	{
+		"ElfID": 108,
+		"Name": {
+			"hash": 1178399906
+		},
+		"Info": {
+			"hash": 1991444799
+		},
+		"SkillTypeTag": {
+			"hash": -2000458112
+		},
+		"MaxLv": 1,
+		"SkillType": 0,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Ultra",
+		"IconType": 1,
+		"UnlockStar": 1,
+		"UIPointRow": 2,
+		"UIPointColumn": 1,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 1,
+		"AbilityParamAdd_1": 0,
+		"AbilityParamBase_2": 0.12,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 10802
+	},
+	{
+		"ElfID": 108,
+		"Name": {
+			"hash": 1178399907
+		},
+		"Info": {
+			"hash": 1991444800
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 1,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Passive",
+		"IconType": 1,
+		"UnlockStar": 1,
+		"UIPointRow": 3,
+		"UIPointColumn": 1,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.03,
+		"AbilityParamAdd_1": 0,
+		"AbilityParamBase_2": 0.02,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 1,
+		"DataImpl": {},
+		"ElfSkillID": 10803
+	},
+	{
+		"ElfID": 108,
+		"Name": {
+			"hash": 1178399908
+		},
+		"Info": {
+			"hash": 1991444801
+		},
+		"SkillTypeTag": {
+			"hash": -2000458112
+		},
+		"MaxLv": 1,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_QTE",
+		"IconType": 1,
+		"UnlockStar": 1,
+		"UIPointRow": 4,
+		"UIPointColumn": 1,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 18,
+		"AbilityParamAdd_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 10804
+	},
+	{
+		"ElfID": 109,
+		"Name": {
+			"hash": 1178400866
+		},
+		"Info": {
+			"hash": 1991445759
+		},
+		"SkillTypeTag": {
+			"hash": -2000458111
+		},
+		"MaxLv": 1,
+		"SkillType": 1,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Attack_106",
+		"IconType": 1,
+		"UnlockStar": 1,
+		"UIPointRow": 1,
+		"UIPointColumn": 1,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 1.85,
+		"AbilityParamAdd_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 10901
+	},
+	{
+		"ElfID": 109,
+		"Name": {
+			"hash": 1178400867
+		},
+		"Info": {
+			"hash": 1991445760
+		},
+		"SkillTypeTag": {
+			"hash": -2000458112
+		},
+		"MaxLv": 1,
+		"SkillType": 0,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Ultra",
+		"IconType": 1,
+		"UnlockStar": 1,
+		"UIPointRow": 2,
+		"UIPointColumn": 1,
+		"TagList": [
+			{
+				"TagID": 1008,
+				"TagComment": {
+					"hash": 2043814318
+				}
+			}
+		],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.08,
+		"AbilityParamAdd_1": 0,
+		"AbilityParamBase_2": 1,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 10902
+	},
+	{
+		"ElfID": 109,
+		"Name": {
+			"hash": 1178400868
+		},
+		"Info": {
+			"hash": 1991445761
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 1,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Passive",
+		"IconType": 1,
+		"UnlockStar": 1,
+		"UIPointRow": 3,
+		"UIPointColumn": 1,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.08,
+		"AbilityParamAdd_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 10903
+	},
+	{
+		"ElfID": 109,
+		"Name": {
+			"hash": 1178400869
+		},
+		"Info": {
+			"hash": 1991445762
+		},
+		"SkillTypeTag": {
+			"hash": -2000458109
+		},
+		"MaxLv": 1,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Heal",
+		"IconType": 1,
+		"UnlockStar": 1,
+		"UIPointRow": 4,
+		"UIPointColumn": 1,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 300,
+		"AbilityParamAdd_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 10904
+	},
+	{
+		"ElfID": 110,
+		"Name": {
+			"hash": 1178422008
+		},
+		"Info": {
+			"hash": 1991466901
+		},
+		"SkillTypeTag": {
+			"hash": -2000458111
+		},
+		"MaxLv": 1,
+		"SkillType": 1,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Attack_106",
+		"IconType": 1,
+		"UnlockStar": 1,
+		"UIPointRow": 1,
+		"UIPointColumn": 1,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 1,
+		"AbilityParamAdd_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 11001
+	},
+	{
+		"ElfID": 110,
+		"Name": {
+			"hash": 1178422009
+		},
+		"Info": {
+			"hash": 1991466902
+		},
+		"SkillTypeTag": {
+			"hash": -2000458112
+		},
+		"MaxLv": 1,
+		"SkillType": 0,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Ultra",
+		"IconType": 1,
+		"UnlockStar": 1,
+		"UIPointRow": 2,
+		"UIPointColumn": 1,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.1,
+		"AbilityParamAdd_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 11002
+	},
+	{
+		"ElfID": 110,
+		"Name": {
+			"hash": 1178422010
+		},
+		"Info": {
+			"hash": 1991466903
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 1,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Attack_Up",
+		"IconType": 1,
+		"UnlockStar": 1,
+		"UIPointRow": 3,
+		"UIPointColumn": 1,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.08,
+		"AbilityParamAdd_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 11003
+	},
+	{
+		"ElfID": 110,
+		"Name": {
+			"hash": 1178422011
+		},
+		"Info": {
+			"hash": 1991466904
+		},
+		"SkillTypeTag": {
+			"hash": -2000458109
+		},
+		"MaxLv": 1,
+		"SkillType": 3,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_QTE",
+		"IconType": 1,
+		"UnlockStar": 1,
+		"UIPointRow": 4,
+		"UIPointColumn": 1,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 8,
+		"AbilityParamAdd_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 11004
+	},
+	{
+		"ElfID": 111,
+		"Name": {
+			"hash": 1178451799
+		},
+		"Info": {
+			"hash": 1991496692
+		},
+		"SkillTypeTag": {
+			"hash": -2000458111
+		},
+		"MaxLv": 1,
+		"SkillType": 1,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Attack_111",
+		"IconType": 1,
+		"UnlockStar": 1,
+		"UIPointRow": 1,
+		"UIPointColumn": 1,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 1,
+		"AbilityParamAdd_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 12001
+	},
+	{
+		"ElfID": 111,
+		"Name": {
+			"hash": 1178451800
+		},
+		"Info": {
+			"hash": 1991496693
+		},
+		"SkillTypeTag": {
+			"hash": -2000458112
+		},
+		"MaxLv": 1,
+		"SkillType": 0,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Ultra",
+		"IconType": 1,
+		"UnlockStar": 1,
+		"UIPointRow": 2,
+		"UIPointColumn": 1,
+		"TagList": [],
+		"IconSpecial": 1,
+		"AbilityParamBase_1": 0.1,
+		"AbilityParamAdd_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 12002
+	},
+	{
+		"ElfID": 111,
+		"Name": {
+			"hash": 1178451801
+		},
+		"Info": {
+			"hash": 1991496694
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 1,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Ultra_Heal",
+		"IconType": 1,
+		"UnlockStar": 1,
+		"UIPointRow": 3,
+		"UIPointColumn": 1,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 1,
+		"AbilityParamAdd_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 12003
+	},
+	{
+		"ElfID": 111,
+		"Name": {
+			"hash": 1178451802
+		},
+		"Info": {
+			"hash": 1991496695
+		},
+		"SkillTypeTag": {
+			"hash": -2000458109
+		},
+		"MaxLv": 1,
+		"SkillType": 3,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_QTE",
+		"IconType": 1,
+		"UnlockStar": 1,
+		"UIPointRow": 4,
+		"UIPointColumn": 1,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 1,
+		"AbilityParamAdd_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 12004
+	},
+	{
+		"ElfID": 112,
+		"Name": {
+			"hash": 1178481590
+		},
+		"Info": {
+			"hash": 1991526483
+		},
+		"SkillTypeTag": {
+			"hash": -2000458111
+		},
+		"MaxLv": 1,
+		"SkillType": 1,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_QTE",
+		"IconType": 1,
+		"UnlockStar": 1,
+		"UIPointRow": 1,
+		"UIPointColumn": 1,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 1,
+		"AbilityParamAdd_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 13001
+	},
+	{
+		"ElfID": 112,
+		"Name": {
+			"hash": 1178481591
+		},
+		"Info": {
+			"hash": 1991526484
+		},
+		"SkillTypeTag": {
+			"hash": -2000458112
+		},
+		"MaxLv": 1,
+		"SkillType": 0,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Ultra",
+		"IconType": 1,
+		"UnlockStar": 1,
+		"UIPointRow": 2,
+		"UIPointColumn": 1,
+		"TagList": [],
+		"IconSpecial": 1,
+		"AbilityParamBase_1": 0.1,
+		"AbilityParamAdd_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 13002
+	},
+	{
+		"ElfID": 112,
+		"Name": {
+			"hash": 1178481592
+		},
+		"Info": {
+			"hash": 1991526485
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 1,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Team_UP",
+		"IconType": 1,
+		"UnlockStar": 1,
+		"UIPointRow": 3,
+		"UIPointColumn": 1,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 1,
+		"AbilityParamAdd_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 13003
+	},
+	{
+		"ElfID": 112,
+		"Name": {
+			"hash": 1178481593
+		},
+		"Info": {
+			"hash": 1991526486
+		},
+		"SkillTypeTag": {
+			"hash": -2000458109
+		},
+		"MaxLv": 1,
+		"SkillType": 3,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Force",
+		"IconType": 1,
+		"UnlockStar": 1,
+		"UIPointRow": 4,
+		"UIPointColumn": 1,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 1,
+		"AbilityParamAdd_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 13004
+	},
+	{
+		"ElfID": 113,
+		"Name": {
+			"hash": 1178511381
+		},
+		"Info": {
+			"hash": 1991556274
+		},
+		"SkillTypeTag": {
+			"hash": -2000458111
+		},
+		"MaxLv": 1,
+		"SkillType": 1,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Attack_113",
+		"IconType": 1,
+		"UnlockStar": 1,
+		"UIPointRow": 1,
+		"UIPointColumn": 1,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.85,
+		"AbilityParamAdd_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 14001
+	},
+	{
+		"ElfID": 113,
+		"Name": {
+			"hash": 1178511382
+		},
+		"Info": {
+			"hash": 1991556275
+		},
+		"SkillTypeTag": {
+			"hash": -2000458112
+		},
+		"MaxLv": 1,
+		"SkillType": 0,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Ultra",
+		"IconType": 1,
+		"UnlockStar": 1,
+		"UIPointRow": 2,
+		"UIPointColumn": 1,
+		"TagList": [],
+		"IconSpecial": 1,
+		"AbilityParamBase_1": 0.01,
+		"AbilityParamAdd_1": 0,
+		"AbilityParamBase_2": 6,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 18,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 14002
+	},
+	{
+		"ElfID": 113,
+		"Name": {
+			"hash": 1178511383
+		},
+		"Info": {
+			"hash": 1991556276
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 1,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_QTE",
+		"IconType": 1,
+		"UnlockStar": 1,
+		"UIPointRow": 3,
+		"UIPointColumn": 1,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.02,
+		"AbilityParamAdd_1": 0,
+		"AbilityParamBase_2": 2,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 8,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 14003
+	},
+	{
+		"ElfID": 113,
+		"Name": {
+			"hash": 1178511384
+		},
+		"Info": {
+			"hash": 1991556277
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 1,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_SP_Initial_UP",
+		"IconType": 1,
+		"UnlockStar": 1,
+		"UIPointRow": 4,
+		"UIPointColumn": 1,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 50,
+		"AbilityParamAdd_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 14004
+	},
+	{
+		"ElfID": 114,
+		"Name": {
+			"hash": 1178541172
+		},
+		"Info": {
+			"hash": 1991586065
+		},
+		"SkillTypeTag": {
+			"hash": -2000458111
+		},
+		"MaxLv": 1,
+		"SkillType": 1,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Attack_114",
+		"IconType": 1,
+		"UnlockStar": 1,
+		"UIPointRow": 1,
+		"UIPointColumn": 1,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 2.5,
+		"AbilityParamAdd_1": 0,
+		"AbilityParamBase_2": 2.5,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 15001
+	},
+	{
+		"ElfID": 114,
+		"Name": {
+			"hash": 1178541173
+		},
+		"Info": {
+			"hash": 1991586066
+		},
+		"SkillTypeTag": {
+			"hash": -2000458112
+		},
+		"MaxLv": 1,
+		"SkillType": 0,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Ultra",
+		"IconType": 1,
+		"UnlockStar": 1,
+		"UIPointRow": 2,
+		"UIPointColumn": 1,
+		"TagList": [],
+		"IconSpecial": 1,
+		"AbilityParamBase_1": 0.15,
+		"AbilityParamAdd_1": 0,
+		"AbilityParamBase_2": 10,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 30,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 15002
+	},
+	{
+		"ElfID": 114,
+		"Name": {
+			"hash": 1178541174
+		},
+		"Info": {
+			"hash": 1991586067
+		},
+		"SkillTypeTag": {
+			"hash": -2000458109
+		},
+		"MaxLv": 1,
+		"SkillType": 3,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Team_UP",
+		"IconType": 1,
+		"UnlockStar": 1,
+		"UIPointRow": 3,
+		"UIPointColumn": 1,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 8.5,
+		"AbilityParamAdd_1": 0,
+		"AbilityParamBase_2": 20,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 15003
+	},
+	{
+		"ElfID": 114,
+		"Name": {
+			"hash": 1178541175
+		},
+		"Info": {
+			"hash": 1991586068
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 1,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Force",
+		"IconType": 1,
+		"UnlockStar": 1,
+		"UIPointRow": 4,
+		"UIPointColumn": 1,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.1,
+		"AbilityParamAdd_1": 0,
+		"AbilityParamBase_2": 0.15,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 15004
+	},
+	{
+		"ElfID": 115,
+		"Name": {
+			"hash": 1178570963
+		},
+		"Info": {
+			"hash": 1991615856
+		},
+		"SkillTypeTag": {
+			"hash": -2000458111
+		},
+		"MaxLv": 1,
+		"SkillType": 1,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Attack_115",
+		"IconType": 1,
+		"UnlockStar": 1,
+		"UIPointRow": 1,
+		"UIPointColumn": 1,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 2.5,
+		"AbilityParamAdd_1": 0,
+		"AbilityParamBase_2": 8.5,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 1.5,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 16001
+	},
+	{
+		"ElfID": 115,
+		"Name": {
+			"hash": 1178570964
+		},
+		"Info": {
+			"hash": 1991615857
+		},
+		"SkillTypeTag": {
+			"hash": -2000458112
+		},
+		"MaxLv": 1,
+		"SkillType": 0,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Ultra_115",
+		"IconType": 1,
+		"UnlockStar": 1,
+		"UIPointRow": 2,
+		"UIPointColumn": 1,
+		"TagList": [],
+		"IconSpecial": 1,
+		"AbilityParamBase_1": 9,
+		"AbilityParamAdd_1": 0,
+		"AbilityParamBase_2": 12,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0.12,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 16002
+	},
+	{
+		"ElfID": 115,
+		"Name": {
+			"hash": 1178570965
+		},
+		"Info": {
+			"hash": 1991615858
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 1,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Team_UP",
+		"IconType": 1,
+		"UnlockStar": 1,
+		"UIPointRow": 3,
+		"UIPointColumn": 1,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.3,
+		"AbilityParamAdd_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 16003
+	},
+	{
+		"ElfID": 115,
+		"Name": {
+			"hash": 1178570966
+		},
+		"Info": {
+			"hash": 1991615859
+		},
+		"SkillTypeTag": {
+			"hash": -2000458109
+		},
+		"MaxLv": 1,
+		"SkillType": 3,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Force",
+		"IconType": 1,
+		"UnlockStar": 1,
+		"UIPointRow": 4,
+		"UIPointColumn": 1,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 9,
+		"AbilityParamAdd_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 16004
+	},
+	{
+		"ElfID": 101,
+		"Name": {
+			"hash": -2124517097
+		},
+		"Info": {
+			"hash": 1605038106
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 6,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Attack_Up",
+		"IconType": 2,
+		"UnlockStar": 4,
+		"UIPointRow": 1,
+		"UIPointColumn": 2,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 1.5,
+		"AbilityParamAdd_1": 0.3,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 101011
+	},
+	{
+		"ElfID": 101,
+		"Name": {
+			"hash": -2124517066
+		},
+		"Info": {
+			"hash": 1605038137
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 3,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Ultra_Strong",
+		"IconType": 2,
+		"UnlockStar": 4,
+		"UIPointRow": 2,
+		"UIPointColumn": 2,
+		"TagList": [],
+		"IconSpecial": 1,
+		"AbilityParamBase_1": 0.15,
+		"AbilityParamAdd_1": 0.075,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 101021
+	},
+	{
+		"ElfID": 101,
+		"Name": {
+			"hash": -2124517065
+		},
+		"Info": {
+			"hash": 1605038138
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 6,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Ultra_Strong",
+		"IconType": 2,
+		"UnlockStar": 7,
+		"UIPointRow": 2,
+		"UIPointColumn": 3,
+		"TagList": [],
+		"IconSpecial": 1,
+		"AbilityParamBase_1": 0.15,
+		"AbilityParamAdd_1": 0.03,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 101022
+	},
+	{
+		"ElfID": 101,
+		"Name": {
+			"hash": -2124517035
+		},
+		"Info": {
+			"hash": 1605038168
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 6,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Attack_BreakShield",
+		"IconType": 2,
+		"UnlockStar": 7,
+		"UIPointRow": 3,
+		"UIPointColumn": 2,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.1,
+		"AbilityParamAdd_1": 0.02,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 101031
+	},
+	{
+		"ElfID": 101,
+		"Name": {
+			"hash": -2124517034
+		},
+		"Info": {
+			"hash": 1605038169
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 4,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_SP_Initial_UP",
+		"IconType": 1,
+		"UnlockStar": 1,
+		"UIPointRow": 4,
+		"UIPointColumn": 1,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 20,
+		"AbilityParamAdd_1": 6.666667,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 101032
+	},
+	{
+		"ElfID": 101,
+		"Name": {
+			"hash": -2124517033
+		},
+		"Info": {
+			"hash": 1605038170
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 4,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Attack",
+		"IconType": 2,
+		"UnlockStar": 1,
+		"UIPointRow": 4,
+		"UIPointColumn": 2,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.06,
+		"AbilityParamAdd_1": 0.02,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 101033
+	},
+	{
+		"ElfID": 101,
+		"Name": {
+			"hash": -2124517032
+		},
+		"Info": {
+			"hash": 1605038171
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 4,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_BreakShield",
+		"IconType": 2,
+		"UnlockStar": 2,
+		"UIPointRow": 4,
+		"UIPointColumn": 3,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.15,
+		"AbilityParamAdd_1": 0.05,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 101034
+	},
+	{
+		"ElfID": 101,
+		"Name": {
+			"hash": -2124517031
+		},
+		"Info": {
+			"hash": 1605038172
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 4,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Attack",
+		"IconType": 2,
+		"UnlockStar": 4,
+		"UIPointRow": 4,
+		"UIPointColumn": 4,
+		"TagList": [],
+		"IconSpecial": 1,
+		"AbilityParamBase_1": 0.05,
+		"AbilityParamAdd_1": 0.016667,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 101035
+	},
+	{
+		"ElfID": 102,
+		"Name": {
+			"hash": -2124487306
+		},
+		"Info": {
+			"hash": 1605067897
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Attack_Up",
+		"IconType": 2,
+		"UnlockStar": 1,
+		"UIPointRow": 1,
+		"UIPointColumn": 2,
+		"TagList": [],
+		"IconSpecial": 1,
+		"AbilityParamBase_1": 0.12,
+		"AbilityParamAdd_1": 0.0325,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 102011
+	},
+	{
+		"ElfID": 102,
+		"Name": {
+			"hash": -2124487244
+		},
+		"Info": {
+			"hash": 1605067959
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 6,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Ultra_Heal",
+		"IconType": 1,
+		"UnlockStar": 2,
+		"UIPointRow": 4,
+		"UIPointColumn": 1,
+		"TagList": [],
+		"IconSpecial": 1,
+		"AbilityParamBase_1": 135,
+		"AbilityParamAdd_1": 27,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 102031
+	},
+	{
+		"ElfID": 102,
+		"Name": {
+			"hash": -2124487243
+		},
+		"Info": {
+			"hash": 1605067960
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 6,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Heal",
+		"IconType": 2,
+		"UnlockStar": 2,
+		"UIPointRow": 4,
+		"UIPointColumn": 2,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.12,
+		"AbilityParamAdd_1": 0.024,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 102032
+	},
+	{
+		"ElfID": 102,
+		"Name": {
+			"hash": -2124487242
+		},
+		"Info": {
+			"hash": 1605067961
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 6,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_SP_Up",
+		"IconType": 2,
+		"UnlockStar": 2,
+		"UIPointRow": 4,
+		"UIPointColumn": 3,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 2.5,
+		"AbilityParamAdd_1": 0.5,
+		"AbilityParamBase_2": 6,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 102033
+	},
+	{
+		"ElfID": 102,
+		"Name": {
+			"hash": -2124487241
+		},
+		"Info": {
+			"hash": 1605067962
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 6,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_SP_Up",
+		"IconType": 2,
+		"UnlockStar": 4,
+		"UIPointRow": 4,
+		"UIPointColumn": 4,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.06,
+		"AbilityParamAdd_1": 0.012,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 102034
+	},
+	{
+		"ElfID": 106,
+		"Name": {
+			"hash": -2124368142
+		},
+		"Info": {
+			"hash": 1605187061
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_SP_Up",
+		"IconType": 2,
+		"UnlockStar": 1,
+		"UIPointRow": 1,
+		"UIPointColumn": 2,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 5,
+		"AbilityParamAdd_1": 1.25,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 106011
+	},
+	{
+		"ElfID": 106,
+		"Name": {
+			"hash": -2124368141
+		},
+		"Info": {
+			"hash": 1605187062
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 3,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Burn",
+		"IconType": 2,
+		"UnlockStar": 1,
+		"UIPointRow": 1,
+		"UIPointColumn": 3,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.09,
+		"AbilityParamAdd_1": 0.045,
+		"AbilityParamBase_2": 1,
+		"AbilityParamAdd_2": 0.5,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 106012
+	},
+	{
+		"ElfID": 106,
+		"Name": {
+			"hash": -2124368140
+		},
+		"Info": {
+			"hash": 1605187063
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Attack_Up",
+		"IconType": 2,
+		"UnlockStar": 1,
+		"UIPointRow": 1,
+		"UIPointColumn": 4,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.06,
+		"AbilityParamAdd_1": 0.0225,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 106013
+	},
+	{
+		"ElfID": 106,
+		"Name": {
+			"hash": -2124368111
+		},
+		"Info": {
+			"hash": 1605187092
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 3,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_QTE",
+		"IconType": 2,
+		"UnlockStar": 2,
+		"UIPointRow": 2,
+		"UIPointColumn": 2,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.07,
+		"AbilityParamAdd_1": 0.04,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 106021
+	},
+	{
+		"ElfID": 106,
+		"Name": {
+			"hash": -2124368110
+		},
+		"Info": {
+			"hash": 1605187093
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Attack",
+		"IconType": 2,
+		"UnlockStar": 4,
+		"UIPointRow": 2,
+		"UIPointColumn": 3,
+		"TagList": [],
+		"IconSpecial": 1,
+		"AbilityParamBase_1": 0.05,
+		"AbilityParamAdd_1": 0.0125,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 106022
+	},
+	{
+		"ElfID": 106,
+		"Name": {
+			"hash": -2124368080
+		},
+		"Info": {
+			"hash": 1605187123
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_SP_Initial_UP",
+		"IconType": 2,
+		"UnlockStar": 2,
+		"UIPointRow": 3,
+		"UIPointColumn": 2,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 8,
+		"AbilityParamAdd_1": 8,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 106031
+	},
+	{
+		"ElfID": 106,
+		"Name": {
+			"hash": -2124368079
+		},
+		"Info": {
+			"hash": 1605187124
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Attack",
+		"IconType": 2,
+		"UnlockStar": 4,
+		"UIPointRow": 3,
+		"UIPointColumn": 3,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.07,
+		"AbilityParamAdd_1": 0.02,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 106032
+	},
+	{
+		"ElfID": 106,
+		"Name": {
+			"hash": -2124368078
+		},
+		"Info": {
+			"hash": 1605187125
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 6,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Team_UP",
+		"IconType": 2,
+		"UnlockStar": 7,
+		"UIPointRow": 3,
+		"UIPointColumn": 4,
+		"TagList": [],
+		"IconSpecial": 1,
+		"AbilityParamBase_1": 0.03,
+		"AbilityParamAdd_1": 0.006,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 106033
+	},
+	{
+		"ElfID": 106,
+		"Name": {
+			"hash": -2124368049
+		},
+		"Info": {
+			"hash": 1605187154
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 3,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_CD_Down",
+		"IconType": 2,
+		"UnlockStar": 2,
+		"UIPointRow": 4,
+		"UIPointColumn": 2,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 13,
+		"AbilityParamAdd_1": -1,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 106041
+	},
+	{
+		"ElfID": 106,
+		"Name": {
+			"hash": -2124368048
+		},
+		"Info": {
+			"hash": 1605187155
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 4,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Team_UP",
+		"IconType": 2,
+		"UnlockStar": 4,
+		"UIPointRow": 4,
+		"UIPointColumn": 3,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.6,
+		"AbilityParamAdd_1": 0.2,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 106042
+	},
+	{
+		"ElfID": 108,
+		"Name": {
+			"hash": -2124308560
+		},
+		"Info": {
+			"hash": 1605246643
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_SP_Up",
+		"IconType": 2,
+		"UnlockStar": 2,
+		"UIPointRow": 1,
+		"UIPointColumn": 2,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 3,
+		"AbilityParamAdd_1": 0.5,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 108011
+	},
+	{
+		"ElfID": 108,
+		"Name": {
+			"hash": -2124308559
+		},
+		"Info": {
+			"hash": 1605246644
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 3,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Burn",
+		"IconType": 2,
+		"UnlockStar": 4,
+		"UIPointRow": 1,
+		"UIPointColumn": 3,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.1,
+		"AbilityParamAdd_1": 0.05,
+		"AbilityParamBase_2": 0.5,
+		"AbilityParamAdd_2": 0.5,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 108012
+	},
+	{
+		"ElfID": 108,
+		"Name": {
+			"hash": -2124308558
+		},
+		"Info": {
+			"hash": 1605246645
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Ultra_Strong",
+		"IconType": 2,
+		"UnlockStar": 7,
+		"UIPointRow": 1,
+		"UIPointColumn": 4,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.03,
+		"AbilityParamAdd_1": 0.0075,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 108013
+	},
+	{
+		"ElfID": 108,
+		"Name": {
+			"hash": -2124308529
+		},
+		"Info": {
+			"hash": 1605246674
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 3,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_QTE",
+		"IconType": 2,
+		"UnlockStar": 2,
+		"UIPointRow": 2,
+		"UIPointColumn": 2,
+		"TagList": [],
+		"IconSpecial": 1,
+		"AbilityParamBase_1": 5,
+		"AbilityParamAdd_1": 2.5,
+		"AbilityParamBase_2": 0.06,
+		"AbilityParamAdd_2": 0.03,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 108021
+	},
+	{
+		"ElfID": 108,
+		"Name": {
+			"hash": -2124308528
+		},
+		"Info": {
+			"hash": 1605246675
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_SP_Up",
+		"IconType": 2,
+		"UnlockStar": 2,
+		"UIPointRow": 2,
+		"UIPointColumn": 3,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 30,
+		"AbilityParamAdd_1": 5,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 108022
+	},
+	{
+		"ElfID": 108,
+		"Name": {
+			"hash": -2124308527
+		},
+		"Info": {
+			"hash": 1605246676
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 3,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Attack",
+		"IconType": 2,
+		"UnlockStar": 4,
+		"UIPointRow": 2,
+		"UIPointColumn": 4,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.08,
+		"AbilityParamAdd_1": 0.06,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 108023
+	},
+	{
+		"ElfID": 108,
+		"Name": {
+			"hash": -2124308498
+		},
+		"Info": {
+			"hash": 1605246705
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_BreakShield",
+		"IconType": 2,
+		"UnlockStar": 4,
+		"UIPointRow": 3,
+		"UIPointColumn": 2,
+		"TagList": [],
+		"IconSpecial": 1,
+		"AbilityParamBase_1": 0.02,
+		"AbilityParamAdd_1": 0.005,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 108031
+	},
+	{
+		"ElfID": 108,
+		"Name": {
+			"hash": -2124308497
+		},
+		"Info": {
+			"hash": 1605246706
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Attack_Up",
+		"IconType": 2,
+		"UnlockStar": 7,
+		"UIPointRow": 3,
+		"UIPointColumn": 3,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.02,
+		"AbilityParamAdd_1": 0.005,
+		"AbilityParamBase_2": 0.25,
+		"AbilityParamAdd_2": 0.0625,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 108032
+	},
+	{
+		"ElfID": 108,
+		"Name": {
+			"hash": -2124308467
+		},
+		"Info": {
+			"hash": 1605246736
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 3,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_SP_Up",
+		"IconType": 2,
+		"UnlockStar": 2,
+		"UIPointRow": 4,
+		"UIPointColumn": 2,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.5,
+		"AbilityParamAdd_1": 0.5,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 108041
+	},
+	{
+		"ElfID": 108,
+		"Name": {
+			"hash": -2124308466
+		},
+		"Info": {
+			"hash": 1605246737
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Attack",
+		"IconType": 2,
+		"UnlockStar": 4,
+		"UIPointRow": 4,
+		"UIPointColumn": 3,
+		"TagList": [],
+		"IconSpecial": 1,
+		"AbilityParamBase_1": 0.03,
+		"AbilityParamAdd_1": 0.0075,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 108042
+	},
+	{
+		"ElfID": 109,
+		"Name": {
+			"hash": -2124278769
+		},
+		"Info": {
+			"hash": 1605276434
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Attack_Up",
+		"IconType": 2,
+		"UnlockStar": 2,
+		"UIPointRow": 1,
+		"UIPointColumn": 2,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.1,
+		"AbilityParamAdd_1": 0.025,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 109011
+	},
+	{
+		"ElfID": 109,
+		"Name": {
+			"hash": -2124278768
+		},
+		"Info": {
+			"hash": 1605276435
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Attack_106",
+		"IconType": 2,
+		"UnlockStar": 2,
+		"UIPointRow": 1,
+		"UIPointColumn": 3,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.25,
+		"AbilityParamAdd_1": 0.0625,
+		"AbilityParamBase_2": 1.5,
+		"AbilityParamAdd_2": 0.25,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 109012
+	},
+	{
+		"ElfID": 109,
+		"Name": {
+			"hash": -2124278767
+		},
+		"Info": {
+			"hash": 1605276436
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Ultra_Strong",
+		"IconType": 2,
+		"UnlockStar": 4,
+		"UIPointRow": 1,
+		"UIPointColumn": 4,
+		"TagList": [],
+		"IconSpecial": 1,
+		"AbilityParamBase_1": 0.12,
+		"AbilityParamAdd_1": 0.0325,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 109013
+	},
+	{
+		"ElfID": 109,
+		"Name": {
+			"hash": -2124278738
+		},
+		"Info": {
+			"hash": 1605276465
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 3,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_QTE",
+		"IconType": 2,
+		"UnlockStar": 2,
+		"UIPointRow": 2,
+		"UIPointColumn": 2,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.2,
+		"AbilityParamAdd_1": 0.1,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 109021
+	},
+	{
+		"ElfID": 109,
+		"Name": {
+			"hash": -2124278737
+		},
+		"Info": {
+			"hash": 1605276466
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 4,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Attack",
+		"IconType": 2,
+		"UnlockStar": 4,
+		"UIPointRow": 2,
+		"UIPointColumn": 3,
+		"TagList": [],
+		"IconSpecial": 1,
+		"AbilityParamBase_1": 0.04,
+		"AbilityParamAdd_1": 0.01,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 109022
+	},
+	{
+		"ElfID": 109,
+		"Name": {
+			"hash": -2124278736
+		},
+		"Info": {
+			"hash": 1605276467
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Attack_Up",
+		"IconType": 2,
+		"UnlockStar": 7,
+		"UIPointRow": 2,
+		"UIPointColumn": 4,
+		"TagList": [],
+		"IconSpecial": 1,
+		"AbilityParamBase_1": 8,
+		"AbilityParamAdd_1": 0.5,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0.25,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 109023
+	},
+	{
+		"ElfID": 109,
+		"Name": {
+			"hash": -2124278707
+		},
+		"Info": {
+			"hash": 1605276496
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 3,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_SP_Up",
+		"IconType": 2,
+		"UnlockStar": 2,
+		"UIPointRow": 3,
+		"UIPointColumn": 2,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 30,
+		"AbilityParamAdd_1": 10,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 109031
+	},
+	{
+		"ElfID": 109,
+		"Name": {
+			"hash": -2124278706
+		},
+		"Info": {
+			"hash": 1605276497
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_BreakShield",
+		"IconType": 2,
+		"UnlockStar": 4,
+		"UIPointRow": 3,
+		"UIPointColumn": 3,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.08,
+		"AbilityParamAdd_1": 0.0175,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 109032
+	},
+	{
+		"ElfID": 109,
+		"Name": {
+			"hash": -2124278705
+		},
+		"Info": {
+			"hash": 1605276498
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 4,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_QTE",
+		"IconType": 2,
+		"UnlockStar": 7,
+		"UIPointRow": 3,
+		"UIPointColumn": 4,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.03,
+		"AbilityParamAdd_1": 0.01,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 109033
+	},
+	{
+		"ElfID": 109,
+		"Name": {
+			"hash": -2124278676
+		},
+		"Info": {
+			"hash": 1605276527
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 4,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_CD_Down",
+		"IconType": 2,
+		"UnlockStar": 2,
+		"UIPointRow": 4,
+		"UIPointColumn": 2,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 42,
+		"AbilityParamAdd_1": -4,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 109041
+	},
+	{
+		"ElfID": 109,
+		"Name": {
+			"hash": -2124278675
+		},
+		"Info": {
+			"hash": 1605276528
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 4,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_QTE",
+		"IconType": 2,
+		"UnlockStar": 4,
+		"UIPointRow": 4,
+		"UIPointColumn": 3,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 390,
+		"AbilityParamAdd_1": 20,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 109042
+	},
+	{
+		"ElfID": 110,
+		"Name": {
+			"hash": -2123623367
+		},
+		"Info": {
+			"hash": 1605931836
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Attack_Up",
+		"IconType": 2,
+		"UnlockStar": 2,
+		"UIPointRow": 1,
+		"UIPointColumn": 2,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 1.6,
+		"AbilityParamAdd_1": 0.15,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 110011
+	},
+	{
+		"ElfID": 110,
+		"Name": {
+			"hash": -2123623366
+		},
+		"Info": {
+			"hash": 1605931837
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Attack_106",
+		"IconType": 2,
+		"UnlockStar": 4,
+		"UIPointRow": 1,
+		"UIPointColumn": 3,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.2,
+		"AbilityParamAdd_1": 0.025,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 110012
+	},
+	{
+		"ElfID": 110,
+		"Name": {
+			"hash": -2123623336
+		},
+		"Info": {
+			"hash": 1605931867
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 3,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_QTE",
+		"IconType": 2,
+		"UnlockStar": 2,
+		"UIPointRow": 2,
+		"UIPointColumn": 2,
+		"TagList": [],
+		"IconSpecial": 1,
+		"AbilityParamBase_1": 4,
+		"AbilityParamAdd_1": 1,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 110021
+	},
+	{
+		"ElfID": 110,
+		"Name": {
+			"hash": -2123623335
+		},
+		"Info": {
+			"hash": 1605931868
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 4,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Attack",
+		"IconType": 2,
+		"UnlockStar": 4,
+		"UIPointRow": 2,
+		"UIPointColumn": 3,
+		"TagList": [],
+		"IconSpecial": 1,
+		"AbilityParamBase_1": 0.03,
+		"AbilityParamAdd_1": 0.01,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 110022
+	},
+	{
+		"ElfID": 110,
+		"Name": {
+			"hash": -2123623334
+		},
+		"Info": {
+			"hash": 1605931869
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 4,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Attack",
+		"IconType": 2,
+		"UnlockStar": 7,
+		"UIPointRow": 2,
+		"UIPointColumn": 4,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.21,
+		"AbilityParamAdd_1": 0.03,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 110023
+	},
+	{
+		"ElfID": 110,
+		"Name": {
+			"hash": -2123623305
+		},
+		"Info": {
+			"hash": 1605931898
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 3,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Passive",
+		"IconType": 2,
+		"UnlockStar": 2,
+		"UIPointRow": 3,
+		"UIPointColumn": 2,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 30,
+		"AbilityParamAdd_1": 10,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 110031
+	},
+	{
+		"ElfID": 110,
+		"Name": {
+			"hash": -2123623304
+		},
+		"Info": {
+			"hash": 1605931899
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_SP_Up",
+		"IconType": 2,
+		"UnlockStar": 4,
+		"UIPointRow": 3,
+		"UIPointColumn": 3,
+		"TagList": [],
+		"IconSpecial": 1,
+		"AbilityParamBase_1": 2,
+		"AbilityParamAdd_1": 0.25,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 110032
+	},
+	{
+		"ElfID": 110,
+		"Name": {
+			"hash": -2123623274
+		},
+		"Info": {
+			"hash": 1605931929
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 4,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Heal",
+		"IconType": 2,
+		"UnlockStar": 2,
+		"UIPointRow": 4,
+		"UIPointColumn": 2,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.21,
+		"AbilityParamAdd_1": 0.03,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 110041
+	},
+	{
+		"ElfID": 110,
+		"Name": {
+			"hash": -2123623273
+		},
+		"Info": {
+			"hash": 1605931930
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 4,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_CD_Down",
+		"IconType": 2,
+		"UnlockStar": 4,
+		"UIPointRow": 4,
+		"UIPointColumn": 3,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 6,
+		"AbilityParamAdd_1": 1,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 110042
+	},
+	{
+		"ElfID": 111,
+		"Name": {
+			"hash": -2122699846
+		},
+		"Info": {
+			"hash": 1606855357
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_SP_Up",
+		"IconType": 2,
+		"UnlockStar": 2,
+		"UIPointRow": 1,
+		"UIPointColumn": 2,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 1.6,
+		"AbilityParamAdd_1": 0.1,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 120011
+	},
+	{
+		"ElfID": 111,
+		"Name": {
+			"hash": -2122699845
+		},
+		"Info": {
+			"hash": 1606855358
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Attack_Up",
+		"IconType": 2,
+		"UnlockStar": 4,
+		"UIPointRow": 1,
+		"UIPointColumn": 3,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.25,
+		"AbilityParamAdd_1": 0.0625,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 120012
+	},
+	{
+		"ElfID": 111,
+		"Name": {
+			"hash": -2122699815
+		},
+		"Info": {
+			"hash": 1606855388
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_SP_Initial_UP",
+		"IconType": 2,
+		"UnlockStar": 2,
+		"UIPointRow": 2,
+		"UIPointColumn": 2,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 30,
+		"AbilityParamAdd_1": 5,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 120021
+	},
+	{
+		"ElfID": 111,
+		"Name": {
+			"hash": -2122699814
+		},
+		"Info": {
+			"hash": 1606855389
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 4,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Status",
+		"IconType": 2,
+		"UnlockStar": 4,
+		"UIPointRow": 2,
+		"UIPointColumn": 3,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.3,
+		"AbilityParamAdd_1": 0.1,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 120022
+	},
+	{
+		"ElfID": 111,
+		"Name": {
+			"hash": -2122699813
+		},
+		"Info": {
+			"hash": 1606855390
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 3,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Heal",
+		"IconType": 2,
+		"UnlockStar": 7,
+		"UIPointRow": 2,
+		"UIPointColumn": 4,
+		"TagList": [],
+		"IconSpecial": 1,
+		"AbilityParamBase_1": 21,
+		"AbilityParamAdd_1": 2,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 120023
+	},
+	{
+		"ElfID": 111,
+		"Name": {
+			"hash": -2122699784
+		},
+		"Info": {
+			"hash": 1606855419
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 6,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Heal",
+		"IconType": 2,
+		"UnlockStar": 2,
+		"UIPointRow": 3,
+		"UIPointColumn": 2,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.1,
+		"AbilityParamAdd_1": 0.02,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 120031
+	},
+	{
+		"ElfID": 111,
+		"Name": {
+			"hash": -2122699783
+		},
+		"Info": {
+			"hash": 1606855420
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 3,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Attack",
+		"IconType": 2,
+		"UnlockStar": 4,
+		"UIPointRow": 3,
+		"UIPointColumn": 3,
+		"TagList": [],
+		"IconSpecial": 1,
+		"AbilityParamBase_1": 0.12,
+		"AbilityParamAdd_1": 0.015,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 120032
+	},
+	{
+		"ElfID": 111,
+		"Name": {
+			"hash": -2122699782
+		},
+		"Info": {
+			"hash": 1606855421
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Attack",
+		"IconType": 2,
+		"UnlockStar": 7,
+		"UIPointRow": 3,
+		"UIPointColumn": 4,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.05,
+		"AbilityParamAdd_1": 0.0125,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 120033
+	},
+	{
+		"ElfID": 111,
+		"Name": {
+			"hash": -2122699753
+		},
+		"Info": {
+			"hash": 1606855450
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Attack_BreakShield",
+		"IconType": 2,
+		"UnlockStar": 2,
+		"UIPointRow": 4,
+		"UIPointColumn": 2,
+		"TagList": [],
+		"IconSpecial": 1,
+		"AbilityParamBase_1": 0.05,
+		"AbilityParamAdd_1": 0.0125,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 120041
+	},
+	{
+		"ElfID": 111,
+		"Name": {
+			"hash": -2122699752
+		},
+		"Info": {
+			"hash": 1606855451
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 4,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_CD_Down",
+		"IconType": 2,
+		"UnlockStar": 2,
+		"UIPointRow": 4,
+		"UIPointColumn": 3,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 12,
+		"AbilityParamAdd_1": -0.666667,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 120042
+	},
+	{
+		"ElfID": 111,
+		"Name": {
+			"hash": -2122699751
+		},
+		"Info": {
+			"hash": 1606855452
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 2,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Attack_BreakShield",
+		"IconType": 2,
+		"UnlockStar": 4,
+		"UIPointRow": 4,
+		"UIPointColumn": 4,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 1,
+		"AbilityParamAdd_1": 1,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 120043
+	},
+	{
+		"ElfID": 112,
+		"Name": {
+			"hash": -2121776325
+		},
+		"Info": {
+			"hash": 1607778878
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 4,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Spirit",
+		"IconType": 2,
+		"UnlockStar": 2,
+		"UIPointRow": 1,
+		"UIPointColumn": 2,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.25,
+		"AbilityParamAdd_1": 0.083333,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 130011
+	},
+	{
+		"ElfID": 112,
+		"Name": {
+			"hash": -2121776324
+		},
+		"Info": {
+			"hash": 1607778879
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_SP_Initial_UP",
+		"IconType": 2,
+		"UnlockStar": 2,
+		"UIPointRow": 1,
+		"UIPointColumn": 3,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 1.6,
+		"AbilityParamAdd_1": 0.125,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 130012
+	},
+	{
+		"ElfID": 112,
+		"Name": {
+			"hash": -2121776323
+		},
+		"Info": {
+			"hash": 1607778880
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 3,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Ultra",
+		"IconType": 2,
+		"UnlockStar": 4,
+		"UIPointRow": 1,
+		"UIPointColumn": 4,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.15,
+		"AbilityParamAdd_1": 0.075,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 130013
+	},
+	{
+		"ElfID": 112,
+		"Name": {
+			"hash": -2121776294
+		},
+		"Info": {
+			"hash": 1607778909
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 3,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Passive",
+		"IconType": 2,
+		"UnlockStar": 2,
+		"UIPointRow": 2,
+		"UIPointColumn": 2,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 3,
+		"AbilityParamAdd_1": 1.5,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 130021
+	},
+	{
+		"ElfID": 112,
+		"Name": {
+			"hash": -2121776293
+		},
+		"Info": {
+			"hash": 1607778910
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_SP_Up",
+		"IconType": 2,
+		"UnlockStar": 4,
+		"UIPointRow": 2,
+		"UIPointColumn": 3,
+		"TagList": [],
+		"IconSpecial": 1,
+		"AbilityParamBase_1": 0.12,
+		"AbilityParamAdd_1": 0.0075,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 130022
+	},
+	{
+		"ElfID": 112,
+		"Name": {
+			"hash": -2121776292
+		},
+		"Info": {
+			"hash": 1607778911
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 4,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Status",
+		"IconType": 2,
+		"UnlockStar": 4,
+		"UIPointRow": 2,
+		"UIPointColumn": 4,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.2,
+		"AbilityParamAdd_1": 0.066667,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 130023
+	},
+	{
+		"ElfID": 112,
+		"Name": {
+			"hash": -2121776263
+		},
+		"Info": {
+			"hash": 1607778940
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_SP_Up",
+		"IconType": 2,
+		"UnlockStar": 2,
+		"UIPointRow": 3,
+		"UIPointColumn": 2,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 30,
+		"AbilityParamAdd_1": 5,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 130031
+	},
+	{
+		"ElfID": 112,
+		"Name": {
+			"hash": -2121776262
+		},
+		"Info": {
+			"hash": 1607778941
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 4,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Attack",
+		"IconType": 2,
+		"UnlockStar": 4,
+		"UIPointRow": 3,
+		"UIPointColumn": 3,
+		"TagList": [],
+		"IconSpecial": 1,
+		"AbilityParamBase_1": 0.03,
+		"AbilityParamAdd_1": 0.01,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 130032
+	},
+	{
+		"ElfID": 112,
+		"Name": {
+			"hash": -2121776261
+		},
+		"Info": {
+			"hash": 1607778942
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 4,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_CD_Down",
+		"IconType": 2,
+		"UnlockStar": 4,
+		"UIPointRow": 3,
+		"UIPointColumn": 4,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.04,
+		"AbilityParamAdd_1": 0.013333,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 130033
+	},
+	{
+		"ElfID": 112,
+		"Name": {
+			"hash": -2121776232
+		},
+		"Info": {
+			"hash": 1607778971
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 1,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Spirit",
+		"IconType": 2,
+		"UnlockStar": 2,
+		"UIPointRow": 4,
+		"UIPointColumn": 2,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 1,
+		"AbilityParamAdd_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 130041
+	},
+	{
+		"ElfID": 112,
+		"Name": {
+			"hash": -2121776231
+		},
+		"Info": {
+			"hash": 1607778972
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 3,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Attack",
+		"IconType": 2,
+		"UnlockStar": 7,
+		"UIPointRow": 4,
+		"UIPointColumn": 3,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.02,
+		"AbilityParamAdd_1": 0.015,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 130042
+	},
+	{
+		"ElfID": 112,
+		"Name": {
+			"hash": -2121776230
+		},
+		"Info": {
+			"hash": 1607778973
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 3,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_CD_Down",
+		"IconType": 2,
+		"UnlockStar": 7,
+		"UIPointRow": 4,
+		"UIPointColumn": 4,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 18,
+		"AbilityParamAdd_1": -1.5,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 130043
+	},
+	{
+		"ElfID": 113,
+		"Name": {
+			"hash": -2120852804
+		},
+		"Info": {
+			"hash": 1608702399
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_SP_Up",
+		"IconType": 2,
+		"UnlockStar": 2,
+		"UIPointRow": 1,
+		"UIPointColumn": 2,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 3,
+		"AbilityParamAdd_1": 0.5,
+		"AbilityParamBase_2": 6,
+		"AbilityParamAdd_2": -1,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 140011
+	},
+	{
+		"ElfID": 113,
+		"Name": {
+			"hash": -2120852803
+		},
+		"Info": {
+			"hash": 1608702400
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 3,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Attack_113",
+		"IconType": 2,
+		"UnlockStar": 4,
+		"UIPointRow": 1,
+		"UIPointColumn": 3,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.2,
+		"AbilityParamAdd_1": 0.1,
+		"AbilityParamBase_2": 0.3,
+		"AbilityParamAdd_2": 0.15,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 140012
+	},
+	{
+		"ElfID": 113,
+		"Name": {
+			"hash": -2120852802
+		},
+		"Info": {
+			"hash": 1608702401
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Attack_Up",
+		"IconType": 2,
+		"UnlockStar": 7,
+		"UIPointRow": 1,
+		"UIPointColumn": 4,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.05,
+		"AbilityParamAdd_1": 0.0625,
+		"AbilityParamBase_2": 10,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 140013
+	},
+	{
+		"ElfID": 113,
+		"Name": {
+			"hash": -2120852773
+		},
+		"Info": {
+			"hash": 1608702430
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Status",
+		"IconType": 2,
+		"UnlockStar": 2,
+		"UIPointRow": 2,
+		"UIPointColumn": 2,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 7,
+		"AbilityParamAdd_1": 0.75,
+		"AbilityParamBase_2": 0.01,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 140021
+	},
+	{
+		"ElfID": 113,
+		"Name": {
+			"hash": -2120852772
+		},
+		"Info": {
+			"hash": 1608702431
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 3,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Ultra_Up",
+		"IconType": 2,
+		"UnlockStar": 4,
+		"UIPointRow": 2,
+		"UIPointColumn": 3,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.5,
+		"AbilityParamAdd_1": 0.2,
+		"AbilityParamBase_2": 6.5,
+		"AbilityParamAdd_2": 6.75,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 140022
+	},
+	{
+		"ElfID": 113,
+		"Name": {
+			"hash": -2120852771
+		},
+		"Info": {
+			"hash": 1608702432
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 3,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Attack",
+		"IconType": 2,
+		"UnlockStar": 7,
+		"UIPointRow": 2,
+		"UIPointColumn": 4,
+		"TagList": [],
+		"IconSpecial": 1,
+		"AbilityParamBase_1": 0.1,
+		"AbilityParamAdd_1": 0.1,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 140023
+	},
+	{
+		"ElfID": 113,
+		"Name": {
+			"hash": -2120852742
+		},
+		"Info": {
+			"hash": 1608702461
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Attack",
+		"IconType": 2,
+		"UnlockStar": 2,
+		"UIPointRow": 3,
+		"UIPointColumn": 2,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.01,
+		"AbilityParamAdd_1": 0.01,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 140031
+	},
+	{
+		"ElfID": 113,
+		"Name": {
+			"hash": -2120852741
+		},
+		"Info": {
+			"hash": 1608702462
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Status",
+		"IconType": 2,
+		"UnlockStar": 4,
+		"UIPointRow": 3,
+		"UIPointColumn": 3,
+		"TagList": [],
+		"IconSpecial": 1,
+		"AbilityParamBase_1": 0.012,
+		"AbilityParamAdd_1": 0.002,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 140032
+	},
+	{
+		"ElfID": 113,
+		"Name": {
+			"hash": -2120852711
+		},
+		"Info": {
+			"hash": 1608702492
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Attack",
+		"IconType": 2,
+		"UnlockStar": 4,
+		"UIPointRow": 4,
+		"UIPointColumn": 2,
+		"TagList": [],
+		"IconSpecial": 1,
+		"AbilityParamBase_1": 0.06,
+		"AbilityParamAdd_1": 0.085,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 140041
+	},
+	{
+		"ElfID": 113,
+		"Name": {
+			"hash": -2120852710
+		},
+		"Info": {
+			"hash": 1608702493
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 3,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_CD_Down",
+		"IconType": 2,
+		"UnlockStar": 7,
+		"UIPointRow": 4,
+		"UIPointColumn": 3,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.15,
+		"AbilityParamAdd_1": 0.075,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 140042
+	},
+	{
+		"ElfID": 114,
+		"Name": {
+			"hash": -2119929283
+		},
+		"Info": {
+			"hash": 1609625920
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_SP_Initial_UP",
+		"IconType": 2,
+		"UnlockStar": 2,
+		"UIPointRow": 1,
+		"UIPointColumn": 2,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.05,
+		"AbilityParamAdd_1": 0.0125,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 150011
+	},
+	{
+		"ElfID": 114,
+		"Name": {
+			"hash": -2119929282
+		},
+		"Info": {
+			"hash": 1609625921
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 3,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Attack",
+		"IconType": 2,
+		"UnlockStar": 4,
+		"UIPointRow": 1,
+		"UIPointColumn": 3,
+		"TagList": [],
+		"IconSpecial": 1,
+		"AbilityParamBase_1": 0.05,
+		"AbilityParamAdd_1": 0.025,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 150012
+	},
+	{
+		"ElfID": 114,
+		"Name": {
+			"hash": -2119929252
+		},
+		"Info": {
+			"hash": 1609625951
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Passive",
+		"IconType": 2,
+		"UnlockStar": 2,
+		"UIPointRow": 2,
+		"UIPointColumn": 2,
+		"TagList": [],
+		"IconSpecial": 1,
+		"AbilityParamBase_1": 4,
+		"AbilityParamAdd_1": 1.5,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 150021
+	},
+	{
+		"ElfID": 114,
+		"Name": {
+			"hash": -2119929251
+		},
+		"Info": {
+			"hash": 1609625952
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 3,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_CD_Down",
+		"IconType": 2,
+		"UnlockStar": 4,
+		"UIPointRow": 2,
+		"UIPointColumn": 3,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.1,
+		"AbilityParamAdd_1": 0.1,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 150022
+	},
+	{
+		"ElfID": 114,
+		"Name": {
+			"hash": -2119929250
+		},
+		"Info": {
+			"hash": 1609625953
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 3,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Attack",
+		"IconType": 2,
+		"UnlockStar": 7,
+		"UIPointRow": 2,
+		"UIPointColumn": 4,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 8,
+		"AbilityParamAdd_1": 2,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 150023
+	},
+	{
+		"ElfID": 114,
+		"Name": {
+			"hash": -2119929221
+		},
+		"Info": {
+			"hash": 1609625982
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_CD_Down",
+		"IconType": 2,
+		"UnlockStar": 2,
+		"UIPointRow": 3,
+		"UIPointColumn": 2,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 1,
+		"AbilityParamAdd_1": 1,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 150031
+	},
+	{
+		"ElfID": 114,
+		"Name": {
+			"hash": -2119929220
+		},
+		"Info": {
+			"hash": 1609625983
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_SP_Up",
+		"IconType": 2,
+		"UnlockStar": 4,
+		"UIPointRow": 3,
+		"UIPointColumn": 3,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 1,
+		"AbilityParamAdd_1": 0.5,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 150032
+	},
+	{
+		"ElfID": 114,
+		"Name": {
+			"hash": -2119929219
+		},
+		"Info": {
+			"hash": 1609625984
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Attack",
+		"IconType": 2,
+		"UnlockStar": 7,
+		"UIPointRow": 3,
+		"UIPointColumn": 4,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.2,
+		"AbilityParamAdd_1": 0.0625,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 150033
+	},
+	{
+		"ElfID": 114,
+		"Name": {
+			"hash": -2119929190
+		},
+		"Info": {
+			"hash": 1609626013
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_SP_Up",
+		"IconType": 2,
+		"UnlockStar": 2,
+		"UIPointRow": 4,
+		"UIPointColumn": 2,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 30,
+		"AbilityParamAdd_1": 5,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 150041
+	},
+	{
+		"ElfID": 114,
+		"Name": {
+			"hash": -2119929189
+		},
+		"Info": {
+			"hash": 1609626014
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 3,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Attack",
+		"IconType": 2,
+		"UnlockStar": 7,
+		"UIPointRow": 4,
+		"UIPointColumn": 3,
+		"TagList": [],
+		"IconSpecial": 1,
+		"AbilityParamBase_1": 0.15,
+		"AbilityParamAdd_1": 0.125,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 150042
+	},
+	{
+		"ElfID": 115,
+		"Name": {
+			"hash": -2119005762
+		},
+		"Info": {
+			"hash": 1610549441
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 3,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_SP_Initial_UP",
+		"IconType": 2,
+		"UnlockStar": 2,
+		"UIPointRow": 1,
+		"UIPointColumn": 2,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.1,
+		"AbilityParamAdd_1": 0.1,
+		"AbilityParamBase_2": 30,
+		"AbilityParamAdd_2": 10,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 160011
+	},
+	{
+		"ElfID": 115,
+		"Name": {
+			"hash": -2119005761
+		},
+		"Info": {
+			"hash": 1610549442
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Attack",
+		"IconType": 2,
+		"UnlockStar": 4,
+		"UIPointRow": 1,
+		"UIPointColumn": 3,
+		"TagList": [],
+		"IconSpecial": 1,
+		"AbilityParamBase_1": 0.04,
+		"AbilityParamAdd_1": 0.01,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 160012
+	},
+	{
+		"ElfID": 115,
+		"Name": {
+			"hash": -2119005760
+		},
+		"Info": {
+			"hash": 1610549443
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Attack_Up",
+		"IconType": 2,
+		"UnlockStar": 4,
+		"UIPointRow": 1,
+		"UIPointColumn": 4,
+		"TagList": [],
+		"IconSpecial": 1,
+		"AbilityParamBase_1": 2,
+		"AbilityParamAdd_1": 0.75,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 160013
+	},
+	{
+		"ElfID": 115,
+		"Name": {
+			"hash": -2119005731
+		},
+		"Info": {
+			"hash": 1610549472
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Passive",
+		"IconType": 2,
+		"UnlockStar": 2,
+		"UIPointRow": 2,
+		"UIPointColumn": 2,
+		"TagList": [],
+		"IconSpecial": 1,
+		"AbilityParamBase_1": 9,
+		"AbilityParamAdd_1": 1.5,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 160021
+	},
+	{
+		"ElfID": 115,
+		"Name": {
+			"hash": -2119005730
+		},
+		"Info": {
+			"hash": 1610549473
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 3,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_CD_Down",
+		"IconType": 2,
+		"UnlockStar": 2,
+		"UIPointRow": 2,
+		"UIPointColumn": 3,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.05,
+		"AbilityParamAdd_1": 0.025,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 160022
+	},
+	{
+		"ElfID": 115,
+		"Name": {
+			"hash": -2119005729
+		},
+		"Info": {
+			"hash": 1610549474
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Attack",
+		"IconType": 2,
+		"UnlockStar": 7,
+		"UIPointRow": 2,
+		"UIPointColumn": 4,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.5,
+		"AbilityParamAdd_1": 0.0375,
+		"AbilityParamBase_2": 0.25,
+		"AbilityParamAdd_2": 0.05,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 160023
+	},
+	{
+		"ElfID": 115,
+		"Name": {
+			"hash": -2119005700
+		},
+		"Info": {
+			"hash": 1610549503
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 1,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_CD_Down",
+		"IconType": 2,
+		"UnlockStar": 2,
+		"UIPointRow": 3,
+		"UIPointColumn": 2,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0,
+		"AbilityParamAdd_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 160031
+	},
+	{
+		"ElfID": 115,
+		"Name": {
+			"hash": -2119005699
+		},
+		"Info": {
+			"hash": 1610549504
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 3,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_SP_Up",
+		"IconType": 2,
+		"UnlockStar": 4,
+		"UIPointRow": 3,
+		"UIPointColumn": 3,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.2,
+		"AbilityParamAdd_1": 0.05,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 160032
+	},
+	{
+		"ElfID": 115,
+		"Name": {
+			"hash": -2119005698
+		},
+		"Info": {
+			"hash": 1610549505
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Attack",
+		"IconType": 2,
+		"UnlockStar": 7,
+		"UIPointRow": 3,
+		"UIPointColumn": 4,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 0.03,
+		"AbilityParamAdd_1": 0.0125,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 160033
+	},
+	{
+		"ElfID": 115,
+		"Name": {
+			"hash": -2119005669
+		},
+		"Info": {
+			"hash": 1610549534
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 1,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_SP_Up",
+		"IconType": 2,
+		"UnlockStar": 2,
+		"UIPointRow": 4,
+		"UIPointColumn": 2,
+		"TagList": [],
+		"IconSpecial": 0,
+		"AbilityParamBase_1": 1,
+		"AbilityParamAdd_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 160041
+	},
+	{
+		"ElfID": 115,
+		"Name": {
+			"hash": -2119005668
+		},
+		"Info": {
+			"hash": 1610549535
+		},
+		"SkillTypeTag": {
+			"hash": -2000458110
+		},
+		"MaxLv": 5,
+		"SkillType": 2,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Attack",
+		"IconType": 2,
+		"UnlockStar": 4,
+		"UIPointRow": 4,
+		"UIPointColumn": 3,
+		"TagList": [],
+		"IconSpecial": 1,
+		"AbilityParamBase_1": 0.1,
+		"AbilityParamAdd_1": 0.0125,
+		"AbilityParamBase_2": 0,
+		"AbilityParamAdd_2": 0,
+		"AbilityParamBase_3": 0,
+		"AbilityParamAdd_3": 0,
+		"hasNoRestrictionAbility": 0,
+		"DataImpl": {},
+		"ElfSkillID": 160042
+	}
+]

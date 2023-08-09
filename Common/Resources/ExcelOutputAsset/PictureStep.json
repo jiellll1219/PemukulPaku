@@ -1,0 +1,575 @@
+[
+	{
+		"KeyID": 1,
+		"ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn01",
+		"Reward": 16004389,
+		"Name_Textmap": {
+			"hash": 1325804509
+		},
+		"ChoiceBefore_Textmap": [
+			{
+				"hash": -228387799
+			},
+			{
+				"hash": -228387798
+			},
+			{
+				"hash": -228387797
+			},
+			{
+				"hash": -228387796
+			}
+		],
+		"ChoiceAfter_Textmap": [
+			{
+				"hash": 1607101690
+			}
+		],
+		"Pic": "event/Immediately/ActivityPage/5.9_ConcertAvatar01_a",
+		"NeedScore": 0,
+		"DataImpl": {},
+		"StepID": 1,
+		"ChoiceID": 1
+	},
+	{
+		"KeyID": 2,
+		"ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn02",
+		"Reward": 16004389,
+		"Name_Textmap": {
+			"hash": 1325804510
+		},
+		"ChoiceBefore_Textmap": [
+			{
+				"hash": -228387799
+			},
+			{
+				"hash": -228387798
+			},
+			{
+				"hash": -228387797
+			},
+			{
+				"hash": -228387796
+			}
+		],
+		"ChoiceAfter_Textmap": [
+			{
+				"hash": 1607101690
+			}
+		],
+		"Pic": "event/Immediately/ActivityPage/5.9_ConcertAvatar02_a",
+		"NeedScore": 0,
+		"DataImpl": {},
+		"StepID": 1,
+		"ChoiceID": 2
+	},
+	{
+		"KeyID": 3,
+		"ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn03",
+		"Reward": 16004389,
+		"Name_Textmap": {
+			"hash": 1325804511
+		},
+		"ChoiceBefore_Textmap": [
+			{
+				"hash": -228387799
+			},
+			{
+				"hash": -228387798
+			},
+			{
+				"hash": -228387797
+			},
+			{
+				"hash": -228387796
+			}
+		],
+		"ChoiceAfter_Textmap": [
+			{
+				"hash": 1607101690
+			}
+		],
+		"Pic": "event/Immediately/ActivityPage/5.9_ConcertAvatar03_a",
+		"NeedScore": 0,
+		"DataImpl": {},
+		"StepID": 1,
+		"ChoiceID": 3
+	},
+	{
+		"KeyID": 4,
+		"ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn",
+		"Reward": 16004390,
+		"Name_Textmap": {
+			"hash": 1325804540
+		},
+		"ChoiceBefore_Textmap": [
+			{
+				"hash": -228387768
+			}
+		],
+		"ChoiceAfter_Textmap": [],
+		"Pic": "event/Immediately/ActivityPage/5.9_ConcertDecoration02_a",
+		"NeedScore": 150,
+		"DataImpl": {},
+		"StepID": 2,
+		"ChoiceID": 1
+	},
+	{
+		"KeyID": 5,
+		"ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn",
+		"Reward": 16004390,
+		"Name_Textmap": {
+			"hash": 1325804541
+		},
+		"ChoiceBefore_Textmap": [
+			{
+				"hash": -228387768
+			}
+		],
+		"ChoiceAfter_Textmap": [],
+		"Pic": "event/Immediately/ActivityPage/5.9_ConcertDecoration02_b",
+		"NeedScore": 150,
+		"DataImpl": {},
+		"StepID": 2,
+		"ChoiceID": 2
+	},
+	{
+		"KeyID": 6,
+		"ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn",
+		"Reward": 16004390,
+		"Name_Textmap": {
+			"hash": 1325804542
+		},
+		"ChoiceBefore_Textmap": [
+			{
+				"hash": -228387768
+			}
+		],
+		"ChoiceAfter_Textmap": [],
+		"Pic": "event/Immediately/ActivityPage/5.9_ConcertDecoration02_c",
+		"NeedScore": 150,
+		"DataImpl": {},
+		"StepID": 2,
+		"ChoiceID": 3
+	},
+	{
+		"KeyID": 7,
+		"ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn",
+		"Reward": 16004391,
+		"Name_Textmap": {
+			"hash": 1325804571
+		},
+		"ChoiceBefore_Textmap": [
+			{
+				"hash": -228387737
+			}
+		],
+		"ChoiceAfter_Textmap": [],
+		"Pic": "event/Immediately/ActivityPage/5.9_ConcertDecoration03_a",
+		"NeedScore": 300,
+		"DataImpl": {},
+		"StepID": 3,
+		"ChoiceID": 1
+	},
+	{
+		"KeyID": 8,
+		"ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn",
+		"Reward": 16004391,
+		"Name_Textmap": {
+			"hash": 1325804572
+		},
+		"ChoiceBefore_Textmap": [
+			{
+				"hash": -228387737
+			}
+		],
+		"ChoiceAfter_Textmap": [],
+		"Pic": "event/Immediately/ActivityPage/5.9_ConcertDecoration03_b",
+		"NeedScore": 300,
+		"DataImpl": {},
+		"StepID": 3,
+		"ChoiceID": 2
+	},
+	{
+		"KeyID": 9,
+		"ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn",
+		"Reward": 16004391,
+		"Name_Textmap": {
+			"hash": 1325804573
+		},
+		"ChoiceBefore_Textmap": [
+			{
+				"hash": -228387737
+			}
+		],
+		"ChoiceAfter_Textmap": [],
+		"Pic": "event/Immediately/ActivityPage/5.9_ConcertDecoration03_c",
+		"NeedScore": 300,
+		"DataImpl": {},
+		"StepID": 3,
+		"ChoiceID": 3
+	},
+	{
+		"KeyID": 10,
+		"ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn",
+		"Reward": 16004392,
+		"Name_Textmap": {
+			"hash": 1325804602
+		},
+		"ChoiceBefore_Textmap": [
+			{
+				"hash": -228387706
+			}
+		],
+		"ChoiceAfter_Textmap": [],
+		"Pic": "event/Immediately/ActivityPage/5.9_ConcertDecoration04_a",
+		"NeedScore": 450,
+		"DataImpl": {},
+		"StepID": 4,
+		"ChoiceID": 1
+	},
+	{
+		"KeyID": 11,
+		"ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn",
+		"Reward": 16004392,
+		"Name_Textmap": {
+			"hash": 1325804603
+		},
+		"ChoiceBefore_Textmap": [
+			{
+				"hash": -228387706
+			}
+		],
+		"ChoiceAfter_Textmap": [],
+		"Pic": "event/Immediately/ActivityPage/5.9_ConcertDecoration04_b",
+		"NeedScore": 450,
+		"DataImpl": {},
+		"StepID": 4,
+		"ChoiceID": 2
+	},
+	{
+		"KeyID": 12,
+		"ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn",
+		"Reward": 16004392,
+		"Name_Textmap": {
+			"hash": 1325804604
+		},
+		"ChoiceBefore_Textmap": [
+			{
+				"hash": -228387706
+			}
+		],
+		"ChoiceAfter_Textmap": [],
+		"Pic": "event/Immediately/ActivityPage/5.9_ConcertDecoration04_c",
+		"NeedScore": 450,
+		"DataImpl": {},
+		"StepID": 4,
+		"ChoiceID": 3
+	},
+	{
+		"KeyID": 13,
+		"ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn",
+		"Reward": 16004393,
+		"Name_Textmap": {
+			"hash": 1325804633
+		},
+		"ChoiceBefore_Textmap": [
+			{
+				"hash": -228387675
+			}
+		],
+		"ChoiceAfter_Textmap": [],
+		"Pic": "event/Immediately/ActivityPage/5.9_ConcertDecoration05_a",
+		"NeedScore": 600,
+		"DataImpl": {},
+		"StepID": 5,
+		"ChoiceID": 1
+	},
+	{
+		"KeyID": 14,
+		"ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn",
+		"Reward": 16004393,
+		"Name_Textmap": {
+			"hash": 1325804634
+		},
+		"ChoiceBefore_Textmap": [
+			{
+				"hash": -228387675
+			}
+		],
+		"ChoiceAfter_Textmap": [],
+		"Pic": "event/Immediately/ActivityPage/5.9_ConcertDecoration05_b",
+		"NeedScore": 600,
+		"DataImpl": {},
+		"StepID": 5,
+		"ChoiceID": 2
+	},
+	{
+		"KeyID": 15,
+		"ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn",
+		"Reward": 16004393,
+		"Name_Textmap": {
+			"hash": 1325804635
+		},
+		"ChoiceBefore_Textmap": [
+			{
+				"hash": -228387675
+			}
+		],
+		"ChoiceAfter_Textmap": [],
+		"Pic": "event/Immediately/ActivityPage/5.9_ConcertDecoration05_c",
+		"NeedScore": 600,
+		"DataImpl": {},
+		"StepID": 5,
+		"ChoiceID": 3
+	},
+	{
+		"KeyID": 16,
+		"ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn",
+		"Reward": 16004394,
+		"Name_Textmap": {
+			"hash": 1325804664
+		},
+		"ChoiceBefore_Textmap": [
+			{
+				"hash": -228387644
+			}
+		],
+		"ChoiceAfter_Textmap": [],
+		"Pic": "event/Immediately/ActivityPage/5.9_ConcertDecoration06_a",
+		"NeedScore": 750,
+		"DataImpl": {},
+		"StepID": 6,
+		"ChoiceID": 1
+	},
+	{
+		"KeyID": 17,
+		"ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn",
+		"Reward": 16004394,
+		"Name_Textmap": {
+			"hash": 1325804665
+		},
+		"ChoiceBefore_Textmap": [
+			{
+				"hash": -228387644
+			}
+		],
+		"ChoiceAfter_Textmap": [],
+		"Pic": "event/Immediately/ActivityPage/5.9_ConcertDecoration06_b",
+		"NeedScore": 750,
+		"DataImpl": {},
+		"StepID": 6,
+		"ChoiceID": 2
+	},
+	{
+		"KeyID": 18,
+		"ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn",
+		"Reward": 16004394,
+		"Name_Textmap": {
+			"hash": 1325804666
+		},
+		"ChoiceBefore_Textmap": [
+			{
+				"hash": -228387644
+			}
+		],
+		"ChoiceAfter_Textmap": [],
+		"Pic": "event/Immediately/ActivityPage/5.9_ConcertDecoration06_c",
+		"NeedScore": 750,
+		"DataImpl": {},
+		"StepID": 6,
+		"ChoiceID": 3
+	},
+	{
+		"KeyID": 1,
+		"ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn01",
+		"Reward": 16004395,
+		"Name_Textmap": {
+			"hash": 1325804509
+		},
+		"ChoiceBefore_Textmap": [
+			{
+				"hash": -228387613
+			}
+		],
+		"ChoiceAfter_Textmap": [
+			{
+				"hash": 1607101876
+			}
+		],
+		"Pic": "event/Immediately/ActivityPage/5.9_ConcertAvatar01_a",
+		"NeedScore": 900,
+		"DataImpl": {},
+		"StepID": 7,
+		"ChoiceID": 1
+	},
+	{
+		"KeyID": 2,
+		"ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn02",
+		"Reward": 16004395,
+		"Name_Textmap": {
+			"hash": 1325804510
+		},
+		"ChoiceBefore_Textmap": [
+			{
+				"hash": -228387613
+			}
+		],
+		"ChoiceAfter_Textmap": [
+			{
+				"hash": 1607101876
+			}
+		],
+		"Pic": "event/Immediately/ActivityPage/5.9_ConcertAvatar02_a",
+		"NeedScore": 900,
+		"DataImpl": {},
+		"StepID": 7,
+		"ChoiceID": 2
+	},
+	{
+		"KeyID": 3,
+		"ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn03",
+		"Reward": 16004395,
+		"Name_Textmap": {
+			"hash": 1325804511
+		},
+		"ChoiceBefore_Textmap": [
+			{
+				"hash": -228387613
+			}
+		],
+		"ChoiceAfter_Textmap": [
+			{
+				"hash": 1607101876
+			}
+		],
+		"Pic": "event/Immediately/ActivityPage/5.9_ConcertAvatar03_a",
+		"NeedScore": 900,
+		"DataImpl": {},
+		"StepID": 7,
+		"ChoiceID": 3
+	},
+	{
+		"KeyID": 19,
+		"ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn",
+		"Reward": 16004395,
+		"Name_Textmap": {
+			"hash": 1642808456
+		},
+		"ChoiceBefore_Textmap": [
+			{
+				"hash": -228387613
+			}
+		],
+		"ChoiceAfter_Textmap": [],
+		"Pic": "",
+		"NeedScore": 900,
+		"DataImpl": {},
+		"StepID": 7,
+		"ChoiceID": 4
+	},
+	{
+		"KeyID": 1,
+		"ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn01",
+		"Reward": 16004396,
+		"Name_Textmap": {
+			"hash": 1325804509
+		},
+		"ChoiceBefore_Textmap": [
+			{
+				"hash": -228387582
+			}
+		],
+		"ChoiceAfter_Textmap": [
+			{
+				"hash": 1607101907
+			},
+			{
+				"hash": 1607101908
+			}
+		],
+		"Pic": "event/Immediately/ActivityPage/5.9_ConcertAvatar01_a",
+		"NeedScore": 1200,
+		"DataImpl": {},
+		"StepID": 8,
+		"ChoiceID": 1
+	},
+	{
+		"KeyID": 2,
+		"ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn02",
+		"Reward": 16004396,
+		"Name_Textmap": {
+			"hash": 1325804510
+		},
+		"ChoiceBefore_Textmap": [
+			{
+				"hash": -228387582
+			}
+		],
+		"ChoiceAfter_Textmap": [
+			{
+				"hash": 1607101907
+			},
+			{
+				"hash": 1607101908
+			}
+		],
+		"Pic": "event/Immediately/ActivityPage/5.9_ConcertAvatar02_a",
+		"NeedScore": 1200,
+		"DataImpl": {},
+		"StepID": 8,
+		"ChoiceID": 2
+	},
+	{
+		"KeyID": 3,
+		"ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn03",
+		"Reward": 16004396,
+		"Name_Textmap": {
+			"hash": 1325804511
+		},
+		"ChoiceBefore_Textmap": [
+			{
+				"hash": -228387582
+			}
+		],
+		"ChoiceAfter_Textmap": [
+			{
+				"hash": 1607101907
+			},
+			{
+				"hash": 1607101908
+			}
+		],
+		"Pic": "event/Immediately/ActivityPage/5.9_ConcertAvatar03_a",
+		"NeedScore": 1200,
+		"DataImpl": {},
+		"StepID": 8,
+		"ChoiceID": 3
+	},
+	{
+		"KeyID": 20,
+		"ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn",
+		"Reward": 16004396,
+		"Name_Textmap": {
+			"hash": 1642808456
+		},
+		"ChoiceBefore_Textmap": [
+			{
+				"hash": -228387582
+			}
+		],
+		"ChoiceAfter_Textmap": [
+			{
+				"hash": 1607101907
+			},
+			{
+				"hash": 1607101908
+			}
+		],
+		"Pic": "",
+		"NeedScore": 1200,
+		"DataImpl": {},
+		"StepID": 8,
+		"ChoiceID": 4
+	}
+]

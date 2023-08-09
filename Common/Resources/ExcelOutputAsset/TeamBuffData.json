@@ -1,0 +1,3762 @@
+[
+	{
+		"name": {
+			"hash": -792938398
+		},
+		"type": 1,
+		"desc": {
+			"hash": 921433573
+		},
+		"model": "ExtraStory_Elite_Fast",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Fast",
+		"maxSuperpose": 5,
+		"paramBase_1": 0.2,
+		"paramAdd_1": 0.2,
+		"paramBase_2": 0.1,
+		"paramAdd_2": 0.1,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 10001
+	},
+	{
+		"name": {
+			"hash": 1198369215
+		},
+		"type": 1,
+		"desc": {
+			"hash": 1190672962
+		},
+		"model": "ExtraStory_Elite_Power",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power",
+		"maxSuperpose": 5,
+		"paramBase_1": 0.18,
+		"paramAdd_1": 0.18,
+		"paramBase_2": 0.1,
+		"paramAdd_2": 0.1,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 10002
+	},
+	{
+		"name": {
+			"hash": -276916376
+		},
+		"type": 1,
+		"desc": {
+			"hash": 452554475
+		},
+		"model": "ExtraStory_Elite_RangeAttackShield",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_RangeAttackShield",
+		"maxSuperpose": 5,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.18,
+		"paramBase_2": 0,
+		"paramAdd_2": 0.3,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 10003
+	},
+	{
+		"name": {
+			"hash": 1107227033
+		},
+		"type": 1,
+		"desc": {
+			"hash": 1570310172
+		},
+		"model": "ExtraStory_Elite_Bramble",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Bramble",
+		"maxSuperpose": 5,
+		"paramBase_1": 1.6,
+		"paramAdd_1": 0.4,
+		"paramBase_2": 0,
+		"paramAdd_2": 1.2,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 10004
+	},
+	{
+		"name": {
+			"hash": 2069372068
+		},
+		"type": 1,
+		"desc": {
+			"hash": 193460263
+		},
+		"model": "ExtraStory_Elite_Revenge",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Revenge",
+		"maxSuperpose": 5,
+		"paramBase_1": 0.5,
+		"paramAdd_1": 0.5,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 10005
+	},
+	{
+		"name": {
+			"hash": -792540665
+		},
+		"type": 1,
+		"desc": {
+			"hash": -328428918
+		},
+		"model": "ExtraStory_Elite_Slow",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_SpeedDown",
+		"maxSuperpose": 5,
+		"paramBase_1": -0.1,
+		"paramAdd_1": -0.1,
+		"paramBase_2": -0.1,
+		"paramAdd_2": -0.1,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 10006
+	},
+	{
+		"name": {
+			"hash": -1041342048
+		},
+		"type": 1,
+		"desc": {
+			"hash": 1094602051
+		},
+		"model": "ExtraStory_Elite_Spboost",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_SPBurn",
+		"maxSuperpose": 5,
+		"paramBase_1": 20,
+		"paramAdd_1": 20,
+		"paramBase_2": 0.1,
+		"paramAdd_2": 0.1,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 10007
+	},
+	{
+		"name": {
+			"hash": 1185333685
+		},
+		"type": 1,
+		"desc": {
+			"hash": -1662190536
+		},
+		"model": "ExtraStory_Elite_Bless",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Bless",
+		"maxSuperpose": 5,
+		"paramBase_1": 0.4,
+		"paramAdd_1": 0.12,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 10008
+	},
+	{
+		"name": {
+			"hash": -793046931
+		},
+		"type": 1,
+		"desc": {
+			"hash": 1040388848
+		},
+		"model": "ExtraStory_Elite_Blur",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Blur",
+		"maxSuperpose": 5,
+		"paramBase_1": -0.12,
+		"paramAdd_1": -0.12,
+		"paramBase_2": 0.3,
+		"paramAdd_2": 0.3,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 10009
+	},
+	{
+		"name": {
+			"hash": -1407785715
+		},
+		"type": 1,
+		"desc": {
+			"hash": -451917936
+		},
+		"model": "ExtraStory_Elite_DebuffTimeReduce",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_ImmuneDebuff",
+		"maxSuperpose": 5,
+		"paramBase_1": 0.12,
+		"paramAdd_1": 0.12,
+		"paramBase_2": 0.15,
+		"paramAdd_2": 0.15,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 10010
+	},
+	{
+		"name": {
+			"hash": -1002353599
+		},
+		"type": 1,
+		"desc": {
+			"hash": -641058108
+		},
+		"model": "ExtraStory_Elite_WitchTimeBUff",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_ImmuneWitchTime",
+		"maxSuperpose": 5,
+		"paramBase_1": 0.6,
+		"paramAdd_1": 0.6,
+		"paramBase_2": 0.2,
+		"paramAdd_2": 0.2,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 10011
+	},
+	{
+		"name": {
+			"hash": 1437726597
+		},
+		"type": 2,
+		"desc": {
+			"hash": 328032776
+		},
+		"model": "ExtraStory_TianMing_HPSupply",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TM_01",
+		"maxSuperpose": 5,
+		"paramBase_1": 0.35,
+		"paramAdd_1": 0.05,
+		"paramBase_2": 0.16,
+		"paramAdd_2": 0.16,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 10012
+	},
+	{
+		"name": {
+			"hash": -866196198
+		},
+		"type": 2,
+		"desc": {
+			"hash": -992875875
+		},
+		"model": "ExtraStory_TianMing_SPSupply",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TM_02",
+		"maxSuperpose": 5,
+		"paramBase_1": 0.35,
+		"paramAdd_1": 0.05,
+		"paramBase_2": 10,
+		"paramAdd_2": 10,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 10013
+	},
+	{
+		"name": {
+			"hash": 429549407
+		},
+		"type": 2,
+		"desc": {
+			"hash": 1574787042
+		},
+		"model": "ExtraStory_TianMing_AlterHPSupply",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TM_01g",
+		"maxSuperpose": 5,
+		"paramBase_1": 0.15,
+		"paramAdd_1": 0.07,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 10014
+	},
+	{
+		"name": {
+			"hash": -1874373388
+		},
+		"type": 2,
+		"desc": {
+			"hash": 253878391
+		},
+		"model": "ExtraStory_TianMing_AlterSPSupply",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TM_02g",
+		"maxSuperpose": 5,
+		"paramBase_1": 0.5,
+		"paramAdd_1": 0.5,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 10015
+	},
+	{
+		"name": {
+			"hash": -642810183
+		},
+		"type": 2,
+		"desc": {
+			"hash": 2130343228
+		},
+		"model": "ExtraStory_TianMing_WeaponSupply",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TM_03",
+		"maxSuperpose": 5,
+		"paramBase_1": 0.2,
+		"paramAdd_1": 0.2,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 10016
+	},
+	{
+		"name": {
+			"hash": -1456745280
+		},
+		"type": 2,
+		"desc": {
+			"hash": 497013827
+		},
+		"model": "ExtraStory_TianMing_ArmorSupply",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TM_04",
+		"maxSuperpose": 5,
+		"paramBase_1": -0.2,
+		"paramAdd_1": -0.1,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 10017
+	},
+	{
+		"name": {
+			"hash": -1849134701
+		},
+		"type": 2,
+		"desc": {
+			"hash": -1840779754
+		},
+		"model": "ExtraStory_TianMing_AlterWeaponSupply",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TM_03g",
+		"maxSuperpose": 5,
+		"paramBase_1": 2,
+		"paramAdd_1": 1,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 10018
+	},
+	{
+		"name": {
+			"hash": -1357111642
+		},
+		"type": 2,
+		"desc": {
+			"hash": -323823575
+		},
+		"model": "ExtraStory_TianMing_AlterArmorSupply",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TM_04g",
+		"maxSuperpose": 5,
+		"paramBase_1": 0.5,
+		"paramAdd_1": 0.08,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 10019
+	},
+	{
+		"name": {
+			"hash": 980249920
+		},
+		"type": 4,
+		"desc": {
+			"hash": -1576997693
+		},
+		"model": "ElderStone_FuxiFire",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FX_01",
+		"maxSuperpose": 5,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.15,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 10020
+	},
+	{
+		"name": {
+			"hash": -938207679
+		},
+		"type": 4,
+		"desc": {
+			"hash": -348977980
+		},
+		"model": "ElderStone_FuxiIce",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FX_02",
+		"maxSuperpose": 5,
+		"paramBase_1": 0,
+		"paramAdd_1": 2,
+		"paramBase_2": 3.2,
+		"paramAdd_2": 0.8,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 10021
+	},
+	{
+		"name": {
+			"hash": 657379738
+		},
+		"type": 4,
+		"desc": {
+			"hash": 422401821
+		},
+		"model": "ElderStone_FuxiThunder",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FX_03",
+		"maxSuperpose": 5,
+		"paramBase_1": 0,
+		"paramAdd_1": 2,
+		"paramBase_2": 3.2,
+		"paramAdd_2": 0.8,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 10022
+	},
+	{
+		"name": {
+			"hash": -1687412427
+		},
+		"type": 4,
+		"desc": {
+			"hash": -468001864
+		},
+		"model": "ElderStone_Nvwa1",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_NW_01",
+		"maxSuperpose": 5,
+		"paramBase_1": 3.2,
+		"paramAdd_1": 0.8,
+		"paramBase_2": 0,
+		"paramAdd_2": 2,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 10023
+	},
+	{
+		"name": {
+			"hash": -1687412426
+		},
+		"type": 4,
+		"desc": {
+			"hash": 2019510969
+		},
+		"model": "ElderStone_Nvwa2",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_NW_02",
+		"maxSuperpose": 5,
+		"paramBase_1": 1.5,
+		"paramAdd_1": 1.5,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 10024
+	},
+	{
+		"name": {
+			"hash": -1687412425
+		},
+		"type": 4,
+		"desc": {
+			"hash": 212056506
+		},
+		"model": "ElderStone_Nvwa3",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_NW_03",
+		"maxSuperpose": 5,
+		"paramBase_1": 5,
+		"paramAdd_1": 2,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 10025
+	},
+	{
+		"name": {
+			"hash": -893594188
+		},
+		"type": 4,
+		"desc": {
+			"hash": 1869259063
+		},
+		"model": "ElderStone_Xuanyuan1",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_XY_01",
+		"maxSuperpose": 5,
+		"paramBase_1": 0.02,
+		"paramAdd_1": 0.02,
+		"paramBase_2": 3,
+		"paramAdd_2": 1,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 10026
+	},
+	{
+		"name": {
+			"hash": -893594187
+		},
+		"type": 4,
+		"desc": {
+			"hash": 61804600
+		},
+		"model": "ElderStone_Xuanyuan2",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_XY_02",
+		"maxSuperpose": 5,
+		"paramBase_1": 1,
+		"paramAdd_1": 0.3,
+		"paramBase_2": 10,
+		"paramAdd_2": -1,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 10027
+	},
+	{
+		"name": {
+			"hash": -893594186
+		},
+		"type": 4,
+		"desc": {
+			"hash": -1745649863
+		},
+		"model": "ElderStone_Xuanyuan3",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_XY_03",
+		"maxSuperpose": 5,
+		"paramBase_1": 1,
+		"paramAdd_1": 0.3,
+		"paramBase_2": 10,
+		"paramAdd_2": -1,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 10028
+	},
+	{
+		"name": {
+			"hash": 1911735183
+		},
+		"type": 4,
+		"desc": {
+			"hash": 1122927634
+		},
+		"model": "ElderStone_Shennong1",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_SN_01",
+		"maxSuperpose": 5,
+		"paramBase_1": 0.4,
+		"paramAdd_1": 0.4,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 10029
+	},
+	{
+		"name": {
+			"hash": 1911735184
+		},
+		"type": 4,
+		"desc": {
+			"hash": -684526829
+		},
+		"model": "ElderStone_Shennong2",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_SN_02",
+		"maxSuperpose": 5,
+		"paramBase_1": 0.05,
+		"paramAdd_1": 0.05,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 10030
+	},
+	{
+		"name": {
+			"hash": 1911735185
+		},
+		"type": 4,
+		"desc": {
+			"hash": 1802986004
+		},
+		"model": "ElderStone_Shennong3",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_SN_03",
+		"maxSuperpose": 5,
+		"paramBase_1": 3,
+		"paramAdd_1": 3,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 10031
+	},
+	{
+		"name": {
+			"hash": 1568050078
+		},
+		"type": 3,
+		"desc": {
+			"hash": 573361441
+		},
+		"model": "ExtraStory_ReverseEntropy_DarkTechWeapon",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_NS_01",
+		"maxSuperpose": 5,
+		"paramBase_1": 0.25,
+		"paramAdd_1": 0.25,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 10032
+	},
+	{
+		"name": {
+			"hash": -1796241814
+		},
+		"type": 3,
+		"desc": {
+			"hash": 1553218541
+		},
+		"model": "ExtraStory_ReverseEntropy_HonKaiEnergy",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_NS_02",
+		"maxSuperpose": 5,
+		"paramBase_1": 0,
+		"paramAdd_1": 1,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 10033
+	},
+	{
+		"name": {
+			"hash": -1077715075
+		},
+		"type": 3,
+		"desc": {
+			"hash": 127095296
+		},
+		"model": "ExtraStory_ReverseEntropy_DarkTechArmor",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_NS_03",
+		"maxSuperpose": 5,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.2,
+		"paramBase_2": 0.12,
+		"paramAdd_2": 0.04,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 10034
+	},
+	{
+		"name": {
+			"hash": -1884471944
+		},
+		"type": 3,
+		"desc": {
+			"hash": 1365837051
+		},
+		"model": "ExtraStory_ReverseEntropy_PrecisePart",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_NS_04",
+		"maxSuperpose": 5,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.3,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 10035
+	},
+	{
+		"name": {
+			"hash": -1390785372
+		},
+		"type": 31,
+		"desc": {
+			"hash": 807020583
+		},
+		"model": "ExtraStory_Elements_Fire",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_YS_01",
+		"maxSuperpose": 5,
+		"paramBase_1": 0.2,
+		"paramAdd_1": 0.2,
+		"paramBase_2": 0.18,
+		"paramAdd_2": 0.18,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 10036
+	},
+	{
+		"name": {
+			"hash": 509327965
+		},
+		"type": 31,
+		"desc": {
+			"hash": 420662496
+		},
+		"model": "ExtraStory_Elements_Ice",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_YS_02",
+		"maxSuperpose": 5,
+		"paramBase_1": 0.2,
+		"paramAdd_1": 0.2,
+		"paramBase_2": 0.18,
+		"paramAdd_2": 0.18,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 10037
+	},
+	{
+		"name": {
+			"hash": 177145782
+		},
+		"type": 31,
+		"desc": {
+			"hash": 1131655481
+		},
+		"model": "ExtraStory_Elements_Thunder",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_YS_03",
+		"maxSuperpose": 5,
+		"paramBase_1": 0.2,
+		"paramAdd_1": 0.2,
+		"paramBase_2": 0.18,
+		"paramAdd_2": 0.18,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 10038
+	},
+	{
+		"name": {
+			"hash": -792938398
+		},
+		"type": 101,
+		"desc": {
+			"hash": 921433573
+		},
+		"model": "ExtraStory_Elite_Fast",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Fast",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.06,
+		"paramBase_2": 0,
+		"paramAdd_2": 0.05,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 20001
+	},
+	{
+		"name": {
+			"hash": 1198369215
+		},
+		"type": 101,
+		"desc": {
+			"hash": 1190672962
+		},
+		"model": "ExtraStory_Elite_Power",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.08,
+		"paramBase_2": 0,
+		"paramAdd_2": 0.05,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 20002
+	},
+	{
+		"name": {
+			"hash": -276916376
+		},
+		"type": 101,
+		"desc": {
+			"hash": 452554475
+		},
+		"model": "ExtraStory_Elite_RangeAttackShield",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_RangeAttackShield",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.08,
+		"paramBase_2": 0,
+		"paramAdd_2": 0.15,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 20003
+	},
+	{
+		"name": {
+			"hash": 1107227033
+		},
+		"type": 101,
+		"desc": {
+			"hash": 1570310172
+		},
+		"model": "ExtraStory_Elite_Bramble",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Bramble",
+		"maxSuperpose": 10,
+		"paramBase_1": 0.8,
+		"paramAdd_1": 0.2,
+		"paramBase_2": 0,
+		"paramAdd_2": 0.6,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 20004
+	},
+	{
+		"name": {
+			"hash": 2069372068
+		},
+		"type": 101,
+		"desc": {
+			"hash": 193460263
+		},
+		"model": "ExtraStory_Elite_Revenge",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Revenge",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.2,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 20005
+	},
+	{
+		"name": {
+			"hash": -792540665
+		},
+		"type": 101,
+		"desc": {
+			"hash": -328428918
+		},
+		"model": "ExtraStory_Elite_Slow",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_SpeedDown",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": -0.05,
+		"paramBase_2": 0,
+		"paramAdd_2": -0.05,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 20006
+	},
+	{
+		"name": {
+			"hash": -1041342048
+		},
+		"type": 101,
+		"desc": {
+			"hash": 1094602051
+		},
+		"model": "ExtraStory_Elite_Spboost",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_SPBurn",
+		"maxSuperpose": 10,
+		"paramBase_1": 10,
+		"paramAdd_1": 10,
+		"paramBase_2": 0.03,
+		"paramAdd_2": 0.03,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 20007
+	},
+	{
+		"name": {
+			"hash": 1185333685
+		},
+		"type": 101,
+		"desc": {
+			"hash": -1662190536
+		},
+		"model": "ExtraStory_Elite_Bless",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Bless",
+		"maxSuperpose": 10,
+		"paramBase_1": 0.2,
+		"paramAdd_1": 0.06,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 20008
+	},
+	{
+		"name": {
+			"hash": -793046931
+		},
+		"type": 101,
+		"desc": {
+			"hash": 1040388848
+		},
+		"model": "ExtraStory_Elite_Blur",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Blur",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": -0.075,
+		"paramBase_2": 0,
+		"paramAdd_2": 0.15,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 20009
+	},
+	{
+		"name": {
+			"hash": -1407785715
+		},
+		"type": 101,
+		"desc": {
+			"hash": -451917936
+		},
+		"model": "ExtraStory_Elite_DebuffTimeReduce",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_ImmuneDebuff",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.06,
+		"paramBase_2": 0,
+		"paramAdd_2": 0.075,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 20010
+	},
+	{
+		"name": {
+			"hash": -1002353599
+		},
+		"type": 101,
+		"desc": {
+			"hash": -641058108
+		},
+		"model": "ExtraStory_Elite_WitchTimeBUff",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_ImmuneWitchTime",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.25,
+		"paramBase_2": 0,
+		"paramAdd_2": 0.1,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 20011
+	},
+	{
+		"name": {
+			"hash": 1437726597
+		},
+		"type": 102,
+		"desc": {
+			"hash": 328032776
+		},
+		"model": "ExtraStory_TianMing_HPSupply",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TM_01",
+		"maxSuperpose": 10,
+		"paramBase_1": 0.09,
+		"paramAdd_1": 0.01,
+		"paramBase_2": 0,
+		"paramAdd_2": 0.015,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 20012
+	},
+	{
+		"name": {
+			"hash": -866196198
+		},
+		"type": 102,
+		"desc": {
+			"hash": -992875875
+		},
+		"model": "ExtraStory_TianMing_SPSupply",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TM_02",
+		"maxSuperpose": 10,
+		"paramBase_1": 0.18,
+		"paramAdd_1": 0.02,
+		"paramBase_2": 15,
+		"paramAdd_2": 5,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 20013
+	},
+	{
+		"name": {
+			"hash": 429549407
+		},
+		"type": 102,
+		"desc": {
+			"hash": 1574787042
+		},
+		"model": "ExtraStory_TianMing_AlterHPSupply",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TM_01g",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.07,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 20014
+	},
+	{
+		"name": {
+			"hash": -1874373388
+		},
+		"type": 102,
+		"desc": {
+			"hash": 253878391
+		},
+		"model": "ExtraStory_TianMing_AlterSPSupply",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TM_02g",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.25,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 20015
+	},
+	{
+		"name": {
+			"hash": -642810183
+		},
+		"type": 102,
+		"desc": {
+			"hash": 2130343228
+		},
+		"model": "ExtraStory_TianMing_WeaponSupply",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TM_03",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.1,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 20016
+	},
+	{
+		"name": {
+			"hash": -1456745280
+		},
+		"type": 102,
+		"desc": {
+			"hash": 497013827
+		},
+		"model": "ExtraStory_TianMing_ArmorSupply",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TM_04",
+		"maxSuperpose": 10,
+		"paramBase_1": -0.1,
+		"paramAdd_1": -0.05,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 20017
+	},
+	{
+		"name": {
+			"hash": -1849134701
+		},
+		"type": 102,
+		"desc": {
+			"hash": -1840779754
+		},
+		"model": "ExtraStory_TianMing_AlterWeaponSupply",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TM_03g",
+		"maxSuperpose": 10,
+		"paramBase_1": 1,
+		"paramAdd_1": 0.5,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 20018
+	},
+	{
+		"name": {
+			"hash": -1357111642
+		},
+		"type": 102,
+		"desc": {
+			"hash": -323823575
+		},
+		"model": "ExtraStory_TianMing_AlterArmorSupply",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TM_04g",
+		"maxSuperpose": 10,
+		"paramBase_1": 0.3,
+		"paramAdd_1": 0.04,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 20019
+	},
+	{
+		"name": {
+			"hash": 980249920
+		},
+		"type": 103,
+		"desc": {
+			"hash": -1576997693
+		},
+		"model": "ElderStone_FuxiFire",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FX_01",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.075,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 20020
+	},
+	{
+		"name": {
+			"hash": -938207679
+		},
+		"type": 103,
+		"desc": {
+			"hash": -348977980
+		},
+		"model": "ElderStone_FuxiIce",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FX_02",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": 1,
+		"paramBase_2": 1.6,
+		"paramAdd_2": 0.4,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 20021
+	},
+	{
+		"name": {
+			"hash": 657379738
+		},
+		"type": 103,
+		"desc": {
+			"hash": 422401821
+		},
+		"model": "ElderStone_FuxiThunder",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FX_03",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": 1,
+		"paramBase_2": 1.6,
+		"paramAdd_2": 0.4,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 20022
+	},
+	{
+		"name": {
+			"hash": -1687412427
+		},
+		"type": 103,
+		"desc": {
+			"hash": -468001864
+		},
+		"model": "ElderStone_Nvwa1",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_NW_01",
+		"maxSuperpose": 10,
+		"paramBase_1": 1.6,
+		"paramAdd_1": 0.4,
+		"paramBase_2": 0,
+		"paramAdd_2": 1,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 20023
+	},
+	{
+		"name": {
+			"hash": -1687412426
+		},
+		"type": 103,
+		"desc": {
+			"hash": 2019510969
+		},
+		"model": "ElderStone_Nvwa2",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_NW_02",
+		"maxSuperpose": 10,
+		"paramBase_1": 1,
+		"paramAdd_1": 0.6,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 20024
+	},
+	{
+		"name": {
+			"hash": -1687412425
+		},
+		"type": 103,
+		"desc": {
+			"hash": 212056506
+		},
+		"model": "ElderStone_Nvwa3",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_NW_03",
+		"maxSuperpose": 10,
+		"paramBase_1": 2.5,
+		"paramAdd_1": 1,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 20025
+	},
+	{
+		"name": {
+			"hash": -893594188
+		},
+		"type": 103,
+		"desc": {
+			"hash": 1869259063
+		},
+		"model": "ElderStone_Xuanyuan1",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_XY_01",
+		"maxSuperpose": 10,
+		"paramBase_1": 0.01,
+		"paramAdd_1": 0.005,
+		"paramBase_2": 1.5,
+		"paramAdd_2": 0.5,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 20026
+	},
+	{
+		"name": {
+			"hash": -893594187
+		},
+		"type": 103,
+		"desc": {
+			"hash": 61804600
+		},
+		"model": "ElderStone_Xuanyuan2",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_XY_02",
+		"maxSuperpose": 10,
+		"paramBase_1": 0.5,
+		"paramAdd_1": 0.15,
+		"paramBase_2": 12,
+		"paramAdd_2": -0.6,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 20027
+	},
+	{
+		"name": {
+			"hash": -893594186
+		},
+		"type": 103,
+		"desc": {
+			"hash": -1745649863
+		},
+		"model": "ElderStone_Xuanyuan3",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_XY_03",
+		"maxSuperpose": 10,
+		"paramBase_1": 0.5,
+		"paramAdd_1": 0.15,
+		"paramBase_2": 12,
+		"paramAdd_2": -0.6,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 20028
+	},
+	{
+		"name": {
+			"hash": 1911735183
+		},
+		"type": 103,
+		"desc": {
+			"hash": 1122927634
+		},
+		"model": "ElderStone_Shennong1",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_SN_01",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.12,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 20029
+	},
+	{
+		"name": {
+			"hash": 1911735184
+		},
+		"type": 103,
+		"desc": {
+			"hash": -684526829
+		},
+		"model": "ElderStone_Shennong2",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_SN_02",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.008,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 20030
+	},
+	{
+		"name": {
+			"hash": 1911735185
+		},
+		"type": 103,
+		"desc": {
+			"hash": 1802986004
+		},
+		"model": "ElderStone_Shennong3",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_SN_03",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": 1,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 20031
+	},
+	{
+		"name": {
+			"hash": 1568050078
+		},
+		"type": 104,
+		"desc": {
+			"hash": 573361441
+		},
+		"model": "ExtraStory_ReverseEntropy_DarkTechWeapon",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_NS_01",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.1,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 20032
+	},
+	{
+		"name": {
+			"hash": -1796241814
+		},
+		"type": 104,
+		"desc": {
+			"hash": 1553218541
+		},
+		"model": "ExtraStory_ReverseEntropy_HonKaiEnergy",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_NS_02",
+		"maxSuperpose": 10,
+		"paramBase_1": 0.5,
+		"paramAdd_1": 0.5,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 20033
+	},
+	{
+		"name": {
+			"hash": -1077715075
+		},
+		"type": 104,
+		"desc": {
+			"hash": 127095296
+		},
+		"model": "ExtraStory_ReverseEntropy_DarkTechArmor",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_NS_03",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.08,
+		"paramBase_2": 0.06,
+		"paramAdd_2": 0.012,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 20034
+	},
+	{
+		"name": {
+			"hash": -1884471944
+		},
+		"type": 104,
+		"desc": {
+			"hash": 1365837051
+		},
+		"model": "ExtraStory_ReverseEntropy_PrecisePart",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_NS_04",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.15,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 20035
+	},
+	{
+		"name": {
+			"hash": -1390785372
+		},
+		"type": 105,
+		"desc": {
+			"hash": 807020583
+		},
+		"model": "ExtraStory_Elements_Fire",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_YS_01",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.06,
+		"paramBase_2": 0,
+		"paramAdd_2": 0.06,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 20036
+	},
+	{
+		"name": {
+			"hash": 509327965
+		},
+		"type": 105,
+		"desc": {
+			"hash": 420662496
+		},
+		"model": "ExtraStory_Elements_Ice",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_YS_02",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.06,
+		"paramBase_2": 0,
+		"paramAdd_2": 0.06,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 20037
+	},
+	{
+		"name": {
+			"hash": 177145782
+		},
+		"type": 105,
+		"desc": {
+			"hash": 1131655481
+		},
+		"model": "ExtraStory_Elements_Thunder",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_YS_03",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.06,
+		"paramBase_2": 0,
+		"paramAdd_2": 0.06,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 20038
+	},
+	{
+		"name": {
+			"hash": -218252790
+		},
+		"type": 106,
+		"desc": {
+			"hash": 428134285
+		},
+		"model": "RogueBuff_Item_Armour",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_BlackArmour",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.3,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 20039
+	},
+	{
+		"name": {
+			"hash": 252402356
+		},
+		"type": 106,
+		"desc": {
+			"hash": 325330487
+		},
+		"model": "RogueBuff_Item_Rabbit",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_RabbitEars",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": 4,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 20040
+	},
+	{
+		"name": {
+			"hash": -792938398
+		},
+		"type": 201,
+		"desc": {
+			"hash": 921433573
+		},
+		"model": "ExtraStory_Elite_Fast",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Fast",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.06,
+		"paramBase_2": 0,
+		"paramAdd_2": 0.05,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 30001
+	},
+	{
+		"name": {
+			"hash": 1198369215
+		},
+		"type": 201,
+		"desc": {
+			"hash": 1190672962
+		},
+		"model": "ExtraStory_Elite_Power",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.08,
+		"paramBase_2": 0,
+		"paramAdd_2": 0.05,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 30002
+	},
+	{
+		"name": {
+			"hash": -276916376
+		},
+		"type": 201,
+		"desc": {
+			"hash": 452554475
+		},
+		"model": "ExtraStory_Elite_RangeAttackShield",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_RangeAttackShield",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.08,
+		"paramBase_2": 0,
+		"paramAdd_2": 0.15,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 30003
+	},
+	{
+		"name": {
+			"hash": 1107227033
+		},
+		"type": 201,
+		"desc": {
+			"hash": 1570310172
+		},
+		"model": "ExtraStory_Elite_Bramble",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Bramble",
+		"maxSuperpose": 10,
+		"paramBase_1": 0.8,
+		"paramAdd_1": 0.2,
+		"paramBase_2": 0,
+		"paramAdd_2": 0.6,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 30004
+	},
+	{
+		"name": {
+			"hash": 2069372068
+		},
+		"type": 201,
+		"desc": {
+			"hash": 193460263
+		},
+		"model": "ExtraStory_Elite_Revenge",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Revenge",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.2,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 30005
+	},
+	{
+		"name": {
+			"hash": -792540665
+		},
+		"type": 201,
+		"desc": {
+			"hash": -328428918
+		},
+		"model": "ExtraStory_Elite_Slow",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_SpeedDown",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": -0.05,
+		"paramBase_2": 0,
+		"paramAdd_2": -0.05,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 30006
+	},
+	{
+		"name": {
+			"hash": -1041342048
+		},
+		"type": 201,
+		"desc": {
+			"hash": 1094602051
+		},
+		"model": "ExtraStory_Elite_Spboost",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_SPBurn",
+		"maxSuperpose": 10,
+		"paramBase_1": 10,
+		"paramAdd_1": 10,
+		"paramBase_2": 0.03,
+		"paramAdd_2": 0.03,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 30007
+	},
+	{
+		"name": {
+			"hash": 1185333685
+		},
+		"type": 201,
+		"desc": {
+			"hash": -1662190536
+		},
+		"model": "ExtraStory_Elite_Bless",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Bless",
+		"maxSuperpose": 10,
+		"paramBase_1": 0.2,
+		"paramAdd_1": 0.06,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 30008
+	},
+	{
+		"name": {
+			"hash": -793046931
+		},
+		"type": 201,
+		"desc": {
+			"hash": 1040388848
+		},
+		"model": "ExtraStory_Elite_Blur",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Blur",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": -0.075,
+		"paramBase_2": 0,
+		"paramAdd_2": 0.15,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 30009
+	},
+	{
+		"name": {
+			"hash": -1407785715
+		},
+		"type": 201,
+		"desc": {
+			"hash": -451917936
+		},
+		"model": "ExtraStory_Elite_DebuffTimeReduce",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_ImmuneDebuff",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.06,
+		"paramBase_2": 0,
+		"paramAdd_2": 0.075,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 30010
+	},
+	{
+		"name": {
+			"hash": -1002353599
+		},
+		"type": 201,
+		"desc": {
+			"hash": -641058108
+		},
+		"model": "ExtraStory_Elite_WitchTimeBUff",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_ImmuneWitchTime",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.25,
+		"paramBase_2": 0,
+		"paramAdd_2": 0.1,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 30011
+	},
+	{
+		"name": {
+			"hash": 1437726597
+		},
+		"type": 202,
+		"desc": {
+			"hash": 328032776
+		},
+		"model": "ExtraStory_TianMing_HPSupply",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TM_01",
+		"maxSuperpose": 10,
+		"paramBase_1": 0.09,
+		"paramAdd_1": 0.01,
+		"paramBase_2": 0,
+		"paramAdd_2": 0.015,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 30012
+	},
+	{
+		"name": {
+			"hash": -866196198
+		},
+		"type": 202,
+		"desc": {
+			"hash": -992875875
+		},
+		"model": "ExtraStory_TianMing_SPSupply",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TM_02",
+		"maxSuperpose": 10,
+		"paramBase_1": 0.18,
+		"paramAdd_1": 0.02,
+		"paramBase_2": 15,
+		"paramAdd_2": 5,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 30013
+	},
+	{
+		"name": {
+			"hash": 429549407
+		},
+		"type": 202,
+		"desc": {
+			"hash": 1574787042
+		},
+		"model": "ExtraStory_TianMing_AlterHPSupply",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TM_01g",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.07,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 30014
+	},
+	{
+		"name": {
+			"hash": -1874373388
+		},
+		"type": 202,
+		"desc": {
+			"hash": 253878391
+		},
+		"model": "ExtraStory_TianMing_AlterSPSupply",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TM_02g",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.25,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 30015
+	},
+	{
+		"name": {
+			"hash": -642810183
+		},
+		"type": 202,
+		"desc": {
+			"hash": 2130343228
+		},
+		"model": "ExtraStory_TianMing_WeaponSupply",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TM_03",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.1,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 30016
+	},
+	{
+		"name": {
+			"hash": -1456745280
+		},
+		"type": 202,
+		"desc": {
+			"hash": 497013827
+		},
+		"model": "ExtraStory_TianMing_ArmorSupply",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TM_04",
+		"maxSuperpose": 10,
+		"paramBase_1": -0.1,
+		"paramAdd_1": -0.05,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 30017
+	},
+	{
+		"name": {
+			"hash": -1849134701
+		},
+		"type": 202,
+		"desc": {
+			"hash": -1840779754
+		},
+		"model": "ExtraStory_TianMing_AlterWeaponSupply",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TM_03g",
+		"maxSuperpose": 10,
+		"paramBase_1": 1,
+		"paramAdd_1": 0.5,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 30018
+	},
+	{
+		"name": {
+			"hash": -1357111642
+		},
+		"type": 202,
+		"desc": {
+			"hash": -323823575
+		},
+		"model": "ExtraStory_TianMing_AlterArmorSupply",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TM_04g",
+		"maxSuperpose": 10,
+		"paramBase_1": 0.3,
+		"paramAdd_1": 0.04,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 30019
+	},
+	{
+		"name": {
+			"hash": 980249920
+		},
+		"type": 303,
+		"desc": {
+			"hash": -1576997693
+		},
+		"model": "ElderStone_FuxiFire",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FX_01",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.075,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 30020
+	},
+	{
+		"name": {
+			"hash": -938207679
+		},
+		"type": 303,
+		"desc": {
+			"hash": -348977980
+		},
+		"model": "ElderStone_FuxiIce",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FX_02",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": 1,
+		"paramBase_2": 1.6,
+		"paramAdd_2": 0.4,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 30021
+	},
+	{
+		"name": {
+			"hash": 657379738
+		},
+		"type": 303,
+		"desc": {
+			"hash": 422401821
+		},
+		"model": "ElderStone_FuxiThunder",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FX_03",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": 1,
+		"paramBase_2": 1.6,
+		"paramAdd_2": 0.4,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 30022
+	},
+	{
+		"name": {
+			"hash": -1687412427
+		},
+		"type": 303,
+		"desc": {
+			"hash": -468001864
+		},
+		"model": "ElderStone_Nvwa1",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_NW_01",
+		"maxSuperpose": 10,
+		"paramBase_1": 1.6,
+		"paramAdd_1": 0.4,
+		"paramBase_2": 0,
+		"paramAdd_2": 1,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 30023
+	},
+	{
+		"name": {
+			"hash": -1687412426
+		},
+		"type": 303,
+		"desc": {
+			"hash": 2019510969
+		},
+		"model": "ElderStone_Nvwa2",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_NW_02",
+		"maxSuperpose": 10,
+		"paramBase_1": 1,
+		"paramAdd_1": 0.6,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 30024
+	},
+	{
+		"name": {
+			"hash": -1687412425
+		},
+		"type": 303,
+		"desc": {
+			"hash": 212056506
+		},
+		"model": "ElderStone_Nvwa3",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_NW_03",
+		"maxSuperpose": 10,
+		"paramBase_1": 2.5,
+		"paramAdd_1": 1,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 30025
+	},
+	{
+		"name": {
+			"hash": -893594188
+		},
+		"type": 303,
+		"desc": {
+			"hash": 1869259063
+		},
+		"model": "ElderStone_Xuanyuan1",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_XY_01",
+		"maxSuperpose": 10,
+		"paramBase_1": 0.01,
+		"paramAdd_1": 0.005,
+		"paramBase_2": 1.5,
+		"paramAdd_2": 0.5,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 30026
+	},
+	{
+		"name": {
+			"hash": -893594187
+		},
+		"type": 303,
+		"desc": {
+			"hash": 61804600
+		},
+		"model": "ElderStone_Xuanyuan2",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_XY_02",
+		"maxSuperpose": 10,
+		"paramBase_1": 0.5,
+		"paramAdd_1": 0.15,
+		"paramBase_2": 12,
+		"paramAdd_2": -0.6,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 30027
+	},
+	{
+		"name": {
+			"hash": -893594186
+		},
+		"type": 303,
+		"desc": {
+			"hash": -1745649863
+		},
+		"model": "ElderStone_Xuanyuan3",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_XY_03",
+		"maxSuperpose": 10,
+		"paramBase_1": 0.5,
+		"paramAdd_1": 0.15,
+		"paramBase_2": 12,
+		"paramAdd_2": -0.6,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 30028
+	},
+	{
+		"name": {
+			"hash": 1911735183
+		},
+		"type": 303,
+		"desc": {
+			"hash": 1122927634
+		},
+		"model": "ElderStone_Shennong1",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_SN_01",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.12,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 30029
+	},
+	{
+		"name": {
+			"hash": 1911735184
+		},
+		"type": 303,
+		"desc": {
+			"hash": -684526829
+		},
+		"model": "ElderStone_Shennong2",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_SN_02",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.008,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 30030
+	},
+	{
+		"name": {
+			"hash": 1911735185
+		},
+		"type": 303,
+		"desc": {
+			"hash": 1802986004
+		},
+		"model": "ElderStone_Shennong3",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_SN_03",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": 1,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 30031
+	},
+	{
+		"name": {
+			"hash": 1568050078
+		},
+		"type": 304,
+		"desc": {
+			"hash": 573361441
+		},
+		"model": "ExtraStory_ReverseEntropy_DarkTechWeapon",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_NS_01",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.1,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 30032
+	},
+	{
+		"name": {
+			"hash": -1796241814
+		},
+		"type": 304,
+		"desc": {
+			"hash": 1553218541
+		},
+		"model": "ExtraStory_ReverseEntropy_HonKaiEnergy",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_NS_02",
+		"maxSuperpose": 10,
+		"paramBase_1": 0.5,
+		"paramAdd_1": 0.5,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 30033
+	},
+	{
+		"name": {
+			"hash": -1077715075
+		},
+		"type": 304,
+		"desc": {
+			"hash": 127095296
+		},
+		"model": "ExtraStory_ReverseEntropy_DarkTechArmor",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_NS_03",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.08,
+		"paramBase_2": 0.06,
+		"paramAdd_2": 0.012,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 30034
+	},
+	{
+		"name": {
+			"hash": -1884471944
+		},
+		"type": 304,
+		"desc": {
+			"hash": 1365837051
+		},
+		"model": "ExtraStory_ReverseEntropy_PrecisePart",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_NS_04",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.15,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 30035
+	},
+	{
+		"name": {
+			"hash": -1390785372
+		},
+		"type": 305,
+		"desc": {
+			"hash": 807020583
+		},
+		"model": "ExtraStory_Elements_Fire",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_YS_01",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.06,
+		"paramBase_2": 0,
+		"paramAdd_2": 0.06,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 30036
+	},
+	{
+		"name": {
+			"hash": 509327965
+		},
+		"type": 305,
+		"desc": {
+			"hash": 420662496
+		},
+		"model": "ExtraStory_Elements_Ice",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_YS_02",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.06,
+		"paramBase_2": 0,
+		"paramAdd_2": 0.06,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 30037
+	},
+	{
+		"name": {
+			"hash": 177145782
+		},
+		"type": 305,
+		"desc": {
+			"hash": 1131655481
+		},
+		"model": "ExtraStory_Elements_Thunder",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_YS_03",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.06,
+		"paramBase_2": 0,
+		"paramAdd_2": 0.06,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 30038
+	},
+	{
+		"name": {
+			"hash": -218252790
+		},
+		"type": 306,
+		"desc": {
+			"hash": 428134285
+		},
+		"model": "RogueBuff_Item_Armour",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_BlackArmour",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.3,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 30039
+	},
+	{
+		"name": {
+			"hash": 252402356
+		},
+		"type": 306,
+		"desc": {
+			"hash": 325330487
+		},
+		"model": "RogueBuff_Item_Rabbit",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_RabbitEars",
+		"maxSuperpose": 10,
+		"paramBase_1": 0,
+		"paramAdd_1": 4,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 30040
+	},
+	{
+		"name": {
+			"hash": -792938398
+		},
+		"type": 101,
+		"desc": {
+			"hash": 921433573
+		},
+		"model": "ExtraStory_Elite_Fast",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Fast",
+		"maxSuperpose": 5,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.12,
+		"paramBase_2": 0,
+		"paramAdd_2": 0.1,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 40001
+	},
+	{
+		"name": {
+			"hash": 1173697121
+		},
+		"type": 101,
+		"desc": {
+			"hash": 1755486334
+		},
+		"model": "ExtraStory_Elite_Power",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power",
+		"maxSuperpose": 5,
+		"paramBase_1": 0,
+		"paramAdd_1": 80,
+		"paramBase_2": 0,
+		"paramAdd_2": 0.16,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 40002
+	},
+	{
+		"name": {
+			"hash": -276916376
+		},
+		"type": 101,
+		"desc": {
+			"hash": -1840938059
+		},
+		"model": "ExtraStory_Elite_RangeAttackShield",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_RangeAttackShield",
+		"maxSuperpose": 5,
+		"paramBase_1": 0,
+		"paramAdd_1": -20,
+		"paramBase_2": 0,
+		"paramAdd_2": 80,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 40003
+	},
+	{
+		"name": {
+			"hash": 1107227033
+		},
+		"type": 101,
+		"desc": {
+			"hash": 1570310172
+		},
+		"model": "ExtraStory_Elite_Bramble",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Bramble",
+		"maxSuperpose": 5,
+		"paramBase_1": 0.8,
+		"paramAdd_1": 0.4,
+		"paramBase_2": 0,
+		"paramAdd_2": 1.2,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 40004
+	},
+	{
+		"name": {
+			"hash": 2069372068
+		},
+		"type": 101,
+		"desc": {
+			"hash": 193460263
+		},
+		"model": "ExtraStory_Elite_Revenge",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Revenge",
+		"maxSuperpose": 5,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.4,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 40005
+	},
+	{
+		"name": {
+			"hash": -792540665
+		},
+		"type": 101,
+		"desc": {
+			"hash": -328428918
+		},
+		"model": "ExtraStory_Elite_Slow",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_SpeedDown",
+		"maxSuperpose": 5,
+		"paramBase_1": 0,
+		"paramAdd_1": -0.1,
+		"paramBase_2": 0,
+		"paramAdd_2": -0.1,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 40006
+	},
+	{
+		"name": {
+			"hash": -1041342048
+		},
+		"type": 101,
+		"desc": {
+			"hash": -1848487331
+		},
+		"model": "ExtraStory_Elite_Spboost",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_SPBurn",
+		"maxSuperpose": 5,
+		"paramBase_1": 0,
+		"paramAdd_1": 8,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 40007
+	},
+	{
+		"name": {
+			"hash": 1185333685
+		},
+		"type": 101,
+		"desc": {
+			"hash": -1662190536
+		},
+		"model": "ExtraStory_Elite_Bless",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Bless",
+		"maxSuperpose": 5,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.1,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 40008
+	},
+	{
+		"name": {
+			"hash": -793046931
+		},
+		"type": 101,
+		"desc": {
+			"hash": -348045296
+		},
+		"model": "ExtraStory_Elite_Blur",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Blur",
+		"maxSuperpose": 5,
+		"paramBase_1": 0,
+		"paramAdd_1": -20,
+		"paramBase_2": 0,
+		"paramAdd_2": 80,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 40009
+	},
+	{
+		"name": {
+			"hash": -1407785715
+		},
+		"type": 101,
+		"desc": {
+			"hash": -451917936
+		},
+		"model": "ExtraStory_Elite_DebuffTimeReduce",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_ImmuneDebuff",
+		"maxSuperpose": 5,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.12,
+		"paramBase_2": 0,
+		"paramAdd_2": 0.12,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 40010
+	},
+	{
+		"name": {
+			"hash": -1002353599
+		},
+		"type": 101,
+		"desc": {
+			"hash": -641058108
+		},
+		"model": "ExtraStory_Elite_WitchTimeBUff",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_ImmuneWitchTime",
+		"maxSuperpose": 5,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.5,
+		"paramBase_2": 0,
+		"paramAdd_2": 0.2,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 40011
+	},
+	{
+		"name": {
+			"hash": 1437726597
+		},
+		"type": 102,
+		"desc": {
+			"hash": 328032776
+		},
+		"model": "ExtraStory_TianMing_HPSupply",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TM_01",
+		"maxSuperpose": 5,
+		"paramBase_1": 0.2,
+		"paramAdd_1": 0.06,
+		"paramBase_2": 0,
+		"paramAdd_2": 0.08,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 40012
+	},
+	{
+		"name": {
+			"hash": -866196198
+		},
+		"type": 102,
+		"desc": {
+			"hash": -992875875
+		},
+		"model": "ExtraStory_TianMing_SPSupply",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TM_02",
+		"maxSuperpose": 5,
+		"paramBase_1": 0.2,
+		"paramAdd_1": 0.06,
+		"paramBase_2": 0,
+		"paramAdd_2": 20,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 40013
+	},
+	{
+		"name": {
+			"hash": 429549407
+		},
+		"type": 102,
+		"desc": {
+			"hash": 619636446
+		},
+		"model": "ExtraStory_TianMing_AlterHPSupply",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TM_01g",
+		"maxSuperpose": 5,
+		"paramBase_1": 0,
+		"paramAdd_1": 30,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 40014
+	},
+	{
+		"name": {
+			"hash": -1874373388
+		},
+		"type": 102,
+		"desc": {
+			"hash": 1427143849
+		},
+		"model": "ExtraStory_TianMing_AlterSPSupply",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TM_02g",
+		"maxSuperpose": 5,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.4,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 40015
+	},
+	{
+		"name": {
+			"hash": -642810183
+		},
+		"type": 102,
+		"desc": {
+			"hash": 2130343228
+		},
+		"model": "ExtraStory_TianMing_WeaponSupply",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TM_03",
+		"maxSuperpose": 5,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.2,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 40016
+	},
+	{
+		"name": {
+			"hash": -1456745280
+		},
+		"type": 102,
+		"desc": {
+			"hash": 497013827
+		},
+		"model": "ExtraStory_TianMing_ArmorSupply",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TM_04",
+		"maxSuperpose": 5,
+		"paramBase_1": 0,
+		"paramAdd_1": -0.1,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 40017
+	},
+	{
+		"name": {
+			"hash": -1849134701
+		},
+		"type": 102,
+		"desc": {
+			"hash": 256683562
+		},
+		"model": "ExtraStory_TianMing_AlterWeaponSupply",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TM_03g",
+		"maxSuperpose": 5,
+		"paramBase_1": 0,
+		"paramAdd_1": 240,
+		"paramBase_2": 20,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 40018
+	},
+	{
+		"name": {
+			"hash": -1357111642
+		},
+		"type": 102,
+		"desc": {
+			"hash": -323823575
+		},
+		"model": "ExtraStory_TianMing_AlterArmorSupply",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TM_04g",
+		"maxSuperpose": 5,
+		"paramBase_1": 0.1,
+		"paramAdd_1": 0.1,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 40019
+	},
+	{
+		"name": {
+			"hash": 980249920
+		},
+		"type": 103,
+		"desc": {
+			"hash": -1576997693
+		},
+		"model": "ElderStone_FuxiFire",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FX_01",
+		"maxSuperpose": 5,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.5,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 40020
+	},
+	{
+		"name": {
+			"hash": -938207679
+		},
+		"type": 103,
+		"desc": {
+			"hash": -348977980
+		},
+		"model": "ElderStone_FuxiIce",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FX_02",
+		"maxSuperpose": 5,
+		"paramBase_1": 0,
+		"paramAdd_1": 3,
+		"paramBase_2": 1.6,
+		"paramAdd_2": 0.8,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 40021
+	},
+	{
+		"name": {
+			"hash": 657379738
+		},
+		"type": 103,
+		"desc": {
+			"hash": 422401821
+		},
+		"model": "ElderStone_FuxiThunder",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FX_03",
+		"maxSuperpose": 5,
+		"paramBase_1": 0,
+		"paramAdd_1": 3,
+		"paramBase_2": 1.6,
+		"paramAdd_2": 0.8,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 40022
+	},
+	{
+		"name": {
+			"hash": -1687412427
+		},
+		"type": 103,
+		"desc": {
+			"hash": -468001864
+		},
+		"model": "ElderStone_Nvwa1",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_NW_01",
+		"maxSuperpose": 5,
+		"paramBase_1": 1.6,
+		"paramAdd_1": 0.8,
+		"paramBase_2": 0,
+		"paramAdd_2": 3,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 40023
+	},
+	{
+		"name": {
+			"hash": -1687412426
+		},
+		"type": 103,
+		"desc": {
+			"hash": 2019510969
+		},
+		"model": "ElderStone_Nvwa2",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_NW_02",
+		"maxSuperpose": 5,
+		"paramBase_1": 0,
+		"paramAdd_1": 1,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 40024
+	},
+	{
+		"name": {
+			"hash": -1687412425
+		},
+		"type": 103,
+		"desc": {
+			"hash": 212056506
+		},
+		"model": "ElderStone_Nvwa3",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_NW_03",
+		"maxSuperpose": 5,
+		"paramBase_1": 2.5,
+		"paramAdd_1": 1,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 40025
+	},
+	{
+		"name": {
+			"hash": -893594188
+		},
+		"type": 103,
+		"desc": {
+			"hash": 1869259063
+		},
+		"model": "ElderStone_Xuanyuan1",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_XY_01",
+		"maxSuperpose": 5,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.04,
+		"paramBase_2": 1.5,
+		"paramAdd_2": 1,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 40026
+	},
+	{
+		"name": {
+			"hash": -893594187
+		},
+		"type": 103,
+		"desc": {
+			"hash": 61804600
+		},
+		"model": "ElderStone_Xuanyuan2",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_XY_02",
+		"maxSuperpose": 5,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.3,
+		"paramBase_2": 12,
+		"paramAdd_2": -1.2,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 40027
+	},
+	{
+		"name": {
+			"hash": -893594186
+		},
+		"type": 103,
+		"desc": {
+			"hash": -1745649863
+		},
+		"model": "ElderStone_Xuanyuan3",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_XY_03",
+		"maxSuperpose": 5,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.3,
+		"paramBase_2": 12,
+		"paramAdd_2": -1.2,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 40028
+	},
+	{
+		"name": {
+			"hash": 1911735183
+		},
+		"type": 103,
+		"desc": {
+			"hash": 1122927634
+		},
+		"model": "ElderStone_Shennong1",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_SN_01",
+		"maxSuperpose": 5,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.4,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 40029
+	},
+	{
+		"name": {
+			"hash": 1911735184
+		},
+		"type": 103,
+		"desc": {
+			"hash": -1438743923
+		},
+		"model": "ElderStone_Shennong2",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_SN_02",
+		"maxSuperpose": 5,
+		"paramBase_1": 0,
+		"paramAdd_1": 200,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 40030
+	},
+	{
+		"name": {
+			"hash": 1911735185
+		},
+		"type": 103,
+		"desc": {
+			"hash": -1949278100
+		},
+		"model": "ElderStone_Shennong3",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_SN_03",
+		"maxSuperpose": 5,
+		"paramBase_1": 0,
+		"paramAdd_1": 30,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 40031
+	},
+	{
+		"name": {
+			"hash": 1568050078
+		},
+		"type": 104,
+		"desc": {
+			"hash": 573361441
+		},
+		"model": "ExtraStory_ReverseEntropy_DarkTechWeapon",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_NS_01",
+		"maxSuperpose": 5,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.2,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 40032
+	},
+	{
+		"name": {
+			"hash": -1796241814
+		},
+		"type": 104,
+		"desc": {
+			"hash": 1344041075
+		},
+		"model": "ExtraStory_ReverseEntropy_HonKaiEnergy",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_NS_02",
+		"maxSuperpose": 5,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.24,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 40033
+	},
+	{
+		"name": {
+			"hash": -1077715075
+		},
+		"type": 104,
+		"desc": {
+			"hash": 127095296
+		},
+		"model": "ExtraStory_ReverseEntropy_DarkTechArmor",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_NS_03",
+		"maxSuperpose": 5,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.16,
+		"paramBase_2": 0,
+		"paramAdd_2": 0.06,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 40034
+	},
+	{
+		"name": {
+			"hash": -1884471944
+		},
+		"type": 104,
+		"desc": {
+			"hash": 1365837051
+		},
+		"model": "ExtraStory_ReverseEntropy_PrecisePart",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_NS_04",
+		"maxSuperpose": 5,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.3,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 40035
+	},
+	{
+		"name": {
+			"hash": -1390785372
+		},
+		"type": 105,
+		"desc": {
+			"hash": 807020583
+		},
+		"model": "ExtraStory_Elements_Fire",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_YS_01",
+		"maxSuperpose": 5,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.12,
+		"paramBase_2": 0,
+		"paramAdd_2": 0.12,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 40036
+	},
+	{
+		"name": {
+			"hash": 509327965
+		},
+		"type": 105,
+		"desc": {
+			"hash": 420662496
+		},
+		"model": "ExtraStory_Elements_Ice",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_YS_02",
+		"maxSuperpose": 5,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.12,
+		"paramBase_2": 0,
+		"paramAdd_2": 0.12,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 40037
+	},
+	{
+		"name": {
+			"hash": 177145782
+		},
+		"type": 105,
+		"desc": {
+			"hash": 1131655481
+		},
+		"model": "ExtraStory_Elements_Thunder",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_YS_03",
+		"maxSuperpose": 5,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.12,
+		"paramBase_2": 0,
+		"paramAdd_2": 0.12,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 40038
+	},
+	{
+		"name": {
+			"hash": -218252790
+		},
+		"type": 106,
+		"desc": {
+			"hash": 1588365523
+		},
+		"model": "RogueBuff_Item_Armour",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_BlackArmour",
+		"maxSuperpose": 5,
+		"paramBase_1": 0,
+		"paramAdd_1": 0.4,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 40039
+	},
+	{
+		"name": {
+			"hash": 252402356
+		},
+		"type": 106,
+		"desc": {
+			"hash": 325330487
+		},
+		"model": "RogueBuff_Item_Rabbit",
+		"iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_RabbitEars",
+		"maxSuperpose": 5,
+		"paramBase_1": 0,
+		"paramAdd_1": 8,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 40040
+	},
+	{
+		"name": {
+			"hash": 2130969865
+		},
+		"type": 201,
+		"desc": {
+			"hash": -405362409
+		},
+		"model": "ElderStone_FuxiThunder",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power",
+		"maxSuperpose": 1,
+		"paramBase_1": 4,
+		"paramAdd_1": 0,
+		"paramBase_2": 3,
+		"paramAdd_2": 0,
+		"paramBase_3": 10,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 50001
+	},
+	{
+		"name": {
+			"hash": 2130969865
+		},
+		"type": 201,
+		"desc": {
+			"hash": -1199249706
+		},
+		"model": "ElderStone_Nvwa1",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Bramble",
+		"maxSuperpose": 1,
+		"paramBase_1": 20,
+		"paramAdd_1": 0,
+		"paramBase_2": 4,
+		"paramAdd_2": 0,
+		"paramBase_3": 8,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 50002
+	},
+	{
+		"name": {
+			"hash": 2130969865
+		},
+		"type": 201,
+		"desc": {
+			"hash": 1256391476
+		},
+		"model": "ElderStone_Nvwa2",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Shelter",
+		"maxSuperpose": 1,
+		"paramBase_1": 40,
+		"paramAdd_1": 0,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 50003
+	},
+	{
+		"name": {
+			"hash": 2130969865
+		},
+		"type": 201,
+		"desc": {
+			"hash": -1342138368
+		},
+		"model": "ElderStone_Nvwa3",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Excite",
+		"maxSuperpose": 1,
+		"paramBase_1": 0.2,
+		"paramAdd_1": 0,
+		"paramBase_2": 6,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 50004
+	},
+	{
+		"name": {
+			"hash": 2130969865
+		},
+		"type": 201,
+		"desc": {
+			"hash": -1541029088
+		},
+		"model": "ElderStone_Xuanyuan1",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_SPBurn",
+		"maxSuperpose": 1,
+		"paramBase_1": 1,
+		"paramAdd_1": 0,
+		"paramBase_2": 10,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 50005
+	},
+	{
+		"name": {
+			"hash": 2130969865
+		},
+		"type": 201,
+		"desc": {
+			"hash": 29317065
+		},
+		"model": "ElderStone_Xuanyuan2",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Nether",
+		"maxSuperpose": 1,
+		"paramBase_1": 0.15,
+		"paramAdd_1": 0,
+		"paramBase_2": 15,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 50006
+	},
+	{
+		"name": {
+			"hash": 2130969865
+		},
+		"type": 201,
+		"desc": {
+			"hash": 1495448991
+		},
+		"model": "ElderStone_Xuanyuan3",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_TrashIce",
+		"maxSuperpose": 1,
+		"paramBase_1": 5,
+		"paramAdd_1": 0,
+		"paramBase_2": 15,
+		"paramAdd_2": 0,
+		"paramBase_3": 3,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 50007
+	},
+	{
+		"name": {
+			"hash": 2130969865
+		},
+		"type": 201,
+		"desc": {
+			"hash": 1753263107
+		},
+		"model": "ElderStone_Shennong1",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_LockMove",
+		"maxSuperpose": 1,
+		"paramBase_1": 6,
+		"paramAdd_1": 0,
+		"paramBase_2": 50,
+		"paramAdd_2": 0,
+		"paramBase_3": 0.3,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 50008
+	},
+	{
+		"name": {
+			"hash": 2130969865
+		},
+		"type": 201,
+		"desc": {
+			"hash": 1395759853
+		},
+		"model": "ElderStone_Shennong2",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Lord",
+		"maxSuperpose": 1,
+		"paramBase_1": 0.6,
+		"paramAdd_1": 0,
+		"paramBase_2": 5,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 50009
+	},
+	{
+		"name": {
+			"hash": 2130969865
+		},
+		"type": 201,
+		"desc": {
+			"hash": 967749039
+		},
+		"model": "ElderStone_Shennong3",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Miasma",
+		"maxSuperpose": 1,
+		"paramBase_1": 10,
+		"paramAdd_1": 0,
+		"paramBase_2": 1,
+		"paramAdd_2": 0,
+		"paramBase_3": 5,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 50010
+	},
+	{
+		"name": {
+			"hash": 2130969865
+		},
+		"type": 201,
+		"desc": {
+			"hash": -405362409
+		},
+		"model": "ElderStone_FuxiThunder",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power",
+		"maxSuperpose": 1,
+		"paramBase_1": 6,
+		"paramAdd_1": 0,
+		"paramBase_2": 3,
+		"paramAdd_2": 0,
+		"paramBase_3": 9,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 51001
+	},
+	{
+		"name": {
+			"hash": 2130969865
+		},
+		"type": 201,
+		"desc": {
+			"hash": -1199249706
+		},
+		"model": "ElderStone_Nvwa1",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Bramble",
+		"maxSuperpose": 1,
+		"paramBase_1": 20,
+		"paramAdd_1": 0,
+		"paramBase_2": 5,
+		"paramAdd_2": 0,
+		"paramBase_3": 12,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 51002
+	},
+	{
+		"name": {
+			"hash": 2130969865
+		},
+		"type": 201,
+		"desc": {
+			"hash": 1256391476
+		},
+		"model": "ElderStone_Nvwa2",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Shelter",
+		"maxSuperpose": 1,
+		"paramBase_1": 60,
+		"paramAdd_1": 0,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 51003
+	},
+	{
+		"name": {
+			"hash": 2130969865
+		},
+		"type": 201,
+		"desc": {
+			"hash": -1342138368
+		},
+		"model": "ElderStone_Nvwa3",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Excite",
+		"maxSuperpose": 1,
+		"paramBase_1": 0.4,
+		"paramAdd_1": 0,
+		"paramBase_2": 8,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 51004
+	},
+	{
+		"name": {
+			"hash": 2130969865
+		},
+		"type": 201,
+		"desc": {
+			"hash": -1541029088
+		},
+		"model": "ElderStone_Xuanyuan1",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_SPBurn",
+		"maxSuperpose": 1,
+		"paramBase_1": 1.5,
+		"paramAdd_1": 0,
+		"paramBase_2": 10,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 51005
+	},
+	{
+		"name": {
+			"hash": 2130969865
+		},
+		"type": 201,
+		"desc": {
+			"hash": 29317065
+		},
+		"model": "ElderStone_Xuanyuan2",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Nether",
+		"maxSuperpose": 1,
+		"paramBase_1": 0.2,
+		"paramAdd_1": 0,
+		"paramBase_2": 30,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 51006
+	},
+	{
+		"name": {
+			"hash": 2130969865
+		},
+		"type": 201,
+		"desc": {
+			"hash": 1495448991
+		},
+		"model": "ElderStone_Xuanyuan3",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_TrashIce",
+		"maxSuperpose": 1,
+		"paramBase_1": 5,
+		"paramAdd_1": 0,
+		"paramBase_2": 12,
+		"paramAdd_2": 0,
+		"paramBase_3": 4,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 51007
+	},
+	{
+		"name": {
+			"hash": 2130969865
+		},
+		"type": 201,
+		"desc": {
+			"hash": 1753263107
+		},
+		"model": "ElderStone_Shennong1",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_LockMove",
+		"maxSuperpose": 1,
+		"paramBase_1": 7,
+		"paramAdd_1": 0,
+		"paramBase_2": 40,
+		"paramAdd_2": 0,
+		"paramBase_3": 0.45,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 51008
+	},
+	{
+		"name": {
+			"hash": 2130969865
+		},
+		"type": 201,
+		"desc": {
+			"hash": 1395759853
+		},
+		"model": "ElderStone_Shennong2",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Lord",
+		"maxSuperpose": 1,
+		"paramBase_1": 1,
+		"paramAdd_1": 0,
+		"paramBase_2": 5,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 51009
+	},
+	{
+		"name": {
+			"hash": 2130969865
+		},
+		"type": 201,
+		"desc": {
+			"hash": 967749039
+		},
+		"model": "ElderStone_Shennong3",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Miasma",
+		"maxSuperpose": 1,
+		"paramBase_1": 10,
+		"paramAdd_1": 0,
+		"paramBase_2": 1.5,
+		"paramAdd_2": 0,
+		"paramBase_3": 7,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 51010
+	},
+	{
+		"name": {
+			"hash": 2130969865
+		},
+		"type": 201,
+		"desc": {
+			"hash": -405362409
+		},
+		"model": "ElderStone_FuxiThunder",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power",
+		"maxSuperpose": 1,
+		"paramBase_1": 8,
+		"paramAdd_1": 0,
+		"paramBase_2": 3,
+		"paramAdd_2": 0,
+		"paramBase_3": 9,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 52001
+	},
+	{
+		"name": {
+			"hash": 2130969865
+		},
+		"type": 201,
+		"desc": {
+			"hash": -1199249706
+		},
+		"model": "ElderStone_Nvwa1",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Bramble",
+		"maxSuperpose": 1,
+		"paramBase_1": 20,
+		"paramAdd_1": 0,
+		"paramBase_2": 6,
+		"paramAdd_2": 0,
+		"paramBase_3": 16,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 52002
+	},
+	{
+		"name": {
+			"hash": 2130969865
+		},
+		"type": 201,
+		"desc": {
+			"hash": 1256391476
+		},
+		"model": "ElderStone_Nvwa2",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Shelter",
+		"maxSuperpose": 1,
+		"paramBase_1": 80,
+		"paramAdd_1": 0,
+		"paramBase_2": 0,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 52003
+	},
+	{
+		"name": {
+			"hash": 2130969865
+		},
+		"type": 201,
+		"desc": {
+			"hash": -1342138368
+		},
+		"model": "ElderStone_Nvwa3",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Excite",
+		"maxSuperpose": 1,
+		"paramBase_1": 0.6,
+		"paramAdd_1": 0,
+		"paramBase_2": 10,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 52004
+	},
+	{
+		"name": {
+			"hash": 2130969865
+		},
+		"type": 201,
+		"desc": {
+			"hash": -1541029088
+		},
+		"model": "ElderStone_Xuanyuan1",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_SPBurn",
+		"maxSuperpose": 1,
+		"paramBase_1": 2,
+		"paramAdd_1": 0,
+		"paramBase_2": 10,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 52005
+	},
+	{
+		"name": {
+			"hash": 2130969865
+		},
+		"type": 201,
+		"desc": {
+			"hash": 29317065
+		},
+		"model": "ElderStone_Xuanyuan2",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Nether",
+		"maxSuperpose": 1,
+		"paramBase_1": 0.25,
+		"paramAdd_1": 0,
+		"paramBase_2": 45,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 52006
+	},
+	{
+		"name": {
+			"hash": 2130969865
+		},
+		"type": 201,
+		"desc": {
+			"hash": 1495448991
+		},
+		"model": "ElderStone_Xuanyuan3",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_TrashIce",
+		"maxSuperpose": 1,
+		"paramBase_1": 5,
+		"paramAdd_1": 0,
+		"paramBase_2": 9,
+		"paramAdd_2": 0,
+		"paramBase_3": 5,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 52007
+	},
+	{
+		"name": {
+			"hash": 2130969865
+		},
+		"type": 201,
+		"desc": {
+			"hash": 1753263107
+		},
+		"model": "ElderStone_Shennong1",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_LockMove",
+		"maxSuperpose": 1,
+		"paramBase_1": 8,
+		"paramAdd_1": 0,
+		"paramBase_2": 35,
+		"paramAdd_2": 0,
+		"paramBase_3": 0.6,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 52008
+	},
+	{
+		"name": {
+			"hash": 2130969865
+		},
+		"type": 201,
+		"desc": {
+			"hash": 1395759853
+		},
+		"model": "ElderStone_Shennong2",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Lord",
+		"maxSuperpose": 1,
+		"paramBase_1": 1.5,
+		"paramAdd_1": 0,
+		"paramBase_2": 5,
+		"paramAdd_2": 0,
+		"paramBase_3": 0,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 52009
+	},
+	{
+		"name": {
+			"hash": 2130969865
+		},
+		"type": 201,
+		"desc": {
+			"hash": 967749039
+		},
+		"model": "ElderStone_Shennong3",
+		"iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Miasma",
+		"maxSuperpose": 1,
+		"paramBase_1": 10,
+		"paramAdd_1": 0,
+		"paramBase_2": 2,
+		"paramAdd_2": 0,
+		"paramBase_3": 9,
+		"paramAdd_3": 0,
+		"DataImpl": {},
+		"buffId": 52010
+	}
+]

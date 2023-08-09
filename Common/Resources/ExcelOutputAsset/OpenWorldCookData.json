@@ -1,0 +1,279 @@
+[
+	{
+		"UnlockQuestLv": 5,
+		"DisplayCookName": {
+			"hash": 755724047
+		},
+		"EffectType": 1,
+		"EffectParam": [
+			1004
+		],
+		"DisplayStar": 4,
+		"UseType": 1,
+		"CookTab": 1,
+		"DisplayCookDesc": {
+			"hash": 1004502729
+		},
+		"DisplayEffectDesc": {
+			"hash": 1563917984
+		},
+		"DailyTimes": 1,
+		"CostMaterialsList": [
+			{
+				"item1": 5565,
+				"item2": 2
+			},
+			{
+				"item1": 100,
+				"item2": 4200
+			}
+		],
+		"IconPath": "SpriteOutput/OpenWorld/FoodIcons/1004",
+		"CookBuffIcon": "SpriteOutput/StateIcon/State_Stun",
+		"CookBuffEfx": "CookEffectUI_AttackBuff02",
+		"DataImpl": {},
+		"CookID": 1004
+	},
+	{
+		"UnlockQuestLv": 7,
+		"DisplayCookName": {
+			"hash": 755724048
+		},
+		"EffectType": 1,
+		"EffectParam": [
+			1005
+		],
+		"DisplayStar": 3,
+		"UseType": 1,
+		"CookTab": 1,
+		"DisplayCookDesc": {
+			"hash": 1004502730
+		},
+		"DisplayEffectDesc": {
+			"hash": 1563917985
+		},
+		"DailyTimes": 1,
+		"CostMaterialsList": [
+			{
+				"item1": 5565,
+				"item2": 2
+			},
+			{
+				"item1": 100,
+				"item2": 4200
+			}
+		],
+		"IconPath": "SpriteOutput/OpenWorld/FoodIcons/2002",
+		"CookBuffIcon": "SpriteOutput/StateIcon/State_Lighting",
+		"CookBuffEfx": "CookEffectUI_AttackBuff03",
+		"DataImpl": {},
+		"CookID": 1005
+	},
+	{
+		"UnlockQuestLv": 18,
+		"DisplayCookName": {
+			"hash": 755724051
+		},
+		"EffectType": 1,
+		"EffectParam": [
+			1008
+		],
+		"DisplayStar": 3,
+		"UseType": 1,
+		"CookTab": 1,
+		"DisplayCookDesc": {
+			"hash": 1004502733
+		},
+		"DisplayEffectDesc": {
+			"hash": 1563917988
+		},
+		"DailyTimes": 1,
+		"CostMaterialsList": [
+			{
+				"item1": 5565,
+				"item2": 2
+			},
+			{
+				"item1": 100,
+				"item2": 5880
+			}
+		],
+		"IconPath": "SpriteOutput/OpenWorld/FoodIcons/1008",
+		"CookBuffIcon": "SpriteOutput/StateIcon/State_AtkSpeed",
+		"CookBuffEfx": "CookEffectUI_AttackSpeedBuff",
+		"DataImpl": {},
+		"CookID": 1008
+	},
+	{
+		"UnlockQuestLv": 14,
+		"DisplayCookName": {
+			"hash": 755724052
+		},
+		"EffectType": 1,
+		"EffectParam": [
+			1009
+		],
+		"DisplayStar": 3,
+		"UseType": 1,
+		"CookTab": 1,
+		"DisplayCookDesc": {
+			"hash": 1004502734
+		},
+		"DisplayEffectDesc": {
+			"hash": 1563917989
+		},
+		"DailyTimes": 1,
+		"CostMaterialsList": [
+			{
+				"item1": 5565,
+				"item2": 2
+			},
+			{
+				"item1": 100,
+				"item2": 5880
+			}
+		],
+		"IconPath": "SpriteOutput/OpenWorld/FoodIcons/1001",
+		"CookBuffIcon": "SpriteOutput/StateIcon/State_Other",
+		"CookBuffEfx": "CookEffectUI_ElementBuff",
+		"DataImpl": {},
+		"CookID": 1009
+	},
+	{
+		"UnlockQuestLv": 1,
+		"DisplayCookName": {
+			"hash": 755724074
+		},
+		"EffectType": 1,
+		"EffectParam": [
+			1010
+		],
+		"DisplayStar": 4,
+		"UseType": 1,
+		"CookTab": 3,
+		"DisplayCookDesc": {
+			"hash": 1004502756
+		},
+		"DisplayEffectDesc": {
+			"hash": 1563918011
+		},
+		"DailyTimes": 1,
+		"CostMaterialsList": [
+			{
+				"item1": 5565,
+				"item2": 4
+			},
+			{
+				"item1": 100,
+				"item2": 4200
+			}
+		],
+		"IconPath": "SpriteOutput/OpenWorld/FoodIcons/1010",
+		"CookBuffIcon": "SpriteOutput/StateIcon/State_Speed",
+		"CookBuffEfx": "CookEffectUI_HpUp",
+		"DataImpl": {},
+		"CookID": 1010
+	},
+	{
+		"UnlockQuestLv": 1,
+		"DisplayCookName": {
+			"hash": 755753835
+		},
+		"EffectType": 3,
+		"EffectParam": [
+			25
+		],
+		"DisplayStar": 2,
+		"UseType": 2,
+		"CookTab": 2,
+		"DisplayCookDesc": {
+			"hash": 1004532517
+		},
+		"DisplayEffectDesc": {
+			"hash": 1563947772
+		},
+		"DailyTimes": 30,
+		"CostMaterialsList": [
+			{
+				"item1": 5565,
+				"item2": 1
+			},
+			{
+				"item1": 100,
+				"item2": 420
+			}
+		],
+		"IconPath": "SpriteOutput/OpenWorld/FoodIcons/2001",
+		"CookBuffIcon": "SpriteOutput/StateIcon/State_WitchTime",
+		"CookBuffEfx": "CookEffectUI_HP_Single",
+		"DataImpl": {},
+		"CookID": 2001
+	},
+	{
+		"UnlockQuestLv": 1,
+		"DisplayCookName": {
+			"hash": 755753837
+		},
+		"EffectType": 5,
+		"EffectParam": [
+			25
+		],
+		"DisplayStar": 2,
+		"UseType": 2,
+		"CookTab": 2,
+		"DisplayCookDesc": {
+			"hash": 1004532519
+		},
+		"DisplayEffectDesc": {
+			"hash": 1563947774
+		},
+		"DailyTimes": 30,
+		"CostMaterialsList": [
+			{
+				"item1": 5565,
+				"item2": 1
+			},
+			{
+				"item1": 100,
+				"item2": 420
+			}
+		],
+		"IconPath": "SpriteOutput/OpenWorld/FoodIcons/2003",
+		"CookBuffIcon": "SpriteOutput/StateIcon/State_WitchTime",
+		"CookBuffEfx": "CookEffectUI_SP_Single",
+		"DataImpl": {},
+		"CookID": 2003
+	},
+	{
+		"UnlockQuestLv": 5,
+		"DisplayCookName": {
+			"hash": 755753839
+		},
+		"EffectType": 2,
+		"EffectParam": [
+			60,
+			20
+		],
+		"DisplayStar": 3,
+		"UseType": 2,
+		"CookTab": 2,
+		"DisplayCookDesc": {
+			"hash": 1004532521
+		},
+		"DisplayEffectDesc": {
+			"hash": 1563947776
+		},
+		"DailyTimes": 10,
+		"CostMaterialsList": [
+			{
+				"item1": 5565,
+				"item2": 10
+			}
+		],
+		"IconPath": "SpriteOutput/OpenWorld/FoodIcons/2005",
+		"CookBuffIcon": "SpriteOutput/StateIcon/State_WitchTime",
+		"CookBuffEfx": "CookEffectUI_Revive_Single",
+		"DataImpl": {},
+		"CookID": 2005
+	}
+]

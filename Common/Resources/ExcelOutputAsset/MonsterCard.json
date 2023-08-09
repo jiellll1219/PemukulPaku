@@ -1,0 +1,2111 @@
+[
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/DG_30",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/DG_30",
+		"PrefabPath": "Entities/Monster/DeadGal/DG_030_MonsterCard/DG_030_MonsterCard_Ui",
+		"Scale": 0.85,
+		"Position": [
+			0.1,
+			1.2,
+			-3
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"CardCost": 1,
+		"MonsterSize": 1,
+		"CardSkill": [
+			11301,
+			11302,
+			11303,
+			11304
+		],
+		"InitThreat": 50,
+		"AttackRange": 1,
+		"Profession": 1,
+		"ProfessionName": {
+			"hash": 862306726
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconCK",
+		"CardInformation": {
+			"hash": 116211079
+		},
+		"Index": 20,
+		"DataImpl": {},
+		"UniqueID": 998230
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/UL_040",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/UL_040",
+		"PrefabPath": "Entities/Monster/Ulysses/UL_040_MonsterCard/UL_040_MonsterCard_Ui",
+		"Scale": 0.85,
+		"Position": [
+			0.15,
+			0,
+			0
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"CardCost": 1,
+		"MonsterSize": 1,
+		"CardSkill": [
+			12301,
+			12302,
+			12303,
+			12304
+		],
+		"InitThreat": 50,
+		"AttackRange": 1,
+		"Profession": 2,
+		"ProfessionName": {
+			"hash": 862306724
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconZS",
+		"CardInformation": {
+			"hash": 116240870
+		},
+		"Index": 5,
+		"DataImpl": {},
+		"UniqueID": 998231
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/QT_020",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/QT_020",
+		"PrefabPath": "Entities/Monster/Quantum/QT_020_MonsterCard/QT_020_MonsterCard_Ui",
+		"Scale": 1,
+		"Position": [
+			0.2,
+			0,
+			0
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"CardCost": 1,
+		"MonsterSize": 1,
+		"CardSkill": [
+			10601,
+			10602,
+			10603,
+			10604
+		],
+		"InitThreat": 0,
+		"AttackRange": 0,
+		"Profession": 3,
+		"ProfessionName": {
+			"hash": 862306725
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconMs",
+		"CardInformation": {
+			"hash": 116184171
+		},
+		"Index": 7,
+		"DataImpl": {},
+		"UniqueID": 998232
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/DG_120",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/DG_120",
+		"PrefabPath": "Entities/Monster/DeadGal/DG_120_MonsterCard/DG_120_MonsterCard_Ui",
+		"Scale": 1,
+		"Position": [
+			0.1,
+			1.1,
+			-2.5
+		],
+		"Rotation": [
+			0,
+			180,
+			0
+		],
+		"CardCost": 1,
+		"MonsterSize": 1,
+		"CardSkill": [
+			11501,
+			11502,
+			11503,
+			11504
+		],
+		"InitThreat": 0,
+		"AttackRange": 0,
+		"Profession": 3,
+		"ProfessionName": {
+			"hash": 862306725
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconMs",
+		"CardInformation": {
+			"hash": 116213001
+		},
+		"Index": 3,
+		"DataImpl": {},
+		"UniqueID": 998233
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/DG_90",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/DG_090",
+		"PrefabPath": "Entities/Monster/DeadGal/DG_090_MonsterCard/DG_090_MonsterCard_Ui",
+		"Scale": 0.85,
+		"Position": [
+			-0.2,
+			0.7,
+			0
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"CardCost": 2,
+		"MonsterSize": 1,
+		"CardSkill": [
+			11601,
+			11602,
+			11603,
+			11604
+		],
+		"InitThreat": 50,
+		"AttackRange": 1,
+		"Profession": 2,
+		"ProfessionName": {
+			"hash": 862306724
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconZS",
+		"CardInformation": {
+			"hash": 116213962
+		},
+		"Index": 22,
+		"DataImpl": {},
+		"UniqueID": 998234
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/RO_070",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_070",
+		"PrefabPath": "Entities/Monster/Robot/RO_070_MonsterCard/RO_070_MonsterCard_Ui",
+		"Scale": 0.9,
+		"Position": [
+			-0.1,
+			0.8,
+			-2
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"CardCost": 2,
+		"MonsterSize": 2,
+		"CardSkill": [
+			10201,
+			10202,
+			10203,
+			10204
+		],
+		"InitThreat": 50,
+		"AttackRange": 1,
+		"Profession": 2,
+		"ProfessionName": {
+			"hash": 862306724
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconZS",
+		"CardInformation": {
+			"hash": 116180327
+		},
+		"Index": 15,
+		"DataImpl": {},
+		"UniqueID": 998235
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/BOSS_200",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_200",
+		"PrefabPath": "Entities/Monster/Boss/BOSS_200_MonsterCard/BOSS_200_MonsterCard_Ui",
+		"Scale": 1.1,
+		"Position": [
+			0.22,
+			1.1,
+			-2.27
+		],
+		"Rotation": [
+			0,
+			170,
+			0
+		],
+		"CardCost": 3,
+		"MonsterSize": 1,
+		"CardSkill": [
+			10301,
+			10302,
+			10303,
+			10304
+		],
+		"InitThreat": 50,
+		"AttackRange": 1,
+		"Profession": 1,
+		"ProfessionName": {
+			"hash": 862306723
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconFS",
+		"CardInformation": {
+			"hash": 116181288
+		},
+		"Index": 16,
+		"DataImpl": {},
+		"UniqueID": 998236
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/RO_20",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_20",
+		"PrefabPath": "Entities/Monster/Robot/RO_020_MonsterCard/RO_020_MonsterCard_Ui",
+		"Scale": 0.8,
+		"Position": [
+			0.2,
+			1.18,
+			-3
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"CardCost": 1,
+		"MonsterSize": 1,
+		"CardSkill": [
+			10001,
+			10002,
+			10003,
+			10004
+		],
+		"InitThreat": 0,
+		"AttackRange": 0,
+		"Profession": 3,
+		"ProfessionName": {
+			"hash": 862306725
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconMs",
+		"CardInformation": {
+			"hash": 116178405
+		},
+		"Index": 13,
+		"DataImpl": {},
+		"UniqueID": 998238
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/RO_080",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_080",
+		"PrefabPath": "Entities/Monster/Robot/RO_080_MonsterCard/RO_080_MonsterCard_Ui",
+		"Scale": 1,
+		"Position": [
+			0.02,
+			0.84,
+			-2
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"CardCost": 1,
+		"MonsterSize": 1,
+		"CardSkill": [
+			10101,
+			10102,
+			10103,
+			10104
+		],
+		"InitThreat": 50,
+		"AttackRange": 1,
+		"Profession": 1,
+		"ProfessionName": {
+			"hash": 862306726
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconCK",
+		"CardInformation": {
+			"hash": 116179366
+		},
+		"Index": 14,
+		"DataImpl": {},
+		"UniqueID": 998239
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/BOSS_160",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_160",
+		"PrefabPath": "Entities/Monster/Boss/BOSS_160_MonsterCard/BOSS_160_MonsterCard_Ui",
+		"Scale": 0.92,
+		"Position": [
+			-0.1,
+			1,
+			-2.5
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"CardCost": 2,
+		"MonsterSize": 1,
+		"CardSkill": [
+			10401,
+			10402,
+			10403,
+			10404
+		],
+		"InitThreat": 50,
+		"AttackRange": 1,
+		"Profession": 1,
+		"ProfessionName": {
+			"hash": 862306723
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconFS",
+		"CardInformation": {
+			"hash": 116182249
+		},
+		"Index": 17,
+		"DataImpl": {},
+		"UniqueID": 998240
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/RO_34",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_34",
+		"PrefabPath": "Entities/Monster/Robot/RO_034_MonsterCard/RO_034_MonsterCard_Ui",
+		"Scale": 0.8,
+		"Position": [
+			0,
+			0.2,
+			0
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"CardCost": 1,
+		"MonsterSize": 1,
+		"CardSkill": [
+			10501,
+			10502,
+			10503,
+			10504
+		],
+		"InitThreat": 0,
+		"AttackRange": 0,
+		"Profession": 3,
+		"ProfessionName": {
+			"hash": 862306725
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconMs",
+		"CardInformation": {
+			"hash": 116183210
+		},
+		"Index": 18,
+		"DataImpl": {},
+		"UniqueID": 998241
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/QT_060",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/QT_060",
+		"PrefabPath": "Entities/Monster/Quantum/QT_060_MonsterCard/QT_060_MonsterCard_Ui",
+		"Scale": 1,
+		"Position": [
+			0.2,
+			0.55,
+			0
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"CardCost": 2,
+		"MonsterSize": 1,
+		"CardSkill": [
+			10701,
+			10702,
+			10703,
+			10704
+		],
+		"InitThreat": 50,
+		"AttackRange": 1,
+		"Profession": 1,
+		"ProfessionName": {
+			"hash": 862306726
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconCK",
+		"CardInformation": {
+			"hash": 116185132
+		},
+		"Index": 8,
+		"DataImpl": {},
+		"UniqueID": 998242
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/QT_070",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/QT_070",
+		"PrefabPath": "Entities/Monster/Quantum/QT_070_MonsterCard/QT_070_MonsterCard_Ui",
+		"Scale": 0.5,
+		"Position": [
+			0,
+			1.9,
+			-4
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"CardCost": 1,
+		"MonsterSize": 1,
+		"CardSkill": [
+			10801,
+			10802,
+			10803,
+			10804
+		],
+		"InitThreat": 0,
+		"AttackRange": 0,
+		"Profession": 3,
+		"ProfessionName": {
+			"hash": 862306725
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconMs",
+		"CardInformation": {
+			"hash": 116186093
+		},
+		"Index": 9,
+		"DataImpl": {},
+		"UniqueID": 998243
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/QT_030",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/QT_030",
+		"PrefabPath": "Entities/Monster/Quantum/QT_030_MonsterCard/QT_030_MonsterCard_Ui",
+		"Scale": 1,
+		"Position": [
+			-0.15,
+			0.4,
+			0
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"CardCost": 2,
+		"MonsterSize": 1,
+		"CardSkill": [
+			10901,
+			10902,
+			10903,
+			10904
+		],
+		"InitThreat": 50,
+		"AttackRange": 1,
+		"Profession": 1,
+		"ProfessionName": {
+			"hash": 862306726
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconCK",
+		"CardInformation": {
+			"hash": 116187054
+		},
+		"Index": 10,
+		"DataImpl": {},
+		"UniqueID": 998244
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/BOSS_180",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_180",
+		"PrefabPath": "Entities/Monster/Boss/BOSS_180_MonsterCard/BOSS_180_MonsterCard_Ui",
+		"Scale": 1,
+		"Position": [
+			-0.2,
+			-0.5,
+			2
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"CardCost": 3,
+		"MonsterSize": 2,
+		"CardSkill": [
+			11001,
+			11002,
+			11003,
+			11004
+		],
+		"InitThreat": 50,
+		"AttackRange": 1,
+		"Profession": 1,
+		"ProfessionName": {
+			"hash": 862306723
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconFS",
+		"CardInformation": {
+			"hash": 116208196
+		},
+		"Index": 11,
+		"DataImpl": {},
+		"UniqueID": 998245
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/BOSS_240",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_240",
+		"PrefabPath": "Entities/Monster/Boss/BOSS_240_MonsterCard/BOSS_240_MonsterCard_Ui",
+		"Scale": 0.8,
+		"Position": [
+			0,
+			0.71,
+			0
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"CardCost": 3,
+		"MonsterSize": 2,
+		"CardSkill": [
+			11101,
+			11102,
+			11103,
+			11104
+		],
+		"InitThreat": 50,
+		"AttackRange": 1,
+		"Profession": 1,
+		"ProfessionName": {
+			"hash": 862306723
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconFS",
+		"CardInformation": {
+			"hash": 116209157
+		},
+		"Index": 12,
+		"DataImpl": {},
+		"UniqueID": 998246
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/Boss_290",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/Boss_290",
+		"PrefabPath": "Entities/Monster/Boss/BOSS_290_MonsterCard/BOSS_290_MonsterCard_Ui",
+		"Scale": 1.5,
+		"Position": [
+			0.1,
+			0,
+			0
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"CardCost": 3,
+		"MonsterSize": 1,
+		"CardSkill": [
+			11201,
+			11202,
+			11203,
+			11204
+		],
+		"InitThreat": 50,
+		"AttackRange": 1,
+		"Profession": 1,
+		"ProfessionName": {
+			"hash": 862306723
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconFS",
+		"CardInformation": {
+			"hash": 116210118
+		},
+		"Index": 19,
+		"DataImpl": {},
+		"UniqueID": 998247
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/BOSS_230",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_230",
+		"PrefabPath": "Entities/Monster/Boss/BOSS_230_MonsterCard/BOSS_230_MonsterCard_Ui",
+		"Scale": 1,
+		"Position": [
+			-0.22,
+			0.51,
+			0
+		],
+		"Rotation": [
+			0,
+			155,
+			0
+		],
+		"CardCost": 3,
+		"MonsterSize": 2,
+		"CardSkill": [
+			11401,
+			11402,
+			11403,
+			11404
+		],
+		"InitThreat": 50,
+		"AttackRange": 1,
+		"Profession": 1,
+		"ProfessionName": {
+			"hash": 862306723
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconFS",
+		"CardInformation": {
+			"hash": 116212040
+		},
+		"Index": 21,
+		"DataImpl": {},
+		"UniqueID": 998248
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/BOSS_080",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_080",
+		"PrefabPath": "Entities/Monster/Boss/BOSS_080_MonsterCard/BOSS_080_MonsterCard_Ui",
+		"Scale": 1,
+		"Position": [
+			0,
+			1.05,
+			-2.2
+		],
+		"Rotation": [
+			0,
+			170,
+			0
+		],
+		"CardCost": 1,
+		"MonsterSize": 1,
+		"CardSkill": [
+			11701,
+			11702,
+			11703,
+			11704
+		],
+		"InitThreat": 0,
+		"AttackRange": 0,
+		"Profession": 1,
+		"ProfessionName": {
+			"hash": 862306723
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconFS",
+		"CardInformation": {
+			"hash": 116214923
+		},
+		"Index": 2,
+		"DataImpl": {},
+		"UniqueID": 998249
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/BOSS_110",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_110",
+		"PrefabPath": "Entities/Monster/Boss/BOSS_110_MonsterCard/BOSS_110_MonsterCard_Ui",
+		"Scale": 0.6,
+		"Position": [
+			0,
+			0.65,
+			0
+		],
+		"Rotation": [
+			0,
+			155,
+			0
+		],
+		"CardCost": 3,
+		"MonsterSize": 2,
+		"CardSkill": [
+			11801,
+			11802,
+			11803,
+			11804
+		],
+		"InitThreat": 50,
+		"AttackRange": 1,
+		"Profession": 1,
+		"ProfessionName": {
+			"hash": 862306723
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconFS",
+		"CardInformation": {
+			"hash": 116215884
+		},
+		"Index": 23,
+		"DataImpl": {},
+		"UniqueID": 998250
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/BOSS_190",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_190",
+		"PrefabPath": "Entities/Monster/Boss/BOSS_190_MonsterCard/BOSS_190_MonsterCard_Ui",
+		"Scale": 1,
+		"Position": [
+			0,
+			1.19,
+			-2.7
+		],
+		"Rotation": [
+			0,
+			170,
+			0
+		],
+		"CardCost": 2,
+		"MonsterSize": 1,
+		"CardSkill": [
+			11901,
+			11902,
+			11903,
+			11904
+		],
+		"InitThreat": 0,
+		"AttackRange": 0,
+		"Profession": 1,
+		"ProfessionName": {
+			"hash": 862306723
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconFS",
+		"CardInformation": {
+			"hash": 116216845
+		},
+		"Index": 24,
+		"DataImpl": {},
+		"UniqueID": 998251
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/BOSS_220",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_220",
+		"PrefabPath": "Entities/Monster/Boss/BOSS_220_MonsterCard/BOSS_220_MonsterCard_Ui",
+		"Scale": 0.8,
+		"Position": [
+			0,
+			0,
+			0
+		],
+		"Rotation": [
+			0,
+			160,
+			0
+		],
+		"CardCost": 3,
+		"MonsterSize": 2,
+		"CardSkill": [
+			12001,
+			12002,
+			12003,
+			12004
+		],
+		"InitThreat": 50,
+		"AttackRange": 1,
+		"Profession": 1,
+		"ProfessionName": {
+			"hash": 862306723
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconFS",
+		"CardInformation": {
+			"hash": 116237987
+		},
+		"Index": 25,
+		"DataImpl": {},
+		"UniqueID": 998252
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/BOSS_250",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_250",
+		"PrefabPath": "Entities/Monster/Boss/BOSS_250_MonsterCard/BOSS_250_MonsterCard_Ui",
+		"Scale": 1,
+		"Position": [
+			0,
+			1,
+			-2.5
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"CardCost": 3,
+		"MonsterSize": 1,
+		"CardSkill": [
+			12101,
+			12102,
+			12103,
+			12104
+		],
+		"InitThreat": 50,
+		"AttackRange": 1,
+		"Profession": 1,
+		"ProfessionName": {
+			"hash": 862306723
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconFS",
+		"CardInformation": {
+			"hash": 116238948
+		},
+		"Index": 26,
+		"DataImpl": {},
+		"UniqueID": 998253
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/UL_10",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/UL_012",
+		"PrefabPath": "Entities/Monster/Ulysses/UL_010_MonsterCard/UL_010_MonsterCard_Ui",
+		"Scale": 0.65,
+		"Position": [
+			0,
+			0.42,
+			0
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"CardCost": 1,
+		"MonsterSize": 1,
+		"CardSkill": [
+			12201,
+			12202,
+			12203,
+			12204
+		],
+		"InitThreat": 50,
+		"AttackRange": 1,
+		"Profession": 2,
+		"ProfessionName": {
+			"hash": 862306724
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconZS",
+		"CardInformation": {
+			"hash": 116239909
+		},
+		"Index": 4,
+		"DataImpl": {},
+		"UniqueID": 998254
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/Rogue_DLC_030",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/Rogue_DLC_030",
+		"PrefabPath": "Entities/Monster/Rogue/Rogue_DLC_030_MonsterCard/Rogue_DLC_030_MonsterCard_Ui",
+		"Scale": 0.9,
+		"Position": [
+			0.2,
+			0,
+			0
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"CardCost": 3,
+		"MonsterSize": 1,
+		"CardSkill": [
+			12601,
+			12602,
+			12603,
+			12604
+		],
+		"InitThreat": 50,
+		"AttackRange": 1,
+		"Profession": 1,
+		"ProfessionName": {
+			"hash": 862306726
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconCK",
+		"CardInformation": {
+			"hash": 116243753
+		},
+		"Index": 28,
+		"DataImpl": {},
+		"UniqueID": 998270
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/Rogue_DLC_020",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/Rogue_DLC_020",
+		"PrefabPath": "Entities/Monster/Rogue/Rogue_DLC_020_MonsterCard/Rogue_DLC_020_MonsterCard_Ui",
+		"Scale": 0.9,
+		"Position": [
+			0.25,
+			0.1,
+			0
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"CardCost": 2,
+		"MonsterSize": 1,
+		"CardSkill": [
+			12501,
+			12502,
+			12503,
+			12504
+		],
+		"InitThreat": 50,
+		"AttackRange": 1,
+		"Profession": 1,
+		"ProfessionName": {
+			"hash": 862306723
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconFS",
+		"CardInformation": {
+			"hash": 116242792
+		},
+		"Index": 27,
+		"DataImpl": {},
+		"UniqueID": 998271
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/Rogue_DLC_010",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/Rogue_DLC_010",
+		"PrefabPath": "Entities/Monster/Rogue/Rogue_DLC_010_MonsterCard/Rogue_DLC_010_MonsterCard_Ui",
+		"Scale": 1,
+		"Position": [
+			0,
+			0.5,
+			0
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"CardCost": 1,
+		"MonsterSize": 1,
+		"CardSkill": [
+			12401,
+			12402,
+			12403,
+			12404
+		],
+		"InitThreat": 50,
+		"AttackRange": 1,
+		"Profession": 1,
+		"ProfessionName": {
+			"hash": 862306723
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconFS",
+		"CardInformation": {
+			"hash": 116241831
+		},
+		"Index": 1,
+		"DataImpl": {},
+		"UniqueID": 998272
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/DG_30",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/DG_30",
+		"PrefabPath": "Entities/Monster/DeadGal/DG_030_MonsterCard/DG_030_MonsterCard_Ui",
+		"Scale": 1,
+		"Position": [
+			0.2,
+			1.2,
+			-3
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"CardCost": 1,
+		"MonsterSize": 1,
+		"CardSkill": [
+			11301,
+			11302,
+			11303,
+			11304
+		],
+		"InitThreat": 50,
+		"AttackRange": 1,
+		"Profession": 1,
+		"ProfessionName": {
+			"hash": 862306726
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconCK",
+		"CardInformation": {
+			"hash": 116211079
+		},
+		"Index": 14,
+		"DataImpl": {},
+		"UniqueID": 998274
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/UL_040",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/UL_040",
+		"PrefabPath": "Entities/Monster/Ulysses/UL_040_MonsterCard/UL_040_MonsterCard_Ui",
+		"Scale": 1,
+		"Position": [
+			0.2,
+			0,
+			0
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"CardCost": 1,
+		"MonsterSize": 1,
+		"CardSkill": [
+			12301,
+			12302,
+			12303,
+			12304
+		],
+		"InitThreat": 50,
+		"AttackRange": 1,
+		"Profession": 2,
+		"ProfessionName": {
+			"hash": 862306724
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconZS",
+		"CardInformation": {
+			"hash": 116240870
+		},
+		"Index": 24,
+		"DataImpl": {},
+		"UniqueID": 998275
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/QT_020",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/QT_020",
+		"PrefabPath": "Entities/Monster/Quantum/QT_020_MonsterCard/QT_020_MonsterCard_Ui",
+		"Scale": 1,
+		"Position": [
+			0.2,
+			0,
+			0
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"CardCost": 1,
+		"MonsterSize": 1,
+		"CardSkill": [
+			10601,
+			10602,
+			10603,
+			10604
+		],
+		"InitThreat": 0,
+		"AttackRange": 0,
+		"Profession": 3,
+		"ProfessionName": {
+			"hash": 862306725
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconMs",
+		"CardInformation": {
+			"hash": 116184171
+		},
+		"Index": 7,
+		"DataImpl": {},
+		"UniqueID": 998276
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/DG_120",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/DG_120",
+		"PrefabPath": "Entities/Monster/DeadGal/DG_120_MonsterCard/DG_120_MonsterCard_Ui",
+		"Scale": 1,
+		"Position": [
+			0.2,
+			1.4,
+			-3.5
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"CardCost": 1,
+		"MonsterSize": 1,
+		"CardSkill": [
+			11501,
+			11502,
+			11503,
+			11504
+		],
+		"InitThreat": 0,
+		"AttackRange": 0,
+		"Profession": 3,
+		"ProfessionName": {
+			"hash": 862306725
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconMs",
+		"CardInformation": {
+			"hash": 116213001
+		},
+		"Index": 16,
+		"DataImpl": {},
+		"UniqueID": 998277
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/DG_90",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/DG_090",
+		"PrefabPath": "Entities/Monster/DeadGal/DG_090_MonsterCard/DG_090_MonsterCard_Ui",
+		"Scale": 1,
+		"Position": [
+			0.2,
+			0.8,
+			-1
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"CardCost": 2,
+		"MonsterSize": 1,
+		"CardSkill": [
+			11601,
+			11602,
+			11603,
+			11604
+		],
+		"InitThreat": 50,
+		"AttackRange": 1,
+		"Profession": 2,
+		"ProfessionName": {
+			"hash": 862306724
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconZS",
+		"CardInformation": {
+			"hash": 116213962
+		},
+		"Index": 17,
+		"DataImpl": {},
+		"UniqueID": 998278
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/RO_070",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_070",
+		"PrefabPath": "Entities/Monster/Robot/RO_070_MonsterCard/RO_070_MonsterCard_Ui",
+		"Scale": 1,
+		"Position": [
+			-0.1,
+			0.8,
+			-2
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"CardCost": 2,
+		"MonsterSize": 2,
+		"CardSkill": [
+			10201,
+			10202,
+			10203,
+			10204
+		],
+		"InitThreat": 50,
+		"AttackRange": 1,
+		"Profession": 2,
+		"ProfessionName": {
+			"hash": 862306724
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconZS",
+		"CardInformation": {
+			"hash": 116180327
+		},
+		"Index": 3,
+		"DataImpl": {},
+		"UniqueID": 998279
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/BOSS_200",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_200",
+		"PrefabPath": "Entities/Monster/Boss/BOSS_200_MonsterCard/BOSS_200_MonsterCard_Ui",
+		"Scale": 1,
+		"Position": [
+			-0.52,
+			1.06,
+			-1.24
+		],
+		"Rotation": [
+			0,
+			-170,
+			0
+		],
+		"CardCost": 3,
+		"MonsterSize": 1,
+		"CardSkill": [
+			10301,
+			10302,
+			10303,
+			10304
+		],
+		"InitThreat": 50,
+		"AttackRange": 1,
+		"Profession": 1,
+		"ProfessionName": {
+			"hash": 862306723
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconFS",
+		"CardInformation": {
+			"hash": 116181288
+		},
+		"Index": 4,
+		"DataImpl": {},
+		"UniqueID": 998280
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/RO_20",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_20",
+		"PrefabPath": "Entities/Monster/Robot/RO_020_MonsterCard/RO_020_MonsterCard_Ui",
+		"Scale": 1,
+		"Position": [
+			0.2,
+			1,
+			-3
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"CardCost": 1,
+		"MonsterSize": 1,
+		"CardSkill": [
+			10001,
+			10002,
+			10003,
+			10004
+		],
+		"InitThreat": 0,
+		"AttackRange": 0,
+		"Profession": 3,
+		"ProfessionName": {
+			"hash": 862306725
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconMs",
+		"CardInformation": {
+			"hash": 116178405
+		},
+		"Index": 1,
+		"DataImpl": {},
+		"UniqueID": 998282
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/RO_080",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_080",
+		"PrefabPath": "Entities/Monster/Robot/RO_080_MonsterCard/RO_080_MonsterCard_Ui",
+		"Scale": 1,
+		"Position": [
+			0.2,
+			0.7,
+			-2
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"CardCost": 1,
+		"MonsterSize": 1,
+		"CardSkill": [
+			10101,
+			10102,
+			10103,
+			10104
+		],
+		"InitThreat": 50,
+		"AttackRange": 1,
+		"Profession": 1,
+		"ProfessionName": {
+			"hash": 862306726
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconCK",
+		"CardInformation": {
+			"hash": 116179366
+		},
+		"Index": 2,
+		"DataImpl": {},
+		"UniqueID": 998283
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/BOSS_160",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_160",
+		"PrefabPath": "Entities/Monster/Boss/BOSS_160_MonsterCard/BOSS_160_MonsterCard_Ui",
+		"Scale": 1,
+		"Position": [
+			0.2,
+			1,
+			-2.5
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"CardCost": 2,
+		"MonsterSize": 1,
+		"CardSkill": [
+			10401,
+			10402,
+			10403,
+			10404
+		],
+		"InitThreat": 50,
+		"AttackRange": 1,
+		"Profession": 1,
+		"ProfessionName": {
+			"hash": 862306723
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconFS",
+		"CardInformation": {
+			"hash": 116182249
+		},
+		"Index": 5,
+		"DataImpl": {},
+		"UniqueID": 998284
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/RO_34",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_34",
+		"PrefabPath": "Entities/Monster/Robot/RO_034_MonsterCard/RO_034_MonsterCard_Ui",
+		"Scale": 1,
+		"Position": [
+			0.2,
+			0.2,
+			0
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"CardCost": 1,
+		"MonsterSize": 1,
+		"CardSkill": [
+			10501,
+			10502,
+			10503,
+			10504
+		],
+		"InitThreat": 0,
+		"AttackRange": 0,
+		"Profession": 3,
+		"ProfessionName": {
+			"hash": 862306725
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconMs",
+		"CardInformation": {
+			"hash": 116183210
+		},
+		"Index": 6,
+		"DataImpl": {},
+		"UniqueID": 998285
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/QT_060",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/QT_060",
+		"PrefabPath": "Entities/Monster/Quantum/QT_060_MonsterCard/QT_060_MonsterCard_Ui",
+		"Scale": 1,
+		"Position": [
+			0.2,
+			0.8,
+			0
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"CardCost": 2,
+		"MonsterSize": 1,
+		"CardSkill": [
+			10701,
+			10702,
+			10703,
+			10704
+		],
+		"InitThreat": 50,
+		"AttackRange": 1,
+		"Profession": 1,
+		"ProfessionName": {
+			"hash": 862306726
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconCK",
+		"CardInformation": {
+			"hash": 116185132
+		},
+		"Index": 8,
+		"DataImpl": {},
+		"UniqueID": 998286
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/QT_070",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/QT_070",
+		"PrefabPath": "Entities/Monster/Quantum/QT_070_MonsterCard/QT_070_MonsterCard_Ui",
+		"Scale": 0.8,
+		"Position": [
+			0.03,
+			1.82,
+			-4
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"CardCost": 1,
+		"MonsterSize": 1,
+		"CardSkill": [
+			10801,
+			10802,
+			10803,
+			10804
+		],
+		"InitThreat": 0,
+		"AttackRange": 0,
+		"Profession": 3,
+		"ProfessionName": {
+			"hash": 862306725
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconMs",
+		"CardInformation": {
+			"hash": 116186093
+		},
+		"Index": 9,
+		"DataImpl": {},
+		"UniqueID": 998287
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/QT_030",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/QT_030",
+		"PrefabPath": "Entities/Monster/Quantum/QT_030_MonsterCard/QT_030_MonsterCard_Ui",
+		"Scale": 1,
+		"Position": [
+			0.2,
+			1,
+			-2
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"CardCost": 2,
+		"MonsterSize": 1,
+		"CardSkill": [
+			10901,
+			10902,
+			10903,
+			10904
+		],
+		"InitThreat": 50,
+		"AttackRange": 1,
+		"Profession": 1,
+		"ProfessionName": {
+			"hash": 862306726
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconCK",
+		"CardInformation": {
+			"hash": 116187054
+		},
+		"Index": 10,
+		"DataImpl": {},
+		"UniqueID": 998288
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/BOSS_180",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_180",
+		"PrefabPath": "Entities/Monster/Boss/BOSS_180_MonsterCard/BOSS_180_MonsterCard_Ui",
+		"Scale": 1,
+		"Position": [
+			0.2,
+			-0.5,
+			2
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"CardCost": 3,
+		"MonsterSize": 2,
+		"CardSkill": [
+			11001,
+			11002,
+			11003,
+			11004
+		],
+		"InitThreat": 50,
+		"AttackRange": 1,
+		"Profession": 1,
+		"ProfessionName": {
+			"hash": 862306723
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconFS",
+		"CardInformation": {
+			"hash": 116208196
+		},
+		"Index": 11,
+		"DataImpl": {},
+		"UniqueID": 998289
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/BOSS_240",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_240",
+		"PrefabPath": "Entities/Monster/Boss/BOSS_240_MonsterCard/BOSS_240_MonsterCard_Ui",
+		"Scale": 1,
+		"Position": [
+			-0.2,
+			0.32,
+			-1.11
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"CardCost": 3,
+		"MonsterSize": 2,
+		"CardSkill": [
+			11101,
+			11102,
+			11103,
+			11104
+		],
+		"InitThreat": 50,
+		"AttackRange": 1,
+		"Profession": 1,
+		"ProfessionName": {
+			"hash": 862306723
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconFS",
+		"CardInformation": {
+			"hash": 116209157
+		},
+		"Index": 12,
+		"DataImpl": {},
+		"UniqueID": 998290
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/Boss_290",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/Boss_290",
+		"PrefabPath": "Entities/Monster/Boss/BOSS_290_MonsterCard/BOSS_290_MonsterCard_Ui",
+		"Scale": 1.3,
+		"Position": [
+			0.2,
+			1.2,
+			-3
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"CardCost": 3,
+		"MonsterSize": 1,
+		"CardSkill": [
+			11201,
+			11202,
+			11203,
+			11204
+		],
+		"InitThreat": 50,
+		"AttackRange": 1,
+		"Profession": 1,
+		"ProfessionName": {
+			"hash": 862306723
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconFS",
+		"CardInformation": {
+			"hash": 116210118
+		},
+		"Index": 13,
+		"DataImpl": {},
+		"UniqueID": 998291
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/BOSS_230",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_230",
+		"PrefabPath": "Entities/Monster/Boss/BOSS_230_MonsterCard/BOSS_230_MonsterCard_Ui",
+		"Scale": 1.5,
+		"Position": [
+			0.2,
+			-0.5,
+			3.15
+		],
+		"Rotation": [
+			0,
+			140,
+			0
+		],
+		"CardCost": 3,
+		"MonsterSize": 2,
+		"CardSkill": [
+			11401,
+			11402,
+			11403,
+			11404
+		],
+		"InitThreat": 50,
+		"AttackRange": 1,
+		"Profession": 1,
+		"ProfessionName": {
+			"hash": 862306723
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconFS",
+		"CardInformation": {
+			"hash": 116212040
+		},
+		"Index": 15,
+		"DataImpl": {},
+		"UniqueID": 998292
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/BOSS_080",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_080",
+		"PrefabPath": "Entities/Monster/Boss/BOSS_080_MonsterCard/BOSS_080_MonsterCard_Ui",
+		"Scale": 1,
+		"Position": [
+			0.2,
+			1.5,
+			-4
+		],
+		"Rotation": [
+			0,
+			180,
+			0
+		],
+		"CardCost": 1,
+		"MonsterSize": 1,
+		"CardSkill": [
+			11701,
+			11702,
+			11703,
+			11704
+		],
+		"InitThreat": 0,
+		"AttackRange": 0,
+		"Profession": 1,
+		"ProfessionName": {
+			"hash": 862306723
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconFS",
+		"CardInformation": {
+			"hash": 116214923
+		},
+		"Index": 18,
+		"DataImpl": {},
+		"UniqueID": 998293
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/BOSS_110",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_110",
+		"PrefabPath": "Entities/Monster/Boss/BOSS_110_MonsterCard/BOSS_110_MonsterCard_Ui",
+		"Scale": 0.85,
+		"Position": [
+			0,
+			0.65,
+			0
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"CardCost": 3,
+		"MonsterSize": 2,
+		"CardSkill": [
+			11801,
+			11802,
+			11803,
+			11804
+		],
+		"InitThreat": 50,
+		"AttackRange": 1,
+		"Profession": 1,
+		"ProfessionName": {
+			"hash": 862306723
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconFS",
+		"CardInformation": {
+			"hash": 116215884
+		},
+		"Index": 19,
+		"DataImpl": {},
+		"UniqueID": 998294
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/BOSS_190",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_190",
+		"PrefabPath": "Entities/Monster/Boss/BOSS_190_MonsterCard/BOSS_190_MonsterCard_Ui",
+		"Scale": 1,
+		"Position": [
+			0.2,
+			1.4,
+			-4
+		],
+		"Rotation": [
+			0,
+			170,
+			0
+		],
+		"CardCost": 2,
+		"MonsterSize": 1,
+		"CardSkill": [
+			11901,
+			11902,
+			11903,
+			11904
+		],
+		"InitThreat": 0,
+		"AttackRange": 0,
+		"Profession": 1,
+		"ProfessionName": {
+			"hash": 862306723
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconFS",
+		"CardInformation": {
+			"hash": 116216845
+		},
+		"Index": 20,
+		"DataImpl": {},
+		"UniqueID": 998295
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/BOSS_220",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_220",
+		"PrefabPath": "Entities/Monster/Boss/BOSS_220_MonsterCard/BOSS_220_MonsterCard_Ui",
+		"Scale": 1,
+		"Position": [
+			0.5,
+			-1.25,
+			2
+		],
+		"Rotation": [
+			0,
+			160,
+			0
+		],
+		"CardCost": 3,
+		"MonsterSize": 2,
+		"CardSkill": [
+			12001,
+			12002,
+			12003,
+			12004
+		],
+		"InitThreat": 50,
+		"AttackRange": 1,
+		"Profession": 1,
+		"ProfessionName": {
+			"hash": 862306723
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconFS",
+		"CardInformation": {
+			"hash": 116237987
+		},
+		"Index": 21,
+		"DataImpl": {},
+		"UniqueID": 998296
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/BOSS_250",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_250",
+		"PrefabPath": "Entities/Monster/Boss/BOSS_250_MonsterCard/BOSS_250_MonsterCard_Ui",
+		"Scale": 1,
+		"Position": [
+			-0.25,
+			1.6,
+			-4
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"CardCost": 3,
+		"MonsterSize": 1,
+		"CardSkill": [
+			12101,
+			12102,
+			12103,
+			12104
+		],
+		"InitThreat": 50,
+		"AttackRange": 1,
+		"Profession": 1,
+		"ProfessionName": {
+			"hash": 862306723
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconFS",
+		"CardInformation": {
+			"hash": 116238948
+		},
+		"Index": 22,
+		"DataImpl": {},
+		"UniqueID": 998297
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/UL_10",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/UL_012",
+		"PrefabPath": "Entities/Monster/Ulysses/UL_010_MonsterCard/UL_010_MonsterCard_Ui",
+		"Scale": 1,
+		"Position": [
+			0.2,
+			0,
+			1
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"CardCost": 1,
+		"MonsterSize": 1,
+		"CardSkill": [
+			12201,
+			12202,
+			12203,
+			12204
+		],
+		"InitThreat": 50,
+		"AttackRange": 1,
+		"Profession": 2,
+		"ProfessionName": {
+			"hash": 862306724
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconZS",
+		"CardInformation": {
+			"hash": 116239909
+		},
+		"Index": 23,
+		"DataImpl": {},
+		"UniqueID": 998298
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/Rogue_DLC_030",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/Rogue_DLC_030",
+		"PrefabPath": "Entities/Monster/Rogue/Rogue_DLC_030_MonsterCard/Rogue_DLC_030_MonsterCard_Ui",
+		"Scale": 1,
+		"Position": [
+			0.2,
+			0,
+			0
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"CardCost": 3,
+		"MonsterSize": 1,
+		"CardSkill": [
+			12301,
+			12302,
+			12303,
+			12304
+		],
+		"InitThreat": 50,
+		"AttackRange": 1,
+		"Profession": 1,
+		"ProfessionName": {
+			"hash": 862306726
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconCK",
+		"CardInformation": {
+			"hash": 116243753
+		},
+		"Index": 27,
+		"DataImpl": {},
+		"UniqueID": 998299
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/Rogue_DLC_020",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/Rogue_DLC_020",
+		"PrefabPath": "Entities/Monster/Rogue/Rogue_DLC_020_MonsterCard/Rogue_DLC_020_MonsterCard_Ui",
+		"Scale": 1,
+		"Position": [
+			0.2,
+			0,
+			0
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"CardCost": 2,
+		"MonsterSize": 1,
+		"CardSkill": [
+			12201,
+			12202,
+			12203,
+			12204
+		],
+		"InitThreat": 50,
+		"AttackRange": 1,
+		"Profession": 1,
+		"ProfessionName": {
+			"hash": 862306723
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconFS",
+		"CardInformation": {
+			"hash": 116242792
+		},
+		"Index": 26,
+		"DataImpl": {},
+		"UniqueID": 998300
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/Rogue_DLC_010",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/Rogue_DLC_010",
+		"PrefabPath": "Entities/Monster/Rogue/Rogue_DLC_010_MonsterCard/Rogue_DLC_010_MonsterCard_Ui",
+		"Scale": 1,
+		"Position": [
+			0.2,
+			0,
+			0
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"CardCost": 1,
+		"MonsterSize": 1,
+		"CardSkill": [
+			12201,
+			12202,
+			12203,
+			12204
+		],
+		"InitThreat": 50,
+		"AttackRange": 1,
+		"Profession": 1,
+		"ProfessionName": {
+			"hash": 862306723
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconFS",
+		"CardInformation": {
+			"hash": 116241831
+		},
+		"Index": 25,
+		"DataImpl": {},
+		"UniqueID": 998301
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/BOSS_110",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_110",
+		"PrefabPath": "Entities/Monster/Boss/BOSS_110_MonsterCard/BOSS_110_MonsterCard_Ui",
+		"Scale": 0.85,
+		"Position": [
+			0,
+			0.65,
+			0
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"CardCost": 3,
+		"MonsterSize": 2,
+		"CardSkill": [
+			11801,
+			11802,
+			11803,
+			11804
+		],
+		"InitThreat": 50,
+		"AttackRange": 1,
+		"Profession": 1,
+		"ProfessionName": {
+			"hash": 862306723
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconFS",
+		"CardInformation": {
+			"hash": 116215884
+		},
+		"Index": 19,
+		"DataImpl": {},
+		"UniqueID": 998323
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/BOSS_230",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_230",
+		"PrefabPath": "Entities/Monster/Boss/BOSS_230_MonsterCard/BOSS_230_MonsterCard_Ui",
+		"Scale": 1.5,
+		"Position": [
+			0.2,
+			-0.5,
+			3.15
+		],
+		"Rotation": [
+			0,
+			140,
+			0
+		],
+		"CardCost": 3,
+		"MonsterSize": 2,
+		"CardSkill": [
+			11401,
+			11402,
+			11403,
+			11404
+		],
+		"InitThreat": 50,
+		"AttackRange": 1,
+		"Profession": 1,
+		"ProfessionName": {
+			"hash": 862306723
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconFS",
+		"CardInformation": {
+			"hash": 116212040
+		},
+		"Index": 15,
+		"DataImpl": {},
+		"UniqueID": 998324
+	},
+	{
+		"CardPicPath": "SpriteOutput/Activity/MonsterCard/Monster/BOSS_220",
+		"CardLongPicPath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_220",
+		"PrefabPath": "Entities/Monster/Boss/BOSS_220_MonsterCard/BOSS_220_MonsterCard_Ui",
+		"Scale": 1,
+		"Position": [
+			0.5,
+			-1.25,
+			2
+		],
+		"Rotation": [
+			0,
+			160,
+			0
+		],
+		"CardCost": 3,
+		"MonsterSize": 2,
+		"CardSkill": [
+			12001,
+			12002,
+			12003,
+			12004
+		],
+		"InitThreat": 50,
+		"AttackRange": 1,
+		"Profession": 1,
+		"ProfessionName": {
+			"hash": 862306723
+		},
+		"ProfessionIcon": "SpriteOutput/Activity/MonsterCard/IconFS",
+		"CardInformation": {
+			"hash": 116237987
+		},
+		"Index": 21,
+		"DataImpl": {},
+		"UniqueID": 998325
+	}
+]

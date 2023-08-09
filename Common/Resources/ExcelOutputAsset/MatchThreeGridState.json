@@ -1,0 +1,30 @@
+[
+	{
+		"stateName": {
+			"hash": 1159115639
+		},
+		"stateDes": {
+			"hash": 1534691342
+		},
+		"stateIcon": "",
+		"isChangeable": false,
+		"changeTime": 0,
+		"nextState": 102,
+		"DataImpl": {},
+		"stateID": 102
+	},
+	{
+		"stateName": {
+			"hash": 1159115640
+		},
+		"stateDes": {
+			"hash": 1534691343
+		},
+		"stateIcon": "SpriteOutput/MatchThree/Obstacle/Obstacle1",
+		"isChangeable": true,
+		"changeTime": 1,
+		"nextState": 102,
+		"DataImpl": {},
+		"stateID": 103
+	}
+]

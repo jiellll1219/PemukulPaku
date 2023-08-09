@@ -1,0 +1,444 @@
+[
+	{
+		"GroupType": 1,
+		"BeginShowTime": {
+			"TimeStampForBakedReader": 1626336000
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1626336000
+		},
+		"BeginShowLevel": 5,
+		"SiteList": [
+			1,
+			2
+		],
+		"UnlockLevel": 1,
+		"Title": {
+			"hash": -1043125370
+		},
+		"SubTitle": {
+			"hash": 110331244
+		},
+		"BGPath": "SpriteOutput/WorldMap/ActivityBg/ChapterGroupBgImage1",
+		"LeftFuncBtn": 0,
+		"FuncBtnList": [],
+		"AutoShowPreviously": false,
+		"PreviouslyImgPath": "",
+		"PreviouslyDesc": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"ID": 1
+	},
+	{
+		"GroupType": 1,
+		"BeginShowTime": {
+			"TimeStampForBakedReader": 1626336000
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1626336000
+		},
+		"BeginShowLevel": 15,
+		"SiteList": [
+			3,
+			4,
+			5,
+			6
+		],
+		"UnlockLevel": 15,
+		"Title": {
+			"hash": -1043125369
+		},
+		"SubTitle": {
+			"hash": 110331245
+		},
+		"BGPath": "SpriteOutput/WorldMap/ActivityBg/ChapterGroupBgImage2",
+		"LeftFuncBtn": 0,
+		"FuncBtnList": [
+			3,
+			4
+		],
+		"AutoShowPreviously": true,
+		"PreviouslyImgPath": "SpriteOutput/WorldMap/Previously/ChapterGroup02",
+		"PreviouslyDesc": {
+			"hash": 1171637243
+		},
+		"DataImpl": {},
+		"ID": 2
+	},
+	{
+		"GroupType": 1,
+		"BeginShowTime": {
+			"TimeStampForBakedReader": 1626336000
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1626336000
+		},
+		"BeginShowLevel": 24,
+		"SiteList": [
+			7,
+			8,
+			9,
+			10,
+			11
+		],
+		"UnlockLevel": 24,
+		"Title": {
+			"hash": -1043125368
+		},
+		"SubTitle": {
+			"hash": 110331246
+		},
+		"BGPath": "SpriteOutput/WorldMap/ActivityBg/ChapterGroupBgImage3",
+		"LeftFuncBtn": 0,
+		"FuncBtnList": [
+			6,
+			7
+		],
+		"AutoShowPreviously": true,
+		"PreviouslyImgPath": "SpriteOutput/WorldMap/Previously/ChapterGroup03",
+		"PreviouslyDesc": {
+			"hash": 1171637244
+		},
+		"DataImpl": {},
+		"ID": 3
+	},
+	{
+		"GroupType": 1,
+		"BeginShowTime": {
+			"TimeStampForBakedReader": 1626336000
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1626336000
+		},
+		"BeginShowLevel": 24,
+		"SiteList": [
+			12,
+			13,
+			14,
+			15
+		],
+		"UnlockLevel": 30,
+		"Title": {
+			"hash": -1043125367
+		},
+		"SubTitle": {
+			"hash": 110331247
+		},
+		"BGPath": "SpriteOutput/WorldMap/ActivityBg/ChapterGroupBgImage4",
+		"LeftFuncBtn": 0,
+		"FuncBtnList": [
+			9,
+			10
+		],
+		"AutoShowPreviously": true,
+		"PreviouslyImgPath": "SpriteOutput/WorldMap/Previously/ChapterGroup04",
+		"PreviouslyDesc": {
+			"hash": 1171637245
+		},
+		"DataImpl": {},
+		"ID": 4
+	},
+	{
+		"GroupType": 1,
+		"BeginShowTime": {
+			"TimeStampForBakedReader": 1626336000
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1626336000
+		},
+		"BeginShowLevel": 24,
+		"SiteList": [
+			16,
+			17
+		],
+		"UnlockLevel": 30,
+		"Title": {
+			"hash": -1043125366
+		},
+		"SubTitle": {
+			"hash": 110331248
+		},
+		"BGPath": "SpriteOutput/WorldMap/ActivityBg/ChapterGroupBgImage5",
+		"LeftFuncBtn": 0,
+		"FuncBtnList": [
+			12,
+			13
+		],
+		"AutoShowPreviously": true,
+		"PreviouslyImgPath": "SpriteOutput/WorldMap/Previously/ChapterGroup05",
+		"PreviouslyDesc": {
+			"hash": 1171637246
+		},
+		"DataImpl": {},
+		"ID": 5
+	},
+	{
+		"GroupType": 1,
+		"BeginShowTime": {
+			"TimeStampForBakedReader": 1626336000
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1626336000
+		},
+		"BeginShowLevel": 24,
+		"SiteList": [
+			18,
+			19,
+			20
+		],
+		"UnlockLevel": 30,
+		"Title": {
+			"hash": -1043125365
+		},
+		"SubTitle": {
+			"hash": 110331249
+		},
+		"BGPath": "SpriteOutput/WorldMap/ActivityBg/ChapterGroupBgImage6",
+		"LeftFuncBtn": 0,
+		"FuncBtnList": [
+			15,
+			16
+		],
+		"AutoShowPreviously": true,
+		"PreviouslyImgPath": "SpriteOutput/WorldMap/Previously/ChapterGroup06",
+		"PreviouslyDesc": {
+			"hash": 1171637247
+		},
+		"DataImpl": {},
+		"ID": 6
+	},
+	{
+		"GroupType": 1,
+		"BeginShowTime": {
+			"TimeStampForBakedReader": 1626336000
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1626336000
+		},
+		"BeginShowLevel": 24,
+		"SiteList": [
+			21,
+			22
+		],
+		"UnlockLevel": 30,
+		"Title": {
+			"hash": -1043125364
+		},
+		"SubTitle": {
+			"hash": 110331250
+		},
+		"BGPath": "SpriteOutput/WorldMap/ActivityBg/ChapterGroupBgImage7",
+		"LeftFuncBtn": 0,
+		"FuncBtnList": [
+			18
+		],
+		"AutoShowPreviously": true,
+		"PreviouslyImgPath": "SpriteOutput/WorldMap/Previously/ChapterGroup07",
+		"PreviouslyDesc": {
+			"hash": 1171637248
+		},
+		"DataImpl": {},
+		"ID": 7
+	},
+	{
+		"GroupType": 1,
+		"BeginShowTime": {
+			"TimeStampForBakedReader": 1626336000
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1626336000
+		},
+		"BeginShowLevel": 24,
+		"SiteList": [
+			23,
+			24,
+			25
+		],
+		"UnlockLevel": 30,
+		"Title": {
+			"hash": -1043125363
+		},
+		"SubTitle": {
+			"hash": 110331251
+		},
+		"BGPath": "SpriteOutput/WorldMap/ActivityBg/ChapterGroupBgImage8",
+		"LeftFuncBtn": 0,
+		"FuncBtnList": [
+			21,
+			22
+		],
+		"AutoShowPreviously": true,
+		"PreviouslyImgPath": "SpriteOutput/WorldMap/Previously/ChapterGroup08",
+		"PreviouslyDesc": {
+			"hash": 1171637249
+		},
+		"DataImpl": {},
+		"ID": 8
+	},
+	{
+		"GroupType": 1,
+		"BeginShowTime": {
+			"TimeStampForBakedReader": 1626336000
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1626336000
+		},
+		"BeginShowLevel": 24,
+		"SiteList": [
+			26,
+			27,
+			28
+		],
+		"UnlockLevel": 30,
+		"Title": {
+			"hash": -1043125362
+		},
+		"SubTitle": {
+			"hash": 110331252
+		},
+		"BGPath": "SpriteOutput/WorldMap/ActivityBg/ChapterGroupBgImage9",
+		"LeftFuncBtn": 0,
+		"FuncBtnList": [
+			24
+		],
+		"AutoShowPreviously": true,
+		"PreviouslyImgPath": "SpriteOutput/WorldMap/Previously/ChapterGroup09",
+		"PreviouslyDesc": {
+			"hash": 1171637250
+		},
+		"DataImpl": {},
+		"ID": 9
+	},
+	{
+		"GroupType": 3,
+		"BeginShowTime": {
+			"TimeStampForBakedReader": 1626336000
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1653048000
+		},
+		"BeginShowLevel": 24,
+		"SiteList": [
+			29,
+			30
+		],
+		"UnlockLevel": 30,
+		"Title": {
+			"hash": 2022851946
+		},
+		"SubTitle": {
+			"hash": -874698684
+		},
+		"BGPath": "SpriteOutput/WorldMap/ActivityBg/ChapterGroupBgImage10",
+		"LeftFuncBtn": 1001,
+		"FuncBtnList": [
+			27,
+			28
+		],
+		"AutoShowPreviously": true,
+		"PreviouslyImgPath": "SpriteOutput/WorldMap/Previously/ChapterGroup10",
+		"PreviouslyDesc": {
+			"hash": 1961016182
+		},
+		"DataImpl": {},
+		"ID": 10
+	},
+	{
+		"GroupType": 2,
+		"BeginShowTime": {
+			"TimeStampForBakedReader": 1632384000
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1632384000
+		},
+		"BeginShowLevel": 24,
+		"SiteList": [
+			31
+		],
+		"UnlockLevel": 30,
+		"Title": {
+			"hash": 2022851947
+		},
+		"SubTitle": {
+			"hash": -874698683
+		},
+		"BGPath": "SpriteOutput/WorldMap/ActivityBg/ChapterGroupBgImage11",
+		"LeftFuncBtn": 0,
+		"FuncBtnList": [
+			30
+		],
+		"AutoShowPreviously": true,
+		"PreviouslyImgPath": "SpriteOutput/WorldMap/Previously/ChapterGroup11",
+		"PreviouslyDesc": {
+			"hash": 1961016183
+		},
+		"DataImpl": {},
+		"ID": 11
+	},
+	{
+		"GroupType": 4,
+		"BeginShowTime": {
+			"TimeStampForBakedReader": 1663228800
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1664445600
+		},
+		"BeginShowLevel": 24,
+		"SiteList": [
+			32,
+			33,
+			34
+		],
+		"UnlockLevel": 30,
+		"Title": {
+			"hash": 2022851948
+		},
+		"SubTitle": {
+			"hash": -874698682
+		},
+		"BGPath": "SpriteOutput/WorldMap/ActivityBg/ChapterGroupBgImage12",
+		"LeftFuncBtn": 1002,
+		"FuncBtnList": [
+			33
+		],
+		"AutoShowPreviously": true,
+		"PreviouslyImgPath": "SpriteOutput/WorldMap/Previously/ChapterGroup12",
+		"PreviouslyDesc": {
+			"hash": 1961016184
+		},
+		"DataImpl": {},
+		"ID": 12
+	},
+	{
+		"GroupType": 4,
+		"BeginShowTime": {
+			"TimeStampForBakedReader": 1681984800
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1681984800
+		},
+		"BeginShowLevel": 24,
+		"SiteList": [
+			36,
+			37
+		],
+		"UnlockLevel": 30,
+		"Title": {
+			"hash": 2022851950
+		},
+		"SubTitle": {
+			"hash": -874698680
+		},
+		"BGPath": "SpriteOutput/Chapter36/6.5_ChapterGroupBgImage14",
+		"LeftFuncBtn": 0,
+		"FuncBtnList": [],
+		"AutoShowPreviously": false,
+		"PreviouslyImgPath": "",
+		"PreviouslyDesc": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"ID": 13
+	}
+]

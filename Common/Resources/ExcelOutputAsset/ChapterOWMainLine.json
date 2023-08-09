@@ -1,0 +1,810 @@
+[
+	{
+		"PhaseID": 13,
+		"Type": 2,
+		"Param": [
+			301001,
+			13301
+		],
+		"UnlockConditionList": "2|2022-05-19 04:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RogueGod_Elysia",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_8",
+		"ChapterDisplay": "ChapterOW_ChapterName_01",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_01",
+		"DataImpl": {},
+		"ID": 1
+	},
+	{
+		"PhaseID": 13,
+		"Type": 2,
+		"Param": [
+			301101,
+			13301
+		],
+		"UnlockConditionList": "5|301010;2|2022-05-19 04:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RougeGod_Pardofelis",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_11",
+		"ChapterDisplay": "ChapterOW_ChapterName_01",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_02",
+		"DataImpl": {},
+		"ID": 2
+	},
+	{
+		"PhaseID": 13,
+		"Type": 2,
+		"Param": [
+			301201,
+			13301
+		],
+		"UnlockConditionList": "5|301108;2|2022-05-19 04:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RogueGod_Eden",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_2",
+		"ChapterDisplay": "ChapterOW_ChapterName_01",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_03",
+		"DataImpl": {},
+		"ID": 3
+	},
+	{
+		"PhaseID": 13,
+		"Type": 2,
+		"Param": [
+			301301,
+			13301
+		],
+		"UnlockConditionList": "5|301201;2|2022-05-19 04:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RogueGod_Elysia",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_8",
+		"ChapterDisplay": "ChapterOW_ChapterName_01",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_04",
+		"DataImpl": {},
+		"ID": 4
+	},
+	{
+		"PhaseID": 13,
+		"Type": 2,
+		"Param": [
+			301501,
+			13301
+		],
+		"UnlockConditionList": "5|301303;2|2022-05-19 04:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RogueGod_Kevin",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_1",
+		"ChapterDisplay": "ChapterOW_ChapterName_01",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_05",
+		"DataImpl": {},
+		"ID": 5
+	},
+	{
+		"PhaseID": 13,
+		"Type": 2,
+		"Param": [
+			301401,
+			13301
+		],
+		"UnlockConditionList": "5|301501;2|2022-05-19 04:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RougeGod_Griseo1",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_10",
+		"ChapterDisplay": "ChapterOW_ChapterName_01",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_06",
+		"DataImpl": {},
+		"ID": 6
+	},
+	{
+		"PhaseID": 14,
+		"Type": 2,
+		"Param": [
+			302001,
+			13301
+		],
+		"UnlockConditionList": "5|301403;2|2022-05-26 10:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RogueGod_Elysia",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_8",
+		"ChapterDisplay": "ChapterOW_ChapterName_01",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_07",
+		"DataImpl": {},
+		"ID": 7
+	},
+	{
+		"PhaseID": 14,
+		"Type": 2,
+		"Param": [
+			302006,
+			13301
+		],
+		"UnlockConditionList": "5|302005;2|2022-05-26 10:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RougeGod_Griseo1",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_10",
+		"ChapterDisplay": "ChapterOW_ChapterName_01",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_08",
+		"DataImpl": {},
+		"ID": 8
+	},
+	{
+		"PhaseID": 14,
+		"Type": 2,
+		"Param": [
+			302010,
+			13301
+		],
+		"UnlockConditionList": "5|302009;2|2022-05-26 10:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RogueGod_Elysia",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_8",
+		"ChapterDisplay": "ChapterOW_ChapterName_01",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_09",
+		"DataImpl": {},
+		"ID": 9
+	},
+	{
+		"PhaseID": 14,
+		"Type": 2,
+		"Param": [
+			302101,
+			13301
+		],
+		"UnlockConditionList": "5|302014;2|2022-05-26 10:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RogueGod_Sakura",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_5",
+		"ChapterDisplay": "ChapterOW_ChapterName_01",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_10",
+		"DataImpl": {},
+		"ID": 10
+	},
+	{
+		"PhaseID": 14,
+		"Type": 2,
+		"Param": [
+			302201,
+			13301
+		],
+		"UnlockConditionList": "5|302103;2|2022-05-26 10:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RogueGod_Mobius",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_6",
+		"ChapterDisplay": "ChapterOW_ChapterName_01",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_11",
+		"DataImpl": {},
+		"ID": 11
+	},
+	{
+		"PhaseID": 14,
+		"Type": 2,
+		"Param": [
+			302301,
+			13301
+		],
+		"UnlockConditionList": "5|302203;2|2022-05-26 10:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RogueGod_Elysia",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_8",
+		"ChapterDisplay": "ChapterOW_ChapterName_01",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_12",
+		"DataImpl": {},
+		"ID": 12
+	},
+	{
+		"PhaseID": 14,
+		"Type": 2,
+		"Param": [
+			302401,
+			13301
+		],
+		"UnlockConditionList": "5|302305;2|2022-05-26 10:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RogueGod_Hua",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_7",
+		"ChapterDisplay": "ChapterOW_ChapterName_01",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_13",
+		"DataImpl": {},
+		"ID": 13
+	},
+	{
+		"PhaseID": 14,
+		"Type": 2,
+		"Param": [
+			302501,
+			13301
+		],
+		"UnlockConditionList": "5|302402;2|2022-05-26 10:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RogueGod_Sakura",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_5",
+		"ChapterDisplay": "ChapterOW_ChapterName_01",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_14",
+		"DataImpl": {},
+		"ID": 14
+	},
+	{
+		"PhaseID": 15,
+		"Type": 2,
+		"Param": [
+			302601,
+			13301
+		],
+		"UnlockConditionList": "5|302501;2|2022-05-26 10:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RogueGod_Kevin",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_1",
+		"ChapterDisplay": "ChapterOW_ChapterName_01",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_15",
+		"DataImpl": {},
+		"ID": 15
+	},
+	{
+		"PhaseID": 15,
+		"Type": 2,
+		"Param": [
+			303001,
+			13301
+		],
+		"UnlockConditionList": "5|302609;2|2022-05-30 10:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RogueGod_Kevin",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_1",
+		"ChapterDisplay": "ChapterOW_ChapterName_01",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_16",
+		"DataImpl": {},
+		"ID": 16
+	},
+	{
+		"PhaseID": 15,
+		"Type": 2,
+		"Param": [
+			303101,
+			13301
+		],
+		"UnlockConditionList": "5|303004;2|2022-05-30 10:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RougeGod_Griseo1",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_10",
+		"ChapterDisplay": "ChapterOW_ChapterName_01",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_17",
+		"DataImpl": {},
+		"ID": 17
+	},
+	{
+		"PhaseID": 15,
+		"Type": 2,
+		"Param": [
+			303201,
+			13301
+		],
+		"UnlockConditionList": "5|303104;2|2022-05-30 10:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RogueGod_Su",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_4",
+		"ChapterDisplay": "ChapterOW_ChapterName_01",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_18",
+		"DataImpl": {},
+		"ID": 18
+	},
+	{
+		"PhaseID": 15,
+		"Type": 2,
+		"Param": [
+			303301,
+			13301
+		],
+		"UnlockConditionList": "5|303205;2|2022-05-30 10:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RogueGod_Kevin",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_1",
+		"ChapterDisplay": "ChapterOW_ChapterName_01",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_19",
+		"DataImpl": {},
+		"ID": 19
+	},
+	{
+		"PhaseID": 16,
+		"Type": 2,
+		"Param": [
+			303401,
+			13301
+		],
+		"UnlockConditionList": "5|303302;2|2022-05-30 10:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RogueGod_Hua",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_7",
+		"ChapterDisplay": "ChapterOW_ChapterName_01",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_20",
+		"DataImpl": {},
+		"ID": 20
+	},
+	{
+		"PhaseID": 17,
+		"Type": 2,
+		"Param": [
+			311001,
+			13301
+		],
+		"UnlockConditionList": "5|303401;2|2022-07-11 10:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/HeroDisplay/Raven",
+		"BackgroundIconPath": "SpriteOutput/Chapter29/CardIcon/RogueTatto_Simple",
+		"ChapterDisplay": "ChapterOW_ChapterName_02",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_21",
+		"DataImpl": {},
+		"ID": 21
+	},
+	{
+		"PhaseID": 17,
+		"Type": 2,
+		"Param": [
+			311101,
+			13301
+		],
+		"UnlockConditionList": "5|311001;2|2022-07-11 10:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RogueGod_Eden",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_2",
+		"ChapterDisplay": "ChapterOW_ChapterName_02",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_22",
+		"DataImpl": {},
+		"ID": 22
+	},
+	{
+		"PhaseID": 17,
+		"Type": 2,
+		"Param": [
+			311201,
+			13301
+		],
+		"UnlockConditionList": "5|311101;2|2022-07-11 10:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RougeGod_VillV01",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_13",
+		"ChapterDisplay": "ChapterOW_ChapterName_02",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_23",
+		"DataImpl": {},
+		"ID": 23
+	},
+	{
+		"PhaseID": 17,
+		"Type": 2,
+		"Param": [
+			311301,
+			13301
+		],
+		"UnlockConditionList": "5|311205;2|2022-07-11 10:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RougeGod_Griseo1",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_10",
+		"ChapterDisplay": "ChapterOW_ChapterName_02",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_24",
+		"DataImpl": {},
+		"ID": 24
+	},
+	{
+		"PhaseID": 17,
+		"Type": 2,
+		"Param": [
+			311401,
+			13301
+		],
+		"UnlockConditionList": "5|311302;2|2022-07-11 10:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RougeGod_VillV01",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_13",
+		"ChapterDisplay": "ChapterOW_ChapterName_02",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_25",
+		"DataImpl": {},
+		"ID": 25
+	},
+	{
+		"PhaseID": 17,
+		"Type": 2,
+		"Param": [
+			311501,
+			13301
+		],
+		"UnlockConditionList": "5|311408;2|2022-07-11 10:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RogueGod_Su",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_4",
+		"ChapterDisplay": "ChapterOW_ChapterName_02",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_26",
+		"DataImpl": {},
+		"ID": 26
+	},
+	{
+		"PhaseID": 17,
+		"Type": 2,
+		"Param": [
+			311601,
+			13301
+		],
+		"UnlockConditionList": "5|311502;2|2022-07-11 10:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RogueGod_Kalpas",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_3",
+		"ChapterDisplay": "ChapterOW_ChapterName_02",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_27",
+		"DataImpl": {},
+		"ID": 27
+	},
+	{
+		"PhaseID": 18,
+		"Type": 2,
+		"Param": [
+			312101,
+			13301
+		],
+		"UnlockConditionList": "5|311601;2|2022-07-14 10:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/HeroDisplay/Raven",
+		"BackgroundIconPath": "SpriteOutput/Chapter29/CardIcon/RogueTatto_Simple",
+		"ChapterDisplay": "ChapterOW_ChapterName_02",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_28",
+		"DataImpl": {},
+		"ID": 28
+	},
+	{
+		"PhaseID": 18,
+		"Type": 2,
+		"Param": [
+			312201,
+			13301
+		],
+		"UnlockConditionList": "5|312101;2|2022-07-14 10:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RogueGod_Eden",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_2",
+		"ChapterDisplay": "ChapterOW_ChapterName_02",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_29",
+		"DataImpl": {},
+		"ID": 29
+	},
+	{
+		"PhaseID": 18,
+		"Type": 2,
+		"Param": [
+			312301,
+			13302
+		],
+		"UnlockConditionList": "5|312201;2|2022-07-14 10:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RogueGod_Hua",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_7",
+		"ChapterDisplay": "ChapterOW_ChapterName_02",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_30",
+		"DataImpl": {},
+		"ID": 30
+	},
+	{
+		"PhaseID": 19,
+		"Type": 2,
+		"Param": [
+			312402,
+			13302
+		],
+		"UnlockConditionList": "5|312401;2|2022-07-14 10:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RougeGod_VillV01",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_13",
+		"ChapterDisplay": "ChapterOW_ChapterName_02",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_31",
+		"DataImpl": {},
+		"ID": 31
+	},
+	{
+		"PhaseID": 20,
+		"Type": 2,
+		"Param": [
+			313101,
+			13302
+		],
+		"UnlockConditionList": "5|312602;2|2022-07-21 10:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RogueGod_Su",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_4",
+		"ChapterDisplay": "ChapterOW_ChapterName_02",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_32",
+		"DataImpl": {},
+		"ID": 32
+	},
+	{
+		"PhaseID": 20,
+		"Type": 2,
+		"Param": [
+			313201,
+			13302
+		],
+		"UnlockConditionList": "5|313101;2|2022-07-21 10:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RougeGod_VillV01",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_13",
+		"ChapterDisplay": "ChapterOW_ChapterName_02",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_33",
+		"DataImpl": {},
+		"ID": 33
+	},
+	{
+		"PhaseID": 20,
+		"Type": 2,
+		"Param": [
+			313301,
+			13302
+		],
+		"UnlockConditionList": "5|313203;2|2022-07-21 10:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RougeGod_Aponia",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_12",
+		"ChapterDisplay": "ChapterOW_ChapterName_02",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_34",
+		"DataImpl": {},
+		"ID": 34
+	},
+	{
+		"PhaseID": 21,
+		"Type": 2,
+		"Param": [
+			313401,
+			13302
+		],
+		"UnlockConditionList": "5|313301;2|2022-07-21 10:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/HeroDisplay/Raven",
+		"BackgroundIconPath": "SpriteOutput/Chapter29/CardIcon/RogueTatto_Simple",
+		"ChapterDisplay": "ChapterOW_ChapterName_02",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_35",
+		"DataImpl": {},
+		"ID": 35
+	},
+	{
+		"PhaseID": 21,
+		"Type": 2,
+		"Param": [
+			313501,
+			13302
+		],
+		"UnlockConditionList": "5|313401;2|2022-07-21 10:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RougeGod_VillV01",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_13",
+		"ChapterDisplay": "ChapterOW_ChapterName_02",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_36",
+		"DataImpl": {},
+		"ID": 36
+	},
+	{
+		"PhaseID": 22,
+		"Type": 2,
+		"Param": [
+			313502,
+			13302
+		],
+		"UnlockConditionList": "5|313502;2|2022-07-21 10:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RougeGod_VillV01",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_13",
+		"ChapterDisplay": "ChapterOW_ChapterName_02",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_37",
+		"DataImpl": {},
+		"ID": 37
+	},
+	{
+		"PhaseID": 22,
+		"Type": 2,
+		"Param": [
+			313505,
+			13302
+		],
+		"UnlockConditionList": "5|313505;2|2022-08-26 10:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RougeGod_VillV01",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_13",
+		"ChapterDisplay": "ChapterOW_ChapterName_02",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_37",
+		"DataImpl": {},
+		"ID": 38
+	},
+	{
+		"PhaseID": 23,
+		"Type": 2,
+		"Param": [
+			321101,
+			13302
+		],
+		"UnlockConditionList": "5|313505;2|2022-08-26 10:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RogueGod_Eden",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_2",
+		"ChapterDisplay": "ChapterOW_ChapterName_03",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_01",
+		"DataImpl": {},
+		"ID": 39
+	},
+	{
+		"PhaseID": 23,
+		"Type": 2,
+		"Param": [
+			321201,
+			13302
+		],
+		"UnlockConditionList": "5|321101;2|2022-08-26 10:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RogueGod_Blackely",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_8",
+		"ChapterDisplay": "ChapterOW_ChapterName_03",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_02",
+		"DataImpl": {},
+		"ID": 40
+	},
+	{
+		"PhaseID": 23,
+		"Type": 2,
+		"Param": [
+			321301,
+			13302
+		],
+		"UnlockConditionList": "5|321203;2|2022-08-26 10:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RogueGod_Sakura",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_5",
+		"ChapterDisplay": "ChapterOW_ChapterName_03",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_03",
+		"DataImpl": {},
+		"ID": 41
+	},
+	{
+		"PhaseID": 24,
+		"Type": 2,
+		"Param": [
+			322001,
+			13302
+		],
+		"UnlockConditionList": "5|321304;2|2022-08-26 10:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RougeGod_Aponia",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_12",
+		"ChapterDisplay": "ChapterOW_ChapterName_03",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_04",
+		"DataImpl": {},
+		"ID": 42
+	},
+	{
+		"PhaseID": 25,
+		"Type": 2,
+		"Param": [
+			322101,
+			13302
+		],
+		"UnlockConditionList": "5|322002;2|2022-08-26 10:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RougeGod_Kosma",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_9",
+		"ChapterDisplay": "ChapterOW_ChapterName_03",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_05",
+		"DataImpl": {},
+		"ID": 43
+	},
+	{
+		"PhaseID": 25,
+		"Type": 2,
+		"Param": [
+			322201,
+			13302
+		],
+		"UnlockConditionList": "5|322103;2|2022-08-26 10:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RougeGod_Griseo1",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_10",
+		"ChapterDisplay": "ChapterOW_ChapterName_03",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_06",
+		"DataImpl": {},
+		"ID": 44
+	},
+	{
+		"PhaseID": 26,
+		"Type": 2,
+		"Param": [
+			322301,
+			13302
+		],
+		"UnlockConditionList": "5|322201;2|2022-08-26 10:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RogueGod_Hua",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_7",
+		"ChapterDisplay": "ChapterOW_ChapterName_03",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_07",
+		"DataImpl": {},
+		"ID": 45
+	},
+	{
+		"PhaseID": 26,
+		"Type": 2,
+		"Param": [
+			322501,
+			13302
+		],
+		"UnlockConditionList": "5|322306;2|2022-08-26 10:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RogueGod_Su",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_4",
+		"ChapterDisplay": "ChapterOW_ChapterName_03",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_08",
+		"DataImpl": {},
+		"ID": 46
+	},
+	{
+		"PhaseID": 27,
+		"Type": 2,
+		"Param": [
+			322601,
+			13302
+		],
+		"UnlockConditionList": "5|322504;2|2022-08-26 10:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RogueGod_Eden",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_2",
+		"ChapterDisplay": "ChapterOW_ChapterName_03",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_09",
+		"DataImpl": {},
+		"ID": 47
+	},
+	{
+		"PhaseID": 28,
+		"Type": 2,
+		"Param": [
+			322603,
+			13302
+		],
+		"UnlockConditionList": "5|322602;2|2022-08-26 10:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RogueGod_Eden",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_2",
+		"ChapterDisplay": "ChapterOW_ChapterName_03",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_09",
+		"DataImpl": {},
+		"ID": 48
+	},
+	{
+		"PhaseID": 28,
+		"Type": 2,
+		"Param": [
+			323001,
+			13302
+		],
+		"UnlockConditionList": "5|322603;2|2022-09-02 10:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RogueGod_Elysia",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_8",
+		"ChapterDisplay": "ChapterOW_ChapterName_03",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_10",
+		"DataImpl": {},
+		"ID": 49
+	},
+	{
+		"PhaseID": 29,
+		"Type": 2,
+		"Param": [
+			323101,
+			13302
+		],
+		"UnlockConditionList": "5|323001;2|2022-09-02 10:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RogueGod_Elysia",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_8",
+		"ChapterDisplay": "ChapterOW_ChapterName_03",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_11",
+		"DataImpl": {},
+		"ID": 50
+	},
+	{
+		"PhaseID": 30,
+		"Type": 2,
+		"Param": [
+			323110,
+			13302
+		],
+		"UnlockConditionList": "5|323109;2|2022-09-02 10:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RogueGod_Elysia",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_8",
+		"ChapterDisplay": "ChapterOW_ChapterName_03",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_12",
+		"DataImpl": {},
+		"ID": 51
+	},
+	{
+		"PhaseID": 30,
+		"Type": 3,
+		"Param": [
+			42876
+		],
+		"UnlockConditionList": "5|323001;2|2022-09-09 14:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RogueGod_Elysia",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_8",
+		"ChapterDisplay": "ChapterOW_ChapterName_04",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_13",
+		"DataImpl": {},
+		"ID": 52
+	},
+	{
+		"PhaseID": 31,
+		"Type": 4,
+		"Param": [
+			56354
+		],
+		"UnlockConditionList": "5|323001;2|2022-09-09 14:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RogueGod_Elysia",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_8",
+		"ChapterDisplay": "ChapterOW_ChapterName_05",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_14",
+		"DataImpl": {},
+		"ID": 53
+	},
+	{
+		"PhaseID": 31,
+		"Type": 0,
+		"Param": [
+			323101,
+			13302
+		],
+		"UnlockConditionList": "5|323001;2|2022-09-09 14:00:00",
+		"EntryImagePath": "SpriteOutput/Chapter29/StoryImg/RogueGod_Elysia",
+		"BackgroundIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_8",
+		"ChapterDisplay": "ChapterOW_ChapterName_06",
+		"OrderDisplay": "ChapterOW_MainlineStoryName_15",
+		"DataImpl": {},
+		"ID": 54
+	}
+]

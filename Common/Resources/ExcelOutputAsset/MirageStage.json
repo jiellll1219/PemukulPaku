@@ -1,0 +1,961 @@
+[
+	{
+		"StageType": 1,
+		"ThemeID": 100,
+		"StageDifficultyList": [
+			1011,
+			1012,
+			1013,
+			1014
+		],
+		"UnlockFlagList": "1|2023-03-02 10:00:00",
+		"TalentID": 1,
+		"CanUseAvatarList": [
+			105
+		],
+		"CanUseSampleAvatarList": [],
+		"CanUseHelpAvatarList": [
+			611,
+			404,
+			2401,
+			705,
+			301,
+			712
+		],
+		"MonsterPicture": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_110",
+		"MonsterName": "Mirage_Stage_MonsterName_10001001",
+		"MonsterModel": "Entities/Monster/Boss/BOSS_110/BOSS_110_MonsterUI",
+		"MonsterModelScale": 1.3,
+		"MonsterModelPosition": [
+			0,
+			0.2,
+			-0.5
+		],
+		"MonsterModelRotation": [
+			0,
+			5,
+			0
+		],
+		"NewBieGuideStage": 10003001,
+		"NewBieGuideStageText": "NewBieGuideStageText_10001001",
+		"BossInfoBtnText": "BossInfoBtnText_10001001",
+		"BossInfoTitleText": "BossInfoTitleText_10001001",
+		"BossInfoContentText": "BossInfoContentText_10001001",
+		"DataImpl": {},
+		"StageID": 10001001
+	},
+	{
+		"StageType": 1,
+		"ThemeID": 100,
+		"StageDifficultyList": [
+			1021,
+			1022,
+			1023,
+			1024
+		],
+		"UnlockFlagList": "1|2023-03-02 10:00:00",
+		"TalentID": 1,
+		"CanUseAvatarList": [
+			205
+		],
+		"CanUseSampleAvatarList": [],
+		"CanUseHelpAvatarList": [
+			611,
+			705,
+			404,
+			204,
+			301,
+			712
+		],
+		"MonsterPicture": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_160",
+		"MonsterName": "Mirage_Stage_MonsterName_10001004",
+		"MonsterModel": "Entities/Monster/Boss/BOSS_160/BOSS_160_MonsterUI",
+		"MonsterModelScale": 1.5,
+		"MonsterModelPosition": [
+			0.7,
+			0.3,
+			2
+		],
+		"MonsterModelRotation": [
+			5,
+			-5,
+			0
+		],
+		"NewBieGuideStage": 10003002,
+		"NewBieGuideStageText": "NewBieGuideStageText_10001002",
+		"BossInfoBtnText": "BossInfoBtnText_10001002",
+		"BossInfoTitleText": "BossInfoTitleText_10001002",
+		"BossInfoContentText": "BossInfoContentText_10001002",
+		"DataImpl": {},
+		"StageID": 10001002
+	},
+	{
+		"StageType": 1,
+		"ThemeID": 100,
+		"StageDifficultyList": [
+			1031,
+			1032,
+			1033,
+			1034
+		],
+		"UnlockFlagList": "1|2023-03-02 10:00:00",
+		"TalentID": 1,
+		"CanUseAvatarList": [
+			612
+		],
+		"CanUseSampleAvatarList": [],
+		"CanUseHelpAvatarList": [
+			303,
+			404,
+			506,
+			802,
+			301,
+			712
+		],
+		"MonsterPicture": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_090",
+		"MonsterName": "Mirage_Stage_MonsterName_10001003",
+		"MonsterModel": "Entities/Monster/Boss/BOSS_090/Boss_090_MonsterUI",
+		"MonsterModelScale": 0.8,
+		"MonsterModelPosition": [
+			-0.45,
+			0.2,
+			0
+		],
+		"MonsterModelRotation": [
+			0,
+			10,
+			0
+		],
+		"NewBieGuideStage": 10003003,
+		"NewBieGuideStageText": "NewBieGuideStageText_10001003",
+		"BossInfoBtnText": "BossInfoBtnText_10001003",
+		"BossInfoTitleText": "BossInfoTitleText_10001003",
+		"BossInfoContentText": "BossInfoContentText_10001003",
+		"DataImpl": {},
+		"StageID": 10001003
+	},
+	{
+		"StageType": 1,
+		"ThemeID": 200,
+		"StageDifficultyList": [
+			2011,
+			2012,
+			2013,
+			2014
+		],
+		"UnlockFlagList": "1|2023-03-05 04:00:00",
+		"TalentID": 2,
+		"CanUseAvatarList": [
+			804
+		],
+		"CanUseSampleAvatarList": [],
+		"CanUseHelpAvatarList": [
+			404,
+			104,
+			303,
+			506,
+			301,
+			712
+		],
+		"MonsterPicture": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_210_P3",
+		"MonsterName": "Mirage_Stage_MonsterName_10001002",
+		"MonsterModel": "Entities/Monster/Boss/BOSS_210/BOSS_210_MonsterUI",
+		"MonsterModelScale": 0.85,
+		"MonsterModelPosition": [
+			0,
+			0,
+			0
+		],
+		"MonsterModelRotation": [
+			15,
+			15,
+			0
+		],
+		"NewBieGuideStage": 10003004,
+		"NewBieGuideStageText": "NewBieGuideStageText_10001004",
+		"BossInfoBtnText": "BossInfoBtnText_10001004",
+		"BossInfoTitleText": "BossInfoTitleText_10001004",
+		"BossInfoContentText": "BossInfoContentText_10001004",
+		"DataImpl": {},
+		"StageID": 10001004
+	},
+	{
+		"StageType": 1,
+		"ThemeID": 200,
+		"StageDifficultyList": [
+			2021,
+			2022,
+			2023,
+			2024
+		],
+		"UnlockFlagList": "1|2023-03-05 04:00:00",
+		"TalentID": 2,
+		"CanUseAvatarList": [
+			113
+		],
+		"CanUseSampleAvatarList": [],
+		"CanUseHelpAvatarList": [
+			303,
+			104,
+			404,
+			506,
+			301,
+			712
+		],
+		"MonsterPicture": "SpriteOutput/OpenWorld/QuestBossIcon/Rogue_DLC_030",
+		"MonsterName": "Mirage_Stage_MonsterName_10001013",
+		"MonsterModel": "Entities/Monster/Rogue/Rogue_DLC_030/Rogue_DLC_030_SinDemonEx",
+		"MonsterModelScale": 1.2,
+		"MonsterModelPosition": [
+			0,
+			0.75,
+			1.5
+		],
+		"MonsterModelRotation": [
+			15,
+			-8,
+			0
+		],
+		"NewBieGuideStage": 10003005,
+		"NewBieGuideStageText": "NewBieGuideStageText_10001005",
+		"BossInfoBtnText": "BossInfoBtnText_10001005",
+		"BossInfoTitleText": "BossInfoTitleText_10001005",
+		"BossInfoContentText": "BossInfoContentText_10001005",
+		"DataImpl": {},
+		"StageID": 10001005
+	},
+	{
+		"StageType": 1,
+		"ThemeID": 200,
+		"StageDifficultyList": [
+			2031,
+			2032,
+			2033,
+			2034
+		],
+		"UnlockFlagList": "1|2023-03-05 04:00:00",
+		"TalentID": 2,
+		"CanUseAvatarList": [
+			412
+		],
+		"CanUseSampleAvatarList": [],
+		"CanUseHelpAvatarList": [
+			611,
+			404,
+			2401,
+			204,
+			301,
+			712
+		],
+		"MonsterPicture": "SpriteOutput/OpenWorld/QuestBossIcon/GI_BOSS_010",
+		"MonsterName": "Mirage_Stage_MonsterName_10001006",
+		"MonsterModel": "Entities/Monster/GenShin/GI_BOSS_010/GI_BOSS_010_MonsterUI",
+		"MonsterModelScale": 0.8,
+		"MonsterModelPosition": [
+			0,
+			0,
+			0
+		],
+		"MonsterModelRotation": [
+			0,
+			0,
+			0
+		],
+		"NewBieGuideStage": 10003006,
+		"NewBieGuideStageText": "NewBieGuideStageText_10001006",
+		"BossInfoBtnText": "BossInfoBtnText_10001006",
+		"BossInfoTitleText": "BossInfoTitleText_10001006",
+		"BossInfoContentText": "BossInfoContentText_10001006",
+		"DataImpl": {},
+		"StageID": 10001006
+	},
+	{
+		"StageType": 1,
+		"ThemeID": 300,
+		"StageDifficultyList": [
+			3011,
+			3012,
+			3013,
+			3014
+		],
+		"UnlockFlagList": "1|2023-03-08 04:00:00",
+		"TalentID": 3,
+		"CanUseAvatarList": [
+			313
+		],
+		"CanUseSampleAvatarList": [],
+		"CanUseHelpAvatarList": [
+			611,
+			2601,
+			314,
+			404,
+			301,
+			712
+		],
+		"MonsterPicture": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_370",
+		"MonsterName": "Mirage_Stage_MonsterName_10001007",
+		"MonsterModel": "Entities/Monster/Boss/BOSS_370/BOSS_370_MonsterUI",
+		"MonsterModelScale": 2,
+		"MonsterModelPosition": [
+			0,
+			-0.7,
+			1.5
+		],
+		"MonsterModelRotation": [
+			5,
+			15,
+			0
+		],
+		"NewBieGuideStage": 10003007,
+		"NewBieGuideStageText": "NewBieGuideStageText_10001007",
+		"BossInfoBtnText": "BossInfoBtnText_10001007",
+		"BossInfoTitleText": "BossInfoTitleText_10001007",
+		"BossInfoContentText": "BossInfoContentText_10001007",
+		"DataImpl": {},
+		"StageID": 10001007
+	},
+	{
+		"StageType": 1,
+		"ThemeID": 300,
+		"StageDifficultyList": [
+			3021,
+			3022,
+			3023,
+			3024
+		],
+		"UnlockFlagList": "1|2023-03-08 04:00:00",
+		"TalentID": 3,
+		"CanUseAvatarList": [
+			212
+		],
+		"CanUseSampleAvatarList": [],
+		"CanUseHelpAvatarList": [
+			611,
+			2601,
+			314,
+			404,
+			301,
+			712
+		],
+		"MonsterPicture": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_320",
+		"MonsterName": "Mirage_Stage_MonsterName_10001008",
+		"MonsterModel": "Entities/Monster/Boss/BOSS_320/Boss_320_MonsterUI",
+		"MonsterModelScale": 1.1,
+		"MonsterModelPosition": [
+			0,
+			0,
+			0.4
+		],
+		"MonsterModelRotation": [
+			0,
+			-5,
+			0
+		],
+		"NewBieGuideStage": 10003008,
+		"NewBieGuideStageText": "NewBieGuideStageText_10001008",
+		"BossInfoBtnText": "BossInfoBtnText_10001008",
+		"BossInfoTitleText": "BossInfoTitleText_10001008",
+		"BossInfoContentText": "BossInfoContentText_10001008",
+		"DataImpl": {},
+		"StageID": 10001008
+	},
+	{
+		"StageType": 1,
+		"ThemeID": 300,
+		"StageDifficultyList": [
+			3031,
+			3032,
+			3033,
+			3034
+		],
+		"UnlockFlagList": "1|2023-03-08 04:00:00",
+		"TalentID": 3,
+		"CanUseAvatarList": [
+			317
+		],
+		"CanUseSampleAvatarList": [],
+		"CanUseHelpAvatarList": [
+			611,
+			314,
+			404,
+			2601,
+			301,
+			712
+		],
+		"MonsterPicture": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_361",
+		"MonsterName": "Mirage_Stage_MonsterName_10001009",
+		"MonsterModel": "Entities/Monster/Boss/BOSS_361/BOSS_361_MonsterUI",
+		"MonsterModelScale": 1.5,
+		"MonsterModelPosition": [
+			0.25,
+			0,
+			1
+		],
+		"MonsterModelRotation": [
+			0,
+			0,
+			0
+		],
+		"NewBieGuideStage": 10003009,
+		"NewBieGuideStageText": "NewBieGuideStageText_10001009",
+		"BossInfoBtnText": "BossInfoBtnText_10001009",
+		"BossInfoTitleText": "BossInfoTitleText_10001009",
+		"BossInfoContentText": "BossInfoContentText_10001009",
+		"DataImpl": {},
+		"StageID": 10001009
+	},
+	{
+		"StageType": 1,
+		"ThemeID": 400,
+		"StageDifficultyList": [
+			4011,
+			4012,
+			4013,
+			4014
+		],
+		"UnlockFlagList": "1|2023-03-11 04:00:00",
+		"TalentID": 4,
+		"CanUseAvatarList": [
+			105
+		],
+		"CanUseSampleAvatarList": [],
+		"CanUseHelpAvatarList": [
+			611,
+			404,
+			2401,
+			705,
+			301,
+			712
+		],
+		"MonsterPicture": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_160",
+		"MonsterName": "Mirage_Stage_MonsterName_10001010",
+		"MonsterModel": "Entities/Monster/Boss/BOSS_160/BOSS_160_MonsterUI",
+		"MonsterModelScale": 1.5,
+		"MonsterModelPosition": [
+			0.7,
+			0.4,
+			2
+		],
+		"MonsterModelRotation": [
+			5,
+			-5,
+			0
+		],
+		"NewBieGuideStage": 10003001,
+		"NewBieGuideStageText": "NewBieGuideStageText_10001010",
+		"BossInfoBtnText": "BossInfoBtnText_10001010",
+		"BossInfoTitleText": "BossInfoTitleText_10001010",
+		"BossInfoContentText": "BossInfoContentText_10001010",
+		"DataImpl": {},
+		"StageID": 10001010
+	},
+	{
+		"StageType": 1,
+		"ThemeID": 400,
+		"StageDifficultyList": [
+			4021,
+			4022,
+			4023,
+			4024
+		],
+		"UnlockFlagList": "1|2023-03-11 04:00:00",
+		"TalentID": 4,
+		"CanUseAvatarList": [
+			205
+		],
+		"CanUseSampleAvatarList": [],
+		"CanUseHelpAvatarList": [
+			611,
+			705,
+			404,
+			204,
+			301,
+			712
+		],
+		"MonsterPicture": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_220",
+		"MonsterName": "Mirage_Stage_MonsterName_10001005",
+		"MonsterModel": "Entities/Monster/Boss/BOSS_220/SinDemonEx/BOSS_220_SinDemonEx",
+		"MonsterModelScale": 1.3,
+		"MonsterModelPosition": [
+			0.4,
+			1.7,
+			2
+		],
+		"MonsterModelRotation": [
+			5,
+			5,
+			0
+		],
+		"NewBieGuideStage": 10003002,
+		"NewBieGuideStageText": "NewBieGuideStageText_10001011",
+		"BossInfoBtnText": "BossInfoBtnText_10001011",
+		"BossInfoTitleText": "BossInfoTitleText_10001011",
+		"BossInfoContentText": "BossInfoContentText_10001011",
+		"DataImpl": {},
+		"StageID": 10001011
+	},
+	{
+		"StageType": 1,
+		"ThemeID": 400,
+		"StageDifficultyList": [
+			4031,
+			4032,
+			4033,
+			4034
+		],
+		"UnlockFlagList": "1|2023-03-11 04:00:00",
+		"TalentID": 4,
+		"CanUseAvatarList": [
+			317
+		],
+		"CanUseSampleAvatarList": [],
+		"CanUseHelpAvatarList": [
+			611,
+			314,
+			404,
+			2601,
+			301,
+			712
+		],
+		"MonsterPicture": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_210_P3",
+		"MonsterName": "Mirage_Stage_MonsterName_10001012",
+		"MonsterModel": "Entities/Monster/Boss/BOSS_210/BOSS_210_MonsterUI",
+		"MonsterModelScale": 0.85,
+		"MonsterModelPosition": [
+			0,
+			0,
+			0
+		],
+		"MonsterModelRotation": [
+			15,
+			15,
+			0
+		],
+		"NewBieGuideStage": 10003009,
+		"NewBieGuideStageText": "NewBieGuideStageText_10001012",
+		"BossInfoBtnText": "BossInfoBtnText_10001012",
+		"BossInfoTitleText": "BossInfoTitleText_10001012",
+		"BossInfoContentText": "BossInfoContentText_10001012",
+		"DataImpl": {},
+		"StageID": 10001012
+	},
+	{
+		"StageType": 2,
+		"ThemeID": 199,
+		"StageDifficultyList": [
+			1991
+		],
+		"UnlockFlagList": "",
+		"TalentID": 1,
+		"CanUseAvatarList": [
+			105,
+			205,
+			612
+		],
+		"CanUseSampleAvatarList": [],
+		"CanUseHelpAvatarList": [
+			301,
+			104,
+			303,
+			204,
+			412,
+			802,
+			611,
+			404,
+			314,
+			2401,
+			2601,
+			506,
+			712,
+			705
+		],
+		"MonsterPicture": "",
+		"MonsterName": "",
+		"MonsterModel": "",
+		"MonsterModelScale": 0,
+		"MonsterModelPosition": [],
+		"MonsterModelRotation": [],
+		"NewBieGuideStage": 0,
+		"NewBieGuideStageText": "",
+		"BossInfoBtnText": "",
+		"BossInfoTitleText": "",
+		"BossInfoContentText": "",
+		"DataImpl": {},
+		"StageID": 10002001
+	},
+	{
+		"StageType": 2,
+		"ThemeID": 299,
+		"StageDifficultyList": [
+			2991
+		],
+		"UnlockFlagList": "",
+		"TalentID": 2,
+		"CanUseAvatarList": [
+			804,
+			113,
+			412
+		],
+		"CanUseSampleAvatarList": [],
+		"CanUseHelpAvatarList": [
+			301,
+			104,
+			303,
+			204,
+			412,
+			802,
+			611,
+			404,
+			314,
+			2401,
+			2601,
+			506,
+			712,
+			705
+		],
+		"MonsterPicture": "",
+		"MonsterName": "",
+		"MonsterModel": "",
+		"MonsterModelScale": 0,
+		"MonsterModelPosition": [],
+		"MonsterModelRotation": [],
+		"NewBieGuideStage": 0,
+		"NewBieGuideStageText": "",
+		"BossInfoBtnText": "",
+		"BossInfoTitleText": "",
+		"BossInfoContentText": "",
+		"DataImpl": {},
+		"StageID": 10002002
+	},
+	{
+		"StageType": 2,
+		"ThemeID": 399,
+		"StageDifficultyList": [
+			3991
+		],
+		"UnlockFlagList": "",
+		"TalentID": 3,
+		"CanUseAvatarList": [
+			313,
+			212,
+			317
+		],
+		"CanUseSampleAvatarList": [],
+		"CanUseHelpAvatarList": [
+			301,
+			104,
+			303,
+			204,
+			412,
+			802,
+			611,
+			404,
+			314,
+			2401,
+			2601,
+			506,
+			712,
+			705
+		],
+		"MonsterPicture": "",
+		"MonsterName": "",
+		"MonsterModel": "",
+		"MonsterModelScale": 0,
+		"MonsterModelPosition": [],
+		"MonsterModelRotation": [],
+		"NewBieGuideStage": 0,
+		"NewBieGuideStageText": "",
+		"BossInfoBtnText": "",
+		"BossInfoTitleText": "",
+		"BossInfoContentText": "",
+		"DataImpl": {},
+		"StageID": 10002003
+	},
+	{
+		"StageType": 2,
+		"ThemeID": 499,
+		"StageDifficultyList": [
+			4991
+		],
+		"UnlockFlagList": "",
+		"TalentID": 4,
+		"CanUseAvatarList": [
+			105,
+			205,
+			317
+		],
+		"CanUseSampleAvatarList": [],
+		"CanUseHelpAvatarList": [
+			301,
+			104,
+			303,
+			204,
+			412,
+			802,
+			611,
+			404,
+			314,
+			2401,
+			2601,
+			506,
+			712,
+			705
+		],
+		"MonsterPicture": "",
+		"MonsterName": "",
+		"MonsterModel": "",
+		"MonsterModelScale": 0,
+		"MonsterModelPosition": [],
+		"MonsterModelRotation": [],
+		"NewBieGuideStage": 0,
+		"NewBieGuideStageText": "",
+		"BossInfoBtnText": "",
+		"BossInfoTitleText": "",
+		"BossInfoContentText": "",
+		"DataImpl": {},
+		"StageID": 10002004
+	},
+	{
+		"StageType": 3,
+		"ThemeID": 10001,
+		"StageDifficultyList": [
+			10001
+		],
+		"UnlockFlagList": "",
+		"TalentID": 0,
+		"CanUseAvatarList": [
+			105
+		],
+		"CanUseSampleAvatarList": [],
+		"CanUseHelpAvatarList": [],
+		"MonsterPicture": "",
+		"MonsterName": "",
+		"MonsterModel": "",
+		"MonsterModelScale": 0,
+		"MonsterModelPosition": [],
+		"MonsterModelRotation": [],
+		"NewBieGuideStage": 0,
+		"NewBieGuideStageText": "",
+		"BossInfoBtnText": "",
+		"BossInfoTitleText": "",
+		"BossInfoContentText": "",
+		"DataImpl": {},
+		"StageID": 10003001
+	},
+	{
+		"StageType": 3,
+		"ThemeID": 10004,
+		"StageDifficultyList": [
+			10004
+		],
+		"UnlockFlagList": "",
+		"TalentID": 0,
+		"CanUseAvatarList": [
+			205
+		],
+		"CanUseSampleAvatarList": [],
+		"CanUseHelpAvatarList": [],
+		"MonsterPicture": "",
+		"MonsterName": "",
+		"MonsterModel": "",
+		"MonsterModelScale": 0,
+		"MonsterModelPosition": [],
+		"MonsterModelRotation": [],
+		"NewBieGuideStage": 0,
+		"NewBieGuideStageText": "",
+		"BossInfoBtnText": "",
+		"BossInfoTitleText": "",
+		"BossInfoContentText": "",
+		"DataImpl": {},
+		"StageID": 10003002
+	},
+	{
+		"StageType": 3,
+		"ThemeID": 10003,
+		"StageDifficultyList": [
+			10003
+		],
+		"UnlockFlagList": "",
+		"TalentID": 0,
+		"CanUseAvatarList": [
+			612
+		],
+		"CanUseSampleAvatarList": [],
+		"CanUseHelpAvatarList": [],
+		"MonsterPicture": "",
+		"MonsterName": "",
+		"MonsterModel": "",
+		"MonsterModelScale": 0,
+		"MonsterModelPosition": [],
+		"MonsterModelRotation": [],
+		"NewBieGuideStage": 0,
+		"NewBieGuideStageText": "",
+		"BossInfoBtnText": "",
+		"BossInfoTitleText": "",
+		"BossInfoContentText": "",
+		"DataImpl": {},
+		"StageID": 10003003
+	},
+	{
+		"StageType": 3,
+		"ThemeID": 10002,
+		"StageDifficultyList": [
+			10002
+		],
+		"UnlockFlagList": "",
+		"TalentID": 0,
+		"CanUseAvatarList": [
+			804
+		],
+		"CanUseSampleAvatarList": [],
+		"CanUseHelpAvatarList": [],
+		"MonsterPicture": "",
+		"MonsterName": "",
+		"MonsterModel": "",
+		"MonsterModelScale": 0,
+		"MonsterModelPosition": [],
+		"MonsterModelRotation": [],
+		"NewBieGuideStage": 0,
+		"NewBieGuideStageText": "",
+		"BossInfoBtnText": "",
+		"BossInfoTitleText": "",
+		"BossInfoContentText": "",
+		"DataImpl": {},
+		"StageID": 10003004
+	},
+	{
+		"StageType": 3,
+		"ThemeID": 10005,
+		"StageDifficultyList": [
+			10005
+		],
+		"UnlockFlagList": "",
+		"TalentID": 0,
+		"CanUseAvatarList": [
+			113
+		],
+		"CanUseSampleAvatarList": [],
+		"CanUseHelpAvatarList": [],
+		"MonsterPicture": "",
+		"MonsterName": "",
+		"MonsterModel": "",
+		"MonsterModelScale": 0,
+		"MonsterModelPosition": [],
+		"MonsterModelRotation": [],
+		"NewBieGuideStage": 0,
+		"NewBieGuideStageText": "",
+		"BossInfoBtnText": "",
+		"BossInfoTitleText": "",
+		"BossInfoContentText": "",
+		"DataImpl": {},
+		"StageID": 10003005
+	},
+	{
+		"StageType": 3,
+		"ThemeID": 10006,
+		"StageDifficultyList": [
+			10006
+		],
+		"UnlockFlagList": "",
+		"TalentID": 0,
+		"CanUseAvatarList": [
+			412
+		],
+		"CanUseSampleAvatarList": [],
+		"CanUseHelpAvatarList": [],
+		"MonsterPicture": "",
+		"MonsterName": "",
+		"MonsterModel": "",
+		"MonsterModelScale": 0,
+		"MonsterModelPosition": [],
+		"MonsterModelRotation": [],
+		"NewBieGuideStage": 0,
+		"NewBieGuideStageText": "",
+		"BossInfoBtnText": "",
+		"BossInfoTitleText": "",
+		"BossInfoContentText": "",
+		"DataImpl": {},
+		"StageID": 10003006
+	},
+	{
+		"StageType": 3,
+		"ThemeID": 10007,
+		"StageDifficultyList": [
+			10007
+		],
+		"UnlockFlagList": "",
+		"TalentID": 0,
+		"CanUseAvatarList": [
+			313
+		],
+		"CanUseSampleAvatarList": [],
+		"CanUseHelpAvatarList": [],
+		"MonsterPicture": "",
+		"MonsterName": "",
+		"MonsterModel": "",
+		"MonsterModelScale": 0,
+		"MonsterModelPosition": [],
+		"MonsterModelRotation": [],
+		"NewBieGuideStage": 0,
+		"NewBieGuideStageText": "",
+		"BossInfoBtnText": "",
+		"BossInfoTitleText": "",
+		"BossInfoContentText": "",
+		"DataImpl": {},
+		"StageID": 10003007
+	},
+	{
+		"StageType": 3,
+		"ThemeID": 10008,
+		"StageDifficultyList": [
+			10008
+		],
+		"UnlockFlagList": "",
+		"TalentID": 0,
+		"CanUseAvatarList": [
+			212
+		],
+		"CanUseSampleAvatarList": [],
+		"CanUseHelpAvatarList": [],
+		"MonsterPicture": "",
+		"MonsterName": "",
+		"MonsterModel": "",
+		"MonsterModelScale": 0,
+		"MonsterModelPosition": [],
+		"MonsterModelRotation": [],
+		"NewBieGuideStage": 0,
+		"NewBieGuideStageText": "",
+		"BossInfoBtnText": "",
+		"BossInfoTitleText": "",
+		"BossInfoContentText": "",
+		"DataImpl": {},
+		"StageID": 10003008
+	},
+	{
+		"StageType": 3,
+		"ThemeID": 10009,
+		"StageDifficultyList": [
+			10009
+		],
+		"UnlockFlagList": "",
+		"TalentID": 0,
+		"CanUseAvatarList": [
+			317
+		],
+		"CanUseSampleAvatarList": [],
+		"CanUseHelpAvatarList": [],
+		"MonsterPicture": "",
+		"MonsterName": "",
+		"MonsterModel": "",
+		"MonsterModelScale": 0,
+		"MonsterModelPosition": [],
+		"MonsterModelRotation": [],
+		"NewBieGuideStage": 0,
+		"NewBieGuideStageText": "",
+		"BossInfoBtnText": "",
+		"BossInfoTitleText": "",
+		"BossInfoContentText": "",
+		"DataImpl": {},
+		"StageID": 10003009
+	}
+]

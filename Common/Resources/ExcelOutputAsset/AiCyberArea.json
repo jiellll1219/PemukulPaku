@@ -1,0 +1,82 @@
+[
+	{
+		"AreaName": {
+			"hash": -1977412470
+		},
+		"UnlockConditionList": "1|2022-12-08 04:00:00",
+		"MainStageGroupID": 101,
+		"DailyStageGroupID": 201,
+		"ChallengeStageGroupID": 301,
+		"QAvatarID": [
+			1
+		],
+		"QAvatarSkillID": [
+			1001
+		],
+		"PuzzleEventIDList": [
+			1503001,
+			1503002,
+			1503003,
+			1503004
+		],
+		"PuzzleReward": 654189,
+		"DataImpl": {},
+		"AreaID": 20010
+	},
+	{
+		"AreaName": {
+			"hash": -1977412469
+		},
+		"UnlockConditionList": "1|2022-12-12 10:00:00;2|1727005;3|3500",
+		"MainStageGroupID": 102,
+		"DailyStageGroupID": 202,
+		"ChallengeStageGroupID": 302,
+		"QAvatarID": [
+			1,
+			2
+		],
+		"QAvatarSkillID": [
+			1001,
+			2001
+		],
+		"PuzzleEventIDList": [
+			1506001,
+			1506002,
+			1506003,
+			1506004,
+			1506005
+		],
+		"PuzzleReward": 654190,
+		"DataImpl": {},
+		"AreaID": 20011
+	},
+	{
+		"AreaName": {
+			"hash": -1977412468
+		},
+		"UnlockConditionList": "1|2022-12-16 10:00:00;2|1727010;3|6500",
+		"MainStageGroupID": 103,
+		"DailyStageGroupID": 203,
+		"ChallengeStageGroupID": 303,
+		"QAvatarID": [
+			1,
+			2,
+			3
+		],
+		"QAvatarSkillID": [
+			1001,
+			2001,
+			3001
+		],
+		"PuzzleEventIDList": [
+			1509001,
+			1509002,
+			1509003,
+			1509004,
+			1509005
+		],
+		"PuzzleReward": 654191,
+		"DataImpl": {},
+		"AreaID": 20012
+	}
+]

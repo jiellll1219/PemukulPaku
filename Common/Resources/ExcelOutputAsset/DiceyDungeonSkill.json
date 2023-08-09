@@ -1,0 +1,8368 @@
+[
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1579909845
+		},
+		"skillDes": {
+			"hash": -1331131163
+		},
+		"resultOnExecute": [
+			"GiveDice:1:($dice)+1",
+			"If:($dice)==6:A",
+			"[A]GiveDice:1:1"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 1,
+		"useTimeParameter": 3,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 1001
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579909814
+		},
+		"skillDes": {
+			"hash": -1331131132
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*10"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 1,
+		"useTimeParameter": 3,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 1011
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579909813
+		},
+		"skillDes": {
+			"hash": -1331131131
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*10",
+			"GiveDice:1:Random_3_7"
+		],
+		"slotType": 4,
+		"slotTypeParameter": 4,
+		"useTimeType": 1,
+		"useTimeParameter": 3,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 1012
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579909812
+		},
+		"skillDes": {
+			"hash": -1331131130
+		},
+		"resultOnExecute": [
+			"Damage:60",
+			"RanSwitch:A:B:C",
+			"[A]Damage:50",
+			"[B]AttachBuff:Vulnerable:2",
+			"[C]AttachBuff:Weak:2"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 12,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 1013
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579909811
+		},
+		"skillDes": {
+			"hash": -1331131129
+		},
+		"resultOnExecute": [
+			"Damage:80",
+			"RanSwitch:A:B:C",
+			"[A]Damage:50",
+			"[B]AttachBuff:Vulnerable:2",
+			"[C]AttachBuff:Weak:2"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 12,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 1014
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579909783
+		},
+		"skillDes": {
+			"hash": -1331131101
+		},
+		"resultOnExecute": [
+			"Damage:15*($dice)"
+		],
+		"slotType": 4,
+		"slotTypeParameter": 5,
+		"useTimeType": 3,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 1021
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579909782
+		},
+		"skillDes": {
+			"hash": -1331131100
+		},
+		"resultOnExecute": [
+			"Damage:20*($dice)"
+		],
+		"slotType": 4,
+		"slotTypeParameter": 5,
+		"useTimeType": 3,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 1022
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1579909781
+		},
+		"skillDes": {
+			"hash": -1331131099
+		},
+		"resultOnExecute": [
+			"GiveDice:1:Random_4_6"
+		],
+		"slotType": 3,
+		"slotTypeParameter": 2,
+		"useTimeType": 1,
+		"useTimeParameter": 2,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 1023
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579909780
+		},
+		"skillDes": {
+			"hash": -1331131098
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*10",
+			"If:$tbuff_Vulnerable:A",
+			"[A]GiveDice:1"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 1024
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579909779
+		},
+		"skillDes": {
+			"hash": -1331131097
+		},
+		"resultOnExecute": [
+			"Damage:(($dice)*10)+10",
+			"If:$tbuff_Vulnerable:A",
+			"[A]GiveDice:1"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 1025
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579909778
+		},
+		"skillDes": {
+			"hash": -1331131096
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*10",
+			"AttachBuff:Vulnerable:1"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 1026
+	},
+	{
+		"skillType": 2,
+		"skillName": {
+			"hash": -1579909777
+		},
+		"skillDes": {
+			"hash": -1331131095
+		},
+		"resultOnExecute": [
+			"Modify:HP:(($smhp)*($dice))*0.01",
+			"Damage:($dice)*5"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 1,
+		"useTimeParameter": 3,
+		"displayType": 3,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 1027
+	},
+	{
+		"skillType": 2,
+		"skillName": {
+			"hash": -1579909776
+		},
+		"skillDes": {
+			"hash": -1331131094
+		},
+		"resultOnExecute": [
+			"Modify:HP:(($smhp)*($dice))*0.015",
+			"Damage:($dice)*5"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 1,
+		"useTimeParameter": 4,
+		"displayType": 3,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 1028
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1579909775
+		},
+		"skillDes": {
+			"hash": -1331131093
+		},
+		"resultOnExecute": [
+			"AttachBuff:Vulnerable:2"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 6,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 1029
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1579909753
+		},
+		"skillDes": {
+			"hash": -1331131071
+		},
+		"resultOnExecute": [
+			"AttachBuff:Weak:2"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 6,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 1030
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579909752
+		},
+		"skillDes": {
+			"hash": -1331131070
+		},
+		"resultOnExecute": [
+			"If:($thp)>90:A:B",
+			"[A]Damage:($dice)*30",
+			"[B]Damage:($dice)*15"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 2,
+		"useTimeParameter": 1,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 1031
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579909751
+		},
+		"skillDes": {
+			"hash": -1331131069
+		},
+		"resultOnExecute": [
+			"If:($thp)<50:A:B",
+			"[A]Damage:($dice)*20",
+			"[B]Damage:($dice)*10"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 1032
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579909750
+		},
+		"skillDes": {
+			"hash": -1331131068
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*30"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 2,
+		"useTimeParameter": 1,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 1033
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579909749
+		},
+		"skillDes": {
+			"hash": -1331131067
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*10",
+			"GiveBuff:Rage:20"
+		],
+		"slotType": 4,
+		"slotTypeParameter": 3,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 1034
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579909748
+		},
+		"skillDes": {
+			"hash": -1331131066
+		},
+		"resultOnExecute": [
+			"Damage:150"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 12,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 1035
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579909747
+		},
+		"skillDes": {
+			"hash": -1331131065
+		},
+		"resultOnExecute": [
+			"Damage:180"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 12,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 1036
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579909746
+		},
+		"skillDes": {
+			"hash": -1331131064
+		},
+		"resultOnExecute": [
+			"Damage:20",
+			"AttachBuff:Weak:1"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 1037
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579909745
+		},
+		"skillDes": {
+			"hash": -1331131063
+		},
+		"resultOnExecute": [
+			"Damage:40",
+			"AttachBuff:Weak:1"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 6,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 1038
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579880054
+		},
+		"skillDes": {
+			"hash": -1331101372
+		},
+		"resultOnExecute": [
+			"Damage:50",
+			"Resonate:2"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 4,
+		"useTimeType": 1,
+		"useTimeParameter": 4,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 2001
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579880023
+		},
+		"skillDes": {
+			"hash": -1331101341
+		},
+		"resultOnExecute": [
+			"Damage:20"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 2,
+		"useTimeType": 3,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 2011
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579880022
+		},
+		"skillDes": {
+			"hash": -1331101340
+		},
+		"resultOnExecute": [
+			"Damage:30",
+			"If:(Random_100)<40:A",
+			"[A]GiveDice:1"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 2,
+		"useTimeType": 1,
+		"useTimeParameter": 4,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 2012
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579880021
+		},
+		"skillDes": {
+			"hash": -1331101339
+		},
+		"resultOnExecute": [
+			"Damage:30",
+			"If:(Random_100)<45:A",
+			"[A]GiveDice:1"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 2,
+		"useTimeType": 1,
+		"useTimeParameter": 4,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 2013
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579879992
+		},
+		"skillDes": {
+			"hash": -1331101310
+		},
+		"resultOnExecute": [
+			"Resonate:2"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 6,
+		"useTimeType": 1,
+		"useTimeParameter": 4,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 2021
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579879991
+		},
+		"skillDes": {
+			"hash": -1331101309
+		},
+		"resultOnExecute": [
+			"Resonate:2"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 6,
+		"useTimeType": 1,
+		"useTimeParameter": 5,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 2022
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1579879990
+		},
+		"skillDes": {
+			"hash": -1331101308
+		},
+		"resultOnExecute": [
+			"GiveDice:1:6"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 6,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 2023
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1579879989
+		},
+		"skillDes": {
+			"hash": -1331101307
+		},
+		"resultOnExecute": [
+			"AttachBuff:Vulnerable:1",
+			"AttachBuff:Weak:1"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 6,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 2024
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579879988
+		},
+		"skillDes": {
+			"hash": -1331101306
+		},
+		"resultOnExecute": [
+			"Damage:80"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 6,
+		"useTimeType": 3,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 2025
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579879987
+		},
+		"skillDes": {
+			"hash": -1331101305
+		},
+		"resultOnExecute": [
+			"Damage:100"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 6,
+		"useTimeType": 3,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 2026
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1579879986
+		},
+		"skillDes": {
+			"hash": -1331101304
+		},
+		"resultOnExecute": [
+			"Damage:40",
+			"GiveBuff:Shield:($smhp)*0.1"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 12,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 2027
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1579879985
+		},
+		"skillDes": {
+			"hash": -1331101303
+		},
+		"resultOnExecute": [
+			"Damage:50",
+			"GiveBuff:Shield:($smhp)*0.1"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 12,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 2028
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1579879984
+		},
+		"skillDes": {
+			"hash": -1331101302
+		},
+		"resultOnExecute": [
+			"GiveBuff:ExtraTurn:1"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 20,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 2029
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1579879962
+		},
+		"skillDes": {
+			"hash": -1331101280
+		},
+		"resultOnExecute": [
+			"GiveDice:2"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 10,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 2030
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1579879961
+		},
+		"skillDes": {
+			"hash": -1331101279
+		},
+		"resultOnExecute": [
+			"Resonate:99",
+			"AttachBuff:ExtraTurn:1"
+		],
+		"slotType": 7,
+		"slotTypeParameter": 6,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 2031
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1579879960
+		},
+		"skillDes": {
+			"hash": -1331101278
+		},
+		"resultOnExecute": [
+			"GiveDice:1"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 1,
+		"useTimeParameter": 3,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 2032
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1579879959
+		},
+		"skillDes": {
+			"hash": -1331101277
+		},
+		"resultOnExecute": [
+			"AttachBuff:Vulnerable:2"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 6,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 2033
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1579879958
+		},
+		"skillDes": {
+			"hash": -1331101276
+		},
+		"resultOnExecute": [
+			"AttachBuff:Weak:2"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 6,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 2034
+	},
+	{
+		"skillType": 2,
+		"skillName": {
+			"hash": -1579879957
+		},
+		"skillDes": {
+			"hash": -1331101275
+		},
+		"resultOnExecute": [
+			"Modify:HP:($smhp)*0.1"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 10,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 3,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 2035
+	},
+	{
+		"skillType": 2,
+		"skillName": {
+			"hash": -1579879956
+		},
+		"skillDes": {
+			"hash": -1331101274
+		},
+		"resultOnExecute": [
+			"Modify:HP:($smhp)*0.15"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 10,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 3,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 2036
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579879955
+		},
+		"skillDes": {
+			"hash": -1331101273
+		},
+		"resultOnExecute": [
+			"Damage:100",
+			"AttachBuff:Vulnerable:2"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 12,
+		"useTimeType": 1,
+		"useTimeParameter": 2,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 2037
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579879954
+		},
+		"skillDes": {
+			"hash": -1331101272
+		},
+		"resultOnExecute": [
+			"Damage:120",
+			"AttachBuff:Vulnerable:2"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 12,
+		"useTimeType": 1,
+		"useTimeParameter": 2,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 2038
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579879953
+		},
+		"skillDes": {
+			"hash": -1331101271
+		},
+		"resultOnExecute": [
+			"If:($thp)<50:A:B",
+			"[A]Damage:200",
+			"[B]Damage:100"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 12,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 2039
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579879931
+		},
+		"skillDes": {
+			"hash": -1331101249
+		},
+		"resultOnExecute": [
+			"Damage:100",
+			"GiveBuff:Rage:20"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 8,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 2040
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1579850263
+		},
+		"skillDes": {
+			"hash": -1331071581
+		},
+		"resultOnExecute": [
+			"If:($dice)%2:A:B",
+			"[A]GiveDice:1:($dice)/2",
+			"[A]GiveDice:1:(($dice)/2)+1",
+			"[B]GiveDice:2:($dice)/2"
+		],
+		"slotType": 4,
+		"slotTypeParameter": 2,
+		"useTimeType": 1,
+		"useTimeParameter": 2,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 3001
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579850232
+		},
+		"skillDes": {
+			"hash": -1331071550
+		},
+		"resultOnExecute": [
+			"Damage:20"
+		],
+		"slotType": 3,
+		"slotTypeParameter": 3,
+		"useTimeType": 3,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 3011
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579850231
+		},
+		"skillDes": {
+			"hash": -1331071549
+		},
+		"resultOnExecute": [
+			"Damage:(($dice)*10)+(($sbuff_FukaOnly)*10)",
+			"GiveBuff:FukaOnly:1:1"
+		],
+		"slotType": 3,
+		"slotTypeParameter": 3,
+		"useTimeType": 3,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 3012
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579850230
+		},
+		"skillDes": {
+			"hash": -1331071548
+		},
+		"resultOnExecute": [
+			"Damage:(($dice)*13)+(($sbuff_FukaOnly)*10)",
+			"GiveBuff:FukaOnly:1:1"
+		],
+		"slotType": 3,
+		"slotTypeParameter": 3,
+		"useTimeType": 3,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 3013
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1579850201
+		},
+		"skillDes": {
+			"hash": -1331071519
+		},
+		"resultOnExecute": [
+			"GiveDice:Random_3"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 3021
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1579850200
+		},
+		"skillDes": {
+			"hash": -1331071518
+		},
+		"resultOnExecute": [
+			"GiveDice:2:1"
+		],
+		"slotType": 3,
+		"slotTypeParameter": 3,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 3022
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579850199
+		},
+		"skillDes": {
+			"hash": -1331071517
+		},
+		"resultOnExecute": [
+			"GiveDice:1:1",
+			"GiveBuff:Shield:30"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 6,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 3023
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1579850198
+		},
+		"skillDes": {
+			"hash": -1331071516
+		},
+		"resultOnExecute": [
+			"GiveBuff:ExtraDice:2:6"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 20,
+		"useTimeType": 2,
+		"useTimeParameter": 1,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 3024
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1579850197
+		},
+		"skillDes": {
+			"hash": -1331071515
+		},
+		"resultOnExecute": [
+			"GiveDice:1:6"
+		],
+		"slotType": 7,
+		"slotTypeParameter": 1,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 3025
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579850196
+		},
+		"skillDes": {
+			"hash": -1331071514
+		},
+		"resultOnExecute": [
+			"Damage:20",
+			"If:(($dice)%2):A",
+			"[A]AttachBuff:Vulnerable:1"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 3026
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579850195
+		},
+		"skillDes": {
+			"hash": -1331071513
+		},
+		"resultOnExecute": [
+			"Damage:30",
+			"If:(($dice)%2):A",
+			"[A]AttachBuff:Vulnerable:1"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 3027
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579850194
+		},
+		"skillDes": {
+			"hash": -1331071512
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*20"
+		],
+		"slotType": 3,
+		"slotTypeParameter": 3,
+		"useTimeType": 1,
+		"useTimeParameter": 2,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 3028
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579850193
+		},
+		"skillDes": {
+			"hash": -1331071511
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*25"
+		],
+		"slotType": 3,
+		"slotTypeParameter": 3,
+		"useTimeType": 1,
+		"useTimeParameter": 2,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 3029
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579850171
+		},
+		"skillDes": {
+			"hash": -1331071489
+		},
+		"resultOnExecute": [
+			"Damage:15+(($dused)*15)"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 3030
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579850170
+		},
+		"skillDes": {
+			"hash": -1331071488
+		},
+		"resultOnExecute": [
+			"Damage:15+(($dused)*20)"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 3031
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579820472
+		},
+		"skillDes": {
+			"hash": -1331041790
+		},
+		"resultOnExecute": [
+			"Damage:100",
+			"AttachBuff:Poisonous:($dice)+10",
+			"Set:kevin:($kevin)+1",
+			"If:($kevin)==3:A",
+			"[A]Evolution:$sid:40019"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 4001
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579820441
+		},
+		"skillDes": {
+			"hash": -1331041759
+		},
+		"resultOnExecute": [
+			"Damage:($tbuff_Poisonous)*3"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 1,
+		"useTimeParameter": 3,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 4011
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579820440
+		},
+		"skillDes": {
+			"hash": -1331041758
+		},
+		"resultOnExecute": [
+			"Damage:80",
+			"AttachBuff:Poisonous:1",
+			"Damage:($tbuff_Poisonous)*($PoisonousRate)"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 10,
+		"useTimeType": 1,
+		"useTimeParameter": 2,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 4012
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579820410
+		},
+		"skillDes": {
+			"hash": -1331041728
+		},
+		"resultOnExecute": [
+			"AttachBuff:Poisonous:4"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 10,
+		"useTimeType": 3,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 4021
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579820409
+		},
+		"skillDes": {
+			"hash": -1331041727
+		},
+		"resultOnExecute": [
+			"AttachBuff:Poisonous:4"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 8,
+		"useTimeType": 3,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 4022
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579820408
+		},
+		"skillDes": {
+			"hash": -1331041726
+		},
+		"resultOnExecute": [
+			"If:($tbuff_Poisonous):A",
+			"[A]AttachBuff:Poisonous:(($tbuff_Poisonous)/2)"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 18,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 4023
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579820407
+		},
+		"skillDes": {
+			"hash": -1331041725
+		},
+		"resultOnExecute": [
+			"AttachBuff:Poisonous:1",
+			"GiveDice:1"
+		],
+		"slotType": 4,
+		"slotTypeParameter": 4,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 4024
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579820406
+		},
+		"skillDes": {
+			"hash": -1331041724
+		},
+		"resultOnExecute": [
+			"Damage:50",
+			"AttachBuff:Poisonous:2"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 4025
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579820405
+		},
+		"skillDes": {
+			"hash": -1331041723
+		},
+		"resultOnExecute": [
+			"Damage:60",
+			"AttachBuff:Poisonous:2"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 4026
+	},
+	{
+		"skillType": 2,
+		"skillName": {
+			"hash": -1579820404
+		},
+		"skillDes": {
+			"hash": -1331041722
+		},
+		"resultOnExecute": [
+			"GiveBuff:Shield:($smhp)*0.05",
+			"AttachBuff:Poisonous:1"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 4027
+	},
+	{
+		"skillType": 2,
+		"skillName": {
+			"hash": -1579820403
+		},
+		"skillDes": {
+			"hash": -1331041721
+		},
+		"resultOnExecute": [
+			"GiveBuff:Shield:($dice)*15",
+			"AttachBuff:Poisonous:1"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 4028
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1579820402
+		},
+		"skillDes": {
+			"hash": -1331041720
+		},
+		"resultOnExecute": [
+			"AttachBuff:Poisonous:1",
+			"AttachBuff:Vulnerable:1"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 6,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 4029
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1579820380
+		},
+		"skillDes": {
+			"hash": -1331041698
+		},
+		"resultOnExecute": [
+			"AttachBuff:Poisonous:1",
+			"AttachBuff:Vulnerable:2"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 6,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 4030
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579820379
+		},
+		"skillDes": {
+			"hash": -1331041697
+		},
+		"resultOnExecute": [
+			"Damage:(($tbuff_Poisonous)*($dice))*1.5",
+			"ConsumeBuff:Poisonous:($tbuff_Poisonous)/2"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 4031
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579820378
+		},
+		"skillDes": {
+			"hash": -1331041696
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*($tbuff_Poisonous)",
+			"AttachBuff:Poisonous:1"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 4032
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579820377
+		},
+		"skillDes": {
+			"hash": -1331041695
+		},
+		"resultOnExecute": [
+			"Damage:30",
+			"If:($tbuff_Poisonous)>=10:A",
+			"[A]Damage:100"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 1,
+		"useTimeParameter": 2,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 4033
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579820376
+		},
+		"skillDes": {
+			"hash": -1331041694
+		},
+		"resultOnExecute": [
+			"Damage:40",
+			"If:($tbuff_Poisonous)>=10:A",
+			"[A]Damage:120"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 1,
+		"useTimeParameter": 2,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 4034
+	},
+	{
+		"skillType": 2,
+		"skillName": {
+			"hash": -1579820375
+		},
+		"skillDes": {
+			"hash": -1331041693
+		},
+		"resultOnExecute": [
+			"Heal:($dice)*($tbuff_Poisonous)"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 4035
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1579790681
+		},
+		"skillDes": {
+			"hash": -1331011999
+		},
+		"resultOnExecute": [
+			"GiveDice:2:($dice)"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 5001
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579790650
+		},
+		"skillDes": {
+			"hash": -1331011968
+		},
+		"resultOnExecute": [
+			"Damage:80"
+		],
+		"slotType": 8,
+		"slotTypeParameter": 0,
+		"useTimeType": 1,
+		"useTimeParameter": 2,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 5011
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579790649
+		},
+		"skillDes": {
+			"hash": -1331011967
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*25"
+		],
+		"slotType": 8,
+		"slotTypeParameter": 0,
+		"useTimeType": 1,
+		"useTimeParameter": 3,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 5012
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579790648
+		},
+		"skillDes": {
+			"hash": -1331011966
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*27"
+		],
+		"slotType": 8,
+		"slotTypeParameter": 0,
+		"useTimeType": 1,
+		"useTimeParameter": 3,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 5013
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1579790619
+		},
+		"skillDes": {
+			"hash": -1331011937
+		},
+		"resultOnExecute": [
+			"GiveBuff:Rage:50"
+		],
+		"slotType": 8,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 5021
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1579790618
+		},
+		"skillDes": {
+			"hash": -1331011936
+		},
+		"resultOnExecute": [
+			"Set:rpoint:Random_4_6",
+			"GiveDice:2:$rpoint"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 8,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 5022
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1579790617
+		},
+		"skillDes": {
+			"hash": -1331011935
+		},
+		"resultOnExecute": [
+			"GiveDice:1"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 5023
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579790616
+		},
+		"skillDes": {
+			"hash": -1331011934
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*10",
+			"If:$tbuff_Vulnerable:A",
+			"[A]GiveDice:1"
+		],
+		"slotType": 8,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 5024
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579790615
+		},
+		"skillDes": {
+			"hash": -1331011933
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*15",
+			"If:Random_2:E",
+			"[E]GiveDice:1:($dice)"
+		],
+		"slotType": 8,
+		"slotTypeParameter": 0,
+		"useTimeType": 1,
+		"useTimeParameter": 2,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 5025
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579790614
+		},
+		"skillDes": {
+			"hash": -1331011932
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*10",
+			"AttachBuff:Vulnerable:2"
+		],
+		"slotType": 8,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 5026
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579790613
+		},
+		"skillDes": {
+			"hash": -1331011931
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*15",
+			"AttachBuff:Vulnerable:2"
+		],
+		"slotType": 8,
+		"slotTypeParameter": 0,
+		"useTimeType": 1,
+		"useTimeParameter": 2,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 5027
+	},
+	{
+		"skillType": 2,
+		"skillName": {
+			"hash": -1579790612
+		},
+		"skillDes": {
+			"hash": -1331011930
+		},
+		"resultOnExecute": [
+			"Modify:HP:(($smhp)*($dice))*0.01"
+		],
+		"slotType": 8,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 3,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 5028
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1579790611
+		},
+		"skillDes": {
+			"hash": -1331011929
+		},
+		"resultOnExecute": [
+			"AttachBuff:Vulnerable:2"
+		],
+		"slotType": 8,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 5029
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1579790589
+		},
+		"skillDes": {
+			"hash": -1331011907
+		},
+		"resultOnExecute": [
+			"AttachBuff:Weak:2"
+		],
+		"slotType": 8,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 5030
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579790588
+		},
+		"skillDes": {
+			"hash": -1331011906
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*10",
+			"If:($dice)>8:A",
+			"[A]GiveDice:1"
+		],
+		"slotType": 8,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 5031
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579790587
+		},
+		"skillDes": {
+			"hash": -1331011905
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*10",
+			"If:($dice)>=15:A",
+			"[A]GiveBuff:ExtraTurn:1"
+		],
+		"slotType": 9,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 5032
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1579790586
+		},
+		"skillDes": {
+			"hash": -1331011904
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*20",
+			"GiveBuff:Rage:50"
+		],
+		"slotType": 8,
+		"slotTypeParameter": 6,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 5033
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579790585
+		},
+		"skillDes": {
+			"hash": -1331011903
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*30"
+		],
+		"slotType": 8,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 5034
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579760890
+		},
+		"skillDes": {
+			"hash": -1330982208
+		},
+		"resultOnExecute": [
+			"GiveBuff:Bless:($smhp)*0.1",
+			"Damage:($dice)*20",
+			"GiveBuff:Rage:25"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 1,
+		"useTimeParameter": 3,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 6001
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579760859
+		},
+		"skillDes": {
+			"hash": -1330982177
+		},
+		"resultOnExecute": [
+			"If:($shp)>50:A:B",
+			"[A]Damage:($dice)*10",
+			"[B]Damage:($dice)*20"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 6011
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579760858
+		},
+		"skillDes": {
+			"hash": -1330982176
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*(15+((100-($shp))*0.25))"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 1,
+		"useTimeParameter": 2,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 6012
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579760857
+		},
+		"skillDes": {
+			"hash": -1330982175
+		},
+		"resultOnExecute": [
+			"Damage:30",
+			"GiveBuff:Bless:($smhp)*0.1"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 3,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 6013
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579760828
+		},
+		"skillDes": {
+			"hash": -1330982146
+		},
+		"resultOnExecute": [
+			"If:($shp)>=50:A:B",
+			"[A]Damage:30",
+			"[B]Damage:50"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 6021
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579760827
+		},
+		"skillDes": {
+			"hash": -1330982145
+		},
+		"resultOnExecute": [
+			"If:($shp)>=50:A:B",
+			"[A]Damage:40",
+			"[B]Damage:70"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 6022
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579760826
+		},
+		"skillDes": {
+			"hash": -1330982144
+		},
+		"resultOnExecute": [
+			"Damage:30",
+			"If:($shp)<50:A",
+			"[A]AttachBuff:Vulnerable:1"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 3,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 6023
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579760825
+		},
+		"skillDes": {
+			"hash": -1330982143
+		},
+		"resultOnExecute": [
+			"Damage:40",
+			"If:($shp)<50:A",
+			"[A]AttachBuff:Vulnerable:2"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 3,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 6024
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579760824
+		},
+		"skillDes": {
+			"hash": -1330982142
+		},
+		"resultOnExecute": [
+			"If:($shp)>=30:A:B",
+			"[A]Damage:80",
+			"[B]Damage:180"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 8,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 6025
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579760823
+		},
+		"skillDes": {
+			"hash": -1330982141
+		},
+		"resultOnExecute": [
+			"If:($shp)>=30:A:B",
+			"[A]Damage:100",
+			"[B]Damage:240"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 8,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 6026
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579731099
+		},
+		"skillDes": {
+			"hash": -1330952417
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*20",
+			"If:($dice)%2:A:B",
+			"[A]GiveBuff:7051:2",
+			"[B]GiveBuff:7052:2"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 1,
+		"useTimeParameter": 2,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 7001
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579731068
+		},
+		"skillDes": {
+			"hash": -1330952386
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*10",
+			"Unless:($dice)%2:A:B",
+			"[A]GiveDice:1:((Random_3)*2)+1",
+			"[B]GiveDice:1:((Random_3)*2)+2"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 1,
+		"useTimeParameter": 2,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 7011
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579731067
+		},
+		"skillDes": {
+			"hash": -1330952385
+		},
+		"resultOnExecute": [
+			"Damage:100"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 7012
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579731036
+		},
+		"skillDes": {
+			"hash": -1330952354
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*10",
+			"If:($dice)%2:A:B",
+			"[A]Evolution:($sid):7064",
+			"[B]Evolution:($sid):7065"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 7022
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579730913
+		},
+		"skillDes": {
+			"hash": -1330952231
+		},
+		"resultOnExecute": [
+			"Damage:70"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 7061
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579730912
+		},
+		"skillDes": {
+			"hash": -1330952230
+		},
+		"resultOnExecute": [
+			"Damage:40"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 7062
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579730911
+		},
+		"skillDes": {
+			"hash": -1330952229
+		},
+		"resultOnExecute": [
+			"Damage:10"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 7063
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579730910
+		},
+		"skillDes": {
+			"hash": -1330952228
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*20"
+		],
+		"slotType": 6,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 7064
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579730909
+		},
+		"skillDes": {
+			"hash": -1330952227
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*20"
+		],
+		"slotType": 5,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 7065
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579730820
+		},
+		"skillDes": {
+			"hash": -1330952138
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*10",
+			"AttachBuff:Tearing:($dice):1"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 3,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 7091
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579730819
+		},
+		"skillDes": {
+			"hash": -1330952137
+		},
+		"resultOnExecute": [
+			"Damage:((100-($thp))+(($tbuff_Tearing)*30))"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 7092
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579701308
+		},
+		"skillDes": {
+			"hash": -1330922626
+		},
+		"resultOnExecute": [
+			"Damage:40",
+			"If:$tbuff_Vulnerable:A",
+			"AttachBuff:Vulnerable:2",
+			"[A]AttachBuff:Tearing:1:1"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 8001
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579701307
+		},
+		"skillDes": {
+			"hash": -1330922625
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*10",
+			"GiveBuff:Rage:(($turn)*5)"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 8002
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579701306
+		},
+		"skillDes": {
+			"hash": -1330922624
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*10",
+			"Modify:HP:($smhp)*0.03"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 8003
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1579701305
+		},
+		"skillDes": {
+			"hash": -1330922623
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*10",
+			"Set:loop:0",
+			"Goto:99:($loop)>=($sbuff_debuffdice)",
+			"Damage:20",
+			"Modify:loop:1",
+			"Goto:2"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 8004
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1732563930
+		},
+		"skillDes": {
+			"hash": 1684607916
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*12"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 1,
+		"useTimeParameter": 3,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10110
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1732563929
+		},
+		"skillDes": {
+			"hash": 1684607917
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*15"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 1,
+		"useTimeParameter": 3,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10111
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1732563899
+		},
+		"skillDes": {
+			"hash": 1684607947
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*11",
+			"GiveDice:1:Random_3_7"
+		],
+		"slotType": 4,
+		"slotTypeParameter": 4,
+		"useTimeType": 1,
+		"useTimeParameter": 3,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10120
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1732563898
+		},
+		"skillDes": {
+			"hash": 1684607948
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*12",
+			"GiveDice:1:Random_3_7"
+		],
+		"slotType": 4,
+		"slotTypeParameter": 4,
+		"useTimeType": 1,
+		"useTimeParameter": 3,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10121
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1732563897
+		},
+		"skillDes": {
+			"hash": 1684607949
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*13",
+			"GiveDice:1:Random_3_7"
+		],
+		"slotType": 4,
+		"slotTypeParameter": 4,
+		"useTimeType": 1,
+		"useTimeParameter": 3,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10122
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1732563837
+		},
+		"skillDes": {
+			"hash": 1684608009
+		},
+		"resultOnExecute": [
+			"Damage:100",
+			"RanSwitch:A:B:C",
+			"[A]Damage:50",
+			"[B]AttachBuff:Vulnerable:2",
+			"[C]AttachBuff:Weak:2"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 12,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10140
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1732563836
+		},
+		"skillDes": {
+			"hash": 1684608010
+		},
+		"resultOnExecute": [
+			"Damage:120",
+			"RanSwitch:A:B:C",
+			"[A]Damage:50",
+			"[B]AttachBuff:Vulnerable:2",
+			"[C]AttachBuff:Weak:2"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 12,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10141
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1732562907
+		},
+		"skillDes": {
+			"hash": 1684608939
+		},
+		"resultOnExecute": [
+			"GiveDice:1:Random_4_7"
+		],
+		"slotType": 3,
+		"slotTypeParameter": 2,
+		"useTimeType": 1,
+		"useTimeParameter": 2,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10230
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1732562814
+		},
+		"skillDes": {
+			"hash": 1684609032
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*15",
+			"AttachBuff:Vulnerable:1"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10260
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1732562008
+		},
+		"skillDes": {
+			"hash": 1684609838
+		},
+		"resultOnExecute": [
+			"If:($thp)>90:A:B",
+			"[A]Damage:($dice)*40",
+			"[B]Damage:($dice)*20"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 2,
+		"useTimeParameter": 1,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10310
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1732561977
+		},
+		"skillDes": {
+			"hash": 1684609869
+		},
+		"resultOnExecute": [
+			"If:($thp)<50:A:B",
+			"[A]Damage:($dice)*30",
+			"[B]Damage:($dice)*15"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10320
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1732561915
+		},
+		"skillDes": {
+			"hash": 1684609931
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*15",
+			"GiveBuff:Rage:20"
+		],
+		"slotType": 4,
+		"slotTypeParameter": 3,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10340
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1732561822
+		},
+		"skillDes": {
+			"hash": 1684610024
+		},
+		"resultOnExecute": [
+			"Damage:30",
+			"AttachBuff:Weak:1"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10370
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1732561791
+		},
+		"skillDes": {
+			"hash": 1684610055
+		},
+		"resultOnExecute": [
+			"Damage:50",
+			"AttachBuff:Weak:1"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 6,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 10380
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1731640409
+		},
+		"skillDes": {
+			"hash": 1685531437
+		},
+		"resultOnExecute": [
+			"Damage:25"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 2,
+		"useTimeType": 3,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 20110
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1731640408
+		},
+		"skillDes": {
+			"hash": 1685531438
+		},
+		"resultOnExecute": [
+			"Damage:30"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 2,
+		"useTimeType": 3,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 20111
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1731640347
+		},
+		"skillDes": {
+			"hash": 1685531499
+		},
+		"resultOnExecute": [
+			"Damage:30",
+			"If:(Random_100)<50:A",
+			"[A]GiveDice:1"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 2,
+		"useTimeType": 1,
+		"useTimeParameter": 4,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 20130
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1731640346
+		},
+		"skillDes": {
+			"hash": 1685531500
+		},
+		"resultOnExecute": [
+			"Damage:40",
+			"If:(Random_100)<50:A",
+			"[A]GiveDice:1"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 2,
+		"useTimeType": 1,
+		"useTimeParameter": 4,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 20131
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1731639386
+		},
+		"skillDes": {
+			"hash": 1685532460
+		},
+		"resultOnExecute": [
+			"GiveDice:1:6"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 5,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 20230
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1731639200
+		},
+		"skillDes": {
+			"hash": 1685532646
+		},
+		"resultOnExecute": [
+			"GiveBuff:ExtraTurn:1"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 18,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 20290
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1731638518
+		},
+		"skillDes": {
+			"hash": -1331101280
+		},
+		"resultOnExecute": [
+			"GiveDice:2"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 9,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 20300
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1731638239
+		},
+		"skillDes": {
+			"hash": 1685533607
+		},
+		"resultOnExecute": [
+			"If:($thp)<50:A:B",
+			"[A]Damage:240",
+			"[B]Damage:120"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 12,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 20390
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1731637557
+		},
+		"skillDes": {
+			"hash": 1685534289
+		},
+		"resultOnExecute": [
+			"Damage:120",
+			"GiveBuff:Rage:20"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 8,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 20400
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1731492445
+		},
+		"skillDes": {
+			"hash": 1685679401
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*20",
+			"Damage:(100-($thp))*1.2"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 2,
+		"useTimeParameter": 1,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 25001
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1731492444
+		},
+		"skillDes": {
+			"hash": 1685679402
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*25",
+			"Damage:(100-($thp))*1.5"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 2,
+		"useTimeParameter": 1,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 25002
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1731492414
+		},
+		"skillDes": {
+			"hash": 1685679432
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*20",
+			"If:($dice)>=10:A",
+			"[A]Damage:(100-($thp))*1.5"
+		],
+		"slotType": 8,
+		"slotTypeParameter": 0,
+		"useTimeType": 2,
+		"useTimeParameter": 1,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 25011
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1731492413
+		},
+		"skillDes": {
+			"hash": 1685679433
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*25",
+			"If:($dice)>=10:A",
+			"[A]Damage:(100-($thp))*1.8"
+		],
+		"slotType": 8,
+		"slotTypeParameter": 0,
+		"useTimeType": 2,
+		"useTimeParameter": 1,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 25012
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1731491484
+		},
+		"skillDes": {
+			"hash": 1685680362
+		},
+		"resultOnExecute": [
+			"If:($dice)%2:A:B",
+			"[A]GiveDice:1:(($dice)+1)",
+			"[B]GiveDice:1:(($dice)-1)"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 1,
+		"useTimeParameter": 2,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 25101
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1731491483
+		},
+		"skillDes": {
+			"hash": 1685680363
+		},
+		"resultOnExecute": [
+			"If:($dice)%2:A:B",
+			"[A]GiveDice:1:(($dice)+1)",
+			"[B]GiveDice:1:(($dice)-1)"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 1,
+		"useTimeParameter": 3,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 25102
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1731490523
+		},
+		"skillDes": {
+			"hash": 1685681323
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*10",
+			"GiveBuff:Rage:10"
+		],
+		"slotType": 3,
+		"slotTypeParameter": 3,
+		"useTimeType": 1,
+		"useTimeParameter": 3,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 25201
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1731490522
+		},
+		"skillDes": {
+			"hash": 1685681324
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*15",
+			"GiveBuff:Rage:10"
+		],
+		"slotType": 3,
+		"slotTypeParameter": 3,
+		"useTimeType": 1,
+		"useTimeParameter": 3,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 25202
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1731490492
+		},
+		"skillDes": {
+			"hash": 1685681354
+		},
+		"resultOnExecute": [
+			"Damage:60",
+			"GiveBuff:Rage:50"
+		],
+		"slotType": 3,
+		"slotTypeParameter": 3,
+		"useTimeType": 1,
+		"useTimeParameter": 3,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 25211
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1731490491
+		},
+		"skillDes": {
+			"hash": 1685681355
+		},
+		"resultOnExecute": [
+			"Damage:70",
+			"GiveBuff:Rage:50"
+		],
+		"slotType": 3,
+		"slotTypeParameter": 3,
+		"useTimeType": 1,
+		"useTimeParameter": 3,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 25212
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1731489562
+		},
+		"skillDes": {
+			"hash": 1685682284
+		},
+		"resultOnExecute": [
+			"Damage:50",
+			"If:($shp)>50:A:B",
+			"[A]GiveBuff:Rage:25",
+			"[B]GiveBuff:Rage:50"
+		],
+		"slotType": 4,
+		"slotTypeParameter": 4,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 25301
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1731489561
+		},
+		"skillDes": {
+			"hash": 1685682285
+		},
+		"resultOnExecute": [
+			"Damage:60",
+			"If:($shp)>50:A:B",
+			"[A]GiveBuff:Rage:25",
+			"[B]GiveBuff:Rage:50"
+		],
+		"slotType": 4,
+		"slotTypeParameter": 3,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 25302
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1731489531
+		},
+		"skillDes": {
+			"hash": 1685682315
+		},
+		"resultOnExecute": [
+			"Modify:HP:($smhp)*0.1",
+			"Damage:((100-($shp))*1.5)"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 12,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 25311
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1731489530
+		},
+		"skillDes": {
+			"hash": 1685682316
+		},
+		"resultOnExecute": [
+			"Modify:HP:($smhp)*0.1",
+			"Damage:((100-($shp))*1.7)"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 12,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 25312
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1731489500
+		},
+		"skillDes": {
+			"hash": 1685682346
+		},
+		"resultOnExecute": [
+			"Damage:((100-($shp))+80)"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 8,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 25321
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1731489499
+		},
+		"skillDes": {
+			"hash": 1685682347
+		},
+		"resultOnExecute": [
+			"Damage:(((100-($shp))*1.2)+100)"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 8,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 25322
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1730716888
+		},
+		"skillDes": {
+			"hash": 1686454958
+		},
+		"resultOnExecute": [
+			"Damage:25"
+		],
+		"slotType": 3,
+		"slotTypeParameter": 3,
+		"useTimeType": 3,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 30110
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1730716887
+		},
+		"skillDes": {
+			"hash": 1686454959
+		},
+		"resultOnExecute": [
+			"Damage:30"
+		],
+		"slotType": 3,
+		"slotTypeParameter": 3,
+		"useTimeType": 3,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 30111
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1730716826
+		},
+		"skillDes": {
+			"hash": 1686455020
+		},
+		"resultOnExecute": [
+			"Damage:(($dice)*16)+(($sbuff_FukaOnly)*10)",
+			"GiveBuff:FukaOnly:1:1"
+		],
+		"slotType": 3,
+		"slotTypeParameter": 3,
+		"useTimeType": 3,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 30130
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1730716825
+		},
+		"skillDes": {
+			"hash": 1686455021
+		},
+		"resultOnExecute": [
+			"Damage:(($dice)*20)+(($sbuff_FukaOnly)*10)",
+			"GiveBuff:FukaOnly:1:1"
+		],
+		"slotType": 3,
+		"slotTypeParameter": 3,
+		"useTimeType": 3,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 30131
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1730715927
+		},
+		"skillDes": {
+			"hash": 1686455919
+		},
+		"resultOnExecute": [
+			"GiveDice:Random_3",
+			"Damage:($dice)*10"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 30210
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1730715896
+		},
+		"skillDes": {
+			"hash": 1686455950
+		},
+		"resultOnExecute": [
+			"GiveDice:2:1",
+			"Damage:20"
+		],
+		"slotType": 3,
+		"slotTypeParameter": 3,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 30220
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1730715834
+		},
+		"skillDes": {
+			"hash": 1686456012
+		},
+		"resultOnExecute": [
+			"GiveBuff:ExtraDice:2:6"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 18,
+		"useTimeType": 2,
+		"useTimeParameter": 1,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 30240
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1729794319
+		},
+		"skillDes": {
+			"hash": 1687377527
+		},
+		"resultOnExecute": [
+			"Damage:100",
+			"AttachBuff:Poisonous:($dice)"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 40019
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1729793367
+		},
+		"skillDes": {
+			"hash": 1687378479
+		},
+		"resultOnExecute": [
+			"Damage:($tbuff_Poisonous)*4"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 1,
+		"useTimeParameter": 3,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 40110
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1729793366
+		},
+		"skillDes": {
+			"hash": 1687378480
+		},
+		"resultOnExecute": [
+			"Damage:($tbuff_Poisonous)*5"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 1,
+		"useTimeParameter": 3,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 40111
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1729793336
+		},
+		"skillDes": {
+			"hash": 1687378510
+		},
+		"resultOnExecute": [
+			"Damage:80",
+			"AttachBuff:Poisonous:1",
+			"Damage:($tbuff_Poisonous)*($PoisonousRate)"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 9,
+		"useTimeType": 1,
+		"useTimeParameter": 2,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 40120
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1729793335
+		},
+		"skillDes": {
+			"hash": 1687378511
+		},
+		"resultOnExecute": [
+			"Damage:80",
+			"AttachBuff:Poisonous:1",
+			"Damage:($tbuff_Poisonous)*($PoisonousRate)"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 8,
+		"useTimeType": 1,
+		"useTimeParameter": 2,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 40121
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1729793334
+		},
+		"skillDes": {
+			"hash": 1687378512
+		},
+		"resultOnExecute": [
+			"Damage:100",
+			"AttachBuff:Poisonous:1",
+			"Damage:($tbuff_Poisonous)*($PoisonousRate)"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 8,
+		"useTimeType": 1,
+		"useTimeParameter": 2,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 40122
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1729792344
+		},
+		"skillDes": {
+			"hash": 1687379502
+		},
+		"resultOnExecute": [
+			"If:($tbuff_Poisonous):A",
+			"[A]AttachBuff:Poisonous:(($tbuff_Poisonous)/2)"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 16,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 40230
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1729792313
+		},
+		"skillDes": {
+			"hash": 1687379533
+		},
+		"resultOnExecute": [
+			"AttachBuff:Poisonous:1",
+			"GiveDice:1"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 40240
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1729791445
+		},
+		"skillDes": {
+			"hash": 1687380401
+		},
+		"resultOnExecute": [
+			"Damage:(($tbuff_Poisonous)*($dice))*1.5",
+			"ConsumeBuff:Poisonous:($tbuff_Poisonous)/2"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 1,
+		"useTimeParameter": 2,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 40310
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1728869846
+		},
+		"skillDes": {
+			"hash": 1688302000
+		},
+		"resultOnExecute": [
+			"Damage:100"
+		],
+		"slotType": 8,
+		"slotTypeParameter": 0,
+		"useTimeType": 1,
+		"useTimeParameter": 2,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 50110
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1728869845
+		},
+		"skillDes": {
+			"hash": 1688302001
+		},
+		"resultOnExecute": [
+			"Damage:120"
+		],
+		"slotType": 8,
+		"slotTypeParameter": 0,
+		"useTimeType": 1,
+		"useTimeParameter": 2,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 50111
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1728869784
+		},
+		"skillDes": {
+			"hash": 1688302062
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*30"
+		],
+		"slotType": 8,
+		"slotTypeParameter": 0,
+		"useTimeType": 1,
+		"useTimeParameter": 3,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 50130
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1728869783
+		},
+		"skillDes": {
+			"hash": 1688302063
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*35"
+		],
+		"slotType": 8,
+		"slotTypeParameter": 0,
+		"useTimeType": 1,
+		"useTimeParameter": 3,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 50131
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1728868885
+		},
+		"skillDes": {
+			"hash": 1688302961
+		},
+		"resultOnExecute": [
+			"GiveBuff:Rage:50",
+			"Damage:($dice)*10"
+		],
+		"slotType": 8,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 50210
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1728868854
+		},
+		"skillDes": {
+			"hash": 1688302992
+		},
+		"resultOnExecute": [
+			"Set:rpoint:Random_4_7",
+			"GiveDice:2:$rpoint"
+		],
+		"slotType": 2,
+		"slotTypeParameter": 8,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 50220
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1728868823
+		},
+		"skillDes": {
+			"hash": 1688303023
+		},
+		"resultOnExecute": [
+			"GiveDice:1"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 1,
+		"useTimeParameter": 2,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 50230
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1728868730
+		},
+		"skillDes": {
+			"hash": 1688303116
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*15",
+			"AttachBuff:Vulnerable:2"
+		],
+		"slotType": 8,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 50260
+	},
+	{
+		"skillType": 2,
+		"skillName": {
+			"hash": -1728868668
+		},
+		"skillDes": {
+			"hash": 1688303178
+		},
+		"resultOnExecute": [
+			"Modify:HP:(($smhp)*($dice))*0.015"
+		],
+		"slotType": 8,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 3,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 50280
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1728867924
+		},
+		"skillDes": {
+			"hash": 1688303922
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*15",
+			"If:($dice)>8:A",
+			"[A]GiveDice:1"
+		],
+		"slotType": 8,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 50310
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1728867893
+		},
+		"skillDes": {
+			"hash": 1688303953
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*15",
+			"If:($dice)>=15:A",
+			"[A]GiveBuff:ExtraTurn:1"
+		],
+		"slotType": 9,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 50320
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1728867831
+		},
+		"skillDes": {
+			"hash": 1688304015
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*35"
+		],
+		"slotType": 8,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 50340
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1727946294
+		},
+		"skillDes": {
+			"hash": 1689225552
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*(20+((100-($shp))*0.25))"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 1,
+		"useTimeParameter": 2,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 60120
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1727946293
+		},
+		"skillDes": {
+			"hash": 1689225553
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*(20+((100-($shp))*0.3))"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 1,
+		"useTimeParameter": 2,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 60121
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1727946292
+		},
+		"skillDes": {
+			"hash": 1689225554
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*(20+((100-($shp))*0.35))"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 1,
+		"useTimeParameter": 2,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 60122
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1727022773
+		},
+		"skillDes": {
+			"hash": 1690149073
+		},
+		"resultOnExecute": [
+			"Damage:110"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 70120
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1727022772
+		},
+		"skillDes": {
+			"hash": 1690149074
+		},
+		"resultOnExecute": [
+			"Damage:120"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 70121
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1727022771
+		},
+		"skillDes": {
+			"hash": 1690149075
+		},
+		"resultOnExecute": [
+			"Damage:130"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 70122
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1727021812
+		},
+		"skillDes": {
+			"hash": 1690150034
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*15",
+			"If:($dice)%2:A:B",
+			"[A]Evolution:($sid):70640",
+			"[B]Evolution:($sid):70650"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 70220
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1727017999
+		},
+		"skillDes": {
+			"hash": 1690153847
+		},
+		"resultOnExecute": [
+			"Damage:80"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 70610
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1727017998
+		},
+		"skillDes": {
+			"hash": 1690153848
+		},
+		"resultOnExecute": [
+			"Damage:90"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 70611
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1727017997
+		},
+		"skillDes": {
+			"hash": 1690153849
+		},
+		"resultOnExecute": [
+			"Damage:100"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 70612
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1727017968
+		},
+		"skillDes": {
+			"hash": 1690153878
+		},
+		"resultOnExecute": [
+			"Damage:50"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 70620
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1727017967
+		},
+		"skillDes": {
+			"hash": 1690153879
+		},
+		"resultOnExecute": [
+			"Damage:60"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 70621
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1727017966
+		},
+		"skillDes": {
+			"hash": 1690153880
+		},
+		"resultOnExecute": [
+			"Damage:70"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 70622
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1727017937
+		},
+		"skillDes": {
+			"hash": 1690153909
+		},
+		"resultOnExecute": [
+			"Damage:20"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 70630
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1727017936
+		},
+		"skillDes": {
+			"hash": 1690153910
+		},
+		"resultOnExecute": [
+			"Damage:30"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 70631
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1727017935
+		},
+		"skillDes": {
+			"hash": 1690153911
+		},
+		"resultOnExecute": [
+			"Damage:40"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 70632
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1727017906
+		},
+		"skillDes": {
+			"hash": 1690153940
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*25"
+		],
+		"slotType": 6,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 70640
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1727017875
+		},
+		"skillDes": {
+			"hash": 1690153971
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*25"
+		],
+		"slotType": 5,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 70650
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1726100244
+		},
+		"skillDes": {
+			"hash": 1691071602
+		},
+		"resultOnExecute": [
+			"Damage:50",
+			"If:$tbuff_Vulnerable:A",
+			"AttachBuff:Vulnerable:2",
+			"[A]AttachBuff:Tearing:1:1"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 80010
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1726100243
+		},
+		"skillDes": {
+			"hash": 1691071603
+		},
+		"resultOnExecute": [
+			"Damage:60",
+			"If:$tbuff_Vulnerable:A",
+			"AttachBuff:Vulnerable:2",
+			"[A]AttachBuff:Tearing:1:1"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 80011
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1726100242
+		},
+		"skillDes": {
+			"hash": 1691071604
+		},
+		"resultOnExecute": [
+			"Damage:70",
+			"If:$tbuff_Vulnerable:A",
+			"AttachBuff:Vulnerable:2",
+			"[A]AttachBuff:Tearing:1:1"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 80012
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1726100213
+		},
+		"skillDes": {
+			"hash": 1691071633
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*12",
+			"GiveBuff:Rage:(($turn)*5)"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 80020
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1726100212
+		},
+		"skillDes": {
+			"hash": 1691071634
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*14",
+			"GiveBuff:Rage:(($turn)*5)"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 80021
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1726100211
+		},
+		"skillDes": {
+			"hash": 1691071635
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*16",
+			"GiveBuff:Rage:(($turn)*5)"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 80022
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1726100182
+		},
+		"skillDes": {
+			"hash": 1691071664
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*12",
+			"Modify:HP:($smhp)*0.03"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 80030
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1726100181
+		},
+		"skillDes": {
+			"hash": 1691071665
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*14",
+			"Modify:HP:($smhp)*0.03"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 80031
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1726100180
+		},
+		"skillDes": {
+			"hash": 1691071666
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*16",
+			"Modify:HP:($smhp)*0.03"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 80032
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1726100151
+		},
+		"skillDes": {
+			"hash": 1691071695
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*12",
+			"Set:loop:0",
+			"Goto:99:($loop)>=($sbuff_debuffdice)",
+			"Damage:20",
+			"Modify:loop:1",
+			"Goto:2"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 80040
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1726100150
+		},
+		"skillDes": {
+			"hash": 1691071696
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*14",
+			"Set:loop:0",
+			"Goto:99:($loop)>=($sbuff_debuffdice)",
+			"Damage:20",
+			"Modify:loop:1",
+			"Goto:2"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 80041
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1726100149
+		},
+		"skillDes": {
+			"hash": 1691071697
+		},
+		"resultOnExecute": [
+			"Damage:($dice)*16",
+			"Set:loop:0",
+			"Goto:99:($loop)>=($sbuff_debuffdice)",
+			"Damage:20",
+			"Modify:loop:1",
+			"Goto:2"
+		],
+		"slotType": 1,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 80042
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725146931
+		},
+		"skillDes": {
+			"hash": 1692024915
+		},
+		"resultOnExecute": [
+			"Damage:$para1"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 91011
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725146900
+		},
+		"skillDes": {
+			"hash": 1692024946
+		},
+		"resultOnExecute": [
+			"Damage:$para1"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 91021
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725146899
+		},
+		"skillDes": {
+			"hash": 1692024947
+		},
+		"resultOnExecute": [
+			"Damage:$para2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 91022
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725146869
+		},
+		"skillDes": {
+			"hash": 1692024977
+		},
+		"resultOnExecute": [
+			"Damage:$para1"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 91031
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725146868
+		},
+		"skillDes": {
+			"hash": 1692024978
+		},
+		"resultOnExecute": [
+			"Damage:$para2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 91032
+	},
+	{
+		"skillType": 2,
+		"skillName": {
+			"hash": -1725146867
+		},
+		"skillDes": {
+			"hash": 1692024979
+		},
+		"resultOnExecute": [
+			"GiveBuff:Shield:($smhp)*0.2",
+			"Set:opg:1"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 91033
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725145009
+		},
+		"skillDes": {
+			"hash": 1692026837
+		},
+		"resultOnExecute": [
+			"Damage:$para1"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 91211
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725145008
+		},
+		"skillDes": {
+			"hash": 1692026838
+		},
+		"resultOnExecute": [
+			"Damage:$para2",
+			"AttachBuff:Vulnerable:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 91212
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725144978
+		},
+		"skillDes": {
+			"hash": 1692026868
+		},
+		"resultOnExecute": [
+			"Damage:$para1"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 91221
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725144977
+		},
+		"skillDes": {
+			"hash": 1692026869
+		},
+		"resultOnExecute": [
+			"Damage:$para2",
+			"AttachBuff:Burn:$para3:$para4"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 91222
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725144947
+		},
+		"skillDes": {
+			"hash": 1692026899
+		},
+		"resultOnExecute": [
+			"Damage:$para1"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 91231
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725144946
+		},
+		"skillDes": {
+			"hash": 1692026900
+		},
+		"resultOnExecute": [
+			"Damage:$para2",
+			"AttachBuff:Freeze:2:4"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 91232
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725144048
+		},
+		"skillDes": {
+			"hash": 1692027798
+		},
+		"resultOnExecute": [
+			"Damage:$para1",
+			"CumulateBuff:Explosion:100:A:20",
+			"[A]Damage:($tmhp)*0.2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 91311
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1725144047
+		},
+		"skillDes": {
+			"hash": 1692027799
+		},
+		"resultOnExecute": [
+			"GiveBuff:ExtraTurn:2",
+			"Set:opg:1"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 91312
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725144017
+		},
+		"skillDes": {
+			"hash": 1692027829
+		},
+		"resultOnExecute": [
+			"Damage:$para1",
+			"CumulateBuff:Explosion:100:A:20",
+			"[A]Damage:($tmhp)*0.2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 91321
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725144016
+		},
+		"skillDes": {
+			"hash": 1692027830
+		},
+		"resultOnExecute": [
+			"Damage:$para2",
+			"CumulateBuff:Explosion:100:A:40",
+			"[A]Damage:($tmhp)*0.2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 91322
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1725144015
+		},
+		"skillDes": {
+			"hash": 1692027831
+		},
+		"resultOnExecute": [
+			"GiveBuff:ExtraTurn:2",
+			"Set:opg:1"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 91323
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725143986
+		},
+		"skillDes": {
+			"hash": 1692027860
+		},
+		"resultOnExecute": [
+			"Damage:$para1",
+			"CumulateBuff:Explosion:100:A:34",
+			"[A]Damage:($tmhp)*0.2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 91331
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725143985
+		},
+		"skillDes": {
+			"hash": 1692027861
+		},
+		"resultOnExecute": [
+			"TakeDamage:($smhp)*0.1",
+			"CumulateBuff:Explosion:100:A:100",
+			"[A]Damage:($tmhp)*0.2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 91332
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1725143984
+		},
+		"skillDes": {
+			"hash": 1692027862
+		},
+		"resultOnExecute": [
+			"GiveBuff:ExtraTurn:2",
+			"Set:opg:1"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 91333
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725143087
+		},
+		"skillDes": {
+			"hash": 1692028759
+		},
+		"resultOnExecute": [
+			"Damage:43"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 91411
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725143086
+		},
+		"skillDes": {
+			"hash": 1692028760
+		},
+		"resultOnExecute": [
+			"Damage:130",
+			"RanSwitch:A:B:C",
+			"[A]AttachBuff:Freeze:2:4",
+			"[B]AttachBuff:Vulnerable:2",
+			"[C]AttachBuff:Weak:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 91412
+	},
+	{
+		"skillType": 2,
+		"skillName": {
+			"hash": -1725143085
+		},
+		"skillDes": {
+			"hash": 1692028761
+		},
+		"resultOnExecute": [
+			"Heal:($smhp)*0.15"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 3,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 91413
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725143084
+		},
+		"skillDes": {
+			"hash": 1692028762
+		},
+		"resultOnExecute": [
+			"Damage:130",
+			"AttachBuff:CriticalMiss:1:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 91414
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725117140
+		},
+		"skillDes": {
+			"hash": 1692054706
+		},
+		"resultOnExecute": [
+			"Damage:$para1"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 92011
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725117139
+		},
+		"skillDes": {
+			"hash": 1692054707
+		},
+		"resultOnExecute": [
+			"Damage:$para2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 92012
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725117109
+		},
+		"skillDes": {
+			"hash": 1692054737
+		},
+		"resultOnExecute": [
+			"Damage:$para1"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 92021
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725117108
+		},
+		"skillDes": {
+			"hash": 1692054738
+		},
+		"resultOnExecute": [
+			"Damage:$para2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 92022
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725117107
+		},
+		"skillDes": {
+			"hash": 1692054739
+		},
+		"resultOnExecute": [
+			"Damage:$para3"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 92023
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725117078
+		},
+		"skillDes": {
+			"hash": 1692054768
+		},
+		"resultOnExecute": [
+			"Damage:$para1"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 92031
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725117077
+		},
+		"skillDes": {
+			"hash": 1692054769
+		},
+		"resultOnExecute": [
+			"Damage:$para2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 92032
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725117076
+		},
+		"skillDes": {
+			"hash": 1692054770
+		},
+		"resultOnExecute": [
+			"Damage:$para3"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 92033
+	},
+	{
+		"skillType": 2,
+		"skillName": {
+			"hash": -1725117075
+		},
+		"skillDes": {
+			"hash": 1692054771
+		},
+		"resultOnExecute": [
+			"TakeDamage:($smhp)*0.2",
+			"GiveBuff:Shield:($smhp)*0.2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 92034
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725116179
+		},
+		"skillDes": {
+			"hash": 1692055667
+		},
+		"resultOnExecute": [
+			"Damage:$para1"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 92111
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725116178
+		},
+		"skillDes": {
+			"hash": 1692055668
+		},
+		"resultOnExecute": [
+			"Damage:$para2",
+			"AttachBuff:Weak:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 92112
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725116148
+		},
+		"skillDes": {
+			"hash": 1692055698
+		},
+		"resultOnExecute": [
+			"Damage:$para1"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 92121
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725116147
+		},
+		"skillDes": {
+			"hash": 1692055699
+		},
+		"resultOnExecute": [
+			"Damage:$para2",
+			"AttachBuff:CriticalMiss:1:4"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 92122
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725116117
+		},
+		"skillDes": {
+			"hash": 1692055729
+		},
+		"resultOnExecute": [
+			"Damage:$para1"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 92131
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725116116
+		},
+		"skillDes": {
+			"hash": 1692055730
+		},
+		"resultOnExecute": [
+			"Damage:$para2",
+			"AttachBuff:Weak:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 92132
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725116115
+		},
+		"skillDes": {
+			"hash": 1692055731
+		},
+		"resultOnExecute": [
+			"Damage:$para2",
+			"AttachBuff:CriticalMiss:1:4"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 92133
+	},
+	{
+		"skillType": 2,
+		"skillName": {
+			"hash": -1725116114
+		},
+		"skillDes": {
+			"hash": 1692055732
+		},
+		"resultOnExecute": [
+			"GiveBuff:Counter:($para3):2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 92134
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725115186
+		},
+		"skillDes": {
+			"hash": 1692056660
+		},
+		"resultOnExecute": [
+			"Damage:$para2",
+			"AttachBuff:Burn:$para3:$para4"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 92222
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725115155
+		},
+		"skillDes": {
+			"hash": 1692056691
+		},
+		"resultOnExecute": [
+			"Damage:$para2",
+			"AttachBuff:Burn:$para3:$para4"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 92232
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725115154
+		},
+		"skillDes": {
+			"hash": 1692056692
+		},
+		"resultOnExecute": [
+			"Damage:$para5",
+			"CumulateBuff:Explosion:100:A:34",
+			"[A]Damage:($tmhp)*0.2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 92233
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725115125
+		},
+		"skillDes": {
+			"hash": 1692056721
+		},
+		"resultOnExecute": [
+			"Damage:342",
+			"AttachBuff:Vulnerable:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 92241
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725115124
+		},
+		"skillDes": {
+			"hash": 1692056722
+		},
+		"resultOnExecute": [
+			"Damage:342",
+			"AttachBuff:Burn:288:3"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 92242
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725115123
+		},
+		"skillDes": {
+			"hash": 1692056723
+		},
+		"resultOnExecute": [
+			"Damage:342",
+			"AttachBuff:Freeze:2:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 92243
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725115122
+		},
+		"skillDes": {
+			"hash": 1692056724
+		},
+		"resultOnExecute": [
+			"Damage:342",
+			"AttachBuff:CriticalMiss:1:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 92244
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725115121
+		},
+		"skillDes": {
+			"hash": 1692056725
+		},
+		"resultOnExecute": [
+			"Damage:171",
+			"Damage:171",
+			"Damage:171"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 92245
+	},
+	{
+		"skillType": 2,
+		"skillName": {
+			"hash": -1725115120
+		},
+		"skillDes": {
+			"hash": 1692056726
+		},
+		"resultOnExecute": [
+			"GiveBuff:Shield:($smhp)*0.2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 92246
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725087349
+		},
+		"skillDes": {
+			"hash": 1692084497
+		},
+		"resultOnExecute": [
+			"Damage:$para1"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 93011
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725087348
+		},
+		"skillDes": {
+			"hash": 1692084498
+		},
+		"resultOnExecute": [
+			"Damage:$para2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 93012
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725087318
+		},
+		"skillDes": {
+			"hash": 1692084528
+		},
+		"resultOnExecute": [
+			"Damage:$para1",
+			"AttachBuff:Burn:$para2:1"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 93021
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725087317
+		},
+		"skillDes": {
+			"hash": 1692084529
+		},
+		"resultOnExecute": [
+			"Damage:$para3",
+			"AttachBuff:Burn:$para4:3"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 93022
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725087287
+		},
+		"skillDes": {
+			"hash": 1692084559
+		},
+		"resultOnExecute": [
+			"Damage:$para1",
+			"AttachBuff:Freeze:1:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 93031
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725087286
+		},
+		"skillDes": {
+			"hash": 1692084560
+		},
+		"resultOnExecute": [
+			"Damage:$para2",
+			"AttachBuff:Freeze:3:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 93032
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725086388
+		},
+		"skillDes": {
+			"hash": 1692085458
+		},
+		"resultOnExecute": [
+			"Damage:$para1",
+			"AttachBuff:9001:$para2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 93111
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725086357
+		},
+		"skillDes": {
+			"hash": 1692085489
+		},
+		"resultOnExecute": [
+			"Damage:$para1",
+			"AttachBuff:9001:$para2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 93121
+	},
+	{
+		"skillType": 2,
+		"skillName": {
+			"hash": -1725086356
+		},
+		"skillDes": {
+			"hash": 1692085490
+		},
+		"resultOnExecute": [
+			"Heal:($smhp)*0.2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 3,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 93122
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725086326
+		},
+		"skillDes": {
+			"hash": 1692085520
+		},
+		"resultOnExecute": [
+			"Damage:$para1",
+			"AttachBuff:9001:$para2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 93131
+	},
+	{
+		"skillType": 2,
+		"skillName": {
+			"hash": -1725086325
+		},
+		"skillDes": {
+			"hash": 1692085521
+		},
+		"resultOnExecute": [
+			"Heal:($smhp)*0.2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 3,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 93132
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725086324
+		},
+		"skillDes": {
+			"hash": 1692085522
+		},
+		"resultOnExecute": [
+			"Damage:($tbuff_9001)*4",
+			"AttachBuff:9001:$para3"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 93133
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725085427
+		},
+		"skillDes": {
+			"hash": 1692086419
+		},
+		"resultOnExecute": [
+			"Damage:$para1",
+			"AttachBuff:Tearing:$para2:10"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 93211
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725085396
+		},
+		"skillDes": {
+			"hash": 1692086450
+		},
+		"resultOnExecute": [
+			"Damage:$para1",
+			"AttachBuff:Tearing:$para2:10"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 93221
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725085395
+		},
+		"skillDes": {
+			"hash": 1692086451
+		},
+		"resultOnExecute": [
+			"Damage:$para3",
+			"Damage:$para3"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 93222
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725085365
+		},
+		"skillDes": {
+			"hash": 1692086481
+		},
+		"resultOnExecute": [
+			"Damage:$para1",
+			"AttachBuff:Tearing:$para2:10"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 93231
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725085364
+		},
+		"skillDes": {
+			"hash": 1692086482
+		},
+		"resultOnExecute": [
+			"Damage:$para3",
+			"AttachBuff:CriticalMiss:1:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 93232
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725085363
+		},
+		"skillDes": {
+			"hash": 1692086483
+		},
+		"resultOnExecute": [
+			"Damage:$para4",
+			"Damage:$para4",
+			"Damage:$para4"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 93233
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725057589
+		},
+		"skillDes": {
+			"hash": 1692114257
+		},
+		"resultOnExecute": [
+			"Damage:425",
+			"AttachBuff:Tearing:9:10"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 94001
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725057588
+		},
+		"skillDes": {
+			"hash": 1692114258
+		},
+		"resultOnExecute": [
+			"Damage:425",
+			"Damage:425",
+			"AttachBuff:Freeze:2:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 94002
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725057587
+		},
+		"skillDes": {
+			"hash": 1692114259
+		},
+		"resultOnExecute": [
+			"Damage:425",
+			"Damage:425",
+			"AttachBuff:CriticalMiss:1:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 94003
+	},
+	{
+		"skillType": 2,
+		"skillName": {
+			"hash": -1725057586
+		},
+		"skillDes": {
+			"hash": 1692114260
+		},
+		"resultOnExecute": [
+			"Heal:($smhp)*0.2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 3,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 94004
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725027798
+		},
+		"skillDes": {
+			"hash": 1692144048
+		},
+		"resultOnExecute": [
+			"Damage:352"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 95001
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725027797
+		},
+		"skillDes": {
+			"hash": 1692144049
+		},
+		"resultOnExecute": [
+			"Damage:636",
+			"AttachBuff:Freeze:2:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 95002
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725027796
+		},
+		"skillDes": {
+			"hash": 1692144050
+		},
+		"resultOnExecute": [
+			"Damage:636",
+			"AttachBuff:Burn:352:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 95003
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725027795
+		},
+		"skillDes": {
+			"hash": 1692144051
+		},
+		"resultOnExecute": [
+			"Damage:636",
+			"AttachBuff:CriticalMiss:1:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 95004
+	},
+	{
+		"skillType": 2,
+		"skillName": {
+			"hash": -1725027794
+		},
+		"skillDes": {
+			"hash": 1692144052
+		},
+		"resultOnExecute": [
+			"GiveBuff:Shield:($smhp)*0.2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 95005
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1725027793
+		},
+		"skillDes": {
+			"hash": 1692144053
+		},
+		"resultOnExecute": [
+			"GiveBuff:ExtraTurn:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 95006
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": 2125062315
+		},
+		"skillDes": {
+			"hash": 683207141
+		},
+		"resultOnExecute": [
+			"SetTarget:HP:0"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 100001
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": 2125062316
+		},
+		"skillDes": {
+			"hash": 683207142
+		},
+		"resultOnExecute": [
+			"SetTarget:HP:0"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 100002
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": 2125063276
+		},
+		"skillDes": {
+			"hash": 683208102
+		},
+		"resultOnExecute": [
+			"Damage:$para1",
+			"AttachBuff:Freeze:2:$para2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 100101
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": 2125063277
+		},
+		"skillDes": {
+			"hash": 683208103
+		},
+		"resultOnExecute": [
+			"Damage:$para3",
+			"AttachBuff:Vulnerable:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 100102
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": 2125063278
+		},
+		"skillDes": {
+			"hash": 683208104
+		},
+		"resultOnExecute": [
+			"Damage:$para4",
+			"AttachBuff:Vulnerable:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 100103
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": 2125063279
+		},
+		"skillDes": {
+			"hash": 683208105
+		},
+		"resultOnExecute": [
+			"Damage:$para5",
+			"AttachBuff:Vulnerable:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 100104
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": 2125064237
+		},
+		"skillDes": {
+			"hash": 683209063
+		},
+		"resultOnExecute": [
+			"Damage:$para1",
+			"AttachBuff:Burn:$para2:$para6"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 100201
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": 2125064238
+		},
+		"skillDes": {
+			"hash": 683209064
+		},
+		"resultOnExecute": [
+			"Damage:$para3",
+			"AttachBuff:Burn:$para2:$para6"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 100202
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": 2125064239
+		},
+		"skillDes": {
+			"hash": 683209065
+		},
+		"resultOnExecute": [
+			"Damage:$para4",
+			"AttachBuff:Burn:$para2:$para6"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 100203
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": 2125064240
+		},
+		"skillDes": {
+			"hash": 683209066
+		},
+		"resultOnExecute": [
+			"Damage:$para5",
+			"AttachBuff:Burn:$para2:$para6"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 100204
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725143087
+		},
+		"skillDes": {
+			"hash": 913284025
+		},
+		"resultOnExecute": [
+			"Damage:163"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 914110
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725143087
+		},
+		"skillDes": {
+			"hash": 913284026
+		},
+		"resultOnExecute": [
+			"Damage:288"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 914111
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725143087
+		},
+		"skillDes": {
+			"hash": 913284027
+		},
+		"resultOnExecute": [
+			"Damage:495"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 914112
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725143087
+		},
+		"skillDes": {
+			"hash": 913284028
+		},
+		"resultOnExecute": [
+			"Damage:540"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 914113
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725143086
+		},
+		"skillDes": {
+			"hash": 913284056
+		},
+		"resultOnExecute": [
+			"Damage:217",
+			"RanSwitch:A:B:C",
+			"[A]AttachBuff:Freeze:2:4",
+			"[B]AttachBuff:Vulnerable:2",
+			"[C]AttachBuff:Weak:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 914120
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725143086
+		},
+		"skillDes": {
+			"hash": 913284057
+		},
+		"resultOnExecute": [
+			"Damage:384",
+			"RanSwitch:A:B:C",
+			"[A]AttachBuff:Freeze:2:4",
+			"[B]AttachBuff:Vulnerable:2",
+			"[C]AttachBuff:Weak:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 914121
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725143086
+		},
+		"skillDes": {
+			"hash": 913284058
+		},
+		"resultOnExecute": [
+			"Damage:660",
+			"RanSwitch:A:B:C",
+			"[A]AttachBuff:Freeze:2:4",
+			"[B]AttachBuff:Vulnerable:2",
+			"[C]AttachBuff:Weak:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 914122
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725143086
+		},
+		"skillDes": {
+			"hash": 913284059
+		},
+		"resultOnExecute": [
+			"Damage:720",
+			"RanSwitch:A:B:C",
+			"[A]AttachBuff:Freeze:2:4",
+			"[B]AttachBuff:Vulnerable:2",
+			"[C]AttachBuff:Weak:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 914123
+	},
+	{
+		"skillType": 2,
+		"skillName": {
+			"hash": -1725143085
+		},
+		"skillDes": {
+			"hash": 913284087
+		},
+		"resultOnExecute": [
+			"Heal:($smhp)*0.10"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 3,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 914130
+	},
+	{
+		"skillType": 2,
+		"skillName": {
+			"hash": -1725143085
+		},
+		"skillDes": {
+			"hash": 913284088
+		},
+		"resultOnExecute": [
+			"Heal:($smhp)*0.10"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 3,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 914131
+	},
+	{
+		"skillType": 2,
+		"skillName": {
+			"hash": -1725143085
+		},
+		"skillDes": {
+			"hash": 913284089
+		},
+		"resultOnExecute": [
+			"Heal:($smhp)*0.10"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 3,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 914132
+	},
+	{
+		"skillType": 2,
+		"skillName": {
+			"hash": -1725143085
+		},
+		"skillDes": {
+			"hash": 913284090
+		},
+		"resultOnExecute": [
+			"Heal:($smhp)*0.10"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 3,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 914133
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725143084
+		},
+		"skillDes": {
+			"hash": 913284118
+		},
+		"resultOnExecute": [
+			"Damage:217",
+			"AttachBuff:CriticalMiss:1:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 914140
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725143084
+		},
+		"skillDes": {
+			"hash": 913284119
+		},
+		"resultOnExecute": [
+			"Damage:384",
+			"AttachBuff:CriticalMiss:1:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 914141
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725143084
+		},
+		"skillDes": {
+			"hash": 913284120
+		},
+		"resultOnExecute": [
+			"Damage:660",
+			"AttachBuff:CriticalMiss:1:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 914142
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725143084
+		},
+		"skillDes": {
+			"hash": 913284121
+		},
+		"resultOnExecute": [
+			"Damage:720",
+			"AttachBuff:CriticalMiss:1:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 914143
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1938964157
+		},
+		"skillDes": {
+			"hash": 914147965
+		},
+		"resultOnExecute": [
+			"Damage:2*($para1)"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 922111
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1938964156
+		},
+		"skillDes": {
+			"hash": 914147966
+		},
+		"resultOnExecute": [
+			"Damage:$para1"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 922112
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1938964155
+		},
+		"skillDes": {
+			"hash": 914147967
+		},
+		"resultOnExecute": [
+			"Damage:0"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 922113
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1938963196
+		},
+		"skillDes": {
+			"hash": 914148926
+		},
+		"resultOnExecute": [
+			"Damage:2*($para1)"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 922211
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1938963195
+		},
+		"skillDes": {
+			"hash": 914148927
+		},
+		"resultOnExecute": [
+			"Damage:$para1"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 922212
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1938963194
+		},
+		"skillDes": {
+			"hash": 914148928
+		},
+		"resultOnExecute": [
+			"Damage:0"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 922213
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1938962235
+		},
+		"skillDes": {
+			"hash": 914149887
+		},
+		"resultOnExecute": [
+			"Damage:2*($para1)"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 922311
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1938962234
+		},
+		"skillDes": {
+			"hash": 914149888
+		},
+		"resultOnExecute": [
+			"Damage:$para1"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 922312
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1938962233
+		},
+		"skillDes": {
+			"hash": 914149889
+		},
+		"resultOnExecute": [
+			"Damage:0"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 922313
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725115125
+		},
+		"skillDes": {
+			"hash": 914150847
+		},
+		"resultOnExecute": [
+			"Damage:415",
+			"AttachBuff:Vulnerable:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 922410
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725115125
+		},
+		"skillDes": {
+			"hash": 914150848
+		},
+		"resultOnExecute": [
+			"Damage:480",
+			"AttachBuff:Vulnerable:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 922411
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725115125
+		},
+		"skillDes": {
+			"hash": 914150849
+		},
+		"resultOnExecute": [
+			"Damage:510",
+			"AttachBuff:Vulnerable:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 922412
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725115125
+		},
+		"skillDes": {
+			"hash": 914150850
+		},
+		"resultOnExecute": [
+			"Damage:540",
+			"AttachBuff:Vulnerable:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 922413
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725115124
+		},
+		"skillDes": {
+			"hash": 914150878
+		},
+		"resultOnExecute": [
+			"Damage:415",
+			"AttachBuff:Burn:184:3"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 922420
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725115124
+		},
+		"skillDes": {
+			"hash": 914150879
+		},
+		"resultOnExecute": [
+			"Damage:480",
+			"AttachBuff:Burn:213:3"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 922421
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725115124
+		},
+		"skillDes": {
+			"hash": 914150880
+		},
+		"resultOnExecute": [
+			"Damage:510",
+			"AttachBuff:Burn:226:3"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 922422
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725115124
+		},
+		"skillDes": {
+			"hash": 914150881
+		},
+		"resultOnExecute": [
+			"Damage:540",
+			"AttachBuff:Burn:240:3"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 922423
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725115123
+		},
+		"skillDes": {
+			"hash": 914150909
+		},
+		"resultOnExecute": [
+			"Damage:415",
+			"AttachBuff:Freeze:2:4"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 922430
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725115123
+		},
+		"skillDes": {
+			"hash": 914150910
+		},
+		"resultOnExecute": [
+			"Damage:480",
+			"AttachBuff:Freeze:2:4"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 922431
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725115123
+		},
+		"skillDes": {
+			"hash": 914150911
+		},
+		"resultOnExecute": [
+			"Damage:510",
+			"AttachBuff:Freeze:2:4"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 922432
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725115123
+		},
+		"skillDes": {
+			"hash": 914150912
+		},
+		"resultOnExecute": [
+			"Damage:540",
+			"AttachBuff:Freeze:2:4"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 922433
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725115122
+		},
+		"skillDes": {
+			"hash": 914150940
+		},
+		"resultOnExecute": [
+			"Damage:415",
+			"AttachBuff:CriticalMiss:1:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 922440
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725115122
+		},
+		"skillDes": {
+			"hash": 914150941
+		},
+		"resultOnExecute": [
+			"Damage:480",
+			"AttachBuff:CriticalMiss:1:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 922441
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725115122
+		},
+		"skillDes": {
+			"hash": 914150942
+		},
+		"resultOnExecute": [
+			"Damage:510",
+			"AttachBuff:CriticalMiss:1:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 922442
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725115122
+		},
+		"skillDes": {
+			"hash": 914150943
+		},
+		"resultOnExecute": [
+			"Damage:540",
+			"AttachBuff:CriticalMiss:1:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 922443
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725115121
+		},
+		"skillDes": {
+			"hash": 914150971
+		},
+		"resultOnExecute": [
+			"Damage:205",
+			"Damage:205",
+			"Damage:205"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 922450
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725115121
+		},
+		"skillDes": {
+			"hash": 914150972
+		},
+		"resultOnExecute": [
+			"Damage:240",
+			"Damage:240",
+			"Damage:240"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 922451
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725115121
+		},
+		"skillDes": {
+			"hash": 914150973
+		},
+		"resultOnExecute": [
+			"Damage:255",
+			"Damage:255",
+			"Damage:255"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 922452
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725115121
+		},
+		"skillDes": {
+			"hash": 914150974
+		},
+		"resultOnExecute": [
+			"Damage:270",
+			"Damage:270",
+			"Damage:270"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 922453
+	},
+	{
+		"skillType": 2,
+		"skillName": {
+			"hash": -1725115120
+		},
+		"skillDes": {
+			"hash": 914151002
+		},
+		"resultOnExecute": [
+			"GiveBuff:Shield:($smhp)*0.1"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 922460
+	},
+	{
+		"skillType": 2,
+		"skillName": {
+			"hash": -1725115120
+		},
+		"skillDes": {
+			"hash": 914151003
+		},
+		"resultOnExecute": [
+			"GiveBuff:Shield:($smhp)*0.1"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 922461
+	},
+	{
+		"skillType": 2,
+		"skillName": {
+			"hash": -1725115120
+		},
+		"skillDes": {
+			"hash": 914151004
+		},
+		"resultOnExecute": [
+			"GiveBuff:Shield:($smhp)*0.1"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 922462
+	},
+	{
+		"skillType": 2,
+		"skillName": {
+			"hash": -1725115120
+		},
+		"skillDes": {
+			"hash": 914151005
+		},
+		"resultOnExecute": [
+			"GiveBuff:Shield:($smhp)*0.1"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 922463
+	},
+	{
+		"skillType": 2,
+		"skillName": {
+			"hash": -1938069436
+		},
+		"skillDes": {
+			"hash": 915042686
+		},
+		"resultOnExecute": [
+			"Heal:($smhp)*0.1"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 3,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 931220
+	},
+	{
+		"skillType": 2,
+		"skillName": {
+			"hash": -1938068475
+		},
+		"skillDes": {
+			"hash": 915043647
+		},
+		"resultOnExecute": [
+			"Heal:($smhp)*0.1"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 3,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 931320
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725057589
+		},
+		"skillDes": {
+			"hash": 915934463
+		},
+		"resultOnExecute": [
+			"Damage:511",
+			"AttachBuff:Tearing:11:10"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 940010
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725057589
+		},
+		"skillDes": {
+			"hash": 915934464
+		},
+		"resultOnExecute": [
+			"Damage:381",
+			"AttachBuff:Tearing:8:10"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 940011
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725057589
+		},
+		"skillDes": {
+			"hash": 915934465
+		},
+		"resultOnExecute": [
+			"Damage:594",
+			"AttachBuff:Tearing:12:10"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 940012
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725057588
+		},
+		"skillDes": {
+			"hash": 915934494
+		},
+		"resultOnExecute": [
+			"Damage:511",
+			"Damage:511",
+			"AttachBuff:Freeze:2:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 940020
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725057588
+		},
+		"skillDes": {
+			"hash": 915934495
+		},
+		"resultOnExecute": [
+			"Damage:381",
+			"Damage:381",
+			"AttachBuff:Freeze:2:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 940021
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725057588
+		},
+		"skillDes": {
+			"hash": 915934496
+		},
+		"resultOnExecute": [
+			"Damage:594",
+			"Damage:594",
+			"AttachBuff:Freeze:2:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 940022
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725057587
+		},
+		"skillDes": {
+			"hash": 915934525
+		},
+		"resultOnExecute": [
+			"Damage:511",
+			"Damage:511",
+			"AttachBuff:CriticalMiss:1:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 940030
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725057587
+		},
+		"skillDes": {
+			"hash": 915934526
+		},
+		"resultOnExecute": [
+			"Damage:381",
+			"Damage:381",
+			"AttachBuff:CriticalMiss:1:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 940031
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725057587
+		},
+		"skillDes": {
+			"hash": 915934527
+		},
+		"resultOnExecute": [
+			"Damage:594",
+			"Damage:594",
+			"AttachBuff:CriticalMiss:1:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 940032
+	},
+	{
+		"skillType": 2,
+		"skillName": {
+			"hash": -1725057586
+		},
+		"skillDes": {
+			"hash": 915934556
+		},
+		"resultOnExecute": [
+			"Heal:($smhp)*0.1"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 3,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 940040
+	},
+	{
+		"skillType": 2,
+		"skillName": {
+			"hash": -1725057586
+		},
+		"skillDes": {
+			"hash": 915934557
+		},
+		"resultOnExecute": [
+			"Heal:($smhp)*0.1"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 3,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 940041
+	},
+	{
+		"skillType": 2,
+		"skillName": {
+			"hash": -1725057586
+		},
+		"skillDes": {
+			"hash": 915934558
+		},
+		"resultOnExecute": [
+			"Heal:($smhp)*0.1"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 3,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 940042
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725027798
+		},
+		"skillDes": {
+			"hash": 916857984
+		},
+		"resultOnExecute": [
+			"Damage:384"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 950010
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725027798
+		},
+		"skillDes": {
+			"hash": 916857985
+		},
+		"resultOnExecute": [
+			"Damage:396"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 950011
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725027798
+		},
+		"skillDes": {
+			"hash": 916857986
+		},
+		"resultOnExecute": [
+			"Damage:504"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 950012
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725027798
+		},
+		"skillDes": {
+			"hash": 916857987
+		},
+		"resultOnExecute": [
+			"Damage:432"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 950013
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725027797
+		},
+		"skillDes": {
+			"hash": 916858015
+		},
+		"resultOnExecute": [
+			"Damage:512",
+			"AttachBuff:Freeze:2:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 950020
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725027797
+		},
+		"skillDes": {
+			"hash": 916858016
+		},
+		"resultOnExecute": [
+			"Damage:528",
+			"AttachBuff:Freeze:2:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 950021
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725027797
+		},
+		"skillDes": {
+			"hash": 916858017
+		},
+		"resultOnExecute": [
+			"Damage:672",
+			"AttachBuff:Freeze:2:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 950022
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725027797
+		},
+		"skillDes": {
+			"hash": 916858018
+		},
+		"resultOnExecute": [
+			"Damage:576",
+			"AttachBuff:Freeze:2:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 950023
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725027796
+		},
+		"skillDes": {
+			"hash": 916858046
+		},
+		"resultOnExecute": [
+			"Damage:512",
+			"AttachBuff:Burn:384:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 950030
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725027796
+		},
+		"skillDes": {
+			"hash": 916858047
+		},
+		"resultOnExecute": [
+			"Damage:528",
+			"AttachBuff:Burn:396:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 950031
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725027796
+		},
+		"skillDes": {
+			"hash": 916858048
+		},
+		"resultOnExecute": [
+			"Damage:672",
+			"AttachBuff:Burn:504:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 950032
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725027796
+		},
+		"skillDes": {
+			"hash": 916858049
+		},
+		"resultOnExecute": [
+			"Damage:576",
+			"AttachBuff:Burn:432:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 950033
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725027795
+		},
+		"skillDes": {
+			"hash": 916858077
+		},
+		"resultOnExecute": [
+			"Damage:512",
+			"AttachBuff:CriticalMiss:1:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 950040
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725027795
+		},
+		"skillDes": {
+			"hash": 916858078
+		},
+		"resultOnExecute": [
+			"Damage:528",
+			"AttachBuff:CriticalMiss:1:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 950041
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725027795
+		},
+		"skillDes": {
+			"hash": 916858079
+		},
+		"resultOnExecute": [
+			"Damage:672",
+			"AttachBuff:CriticalMiss:1:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 950042
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": -1725027795
+		},
+		"skillDes": {
+			"hash": 916858080
+		},
+		"resultOnExecute": [
+			"Damage:576",
+			"AttachBuff:CriticalMiss:1:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 950043
+	},
+	{
+		"skillType": 2,
+		"skillName": {
+			"hash": -1725027794
+		},
+		"skillDes": {
+			"hash": 916858108
+		},
+		"resultOnExecute": [
+			"GiveBuff:Shield:($smhp)*0.1"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 950050
+	},
+	{
+		"skillType": 2,
+		"skillName": {
+			"hash": -1725027794
+		},
+		"skillDes": {
+			"hash": 916858109
+		},
+		"resultOnExecute": [
+			"GiveBuff:Shield:($smhp)*0.1"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 950051
+	},
+	{
+		"skillType": 2,
+		"skillName": {
+			"hash": -1725027794
+		},
+		"skillDes": {
+			"hash": 916858110
+		},
+		"resultOnExecute": [
+			"GiveBuff:Shield:($smhp)*0.1"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 950052
+	},
+	{
+		"skillType": 2,
+		"skillName": {
+			"hash": -1725027794
+		},
+		"skillDes": {
+			"hash": 916858111
+		},
+		"resultOnExecute": [
+			"GiveBuff:Shield:($smhp)*0.1"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 950053
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1725027793
+		},
+		"skillDes": {
+			"hash": 916858139
+		},
+		"resultOnExecute": [
+			"GiveBuff:ExtraTurn:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 950060
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1725027793
+		},
+		"skillDes": {
+			"hash": 916858140
+		},
+		"resultOnExecute": [
+			"GiveBuff:ExtraTurn:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 950061
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1725027793
+		},
+		"skillDes": {
+			"hash": 916858141
+		},
+		"resultOnExecute": [
+			"GiveBuff:ExtraTurn:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 950062
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": -1725027793
+		},
+		"skillDes": {
+			"hash": 916858142
+		},
+		"resultOnExecute": [
+			"GiveBuff:ExtraTurn:2"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 950063
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": 105693706
+		},
+		"skillDes": {
+			"hash": -1642143728
+		},
+		"resultOnExecute": [
+			"Damage:Random_360_601"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9501101
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": 105693707
+		},
+		"skillDes": {
+			"hash": -1642143727
+		},
+		"resultOnExecute": [
+			"GiveBuff:ExtraTurn:1",
+			"Damage:360",
+			"AttachBuff:Freeze:1:1"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 1,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9501102
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": 105693708
+		},
+		"skillDes": {
+			"hash": -1642143726
+		},
+		"resultOnExecute": [
+			"Damage:540",
+			"GiveBuff:Counter:50:2",
+			"AttachBuff:Burn:100:4"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9501103
+	},
+	{
+		"skillType": 1,
+		"skillName": {
+			"hash": 105693709
+		},
+		"skillDes": {
+			"hash": -1642143725
+		},
+		"resultOnExecute": [
+			"Damage:540",
+			"GiveBuff:9501801:8"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 2,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9501104
+	},
+	{
+		"skillType": 3,
+		"skillName": {
+			"hash": 105694667
+		},
+		"skillDes": {
+			"hash": -1642142767
+		},
+		"resultOnExecute": [
+			"GiveBuff:ExtraTurn:1",
+			"AttachBuff:9501704",
+			"AttachBuff:9501706"
+		],
+		"slotType": 0,
+		"slotTypeParameter": 0,
+		"useTimeType": 0,
+		"useTimeParameter": 0,
+		"displayType": 0,
+		"showDetailDes": true,
+		"DataImpl": {},
+		"skillID": 9501201
+	}
+]

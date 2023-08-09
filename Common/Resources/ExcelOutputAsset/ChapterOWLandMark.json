@@ -1,0 +1,699 @@
+[
+	{
+		"MapID": 701,
+		"DisplayType": 2,
+		"AreaID": 7010,
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/OW_Map001",
+		"Title": {
+			"hash": -396780480
+		},
+		"Desc": {
+			"hash": 674129395
+		},
+		"DisplayCondition": "",
+		"UnlockCondition": 0,
+		"LocationID": 0,
+		"DataImpl": {},
+		"EventID": 701008
+	},
+	{
+		"MapID": 701,
+		"DisplayType": 2,
+		"AreaID": 7010,
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/OW_Map002",
+		"Title": {
+			"hash": -396780479
+		},
+		"Desc": {
+			"hash": 674129396
+		},
+		"DisplayCondition": "",
+		"UnlockCondition": 0,
+		"LocationID": 0,
+		"DataImpl": {},
+		"EventID": 701009
+	},
+	{
+		"MapID": 701,
+		"DisplayType": 2,
+		"AreaID": 7010,
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/OW_Map003",
+		"Title": {
+			"hash": -396780478
+		},
+		"Desc": {
+			"hash": 674129397
+		},
+		"DisplayCondition": "",
+		"UnlockCondition": 0,
+		"LocationID": 0,
+		"DataImpl": {},
+		"EventID": 701010
+	},
+	{
+		"MapID": 701,
+		"DisplayType": 1,
+		"AreaID": 7010,
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_090",
+		"Title": {
+			"hash": 904014477
+		},
+		"Desc": {
+			"hash": 738910407
+		},
+		"DisplayCondition": "5|107012",
+		"UnlockCondition": 0,
+		"LocationID": 0,
+		"DataImpl": {},
+		"EventID": 703001
+	},
+	{
+		"MapID": 701,
+		"DisplayType": 1,
+		"AreaID": 7010,
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_180",
+		"Title": {
+			"hash": 904014478
+		},
+		"Desc": {
+			"hash": 738910408
+		},
+		"DisplayCondition": "",
+		"UnlockCondition": 0,
+		"LocationID": 0,
+		"DataImpl": {},
+		"EventID": 703002
+	},
+	{
+		"MapID": 701,
+		"DisplayType": 1,
+		"AreaID": 7010,
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/RO_070",
+		"Title": {
+			"hash": 904014479
+		},
+		"Desc": {
+			"hash": 738910409
+		},
+		"DisplayCondition": "5|107107",
+		"UnlockCondition": 0,
+		"LocationID": 0,
+		"DataImpl": {},
+		"EventID": 703003
+	},
+	{
+		"MapID": 701,
+		"DisplayType": 1,
+		"AreaID": 7010,
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_240",
+		"Title": {
+			"hash": 904014480
+		},
+		"Desc": {
+			"hash": 738910410
+		},
+		"DisplayCondition": "",
+		"UnlockCondition": 0,
+		"LocationID": 0,
+		"DataImpl": {},
+		"EventID": 703004
+	},
+	{
+		"MapID": 701,
+		"DisplayType": 1,
+		"AreaID": 7010,
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_230",
+		"Title": {
+			"hash": 904014481
+		},
+		"Desc": {
+			"hash": 738910411
+		},
+		"DisplayCondition": "4|650314",
+		"UnlockCondition": 0,
+		"LocationID": 0,
+		"DataImpl": {},
+		"EventID": 703005
+	},
+	{
+		"MapID": 701,
+		"DisplayType": 3,
+		"AreaID": 7010,
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/OW_Map001",
+		"Title": {
+			"hash": -1391197717
+		},
+		"Desc": {
+			"hash": 674129395
+		},
+		"DisplayCondition": "5|118012",
+		"UnlockCondition": 0,
+		"LocationID": 0,
+		"DataImpl": {},
+		"EventID": 707001
+	},
+	{
+		"MapID": 701,
+		"DisplayType": 3,
+		"AreaID": 7010,
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/OW_Map002",
+		"Title": {
+			"hash": -1391197716
+		},
+		"Desc": {
+			"hash": 674129396
+		},
+		"DisplayCondition": "5|118012",
+		"UnlockCondition": 0,
+		"LocationID": 0,
+		"DataImpl": {},
+		"EventID": 707004
+	},
+	{
+		"MapID": 701,
+		"DisplayType": 3,
+		"AreaID": 7010,
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/OW_Map003",
+		"Title": {
+			"hash": -1391197715
+		},
+		"Desc": {
+			"hash": 674129397
+		},
+		"DisplayCondition": "5|118012",
+		"UnlockCondition": 0,
+		"LocationID": 0,
+		"DataImpl": {},
+		"EventID": 707007
+	},
+	{
+		"MapID": 801,
+		"DisplayType": 2,
+		"AreaID": 8010,
+		"Icon": "SpriteOutput/Chapter29/Point/IconTransferN",
+		"Title": {
+			"hash": -396780477
+		},
+		"Desc": {
+			"hash": 674129398
+		},
+		"DisplayCondition": "",
+		"UnlockCondition": 0,
+		"LocationID": 0,
+		"DataImpl": {},
+		"EventID": 811001
+	},
+	{
+		"MapID": 801,
+		"DisplayType": 2,
+		"AreaID": 8010,
+		"Icon": "SpriteOutput/Chapter29/Point/IconTransferN",
+		"Title": {
+			"hash": -396780476
+		},
+		"Desc": {
+			"hash": 674129399
+		},
+		"DisplayCondition": "1|801,811002",
+		"UnlockCondition": 0,
+		"LocationID": 0,
+		"DataImpl": {},
+		"EventID": 811002
+	},
+	{
+		"MapID": 801,
+		"DisplayType": 2,
+		"AreaID": 8010,
+		"Icon": "SpriteOutput/Chapter29/Point/IconTransferN",
+		"Title": {
+			"hash": -396780475
+		},
+		"Desc": {
+			"hash": 674129400
+		},
+		"DisplayCondition": "1|801,811003",
+		"UnlockCondition": 0,
+		"LocationID": 0,
+		"DataImpl": {},
+		"EventID": 811003
+	},
+	{
+		"MapID": 801,
+		"DisplayType": 2,
+		"AreaID": 8011,
+		"Icon": "SpriteOutput/Chapter29/Point/IconTransferN",
+		"Title": {
+			"hash": -396780474
+		},
+		"Desc": {
+			"hash": 674129401
+		},
+		"DisplayCondition": "5|304104",
+		"UnlockCondition": 0,
+		"LocationID": 0,
+		"DataImpl": {},
+		"EventID": 811005
+	},
+	{
+		"MapID": 801,
+		"DisplayType": 2,
+		"AreaID": 8011,
+		"Icon": "SpriteOutput/Chapter29/Point/IconTransferN",
+		"Title": {
+			"hash": -396780473
+		},
+		"Desc": {
+			"hash": 674129402
+		},
+		"DisplayCondition": "1|801,811007",
+		"UnlockCondition": 0,
+		"LocationID": 0,
+		"DataImpl": {},
+		"EventID": 811007
+	},
+	{
+		"MapID": 801,
+		"DisplayType": 2,
+		"AreaID": 8011,
+		"Icon": "SpriteOutput/Chapter29/Point/IconTransferN",
+		"Title": {
+			"hash": -396780472
+		},
+		"Desc": {
+			"hash": 674129403
+		},
+		"DisplayCondition": "1|801,811008",
+		"UnlockCondition": 0,
+		"LocationID": 0,
+		"DataImpl": {},
+		"EventID": 811008
+	},
+	{
+		"MapID": 801,
+		"DisplayType": 2,
+		"AreaID": 8012,
+		"Icon": "SpriteOutput/Chapter29/Point/IconChallenge4",
+		"Title": {
+			"hash": -396780447
+		},
+		"Desc": {
+			"hash": 674129428
+		},
+		"DisplayCondition": "1|801,811011",
+		"UnlockCondition": 0,
+		"LocationID": 0,
+		"DataImpl": {},
+		"EventID": 811011
+	},
+	{
+		"MapID": 801,
+		"DisplayType": 2,
+		"AreaID": 8012,
+		"Icon": "SpriteOutput/Chapter29/Point/IconTransferN",
+		"Title": {
+			"hash": -396780450
+		},
+		"Desc": {
+			"hash": 674129425
+		},
+		"DisplayCondition": "1|801,902001",
+		"UnlockCondition": 0,
+		"LocationID": 0,
+		"DataImpl": {},
+		"EventID": 902001
+	},
+	{
+		"MapID": 801,
+		"DisplayType": 2,
+		"AreaID": 8012,
+		"Icon": "SpriteOutput/Chapter29/Point/IconTransferN",
+		"Title": {
+			"hash": -396780449
+		},
+		"Desc": {
+			"hash": 674129426
+		},
+		"DisplayCondition": "1|801,902002",
+		"UnlockCondition": 0,
+		"LocationID": 0,
+		"DataImpl": {},
+		"EventID": 902002
+	},
+	{
+		"MapID": 801,
+		"DisplayType": 2,
+		"AreaID": 8012,
+		"Icon": "SpriteOutput/Chapter29/Point/IconTransferN",
+		"Title": {
+			"hash": -396780448
+		},
+		"Desc": {
+			"hash": 674129427
+		},
+		"DisplayCondition": "1|801,902003",
+		"UnlockCondition": 0,
+		"LocationID": 0,
+		"DataImpl": {},
+		"EventID": 902003
+	},
+	{
+		"MapID": 1001,
+		"DisplayType": 2,
+		"AreaID": 10011,
+		"Icon": "SpriteOutput/Chapter30OW/Point/IconMissionShelter",
+		"Title": {
+			"hash": 1165371091
+		},
+		"Desc": {
+			"hash": -106269440
+		},
+		"DisplayCondition": "",
+		"UnlockCondition": 0,
+		"LocationID": 180006,
+		"DataImpl": {},
+		"EventID": 1440100
+	},
+	{
+		"MapID": 1001,
+		"DisplayType": 2,
+		"AreaID": 10011,
+		"Icon": "SpriteOutput/Chapter30OW/Point/IconBirthPoint",
+		"Title": {
+			"hash": 1165371092
+		},
+		"Desc": {
+			"hash": -106269439
+		},
+		"DisplayCondition": "4|675001",
+		"UnlockCondition": 1050,
+		"LocationID": 180007,
+		"DataImpl": {},
+		"EventID": 1440101
+	},
+	{
+		"MapID": 1001,
+		"DisplayType": 2,
+		"AreaID": 10011,
+		"Icon": "SpriteOutput/Chapter30OW/Point/IconBirthPoint",
+		"Title": {
+			"hash": 1165371093
+		},
+		"Desc": {
+			"hash": -106269438
+		},
+		"DisplayCondition": "4|675003",
+		"UnlockCondition": 1051,
+		"LocationID": 180008,
+		"DataImpl": {},
+		"EventID": 1440102
+	},
+	{
+		"MapID": 1001,
+		"DisplayType": 2,
+		"AreaID": 10011,
+		"Icon": "SpriteOutput/Chapter30OW/Point/IconBirthPoint",
+		"Title": {
+			"hash": 1165371094
+		},
+		"Desc": {
+			"hash": -106269437
+		},
+		"DisplayCondition": "5|402207;4|675006",
+		"UnlockCondition": 1052,
+		"LocationID": 180009,
+		"DataImpl": {},
+		"EventID": 1440103
+	},
+	{
+		"MapID": 1001,
+		"DisplayType": 2,
+		"AreaID": 10011,
+		"Icon": "SpriteOutput/Chapter30OW/Point/IconBirthPoint",
+		"Title": {
+			"hash": 1165371095
+		},
+		"Desc": {
+			"hash": -106269436
+		},
+		"DisplayCondition": "5|402207;4|675001",
+		"UnlockCondition": 1053,
+		"LocationID": 180010,
+		"DataImpl": {},
+		"EventID": 1440104
+	},
+	{
+		"MapID": 1001,
+		"DisplayType": 2,
+		"AreaID": 10011,
+		"Icon": "SpriteOutput/Chapter30OW/Point/IconBirthPoint",
+		"Title": {
+			"hash": 1165371096
+		},
+		"Desc": {
+			"hash": -106269435
+		},
+		"DisplayCondition": "4|675002",
+		"UnlockCondition": 1054,
+		"LocationID": 180011,
+		"DataImpl": {},
+		"EventID": 1440105
+	},
+	{
+		"MapID": 1001,
+		"DisplayType": 2,
+		"AreaID": 10011,
+		"Icon": "SpriteOutput/Chapter30OW/Point/IconBirthPoint",
+		"Title": {
+			"hash": 1165371097
+		},
+		"Desc": {
+			"hash": -106269434
+		},
+		"DisplayCondition": "5|402207;4|675005",
+		"UnlockCondition": 1055,
+		"LocationID": 180012,
+		"DataImpl": {},
+		"EventID": 1440106
+	},
+	{
+		"MapID": 1001,
+		"DisplayType": 2,
+		"AreaID": 10011,
+		"Icon": "SpriteOutput/Chapter30OW/Point/IconBirthPoint",
+		"Title": {
+			"hash": 1165371098
+		},
+		"Desc": {
+			"hash": -106269433
+		},
+		"DisplayCondition": "5|402207;4|675010",
+		"UnlockCondition": 1056,
+		"LocationID": 180013,
+		"DataImpl": {},
+		"EventID": 1440107
+	},
+	{
+		"MapID": 1001,
+		"DisplayType": 4,
+		"AreaID": 10011,
+		"Icon": "SpriteOutput/Chapter30OW/Point/IconMissionDig",
+		"Title": {
+			"hash": 1165372053
+		},
+		"Desc": {
+			"hash": -106268478
+		},
+		"DisplayCondition": "5|410504",
+		"UnlockCondition": 1058,
+		"LocationID": 180001,
+		"DataImpl": {},
+		"EventID": 1440201
+	},
+	{
+		"MapID": 1001,
+		"DisplayType": 4,
+		"AreaID": 10011,
+		"Icon": "SpriteOutput/Chapter30OW/Point/IconMissionDig",
+		"Title": {
+			"hash": 1165372054
+		},
+		"Desc": {
+			"hash": -106268477
+		},
+		"DisplayCondition": "5|410504;5|402207;4|675007",
+		"UnlockCondition": 1059,
+		"LocationID": 180002,
+		"DataImpl": {},
+		"EventID": 1440202
+	},
+	{
+		"MapID": 1001,
+		"DisplayType": 2,
+		"AreaID": 10013,
+		"Icon": "SpriteOutput/Chapter30OW/Point/IconBirthPoint",
+		"Title": {
+			"hash": 1219172677
+		},
+		"Desc": {
+			"hash": -52467854
+		},
+		"DisplayCondition": "5|441200",
+		"UnlockCondition": 0,
+		"LocationID": 1608001,
+		"DataImpl": {},
+		"EventID": 1608001
+	},
+	{
+		"MapID": 1001,
+		"DisplayType": 2,
+		"AreaID": 10013,
+		"Icon": "SpriteOutput/Chapter30OW/Point/IconBirthPoint",
+		"Title": {
+			"hash": 1219172678
+		},
+		"Desc": {
+			"hash": -52467853
+		},
+		"DisplayCondition": "4|675010;5|441200",
+		"UnlockCondition": 1061,
+		"LocationID": 1608002,
+		"DataImpl": {},
+		"EventID": 1608002
+	},
+	{
+		"MapID": 1001,
+		"DisplayType": 2,
+		"AreaID": 10013,
+		"Icon": "SpriteOutput/Chapter30OW/Point/IconBirthPoint",
+		"Title": {
+			"hash": 1219172679
+		},
+		"Desc": {
+			"hash": -52467852
+		},
+		"DisplayCondition": "4|675009;5|441200",
+		"UnlockCondition": 1062,
+		"LocationID": 1608003,
+		"DataImpl": {},
+		"EventID": 1608003
+	},
+	{
+		"MapID": 1001,
+		"DisplayType": 2,
+		"AreaID": 10013,
+		"Icon": "SpriteOutput/Chapter30OW/Point/IconBirthPoint",
+		"Title": {
+			"hash": 1219172680
+		},
+		"Desc": {
+			"hash": -52467851
+		},
+		"DisplayCondition": "4|675005;5|441200",
+		"UnlockCondition": 1063,
+		"LocationID": 1608004,
+		"DataImpl": {},
+		"EventID": 1608004
+	},
+	{
+		"MapID": 1001,
+		"DisplayType": 2,
+		"AreaID": 10013,
+		"Icon": "SpriteOutput/Chapter30OW/Point/IconBirthPoint",
+		"Title": {
+			"hash": 1219172681
+		},
+		"Desc": {
+			"hash": -52467850
+		},
+		"DisplayCondition": "4|675008;5|441200",
+		"UnlockCondition": 1064,
+		"LocationID": 1608005,
+		"DataImpl": {},
+		"EventID": 1608005
+	},
+	{
+		"MapID": 1001,
+		"DisplayType": 2,
+		"AreaID": 10013,
+		"Icon": "SpriteOutput/Chapter30OW/Point/IconBirthPoint",
+		"Title": {
+			"hash": 1219172682
+		},
+		"Desc": {
+			"hash": -52467849
+		},
+		"DisplayCondition": "4|675015;5|441200",
+		"UnlockCondition": 1065,
+		"LocationID": 1608006,
+		"DataImpl": {},
+		"EventID": 1608006
+	},
+	{
+		"MapID": 1001,
+		"DisplayType": 2,
+		"AreaID": 10013,
+		"Icon": "SpriteOutput/Chapter30OW/Point/IconBirthPoint",
+		"Title": {
+			"hash": 1219172683
+		},
+		"Desc": {
+			"hash": -52467848
+		},
+		"DisplayCondition": "4|675011;5|441200",
+		"UnlockCondition": 1066,
+		"LocationID": 1608007,
+		"DataImpl": {},
+		"EventID": 1608007
+	},
+	{
+		"MapID": 1001,
+		"DisplayType": 2,
+		"AreaID": 10013,
+		"Icon": "SpriteOutput/Chapter30OW/Point/IconBirthPoint",
+		"Title": {
+			"hash": 1219172684
+		},
+		"Desc": {
+			"hash": -52467847
+		},
+		"DisplayCondition": "4|675013;5|441200",
+		"UnlockCondition": 1067,
+		"LocationID": 1608008,
+		"DataImpl": {},
+		"EventID": 1608008
+	},
+	{
+		"MapID": 1001,
+		"DisplayType": 4,
+		"AreaID": 10013,
+		"Icon": "SpriteOutput/Chapter30OW/Point/IconMissionDig",
+		"Title": {
+			"hash": 1219202468
+		},
+		"Desc": {
+			"hash": -52438063
+		},
+		"DisplayCondition": "4|675012;5|441200",
+		"UnlockCondition": 1068,
+		"LocationID": 1609001,
+		"DataImpl": {},
+		"EventID": 1609001
+	},
+	{
+		"MapID": 1001,
+		"DisplayType": 4,
+		"AreaID": 10013,
+		"Icon": "SpriteOutput/Chapter30OW/Point/IconMissionDig",
+		"Title": {
+			"hash": 1219202469
+		},
+		"Desc": {
+			"hash": -52438062
+		},
+		"DisplayCondition": "4|675083;5|441200",
+		"UnlockCondition": 1069,
+		"LocationID": 1609002,
+		"DataImpl": {},
+		"EventID": 1609002
+	}
+]

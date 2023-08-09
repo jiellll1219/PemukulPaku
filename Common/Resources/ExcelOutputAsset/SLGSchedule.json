@@ -1,0 +1,135 @@
+[
+	{
+		"MaxAP": 160,
+		"SingleBattleList": [
+			1,
+			2,
+			3,
+			4,
+			5
+		],
+		"MissionList": [
+			86144,
+			86145,
+			86072,
+			86073,
+			86074,
+			86075,
+			86076,
+			86077,
+			86078,
+			86079,
+			86080,
+			86081,
+			86082,
+			86083,
+			86084,
+			86085,
+			86086,
+			86087,
+			86088,
+			86089,
+			86090,
+			86091,
+			86092,
+			86102,
+			86103,
+			86104,
+			86105,
+			86106,
+			86146,
+			86107,
+			86108,
+			86146,
+			86109,
+			86110,
+			86111,
+			86112,
+			86113,
+			86114,
+			86116,
+			86117,
+			86118,
+			86119,
+			86120,
+			86123,
+			86124,
+			86125,
+			86126,
+			86127,
+			86130,
+			86131,
+			86132,
+			86133,
+			86134,
+			86137,
+			86138,
+			86139,
+			86140,
+			86141
+		],
+		"MinLevel": 25,
+		"MaxLevel": 99,
+		"APMaterial": 116609,
+		"APRecover": 450,
+		"MainRefreshCD": 10,
+		"StoryList": [
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9,
+			10,
+			11
+		],
+		"Shop": 306,
+		"ShopMaterial": 116610,
+		"BuffShopMaterial": 116611,
+		"BeginEntryPerformID": 23,
+		"EndEntryMission": 98500,
+		"EndEntryPerformID": 24,
+		"JsonConfig": "Data/SLG/SLGConfig",
+		"PhotoOpenTime": {
+			"TimeStampForBakedReader": 1621411200
+		},
+		"TaleTutorial": [
+			{
+				"Content": "SLG_Tutorial_Desc_01",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/SLGTutorial_01",
+				"Title": "SLG_Tutorial_Title_01"
+			},
+			{
+				"Content": "SLG_Tutorial_Desc_02",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/SLGTutorial_02",
+				"Title": "SLG_Tutorial_Title_02"
+			},
+			{
+				"Content": "SLG_Tutorial_Desc_03",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/SLGTutorial_03",
+				"Title": "SLG_Tutorial_Title_03"
+			},
+			{
+				"Content": "SLG_Tutorial_Desc_04",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/SLGTutorial_04",
+				"Title": "SLG_Tutorial_Title_04"
+			},
+			{
+				"Content": "SLG_Tutorial_Desc_05",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/SLGTutorial_05",
+				"Title": "SLG_Tutorial_Title_05"
+			},
+			{
+				"Content": "SLG_Tutorial_Desc_06",
+				"Sprite": "SpriteOutput/TutorialsDialogPic/SLGTutorial_06",
+				"Title": "SLG_Tutorial_Title_06"
+			}
+		],
+		"QuickPassTicket": 116615,
+		"ShopShowID": 16,
+		"DataImpl": {},
+		"ID": 1
+	}
+]

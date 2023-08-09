@@ -1,0 +1,837 @@
+[
+	{
+		"MapID": 1001,
+		"BuildingType": 1,
+		"IsLobbyBuilding": 1,
+		"BuildingName": {
+			"hash": 502229727
+		},
+		"RepairDesc": {
+			"hash": 2037517779
+		},
+		"RepairSuccDesc": {
+			"hash": -1840272495
+		},
+		"StateTypeList": [
+			6,
+			2,
+			102,
+			3,
+			4,
+			100,
+			101
+		],
+		"ConditionList": [
+			{
+				"conditionID": 2041,
+				"stateID": 1012
+			},
+			{
+				"conditionID": 2040,
+				"stateID": 1013
+			},
+			{
+				"conditionID": 2060,
+				"stateID": 1011
+			}
+		],
+		"InitLevel": 1,
+		"MaxLevel": 15,
+		"MaterialList": [
+			122320,
+			122327
+		],
+		"IsShow": true,
+		"PrefabPath": "Canvas3D/Scene/SpawnPoints/Building_Furnace",
+		"IconPath": "",
+		"MainStoryIDList": [],
+		"BranchStoryIDList": [
+			410202
+		],
+		"NPCHeadMarkOffsetPosition": [
+			0,
+			2.5,
+			0
+		],
+		"DataImpl": {},
+		"MainID": 10
+	},
+	{
+		"MapID": 1001,
+		"BuildingType": 2,
+		"IsLobbyBuilding": 1,
+		"BuildingName": {
+			"hash": 502229758
+		},
+		"RepairDesc": {
+			"hash": 0
+		},
+		"RepairSuccDesc": {
+			"hash": 0
+		},
+		"StateTypeList": [
+			102,
+			5,
+			3,
+			4,
+			100,
+			101
+		],
+		"ConditionList": [
+			{
+				"conditionID": 2034,
+				"stateID": 1021
+			},
+			{
+				"conditionID": 2061,
+				"stateID": 1020
+			}
+		],
+		"InitLevel": 1,
+		"MaxLevel": 15,
+		"MaterialList": [],
+		"IsShow": true,
+		"PrefabPath": "Canvas3D/Scene/SpawnPoints/Building_Quest",
+		"IconPath": "",
+		"MainStoryIDList": [
+			401005
+		],
+		"BranchStoryIDList": [],
+		"NPCHeadMarkOffsetPosition": [
+			0,
+			2.5,
+			0
+		],
+		"DataImpl": {},
+		"MainID": 20
+	},
+	{
+		"MapID": 1001,
+		"BuildingType": 3,
+		"IsLobbyBuilding": 1,
+		"BuildingName": {
+			"hash": 502229789
+		},
+		"RepairDesc": {
+			"hash": 2037517841
+		},
+		"RepairSuccDesc": {
+			"hash": -1840272433
+		},
+		"StateTypeList": [
+			6,
+			1,
+			2,
+			3,
+			4,
+			100
+		],
+		"ConditionList": [
+			{
+				"conditionID": 2066,
+				"stateID": 1032
+			},
+			{
+				"conditionID": 2036,
+				"stateID": 1033
+			},
+			{
+				"conditionID": 2045,
+				"stateID": 1035
+			},
+			{
+				"conditionID": 2037,
+				"stateID": 1035
+			},
+			{
+				"conditionID": 2079,
+				"stateID": 1034
+			},
+			{
+				"conditionID": 1030,
+				"stateID": 1030
+			},
+			{
+				"conditionID": 1031,
+				"stateID": 1031
+			}
+		],
+		"InitLevel": 0,
+		"MaxLevel": 15,
+		"MaterialList": [
+			122321
+		],
+		"IsShow": true,
+		"PrefabPath": "Canvas3D/Scene/SpawnPoints/Building_WorkShop",
+		"IconPath": "",
+		"MainStoryIDList": [],
+		"BranchStoryIDList": [
+			410204,
+			410401,
+			410402
+		],
+		"NPCHeadMarkOffsetPosition": [
+			0,
+			2.5,
+			0
+		],
+		"DataImpl": {},
+		"MainID": 30
+	},
+	{
+		"MapID": 1001,
+		"BuildingType": 4,
+		"IsLobbyBuilding": 1,
+		"BuildingName": {
+			"hash": 502229820
+		},
+		"RepairDesc": {
+			"hash": 0
+		},
+		"RepairSuccDesc": {
+			"hash": 0
+		},
+		"StateTypeList": [
+			6,
+			100
+		],
+		"ConditionList": [
+			{
+				"conditionID": 2065,
+				"stateID": 1041
+			},
+			{
+				"conditionID": 2039,
+				"stateID": 1042
+			},
+			{
+				"conditionID": 1040,
+				"stateID": 1040
+			}
+		],
+		"InitLevel": 1,
+		"MaxLevel": 1,
+		"MaterialList": [
+			122327
+		],
+		"IsShow": true,
+		"PrefabPath": "Canvas3D/Scene/SpawnPoints/Building_Storage",
+		"IconPath": "",
+		"MainStoryIDList": [],
+		"BranchStoryIDList": [
+			410203
+		],
+		"NPCHeadMarkOffsetPosition": [
+			0,
+			2.5,
+			0
+		],
+		"DataImpl": {},
+		"MainID": 40
+	},
+	{
+		"MapID": 1001,
+		"BuildingType": 5,
+		"IsLobbyBuilding": 0,
+		"BuildingName": {
+			"hash": 502229851
+		},
+		"RepairDesc": {
+			"hash": 2037517903
+		},
+		"RepairSuccDesc": {
+			"hash": -1840272371
+		},
+		"StateTypeList": [
+			1,
+			2,
+			100,
+			101,
+			102
+		],
+		"ConditionList": [],
+		"InitLevel": 0,
+		"MaxLevel": 1,
+		"MaterialList": [
+			122321
+		],
+		"IsShow": false,
+		"PrefabPath": "",
+		"IconPath": "",
+		"MainStoryIDList": [],
+		"BranchStoryIDList": [],
+		"NPCHeadMarkOffsetPosition": [],
+		"DataImpl": {},
+		"MainID": 50
+	},
+	{
+		"MapID": 1001,
+		"BuildingType": 5,
+		"IsLobbyBuilding": 0,
+		"BuildingName": {
+			"hash": 502229852
+		},
+		"RepairDesc": {
+			"hash": 2037517904
+		},
+		"RepairSuccDesc": {
+			"hash": -1840272370
+		},
+		"StateTypeList": [
+			1,
+			2,
+			100,
+			101,
+			102
+		],
+		"ConditionList": [],
+		"InitLevel": 0,
+		"MaxLevel": 1,
+		"MaterialList": [
+			122321
+		],
+		"IsShow": false,
+		"PrefabPath": "",
+		"IconPath": "",
+		"MainStoryIDList": [],
+		"BranchStoryIDList": [],
+		"NPCHeadMarkOffsetPosition": [],
+		"DataImpl": {},
+		"MainID": 51
+	},
+	{
+		"MapID": 1001,
+		"BuildingType": 5,
+		"IsLobbyBuilding": 0,
+		"BuildingName": {
+			"hash": 502229882
+		},
+		"RepairDesc": {
+			"hash": 2037517903
+		},
+		"RepairSuccDesc": {
+			"hash": -1840272371
+		},
+		"StateTypeList": [
+			1,
+			2,
+			100,
+			101,
+			102
+		],
+		"ConditionList": [],
+		"InitLevel": 0,
+		"MaxLevel": 1,
+		"MaterialList": [
+			122321
+		],
+		"IsShow": false,
+		"PrefabPath": "",
+		"IconPath": "",
+		"MainStoryIDList": [],
+		"BranchStoryIDList": [],
+		"NPCHeadMarkOffsetPosition": [],
+		"DataImpl": {},
+		"MainID": 60
+	},
+	{
+		"MapID": 1001,
+		"BuildingType": 5,
+		"IsLobbyBuilding": 0,
+		"BuildingName": {
+			"hash": 502229883
+		},
+		"RepairDesc": {
+			"hash": 2037517904
+		},
+		"RepairSuccDesc": {
+			"hash": -1840272370
+		},
+		"StateTypeList": [
+			1,
+			2,
+			100,
+			101,
+			102
+		],
+		"ConditionList": [],
+		"InitLevel": 0,
+		"MaxLevel": 1,
+		"MaterialList": [
+			122321
+		],
+		"IsShow": false,
+		"PrefabPath": "",
+		"IconPath": "",
+		"MainStoryIDList": [],
+		"BranchStoryIDList": [],
+		"NPCHeadMarkOffsetPosition": [],
+		"DataImpl": {},
+		"MainID": 61
+	},
+	{
+		"MapID": 1001,
+		"BuildingType": 6,
+		"IsLobbyBuilding": 0,
+		"BuildingName": {
+			"hash": 502229913
+		},
+		"RepairDesc": {
+			"hash": 2037517965
+		},
+		"RepairSuccDesc": {
+			"hash": -1840272309
+		},
+		"StateTypeList": [
+			2
+		],
+		"ConditionList": [],
+		"InitLevel": 0,
+		"MaxLevel": 1,
+		"MaterialList": [
+			122321
+		],
+		"IsShow": false,
+		"PrefabPath": "",
+		"IconPath": "",
+		"MainStoryIDList": [],
+		"BranchStoryIDList": [],
+		"NPCHeadMarkOffsetPosition": [],
+		"DataImpl": {},
+		"MainID": 70
+	},
+	{
+		"MapID": 1001,
+		"BuildingType": 6,
+		"IsLobbyBuilding": 0,
+		"BuildingName": {
+			"hash": 502229914
+		},
+		"RepairDesc": {
+			"hash": 2037517966
+		},
+		"RepairSuccDesc": {
+			"hash": -1840272308
+		},
+		"StateTypeList": [
+			2
+		],
+		"ConditionList": [],
+		"InitLevel": 0,
+		"MaxLevel": 1,
+		"MaterialList": [
+			122321
+		],
+		"IsShow": false,
+		"PrefabPath": "",
+		"IconPath": "",
+		"MainStoryIDList": [],
+		"BranchStoryIDList": [],
+		"NPCHeadMarkOffsetPosition": [],
+		"DataImpl": {},
+		"MainID": 71
+	},
+	{
+		"MapID": 1001,
+		"BuildingType": 6,
+		"IsLobbyBuilding": 0,
+		"BuildingName": {
+			"hash": 502229915
+		},
+		"RepairDesc": {
+			"hash": 2037517967
+		},
+		"RepairSuccDesc": {
+			"hash": -1840272307
+		},
+		"StateTypeList": [
+			2
+		],
+		"ConditionList": [],
+		"InitLevel": 0,
+		"MaxLevel": 1,
+		"MaterialList": [
+			122321
+		],
+		"IsShow": false,
+		"PrefabPath": "",
+		"IconPath": "",
+		"MainStoryIDList": [],
+		"BranchStoryIDList": [],
+		"NPCHeadMarkOffsetPosition": [],
+		"DataImpl": {},
+		"MainID": 72
+	},
+	{
+		"MapID": 1001,
+		"BuildingType": 6,
+		"IsLobbyBuilding": 0,
+		"BuildingName": {
+			"hash": 502229916
+		},
+		"RepairDesc": {
+			"hash": 2037517968
+		},
+		"RepairSuccDesc": {
+			"hash": -1840272306
+		},
+		"StateTypeList": [
+			2
+		],
+		"ConditionList": [],
+		"InitLevel": 0,
+		"MaxLevel": 1,
+		"MaterialList": [
+			122321
+		],
+		"IsShow": false,
+		"PrefabPath": "",
+		"IconPath": "",
+		"MainStoryIDList": [],
+		"BranchStoryIDList": [],
+		"NPCHeadMarkOffsetPosition": [],
+		"DataImpl": {},
+		"MainID": 73
+	},
+	{
+		"MapID": 1001,
+		"BuildingType": 6,
+		"IsLobbyBuilding": 0,
+		"BuildingName": {
+			"hash": 502229917
+		},
+		"RepairDesc": {
+			"hash": 2037517969
+		},
+		"RepairSuccDesc": {
+			"hash": -1840272305
+		},
+		"StateTypeList": [
+			2
+		],
+		"ConditionList": [],
+		"InitLevel": 0,
+		"MaxLevel": 1,
+		"MaterialList": [
+			122321
+		],
+		"IsShow": false,
+		"PrefabPath": "",
+		"IconPath": "",
+		"MainStoryIDList": [],
+		"BranchStoryIDList": [],
+		"NPCHeadMarkOffsetPosition": [],
+		"DataImpl": {},
+		"MainID": 74
+	},
+	{
+		"MapID": 1001,
+		"BuildingType": 6,
+		"IsLobbyBuilding": 0,
+		"BuildingName": {
+			"hash": 502229918
+		},
+		"RepairDesc": {
+			"hash": 2037517970
+		},
+		"RepairSuccDesc": {
+			"hash": -1840272304
+		},
+		"StateTypeList": [
+			2
+		],
+		"ConditionList": [],
+		"InitLevel": 0,
+		"MaxLevel": 1,
+		"MaterialList": [
+			122321
+		],
+		"IsShow": false,
+		"PrefabPath": "",
+		"IconPath": "",
+		"MainStoryIDList": [],
+		"BranchStoryIDList": [],
+		"NPCHeadMarkOffsetPosition": [],
+		"DataImpl": {},
+		"MainID": 75
+	},
+	{
+		"MapID": 1001,
+		"BuildingType": 6,
+		"IsLobbyBuilding": 0,
+		"BuildingName": {
+			"hash": 502229919
+		},
+		"RepairDesc": {
+			"hash": 2037517971
+		},
+		"RepairSuccDesc": {
+			"hash": -1840272303
+		},
+		"StateTypeList": [
+			2
+		],
+		"ConditionList": [],
+		"InitLevel": 0,
+		"MaxLevel": 1,
+		"MaterialList": [
+			122321
+		],
+		"IsShow": false,
+		"PrefabPath": "",
+		"IconPath": "",
+		"MainStoryIDList": [],
+		"BranchStoryIDList": [],
+		"NPCHeadMarkOffsetPosition": [],
+		"DataImpl": {},
+		"MainID": 76
+	},
+	{
+		"MapID": 1001,
+		"BuildingType": 6,
+		"IsLobbyBuilding": 0,
+		"BuildingName": {
+			"hash": 502229944
+		},
+		"RepairDesc": {
+			"hash": 2037517965
+		},
+		"RepairSuccDesc": {
+			"hash": -1840272309
+		},
+		"StateTypeList": [
+			2
+		],
+		"ConditionList": [],
+		"InitLevel": 1,
+		"MaxLevel": 1,
+		"MaterialList": [
+			122321
+		],
+		"IsShow": false,
+		"PrefabPath": "",
+		"IconPath": "",
+		"MainStoryIDList": [],
+		"BranchStoryIDList": [],
+		"NPCHeadMarkOffsetPosition": [],
+		"DataImpl": {},
+		"MainID": 80
+	},
+	{
+		"MapID": 1001,
+		"BuildingType": 6,
+		"IsLobbyBuilding": 0,
+		"BuildingName": {
+			"hash": 502229945
+		},
+		"RepairDesc": {
+			"hash": 2037517965
+		},
+		"RepairSuccDesc": {
+			"hash": -1840272309
+		},
+		"StateTypeList": [
+			2
+		],
+		"ConditionList": [],
+		"InitLevel": 0,
+		"MaxLevel": 1,
+		"MaterialList": [
+			122321
+		],
+		"IsShow": false,
+		"PrefabPath": "",
+		"IconPath": "",
+		"MainStoryIDList": [],
+		"BranchStoryIDList": [],
+		"NPCHeadMarkOffsetPosition": [],
+		"DataImpl": {},
+		"MainID": 81
+	},
+	{
+		"MapID": 1001,
+		"BuildingType": 6,
+		"IsLobbyBuilding": 0,
+		"BuildingName": {
+			"hash": 502229946
+		},
+		"RepairDesc": {
+			"hash": 2037517965
+		},
+		"RepairSuccDesc": {
+			"hash": -1840272309
+		},
+		"StateTypeList": [
+			2
+		],
+		"ConditionList": [],
+		"InitLevel": 0,
+		"MaxLevel": 1,
+		"MaterialList": [
+			122321
+		],
+		"IsShow": false,
+		"PrefabPath": "",
+		"IconPath": "",
+		"MainStoryIDList": [],
+		"BranchStoryIDList": [],
+		"NPCHeadMarkOffsetPosition": [],
+		"DataImpl": {},
+		"MainID": 82
+	},
+	{
+		"MapID": 1001,
+		"BuildingType": 6,
+		"IsLobbyBuilding": 0,
+		"BuildingName": {
+			"hash": 502229947
+		},
+		"RepairDesc": {
+			"hash": 2037517965
+		},
+		"RepairSuccDesc": {
+			"hash": -1840272309
+		},
+		"StateTypeList": [
+			2
+		],
+		"ConditionList": [],
+		"InitLevel": 0,
+		"MaxLevel": 1,
+		"MaterialList": [
+			122321
+		],
+		"IsShow": false,
+		"PrefabPath": "",
+		"IconPath": "",
+		"MainStoryIDList": [],
+		"BranchStoryIDList": [],
+		"NPCHeadMarkOffsetPosition": [],
+		"DataImpl": {},
+		"MainID": 83
+	},
+	{
+		"MapID": 1001,
+		"BuildingType": 6,
+		"IsLobbyBuilding": 0,
+		"BuildingName": {
+			"hash": 502229948
+		},
+		"RepairDesc": {
+			"hash": 2037517965
+		},
+		"RepairSuccDesc": {
+			"hash": -1840272309
+		},
+		"StateTypeList": [
+			2
+		],
+		"ConditionList": [],
+		"InitLevel": 0,
+		"MaxLevel": 1,
+		"MaterialList": [
+			122321
+		],
+		"IsShow": false,
+		"PrefabPath": "",
+		"IconPath": "",
+		"MainStoryIDList": [],
+		"BranchStoryIDList": [],
+		"NPCHeadMarkOffsetPosition": [],
+		"DataImpl": {},
+		"MainID": 84
+	},
+	{
+		"MapID": 1001,
+		"BuildingType": 6,
+		"IsLobbyBuilding": 0,
+		"BuildingName": {
+			"hash": 502229949
+		},
+		"RepairDesc": {
+			"hash": 2037517965
+		},
+		"RepairSuccDesc": {
+			"hash": -1840272309
+		},
+		"StateTypeList": [
+			2
+		],
+		"ConditionList": [],
+		"InitLevel": 0,
+		"MaxLevel": 1,
+		"MaterialList": [
+			122321
+		],
+		"IsShow": false,
+		"PrefabPath": "",
+		"IconPath": "",
+		"MainStoryIDList": [],
+		"BranchStoryIDList": [],
+		"NPCHeadMarkOffsetPosition": [],
+		"DataImpl": {},
+		"MainID": 85
+	},
+	{
+		"MapID": 1001,
+		"BuildingType": 6,
+		"IsLobbyBuilding": 0,
+		"BuildingName": {
+			"hash": 502229950
+		},
+		"RepairDesc": {
+			"hash": 2037517965
+		},
+		"RepairSuccDesc": {
+			"hash": -1840272309
+		},
+		"StateTypeList": [
+			2
+		],
+		"ConditionList": [],
+		"InitLevel": 0,
+		"MaxLevel": 1,
+		"MaterialList": [
+			122321
+		],
+		"IsShow": false,
+		"PrefabPath": "",
+		"IconPath": "",
+		"MainStoryIDList": [],
+		"BranchStoryIDList": [],
+		"NPCHeadMarkOffsetPosition": [],
+		"DataImpl": {},
+		"MainID": 86
+	},
+	{
+		"MapID": 1001,
+		"BuildingType": 6,
+		"IsLobbyBuilding": 0,
+		"BuildingName": {
+			"hash": 502229951
+		},
+		"RepairDesc": {
+			"hash": 2037517965
+		},
+		"RepairSuccDesc": {
+			"hash": -1840272309
+		},
+		"StateTypeList": [
+			2
+		],
+		"ConditionList": [],
+		"InitLevel": 0,
+		"MaxLevel": 1,
+		"MaterialList": [
+			122321
+		],
+		"IsShow": false,
+		"PrefabPath": "",
+		"IconPath": "",
+		"MainStoryIDList": [],
+		"BranchStoryIDList": [],
+		"NPCHeadMarkOffsetPosition": [],
+		"DataImpl": {},
+		"MainID": 87
+	}
+]

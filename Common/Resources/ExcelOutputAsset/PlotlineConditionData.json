@@ -1,0 +1,50 @@
+[
+	{
+		"ConditionType": 1,
+		"Param": "310001,3",
+		"DataImpl": {},
+		"ID": 999001
+	},
+	{
+		"ConditionType": 1,
+		"Param": "314001,3",
+		"DataImpl": {},
+		"ID": 999002
+	},
+	{
+		"ConditionType": 100,
+		"Param": "999001,999002",
+		"DataImpl": {},
+		"ID": 999003
+	},
+	{
+		"ConditionType": 101,
+		"Param": "999001,999002",
+		"DataImpl": {},
+		"ID": 999004
+	},
+	{
+		"ConditionType": 102,
+		"Param": "999001,999002",
+		"DataImpl": {},
+		"ID": 999005
+	},
+	{
+		"ConditionType": 2,
+		"Param": "2021-11-22 10:00:00,2022-02-14 04:00:00",
+		"DataImpl": {},
+		"ID": 999006
+	},
+	{
+		"ConditionType": 3,
+		"Param": "47,0,1",
+		"DataImpl": {},
+		"ID": 57202048
+	},
+	{
+		"ConditionType": 3,
+		"Param": "36,0,1,2",
+		"DataImpl": {},
+		"ID": 571920036
+	}
+]

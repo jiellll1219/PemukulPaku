@@ -1,0 +1,994 @@
+[
+	{
+		"name": {
+			"hash": -512036890
+		},
+		"rarity": 1,
+		"desc": {
+			"hash": -1953892064
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_Empty",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_Empty",
+		"isShow": true,
+		"UIShowOrder": 1,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200001
+	},
+	{
+		"name": {
+			"hash": -512036889
+		},
+		"rarity": 3,
+		"desc": {
+			"hash": -1953892063
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_Master",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_Master",
+		"isShow": true,
+		"UIShowOrder": 2,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200002
+	},
+	{
+		"name": {
+			"hash": -512036888
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953892062
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_Master2",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_Master2",
+		"isShow": true,
+		"UIShowOrder": 3,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200003
+	},
+	{
+		"name": {
+			"hash": -512036887
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953892061
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_Crystal",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_Crystal",
+		"isShow": true,
+		"UIShowOrder": 4,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200004
+	},
+	{
+		"name": {
+			"hash": -512036886
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953892060
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_OceanRaid",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_OceanRaid",
+		"isShow": true,
+		"UIShowOrder": 4,
+		"Type": 1,
+		"DataImpl": {},
+		"id": 200005
+	},
+	{
+		"name": {
+			"hash": -512036885
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953892059
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_LevelBreak",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_LevelBreak",
+		"isShow": true,
+		"UIShowOrder": 5,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200006
+	},
+	{
+		"name": {
+			"hash": -512036884
+		},
+		"rarity": 3,
+		"desc": {
+			"hash": -1953892058
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_KindomWar2019",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_KindomWar2019",
+		"isShow": true,
+		"UIShowOrder": 6,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200007
+	},
+	{
+		"name": {
+			"hash": -512036860
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953892034
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_BattlePass",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_BattlePass",
+		"isShow": true,
+		"UIShowOrder": 10,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200010
+	},
+	{
+		"name": {
+			"hash": -512036859
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953892033
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200011",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200011",
+		"isShow": true,
+		"UIShowOrder": 11,
+		"Type": 1,
+		"DataImpl": {},
+		"id": 200011
+	},
+	{
+		"name": {
+			"hash": -512036858
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953892032
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200012",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200012",
+		"isShow": true,
+		"UIShowOrder": 12,
+		"Type": 1,
+		"DataImpl": {},
+		"id": 200012
+	},
+	{
+		"name": {
+			"hash": -512036857
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953892031
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_BattlePassS2",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_BattlePassS2",
+		"isShow": true,
+		"UIShowOrder": 13,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200013
+	},
+	{
+		"name": {
+			"hash": -512036856
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953892030
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_Login01",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_Login01",
+		"isShow": true,
+		"UIShowOrder": 7,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200014
+	},
+	{
+		"name": {
+			"hash": -512036855
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953892029
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_Login02",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_Login02",
+		"isShow": true,
+		"UIShowOrder": 8,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200015
+	},
+	{
+		"name": {
+			"hash": -512036854
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953892028
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_BattlePassS3",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_BattlePassS3",
+		"isShow": true,
+		"UIShowOrder": 14,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200016
+	},
+	{
+		"name": {
+			"hash": -512036853
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953892027
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_Seele",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_Seele",
+		"isShow": true,
+		"UIShowOrder": 15,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200017
+	},
+	{
+		"name": {
+			"hash": -512036852
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953892026
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_BattlePassS4",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_BattlePassS4",
+		"isShow": true,
+		"UIShowOrder": 16,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200018
+	},
+	{
+		"name": {
+			"hash": -512036851
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953892025
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_BattlePassS5",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_BattlePassS5",
+		"isShow": true,
+		"UIShowOrder": 17,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200019
+	},
+	{
+		"name": {
+			"hash": -512036829
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953892003
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_FukaC4",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_FukaC4",
+		"isShow": true,
+		"UIShowOrder": 18,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200020
+	},
+	{
+		"name": {
+			"hash": -512036828
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953892002
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_AichanFarm",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_AichanFarm",
+		"isShow": true,
+		"UIShowOrder": 19,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200021
+	},
+	{
+		"name": {
+			"hash": -512036827
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953892001
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_BattlePassS6",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_BattlePassS6",
+		"isShow": true,
+		"UIShowOrder": 20,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200022
+	},
+	{
+		"name": {
+			"hash": -512036826
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953892000
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_BattlePassS7",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_BattlePassS7",
+		"isShow": true,
+		"UIShowOrder": 21,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200023
+	},
+	{
+		"name": {
+			"hash": -512036825
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953891999
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_Tmall",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_Tmall",
+		"isShow": false,
+		"UIShowOrder": 22,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200024
+	},
+	{
+		"name": {
+			"hash": -512036824
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953891998
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_DuanWu",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_DuanWu",
+		"isShow": true,
+		"UIShowOrder": 23,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200025
+	},
+	{
+		"name": {
+			"hash": -512036823
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953891997
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_MeiDragon",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_MeiDragon",
+		"isShow": true,
+		"UIShowOrder": 24,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200026
+	},
+	{
+		"name": {
+			"hash": -512036822
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953891996
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_BattlePassS8",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_BattlePassS8",
+		"isShow": true,
+		"UIShowOrder": 24,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200027
+	},
+	{
+		"name": {
+			"hash": -512036821
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953891995
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_4thAnniversary",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_4thAnniversary",
+		"isShow": true,
+		"UIShowOrder": 25,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200028
+	},
+	{
+		"name": {
+			"hash": -512036820
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953891994
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_20KCharge",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_20KCharge",
+		"isShow": true,
+		"UIShowOrder": 26,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200029
+	},
+	{
+		"name": {
+			"hash": -512036798
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953891972
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_Login03",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_Login03",
+		"isShow": true,
+		"UIShowOrder": 9,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200030
+	},
+	{
+		"name": {
+			"hash": -512036797
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953891971
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_BattlePassS9",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_BattlePassS9",
+		"isShow": true,
+		"UIShowOrder": 27,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200031
+	},
+	{
+		"name": {
+			"hash": -512036796
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953891970
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200031",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200031",
+		"isShow": true,
+		"UIShowOrder": 28,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200032
+	},
+	{
+		"name": {
+			"hash": -512036795
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953891969
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200033",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200033",
+		"isShow": true,
+		"UIShowOrder": 29,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200033
+	},
+	{
+		"name": {
+			"hash": -512036793
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953891967
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200035",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200035",
+		"isShow": true,
+		"UIShowOrder": 31,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200035
+	},
+	{
+		"name": {
+			"hash": -512036792
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953891966
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200036",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200036",
+		"isShow": true,
+		"UIShowOrder": 32,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200036
+	},
+	{
+		"name": {
+			"hash": -512036791
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953891965
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200037",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200037",
+		"isShow": true,
+		"UIShowOrder": 33,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200037
+	},
+	{
+		"name": {
+			"hash": -512036790
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953891964
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200038",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200038",
+		"isShow": true,
+		"UIShowOrder": 34,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200038
+	},
+	{
+		"name": {
+			"hash": -512036767
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953891941
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200040",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200040",
+		"isShow": true,
+		"UIShowOrder": 35,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200040
+	},
+	{
+		"name": {
+			"hash": -512036766
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953891940
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200041",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200041",
+		"isShow": true,
+		"UIShowOrder": 36,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200041
+	},
+	{
+		"name": {
+			"hash": -512036765
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953891939
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200042",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200042",
+		"isShow": true,
+		"UIShowOrder": 37,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200042
+	},
+	{
+		"name": {
+			"hash": -512036764
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953891938
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200043",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200043",
+		"isShow": true,
+		"UIShowOrder": 38,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200043
+	},
+	{
+		"name": {
+			"hash": -512036763
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953891937
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200044",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200044",
+		"isShow": true,
+		"UIShowOrder": 39,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200044
+	},
+	{
+		"name": {
+			"hash": -512036762
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953891936
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200045",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200045",
+		"isShow": true,
+		"UIShowOrder": 40,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200045
+	},
+	{
+		"name": {
+			"hash": -512036761
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953891935
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200046",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200046",
+		"isShow": true,
+		"UIShowOrder": 41,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200046
+	},
+	{
+		"name": {
+			"hash": -512036760
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953891934
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200047",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200047",
+		"isShow": true,
+		"UIShowOrder": 42,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200047
+	},
+	{
+		"name": {
+			"hash": -512036758
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953891932
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200049",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200049",
+		"isShow": true,
+		"UIShowOrder": 44,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200049
+	},
+	{
+		"name": {
+			"hash": -512036736
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953891910
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200050",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200050",
+		"isShow": true,
+		"UIShowOrder": 45,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200050
+	},
+	{
+		"name": {
+			"hash": -512036735
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953891909
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200051",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200051",
+		"isShow": true,
+		"UIShowOrder": 46,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200051
+	},
+	{
+		"name": {
+			"hash": -512036734
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953891908
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200052",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200052",
+		"isShow": true,
+		"UIShowOrder": 47,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200052
+	},
+	{
+		"name": {
+			"hash": -512036733
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953891907
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200053",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200053",
+		"isShow": true,
+		"UIShowOrder": 48,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200053
+	},
+	{
+		"name": {
+			"hash": -512036731
+		},
+		"rarity": 5,
+		"desc": {
+			"hash": -1953891905
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200055",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200055",
+		"isShow": true,
+		"UIShowOrder": 49,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200055
+	},
+	{
+		"name": {
+			"hash": -512036730
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953891904
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200056",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200056",
+		"isShow": true,
+		"UIShowOrder": 50,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200056
+	},
+	{
+		"name": {
+			"hash": -512036729
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953891903
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200057",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200057",
+		"isShow": true,
+		"UIShowOrder": 51,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200057
+	},
+	{
+		"name": {
+			"hash": -512036728
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953891902
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200058",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200058",
+		"isShow": true,
+		"UIShowOrder": 52,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200058
+	},
+	{
+		"name": {
+			"hash": -512036727
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953891901
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200059",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200059",
+		"isShow": true,
+		"UIShowOrder": 53,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200059
+	},
+	{
+		"name": {
+			"hash": -512036705
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953891879
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200060",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200060",
+		"isShow": true,
+		"UIShowOrder": 54,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200060
+	},
+	{
+		"name": {
+			"hash": -512036704
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953891878
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200061",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200061",
+		"isShow": false,
+		"UIShowOrder": 55,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200061
+	},
+	{
+		"name": {
+			"hash": -512036703
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953891877
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200062",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200062",
+		"isShow": true,
+		"UIShowOrder": 56,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200062
+	},
+	{
+		"name": {
+			"hash": -512036702
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953891876
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200063",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200063",
+		"isShow": true,
+		"UIShowOrder": 57,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200063
+	},
+	{
+		"name": {
+			"hash": -512036701
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953891875
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200064",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200064",
+		"isShow": true,
+		"UIShowOrder": 58,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200064
+	},
+	{
+		"name": {
+			"hash": -512036700
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953891874
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200065",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200065",
+		"isShow": true,
+		"UIShowOrder": 59,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200065
+	},
+	{
+		"name": {
+			"hash": -512036699
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953891873
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200066",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200066",
+		"isShow": true,
+		"UIShowOrder": 60,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200066
+	},
+	{
+		"name": {
+			"hash": -512036698
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953891872
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200067",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200067",
+		"isShow": true,
+		"UIShowOrder": 61,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200067
+	},
+	{
+		"name": {
+			"hash": -512036697
+		},
+		"rarity": 4,
+		"desc": {
+			"hash": -1953891871
+		},
+		"iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200068",
+		"imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200068",
+		"isShow": true,
+		"UIShowOrder": 62,
+		"Type": 0,
+		"DataImpl": {},
+		"id": 200068
+	}
+]

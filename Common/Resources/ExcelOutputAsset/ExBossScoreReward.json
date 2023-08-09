@@ -1,0 +1,4162 @@
+[
+	{
+		"configId": 101,
+		"score": 1200,
+		"rewardId": 1211021,
+		"scheduleId": 0,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 111
+	},
+	{
+		"configId": 101,
+		"score": 2500,
+		"rewardId": 1211022,
+		"scheduleId": 0,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 112
+	},
+	{
+		"configId": 101,
+		"score": 6000,
+		"rewardId": 1211023,
+		"scheduleId": 0,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 113
+	},
+	{
+		"configId": 101,
+		"score": 10000,
+		"rewardId": 1211024,
+		"scheduleId": 0,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 114
+	},
+	{
+		"configId": 101,
+		"score": 13000,
+		"rewardId": 1211025,
+		"scheduleId": 0,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 115
+	},
+	{
+		"configId": 101,
+		"score": 16000,
+		"rewardId": 1211026,
+		"scheduleId": 0,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 116
+	},
+	{
+		"configId": 101,
+		"score": 20000,
+		"rewardId": 1211027,
+		"scheduleId": 0,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 117
+	},
+	{
+		"configId": 102,
+		"score": 1200,
+		"rewardId": 1212021,
+		"scheduleId": 0,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 211
+	},
+	{
+		"configId": 102,
+		"score": 2500,
+		"rewardId": 1212022,
+		"scheduleId": 0,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 212
+	},
+	{
+		"configId": 102,
+		"score": 6000,
+		"rewardId": 1212023,
+		"scheduleId": 0,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 213
+	},
+	{
+		"configId": 102,
+		"score": 10000,
+		"rewardId": 1212024,
+		"scheduleId": 0,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 214
+	},
+	{
+		"configId": 102,
+		"score": 13000,
+		"rewardId": 1212025,
+		"scheduleId": 0,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 215
+	},
+	{
+		"configId": 102,
+		"score": 16000,
+		"rewardId": 1212026,
+		"scheduleId": 0,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 216
+	},
+	{
+		"configId": 102,
+		"score": 20000,
+		"rewardId": 1212027,
+		"scheduleId": 0,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 217
+	},
+	{
+		"configId": 103,
+		"score": 2000,
+		"rewardId": 1204080,
+		"scheduleId": 0,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 501
+	},
+	{
+		"configId": 103,
+		"score": 4000,
+		"rewardId": 1204081,
+		"scheduleId": 0,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 502
+	},
+	{
+		"configId": 103,
+		"score": 6000,
+		"rewardId": 1204082,
+		"scheduleId": 0,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 503
+	},
+	{
+		"configId": 103,
+		"score": 9000,
+		"rewardId": 1204083,
+		"scheduleId": 0,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 504
+	},
+	{
+		"configId": 103,
+		"score": 12000,
+		"rewardId": 1204084,
+		"scheduleId": 0,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 505
+	},
+	{
+		"configId": 103,
+		"score": 16000,
+		"rewardId": 1204085,
+		"scheduleId": 0,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 506
+	},
+	{
+		"configId": 103,
+		"score": 20000,
+		"rewardId": 1204086,
+		"scheduleId": 0,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 507
+	},
+	{
+		"configId": 103,
+		"score": 24000,
+		"rewardId": 1204087,
+		"scheduleId": 0,
+		"IsEvent": 0,
+		"TimesScore": 8,
+		"DataImpl": {},
+		"ID": 508
+	},
+	{
+		"configId": 103,
+		"score": 30000,
+		"rewardId": 1204088,
+		"scheduleId": 0,
+		"IsEvent": 0,
+		"TimesScore": 10,
+		"DataImpl": {},
+		"ID": 509
+	},
+	{
+		"configId": 103,
+		"score": 2000,
+		"rewardId": 1204080,
+		"scheduleId": 1111,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 511
+	},
+	{
+		"configId": 103,
+		"score": 4000,
+		"rewardId": 1204081,
+		"scheduleId": 1111,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 512
+	},
+	{
+		"configId": 103,
+		"score": 6000,
+		"rewardId": 1204082,
+		"scheduleId": 1111,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 513
+	},
+	{
+		"configId": 103,
+		"score": 9000,
+		"rewardId": 1204083,
+		"scheduleId": 1111,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 514
+	},
+	{
+		"configId": 103,
+		"score": 12000,
+		"rewardId": 1204084,
+		"scheduleId": 1111,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 515
+	},
+	{
+		"configId": 103,
+		"score": 16000,
+		"rewardId": 1204085,
+		"scheduleId": 1111,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 516
+	},
+	{
+		"configId": 103,
+		"score": 20000,
+		"rewardId": 1204086,
+		"scheduleId": 1111,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 517
+	},
+	{
+		"configId": 103,
+		"score": 24000,
+		"rewardId": 1204087,
+		"scheduleId": 1111,
+		"IsEvent": 0,
+		"TimesScore": 8,
+		"DataImpl": {},
+		"ID": 518
+	},
+	{
+		"configId": 103,
+		"score": 30000,
+		"rewardId": 1204088,
+		"scheduleId": 1111,
+		"IsEvent": 0,
+		"TimesScore": 10,
+		"DataImpl": {},
+		"ID": 519
+	},
+	{
+		"configId": 103,
+		"score": 2000,
+		"rewardId": 1204080,
+		"scheduleId": 10205,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 521
+	},
+	{
+		"configId": 103,
+		"score": 4000,
+		"rewardId": 1204081,
+		"scheduleId": 10205,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 522
+	},
+	{
+		"configId": 103,
+		"score": 6000,
+		"rewardId": 1204082,
+		"scheduleId": 10205,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 523
+	},
+	{
+		"configId": 103,
+		"score": 9000,
+		"rewardId": 1204083,
+		"scheduleId": 10205,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 524
+	},
+	{
+		"configId": 103,
+		"score": 12000,
+		"rewardId": 1204084,
+		"scheduleId": 10205,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 525
+	},
+	{
+		"configId": 103,
+		"score": 16000,
+		"rewardId": 1204085,
+		"scheduleId": 10205,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 526
+	},
+	{
+		"configId": 103,
+		"score": 20000,
+		"rewardId": 1204086,
+		"scheduleId": 10205,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 527
+	},
+	{
+		"configId": 103,
+		"score": 24000,
+		"rewardId": 1204087,
+		"scheduleId": 10205,
+		"IsEvent": 0,
+		"TimesScore": 8,
+		"DataImpl": {},
+		"ID": 528
+	},
+	{
+		"configId": 103,
+		"score": 30000,
+		"rewardId": 1204088,
+		"scheduleId": 10205,
+		"IsEvent": 0,
+		"TimesScore": 10,
+		"DataImpl": {},
+		"ID": 529
+	},
+	{
+		"configId": 103,
+		"score": 2000,
+		"rewardId": 1204080,
+		"scheduleId": 10206,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 531
+	},
+	{
+		"configId": 103,
+		"score": 4000,
+		"rewardId": 1204081,
+		"scheduleId": 10206,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 532
+	},
+	{
+		"configId": 103,
+		"score": 6000,
+		"rewardId": 1204082,
+		"scheduleId": 10206,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 533
+	},
+	{
+		"configId": 103,
+		"score": 9000,
+		"rewardId": 1204083,
+		"scheduleId": 10206,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 534
+	},
+	{
+		"configId": 103,
+		"score": 12000,
+		"rewardId": 1204084,
+		"scheduleId": 10206,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 535
+	},
+	{
+		"configId": 103,
+		"score": 16000,
+		"rewardId": 1204085,
+		"scheduleId": 10206,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 536
+	},
+	{
+		"configId": 103,
+		"score": 20000,
+		"rewardId": 1204086,
+		"scheduleId": 10206,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 537
+	},
+	{
+		"configId": 103,
+		"score": 24000,
+		"rewardId": 1204087,
+		"scheduleId": 10206,
+		"IsEvent": 0,
+		"TimesScore": 8,
+		"DataImpl": {},
+		"ID": 538
+	},
+	{
+		"configId": 103,
+		"score": 30000,
+		"rewardId": 1204088,
+		"scheduleId": 10206,
+		"IsEvent": 0,
+		"TimesScore": 10,
+		"DataImpl": {},
+		"ID": 539
+	},
+	{
+		"configId": 103,
+		"score": 2000,
+		"rewardId": 1204080,
+		"scheduleId": 10207,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 541
+	},
+	{
+		"configId": 103,
+		"score": 4000,
+		"rewardId": 1204081,
+		"scheduleId": 10207,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 542
+	},
+	{
+		"configId": 103,
+		"score": 6000,
+		"rewardId": 1204082,
+		"scheduleId": 10207,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 543
+	},
+	{
+		"configId": 103,
+		"score": 9000,
+		"rewardId": 1204083,
+		"scheduleId": 10207,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 544
+	},
+	{
+		"configId": 103,
+		"score": 12000,
+		"rewardId": 1204084,
+		"scheduleId": 10207,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 545
+	},
+	{
+		"configId": 103,
+		"score": 16000,
+		"rewardId": 1204085,
+		"scheduleId": 10207,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 546
+	},
+	{
+		"configId": 103,
+		"score": 20000,
+		"rewardId": 1204086,
+		"scheduleId": 10207,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 547
+	},
+	{
+		"configId": 103,
+		"score": 24000,
+		"rewardId": 1204087,
+		"scheduleId": 10207,
+		"IsEvent": 0,
+		"TimesScore": 8,
+		"DataImpl": {},
+		"ID": 548
+	},
+	{
+		"configId": 103,
+		"score": 30000,
+		"rewardId": 1204088,
+		"scheduleId": 10207,
+		"IsEvent": 0,
+		"TimesScore": 10,
+		"DataImpl": {},
+		"ID": 549
+	},
+	{
+		"configId": 103,
+		"score": 2000,
+		"rewardId": 1204080,
+		"scheduleId": 10208,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 551
+	},
+	{
+		"configId": 103,
+		"score": 4000,
+		"rewardId": 1204081,
+		"scheduleId": 10208,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 552
+	},
+	{
+		"configId": 103,
+		"score": 6000,
+		"rewardId": 1204082,
+		"scheduleId": 10208,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 553
+	},
+	{
+		"configId": 103,
+		"score": 9000,
+		"rewardId": 1204083,
+		"scheduleId": 10208,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 554
+	},
+	{
+		"configId": 103,
+		"score": 12000,
+		"rewardId": 1204084,
+		"scheduleId": 10208,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 555
+	},
+	{
+		"configId": 103,
+		"score": 16000,
+		"rewardId": 1204085,
+		"scheduleId": 10208,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 556
+	},
+	{
+		"configId": 103,
+		"score": 20000,
+		"rewardId": 1204086,
+		"scheduleId": 10208,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 557
+	},
+	{
+		"configId": 103,
+		"score": 24000,
+		"rewardId": 1204087,
+		"scheduleId": 10208,
+		"IsEvent": 0,
+		"TimesScore": 8,
+		"DataImpl": {},
+		"ID": 558
+	},
+	{
+		"configId": 103,
+		"score": 30000,
+		"rewardId": 1204088,
+		"scheduleId": 10208,
+		"IsEvent": 0,
+		"TimesScore": 10,
+		"DataImpl": {},
+		"ID": 559
+	},
+	{
+		"configId": 103,
+		"score": 2000,
+		"rewardId": 1204080,
+		"scheduleId": 10209,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 561
+	},
+	{
+		"configId": 103,
+		"score": 4000,
+		"rewardId": 1204081,
+		"scheduleId": 10209,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 562
+	},
+	{
+		"configId": 103,
+		"score": 6000,
+		"rewardId": 1204082,
+		"scheduleId": 10209,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 563
+	},
+	{
+		"configId": 103,
+		"score": 9000,
+		"rewardId": 1204083,
+		"scheduleId": 10209,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 564
+	},
+	{
+		"configId": 103,
+		"score": 12000,
+		"rewardId": 1204084,
+		"scheduleId": 10209,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 565
+	},
+	{
+		"configId": 103,
+		"score": 16000,
+		"rewardId": 1204085,
+		"scheduleId": 10209,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 566
+	},
+	{
+		"configId": 103,
+		"score": 20000,
+		"rewardId": 1204086,
+		"scheduleId": 10209,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 567
+	},
+	{
+		"configId": 103,
+		"score": 24000,
+		"rewardId": 1204087,
+		"scheduleId": 10209,
+		"IsEvent": 0,
+		"TimesScore": 8,
+		"DataImpl": {},
+		"ID": 568
+	},
+	{
+		"configId": 103,
+		"score": 30000,
+		"rewardId": 1204088,
+		"scheduleId": 10209,
+		"IsEvent": 0,
+		"TimesScore": 10,
+		"DataImpl": {},
+		"ID": 569
+	},
+	{
+		"configId": 104,
+		"score": 2000,
+		"rewardId": 1204090,
+		"scheduleId": 0,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 601
+	},
+	{
+		"configId": 104,
+		"score": 4000,
+		"rewardId": 1204091,
+		"scheduleId": 0,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 602
+	},
+	{
+		"configId": 104,
+		"score": 6000,
+		"rewardId": 1204092,
+		"scheduleId": 0,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 603
+	},
+	{
+		"configId": 104,
+		"score": 9000,
+		"rewardId": 1204093,
+		"scheduleId": 0,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 604
+	},
+	{
+		"configId": 104,
+		"score": 12000,
+		"rewardId": 1204094,
+		"scheduleId": 0,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 605
+	},
+	{
+		"configId": 104,
+		"score": 16000,
+		"rewardId": 1204095,
+		"scheduleId": 0,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 606
+	},
+	{
+		"configId": 104,
+		"score": 20000,
+		"rewardId": 1204096,
+		"scheduleId": 0,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 607
+	},
+	{
+		"configId": 104,
+		"score": 24000,
+		"rewardId": 1204097,
+		"scheduleId": 0,
+		"IsEvent": 0,
+		"TimesScore": 8,
+		"DataImpl": {},
+		"ID": 608
+	},
+	{
+		"configId": 104,
+		"score": 30000,
+		"rewardId": 1204098,
+		"scheduleId": 0,
+		"IsEvent": 0,
+		"TimesScore": 10,
+		"DataImpl": {},
+		"ID": 609
+	},
+	{
+		"configId": 104,
+		"score": 2000,
+		"rewardId": 1204090,
+		"scheduleId": 1111,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 611
+	},
+	{
+		"configId": 104,
+		"score": 4000,
+		"rewardId": 1204091,
+		"scheduleId": 1111,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 612
+	},
+	{
+		"configId": 104,
+		"score": 6000,
+		"rewardId": 1204092,
+		"scheduleId": 1111,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 613
+	},
+	{
+		"configId": 104,
+		"score": 9000,
+		"rewardId": 1204093,
+		"scheduleId": 1111,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 614
+	},
+	{
+		"configId": 104,
+		"score": 12000,
+		"rewardId": 1204094,
+		"scheduleId": 1111,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 615
+	},
+	{
+		"configId": 104,
+		"score": 16000,
+		"rewardId": 1204095,
+		"scheduleId": 1111,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 616
+	},
+	{
+		"configId": 104,
+		"score": 20000,
+		"rewardId": 1204096,
+		"scheduleId": 1111,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 617
+	},
+	{
+		"configId": 104,
+		"score": 24000,
+		"rewardId": 1204097,
+		"scheduleId": 1111,
+		"IsEvent": 0,
+		"TimesScore": 8,
+		"DataImpl": {},
+		"ID": 618
+	},
+	{
+		"configId": 104,
+		"score": 30000,
+		"rewardId": 1204098,
+		"scheduleId": 1111,
+		"IsEvent": 0,
+		"TimesScore": 10,
+		"DataImpl": {},
+		"ID": 619
+	},
+	{
+		"configId": 104,
+		"score": 2000,
+		"rewardId": 1204090,
+		"scheduleId": 10205,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 621
+	},
+	{
+		"configId": 104,
+		"score": 4000,
+		"rewardId": 1204091,
+		"scheduleId": 10205,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 622
+	},
+	{
+		"configId": 104,
+		"score": 6000,
+		"rewardId": 1204092,
+		"scheduleId": 10205,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 623
+	},
+	{
+		"configId": 104,
+		"score": 9000,
+		"rewardId": 1204093,
+		"scheduleId": 10205,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 624
+	},
+	{
+		"configId": 104,
+		"score": 12000,
+		"rewardId": 1204094,
+		"scheduleId": 10205,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 625
+	},
+	{
+		"configId": 104,
+		"score": 16000,
+		"rewardId": 1204095,
+		"scheduleId": 10205,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 626
+	},
+	{
+		"configId": 104,
+		"score": 20000,
+		"rewardId": 1204096,
+		"scheduleId": 10205,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 627
+	},
+	{
+		"configId": 104,
+		"score": 24000,
+		"rewardId": 1204097,
+		"scheduleId": 10205,
+		"IsEvent": 0,
+		"TimesScore": 8,
+		"DataImpl": {},
+		"ID": 628
+	},
+	{
+		"configId": 104,
+		"score": 30000,
+		"rewardId": 1204098,
+		"scheduleId": 10205,
+		"IsEvent": 0,
+		"TimesScore": 10,
+		"DataImpl": {},
+		"ID": 629
+	},
+	{
+		"configId": 104,
+		"score": 2000,
+		"rewardId": 1204090,
+		"scheduleId": 10206,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 631
+	},
+	{
+		"configId": 104,
+		"score": 4000,
+		"rewardId": 1204091,
+		"scheduleId": 10206,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 632
+	},
+	{
+		"configId": 104,
+		"score": 6000,
+		"rewardId": 1204092,
+		"scheduleId": 10206,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 633
+	},
+	{
+		"configId": 104,
+		"score": 9000,
+		"rewardId": 1204093,
+		"scheduleId": 10206,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 634
+	},
+	{
+		"configId": 104,
+		"score": 12000,
+		"rewardId": 1204094,
+		"scheduleId": 10206,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 635
+	},
+	{
+		"configId": 104,
+		"score": 16000,
+		"rewardId": 1204095,
+		"scheduleId": 10206,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 636
+	},
+	{
+		"configId": 104,
+		"score": 20000,
+		"rewardId": 1204096,
+		"scheduleId": 10206,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 637
+	},
+	{
+		"configId": 104,
+		"score": 24000,
+		"rewardId": 1204097,
+		"scheduleId": 10206,
+		"IsEvent": 0,
+		"TimesScore": 8,
+		"DataImpl": {},
+		"ID": 638
+	},
+	{
+		"configId": 104,
+		"score": 30000,
+		"rewardId": 1204098,
+		"scheduleId": 10206,
+		"IsEvent": 0,
+		"TimesScore": 10,
+		"DataImpl": {},
+		"ID": 639
+	},
+	{
+		"configId": 104,
+		"score": 2000,
+		"rewardId": 1204090,
+		"scheduleId": 10207,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 641
+	},
+	{
+		"configId": 104,
+		"score": 4000,
+		"rewardId": 1204091,
+		"scheduleId": 10207,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 642
+	},
+	{
+		"configId": 104,
+		"score": 6000,
+		"rewardId": 1204092,
+		"scheduleId": 10207,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 643
+	},
+	{
+		"configId": 104,
+		"score": 9000,
+		"rewardId": 1204093,
+		"scheduleId": 10207,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 644
+	},
+	{
+		"configId": 104,
+		"score": 12000,
+		"rewardId": 1204094,
+		"scheduleId": 10207,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 645
+	},
+	{
+		"configId": 104,
+		"score": 16000,
+		"rewardId": 1204095,
+		"scheduleId": 10207,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 646
+	},
+	{
+		"configId": 104,
+		"score": 20000,
+		"rewardId": 1204096,
+		"scheduleId": 10207,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 647
+	},
+	{
+		"configId": 104,
+		"score": 24000,
+		"rewardId": 1204097,
+		"scheduleId": 10207,
+		"IsEvent": 0,
+		"TimesScore": 8,
+		"DataImpl": {},
+		"ID": 648
+	},
+	{
+		"configId": 104,
+		"score": 30000,
+		"rewardId": 1204098,
+		"scheduleId": 10207,
+		"IsEvent": 0,
+		"TimesScore": 10,
+		"DataImpl": {},
+		"ID": 649
+	},
+	{
+		"configId": 104,
+		"score": 2000,
+		"rewardId": 1204090,
+		"scheduleId": 10208,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 651
+	},
+	{
+		"configId": 104,
+		"score": 4000,
+		"rewardId": 1204091,
+		"scheduleId": 10208,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 652
+	},
+	{
+		"configId": 104,
+		"score": 6000,
+		"rewardId": 1204092,
+		"scheduleId": 10208,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 653
+	},
+	{
+		"configId": 104,
+		"score": 9000,
+		"rewardId": 1204093,
+		"scheduleId": 10208,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 654
+	},
+	{
+		"configId": 104,
+		"score": 12000,
+		"rewardId": 1204094,
+		"scheduleId": 10208,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 655
+	},
+	{
+		"configId": 104,
+		"score": 16000,
+		"rewardId": 1204095,
+		"scheduleId": 10208,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 656
+	},
+	{
+		"configId": 104,
+		"score": 20000,
+		"rewardId": 1204096,
+		"scheduleId": 10208,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 657
+	},
+	{
+		"configId": 104,
+		"score": 24000,
+		"rewardId": 1204097,
+		"scheduleId": 10208,
+		"IsEvent": 0,
+		"TimesScore": 8,
+		"DataImpl": {},
+		"ID": 658
+	},
+	{
+		"configId": 104,
+		"score": 30000,
+		"rewardId": 1204098,
+		"scheduleId": 10208,
+		"IsEvent": 0,
+		"TimesScore": 10,
+		"DataImpl": {},
+		"ID": 659
+	},
+	{
+		"configId": 104,
+		"score": 2000,
+		"rewardId": 1204090,
+		"scheduleId": 10209,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 661
+	},
+	{
+		"configId": 104,
+		"score": 4000,
+		"rewardId": 1204091,
+		"scheduleId": 10209,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 662
+	},
+	{
+		"configId": 104,
+		"score": 6000,
+		"rewardId": 1204092,
+		"scheduleId": 10209,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 663
+	},
+	{
+		"configId": 104,
+		"score": 9000,
+		"rewardId": 1204093,
+		"scheduleId": 10209,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 664
+	},
+	{
+		"configId": 104,
+		"score": 12000,
+		"rewardId": 1204094,
+		"scheduleId": 10209,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 665
+	},
+	{
+		"configId": 104,
+		"score": 16000,
+		"rewardId": 1204095,
+		"scheduleId": 10209,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 666
+	},
+	{
+		"configId": 104,
+		"score": 20000,
+		"rewardId": 1204096,
+		"scheduleId": 10209,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 667
+	},
+	{
+		"configId": 104,
+		"score": 24000,
+		"rewardId": 1204097,
+		"scheduleId": 10209,
+		"IsEvent": 0,
+		"TimesScore": 8,
+		"DataImpl": {},
+		"ID": 668
+	},
+	{
+		"configId": 104,
+		"score": 30000,
+		"rewardId": 1204098,
+		"scheduleId": 10209,
+		"IsEvent": 0,
+		"TimesScore": 10,
+		"DataImpl": {},
+		"ID": 669
+	},
+	{
+		"configId": 101,
+		"score": 1200,
+		"rewardId": 1211021,
+		"scheduleId": 1111,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 711
+	},
+	{
+		"configId": 101,
+		"score": 2500,
+		"rewardId": 1211022,
+		"scheduleId": 1111,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 712
+	},
+	{
+		"configId": 101,
+		"score": 6000,
+		"rewardId": 1211023,
+		"scheduleId": 1111,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 713
+	},
+	{
+		"configId": 101,
+		"score": 10000,
+		"rewardId": 1211024,
+		"scheduleId": 1111,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 714
+	},
+	{
+		"configId": 101,
+		"score": 13000,
+		"rewardId": 1211025,
+		"scheduleId": 1111,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 715
+	},
+	{
+		"configId": 101,
+		"score": 16000,
+		"rewardId": 1211026,
+		"scheduleId": 1111,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 716
+	},
+	{
+		"configId": 101,
+		"score": 20000,
+		"rewardId": 1211027,
+		"scheduleId": 1111,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 717
+	},
+	{
+		"configId": 101,
+		"score": 1200,
+		"rewardId": 1211021,
+		"scheduleId": 10205,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 721
+	},
+	{
+		"configId": 101,
+		"score": 2500,
+		"rewardId": 1211022,
+		"scheduleId": 10205,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 722
+	},
+	{
+		"configId": 101,
+		"score": 6000,
+		"rewardId": 1211023,
+		"scheduleId": 10205,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 723
+	},
+	{
+		"configId": 101,
+		"score": 10000,
+		"rewardId": 1211024,
+		"scheduleId": 10205,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 724
+	},
+	{
+		"configId": 101,
+		"score": 13000,
+		"rewardId": 1211025,
+		"scheduleId": 10205,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 725
+	},
+	{
+		"configId": 101,
+		"score": 16000,
+		"rewardId": 1211026,
+		"scheduleId": 10205,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 726
+	},
+	{
+		"configId": 101,
+		"score": 20000,
+		"rewardId": 1211027,
+		"scheduleId": 10205,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 727
+	},
+	{
+		"configId": 101,
+		"score": 1200,
+		"rewardId": 1211021,
+		"scheduleId": 10206,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 731
+	},
+	{
+		"configId": 101,
+		"score": 2500,
+		"rewardId": 1211022,
+		"scheduleId": 10206,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 732
+	},
+	{
+		"configId": 101,
+		"score": 6000,
+		"rewardId": 1211023,
+		"scheduleId": 10206,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 733
+	},
+	{
+		"configId": 101,
+		"score": 10000,
+		"rewardId": 1211024,
+		"scheduleId": 10206,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 734
+	},
+	{
+		"configId": 101,
+		"score": 13000,
+		"rewardId": 1211025,
+		"scheduleId": 10206,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 735
+	},
+	{
+		"configId": 101,
+		"score": 16000,
+		"rewardId": 1211026,
+		"scheduleId": 10206,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 736
+	},
+	{
+		"configId": 101,
+		"score": 20000,
+		"rewardId": 1211027,
+		"scheduleId": 10206,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 737
+	},
+	{
+		"configId": 101,
+		"score": 1200,
+		"rewardId": 1211021,
+		"scheduleId": 10207,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 741
+	},
+	{
+		"configId": 101,
+		"score": 2500,
+		"rewardId": 1211022,
+		"scheduleId": 10207,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 742
+	},
+	{
+		"configId": 101,
+		"score": 6000,
+		"rewardId": 1211023,
+		"scheduleId": 10207,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 743
+	},
+	{
+		"configId": 101,
+		"score": 10000,
+		"rewardId": 1211024,
+		"scheduleId": 10207,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 744
+	},
+	{
+		"configId": 101,
+		"score": 13000,
+		"rewardId": 1211025,
+		"scheduleId": 10207,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 745
+	},
+	{
+		"configId": 101,
+		"score": 16000,
+		"rewardId": 1211026,
+		"scheduleId": 10207,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 746
+	},
+	{
+		"configId": 101,
+		"score": 20000,
+		"rewardId": 1211027,
+		"scheduleId": 10207,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 747
+	},
+	{
+		"configId": 101,
+		"score": 1200,
+		"rewardId": 1211021,
+		"scheduleId": 10208,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 751
+	},
+	{
+		"configId": 101,
+		"score": 2500,
+		"rewardId": 1211022,
+		"scheduleId": 10208,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 752
+	},
+	{
+		"configId": 101,
+		"score": 6000,
+		"rewardId": 1211023,
+		"scheduleId": 10208,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 753
+	},
+	{
+		"configId": 101,
+		"score": 10000,
+		"rewardId": 1211024,
+		"scheduleId": 10208,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 754
+	},
+	{
+		"configId": 101,
+		"score": 13000,
+		"rewardId": 1211025,
+		"scheduleId": 10208,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 755
+	},
+	{
+		"configId": 101,
+		"score": 16000,
+		"rewardId": 1211026,
+		"scheduleId": 10208,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 756
+	},
+	{
+		"configId": 101,
+		"score": 20000,
+		"rewardId": 1211027,
+		"scheduleId": 10208,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 757
+	},
+	{
+		"configId": 101,
+		"score": 1200,
+		"rewardId": 1211021,
+		"scheduleId": 10209,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 761
+	},
+	{
+		"configId": 101,
+		"score": 2500,
+		"rewardId": 1211022,
+		"scheduleId": 10209,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 762
+	},
+	{
+		"configId": 101,
+		"score": 6000,
+		"rewardId": 1211023,
+		"scheduleId": 10209,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 763
+	},
+	{
+		"configId": 101,
+		"score": 10000,
+		"rewardId": 1211024,
+		"scheduleId": 10209,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 764
+	},
+	{
+		"configId": 101,
+		"score": 13000,
+		"rewardId": 1211025,
+		"scheduleId": 10209,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 765
+	},
+	{
+		"configId": 101,
+		"score": 16000,
+		"rewardId": 1211026,
+		"scheduleId": 10209,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 766
+	},
+	{
+		"configId": 101,
+		"score": 20000,
+		"rewardId": 1211027,
+		"scheduleId": 10209,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 767
+	},
+	{
+		"configId": 102,
+		"score": 1200,
+		"rewardId": 1212021,
+		"scheduleId": 1111,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 811
+	},
+	{
+		"configId": 102,
+		"score": 2500,
+		"rewardId": 1212022,
+		"scheduleId": 1111,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 812
+	},
+	{
+		"configId": 102,
+		"score": 6000,
+		"rewardId": 1212023,
+		"scheduleId": 1111,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 813
+	},
+	{
+		"configId": 102,
+		"score": 10000,
+		"rewardId": 1212024,
+		"scheduleId": 1111,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 814
+	},
+	{
+		"configId": 102,
+		"score": 13000,
+		"rewardId": 1212025,
+		"scheduleId": 1111,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 815
+	},
+	{
+		"configId": 102,
+		"score": 16000,
+		"rewardId": 1212026,
+		"scheduleId": 1111,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 816
+	},
+	{
+		"configId": 102,
+		"score": 20000,
+		"rewardId": 1212027,
+		"scheduleId": 1111,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 817
+	},
+	{
+		"configId": 102,
+		"score": 1200,
+		"rewardId": 1212021,
+		"scheduleId": 10205,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 821
+	},
+	{
+		"configId": 102,
+		"score": 2500,
+		"rewardId": 1212022,
+		"scheduleId": 10205,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 822
+	},
+	{
+		"configId": 102,
+		"score": 6000,
+		"rewardId": 1212023,
+		"scheduleId": 10205,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 823
+	},
+	{
+		"configId": 102,
+		"score": 10000,
+		"rewardId": 1212024,
+		"scheduleId": 10205,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 824
+	},
+	{
+		"configId": 102,
+		"score": 13000,
+		"rewardId": 1212025,
+		"scheduleId": 10205,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 825
+	},
+	{
+		"configId": 102,
+		"score": 16000,
+		"rewardId": 1212026,
+		"scheduleId": 10205,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 826
+	},
+	{
+		"configId": 102,
+		"score": 20000,
+		"rewardId": 1212027,
+		"scheduleId": 10205,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 827
+	},
+	{
+		"configId": 102,
+		"score": 1200,
+		"rewardId": 1212021,
+		"scheduleId": 10206,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 831
+	},
+	{
+		"configId": 102,
+		"score": 2500,
+		"rewardId": 1212022,
+		"scheduleId": 10206,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 832
+	},
+	{
+		"configId": 102,
+		"score": 6000,
+		"rewardId": 1212023,
+		"scheduleId": 10206,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 833
+	},
+	{
+		"configId": 102,
+		"score": 10000,
+		"rewardId": 1212024,
+		"scheduleId": 10206,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 834
+	},
+	{
+		"configId": 102,
+		"score": 13000,
+		"rewardId": 1212025,
+		"scheduleId": 10206,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 835
+	},
+	{
+		"configId": 102,
+		"score": 16000,
+		"rewardId": 1212026,
+		"scheduleId": 10206,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 836
+	},
+	{
+		"configId": 102,
+		"score": 20000,
+		"rewardId": 1212027,
+		"scheduleId": 10206,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 837
+	},
+	{
+		"configId": 102,
+		"score": 1200,
+		"rewardId": 1212021,
+		"scheduleId": 10207,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 841
+	},
+	{
+		"configId": 102,
+		"score": 2500,
+		"rewardId": 1212022,
+		"scheduleId": 10207,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 842
+	},
+	{
+		"configId": 102,
+		"score": 6000,
+		"rewardId": 1212023,
+		"scheduleId": 10207,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 843
+	},
+	{
+		"configId": 102,
+		"score": 10000,
+		"rewardId": 1212024,
+		"scheduleId": 10207,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 844
+	},
+	{
+		"configId": 102,
+		"score": 13000,
+		"rewardId": 1212025,
+		"scheduleId": 10207,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 845
+	},
+	{
+		"configId": 102,
+		"score": 16000,
+		"rewardId": 1212026,
+		"scheduleId": 10207,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 846
+	},
+	{
+		"configId": 102,
+		"score": 20000,
+		"rewardId": 1212027,
+		"scheduleId": 10207,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 847
+	},
+	{
+		"configId": 102,
+		"score": 1200,
+		"rewardId": 1212021,
+		"scheduleId": 10208,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 851
+	},
+	{
+		"configId": 102,
+		"score": 2500,
+		"rewardId": 1212022,
+		"scheduleId": 10208,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 852
+	},
+	{
+		"configId": 102,
+		"score": 6000,
+		"rewardId": 1212023,
+		"scheduleId": 10208,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 853
+	},
+	{
+		"configId": 102,
+		"score": 10000,
+		"rewardId": 1212024,
+		"scheduleId": 10208,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 854
+	},
+	{
+		"configId": 102,
+		"score": 13000,
+		"rewardId": 1212025,
+		"scheduleId": 10208,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 855
+	},
+	{
+		"configId": 102,
+		"score": 16000,
+		"rewardId": 1212026,
+		"scheduleId": 10208,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 856
+	},
+	{
+		"configId": 102,
+		"score": 20000,
+		"rewardId": 1212027,
+		"scheduleId": 10208,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 857
+	},
+	{
+		"configId": 102,
+		"score": 1200,
+		"rewardId": 1212021,
+		"scheduleId": 10209,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 861
+	},
+	{
+		"configId": 102,
+		"score": 2500,
+		"rewardId": 1212022,
+		"scheduleId": 10209,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 862
+	},
+	{
+		"configId": 102,
+		"score": 6000,
+		"rewardId": 1212023,
+		"scheduleId": 10209,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 863
+	},
+	{
+		"configId": 102,
+		"score": 10000,
+		"rewardId": 1212024,
+		"scheduleId": 10209,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 864
+	},
+	{
+		"configId": 102,
+		"score": 13000,
+		"rewardId": 1212025,
+		"scheduleId": 10209,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 865
+	},
+	{
+		"configId": 102,
+		"score": 16000,
+		"rewardId": 1212026,
+		"scheduleId": 10209,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 866
+	},
+	{
+		"configId": 102,
+		"score": 20000,
+		"rewardId": 1212027,
+		"scheduleId": 10209,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 867
+	},
+	{
+		"configId": 103,
+		"score": 2000,
+		"rewardId": 1204080,
+		"scheduleId": 10215,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 921
+	},
+	{
+		"configId": 103,
+		"score": 4000,
+		"rewardId": 1204081,
+		"scheduleId": 10215,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 922
+	},
+	{
+		"configId": 103,
+		"score": 6000,
+		"rewardId": 1204082,
+		"scheduleId": 10215,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 923
+	},
+	{
+		"configId": 103,
+		"score": 9000,
+		"rewardId": 1204083,
+		"scheduleId": 10215,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 924
+	},
+	{
+		"configId": 103,
+		"score": 12000,
+		"rewardId": 1204084,
+		"scheduleId": 10215,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 925
+	},
+	{
+		"configId": 103,
+		"score": 16000,
+		"rewardId": 1204085,
+		"scheduleId": 10215,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 926
+	},
+	{
+		"configId": 103,
+		"score": 20000,
+		"rewardId": 1204086,
+		"scheduleId": 10215,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 927
+	},
+	{
+		"configId": 103,
+		"score": 24000,
+		"rewardId": 1204087,
+		"scheduleId": 10215,
+		"IsEvent": 0,
+		"TimesScore": 8,
+		"DataImpl": {},
+		"ID": 928
+	},
+	{
+		"configId": 103,
+		"score": 30000,
+		"rewardId": 1204088,
+		"scheduleId": 10215,
+		"IsEvent": 0,
+		"TimesScore": 10,
+		"DataImpl": {},
+		"ID": 929
+	},
+	{
+		"configId": 103,
+		"score": 2000,
+		"rewardId": 1204080,
+		"scheduleId": 10216,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 931
+	},
+	{
+		"configId": 103,
+		"score": 4000,
+		"rewardId": 1204081,
+		"scheduleId": 10216,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 932
+	},
+	{
+		"configId": 103,
+		"score": 6000,
+		"rewardId": 1204082,
+		"scheduleId": 10216,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 933
+	},
+	{
+		"configId": 103,
+		"score": 9000,
+		"rewardId": 1204083,
+		"scheduleId": 10216,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 934
+	},
+	{
+		"configId": 103,
+		"score": 12000,
+		"rewardId": 1204084,
+		"scheduleId": 10216,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 935
+	},
+	{
+		"configId": 103,
+		"score": 16000,
+		"rewardId": 1204085,
+		"scheduleId": 10216,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 936
+	},
+	{
+		"configId": 103,
+		"score": 20000,
+		"rewardId": 1204086,
+		"scheduleId": 10216,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 937
+	},
+	{
+		"configId": 103,
+		"score": 24000,
+		"rewardId": 1204087,
+		"scheduleId": 10216,
+		"IsEvent": 0,
+		"TimesScore": 8,
+		"DataImpl": {},
+		"ID": 938
+	},
+	{
+		"configId": 103,
+		"score": 30000,
+		"rewardId": 1204088,
+		"scheduleId": 10216,
+		"IsEvent": 0,
+		"TimesScore": 10,
+		"DataImpl": {},
+		"ID": 939
+	},
+	{
+		"configId": 103,
+		"score": 2000,
+		"rewardId": 1204080,
+		"scheduleId": 10217,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 941
+	},
+	{
+		"configId": 103,
+		"score": 4000,
+		"rewardId": 1204081,
+		"scheduleId": 10217,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 942
+	},
+	{
+		"configId": 103,
+		"score": 6000,
+		"rewardId": 1204082,
+		"scheduleId": 10217,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 943
+	},
+	{
+		"configId": 103,
+		"score": 9000,
+		"rewardId": 1204083,
+		"scheduleId": 10217,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 944
+	},
+	{
+		"configId": 103,
+		"score": 12000,
+		"rewardId": 1204084,
+		"scheduleId": 10217,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 945
+	},
+	{
+		"configId": 103,
+		"score": 16000,
+		"rewardId": 1204085,
+		"scheduleId": 10217,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 946
+	},
+	{
+		"configId": 103,
+		"score": 20000,
+		"rewardId": 1204086,
+		"scheduleId": 10217,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 947
+	},
+	{
+		"configId": 103,
+		"score": 24000,
+		"rewardId": 1204087,
+		"scheduleId": 10217,
+		"IsEvent": 0,
+		"TimesScore": 8,
+		"DataImpl": {},
+		"ID": 948
+	},
+	{
+		"configId": 103,
+		"score": 30000,
+		"rewardId": 1204088,
+		"scheduleId": 10217,
+		"IsEvent": 0,
+		"TimesScore": 10,
+		"DataImpl": {},
+		"ID": 949
+	},
+	{
+		"configId": 103,
+		"score": 2000,
+		"rewardId": 1204080,
+		"scheduleId": 10218,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 951
+	},
+	{
+		"configId": 103,
+		"score": 4000,
+		"rewardId": 1204081,
+		"scheduleId": 10218,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 952
+	},
+	{
+		"configId": 103,
+		"score": 6000,
+		"rewardId": 1204082,
+		"scheduleId": 10218,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 953
+	},
+	{
+		"configId": 103,
+		"score": 9000,
+		"rewardId": 1204083,
+		"scheduleId": 10218,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 954
+	},
+	{
+		"configId": 103,
+		"score": 12000,
+		"rewardId": 1204084,
+		"scheduleId": 10218,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 955
+	},
+	{
+		"configId": 103,
+		"score": 16000,
+		"rewardId": 1204085,
+		"scheduleId": 10218,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 956
+	},
+	{
+		"configId": 103,
+		"score": 20000,
+		"rewardId": 1204086,
+		"scheduleId": 10218,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 957
+	},
+	{
+		"configId": 103,
+		"score": 24000,
+		"rewardId": 1204087,
+		"scheduleId": 10218,
+		"IsEvent": 0,
+		"TimesScore": 8,
+		"DataImpl": {},
+		"ID": 958
+	},
+	{
+		"configId": 103,
+		"score": 30000,
+		"rewardId": 1204088,
+		"scheduleId": 10218,
+		"IsEvent": 0,
+		"TimesScore": 10,
+		"DataImpl": {},
+		"ID": 959
+	},
+	{
+		"configId": 103,
+		"score": 2000,
+		"rewardId": 1204080,
+		"scheduleId": 10219,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 961
+	},
+	{
+		"configId": 103,
+		"score": 4000,
+		"rewardId": 1204081,
+		"scheduleId": 10219,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 962
+	},
+	{
+		"configId": 103,
+		"score": 6000,
+		"rewardId": 1204082,
+		"scheduleId": 10219,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 963
+	},
+	{
+		"configId": 103,
+		"score": 9000,
+		"rewardId": 1204083,
+		"scheduleId": 10219,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 964
+	},
+	{
+		"configId": 103,
+		"score": 12000,
+		"rewardId": 1204084,
+		"scheduleId": 10219,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 965
+	},
+	{
+		"configId": 103,
+		"score": 16000,
+		"rewardId": 1204085,
+		"scheduleId": 10219,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 966
+	},
+	{
+		"configId": 103,
+		"score": 20000,
+		"rewardId": 1204086,
+		"scheduleId": 10219,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 967
+	},
+	{
+		"configId": 103,
+		"score": 24000,
+		"rewardId": 1204087,
+		"scheduleId": 10219,
+		"IsEvent": 0,
+		"TimesScore": 8,
+		"DataImpl": {},
+		"ID": 968
+	},
+	{
+		"configId": 103,
+		"score": 30000,
+		"rewardId": 1204088,
+		"scheduleId": 10219,
+		"IsEvent": 0,
+		"TimesScore": 10,
+		"DataImpl": {},
+		"ID": 969
+	},
+	{
+		"configId": 103,
+		"score": 2000,
+		"rewardId": 1204080,
+		"scheduleId": 10220,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 971
+	},
+	{
+		"configId": 103,
+		"score": 4000,
+		"rewardId": 1204081,
+		"scheduleId": 10220,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 972
+	},
+	{
+		"configId": 103,
+		"score": 6000,
+		"rewardId": 1204082,
+		"scheduleId": 10220,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 973
+	},
+	{
+		"configId": 103,
+		"score": 9000,
+		"rewardId": 1204083,
+		"scheduleId": 10220,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 974
+	},
+	{
+		"configId": 103,
+		"score": 12000,
+		"rewardId": 1204084,
+		"scheduleId": 10220,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 975
+	},
+	{
+		"configId": 103,
+		"score": 16000,
+		"rewardId": 1204085,
+		"scheduleId": 10220,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 976
+	},
+	{
+		"configId": 103,
+		"score": 20000,
+		"rewardId": 1204086,
+		"scheduleId": 10220,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 977
+	},
+	{
+		"configId": 103,
+		"score": 24000,
+		"rewardId": 1204087,
+		"scheduleId": 10220,
+		"IsEvent": 0,
+		"TimesScore": 8,
+		"DataImpl": {},
+		"ID": 978
+	},
+	{
+		"configId": 103,
+		"score": 30000,
+		"rewardId": 1204088,
+		"scheduleId": 10220,
+		"IsEvent": 0,
+		"TimesScore": 10,
+		"DataImpl": {},
+		"ID": 979
+	},
+	{
+		"configId": 104,
+		"score": 2000,
+		"rewardId": 1204090,
+		"scheduleId": 10215,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 1021
+	},
+	{
+		"configId": 104,
+		"score": 4000,
+		"rewardId": 1204091,
+		"scheduleId": 10215,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 1022
+	},
+	{
+		"configId": 104,
+		"score": 6000,
+		"rewardId": 1204092,
+		"scheduleId": 10215,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 1023
+	},
+	{
+		"configId": 104,
+		"score": 9000,
+		"rewardId": 1204093,
+		"scheduleId": 10215,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 1024
+	},
+	{
+		"configId": 104,
+		"score": 12000,
+		"rewardId": 1204094,
+		"scheduleId": 10215,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 1025
+	},
+	{
+		"configId": 104,
+		"score": 16000,
+		"rewardId": 1204095,
+		"scheduleId": 10215,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 1026
+	},
+	{
+		"configId": 104,
+		"score": 20000,
+		"rewardId": 1204096,
+		"scheduleId": 10215,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 1027
+	},
+	{
+		"configId": 104,
+		"score": 24000,
+		"rewardId": 1204097,
+		"scheduleId": 10215,
+		"IsEvent": 0,
+		"TimesScore": 8,
+		"DataImpl": {},
+		"ID": 1028
+	},
+	{
+		"configId": 104,
+		"score": 30000,
+		"rewardId": 1204098,
+		"scheduleId": 10215,
+		"IsEvent": 0,
+		"TimesScore": 10,
+		"DataImpl": {},
+		"ID": 1029
+	},
+	{
+		"configId": 104,
+		"score": 2000,
+		"rewardId": 1204090,
+		"scheduleId": 10216,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 1031
+	},
+	{
+		"configId": 104,
+		"score": 4000,
+		"rewardId": 1204091,
+		"scheduleId": 10216,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 1032
+	},
+	{
+		"configId": 104,
+		"score": 6000,
+		"rewardId": 1204092,
+		"scheduleId": 10216,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 1033
+	},
+	{
+		"configId": 104,
+		"score": 9000,
+		"rewardId": 1204093,
+		"scheduleId": 10216,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 1034
+	},
+	{
+		"configId": 104,
+		"score": 12000,
+		"rewardId": 1204094,
+		"scheduleId": 10216,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 1035
+	},
+	{
+		"configId": 104,
+		"score": 16000,
+		"rewardId": 1204095,
+		"scheduleId": 10216,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 1036
+	},
+	{
+		"configId": 104,
+		"score": 20000,
+		"rewardId": 1204096,
+		"scheduleId": 10216,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 1037
+	},
+	{
+		"configId": 104,
+		"score": 24000,
+		"rewardId": 1204097,
+		"scheduleId": 10216,
+		"IsEvent": 0,
+		"TimesScore": 8,
+		"DataImpl": {},
+		"ID": 1038
+	},
+	{
+		"configId": 104,
+		"score": 30000,
+		"rewardId": 1204098,
+		"scheduleId": 10216,
+		"IsEvent": 0,
+		"TimesScore": 10,
+		"DataImpl": {},
+		"ID": 1039
+	},
+	{
+		"configId": 104,
+		"score": 2000,
+		"rewardId": 1204090,
+		"scheduleId": 10217,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 1041
+	},
+	{
+		"configId": 104,
+		"score": 4000,
+		"rewardId": 1204091,
+		"scheduleId": 10217,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 1042
+	},
+	{
+		"configId": 104,
+		"score": 6000,
+		"rewardId": 1204092,
+		"scheduleId": 10217,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 1043
+	},
+	{
+		"configId": 104,
+		"score": 9000,
+		"rewardId": 1204093,
+		"scheduleId": 10217,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 1044
+	},
+	{
+		"configId": 104,
+		"score": 12000,
+		"rewardId": 1204094,
+		"scheduleId": 10217,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 1045
+	},
+	{
+		"configId": 104,
+		"score": 16000,
+		"rewardId": 1204095,
+		"scheduleId": 10217,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 1046
+	},
+	{
+		"configId": 104,
+		"score": 20000,
+		"rewardId": 1204096,
+		"scheduleId": 10217,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 1047
+	},
+	{
+		"configId": 104,
+		"score": 24000,
+		"rewardId": 1204097,
+		"scheduleId": 10217,
+		"IsEvent": 0,
+		"TimesScore": 8,
+		"DataImpl": {},
+		"ID": 1048
+	},
+	{
+		"configId": 104,
+		"score": 30000,
+		"rewardId": 1204098,
+		"scheduleId": 10217,
+		"IsEvent": 0,
+		"TimesScore": 10,
+		"DataImpl": {},
+		"ID": 1049
+	},
+	{
+		"configId": 104,
+		"score": 2000,
+		"rewardId": 1204090,
+		"scheduleId": 10218,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 1051
+	},
+	{
+		"configId": 104,
+		"score": 4000,
+		"rewardId": 1204091,
+		"scheduleId": 10218,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 1052
+	},
+	{
+		"configId": 104,
+		"score": 6000,
+		"rewardId": 1204092,
+		"scheduleId": 10218,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 1053
+	},
+	{
+		"configId": 104,
+		"score": 9000,
+		"rewardId": 1204093,
+		"scheduleId": 10218,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 1054
+	},
+	{
+		"configId": 104,
+		"score": 12000,
+		"rewardId": 1204094,
+		"scheduleId": 10218,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 1055
+	},
+	{
+		"configId": 104,
+		"score": 16000,
+		"rewardId": 1204095,
+		"scheduleId": 10218,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 1056
+	},
+	{
+		"configId": 104,
+		"score": 20000,
+		"rewardId": 1204096,
+		"scheduleId": 10218,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 1057
+	},
+	{
+		"configId": 104,
+		"score": 24000,
+		"rewardId": 1204097,
+		"scheduleId": 10218,
+		"IsEvent": 0,
+		"TimesScore": 8,
+		"DataImpl": {},
+		"ID": 1058
+	},
+	{
+		"configId": 104,
+		"score": 30000,
+		"rewardId": 1204098,
+		"scheduleId": 10218,
+		"IsEvent": 0,
+		"TimesScore": 10,
+		"DataImpl": {},
+		"ID": 1059
+	},
+	{
+		"configId": 104,
+		"score": 2000,
+		"rewardId": 1204090,
+		"scheduleId": 10219,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 1061
+	},
+	{
+		"configId": 104,
+		"score": 4000,
+		"rewardId": 1204091,
+		"scheduleId": 10219,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 1062
+	},
+	{
+		"configId": 104,
+		"score": 6000,
+		"rewardId": 1204092,
+		"scheduleId": 10219,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 1063
+	},
+	{
+		"configId": 104,
+		"score": 9000,
+		"rewardId": 1204093,
+		"scheduleId": 10219,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 1064
+	},
+	{
+		"configId": 104,
+		"score": 12000,
+		"rewardId": 1204094,
+		"scheduleId": 10219,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 1065
+	},
+	{
+		"configId": 104,
+		"score": 16000,
+		"rewardId": 1204095,
+		"scheduleId": 10219,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 1066
+	},
+	{
+		"configId": 104,
+		"score": 20000,
+		"rewardId": 1204096,
+		"scheduleId": 10219,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 1067
+	},
+	{
+		"configId": 104,
+		"score": 24000,
+		"rewardId": 1204097,
+		"scheduleId": 10219,
+		"IsEvent": 0,
+		"TimesScore": 8,
+		"DataImpl": {},
+		"ID": 1068
+	},
+	{
+		"configId": 104,
+		"score": 30000,
+		"rewardId": 1204098,
+		"scheduleId": 10219,
+		"IsEvent": 0,
+		"TimesScore": 10,
+		"DataImpl": {},
+		"ID": 1069
+	},
+	{
+		"configId": 104,
+		"score": 2000,
+		"rewardId": 1204090,
+		"scheduleId": 10220,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 1071
+	},
+	{
+		"configId": 104,
+		"score": 4000,
+		"rewardId": 1204091,
+		"scheduleId": 10220,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 1072
+	},
+	{
+		"configId": 104,
+		"score": 6000,
+		"rewardId": 1204092,
+		"scheduleId": 10220,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 1073
+	},
+	{
+		"configId": 104,
+		"score": 9000,
+		"rewardId": 1204093,
+		"scheduleId": 10220,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 1074
+	},
+	{
+		"configId": 104,
+		"score": 12000,
+		"rewardId": 1204094,
+		"scheduleId": 10220,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 1075
+	},
+	{
+		"configId": 104,
+		"score": 16000,
+		"rewardId": 1204095,
+		"scheduleId": 10220,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 1076
+	},
+	{
+		"configId": 104,
+		"score": 20000,
+		"rewardId": 1204096,
+		"scheduleId": 10220,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 1077
+	},
+	{
+		"configId": 104,
+		"score": 24000,
+		"rewardId": 1204097,
+		"scheduleId": 10220,
+		"IsEvent": 0,
+		"TimesScore": 8,
+		"DataImpl": {},
+		"ID": 1078
+	},
+	{
+		"configId": 104,
+		"score": 30000,
+		"rewardId": 1204098,
+		"scheduleId": 10220,
+		"IsEvent": 0,
+		"TimesScore": 10,
+		"DataImpl": {},
+		"ID": 1079
+	},
+	{
+		"configId": 101,
+		"score": 1200,
+		"rewardId": 1211021,
+		"scheduleId": 10215,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 1121
+	},
+	{
+		"configId": 101,
+		"score": 2500,
+		"rewardId": 1211022,
+		"scheduleId": 10215,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 1122
+	},
+	{
+		"configId": 101,
+		"score": 6000,
+		"rewardId": 1211023,
+		"scheduleId": 10215,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 1123
+	},
+	{
+		"configId": 101,
+		"score": 10000,
+		"rewardId": 1211024,
+		"scheduleId": 10215,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 1124
+	},
+	{
+		"configId": 101,
+		"score": 13000,
+		"rewardId": 1211025,
+		"scheduleId": 10215,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 1125
+	},
+	{
+		"configId": 101,
+		"score": 16000,
+		"rewardId": 1211026,
+		"scheduleId": 10215,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 1126
+	},
+	{
+		"configId": 101,
+		"score": 20000,
+		"rewardId": 1211027,
+		"scheduleId": 10215,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 1127
+	},
+	{
+		"configId": 101,
+		"score": 1200,
+		"rewardId": 1211021,
+		"scheduleId": 10216,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 1131
+	},
+	{
+		"configId": 101,
+		"score": 2500,
+		"rewardId": 1211022,
+		"scheduleId": 10216,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 1132
+	},
+	{
+		"configId": 101,
+		"score": 6000,
+		"rewardId": 1211023,
+		"scheduleId": 10216,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 1133
+	},
+	{
+		"configId": 101,
+		"score": 10000,
+		"rewardId": 1211024,
+		"scheduleId": 10216,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 1134
+	},
+	{
+		"configId": 101,
+		"score": 13000,
+		"rewardId": 1211025,
+		"scheduleId": 10216,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 1135
+	},
+	{
+		"configId": 101,
+		"score": 16000,
+		"rewardId": 1211026,
+		"scheduleId": 10216,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 1136
+	},
+	{
+		"configId": 101,
+		"score": 20000,
+		"rewardId": 1211027,
+		"scheduleId": 10216,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 1137
+	},
+	{
+		"configId": 101,
+		"score": 1200,
+		"rewardId": 1211021,
+		"scheduleId": 10217,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 1141
+	},
+	{
+		"configId": 101,
+		"score": 2500,
+		"rewardId": 1211022,
+		"scheduleId": 10217,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 1142
+	},
+	{
+		"configId": 101,
+		"score": 6000,
+		"rewardId": 1211023,
+		"scheduleId": 10217,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 1143
+	},
+	{
+		"configId": 101,
+		"score": 10000,
+		"rewardId": 1211024,
+		"scheduleId": 10217,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 1144
+	},
+	{
+		"configId": 101,
+		"score": 13000,
+		"rewardId": 1211025,
+		"scheduleId": 10217,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 1145
+	},
+	{
+		"configId": 101,
+		"score": 16000,
+		"rewardId": 1211026,
+		"scheduleId": 10217,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 1146
+	},
+	{
+		"configId": 101,
+		"score": 20000,
+		"rewardId": 1211027,
+		"scheduleId": 10217,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 1147
+	},
+	{
+		"configId": 101,
+		"score": 1200,
+		"rewardId": 1211021,
+		"scheduleId": 10218,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 1151
+	},
+	{
+		"configId": 101,
+		"score": 2500,
+		"rewardId": 1211022,
+		"scheduleId": 10218,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 1152
+	},
+	{
+		"configId": 101,
+		"score": 6000,
+		"rewardId": 1211023,
+		"scheduleId": 10218,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 1153
+	},
+	{
+		"configId": 101,
+		"score": 10000,
+		"rewardId": 1211024,
+		"scheduleId": 10218,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 1154
+	},
+	{
+		"configId": 101,
+		"score": 13000,
+		"rewardId": 1211025,
+		"scheduleId": 10218,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 1155
+	},
+	{
+		"configId": 101,
+		"score": 16000,
+		"rewardId": 1211026,
+		"scheduleId": 10218,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 1156
+	},
+	{
+		"configId": 101,
+		"score": 20000,
+		"rewardId": 1211027,
+		"scheduleId": 10218,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 1157
+	},
+	{
+		"configId": 101,
+		"score": 1200,
+		"rewardId": 1211021,
+		"scheduleId": 10219,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 1161
+	},
+	{
+		"configId": 101,
+		"score": 2500,
+		"rewardId": 1211022,
+		"scheduleId": 10219,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 1162
+	},
+	{
+		"configId": 101,
+		"score": 6000,
+		"rewardId": 1211023,
+		"scheduleId": 10219,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 1163
+	},
+	{
+		"configId": 101,
+		"score": 10000,
+		"rewardId": 1211024,
+		"scheduleId": 10219,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 1164
+	},
+	{
+		"configId": 101,
+		"score": 13000,
+		"rewardId": 1211025,
+		"scheduleId": 10219,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 1165
+	},
+	{
+		"configId": 101,
+		"score": 16000,
+		"rewardId": 1211026,
+		"scheduleId": 10219,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 1166
+	},
+	{
+		"configId": 101,
+		"score": 20000,
+		"rewardId": 1211027,
+		"scheduleId": 10219,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 1167
+	},
+	{
+		"configId": 101,
+		"score": 1200,
+		"rewardId": 1211021,
+		"scheduleId": 10220,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 1171
+	},
+	{
+		"configId": 101,
+		"score": 2500,
+		"rewardId": 1211022,
+		"scheduleId": 10220,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 1172
+	},
+	{
+		"configId": 101,
+		"score": 6000,
+		"rewardId": 1211023,
+		"scheduleId": 10220,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 1173
+	},
+	{
+		"configId": 101,
+		"score": 10000,
+		"rewardId": 1211024,
+		"scheduleId": 10220,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 1174
+	},
+	{
+		"configId": 101,
+		"score": 13000,
+		"rewardId": 1211025,
+		"scheduleId": 10220,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 1175
+	},
+	{
+		"configId": 101,
+		"score": 16000,
+		"rewardId": 1211026,
+		"scheduleId": 10220,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 1176
+	},
+	{
+		"configId": 101,
+		"score": 20000,
+		"rewardId": 1211027,
+		"scheduleId": 10220,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 1177
+	},
+	{
+		"configId": 102,
+		"score": 1200,
+		"rewardId": 1212021,
+		"scheduleId": 10215,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 1221
+	},
+	{
+		"configId": 102,
+		"score": 2500,
+		"rewardId": 1212022,
+		"scheduleId": 10215,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 1222
+	},
+	{
+		"configId": 102,
+		"score": 6000,
+		"rewardId": 1212023,
+		"scheduleId": 10215,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 1223
+	},
+	{
+		"configId": 102,
+		"score": 10000,
+		"rewardId": 1212024,
+		"scheduleId": 10215,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 1224
+	},
+	{
+		"configId": 102,
+		"score": 13000,
+		"rewardId": 1212025,
+		"scheduleId": 10215,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 1225
+	},
+	{
+		"configId": 102,
+		"score": 16000,
+		"rewardId": 1212026,
+		"scheduleId": 10215,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 1226
+	},
+	{
+		"configId": 102,
+		"score": 20000,
+		"rewardId": 1212027,
+		"scheduleId": 10215,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 1227
+	},
+	{
+		"configId": 102,
+		"score": 1200,
+		"rewardId": 1212021,
+		"scheduleId": 10216,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 1231
+	},
+	{
+		"configId": 102,
+		"score": 2500,
+		"rewardId": 1212022,
+		"scheduleId": 10216,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 1232
+	},
+	{
+		"configId": 102,
+		"score": 6000,
+		"rewardId": 1212023,
+		"scheduleId": 10216,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 1233
+	},
+	{
+		"configId": 102,
+		"score": 10000,
+		"rewardId": 1212024,
+		"scheduleId": 10216,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 1234
+	},
+	{
+		"configId": 102,
+		"score": 13000,
+		"rewardId": 1212025,
+		"scheduleId": 10216,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 1235
+	},
+	{
+		"configId": 102,
+		"score": 16000,
+		"rewardId": 1212026,
+		"scheduleId": 10216,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 1236
+	},
+	{
+		"configId": 102,
+		"score": 20000,
+		"rewardId": 1212027,
+		"scheduleId": 10216,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 1237
+	},
+	{
+		"configId": 102,
+		"score": 1200,
+		"rewardId": 1212021,
+		"scheduleId": 10217,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 1241
+	},
+	{
+		"configId": 102,
+		"score": 2500,
+		"rewardId": 1212022,
+		"scheduleId": 10217,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 1242
+	},
+	{
+		"configId": 102,
+		"score": 6000,
+		"rewardId": 1212023,
+		"scheduleId": 10217,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 1243
+	},
+	{
+		"configId": 102,
+		"score": 10000,
+		"rewardId": 1212024,
+		"scheduleId": 10217,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 1244
+	},
+	{
+		"configId": 102,
+		"score": 13000,
+		"rewardId": 1212025,
+		"scheduleId": 10217,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 1245
+	},
+	{
+		"configId": 102,
+		"score": 16000,
+		"rewardId": 1212026,
+		"scheduleId": 10217,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 1246
+	},
+	{
+		"configId": 102,
+		"score": 20000,
+		"rewardId": 1212027,
+		"scheduleId": 10217,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 1247
+	},
+	{
+		"configId": 102,
+		"score": 1200,
+		"rewardId": 1212021,
+		"scheduleId": 10218,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 1251
+	},
+	{
+		"configId": 102,
+		"score": 2500,
+		"rewardId": 1212022,
+		"scheduleId": 10218,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 1252
+	},
+	{
+		"configId": 102,
+		"score": 6000,
+		"rewardId": 1212023,
+		"scheduleId": 10218,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 1253
+	},
+	{
+		"configId": 102,
+		"score": 10000,
+		"rewardId": 1212024,
+		"scheduleId": 10218,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 1254
+	},
+	{
+		"configId": 102,
+		"score": 13000,
+		"rewardId": 1212025,
+		"scheduleId": 10218,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 1255
+	},
+	{
+		"configId": 102,
+		"score": 16000,
+		"rewardId": 1212026,
+		"scheduleId": 10218,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 1256
+	},
+	{
+		"configId": 102,
+		"score": 20000,
+		"rewardId": 1212027,
+		"scheduleId": 10218,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 1257
+	},
+	{
+		"configId": 102,
+		"score": 1200,
+		"rewardId": 1212021,
+		"scheduleId": 10219,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 1261
+	},
+	{
+		"configId": 102,
+		"score": 2500,
+		"rewardId": 1212022,
+		"scheduleId": 10219,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 1262
+	},
+	{
+		"configId": 102,
+		"score": 6000,
+		"rewardId": 1212023,
+		"scheduleId": 10219,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 1263
+	},
+	{
+		"configId": 102,
+		"score": 10000,
+		"rewardId": 1212024,
+		"scheduleId": 10219,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 1264
+	},
+	{
+		"configId": 102,
+		"score": 13000,
+		"rewardId": 1212025,
+		"scheduleId": 10219,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 1265
+	},
+	{
+		"configId": 102,
+		"score": 16000,
+		"rewardId": 1212026,
+		"scheduleId": 10219,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 1266
+	},
+	{
+		"configId": 102,
+		"score": 20000,
+		"rewardId": 1212027,
+		"scheduleId": 10219,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 1267
+	},
+	{
+		"configId": 102,
+		"score": 1200,
+		"rewardId": 1212021,
+		"scheduleId": 10220,
+		"IsEvent": 0,
+		"TimesScore": 1,
+		"DataImpl": {},
+		"ID": 1271
+	},
+	{
+		"configId": 102,
+		"score": 2500,
+		"rewardId": 1212022,
+		"scheduleId": 10220,
+		"IsEvent": 0,
+		"TimesScore": 2,
+		"DataImpl": {},
+		"ID": 1272
+	},
+	{
+		"configId": 102,
+		"score": 6000,
+		"rewardId": 1212023,
+		"scheduleId": 10220,
+		"IsEvent": 0,
+		"TimesScore": 3,
+		"DataImpl": {},
+		"ID": 1273
+	},
+	{
+		"configId": 102,
+		"score": 10000,
+		"rewardId": 1212024,
+		"scheduleId": 10220,
+		"IsEvent": 0,
+		"TimesScore": 4,
+		"DataImpl": {},
+		"ID": 1274
+	},
+	{
+		"configId": 102,
+		"score": 13000,
+		"rewardId": 1212025,
+		"scheduleId": 10220,
+		"IsEvent": 0,
+		"TimesScore": 5,
+		"DataImpl": {},
+		"ID": 1275
+	},
+	{
+		"configId": 102,
+		"score": 16000,
+		"rewardId": 1212026,
+		"scheduleId": 10220,
+		"IsEvent": 0,
+		"TimesScore": 6,
+		"DataImpl": {},
+		"ID": 1276
+	},
+	{
+		"configId": 102,
+		"score": 20000,
+		"rewardId": 1212027,
+		"scheduleId": 10220,
+		"IsEvent": 0,
+		"TimesScore": 7,
+		"DataImpl": {},
+		"ID": 1277
+	}
+]

@@ -1,0 +1,5036 @@
+[
+	{
+		"LobbyID": 2,
+		"Type": 1,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/PropSpawnPoint/Door",
+		"Radius": 6,
+		"Angle": 360,
+		"ActionIDList": [
+			1
+		],
+		"HintOffset": [
+			0,
+			0,
+			4
+		],
+		"DataImpl": {},
+		"PropID": 1
+	},
+	{
+		"LobbyID": 2,
+		"Type": 1,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/PropSpawnPoint/Memory",
+		"Radius": 3,
+		"Angle": 360,
+		"ActionIDList": [
+			2
+		],
+		"HintOffset": [
+			0,
+			0,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 2
+	},
+	{
+		"LobbyID": 2,
+		"Type": 1,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/PropSpawnPoint/Armor",
+		"Radius": 3,
+		"Angle": 360,
+		"ActionIDList": [
+			3
+		],
+		"HintOffset": [
+			0,
+			0,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 3
+	},
+	{
+		"LobbyID": 2,
+		"Type": 1,
+		"PrefabPath": "Canvas3D/Object3DGeneral/Scene/Scene3D/Stage_Lost_Tomb_02_Lobby_Part01/Stage_Lost_Tomb_02_Lobby_Mechine/Stage_Lost_Tomb_02_Lobby_Mechine_Digital",
+		"Radius": 3,
+		"Angle": 360,
+		"ActionIDList": [
+			4
+		],
+		"HintOffset": [
+			0,
+			0,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 4
+	},
+	{
+		"LobbyID": 2,
+		"Type": 1,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/PropSpawnPoint/Wiki",
+		"Radius": 3,
+		"Angle": 360,
+		"ActionIDList": [
+			5
+		],
+		"HintOffset": [
+			0,
+			0,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 5
+	},
+	{
+		"LobbyID": 3,
+		"Type": 1,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/PropSpawnPoint/Door",
+		"Radius": 6,
+		"Angle": 360,
+		"ActionIDList": [
+			1
+		],
+		"HintOffset": [
+			0,
+			0,
+			4
+		],
+		"DataImpl": {},
+		"PropID": 11
+	},
+	{
+		"LobbyID": 3,
+		"Type": 1,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/PropSpawnPoint/Memory",
+		"Radius": 3,
+		"Angle": 360,
+		"ActionIDList": [
+			2
+		],
+		"HintOffset": [
+			0,
+			0,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 12
+	},
+	{
+		"LobbyID": 3,
+		"Type": 1,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/PropSpawnPoint/Armor",
+		"Radius": 3,
+		"Angle": 360,
+		"ActionIDList": [
+			3
+		],
+		"HintOffset": [
+			0,
+			0,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 13
+	},
+	{
+		"LobbyID": 3,
+		"Type": 1,
+		"PrefabPath": "Canvas3D/Object3DGeneral/Scene/Scene3D/Stage_Lost_Tomb_02_Lobby_Part01/Stage_Lost_Tomb_02_Lobby_Mechine/Stage_Lost_Tomb_02_Lobby_Mechine_Digital",
+		"Radius": 3,
+		"Angle": 360,
+		"ActionIDList": [
+			4
+		],
+		"HintOffset": [
+			0,
+			0,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 14
+	},
+	{
+		"LobbyID": 3,
+		"Type": 1,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/PropSpawnPoint/Wiki",
+		"Radius": 3,
+		"Angle": 360,
+		"ActionIDList": [
+			5
+		],
+		"HintOffset": [
+			0,
+			0,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 15
+	},
+	{
+		"LobbyID": 4,
+		"Type": 1,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/PropSpawnPoint/Door",
+		"Radius": 6,
+		"Angle": 360,
+		"ActionIDList": [
+			100,
+			101,
+			102
+		],
+		"HintOffset": [
+			0,
+			0,
+			4
+		],
+		"DataImpl": {},
+		"PropID": 21
+	},
+	{
+		"LobbyID": 4,
+		"Type": 1,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/PropSpawnPoint/Memory",
+		"Radius": 3,
+		"Angle": 360,
+		"ActionIDList": [
+			2
+		],
+		"HintOffset": [
+			0,
+			0,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 22
+	},
+	{
+		"LobbyID": 4,
+		"Type": 1,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/PropSpawnPoint/Armor",
+		"Radius": 3,
+		"Angle": 360,
+		"ActionIDList": [
+			3
+		],
+		"HintOffset": [
+			0,
+			0,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 23
+	},
+	{
+		"LobbyID": 4,
+		"Type": 1,
+		"PrefabPath": "Canvas3D/Object3DGeneral/Scene/Scene3D/Stage_Lost_Tomb_02_Lobby_Part01/Stage_Lost_Tomb_02_Lobby_Mechine/Stage_Lost_Tomb_02_Lobby_Mechine_Digital",
+		"Radius": 3,
+		"Angle": 360,
+		"ActionIDList": [
+			4
+		],
+		"HintOffset": [
+			0,
+			0,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 24
+	},
+	{
+		"LobbyID": 4,
+		"Type": 1,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/PropSpawnPoint/Wiki",
+		"Radius": 3,
+		"Angle": 360,
+		"ActionIDList": [
+			5
+		],
+		"HintOffset": [
+			0,
+			0,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 25
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/1001/1001/19999",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			999
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 19999
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/3001/20000",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			1000
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 20000
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20010201/20001",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			1001
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 20001
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/2001/20002",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			1002
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 20002
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/4001/4001/20003",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			1003
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 20003
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/300101/20004",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			1004
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 20004
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/2001/20005",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			1005
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 20005
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/3001/20006",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			1006
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 20006
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/4001/4001/20007",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			1007
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 20007
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/2001/20008",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			1008
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 20008
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/4001/4001/20009",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			1009
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 20009
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/4002/4002/20010",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			1010
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 20010
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/2001/20011",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			1011
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 20011
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/3001/20012",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			1012
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 20012
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/2002/20013",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			1013
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 20013
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/2001/20014",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			1014
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 20014
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/300101/20015",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			1015
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 20015
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/2002/20016",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			1016
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 20016
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/2001/20017",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			1017
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 20017
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/4003/4003/20018",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			1018
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 20018
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/2002/20019",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			1019
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 20019
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/3001/20020",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			1020
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 20020
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/4001/4001/20021",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			1021
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 20021
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/2001/20022",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			1022
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 20022
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/2001/20023",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			1023
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 20023
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/2001/20024",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			1024
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 20024
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/2001/30001",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			2001
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 30001
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/20703/30002",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			2002
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 30002
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/2001/30003",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			2003
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 30003
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/3001/30004",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			2004
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 30004
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/2002/30005",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			2005
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 30005
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/300101/30006",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			2006
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 30006
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/3001/30007",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			2007
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 30007
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/300111/30009",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			2008
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 30009
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/300111/30010",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			2009
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 30010
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/2001/30011",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			2010
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 30011
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/3001/30012",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			2011
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 30012
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3003/300311/30014",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			2012
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 30014
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2003/32003/30015",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			2013
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 30015
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/29202/30016",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			2014
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 30016
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/2001/30018",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			2015
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 30018
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/2002/30019",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			2016
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 30019
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2003/2003/30020",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			2017
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 30020
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/3001/30021",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			2018
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 30021
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/2001/30022",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			2019
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 30022
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/3001/30023",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			2020
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 30023
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/2001/30025",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			2021
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 30025
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/3001/30026",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			2022
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 30026
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3002/300211/30027",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			2023
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 30027
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3002/20708/30029",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			2024
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 30029
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/3001/30031",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			2025
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 30031
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3002/300211/30032",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			2026
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 30032
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/3001/30033",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			2027
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 30033
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/2001/30034",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			2028
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 30034
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/20703/30035",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			2029
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 30035
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/300111/30036",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			2030
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 30036
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/20703/30037",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			2031
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 30037
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/3001/30038",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			2032
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 30038
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/2001/30039",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			2033
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 30039
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/3001/30041",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			2034
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 30041
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/300111/30042",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			2035
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 30042
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/2001/30043",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			2036
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 30043
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/2001/30044",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			2037
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 30044
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/20703/30045",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			2038
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 30045
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/3001/30046",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			2039
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 30046
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/2001/30048",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			2040
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 30048
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/2002/30049",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			2041
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 30049
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/2001/30050",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			2042
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 30050
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/3001/30051",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			2043
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 30051
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/300111/30052",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			2044
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 30052
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/3001/30054",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			2045
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 30054
+	},
+	{
+		"LobbyID": 4,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/30019101/40001",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			3001
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40001
+	},
+	{
+		"LobbyID": 4,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/3001/40002",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			3002
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40002
+	},
+	{
+		"LobbyID": 4,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20010401/40003",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			3003
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40003
+	},
+	{
+		"LobbyID": 4,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20010201/40004",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			3004
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40004
+	},
+	{
+		"LobbyID": 4,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/4001/40010601/40005",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			3005
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40005
+	},
+	{
+		"LobbyID": 4,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/30019102/40006",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			3006
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40006
+	},
+	{
+		"LobbyID": 4,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/21003/40007",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			3007
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40007
+	},
+	{
+		"LobbyID": 4,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20010401/40008",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			3008
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40008
+	},
+	{
+		"LobbyID": 4,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/30010801/40009",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			3009
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40009
+	},
+	{
+		"LobbyID": 4,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20010202/40010",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			3010
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40010
+	},
+	{
+		"LobbyID": 4,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20010101/40011",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			3011
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40011
+	},
+	{
+		"LobbyID": 4,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/20021301/40012",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			3012
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40012
+	},
+	{
+		"LobbyID": 4,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20010201/40013",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			3013
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40013
+	},
+	{
+		"LobbyID": 4,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/20021302/40014",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			3014
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40014
+	},
+	{
+		"LobbyID": 4,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20019211/40015",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			3015
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40015
+	},
+	{
+		"LobbyID": 4,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/30011301/40018",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			3018
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40018
+	},
+	{
+		"LobbyID": 4,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20011112/40019",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			3019
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40019
+	},
+	{
+		"LobbyID": 4,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/30010802/40021",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			3021
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40021
+	},
+	{
+		"LobbyID": 4,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20011113/40022",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			3022
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40022
+	},
+	{
+		"LobbyID": 4,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/5001/50010501/40024",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			3024
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40024
+	},
+	{
+		"LobbyID": 4,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20605/40025",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			3025
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40025
+	},
+	{
+		"LobbyID": 4,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20019202/40026",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			3026
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40026
+	},
+	{
+		"LobbyID": 4,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/30010201/40027",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			3027
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40027
+	},
+	{
+		"LobbyID": 4,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/30010714/40028",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			3028
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40028
+	},
+	{
+		"LobbyID": 4,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20011114/40030",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			3030
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40030
+	},
+	{
+		"LobbyID": 4,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/5001/50019101/40032",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			3032
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40032
+	},
+	{
+		"LobbyID": 4,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20019202/40033",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			3033
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40033
+	},
+	{
+		"LobbyID": 4,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/20601/40034",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			3034
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40034
+	},
+	{
+		"LobbyID": 4,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20010201/40035",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			3035
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40035
+	},
+	{
+		"LobbyID": 4,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20019202/40036",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			3036
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40036
+	},
+	{
+		"LobbyID": 4,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/30010715/40037",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			3037
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40037
+	},
+	{
+		"LobbyID": 4,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20011114/40039",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			3039
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40039
+	},
+	{
+		"LobbyID": 4,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20010101/40040",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			3040
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40040
+	},
+	{
+		"LobbyID": 4,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/4001/40011101/40041",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			3041
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40041
+	},
+	{
+		"LobbyID": 4,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/5001/50010501/40042",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			3042
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40042
+	},
+	{
+		"LobbyID": 4,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/30010801/40043",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			3043
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40043
+	},
+	{
+		"LobbyID": 4,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20010516/40044",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			3044
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40044
+	},
+	{
+		"LobbyID": 4,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20019202/40046",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			3046
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40046
+	},
+	{
+		"LobbyID": 4,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/4001/40010501/40047",
+		"Radius": 2,
+		"Angle": 360,
+		"ActionIDList": [
+			3047
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40047
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/32001/40048",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1200
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40048
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/32001/40049",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1201
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40049
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2003/21201/40050",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1202
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40050
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/32002/40052",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1204
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40052
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/32002/40053",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1205
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40053
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/32002/40054",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1206
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40054
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/32002/40055",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1207
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40055
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/32002/40056",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1208
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40056
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/32002/40057",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1209
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40057
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/32001/40058",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1210
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40058
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/20104/40059",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1211
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40059
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/32001/40060",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1212
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40060
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/20104/40061",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1213
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40061
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3002/20105/40062",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1214
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40062
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2003/20101/40063",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1215
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40063
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2003/20101/40065",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1217
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40065
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3002/20105/40067",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1219
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40067
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/20102/40068",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1220
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40068
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/20102/40070",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1222
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40070
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/20102/40072",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1224
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40072
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3002/20105/40074",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1226
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40074
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3002/33002/40075",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1227
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40075
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/20104/40076",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1228
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40076
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/32002/40077",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1229
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40077
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/33001/40078",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1230
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40078
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3002/33002/40079",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1231
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40079
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/33001/40080",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1232
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40080
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3002/20802/40081",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1233
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40081
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2003/32003/40083",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1235
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40083
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3002/3002/40084",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1236
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40084
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/33001/40085",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1237
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40085
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3002/33002/40086",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1238
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40086
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/32001/40087",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1239
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40087
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3003/20803/40088",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1240
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40088
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/20804/40090",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1242
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40090
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/20805/40092",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1244
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40092
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3002/20802/40094",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1246
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40094
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/3001/40096",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1248
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40096
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/20703/40097",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1249
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40097
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/20703/40098",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1250
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40098
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/20703/40099",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1251
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40099
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/20703/40100",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1252
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40100
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/20703/40101",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1253
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40101
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/20703/40102",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1254
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40102
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/20703/40103",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1255
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40103
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/20703/40104",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1256
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40104
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/20703/40105",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1257
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40105
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/20703/40106",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1258
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40106
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/20703/40107",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1259
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40107
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/20703/40108",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1260
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40108
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3002/20708/40109",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1261
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40109
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3003/20705/40111",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1263
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40111
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3002/20708/40112",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1264
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40112
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/20703/40114",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1266
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40114
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/20703/40115",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1267
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40115
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20706/40116",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1268
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40116
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20605/40118",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1270
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40118
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20607/40119",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1271
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40119
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20605/40121",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1273
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40121
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3003/20606/40122",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1274
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40122
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20605/40123",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1275
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40123
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3003/20606/40124",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1276
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40124
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3003/20606/40125",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1277
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40125
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3003/20606/40126",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1278
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40126
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/20601/40127",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1279
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40127
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20607/40129",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1281
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40129
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/20601/40131",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1283
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40131
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/20601/40133",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1285
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40133
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20605/40135",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1287
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40135
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20605/40136",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1288
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40136
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/20601/40137",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1289
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40137
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3003/20606/40139",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1291
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40139
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20607/40140",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1292
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40140
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/32001/40142",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1294
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40142
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/32002/40143",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1295
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40143
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2003/2003/40144",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1296
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40144
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20402/40145",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1297
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40145
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20402/40146",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1298
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40146
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20402/40147",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1299
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40147
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20402/40148",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1300
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40148
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/32002/40149",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1301
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40149
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20402/40150",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1302
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40150
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20402/40151",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1303
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40151
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3002/33002/40152",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1304
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40152
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/4001/4001/40153",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1305
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40153
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/32002/40154",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1306
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40154
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/33001/40155",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1307
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40155
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20402/40156",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1308
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40156
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/32001/40157",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1309
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40157
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20402/40158",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1310
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40158
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20402/40159",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1311
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40159
+	},
+	{
+		"LobbyID": 4,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20402/40160",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1312
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40160
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/32001/40161",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1313
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40161
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/33001/40162",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1314
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40162
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3002/33002/40163",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1315
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40163
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/33001/40164",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1316
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40164
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/32001/40165",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1317
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40165
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2003/2003/40166",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1318
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40166
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/32001/40167",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1319
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40167
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/32002/40168",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1320
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40168
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2003/2003/40169",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1321
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40169
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3002/33002/40170",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1322
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40170
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/3001/40171",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1323
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40171
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/32001/40172",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1324
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40172
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3002/3002/40173",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1325
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40173
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/33001/40174",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1326
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40174
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/2002/40175",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1327
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40175
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3002/3002/40176",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1328
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40176
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3002/3002/40177",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1329
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40177
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2003/32003/40179",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1331
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40179
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/20204/40180",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1332
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40180
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/20204/40181",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1333
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40181
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/20201/40182",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1334
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40182
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/20204/40184",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1336
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40184
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/3001/40185",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1337
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40185
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2003/32003/40186",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1338
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40186
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3002/20208/40187",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1339
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40187
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/33001/40188",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1340
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40188
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3002/20208/40189",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1341
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40189
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/32001/40190",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1342
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40190
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/20204/40191",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1343
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40191
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/3001/40192",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1344
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40192
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3002/20208/40193",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1345
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40193
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2003/32003/40194",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1346
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40194
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/32001/40195",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1347
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40195
+	},
+	{
+		"LobbyID": 2,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/20206/40196",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			1348
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40196
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/32002/40198",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			3200
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40198
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/21001/40199",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			3201
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40199
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20207/40201",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			3203
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40201
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/20104/40203",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			3205
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40203
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/32002/40204",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			3206
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40204
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/20201/40205",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			3207
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40205
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/20703/40207",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			3209
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40207
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3003/20606/40208",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			3210
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40208
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20605/40209",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			3211
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40209
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3003/20803/40210",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			3212
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40210
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20402/40212",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			3214
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40212
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/20202/40213",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			3215
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40213
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20402/40215",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			3217
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40215
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3003/29102/40216",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			3218
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40216
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/20202/40217",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			3219
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40217
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/20805/40219",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			3221
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40219
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/21003/40221",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			3223
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40221
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/20102/40223",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			3225
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40223
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/20204/40226",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			3228
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40226
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3002/33002/40227",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			3229
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40227
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/4001/20603/40228",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			3230
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40228
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20401/40229",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			3231
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40229
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20706/40231",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			3233
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40231
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20706/40233",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			3235
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40233
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20207/40235",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			3237
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40235
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20706/40237",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			3239
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40237
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/29203/40239",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			3241
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40239
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20706/40241",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			3243
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40241
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/20703/40243",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			3245
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40243
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/21003/40244",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			3246
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40244
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/20209/40246",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			3248
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40246
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/20703/40248",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			3250
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40248
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/20203/40250",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			3252
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40250
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20402/40252",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			3254
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40252
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/29202/40253",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			3255
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40253
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20207/40255",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			3257
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40255
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3003/29102/40257",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			3259
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40257
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3003/29102/40258",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			3260
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40258
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3003/29102/40259",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			3261
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40259
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3002/20708/40260",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			3262
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40260
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/32002/40262",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			3264
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40262
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2002/29205/40263",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			3265
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40263
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3002/33002/40264",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			3266
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40264
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/3001/33001/40265",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			3267
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40265
+	},
+	{
+		"LobbyID": 3,
+		"Type": 2,
+		"PrefabPath": "Canvas3D/Object3DGeneral/SpawnPoint/AvatarSpawnPoint/2001/20801/40266",
+		"Radius": 1,
+		"Angle": 360,
+		"ActionIDList": [
+			3268
+		],
+		"HintOffset": [
+			0,
+			2,
+			0
+		],
+		"DataImpl": {},
+		"PropID": 40266
+	}
+]

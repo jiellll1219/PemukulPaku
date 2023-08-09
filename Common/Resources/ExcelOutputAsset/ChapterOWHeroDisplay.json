@@ -1,0 +1,587 @@
+[
+	{
+		"UnlockPhaseRange": {
+			"BeginPhaseID": 13,
+			"EndPhaseID": 27
+		},
+		"HeroName": "ChapterOW_HeroLiveName_12",
+		"HeroDesc": "ChapterOW_HeroLiveDesc_12",
+		"HeroOrderDesc": "ChapterOW_HeroLiveOrderDesc_12",
+		"HeroImagePath": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Hua",
+		"HeroImageForDisplay": "SpriteOutput/Chapter29/HeroDisplay/Hua",
+		"HeroIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_7",
+		"DataImpl": {},
+		"ID": 1,
+		"HeroStatus": 1
+	},
+	{
+		"UnlockPhaseRange": {
+			"BeginPhaseID": 27,
+			"EndPhaseID": 30
+		},
+		"HeroName": "ChapterOW_HeroDieName_12",
+		"HeroDesc": "ChapterOW_HeroDieDesc_12",
+		"HeroOrderDesc": "ChapterOW_HeroDieOrderDesc_01",
+		"HeroImagePath": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Hua",
+		"HeroImageForDisplay": "SpriteOutput/Chapter29/HeroDisplay/Hua",
+		"HeroIconPath": "",
+		"DataImpl": {},
+		"ID": 1,
+		"HeroStatus": 2
+	},
+	{
+		"UnlockPhaseRange": {
+			"BeginPhaseID": 30,
+			"EndPhaseID": 999
+		},
+		"HeroName": "ChapterOW_HeroLiveName_12",
+		"HeroDesc": "ChapterOW_HeroLiveDesc_12",
+		"HeroOrderDesc": "ChapterOW_HeroLiveOrderDesc_12",
+		"HeroImagePath": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Hua",
+		"HeroImageForDisplay": "SpriteOutput/Chapter29/HeroDisplay/Hua",
+		"HeroIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_7",
+		"DataImpl": {},
+		"ID": 1,
+		"HeroStatus": 3
+	},
+	{
+		"UnlockPhaseRange": {
+			"BeginPhaseID": 13,
+			"EndPhaseID": 20
+		},
+		"HeroName": "ChapterOW_HeroLiveName_13",
+		"HeroDesc": "ChapterOW_HeroLiveDesc_13",
+		"HeroOrderDesc": "ChapterOW_HeroLiveOrderDesc_13",
+		"HeroImagePath": "SpriteOutput/Rogue/GodCloseUp/RougeGod_Pardofelis",
+		"HeroImageForDisplay": "SpriteOutput/Chapter29/HeroDisplay/Pardofelis",
+		"HeroIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_11",
+		"DataImpl": {},
+		"ID": 2,
+		"HeroStatus": 1
+	},
+	{
+		"UnlockPhaseRange": {
+			"BeginPhaseID": 20,
+			"EndPhaseID": 30
+		},
+		"HeroName": "ChapterOW_HeroDieName_13",
+		"HeroDesc": "ChapterOW_HeroDieDesc_13",
+		"HeroOrderDesc": "ChapterOW_HeroDieOrderDesc_01",
+		"HeroImagePath": "SpriteOutput/Rogue/GodCloseUp/RougeGod_Pardofelis",
+		"HeroImageForDisplay": "SpriteOutput/Chapter29/HeroDisplay/Pardofelis",
+		"HeroIconPath": "",
+		"DataImpl": {},
+		"ID": 2,
+		"HeroStatus": 2
+	},
+	{
+		"UnlockPhaseRange": {
+			"BeginPhaseID": 30,
+			"EndPhaseID": 999
+		},
+		"HeroName": "ChapterOW_HeroLiveName_13",
+		"HeroDesc": "ChapterOW_HeroLiveDesc_13",
+		"HeroOrderDesc": "ChapterOW_HeroLiveOrderDesc_13",
+		"HeroImagePath": "SpriteOutput/Rogue/GodCloseUp/RougeGod_Pardofelis",
+		"HeroImageForDisplay": "SpriteOutput/Chapter29/HeroDisplay/Pardofelis",
+		"HeroIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_11",
+		"DataImpl": {},
+		"ID": 2,
+		"HeroStatus": 3
+	},
+	{
+		"UnlockPhaseRange": {
+			"BeginPhaseID": 13,
+			"EndPhaseID": 26
+		},
+		"HeroName": "ChapterOW_HeroLiveName_11",
+		"HeroDesc": "ChapterOW_HeroLiveDesc_11",
+		"HeroOrderDesc": "ChapterOW_HeroLiveOrderDesc_11",
+		"HeroImagePath": "SpriteOutput/Rogue/GodCloseUp/RougeGod_Griseo1",
+		"HeroImageForDisplay": "SpriteOutput/Chapter29/HeroDisplay/Griseo",
+		"HeroIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_10",
+		"DataImpl": {},
+		"ID": 3,
+		"HeroStatus": 1
+	},
+	{
+		"UnlockPhaseRange": {
+			"BeginPhaseID": 26,
+			"EndPhaseID": 30
+		},
+		"HeroName": "ChapterOW_HeroDieName_11",
+		"HeroDesc": "ChapterOW_HeroDieDesc_11",
+		"HeroOrderDesc": "ChapterOW_HeroDieOrderDesc_01",
+		"HeroImagePath": "SpriteOutput/Rogue/GodCloseUp/RougeGod_Griseo1",
+		"HeroImageForDisplay": "SpriteOutput/Chapter29/HeroDisplay/Griseo",
+		"HeroIconPath": "",
+		"DataImpl": {},
+		"ID": 3,
+		"HeroStatus": 2
+	},
+	{
+		"UnlockPhaseRange": {
+			"BeginPhaseID": 30,
+			"EndPhaseID": 999
+		},
+		"HeroName": "ChapterOW_HeroLiveName_11",
+		"HeroDesc": "ChapterOW_HeroLiveDesc_11",
+		"HeroOrderDesc": "ChapterOW_HeroLiveOrderDesc_11",
+		"HeroImagePath": "SpriteOutput/Rogue/GodCloseUp/RougeGod_Griseo1",
+		"HeroImageForDisplay": "SpriteOutput/Chapter29/HeroDisplay/Griseo",
+		"HeroIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_10",
+		"DataImpl": {},
+		"ID": 3,
+		"HeroStatus": 3
+	},
+	{
+		"UnlockPhaseRange": {
+			"BeginPhaseID": 13,
+			"EndPhaseID": 27
+		},
+		"HeroName": "ChapterOW_HeroLiveName_07",
+		"HeroDesc": "ChapterOW_HeroLiveDesc_07",
+		"HeroOrderDesc": "ChapterOW_HeroLiveOrderDesc_07",
+		"HeroImagePath": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Su",
+		"HeroImageForDisplay": "SpriteOutput/Chapter29/HeroDisplay/Su",
+		"HeroIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_4",
+		"DataImpl": {},
+		"ID": 4,
+		"HeroStatus": 1
+	},
+	{
+		"UnlockPhaseRange": {
+			"BeginPhaseID": 27,
+			"EndPhaseID": 30
+		},
+		"HeroName": "ChapterOW_HeroDieName_07",
+		"HeroDesc": "ChapterOW_HeroDieDesc_07",
+		"HeroOrderDesc": "ChapterOW_HeroDieOrderDesc_01",
+		"HeroImagePath": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Su",
+		"HeroImageForDisplay": "SpriteOutput/Chapter29/HeroDisplay/Su",
+		"HeroIconPath": "",
+		"DataImpl": {},
+		"ID": 4,
+		"HeroStatus": 2
+	},
+	{
+		"UnlockPhaseRange": {
+			"BeginPhaseID": 30,
+			"EndPhaseID": 999
+		},
+		"HeroName": "ChapterOW_HeroLiveName_07",
+		"HeroDesc": "ChapterOW_HeroLiveDesc_07",
+		"HeroOrderDesc": "ChapterOW_HeroLiveOrderDesc_07",
+		"HeroImagePath": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Su",
+		"HeroImageForDisplay": "SpriteOutput/Chapter29/HeroDisplay/Su",
+		"HeroIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_4",
+		"DataImpl": {},
+		"ID": 4,
+		"HeroStatus": 3
+	},
+	{
+		"UnlockPhaseRange": {
+			"BeginPhaseID": 13,
+			"EndPhaseID": 19
+		},
+		"HeroName": "ChapterOW_HeroLiveName_10",
+		"HeroDesc": "ChapterOW_HeroLiveDesc_10",
+		"HeroOrderDesc": "ChapterOW_HeroLiveOrderDesc_10",
+		"HeroImagePath": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Mobius",
+		"HeroImageForDisplay": "SpriteOutput/Chapter29/HeroDisplay/Mobius",
+		"HeroIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_6",
+		"DataImpl": {},
+		"ID": 5,
+		"HeroStatus": 1
+	},
+	{
+		"UnlockPhaseRange": {
+			"BeginPhaseID": 19,
+			"EndPhaseID": 30
+		},
+		"HeroName": "ChapterOW_HeroDieName_10",
+		"HeroDesc": "ChapterOW_HeroDieDesc_10",
+		"HeroOrderDesc": "ChapterOW_HeroDieOrderDesc_01",
+		"HeroImagePath": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Mobius",
+		"HeroImageForDisplay": "SpriteOutput/Chapter29/HeroDisplay/Mobius",
+		"HeroIconPath": "",
+		"DataImpl": {},
+		"ID": 5,
+		"HeroStatus": 2
+	},
+	{
+		"UnlockPhaseRange": {
+			"BeginPhaseID": 30,
+			"EndPhaseID": 999
+		},
+		"HeroName": "ChapterOW_HeroLiveName_10",
+		"HeroDesc": "ChapterOW_HeroLiveDesc_10",
+		"HeroOrderDesc": "ChapterOW_HeroLiveOrderDesc_10",
+		"HeroImagePath": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Mobius",
+		"HeroImageForDisplay": "SpriteOutput/Chapter29/HeroDisplay/Mobius",
+		"HeroIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_6",
+		"DataImpl": {},
+		"ID": 5,
+		"HeroStatus": 3
+	},
+	{
+		"UnlockPhaseRange": {
+			"BeginPhaseID": 13,
+			"EndPhaseID": 21
+		},
+		"HeroName": "ChapterOW_HeroLiveName_06",
+		"HeroDesc": "ChapterOW_HeroLiveDesc_06",
+		"HeroOrderDesc": "ChapterOW_HeroLiveOrderDesc_06",
+		"HeroImagePath": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Kalpas",
+		"HeroImageForDisplay": "SpriteOutput/Chapter29/HeroDisplay/Kalpas",
+		"HeroIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_3",
+		"DataImpl": {},
+		"ID": 6,
+		"HeroStatus": 1
+	},
+	{
+		"UnlockPhaseRange": {
+			"BeginPhaseID": 21,
+			"EndPhaseID": 30
+		},
+		"HeroName": "ChapterOW_HeroDieName_06",
+		"HeroDesc": "ChapterOW_HeroDieDesc_06",
+		"HeroOrderDesc": "ChapterOW_HeroDieOrderDesc_01",
+		"HeroImagePath": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Kalpas",
+		"HeroImageForDisplay": "SpriteOutput/Chapter29/HeroDisplay/Kalpas",
+		"HeroIconPath": "",
+		"DataImpl": {},
+		"ID": 6,
+		"HeroStatus": 2
+	},
+	{
+		"UnlockPhaseRange": {
+			"BeginPhaseID": 30,
+			"EndPhaseID": 999
+		},
+		"HeroName": "ChapterOW_HeroLiveName_06",
+		"HeroDesc": "ChapterOW_HeroLiveDesc_06",
+		"HeroOrderDesc": "ChapterOW_HeroLiveOrderDesc_06",
+		"HeroImagePath": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Kalpas",
+		"HeroImageForDisplay": "SpriteOutput/Chapter29/HeroDisplay/Kalpas",
+		"HeroIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_3",
+		"DataImpl": {},
+		"ID": 6,
+		"HeroStatus": 3
+	},
+	{
+		"UnlockPhaseRange": {
+			"BeginPhaseID": 13,
+			"EndPhaseID": 16
+		},
+		"HeroName": "ChapterOW_HeroLiveName_01",
+		"HeroDesc": "ChapterOW_HeroLiveDesc_01",
+		"HeroOrderDesc": "ChapterOW_HeroLiveOrderDesc_01",
+		"HeroImagePath": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Kevin",
+		"HeroImageForDisplay": "SpriteOutput/Chapter29/HeroDisplay/Kevin",
+		"HeroIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_1",
+		"DataImpl": {},
+		"ID": 7,
+		"HeroStatus": 1
+	},
+	{
+		"UnlockPhaseRange": {
+			"BeginPhaseID": 16,
+			"EndPhaseID": 30
+		},
+		"HeroName": "ChapterOW_HeroDieName_01",
+		"HeroDesc": "ChapterOW_HeroDieDesc_01",
+		"HeroOrderDesc": "ChapterOW_HeroDieOrderDesc_01",
+		"HeroImagePath": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Kevin",
+		"HeroImageForDisplay": "SpriteOutput/Chapter29/HeroDisplay/Kevin",
+		"HeroIconPath": "",
+		"DataImpl": {},
+		"ID": 7,
+		"HeroStatus": 2
+	},
+	{
+		"UnlockPhaseRange": {
+			"BeginPhaseID": 30,
+			"EndPhaseID": 999
+		},
+		"HeroName": "ChapterOW_HeroLiveName_01",
+		"HeroDesc": "ChapterOW_HeroLiveDesc_01",
+		"HeroOrderDesc": "ChapterOW_HeroLiveOrderDesc_01",
+		"HeroImagePath": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Kevin",
+		"HeroImageForDisplay": "SpriteOutput/Chapter29/HeroDisplay/Kevin",
+		"HeroIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_1",
+		"DataImpl": {},
+		"ID": 7,
+		"HeroStatus": 3
+	},
+	{
+		"UnlockPhaseRange": {
+			"BeginPhaseID": 13,
+			"EndPhaseID": 28
+		},
+		"HeroName": "ChapterOW_HeroLiveName_04",
+		"HeroDesc": "ChapterOW_HeroLiveDesc_04",
+		"HeroOrderDesc": "ChapterOW_HeroLiveOrderDesc_04",
+		"HeroImagePath": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Eden",
+		"HeroImageForDisplay": "SpriteOutput/Chapter29/HeroDisplay/Eden",
+		"HeroIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_2",
+		"DataImpl": {},
+		"ID": 8,
+		"HeroStatus": 1
+	},
+	{
+		"UnlockPhaseRange": {
+			"BeginPhaseID": 28,
+			"EndPhaseID": 30
+		},
+		"HeroName": "ChapterOW_HeroDieName_04",
+		"HeroDesc": "ChapterOW_HeroDieDesc_04",
+		"HeroOrderDesc": "ChapterOW_HeroDieOrderDesc_01",
+		"HeroImagePath": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Eden",
+		"HeroImageForDisplay": "SpriteOutput/Chapter29/HeroDisplay/Eden",
+		"HeroIconPath": "",
+		"DataImpl": {},
+		"ID": 8,
+		"HeroStatus": 2
+	},
+	{
+		"UnlockPhaseRange": {
+			"BeginPhaseID": 30,
+			"EndPhaseID": 999
+		},
+		"HeroName": "ChapterOW_HeroLiveName_04",
+		"HeroDesc": "ChapterOW_HeroLiveDesc_04",
+		"HeroOrderDesc": "ChapterOW_HeroLiveOrderDesc_04",
+		"HeroImagePath": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Eden",
+		"HeroImageForDisplay": "SpriteOutput/Chapter29/HeroDisplay/Eden",
+		"HeroIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_2",
+		"DataImpl": {},
+		"ID": 8,
+		"HeroStatus": 3
+	},
+	{
+		"UnlockPhaseRange": {
+			"BeginPhaseID": 13,
+			"EndPhaseID": 24
+		},
+		"HeroName": "ChapterOW_HeroLiveName_08",
+		"HeroDesc": "ChapterOW_HeroLiveDesc_08",
+		"HeroOrderDesc": "ChapterOW_HeroLiveOrderDesc_08",
+		"HeroImagePath": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Sakura",
+		"HeroImageForDisplay": "SpriteOutput/Chapter29/HeroDisplay/Sakura",
+		"HeroIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_5",
+		"DataImpl": {},
+		"ID": 9,
+		"HeroStatus": 1
+	},
+	{
+		"UnlockPhaseRange": {
+			"BeginPhaseID": 24,
+			"EndPhaseID": 30
+		},
+		"HeroName": "ChapterOW_HeroDieName_08",
+		"HeroDesc": "ChapterOW_HeroDieDesc_08",
+		"HeroOrderDesc": "ChapterOW_HeroDieOrderDesc_01",
+		"HeroImagePath": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Sakura",
+		"HeroImageForDisplay": "SpriteOutput/Chapter29/HeroDisplay/Sakura",
+		"HeroIconPath": "",
+		"DataImpl": {},
+		"ID": 9,
+		"HeroStatus": 2
+	},
+	{
+		"UnlockPhaseRange": {
+			"BeginPhaseID": 30,
+			"EndPhaseID": 999
+		},
+		"HeroName": "ChapterOW_HeroLiveName_08",
+		"HeroDesc": "ChapterOW_HeroLiveDesc_08",
+		"HeroOrderDesc": "ChapterOW_HeroLiveOrderDesc_08",
+		"HeroImagePath": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Sakura",
+		"HeroImageForDisplay": "SpriteOutput/Chapter29/HeroDisplay/Sakura",
+		"HeroIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_5",
+		"DataImpl": {},
+		"ID": 9,
+		"HeroStatus": 3
+	},
+	{
+		"UnlockPhaseRange": {
+			"BeginPhaseID": 13,
+			"EndPhaseID": 22
+		},
+		"HeroName": "ChapterOW_HeroLiveName_05",
+		"HeroDesc": "ChapterOW_HeroLiveDesc_05",
+		"HeroOrderDesc": "ChapterOW_HeroLiveOrderDesc_05",
+		"HeroImagePath": "SpriteOutput/Rogue/GodCloseUp/RougeGod_VillV01",
+		"HeroImageForDisplay": "SpriteOutput/Chapter29/HeroDisplay/VillV",
+		"HeroIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_13",
+		"DataImpl": {},
+		"ID": 10,
+		"HeroStatus": 1
+	},
+	{
+		"UnlockPhaseRange": {
+			"BeginPhaseID": 22,
+			"EndPhaseID": 30
+		},
+		"HeroName": "ChapterOW_HeroDieName_05",
+		"HeroDesc": "ChapterOW_HeroDieDesc_05",
+		"HeroOrderDesc": "ChapterOW_HeroDieOrderDesc_01",
+		"HeroImagePath": "SpriteOutput/Rogue/GodCloseUp/RougeGod_VillV01",
+		"HeroImageForDisplay": "SpriteOutput/Chapter29/HeroDisplay/VillV",
+		"HeroIconPath": "",
+		"DataImpl": {},
+		"ID": 10,
+		"HeroStatus": 2
+	},
+	{
+		"UnlockPhaseRange": {
+			"BeginPhaseID": 30,
+			"EndPhaseID": 999
+		},
+		"HeroName": "ChapterOW_HeroLiveName_05",
+		"HeroDesc": "ChapterOW_HeroLiveDesc_05",
+		"HeroOrderDesc": "ChapterOW_HeroLiveOrderDesc_05",
+		"HeroImagePath": "SpriteOutput/Rogue/GodCloseUp/RougeGod_VillV01",
+		"HeroImageForDisplay": "SpriteOutput/Chapter29/HeroDisplay/VillV",
+		"HeroIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_13",
+		"DataImpl": {},
+		"ID": 10,
+		"HeroStatus": 3
+	},
+	{
+		"UnlockPhaseRange": {
+			"BeginPhaseID": 13,
+			"EndPhaseID": 26
+		},
+		"HeroName": "ChapterOW_HeroLiveName_09",
+		"HeroDesc": "ChapterOW_HeroLiveDesc_09",
+		"HeroOrderDesc": "ChapterOW_HeroLiveOrderDesc_09",
+		"HeroImagePath": "SpriteOutput/Rogue/GodCloseUp/RougeGod_Kosma",
+		"HeroImageForDisplay": "SpriteOutput/Chapter29/HeroDisplay/Kosma",
+		"HeroIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_9",
+		"DataImpl": {},
+		"ID": 11,
+		"HeroStatus": 1
+	},
+	{
+		"UnlockPhaseRange": {
+			"BeginPhaseID": 26,
+			"EndPhaseID": 30
+		},
+		"HeroName": "ChapterOW_HeroDieName_09",
+		"HeroDesc": "ChapterOW_HeroDieDesc_09",
+		"HeroOrderDesc": "ChapterOW_HeroDieOrderDesc_01",
+		"HeroImagePath": "SpriteOutput/Rogue/GodCloseUp/RougeGod_Kosma",
+		"HeroImageForDisplay": "SpriteOutput/Chapter29/HeroDisplay/Kosma",
+		"HeroIconPath": "",
+		"DataImpl": {},
+		"ID": 11,
+		"HeroStatus": 2
+	},
+	{
+		"UnlockPhaseRange": {
+			"BeginPhaseID": 30,
+			"EndPhaseID": 999
+		},
+		"HeroName": "ChapterOW_HeroLiveName_09",
+		"HeroDesc": "ChapterOW_HeroLiveDesc_09",
+		"HeroOrderDesc": "ChapterOW_HeroLiveOrderDesc_09",
+		"HeroImagePath": "SpriteOutput/Rogue/GodCloseUp/RougeGod_Kosma",
+		"HeroImageForDisplay": "SpriteOutput/Chapter29/HeroDisplay/Kosma",
+		"HeroIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_9",
+		"DataImpl": {},
+		"ID": 11,
+		"HeroStatus": 3
+	},
+	{
+		"UnlockPhaseRange": {
+			"BeginPhaseID": 13,
+			"EndPhaseID": 27
+		},
+		"HeroName": "ChapterOW_HeroLiveName_03",
+		"HeroDesc": "ChapterOW_HeroLiveDesc_03",
+		"HeroOrderDesc": "ChapterOW_HeroLiveOrderDesc_03",
+		"HeroImagePath": "SpriteOutput/Rogue/GodCloseUp/RougeGod_Aponia",
+		"HeroImageForDisplay": "SpriteOutput/Chapter29/HeroDisplay/Aponia",
+		"HeroIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_12",
+		"DataImpl": {},
+		"ID": 12,
+		"HeroStatus": 1
+	},
+	{
+		"UnlockPhaseRange": {
+			"BeginPhaseID": 27,
+			"EndPhaseID": 30
+		},
+		"HeroName": "ChapterOW_HeroDieName_03",
+		"HeroDesc": "ChapterOW_HeroDieDesc_03",
+		"HeroOrderDesc": "ChapterOW_HeroDieOrderDesc_01",
+		"HeroImagePath": "SpriteOutput/Rogue/GodCloseUp/RougeGod_Aponia",
+		"HeroImageForDisplay": "SpriteOutput/Chapter29/HeroDisplay/Aponia",
+		"HeroIconPath": "",
+		"DataImpl": {},
+		"ID": 12,
+		"HeroStatus": 2
+	},
+	{
+		"UnlockPhaseRange": {
+			"BeginPhaseID": 30,
+			"EndPhaseID": 999
+		},
+		"HeroName": "ChapterOW_HeroLiveName_03",
+		"HeroDesc": "ChapterOW_HeroLiveDesc_03",
+		"HeroOrderDesc": "ChapterOW_HeroLiveOrderDesc_03",
+		"HeroImagePath": "SpriteOutput/Rogue/GodCloseUp/RougeGod_Aponia",
+		"HeroImageForDisplay": "SpriteOutput/Chapter29/HeroDisplay/Aponia",
+		"HeroIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_12",
+		"DataImpl": {},
+		"ID": 12,
+		"HeroStatus": 3
+	},
+	{
+		"UnlockPhaseRange": {
+			"BeginPhaseID": 13,
+			"EndPhaseID": 15
+		},
+		"HeroName": "ChapterOW_HeroLiveName_02",
+		"HeroDesc": "ChapterOW_HeroLiveDesc_02",
+		"HeroOrderDesc": "ChapterOW_HeroLiveOrderDesc_02",
+		"HeroImagePath": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Elysia",
+		"HeroImageForDisplay": "SpriteOutput/Chapter29/HeroDisplay/Elysia",
+		"HeroIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_8",
+		"DataImpl": {},
+		"ID": 13,
+		"HeroStatus": 1
+	},
+	{
+		"UnlockPhaseRange": {
+			"BeginPhaseID": 15,
+			"EndPhaseID": 30
+		},
+		"HeroName": "ChapterOW_HeroDieName_02",
+		"HeroDesc": "ChapterOW_HeroDieDesc_02",
+		"HeroOrderDesc": "ChapterOW_HeroDieOrderDesc_01",
+		"HeroImagePath": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Elysia",
+		"HeroImageForDisplay": "SpriteOutput/Chapter29/HeroDisplay/Elysia",
+		"HeroIconPath": "",
+		"DataImpl": {},
+		"ID": 13,
+		"HeroStatus": 2
+	},
+	{
+		"UnlockPhaseRange": {
+			"BeginPhaseID": 30,
+			"EndPhaseID": 999
+		},
+		"HeroName": "ChapterOW_HeroLiveName_02",
+		"HeroDesc": "ChapterOW_HeroLiveDesc_02",
+		"HeroOrderDesc": "ChapterOW_HeroLiveOrderDesc_02",
+		"HeroImagePath": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Elysia",
+		"HeroImageForDisplay": "SpriteOutput/Chapter29/HeroDisplay/Elysia",
+		"HeroIconPath": "SpriteOutput/Rogue/BuffIcon/RogueGodIcon_8",
+		"DataImpl": {},
+		"ID": 13,
+		"HeroStatus": 3
+	}
+]

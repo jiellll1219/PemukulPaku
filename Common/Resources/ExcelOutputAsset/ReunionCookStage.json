@@ -1,0 +1,57 @@
+[
+	{
+		"Rate": 0,
+		"BGpicPath": "SpriteOutput/ACTNewYearMeal/NYMStageBg01",
+		"PlotLuaPath": "Lua/VisualNovel/Output/NewYear2021/NovelNewyear2021_Part1.lua",
+		"Position": [],
+		"TablePicPath": "SpriteOutput/Dorm/Furniture/S22_SpringFestival_NightTable_01_0",
+		"RewardDisplay": 1509025,
+		"RewardDesc": "RewardDesc_Name_1",
+		"DataImpl": {},
+		"StageID": 0
+	},
+	{
+		"Rate": 25,
+		"BGpicPath": "SpriteOutput/ACTNewYearMeal/NYMStageBg02",
+		"PlotLuaPath": "Lua/VisualNovel/Output/NewYear2021/NovelChapter21_Part100.lua",
+		"Position": [],
+		"TablePicPath": "SpriteOutput/Dorm/Furniture/S22_SpringFestival_NightTable_01_1",
+		"RewardDisplay": 1509026,
+		"RewardDesc": "RewardDesc_Name_2",
+		"DataImpl": {},
+		"StageID": 1
+	},
+	{
+		"Rate": 50,
+		"BGpicPath": "SpriteOutput/ACTNewYearMeal/NYMStageBg03",
+		"PlotLuaPath": "Lua/VisualNovel/Output/NewYear2021/NovelNewyear2021_Part3.lua",
+		"Position": [],
+		"TablePicPath": "SpriteOutput/Dorm/Furniture/S22_SpringFestival_NightTable_01_2",
+		"RewardDisplay": 1509027,
+		"RewardDesc": "RewardDesc_Name_3",
+		"DataImpl": {},
+		"StageID": 2
+	},
+	{
+		"Rate": 75,
+		"BGpicPath": "SpriteOutput/ACTNewYearMeal/NYMStageBg04",
+		"PlotLuaPath": "Lua/VisualNovel/Output/NewYear2021/NovelNewyear2021_Part4.lua",
+		"Position": [],
+		"TablePicPath": "SpriteOutput/Dorm/Furniture/S22_SpringFestival_NightTable_01_3",
+		"RewardDisplay": 1509028,
+		"RewardDesc": "RewardDesc_Name_4",
+		"DataImpl": {},
+		"StageID": 3
+	},
+	{
+		"Rate": 100,
+		"BGpicPath": "SpriteOutput/ACTNewYearMeal/NYMStageBg05",
+		"PlotLuaPath": "Lua/VisualNovel/Output/NewYear2021/NovelNewyear2021_Part4.lua",
+		"Position": [],
+		"TablePicPath": "SpriteOutput/Dorm/Furniture/S22_SpringFestival_NightTable_01_3",
+		"RewardDisplay": 1509028,
+		"RewardDesc": "RewardDesc_Name_4",
+		"DataImpl": {},
+		"StageID": 4
+	}
+]

@@ -1,0 +1,1970 @@
+[
+	{
+		"StageType": 1,
+		"EntityID": 0,
+		"AreaBuffID": 0,
+		"StageGroupID": 1,
+		"MonstersUIDList": [
+			254001,
+			254001,
+			254001
+		],
+		"MonsterSpawnList": [
+			"EnemySpawn（4）",
+			"EnemySpawn（5）EnemySpawn（6）"
+		],
+		"StageName": "Stage_Elysion_Activity01",
+		"BgmName": "Battle_57_ElysionGarden_1",
+		"TimeLimit": 25,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151300
+	},
+	{
+		"StageType": 1,
+		"EntityID": 0,
+		"AreaBuffID": 0,
+		"StageGroupID": 1,
+		"MonstersUIDList": [
+			254001,
+			254001,
+			254001
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "Stage_Battle_Castal_Ruins",
+		"BgmName": "Tmow_N1",
+		"TimeLimit": 40,
+		"TimeLimitIncrement": [
+			10,
+			10,
+			20,
+			20
+		],
+		"DataImpl": {},
+		"StageID": 151301
+	},
+	{
+		"StageType": 1,
+		"EntityID": 0,
+		"AreaBuffID": 1,
+		"StageGroupID": 2,
+		"MonstersUIDList": [
+			254001,
+			254001,
+			254001
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "ExtraStory01_06",
+		"BgmName": "ExtraStory_01",
+		"TimeLimit": 40,
+		"TimeLimitIncrement": [
+			10,
+			10,
+			20,
+			20
+		],
+		"DataImpl": {},
+		"StageID": 151302
+	},
+	{
+		"StageType": 1,
+		"EntityID": 0,
+		"AreaBuffID": 2,
+		"StageGroupID": 3,
+		"MonstersUIDList": [
+			254001,
+			254001,
+			254001
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "Stage_Battle_Castal_Forest",
+		"BgmName": "Boss_32",
+		"TimeLimit": 40,
+		"TimeLimitIncrement": [
+			10,
+			10,
+			20,
+			20
+		],
+		"DataImpl": {},
+		"StageID": 151303
+	},
+	{
+		"StageType": 1,
+		"EntityID": 0,
+		"AreaBuffID": 3,
+		"StageGroupID": 4,
+		"MonstersUIDList": [
+			254001,
+			254001,
+			254001
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "Stage_UnderSea_09",
+		"BgmName": "Battle_30",
+		"TimeLimit": 40,
+		"TimeLimitIncrement": [
+			10,
+			10,
+			20,
+			20
+		],
+		"DataImpl": {},
+		"StageID": 151304
+	},
+	{
+		"StageType": 1,
+		"EntityID": 0,
+		"AreaBuffID": 4,
+		"StageGroupID": 5,
+		"MonstersUIDList": [
+			254001,
+			254001,
+			254001
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "StageTower_Part04_1_new",
+		"BgmName": "Battle_47",
+		"TimeLimit": 40,
+		"TimeLimitIncrement": [
+			10,
+			10,
+			20,
+			20
+		],
+		"DataImpl": {},
+		"StageID": 151305
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 0,
+		"StageGroupID": 6,
+		"MonstersUIDList": [
+			254277,
+			254278,
+			254279
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "StageBeach_04",
+		"BgmName": "Tmow_N1",
+		"TimeLimit": 45,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151306
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 0,
+		"StageGroupID": 6,
+		"MonstersUIDList": [
+			254280,
+			254281,
+			254282
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "Stage_Battle_Castal_Ruins",
+		"BgmName": "Tmow_N1",
+		"TimeLimit": 45,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151307
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 0,
+		"StageGroupID": 6,
+		"MonstersUIDList": [
+			254283,
+			254284,
+			254285
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "Stage_Battle_Castal_Ruins",
+		"BgmName": "Tmow_N1",
+		"TimeLimit": 45,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151308
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 0,
+		"StageGroupID": 6,
+		"MonstersUIDList": [
+			254286,
+			254287,
+			254288
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "Stage_Battle_Castal_Ruins",
+		"BgmName": "Tmow_N1",
+		"TimeLimit": 45,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151309
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 0,
+		"StageGroupID": 6,
+		"MonstersUIDList": [
+			254289,
+			254290,
+			254291
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "Stage_Battle_Castal_Ruins",
+		"BgmName": "Tmow_N1",
+		"TimeLimit": 45,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151310
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 0,
+		"StageGroupID": 6,
+		"MonstersUIDList": [
+			254292,
+			254293,
+			254294
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "Stage_Battle_Castal_Ruins",
+		"BgmName": "Tmow_N1",
+		"TimeLimit": 45,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151311
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 0,
+		"StageGroupID": 6,
+		"MonstersUIDList": [
+			254295,
+			254296,
+			254297
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "Stage_Battle_Castal_Ruins",
+		"BgmName": "Tmow_N1",
+		"TimeLimit": 45,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151312
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 0,
+		"StageGroupID": 6,
+		"MonstersUIDList": [
+			254298,
+			254299,
+			254300
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "Stage_Battle_Castal_Ruins",
+		"BgmName": "Tmow_N1",
+		"TimeLimit": 45,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151313
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 0,
+		"StageGroupID": 6,
+		"MonstersUIDList": [
+			254301,
+			254302,
+			254303
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "Stage_Battle_Castal_Ruins",
+		"BgmName": "Tmow_N1",
+		"TimeLimit": 60,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151314
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 0,
+		"StageGroupID": 6,
+		"MonstersUIDList": [
+			254304,
+			254305,
+			254306
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "Stage_Battle_Castal_Ruins",
+		"BgmName": "Tmow_N1",
+		"TimeLimit": 45,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151315
+	},
+	{
+		"StageType": 2,
+		"EntityID": 110201,
+		"AreaBuffID": 0,
+		"StageGroupID": 1,
+		"MonstersUIDList": [
+			254271
+		],
+		"MonsterSpawnList": [
+			"Center"
+		],
+		"StageName": "Memory_Xuanyuan_01",
+		"BgmName": "OW_Snow_Boss_Cbt",
+		"TimeLimit": 90,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151320
+	},
+	{
+		"StageType": 2,
+		"EntityID": 110202,
+		"AreaBuffID": 0,
+		"StageGroupID": 1,
+		"MonstersUIDList": [
+			254271
+		],
+		"MonsterSpawnList": [
+			"Center"
+		],
+		"StageName": "Memory_Xuanyuan_01",
+		"BgmName": "OW_Snow_Boss_Cbt",
+		"TimeLimit": 90,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151321
+	},
+	{
+		"StageType": 2,
+		"EntityID": 120201,
+		"AreaBuffID": 1,
+		"StageGroupID": 2,
+		"MonstersUIDList": [
+			254272
+		],
+		"MonsterSpawnList": [
+			"Center"
+		],
+		"StageName": "ExtraStory01_Boss_01",
+		"BgmName": "ExtraStory_Boss_01",
+		"TimeLimit": 90,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151322
+	},
+	{
+		"StageType": 2,
+		"EntityID": 120202,
+		"AreaBuffID": 1,
+		"StageGroupID": 2,
+		"MonstersUIDList": [
+			254272
+		],
+		"MonsterSpawnList": [
+			"Center"
+		],
+		"StageName": "ExtraStory01_Boss_01",
+		"BgmName": "ExtraStory_Boss_01",
+		"TimeLimit": 90,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151323
+	},
+	{
+		"StageType": 2,
+		"EntityID": 130201,
+		"AreaBuffID": 2,
+		"StageGroupID": 3,
+		"MonstersUIDList": [
+			254273
+		],
+		"MonsterSpawnList": [
+			"Center"
+		],
+		"StageName": "Stage_Battle_Castal_Forest",
+		"BgmName": "Boss_32",
+		"TimeLimit": 90,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151324
+	},
+	{
+		"StageType": 2,
+		"EntityID": 130202,
+		"AreaBuffID": 2,
+		"StageGroupID": 3,
+		"MonstersUIDList": [
+			254273
+		],
+		"MonsterSpawnList": [
+			"Center"
+		],
+		"StageName": "Stage_Battle_Castal_Forest",
+		"BgmName": "Boss_32",
+		"TimeLimit": 90,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151325
+	},
+	{
+		"StageType": 2,
+		"EntityID": 140201,
+		"AreaBuffID": 3,
+		"StageGroupID": 4,
+		"MonstersUIDList": [
+			254274
+		],
+		"MonsterSpawnList": [
+			"Center"
+		],
+		"StageName": "Stage_UnderSea_09",
+		"BgmName": "Boss_30",
+		"TimeLimit": 90,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151326
+	},
+	{
+		"StageType": 2,
+		"EntityID": 140202,
+		"AreaBuffID": 3,
+		"StageGroupID": 4,
+		"MonstersUIDList": [
+			254274
+		],
+		"MonsterSpawnList": [
+			"Center"
+		],
+		"StageName": "Stage_UnderSea_09",
+		"BgmName": "Boss_30",
+		"TimeLimit": 90,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151327
+	},
+	{
+		"StageType": 2,
+		"EntityID": 150201,
+		"AreaBuffID": 4,
+		"StageGroupID": 4,
+		"MonstersUIDList": [
+			254275
+		],
+		"MonsterSpawnList": [
+			"Center"
+		],
+		"StageName": "StageTower_Part04_1_new",
+		"BgmName": "Battle_47",
+		"TimeLimit": 90,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151328
+	},
+	{
+		"StageType": 2,
+		"EntityID": 150202,
+		"AreaBuffID": 4,
+		"StageGroupID": 4,
+		"MonstersUIDList": [
+			254275
+		],
+		"MonsterSpawnList": [
+			"Center"
+		],
+		"StageName": "StageTower_Part04_1_new",
+		"BgmName": "Battle_47",
+		"TimeLimit": 90,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151329
+	},
+	{
+		"StageType": 3,
+		"EntityID": 151301,
+		"AreaBuffID": 4,
+		"StageGroupID": 5,
+		"MonstersUIDList": [
+			254276
+		],
+		"MonsterSpawnList": [
+			"Center"
+		],
+		"StageName": "StageTower_Part04_1_new",
+		"BgmName": "Poison_Boss",
+		"TimeLimit": 90,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151330
+	},
+	{
+		"StageType": 2,
+		"EntityID": 210201,
+		"AreaBuffID": 0,
+		"StageGroupID": 1,
+		"MonstersUIDList": [
+			254271
+		],
+		"MonsterSpawnList": [
+			"Center"
+		],
+		"StageName": "Memory_Xuanyuan_01",
+		"BgmName": "OW_Snow_Boss_Cbt",
+		"TimeLimit": 90,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151331
+	},
+	{
+		"StageType": 2,
+		"EntityID": 210202,
+		"AreaBuffID": 0,
+		"StageGroupID": 1,
+		"MonstersUIDList": [
+			254271
+		],
+		"MonsterSpawnList": [
+			"Center"
+		],
+		"StageName": "Memory_Xuanyuan_01",
+		"BgmName": "OW_Snow_Boss_Cbt",
+		"TimeLimit": 90,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151332
+	},
+	{
+		"StageType": 2,
+		"EntityID": 220201,
+		"AreaBuffID": 1,
+		"StageGroupID": 2,
+		"MonstersUIDList": [
+			254272
+		],
+		"MonsterSpawnList": [
+			"Center"
+		],
+		"StageName": "ExtraStory01_Boss_01",
+		"BgmName": "ExtraStory_Boss_01",
+		"TimeLimit": 90,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151333
+	},
+	{
+		"StageType": 2,
+		"EntityID": 220202,
+		"AreaBuffID": 1,
+		"StageGroupID": 2,
+		"MonstersUIDList": [
+			254272
+		],
+		"MonsterSpawnList": [
+			"Center"
+		],
+		"StageName": "ExtraStory01_Boss_01",
+		"BgmName": "ExtraStory_Boss_01",
+		"TimeLimit": 90,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151334
+	},
+	{
+		"StageType": 2,
+		"EntityID": 230201,
+		"AreaBuffID": 2,
+		"StageGroupID": 3,
+		"MonstersUIDList": [
+			254273
+		],
+		"MonsterSpawnList": [
+			"Center"
+		],
+		"StageName": "Stage_Battle_Castal_Forest",
+		"BgmName": "Boss_32",
+		"TimeLimit": 90,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151335
+	},
+	{
+		"StageType": 2,
+		"EntityID": 230202,
+		"AreaBuffID": 2,
+		"StageGroupID": 3,
+		"MonstersUIDList": [
+			254273
+		],
+		"MonsterSpawnList": [
+			"Center"
+		],
+		"StageName": "Stage_Battle_Castal_Forest",
+		"BgmName": "Boss_32",
+		"TimeLimit": 90,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151336
+	},
+	{
+		"StageType": 2,
+		"EntityID": 240201,
+		"AreaBuffID": 3,
+		"StageGroupID": 4,
+		"MonstersUIDList": [
+			254274
+		],
+		"MonsterSpawnList": [
+			"Center"
+		],
+		"StageName": "Stage_UnderSea_09",
+		"BgmName": "Boss_30",
+		"TimeLimit": 90,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151337
+	},
+	{
+		"StageType": 2,
+		"EntityID": 240202,
+		"AreaBuffID": 3,
+		"StageGroupID": 4,
+		"MonstersUIDList": [
+			254274
+		],
+		"MonsterSpawnList": [
+			"Center"
+		],
+		"StageName": "Stage_UnderSea_09",
+		"BgmName": "Boss_30",
+		"TimeLimit": 90,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151338
+	},
+	{
+		"StageType": 2,
+		"EntityID": 150203,
+		"AreaBuffID": 4,
+		"StageGroupID": 4,
+		"MonstersUIDList": [
+			254275
+		],
+		"MonsterSpawnList": [
+			"Center"
+		],
+		"StageName": "StageTower_Part04_1_new",
+		"BgmName": "Battle_47",
+		"TimeLimit": 90,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151339
+	},
+	{
+		"StageType": 2,
+		"EntityID": 150204,
+		"AreaBuffID": 4,
+		"StageGroupID": 4,
+		"MonstersUIDList": [
+			254275
+		],
+		"MonsterSpawnList": [
+			"Center"
+		],
+		"StageName": "StageTower_Part04_1_new",
+		"BgmName": "Battle_47",
+		"TimeLimit": 90,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151340
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 1,
+		"StageGroupID": 7,
+		"MonstersUIDList": [
+			254307,
+			254308,
+			254309
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "ExtraStory01_Boss_01",
+		"BgmName": "ExtraStory_Boss_01",
+		"TimeLimit": 60,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151341
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 1,
+		"StageGroupID": 7,
+		"MonstersUIDList": [
+			254310,
+			254311,
+			254312
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "ExtraStory01_03",
+		"BgmName": "ExtraStory_01",
+		"TimeLimit": 45,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151342
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 1,
+		"StageGroupID": 7,
+		"MonstersUIDList": [
+			254313,
+			254314,
+			254315
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "ExtraStory01_06",
+		"BgmName": "ExtraStory_01",
+		"TimeLimit": 45,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151343
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 1,
+		"StageGroupID": 7,
+		"MonstersUIDList": [
+			254316,
+			254317,
+			254318
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "ExtraStory01_06",
+		"BgmName": "ExtraStory_01",
+		"TimeLimit": 45,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151344
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 1,
+		"StageGroupID": 7,
+		"MonstersUIDList": [
+			254319,
+			254320,
+			254321
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "ExtraStory01_06",
+		"BgmName": "ExtraStory_01",
+		"TimeLimit": 45,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151345
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 1,
+		"StageGroupID": 7,
+		"MonstersUIDList": [
+			254322
+		],
+		"MonsterSpawnList": [
+			"Spawn06"
+		],
+		"StageName": "ExtraStory01_06",
+		"BgmName": "ExtraStory_01",
+		"TimeLimit": 45,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151346
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 1,
+		"StageGroupID": 7,
+		"MonstersUIDList": [
+			254323
+		],
+		"MonsterSpawnList": [
+			"Spawn06"
+		],
+		"StageName": "ExtraStory01_06",
+		"BgmName": "ExtraStory_01",
+		"TimeLimit": 45,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151347
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 1,
+		"StageGroupID": 7,
+		"MonstersUIDList": [
+			254001,
+			254001,
+			254001
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "ExtraStory01_06",
+		"BgmName": "ExtraStory_01",
+		"TimeLimit": 25,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151348
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 1,
+		"StageGroupID": 7,
+		"MonstersUIDList": [
+			254001,
+			254001,
+			254001
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "ExtraStory01_06",
+		"BgmName": "ExtraStory_01",
+		"TimeLimit": 25,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151349
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 1,
+		"StageGroupID": 7,
+		"MonstersUIDList": [
+			254001,
+			254001,
+			254001
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "ExtraStory01_06",
+		"BgmName": "ExtraStory_01",
+		"TimeLimit": 25,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151350
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 2,
+		"StageGroupID": 8,
+		"MonstersUIDList": [
+			254324,
+			254325,
+			254326
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "Stage_Battle_Castal_Forest",
+		"BgmName": "Boss_32",
+		"TimeLimit": 45,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151351
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 2,
+		"StageGroupID": 8,
+		"MonstersUIDList": [
+			254327,
+			254328,
+			254329
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "Stage_Battle_Castal_Forest",
+		"BgmName": "Boss_32",
+		"TimeLimit": 45,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151352
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 2,
+		"StageGroupID": 8,
+		"MonstersUIDList": [
+			254330,
+			254331,
+			254332
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "Stage_Battle_Castal_Forest",
+		"BgmName": "Boss_32",
+		"TimeLimit": 45,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151353
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 2,
+		"StageGroupID": 8,
+		"MonstersUIDList": [
+			254333
+		],
+		"MonsterSpawnList": [
+			"EnemySpawn (11)"
+		],
+		"StageName": "Stage_Battle_Castal_Forest",
+		"BgmName": "Boss_32",
+		"TimeLimit": 45,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151354
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 2,
+		"StageGroupID": 8,
+		"MonstersUIDList": [
+			254334
+		],
+		"MonsterSpawnList": [
+			"EnemySpawn (11)"
+		],
+		"StageName": "Stage_Battle_Castal_Forest",
+		"BgmName": "Boss_32",
+		"TimeLimit": 45,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151355
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 2,
+		"StageGroupID": 8,
+		"MonstersUIDList": [
+			254335,
+			254336,
+			254337
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "Stage_Battle_Castal_Forest",
+		"BgmName": "OW_Snow_Boss_Cbt",
+		"TimeLimit": 85,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151356
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 2,
+		"StageGroupID": 8,
+		"MonstersUIDList": [
+			254338,
+			254339,
+			254340
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "Stage_Fuka_TaiXu_A",
+		"BgmName": "Boss_30",
+		"TimeLimit": 45,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151357
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 2,
+		"StageGroupID": 8,
+		"MonstersUIDList": [
+			254001,
+			254001,
+			254001
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "Stage_Battle_Castal_Forest",
+		"BgmName": "Boss_32",
+		"TimeLimit": 25,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151358
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 2,
+		"StageGroupID": 8,
+		"MonstersUIDList": [
+			254001,
+			254001,
+			254001
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "Stage_Battle_Castal_Forest",
+		"BgmName": "Boss_32",
+		"TimeLimit": 25,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151359
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 2,
+		"StageGroupID": 8,
+		"MonstersUIDList": [
+			254001,
+			254001,
+			254001
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "Stage_Battle_Castal_Forest",
+		"BgmName": "Boss_32",
+		"TimeLimit": 25,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151360
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 3,
+		"StageGroupID": 9,
+		"MonstersUIDList": [
+			254341
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "Stage_UnderSea_09",
+		"BgmName": "Boss_30",
+		"TimeLimit": 45,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151361
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 3,
+		"StageGroupID": 9,
+		"MonstersUIDList": [
+			254342,
+			254343,
+			254344
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "Stage_UnderSea_09",
+		"BgmName": "Boss_30",
+		"TimeLimit": 110,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151362
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 3,
+		"StageGroupID": 9,
+		"MonstersUIDList": [
+			254345,
+			254346,
+			254347
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "Stage_UnderSea_01",
+		"BgmName": "Battle_30",
+		"TimeLimit": 45,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151363
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 3,
+		"StageGroupID": 9,
+		"MonstersUIDList": [
+			254001,
+			254001,
+			254001
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "Stage_UnderSea_09",
+		"BgmName": "Boss_30",
+		"TimeLimit": 25,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151364
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 3,
+		"StageGroupID": 9,
+		"MonstersUIDList": [
+			254001,
+			254001,
+			254001
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "Stage_UnderSea_09",
+		"BgmName": "Boss_30",
+		"TimeLimit": 25,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151365
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 3,
+		"StageGroupID": 9,
+		"MonstersUIDList": [
+			254001,
+			254001,
+			254001
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "Stage_UnderSea_09",
+		"BgmName": "Boss_30",
+		"TimeLimit": 25,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151366
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 3,
+		"StageGroupID": 9,
+		"MonstersUIDList": [
+			254001,
+			254001,
+			254001
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "Stage_UnderSea_09",
+		"BgmName": "Boss_30",
+		"TimeLimit": 25,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151367
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 3,
+		"StageGroupID": 9,
+		"MonstersUIDList": [
+			254001,
+			254001,
+			254001
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "Stage_UnderSea_09",
+		"BgmName": "Boss_30",
+		"TimeLimit": 25,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151368
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 3,
+		"StageGroupID": 9,
+		"MonstersUIDList": [
+			254001,
+			254001,
+			254001
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "Stage_UnderSea_09",
+		"BgmName": "Boss_30",
+		"TimeLimit": 25,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151369
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 3,
+		"StageGroupID": 9,
+		"MonstersUIDList": [
+			254001,
+			254001,
+			254001
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "Stage_UnderSea_09",
+		"BgmName": "Boss_30",
+		"TimeLimit": 25,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151370
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 4,
+		"StageGroupID": 10,
+		"MonstersUIDList": [
+			254348,
+			254349,
+			254350
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "StageTower_Part04_1_new",
+		"BgmName": "Battle_47",
+		"TimeLimit": 45,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151371
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 4,
+		"StageGroupID": 10,
+		"MonstersUIDList": [
+			254351,
+			254352,
+			254353
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "StageTower_Part04_1_new",
+		"BgmName": "Battle_47",
+		"TimeLimit": 45,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151372
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 4,
+		"StageGroupID": 10,
+		"MonstersUIDList": [
+			254354,
+			254355,
+			254356
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "StageTower_Part04_1_new",
+		"BgmName": "Battle_47",
+		"TimeLimit": 45,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151373
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 4,
+		"StageGroupID": 10,
+		"MonstersUIDList": [
+			254357
+		],
+		"MonsterSpawnList": [
+			"Spawn13"
+		],
+		"StageName": "StageTower_Part04_1_new",
+		"BgmName": "Battle_47",
+		"TimeLimit": 45,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151374
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 4,
+		"StageGroupID": 10,
+		"MonstersUIDList": [
+			254358
+		],
+		"MonsterSpawnList": [
+			"Spawn13"
+		],
+		"StageName": "StageTower_Part04_1_new",
+		"BgmName": "Battle_47",
+		"TimeLimit": 45,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151375
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 4,
+		"StageGroupID": 10,
+		"MonstersUIDList": [
+			254359,
+			254360,
+			254361
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "StageTower_Part01",
+		"BgmName": "ExtraStory_Bronya",
+		"TimeLimit": 110,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151376
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 4,
+		"StageGroupID": 10,
+		"MonstersUIDList": [
+			254362,
+			254363,
+			254364
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "StageTower_Part01",
+		"BgmName": "SFC_02",
+		"TimeLimit": 45,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151377
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 4,
+		"StageGroupID": 10,
+		"MonstersUIDList": [
+			254001,
+			254001,
+			254001
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "StageTower_Part04_1_new",
+		"BgmName": "Battle_47",
+		"TimeLimit": 25,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151378
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 4,
+		"StageGroupID": 10,
+		"MonstersUIDList": [
+			254001,
+			254001,
+			254001
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "StageTower_Part04_1_new",
+		"BgmName": "Battle_47",
+		"TimeLimit": 25,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151379
+	},
+	{
+		"StageType": 4,
+		"EntityID": 0,
+		"AreaBuffID": 4,
+		"StageGroupID": 10,
+		"MonstersUIDList": [
+			254001,
+			254001,
+			254001
+		],
+		"MonsterSpawnList": [
+			"Center",
+			"Center",
+			"Center"
+		],
+		"StageName": "StageTower_Part04_1_new",
+		"BgmName": "Battle_47",
+		"TimeLimit": 25,
+		"TimeLimitIncrement": [
+			15,
+			15,
+			15,
+			15
+		],
+		"DataImpl": {},
+		"StageID": 151380
+	}
+]

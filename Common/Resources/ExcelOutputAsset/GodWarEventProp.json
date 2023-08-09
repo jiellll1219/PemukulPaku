@@ -1,0 +1,32 @@
+[
+	{
+		"PropName": "Stage_Lost_Tomb_Items_Shop",
+		"PropEvent": 200000,
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconSetting",
+		"InteractDesc": {
+			"hash": -563716769
+		},
+		"DataImpl": {},
+		"PropID": 1
+	},
+	{
+		"PropName": "Stage_Lost_Tomb_Items_Change",
+		"PropEvent": 200000,
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconSetting",
+		"InteractDesc": {
+			"hash": -563716768
+		},
+		"DataImpl": {},
+		"PropID": 2
+	},
+	{
+		"PropName": "Stage_Lost_Tomb_Items_Shop_With_Pardofelis",
+		"PropEvent": 2000001,
+		"InteractIcon": "SpriteOutput/InLevel/Prop/IconSetting",
+		"InteractDesc": {
+			"hash": -563716769
+		},
+		"DataImpl": {},
+		"PropID": 3
+	}
+]

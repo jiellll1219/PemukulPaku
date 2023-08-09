@@ -1,0 +1,539 @@
+[
+	{
+		"Desc": {
+			"hash": -1500975873
+		},
+		"IsActive": true,
+		"Type": 1,
+		"MinLv": 40,
+		"MaxLv": 99,
+		"Weight": 20,
+		"UrlPath": "event/Immediately/GoBackPlayer/GuideRow_1",
+		"FeatureLinkType": 71,
+		"LinkParam": [
+			0
+		],
+		"FeatureBeginTime": "2018-09-20 04:00:00",
+		"FeatureEndTime": "2018-10-25 04:00:00",
+		"DataImpl": {},
+		"FeatureID": 101
+	},
+	{
+		"Desc": {
+			"hash": -1500975872
+		},
+		"IsActive": true,
+		"Type": 1,
+		"MinLv": 60,
+		"MaxLv": 99,
+		"Weight": 13,
+		"UrlPath": "event/Immediately/GoBackPlayer/GuideRow_2",
+		"FeatureLinkType": 67,
+		"LinkParam": [
+			0
+		],
+		"FeatureBeginTime": "2017-10-30 04:00:00",
+		"FeatureEndTime": "2023-05-15 04:00:00",
+		"DataImpl": {},
+		"FeatureID": 102
+	},
+	{
+		"Desc": {
+			"hash": -1500975871
+		},
+		"IsActive": true,
+		"Type": 1,
+		"MinLv": 50,
+		"MaxLv": 99,
+		"Weight": 15,
+		"UrlPath": "event/Immediately/GoBackPlayer/GuideRow_3",
+		"FeatureLinkType": 23,
+		"LinkParam": [
+			0
+		],
+		"FeatureBeginTime": "2017-10-30 04:00:00",
+		"FeatureEndTime": "2023-05-15 04:00:00",
+		"DataImpl": {},
+		"FeatureID": 103
+	},
+	{
+		"Desc": {
+			"hash": -1500975870
+		},
+		"IsActive": true,
+		"Type": 1,
+		"MinLv": 38,
+		"MaxLv": 99,
+		"Weight": 16,
+		"UrlPath": "event/Immediately/GoBackPlayer/GuideRow_4",
+		"FeatureLinkType": 37,
+		"LinkParam": [
+			0
+		],
+		"FeatureBeginTime": "2017-10-30 04:00:00",
+		"FeatureEndTime": "2023-05-15 04:00:00",
+		"DataImpl": {},
+		"FeatureID": 104
+	},
+	{
+		"Desc": {
+			"hash": -1500975869
+		},
+		"IsActive": true,
+		"Type": 1,
+		"MinLv": 20,
+		"MaxLv": 99,
+		"Weight": 14,
+		"UrlPath": "event/Immediately/GoBackPlayer/GuideRow_5",
+		"FeatureLinkType": 23,
+		"LinkParam": [
+			0
+		],
+		"FeatureBeginTime": "2017-10-30 04:00:00",
+		"FeatureEndTime": "2023-05-15 04:00:00",
+		"DataImpl": {},
+		"FeatureID": 105
+	},
+	{
+		"Desc": {
+			"hash": -1500975868
+		},
+		"IsActive": true,
+		"Type": 1,
+		"MinLv": 25,
+		"MaxLv": 99,
+		"Weight": 17,
+		"UrlPath": "event/Immediately/GoBackPlayer/GuideRow_6",
+		"FeatureLinkType": 10,
+		"LinkParam": [
+			0
+		],
+		"FeatureBeginTime": "2017-10-30 04:00:00",
+		"FeatureEndTime": "2023-05-15 04:00:00",
+		"DataImpl": {},
+		"FeatureID": 106
+	},
+	{
+		"Desc": {
+			"hash": -1500975867
+		},
+		"IsActive": true,
+		"Type": 1,
+		"MinLv": 30,
+		"MaxLv": 99,
+		"Weight": 12,
+		"UrlPath": "event/Immediately/GoBackPlayer/GuideRow_7",
+		"FeatureLinkType": 65,
+		"LinkParam": [
+			0
+		],
+		"FeatureBeginTime": "2017-10-30 04:00:00",
+		"FeatureEndTime": "2023-05-15 04:00:00",
+		"DataImpl": {},
+		"FeatureID": 107
+	},
+	{
+		"Desc": {
+			"hash": -1500975866
+		},
+		"IsActive": true,
+		"Type": 1,
+		"MinLv": 15,
+		"MaxLv": 99,
+		"Weight": 3,
+		"UrlPath": "event/Immediately/GoBackPlayer/GuideRow_8",
+		"FeatureLinkType": 9,
+		"LinkParam": [
+			0
+		],
+		"FeatureBeginTime": "2017-10-30 04:00:00",
+		"FeatureEndTime": "2023-05-15 04:00:00",
+		"DataImpl": {},
+		"FeatureID": 108
+	},
+	{
+		"Desc": {
+			"hash": -1500975865
+		},
+		"IsActive": true,
+		"Type": 1,
+		"MinLv": 15,
+		"MaxLv": 99,
+		"Weight": 2,
+		"UrlPath": "event/Immediately/GoBackPlayer/GuideRow_9",
+		"FeatureLinkType": 8,
+		"LinkParam": [
+			1001,
+			1002,
+			1003,
+			1004,
+			1005,
+			1301
+		],
+		"FeatureBeginTime": "2017-10-30 04:00:00",
+		"FeatureEndTime": "2023-05-15 04:00:00",
+		"DataImpl": {},
+		"FeatureID": 109
+	},
+	{
+		"Desc": {
+			"hash": -1500975843
+		},
+		"IsActive": true,
+		"Type": 1,
+		"MinLv": 15,
+		"MaxLv": 99,
+		"Weight": 1,
+		"UrlPath": "event/Immediately/GoBackPlayer/GuideRow_10",
+		"FeatureLinkType": 42,
+		"LinkParam": [
+			0
+		],
+		"FeatureBeginTime": "2017-10-30 04:00:00",
+		"FeatureEndTime": "2023-05-15 04:00:00",
+		"DataImpl": {},
+		"FeatureID": 110
+	},
+	{
+		"Desc": {
+			"hash": -1500975842
+		},
+		"IsActive": true,
+		"Type": 1,
+		"MinLv": 40,
+		"MaxLv": 99,
+		"Weight": 20,
+		"UrlPath": "event/Immediately/GoBackPlayer/GuideRow_11",
+		"FeatureLinkType": 78,
+		"LinkParam": [
+			0
+		],
+		"FeatureBeginTime": "2018-11-05 12:00:00",
+		"FeatureEndTime": "2018-12-15 04:00:00",
+		"DataImpl": {},
+		"FeatureID": 111
+	},
+	{
+		"Desc": {
+			"hash": -1500975841
+		},
+		"IsActive": true,
+		"Type": 1,
+		"MinLv": 40,
+		"MaxLv": 99,
+		"Weight": 20,
+		"UrlPath": "event/Immediately/GoBackPlayer/GuideRow_12",
+		"FeatureLinkType": 1006,
+		"LinkParam": [
+			0
+		],
+		"FeatureBeginTime": "2019-02-11 15:00:00",
+		"FeatureEndTime": "2019-03-10 04:00:00",
+		"DataImpl": {},
+		"FeatureID": 112
+	},
+	{
+		"Desc": {
+			"hash": -1500975840
+		},
+		"IsActive": true,
+		"Type": 1,
+		"MinLv": 20,
+		"MaxLv": 99,
+		"Weight": 19,
+		"UrlPath": "event/Immediately/GoBackPlayer/GuideRow_13",
+		"FeatureLinkType": 84,
+		"LinkParam": [
+			0
+		],
+		"FeatureBeginTime": "2019-01-24 15:00:00",
+		"FeatureEndTime": "2019-02-22 23:59:59",
+		"DataImpl": {},
+		"FeatureID": 113
+	},
+	{
+		"Desc": {
+			"hash": -1500975839
+		},
+		"IsActive": true,
+		"Type": 1,
+		"MinLv": 20,
+		"MaxLv": 99,
+		"Weight": 18,
+		"UrlPath": "event/Immediately/GoBackPlayer/GuideRow_14",
+		"FeatureLinkType": 85,
+		"LinkParam": [
+			0
+		],
+		"FeatureBeginTime": "2019-01-24 15:00:00",
+		"FeatureEndTime": "2019-02-13 23:59:59",
+		"DataImpl": {},
+		"FeatureID": 114
+	},
+	{
+		"Desc": {
+			"hash": -1500975838
+		},
+		"IsActive": true,
+		"Type": 1,
+		"MinLv": 50,
+		"MaxLv": 99,
+		"Weight": 20,
+		"UrlPath": "event/Immediately/GoBackPlayer/GuideRow_15",
+		"FeatureLinkType": 64,
+		"LinkParam": [
+			4088
+		],
+		"FeatureBeginTime": "2019-03-14 11:00:00",
+		"FeatureEndTime": "2019-04-25 04:00:00",
+		"DataImpl": {},
+		"FeatureID": 115
+	},
+	{
+		"Desc": {
+			"hash": -1500975837
+		},
+		"IsActive": true,
+		"Type": 1,
+		"MinLv": 55,
+		"MaxLv": 99,
+		"Weight": 19,
+		"UrlPath": "event/Immediately/GoBackPlayer/GuideRow_16",
+		"FeatureLinkType": 77,
+		"LinkParam": [
+			3
+		],
+		"FeatureBeginTime": "2019-03-14 11:00:00",
+		"FeatureEndTime": "2019-04-25 04:00:00",
+		"DataImpl": {},
+		"FeatureID": 116
+	},
+	{
+		"Desc": {
+			"hash": -1500975836
+		},
+		"IsActive": true,
+		"Type": 1,
+		"MinLv": 15,
+		"MaxLv": 99,
+		"Weight": 18,
+		"UrlPath": "event/Immediately/GoBackPlayer/GuideRow_17",
+		"FeatureLinkType": 9,
+		"LinkParam": [
+			0
+		],
+		"FeatureBeginTime": "2019-03-14 11:00:00",
+		"FeatureEndTime": "2019-04-25 04:00:00",
+		"DataImpl": {},
+		"FeatureID": 117
+	},
+	{
+		"Desc": {
+			"hash": -1500975835
+		},
+		"IsActive": true,
+		"Type": 1,
+		"MinLv": 30,
+		"MaxLv": 99,
+		"Weight": 21,
+		"UrlPath": "event/Immediately/GoBackPlayer/GuideRow_18",
+		"FeatureLinkType": 65,
+		"LinkParam": [
+			0
+		],
+		"FeatureBeginTime": "2019-04-25 12:00:00",
+		"FeatureEndTime": "2019-06-05 04:00:00",
+		"DataImpl": {},
+		"FeatureID": 118
+	},
+	{
+		"Desc": {
+			"hash": -1500975834
+		},
+		"IsActive": true,
+		"Type": 1,
+		"MinLv": 30,
+		"MaxLv": 99,
+		"Weight": 22,
+		"UrlPath": "event/Immediately/GoBackPlayer/GuideRow_19",
+		"FeatureLinkType": 92,
+		"LinkParam": [
+			0
+		],
+		"FeatureBeginTime": "2019-04-30 10:00:00",
+		"FeatureEndTime": "2019-05-23 00:00:00",
+		"DataImpl": {},
+		"FeatureID": 119
+	},
+	{
+		"Desc": {
+			"hash": -1500975812
+		},
+		"IsActive": true,
+		"Type": 1,
+		"MinLv": 40,
+		"MaxLv": 99,
+		"Weight": 23,
+		"UrlPath": "event/Immediately/GoBackPlayer/GuideRow_20",
+		"FeatureLinkType": 1006,
+		"LinkParam": [
+			0
+		],
+		"FeatureBeginTime": "2019-05-17 10:00:00",
+		"FeatureEndTime": "2019-06-05 04:00:00",
+		"DataImpl": {},
+		"FeatureID": 120
+	},
+	{
+		"Desc": {
+			"hash": 1584056499
+		},
+		"IsActive": true,
+		"Type": 2,
+		"MinLv": 25,
+		"MaxLv": 99,
+		"Weight": 17,
+		"UrlPath": "event/Immediately/GoBackPlayer/LoginGuide_1",
+		"FeatureLinkType": 10,
+		"LinkParam": [
+			0
+		],
+		"FeatureBeginTime": "2017-10-30 04:00:00",
+		"FeatureEndTime": "2019-01-25 04:00:00",
+		"DataImpl": {},
+		"FeatureID": 201
+	},
+	{
+		"Desc": {
+			"hash": 1584056500
+		},
+		"IsActive": true,
+		"Type": 2,
+		"MinLv": 15,
+		"MaxLv": 99,
+		"Weight": 3,
+		"UrlPath": "event/Immediately/GoBackPlayer/LoginGuide_2",
+		"FeatureLinkType": 9,
+		"LinkParam": [
+			0
+		],
+		"FeatureBeginTime": "2017-10-30 04:00:00",
+		"FeatureEndTime": "2019-01-25 04:00:00",
+		"DataImpl": {},
+		"FeatureID": 202
+	},
+	{
+		"Desc": {
+			"hash": 1584056501
+		},
+		"IsActive": true,
+		"Type": 2,
+		"MinLv": 40,
+		"MaxLv": 99,
+		"Weight": 20,
+		"UrlPath": "event/Immediately/GoBackPlayer/LoginGuide_3",
+		"FeatureLinkType": 1006,
+		"LinkParam": [
+			0
+		],
+		"FeatureBeginTime": "2017-10-30 04:00:00",
+		"FeatureEndTime": "2019-01-25 04:00:00",
+		"DataImpl": {},
+		"FeatureID": 203
+	},
+	{
+		"Desc": {
+			"hash": 1584056502
+		},
+		"IsActive": true,
+		"Type": 2,
+		"MinLv": 20,
+		"MaxLv": 99,
+		"Weight": 19,
+		"UrlPath": "event/Immediately/GoBackPlayer/LoginGuide_4",
+		"FeatureLinkType": 84,
+		"LinkParam": [
+			0
+		],
+		"FeatureBeginTime": "2017-10-30 04:00:00",
+		"FeatureEndTime": "2019-01-25 04:00:00",
+		"DataImpl": {},
+		"FeatureID": 204
+	},
+	{
+		"Desc": {
+			"hash": 1584056503
+		},
+		"IsActive": true,
+		"Type": 2,
+		"MinLv": 20,
+		"MaxLv": 99,
+		"Weight": 18,
+		"UrlPath": "event/Immediately/GoBackPlayer/LoginGuide_5",
+		"FeatureLinkType": 85,
+		"LinkParam": [
+			0
+		],
+		"FeatureBeginTime": "2017-10-30 04:00:00",
+		"FeatureEndTime": "2019-01-25 04:00:00",
+		"DataImpl": {},
+		"FeatureID": 205
+	},
+	{
+		"Desc": {
+			"hash": 1584056504
+		},
+		"IsActive": true,
+		"Type": 2,
+		"MinLv": 50,
+		"MaxLv": 99,
+		"Weight": 20,
+		"UrlPath": "event/Immediately/GoBackPlayer/LoginGuide_6",
+		"FeatureLinkType": 64,
+		"LinkParam": [
+			4088
+		],
+		"FeatureBeginTime": "2017-10-30 04:00:00",
+		"FeatureEndTime": "2019-01-25 04:00:00",
+		"DataImpl": {},
+		"FeatureID": 206
+	},
+	{
+		"Desc": {
+			"hash": 1584056505
+		},
+		"IsActive": true,
+		"Type": 2,
+		"MinLv": 55,
+		"MaxLv": 99,
+		"Weight": 19,
+		"UrlPath": "event/Immediately/GoBackPlayer/LoginGuide_7",
+		"FeatureLinkType": 77,
+		"LinkParam": [
+			3
+		],
+		"FeatureBeginTime": "2017-10-30 04:00:00",
+		"FeatureEndTime": "2019-01-25 04:00:00",
+		"DataImpl": {},
+		"FeatureID": 207
+	},
+	{
+		"Desc": {
+			"hash": 1584056506
+		},
+		"IsActive": true,
+		"Type": 2,
+		"MinLv": 30,
+		"MaxLv": 99,
+		"Weight": 18,
+		"UrlPath": "event/Immediately/GoBackPlayer/LoginGuide_8",
+		"FeatureLinkType": 9,
+		"LinkParam": [
+			0
+		],
+		"FeatureBeginTime": "2017-10-30 04:00:00",
+		"FeatureEndTime": "2019-01-25 04:00:00",
+		"DataImpl": {},
+		"FeatureID": 208
+	}
+]

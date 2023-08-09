@@ -1,0 +1,393 @@
+[
+	{
+		"PrefabPath": "Canvas3D/Scene/Garage/Stage_DLC2_City_Garage_UI/Stage_DLC2_City_Garage_Items/Stage_DLC2_City_Garage_BarCenter",
+		"conditionList": [
+			{
+				"conditionID": 803,
+				"stateID": 101
+			}
+		],
+		"NPCHeadMark": [],
+		"DataImpl": {},
+		"ID": 1
+	},
+	{
+		"PrefabPath": "Canvas3D/Scene/Garage/Stage_DLC2_City_Garage_UI/Stage_DLC2_City_Garage_Items/Stage_DLC2_City_Garage_Chair01",
+		"conditionList": [
+			{
+				"conditionID": 803,
+				"stateID": 201
+			}
+		],
+		"NPCHeadMark": [],
+		"DataImpl": {},
+		"ID": 2
+	},
+	{
+		"PrefabPath": "Canvas3D/Scene/Garage/Stage_DLC2_City_Garage_UI/Stage_DLC2_City_Garage_Items/Stage_DLC2_City_Garage_Chair02",
+		"conditionList": [
+			{
+				"conditionID": 803,
+				"stateID": 301
+			}
+		],
+		"NPCHeadMark": [],
+		"DataImpl": {},
+		"ID": 3
+	},
+	{
+		"PrefabPath": "Canvas3D/Scene/Garage/Stage_DLC2_City_Garage_UI/Stage_DLC2_City_Garage_Items/Stage_DLC2_City_Garage_Tyre",
+		"conditionList": [
+			{
+				"conditionID": 803,
+				"stateID": 401
+			}
+		],
+		"NPCHeadMark": [],
+		"DataImpl": {},
+		"ID": 4
+	},
+	{
+		"PrefabPath": "Canvas3D/Scene/Garage/Stage_DLC2_City_Garage_UI/Stage_DLC2_City_Garage_Items/Stage_DLC2_City_Garage_Table01",
+		"conditionList": [
+			{
+				"conditionID": 803,
+				"stateID": 501
+			}
+		],
+		"NPCHeadMark": [],
+		"DataImpl": {},
+		"ID": 5
+	},
+	{
+		"PrefabPath": "Canvas3D/Scene/Garage/Stage_DLC2_City_Garage_UI/Stage_DLC2_City_Garage_Items/Stage_DLC2_City_Garage_Shelf",
+		"conditionList": [
+			{
+				"conditionID": 0,
+				"stateID": 601
+			}
+		],
+		"NPCHeadMark": [],
+		"DataImpl": {},
+		"ID": 6
+	},
+	{
+		"PrefabPath": "Canvas3D/Scene/Garage/Stage_DLC2_City_Garage_UI/Stage_DLC2_City_Garage_Items/Stage_DLC2_City_Garage_ItemBox",
+		"conditionList": [
+			{
+				"conditionID": 800,
+				"stateID": 701
+			}
+		],
+		"NPCHeadMark": [],
+		"DataImpl": {},
+		"ID": 7
+	},
+	{
+		"PrefabPath": "Canvas3D/Scene/Garage/Stage_DLC2_City_Garage_UI/Stage_DLC2_City_Garage_Items/Stage_DLC2_City_Garage_Jukebox",
+		"conditionList": [
+			{
+				"conditionID": 803,
+				"stateID": 801
+			}
+		],
+		"NPCHeadMark": [],
+		"DataImpl": {},
+		"ID": 8
+	},
+	{
+		"PrefabPath": "Canvas3D/Scene/Garage/Stage_DLC2_City_Garage_UI/Stage_DLC2_City_Garage_Items/Stage_DLC2_City_Garage_Tyre_Screen",
+		"conditionList": [
+			{
+				"conditionID": 1001,
+				"stateID": 901
+			}
+		],
+		"NPCHeadMark": [],
+		"DataImpl": {},
+		"ID": 9
+	},
+	{
+		"PrefabPath": "Canvas3D/Scene/Garage/Stage_DLC2_City_Garage_UI/Stage_DLC2_City_Garage_Items/Stage_DLC2_City_Garage_Tyre_Screen_Interact",
+		"conditionList": [
+			{
+				"conditionID": 1400,
+				"stateID": 1003
+			},
+			{
+				"conditionID": 1001,
+				"stateID": 1002
+			},
+			{
+				"conditionID": 800,
+				"stateID": 1001
+			}
+		],
+		"NPCHeadMark": [],
+		"DataImpl": {},
+		"ID": 10
+	},
+	{
+		"PrefabPath": "Canvas3D/Scene/Garage/Stage_DLC2_City_Garage_UI/Stage_DLC2_City_Garage_Items/Stage_DLC2_City_Garage_SmallDoor_Interact",
+		"conditionList": [
+			{
+				"conditionID": 10114,
+				"stateID": 1102
+			},
+			{
+				"conditionID": 800,
+				"stateID": 1101
+			}
+		],
+		"NPCHeadMark": [],
+		"DataImpl": {},
+		"ID": 11
+	},
+	{
+		"PrefabPath": "Canvas3D/Scene/Garage/Stage_DLC2_City_Garage_UI/Stage_DLC2_City_Garage_Items/Stage_DLC2_City_Garage_LargeDoor_Interact",
+		"conditionList": [
+			{
+				"conditionID": 10114,
+				"stateID": 1202
+			},
+			{
+				"conditionID": 800,
+				"stateID": 1201
+			}
+		],
+		"NPCHeadMark": [],
+		"DataImpl": {},
+		"ID": 12
+	},
+	{
+		"PrefabPath": "Canvas3D/Scene/Garage/Stage_DLC2_City_Garage_UI/Stage_DLC2_City_Garage_Items/Stage_DLC2_City_Garage_ItemBox_Interact",
+		"conditionList": [
+			{
+				"conditionID": 800,
+				"stateID": 1301
+			}
+		],
+		"NPCHeadMark": [],
+		"DataImpl": {},
+		"ID": 13
+	},
+	{
+		"PrefabPath": "Canvas3D/Scene/Garage/Stage_DLC2_City_Garage_UI/Stage_DLC2_City_Garage_Items/Stage_DLC2_City_Garage_Tyre_Screen_Interact_Alt",
+		"conditionList": [
+			{
+				"conditionID": 1400,
+				"stateID": 1403
+			},
+			{
+				"conditionID": 1001,
+				"stateID": 1402
+			},
+			{
+				"conditionID": 800,
+				"stateID": 1401
+			}
+		],
+		"NPCHeadMark": [],
+		"DataImpl": {},
+		"ID": 14
+	},
+	{
+		"PrefabPath": "Canvas3D/Scene/Garage/Stage_DLC2_City_Garage_UI/Stage_DLC2_City_Garage_Items/Stage_DLC2_City_Garage_Tyre_Screen_Dark",
+		"conditionList": [
+			{
+				"conditionID": 1001,
+				"stateID": 1502
+			},
+			{
+				"conditionID": 1002,
+				"stateID": 1501
+			}
+		],
+		"NPCHeadMark": [],
+		"DataImpl": {},
+		"ID": 15
+	},
+	{
+		"PrefabPath": "Canvas3D/Scene/Garage/Stage_DLC2_City_Garage_UI/Stage_DLC2_City_Garage_Items/Stage_DLC2_City_Garage_Tyre_Screen_Mark",
+		"conditionList": [
+			{
+				"conditionID": 208,
+				"stateID": 1601
+			},
+			{
+				"conditionID": 1406,
+				"stateID": 1601
+			}
+		],
+		"NPCHeadMark": [
+			{
+				"conditionID": 208,
+				"stateID": 3
+			},
+			{
+				"conditionID": 1406,
+				"stateID": 4
+			}
+		],
+		"DataImpl": {},
+		"ID": 16
+	},
+	{
+		"PrefabPath": "Canvas3D/Scene/Garage/Stage_DLC2_City_Garage_UI/Stage_DLC2_City_Garage_Items/Stage_DLC2_City_Garage_SmallDoor_Mark",
+		"conditionList": [
+			{
+				"conditionID": 10120,
+				"stateID": 1701
+			}
+		],
+		"NPCHeadMark": [
+			{
+				"conditionID": 10120,
+				"stateID": 3
+			}
+		],
+		"DataImpl": {},
+		"ID": 17
+	},
+	{
+		"PrefabPath": "Canvas3D/Scene/Garage/Stage_DLC2_City_Garage_UI/Stage_DLC2_City_Garage_Items/Stage_DLC2_City_Garage_Chair02_Interact",
+		"conditionList": [
+			{
+				"conditionID": 197,
+				"stateID": 1802
+			},
+			{
+				"conditionID": 803,
+				"stateID": 1801
+			}
+		],
+		"NPCHeadMark": [
+			{
+				"conditionID": 197,
+				"stateID": 3
+			}
+		],
+		"DataImpl": {},
+		"ID": 18
+	},
+	{
+		"PrefabPath": "Canvas3D/Scene/Garage/Stage_DLC2_City_Garage_UI/Stage_DLC2_City_Garage_Items/Stage_DLC2_City_Garage_Table01_Interact",
+		"conditionList": [],
+		"NPCHeadMark": [],
+		"DataImpl": {},
+		"ID": 19
+	},
+	{
+		"PrefabPath": "Canvas3D/Scene/Garage/Stage_DLC2_City_Garage_UI/Stage_DLC2_City_Garage_Items/Sportlight2",
+		"conditionList": [
+			{
+				"conditionID": 803,
+				"stateID": 3101
+			}
+		],
+		"NPCHeadMark": [],
+		"DataImpl": {},
+		"ID": 31
+	},
+	{
+		"PrefabPath": "Canvas3D/Scene/Garage/Stage_DLC2_City_Garage_UI/Stage_DLC2_City_Garage_Items/Sportlight3",
+		"conditionList": [
+			{
+				"conditionID": 803,
+				"stateID": 3201
+			}
+		],
+		"NPCHeadMark": [],
+		"DataImpl": {},
+		"ID": 32
+	},
+	{
+		"PrefabPath": "Canvas3D/Scene/Garage/Stage_DLC2_City_Garage_UI/Stage_DLC2_City_Garage_Items/Sportlight4",
+		"conditionList": [
+			{
+				"conditionID": 803,
+				"stateID": 3301
+			}
+		],
+		"NPCHeadMark": [],
+		"DataImpl": {},
+		"ID": 33
+	},
+	{
+		"PrefabPath": "Canvas3D/Scene/Garage/Stage_DLC2_City_Garage_UI/Stage_DLC2_City_Garage_Items/Stage_DLC2_City_Garage_Gift_Plant",
+		"conditionList": [
+			{
+				"conditionID": 821,
+				"stateID": 3401
+			}
+		],
+		"NPCHeadMark": [],
+		"DataImpl": {},
+		"ID": 34
+	},
+	{
+		"PrefabPath": "Canvas3D/Scene/Garage/Stage_DLC2_City_Garage_UI/Stage_DLC2_City_Garage_Items/Stage_DLC2_City_Garage_Gift_Pet",
+		"conditionList": [
+			{
+				"conditionID": 827,
+				"stateID": 3501
+			}
+		],
+		"NPCHeadMark": [],
+		"DataImpl": {},
+		"ID": 35
+	},
+	{
+		"PrefabPath": "Canvas3D/Scene/Garage/Stage_DLC2_City_Garage_UI/Stage_DLC2_City_Garage_Items/Stage_DLC2_City_Garage_Gift_RobotPet",
+		"conditionList": [
+			{
+				"conditionID": 828,
+				"stateID": 3601
+			}
+		],
+		"NPCHeadMark": [],
+		"DataImpl": {},
+		"ID": 36
+	},
+	{
+		"PrefabPath": "Canvas3D/Scene/Garage/Stage_DLC2_City_Garage_UI/Stage_DLC2_City_Garage_Items/Stage_DLC2_City_Garage_Gift_Doll",
+		"conditionList": [
+			{
+				"conditionID": 829,
+				"stateID": 3701
+			},
+			{
+				"conditionID": 407,
+				"stateID": 3701
+			}
+		],
+		"NPCHeadMark": [],
+		"DataImpl": {},
+		"ID": 37
+	},
+	{
+		"PrefabPath": "Canvas3D/Scene/Garage/Stage_DLC2_City_Garage_UI/Stage_DLC2_City_Garage_Items/Stage_DLC2_City_Garage_Gift_Doll_Interact",
+		"conditionList": [
+			{
+				"conditionID": 406,
+				"stateID": 3801
+			},
+			{
+				"conditionID": 407,
+				"stateID": 3802
+			}
+		],
+		"NPCHeadMark": [
+			{
+				"conditionID": 406,
+				"stateID": 4
+			},
+			{
+				"conditionID": 407,
+				"stateID": 4
+			}
+		],
+		"DataImpl": {},
+		"ID": 38
+	}
+]

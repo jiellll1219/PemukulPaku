@@ -1,0 +1,146 @@
+[
+	{
+		"refineCost_0to1": [
+			{
+				"materialID": 8101,
+				"materialNum": 10
+			}
+		],
+		"refineCost_1": [
+			{
+				"materialID": 8101,
+				"materialNum": 1
+			}
+		],
+		"refineCost_2": [
+			{
+				"materialID": 8101,
+				"materialNum": 2
+			}
+		],
+		"refineCost_1to2": [
+			{
+				"materialID": 8003,
+				"materialNum": 1
+			},
+			{
+				"materialID": 8101,
+				"materialNum": 10
+			}
+		],
+		"refineCost_core": [
+			{
+				"materialID": 8001,
+				"materialNum": 1
+			}
+		],
+		"refineCost_lock1": [
+			{
+				"materialID": 8009,
+				"materialNum": 20
+			},
+			{
+				"materialID": 8101,
+				"materialNum": 300
+			}
+		],
+		"DataImpl": {},
+		"id": 1
+	},
+	{
+		"refineCost_0to1": [
+			{
+				"materialID": 8101,
+				"materialNum": 50
+			}
+		],
+		"refineCost_1": [
+			{
+				"materialID": 8101,
+				"materialNum": 6
+			}
+		],
+		"refineCost_2": [
+			{
+				"materialID": 8101,
+				"materialNum": 10
+			}
+		],
+		"refineCost_1to2": [
+			{
+				"materialID": 8003,
+				"materialNum": 1
+			},
+			{
+				"materialID": 8101,
+				"materialNum": 20
+			}
+		],
+		"refineCost_core": [
+			{
+				"materialID": 8001,
+				"materialNum": 1
+			}
+		],
+		"refineCost_lock1": [
+			{
+				"materialID": 8009,
+				"materialNum": 20
+			},
+			{
+				"materialID": 8101,
+				"materialNum": 300
+			}
+		],
+		"DataImpl": {},
+		"id": 2
+	},
+	{
+		"refineCost_0to1": [
+			{
+				"materialID": 8101,
+				"materialNum": 200
+			}
+		],
+		"refineCost_1": [
+			{
+				"materialID": 8101,
+				"materialNum": 24
+			}
+		],
+		"refineCost_2": [
+			{
+				"materialID": 8101,
+				"materialNum": 40
+			}
+		],
+		"refineCost_1to2": [
+			{
+				"materialID": 8003,
+				"materialNum": 1
+			},
+			{
+				"materialID": 8101,
+				"materialNum": 90
+			}
+		],
+		"refineCost_core": [
+			{
+				"materialID": 8001,
+				"materialNum": 1
+			}
+		],
+		"refineCost_lock1": [
+			{
+				"materialID": 8009,
+				"materialNum": 20
+			},
+			{
+				"materialID": 8101,
+				"materialNum": 300
+			}
+		],
+		"DataImpl": {},
+		"id": 3
+	}
+]

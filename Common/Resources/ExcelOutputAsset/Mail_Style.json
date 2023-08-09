@@ -1,0 +1,38 @@
+[
+	{
+		"BaseColor": "MailBgBlue",
+		"SelectColor": "MailLightBlue",
+		"QuickDelete": true,
+		"DeleteConfirm": 0,
+		"BanRewardGetAll": false,
+		"DataImpl": {},
+		"MailStyle": 0
+	},
+	{
+		"BaseColor": "MailBgPurple",
+		"SelectColor": "MailLightPurple",
+		"QuickDelete": false,
+		"DeleteConfirm": 1,
+		"BanRewardGetAll": false,
+		"DataImpl": {},
+		"MailStyle": 1
+	},
+	{
+		"BaseColor": "MailBgPurple",
+		"SelectColor": "MailLightPurple",
+		"QuickDelete": false,
+		"DeleteConfirm": 2,
+		"BanRewardGetAll": false,
+		"DataImpl": {},
+		"MailStyle": 2
+	},
+	{
+		"BaseColor": "MailBgPurple",
+		"SelectColor": "MailLightPurple",
+		"QuickDelete": false,
+		"DeleteConfirm": 1,
+		"BanRewardGetAll": true,
+		"DataImpl": {},
+		"MailStyle": 3
+	}
+]

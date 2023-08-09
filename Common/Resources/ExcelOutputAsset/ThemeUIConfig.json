@@ -1,0 +1,16 @@
+[
+	{
+		"MainPage": "UI/Menus/Page/Main/MainPage",
+		"PlayerStatusPanel": "UI/Menus/Widget/MainPage/PlayerStatusPanel",
+		"ChatDialogs": "UI/Menus/Dialog/Chat/ChatDialogV2",
+		"DataImpl": {},
+		"ThemeUIID": 0
+	},
+	{
+		"MainPage": "UI/Menus/Page/Main/EVA/MainPage",
+		"PlayerStatusPanel": "UI/Menus/Widget/MainPage/EVA/PlayerStatusPanel",
+		"ChatDialogs": "UI/Menus/Dialog/Chat/ChatDialog",
+		"DataImpl": {},
+		"ThemeUIID": 100
+	}
+]

@@ -1,0 +1,182 @@
+[
+	{
+		"itemIcon": "SpriteOutput/MatchThree/Item/64/05",
+		"itemFigure": "SpriteOutput/MatchThree/Item/05",
+		"itemName": {
+			"hash": -1602101175
+		},
+		"itemDes": {
+			"hash": 631945464
+		},
+		"itemCD": 3,
+		"itemCost": 30,
+		"itemSkill": 11,
+		"useType": 0,
+		"unlockSiteID": 0,
+		"useAudioPath": "Activity_6_6_MatchThree_HealingPotion",
+		"effectPath": "",
+		"targetPosition": 0,
+		"DataImpl": {},
+		"itemID": 1
+	},
+	{
+		"itemIcon": "SpriteOutput/MatchThree/Item/64/09",
+		"itemFigure": "SpriteOutput/MatchThree/Item/09",
+		"itemName": {
+			"hash": -1602101174
+		},
+		"itemDes": {
+			"hash": 631945465
+		},
+		"itemCD": 3,
+		"itemCost": 40,
+		"itemSkill": 12,
+		"useType": 1,
+		"unlockSiteID": 0,
+		"useAudioPath": "Activity_6_6_MatchThree_Hammer",
+		"effectPath": "",
+		"targetPosition": 0,
+		"DataImpl": {},
+		"itemID": 2
+	},
+	{
+		"itemIcon": "SpriteOutput/MatchThree/Item/64/07",
+		"itemFigure": "SpriteOutput/MatchThree/Item/07",
+		"itemName": {
+			"hash": -1602101173
+		},
+		"itemDes": {
+			"hash": 631945466
+		},
+		"itemCD": 3,
+		"itemCost": 50,
+		"itemSkill": 13,
+		"useType": 0,
+		"unlockSiteID": 9080102,
+		"useAudioPath": "Activity_6_6_MatchThree_LightningBall",
+		"effectPath": "",
+		"targetPosition": 0,
+		"DataImpl": {},
+		"itemID": 3
+	},
+	{
+		"itemIcon": "SpriteOutput/MatchThree/Item/64/03",
+		"itemFigure": "SpriteOutput/MatchThree/Item/03",
+		"itemName": {
+			"hash": -1602101172
+		},
+		"itemDes": {
+			"hash": 631945467
+		},
+		"itemCD": 3,
+		"itemCost": 40,
+		"itemSkill": 14,
+		"useType": 1,
+		"unlockSiteID": 9080106,
+		"useAudioPath": "Activity_6_6_MatchThree_WizardWand",
+		"effectPath": "",
+		"targetPosition": 0,
+		"DataImpl": {},
+		"itemID": 4
+	},
+	{
+		"itemIcon": "SpriteOutput/MatchThree/Item/64/06",
+		"itemFigure": "SpriteOutput/MatchThree/Item/06",
+		"itemName": {
+			"hash": -1602101171
+		},
+		"itemDes": {
+			"hash": 631945468
+		},
+		"itemCD": 3,
+		"itemCost": 60,
+		"itemSkill": 15,
+		"useType": 0,
+		"unlockSiteID": 9080111,
+		"useAudioPath": "Activity_6_6_MatchThree_HolyWater",
+		"effectPath": "",
+		"targetPosition": 0,
+		"DataImpl": {},
+		"itemID": 5
+	},
+	{
+		"itemIcon": "SpriteOutput/MatchThree/Item/64/02",
+		"itemFigure": "SpriteOutput/MatchThree/Item/02",
+		"itemName": {
+			"hash": -1602101170
+		},
+		"itemDes": {
+			"hash": 631945469
+		},
+		"itemCD": 3,
+		"itemCost": 70,
+		"itemSkill": 16,
+		"useType": 0,
+		"unlockSiteID": 9080203,
+		"useAudioPath": "Activity_6_6_MatchThree_Cat",
+		"effectPath": "",
+		"targetPosition": 0,
+		"DataImpl": {},
+		"itemID": 6
+	},
+	{
+		"itemIcon": "SpriteOutput/MatchThree/Item/64/04",
+		"itemFigure": "SpriteOutput/MatchThree/Item/04",
+		"itemName": {
+			"hash": -1602101169
+		},
+		"itemDes": {
+			"hash": 631945470
+		},
+		"itemCD": 6,
+		"itemCost": 80,
+		"itemSkill": 17,
+		"useType": 0,
+		"unlockSiteID": 9080208,
+		"useAudioPath": "Activity_6_6_MatchThree_TimeSlow",
+		"effectPath": "UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeAttackVfxHourglass",
+		"targetPosition": 2,
+		"DataImpl": {},
+		"itemID": 7
+	},
+	{
+		"itemIcon": "SpriteOutput/MatchThree/Item/64/01",
+		"itemFigure": "SpriteOutput/MatchThree/Item/01",
+		"itemName": {
+			"hash": -1602101168
+		},
+		"itemDes": {
+			"hash": 631945471
+		},
+		"itemCD": 5,
+		"itemCost": 150,
+		"itemSkill": 18,
+		"useType": 1,
+		"unlockSiteID": 9080304,
+		"useAudioPath": "Activity_6_6_MatchThree_GoldFinger",
+		"effectPath": "",
+		"targetPosition": 0,
+		"DataImpl": {},
+		"itemID": 8
+	},
+	{
+		"itemIcon": "SpriteOutput/MatchThree/Item/64/08",
+		"itemFigure": "SpriteOutput/MatchThree/Item/08",
+		"itemName": {
+			"hash": -1602101167
+		},
+		"itemDes": {
+			"hash": 631945472
+		},
+		"itemCD": 5,
+		"itemCost": 140,
+		"itemSkill": 19,
+		"useType": 0,
+		"unlockSiteID": 9080308,
+		"useAudioPath": "Activity_6_6_MatchThree_Dice",
+		"effectPath": "UI/Menus/Widget/MatchThree/MatchThreeVfx/MatchThreeChessRandom",
+		"targetPosition": 1,
+		"DataImpl": {},
+		"itemID": 9
+	}
+]

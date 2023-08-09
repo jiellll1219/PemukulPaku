@@ -1,0 +1,310 @@
+[
+	{
+		"Info": "汽油桶，打一下会炸",
+		"Details": "可以配合对应风格的场景",
+		"Category": "核心玩法机制",
+		"DataImpl": {},
+		"PropName": "Barrel"
+	},
+	{
+		"Info": "古代遗迹炮台机关",
+		"Details": "有多种攻击模式，可以发射各种弹幕。",
+		"Category": "核心玩法机制",
+		"DataImpl": {},
+		"PropName": "CampWarThree_Crystal"
+	},
+	{
+		"Info": "冰爆尖刺",
+		"Details": "有爆炸特效，可以造成伤害和范围减速效果",
+		"Category": "核心玩法机制",
+		"DataImpl": {},
+		"PropName": "CampWarThree_IceSkill01"
+	},
+	{
+		"Info": "吼辣炸弹",
+		"Details": "受到攻击会爆炸",
+		"Category": "娱乐活动专用",
+		"DataImpl": {},
+		"PropName": "CampWar_Mine"
+	},
+	{
+		"Info": "绯玉丸NPC",
+		"Details": "交互道具",
+		"Category": "娱乐活动专用",
+		"DataImpl": {},
+		"PropName": "CastleRaid_Servant_Fox"
+	},
+	{
+		"Info": "香蕉皮",
+		"Details": "一般用在一些节日玩法里，可以和吼姆搭配出现或者一些小游戏关卡里",
+		"Category": "娱乐活动专用",
+		"DataImpl": {},
+		"PropName": "ChildrensDay_Banana"
+	},
+	{
+		"Info": "麻痹雷",
+		"Details": "一般作为主动道具出现，怪物踩了之后会爆炸范围麻痹",
+		"Category": "核心玩法机制",
+		"DataImpl": {},
+		"PropName": "CounterItem_EMP"
+	},
+	{
+		"Info": "Q版小人NPC",
+		"Details": "交互道具",
+		"Category": "娱乐活动专用",
+		"DataImpl": {},
+		"PropName": "DormGame_Q_Kiana_FX"
+	},
+	{
+		"Info": "Q版小人NPC",
+		"Details": "交互道具",
+		"Category": "娱乐活动专用",
+		"DataImpl": {},
+		"PropName": "DormGame_Q_Mei_LD"
+	},
+	{
+		"Info": "Q版小人NPC",
+		"Details": "交互道具",
+		"Category": "娱乐活动专用",
+		"DataImpl": {},
+		"PropName": "DormGame_Q_Sakura_YS"
+	},
+	{
+		"Info": "香蕉皮",
+		"Details": "一般用在一些节日玩法里，可以和吼姆搭配出现或者一些小游戏关卡里",
+		"Category": "娱乐活动专用",
+		"DataImpl": {},
+		"PropName": "Equitable_Banana"
+	},
+	{
+		"Info": "炸药桶",
+		"Details": "打了会爆炸，可以用来炸怪物",
+		"Category": "核心玩法机制",
+		"DataImpl": {},
+		"PropName": "Farm_Bomb_Bin"
+	},
+	{
+		"Info": "小幽灵",
+		"Details": "一般用在一些节日玩法和外传性质主题活动里",
+		"Category": "娱乐活动专用",
+		"DataImpl": {},
+		"PropName": "GhostFollowProp"
+	},
+	{
+		"Info": "冰墙",
+		"Details": "可以放在场景中用来做阻挡碰撞，让玩家靠近受到冰冻伤害，并且减速。或者拼迷宫",
+		"Category": "核心玩法机制",
+		"DataImpl": {},
+		"PropName": "LevelDungeons_IceWall_Static"
+	},
+	{
+		"Info": "避雷针",
+		"Details": "搭配闪电霹雷使用，可以让雷电都劈到避雷针上",
+		"Category": "核心玩法机制",
+		"DataImpl": {},
+		"PropName": "Level_CounterItem_LightningRod"
+	},
+	{
+		"Info": "吼姆王的皇冠",
+		"Details": "交互道具",
+		"Category": "娱乐活动专用",
+		"DataImpl": {},
+		"PropName": "MPRaid_HomuCrown"
+	},
+	{
+		"Info": "用来追杀玩家的移动光墙",
+		"Details": "在玩家背后不断逼近，追到玩家就秒杀，做追击玩法。",
+		"Category": "核心玩法机制",
+		"DataImpl": {},
+		"PropName": "MP_LaserKiller"
+	},
+	{
+		"Info": "深海水位控制",
+		"Details": "深海里控制水位的装置，有被淤泥侵蚀的状态。可以受击，打了之后可以让水位下降。",
+		"Category": "核心玩法机制",
+		"DataImpl": {},
+		"PropName": "Mainliner_UnderSea_CorepropLv0"
+	},
+	{
+		"Info": "侦查探照灯",
+		"Details": "可以用来做潜入玩法",
+		"Category": "核心玩法机制",
+		"DataImpl": {},
+		"PropName": "OWEndless_LightTrap"
+	},
+	{
+		"Info": "侦查探照灯",
+		"Details": "可以用来做潜入玩法",
+		"Category": "核心玩法机制",
+		"DataImpl": {},
+		"PropName": "OWEndless_LightTrapStand"
+	},
+	{
+		"Info": "侦查飞机",
+		"Details": "可以挂一个警戒范围，侦查到玩家之后触发警报",
+		"Category": "核心玩法机制",
+		"DataImpl": {},
+		"PropName": "OW_Destiny_Detector"
+	},
+	{
+		"Info": "可以打爆喷火的管子",
+		"Details": "打爆之后，会从管子里喷火，可以利用火焰攻击敌人",
+		"Category": "核心玩法机制",
+		"DataImpl": {},
+		"PropName": "OW_Destiny_Pipe00"
+	},
+	{
+		"Info": "天命黑洞制造机",
+		"Details": "可以制造黑洞造成时空断裂",
+		"Category": "核心玩法机制",
+		"DataImpl": {},
+		"PropName": "OW_Destiny_TimeSlow_Prop"
+	},
+	{
+		"Info": "天命大炮双管",
+		"Details": "可以发射火炮攻击",
+		"Category": "核心玩法机制",
+		"DataImpl": {},
+		"PropName": "OW_Destiny_Turret_Double"
+	},
+	{
+		"Info": "天命大炮单管",
+		"Details": "可以发射火炮攻击",
+		"Category": "核心玩法机制",
+		"DataImpl": {},
+		"PropName": "OW_Destiny_Turret_Single"
+	},
+	{
+		"Info": "天命光棱炮塔",
+		"Details": "可以发射光球攻击",
+		"Category": "核心玩法机制",
+		"DataImpl": {},
+		"PropName": "OW_SwitchBattle_Fort"
+	},
+	{
+		"Info": "吼姆王NPC",
+		"Details": "交互道具",
+		"Category": "娱乐活动专用",
+		"DataImpl": {},
+		"PropName": "PoolParty_Homo"
+	},
+	{
+		"Info": "逆熵小机器人",
+		"Details": "可以作为守护或者跟随对象，可以发射子弹进行攻击",
+		"Category": "核心玩法机制",
+		"DataImpl": {},
+		"PropName": "Raid_MiniRobot"
+	},
+	{
+		"Info": "逆熵小机器人",
+		"Details": "可以作为守护或者跟随对象，可以发射子弹进行攻击",
+		"Category": "核心玩法机制",
+		"DataImpl": {},
+		"PropName": "Raid_MiniRobot_Red"
+	},
+	{
+		"Info": "炸药桶",
+		"Details": "打了会爆炸",
+		"Category": "娱乐活动专用",
+		"DataImpl": {},
+		"PropName": "Shoot_Bomb_Prop"
+	},
+	{
+		"Info": "从天而降落冰砸敌人",
+		"Details": "打爆之后，会从管子里喷火，可以利用火焰攻击敌人",
+		"Category": "核心玩法机制",
+		"DataImpl": {},
+		"PropName": "SingleRaid_FallIce"
+	},
+	{
+		"Info": "可破坏机关",
+		"Details": "放在逆熵或者天穹市这样的场景，破坏后可以触发各种效果，例如开门",
+		"Category": "核心玩法机制",
+		"DataImpl": {},
+		"PropName": "Switch"
+	},
+	{
+		"Info": "火墙",
+		"Details": "可以放在场景中用来做阻挡碰撞，让玩家靠近受到火焰伤害。",
+		"Category": "核心玩法机制",
+		"DataImpl": {},
+		"PropName": "TeamLevel_FX_FireArea"
+	},
+	{
+		"Info": "小蝙蝠",
+		"Details": "装饰或者交互",
+		"Category": "娱乐活动专用",
+		"DataImpl": {},
+		"PropName": "TheServantProp"
+	},
+	{
+		"Info": "落石陷阱",
+		"Details": "用在洞穴里，可以做成及时掉下来的，或者先在地上铺沙子，玩家踩到陷阱才会触发落石",
+		"Category": "核心玩法机制",
+		"DataImpl": {},
+		"PropName": "Trap_FallStone"
+	},
+	{
+		"Info": "落石陷阱",
+		"Details": "用在洞穴里，可以做成及时掉下来的，或者先在地上铺沙子，玩家踩到陷阱才会触发落石",
+		"Category": "核心玩法机制",
+		"DataImpl": {},
+		"PropName": "Trap_FallStoneOnce"
+	},
+	{
+		"Info": "落石陷阱",
+		"Details": "用在洞穴里，可以做成及时掉下来的，或者先在地上铺沙子，玩家踩到陷阱才会触发落石",
+		"Category": "核心玩法机制",
+		"DataImpl": {},
+		"PropName": "Trap_FallStoneOnceInstant"
+	},
+	{
+		"Info": "喷火陷阱",
+		"Details": "比较适合放一排，或者一圈，给战场上设置障碍。",
+		"Category": "核心玩法机制",
+		"DataImpl": {},
+		"PropName": "Trap_Fire"
+	},
+	{
+		"Info": "激光陷阱",
+		"Details": "从下往上，可以设置激活和关闭。比较适合放一排做阻挡",
+		"Category": "核心玩法机制",
+		"DataImpl": {},
+		"PropName": "Trap_Laser"
+	},
+	{
+		"Info": "麻痹陷阱",
+		"Details": "可以放在地上，干扰玩家走位，玩家踩到会麻痹",
+		"Category": "核心玩法机制",
+		"DataImpl": {},
+		"PropName": "Trap_Palsy"
+	},
+	{
+		"Info": "减速地块",
+		"Details": "多块叠在一起形成一片减速区域，干扰玩家移动",
+		"Category": "核心玩法机制",
+		"DataImpl": {},
+		"PropName": "Trap_Slow"
+	},
+	{
+		"Info": "天命镭射激光炮",
+		"Details": "主要适合天命和其他机械风格场景，可以用来做阻挡或者攻击玩家的陷阱",
+		"Category": "核心玩法机制",
+		"DataImpl": {},
+		"PropName": "Trap_SpaceShip_Laser"
+	},
+	{
+		"Info": "地刺陷阱",
+		"Details": "可以自由设置地刺插人间隔的陷阱，干扰玩家走位或者设置路障",
+		"Category": "核心玩法机制",
+		"DataImpl": {},
+		"PropName": "Trap_Spike"
+	},
+	{
+		"Info": "地刺陷阱",
+		"Details": "可以自由设置地刺插人间隔的陷阱，干扰玩家走位或者设置路障",
+		"Category": "核心玩法机制",
+		"DataImpl": {},
+		"PropName": "Trap_Spike_Special"
+	}
+]

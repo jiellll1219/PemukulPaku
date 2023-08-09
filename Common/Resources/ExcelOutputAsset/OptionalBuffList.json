@@ -1,0 +1,2130 @@
+[
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": -690913943
+		},
+		"BuffDesc": {
+			"hash": -973334545
+		},
+		"BuffDescBrief": {
+			"hash": -442636433
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Curse",
+		"Score": 500,
+		"GroupType": 1,
+		"Level": 1,
+		"DataImpl": {},
+		"BuffID": 1
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": -690913942
+		},
+		"BuffDesc": {
+			"hash": -973334544
+		},
+		"BuffDescBrief": {
+			"hash": -442636432
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Curse",
+		"Score": 1000,
+		"GroupType": 1,
+		"Level": 2,
+		"DataImpl": {},
+		"BuffID": 2
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": -690913941
+		},
+		"BuffDesc": {
+			"hash": -973334543
+		},
+		"BuffDescBrief": {
+			"hash": -442636431
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Curse",
+		"Score": 1500,
+		"GroupType": 1,
+		"Level": 3,
+		"DataImpl": {},
+		"BuffID": 3
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": -690913940
+		},
+		"BuffDesc": {
+			"hash": -973334542
+		},
+		"BuffDescBrief": {
+			"hash": -442636430
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Boss1",
+		"Score": 2000,
+		"GroupType": 1,
+		"Level": 4,
+		"DataImpl": {},
+		"BuffID": 4
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": -690913939
+		},
+		"BuffDesc": {
+			"hash": -973334541
+		},
+		"BuffDescBrief": {
+			"hash": -442636429
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Boss1",
+		"Score": 2500,
+		"GroupType": 1,
+		"Level": 5,
+		"DataImpl": {},
+		"BuffID": 5
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": -690913938
+		},
+		"BuffDesc": {
+			"hash": -973334540
+		},
+		"BuffDescBrief": {
+			"hash": -442636428
+		},
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_YS_01",
+		"Score": 200,
+		"GroupType": 2,
+		"Level": 1,
+		"DataImpl": {},
+		"BuffID": 6
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": -690913937
+		},
+		"BuffDesc": {
+			"hash": -973334539
+		},
+		"BuffDescBrief": {
+			"hash": -442636427
+		},
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_YS_01",
+		"Score": 400,
+		"GroupType": 2,
+		"Level": 2,
+		"DataImpl": {},
+		"BuffID": 7
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": -690913936
+		},
+		"BuffDesc": {
+			"hash": -973334538
+		},
+		"BuffDescBrief": {
+			"hash": -442636426
+		},
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_YS_01",
+		"Score": 600,
+		"GroupType": 2,
+		"Level": 3,
+		"DataImpl": {},
+		"BuffID": 8
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": -690913935
+		},
+		"BuffDesc": {
+			"hash": -973334537
+		},
+		"BuffDescBrief": {
+			"hash": -442636425
+		},
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_YS_01",
+		"Score": 800,
+		"GroupType": 2,
+		"Level": 4,
+		"DataImpl": {},
+		"BuffID": 9
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 56504295
+		},
+		"BuffDesc": {
+			"hash": -108599775
+		},
+		"BuffDescBrief": {
+			"hash": -836827487
+		},
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_Weak",
+		"Score": 200,
+		"GroupType": 3,
+		"Level": 1,
+		"DataImpl": {},
+		"BuffID": 10
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 56504296
+		},
+		"BuffDesc": {
+			"hash": -108599774
+		},
+		"BuffDescBrief": {
+			"hash": -836827486
+		},
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_Weak",
+		"Score": 400,
+		"GroupType": 3,
+		"Level": 2,
+		"DataImpl": {},
+		"BuffID": 11
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 56504297
+		},
+		"BuffDesc": {
+			"hash": -108599773
+		},
+		"BuffDescBrief": {
+			"hash": -836827485
+		},
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_Weak",
+		"Score": 600,
+		"GroupType": 3,
+		"Level": 3,
+		"DataImpl": {},
+		"BuffID": 12
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 56504298
+		},
+		"BuffDesc": {
+			"hash": -108599772
+		},
+		"BuffDescBrief": {
+			"hash": -836827484
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Reflect",
+		"Score": 200,
+		"GroupType": 4,
+		"Level": 1,
+		"DataImpl": {},
+		"BuffID": 13
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 56504299
+		},
+		"BuffDesc": {
+			"hash": -108599771
+		},
+		"BuffDescBrief": {
+			"hash": -836827483
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Reflect",
+		"Score": 500,
+		"GroupType": 4,
+		"Level": 2,
+		"DataImpl": {},
+		"BuffID": 14
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 56504300
+		},
+		"BuffDesc": {
+			"hash": -108599770
+		},
+		"BuffDescBrief": {
+			"hash": -836827482
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Reflect",
+		"Score": 900,
+		"GroupType": 4,
+		"Level": 3,
+		"DataImpl": {},
+		"BuffID": 15
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 56504301
+		},
+		"BuffDesc": {
+			"hash": -108599769
+		},
+		"BuffDescBrief": {
+			"hash": -836827481
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_ElementShield",
+		"Score": 300,
+		"GroupType": 5,
+		"Level": 1,
+		"DataImpl": {},
+		"BuffID": 16
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 56504302
+		},
+		"BuffDesc": {
+			"hash": -108599768
+		},
+		"BuffDescBrief": {
+			"hash": -836827480
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_ElementShield",
+		"Score": 500,
+		"GroupType": 5,
+		"Level": 2,
+		"DataImpl": {},
+		"BuffID": 17
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 56504303
+		},
+		"BuffDesc": {
+			"hash": -108599767
+		},
+		"BuffDescBrief": {
+			"hash": -836827479
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_ElementShield",
+		"Score": 700,
+		"GroupType": 5,
+		"Level": 3,
+		"DataImpl": {},
+		"BuffID": 18
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633193
+		},
+		"BuffDesc": {
+			"hash": 928374319
+		},
+		"BuffDescBrief": {
+			"hash": -171848273
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Boss2",
+		"Score": 200,
+		"GroupType": 6,
+		"Level": 1,
+		"DataImpl": {},
+		"BuffID": 100
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633194
+		},
+		"BuffDesc": {
+			"hash": 928374320
+		},
+		"BuffDescBrief": {
+			"hash": -171848272
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Boss2",
+		"Score": 400,
+		"GroupType": 6,
+		"Level": 2,
+		"DataImpl": {},
+		"BuffID": 101
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633195
+		},
+		"BuffDesc": {
+			"hash": 928374321
+		},
+		"BuffDescBrief": {
+			"hash": -171848271
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Boss2",
+		"Score": 600,
+		"GroupType": 6,
+		"Level": 3,
+		"DataImpl": {},
+		"BuffID": 102
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633196
+		},
+		"BuffDesc": {
+			"hash": 928374322
+		},
+		"BuffDescBrief": {
+			"hash": -171848270
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_SuperShield",
+		"Score": 300,
+		"GroupType": 7,
+		"Level": 1,
+		"DataImpl": {},
+		"BuffID": 103
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633197
+		},
+		"BuffDesc": {
+			"hash": 928374323
+		},
+		"BuffDescBrief": {
+			"hash": -171848269
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_SuperShield",
+		"Score": 600,
+		"GroupType": 7,
+		"Level": 2,
+		"DataImpl": {},
+		"BuffID": 104
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633198
+		},
+		"BuffDesc": {
+			"hash": 928374324
+		},
+		"BuffDescBrief": {
+			"hash": -171848268
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_SuperShield",
+		"Score": 900,
+		"GroupType": 7,
+		"Level": 3,
+		"DataImpl": {},
+		"BuffID": 105
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633199
+		},
+		"BuffDesc": {
+			"hash": 928374325
+		},
+		"BuffDescBrief": {
+			"hash": -171848267
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_ComboShield",
+		"Score": 200,
+		"GroupType": 8,
+		"Level": 1,
+		"DataImpl": {},
+		"BuffID": 106
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633200
+		},
+		"BuffDesc": {
+			"hash": 928374326
+		},
+		"BuffDescBrief": {
+			"hash": -171848266
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_ComboShield",
+		"Score": 400,
+		"GroupType": 8,
+		"Level": 2,
+		"DataImpl": {},
+		"BuffID": 107
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633201
+		},
+		"BuffDesc": {
+			"hash": 928374327
+		},
+		"BuffDescBrief": {
+			"hash": -171848265
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_ComboShield",
+		"Score": 600,
+		"GroupType": 8,
+		"Level": 3,
+		"DataImpl": {},
+		"BuffID": 108
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633202
+		},
+		"BuffDesc": {
+			"hash": 928374328
+		},
+		"BuffDescBrief": {
+			"hash": -171848264
+		},
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_NS_03",
+		"Score": 100,
+		"GroupType": 9,
+		"Level": 1,
+		"DataImpl": {},
+		"BuffID": 109
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633224
+		},
+		"BuffDesc": {
+			"hash": 928374350
+		},
+		"BuffDescBrief": {
+			"hash": -171848242
+		},
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_NS_03",
+		"Score": 300,
+		"GroupType": 9,
+		"Level": 2,
+		"DataImpl": {},
+		"BuffID": 110
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633225
+		},
+		"BuffDesc": {
+			"hash": 928374351
+		},
+		"BuffDescBrief": {
+			"hash": -171848241
+		},
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_NS_03",
+		"Score": 500,
+		"GroupType": 9,
+		"Level": 3,
+		"DataImpl": {},
+		"BuffID": 111
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633226
+		},
+		"BuffDesc": {
+			"hash": 928374352
+		},
+		"BuffDescBrief": {
+			"hash": -171848240
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Lord",
+		"Score": 200,
+		"GroupType": 10,
+		"Level": 1,
+		"DataImpl": {},
+		"BuffID": 112
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633227
+		},
+		"BuffDesc": {
+			"hash": 928374353
+		},
+		"BuffDescBrief": {
+			"hash": -171848239
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Lord",
+		"Score": 400,
+		"GroupType": 10,
+		"Level": 2,
+		"DataImpl": {},
+		"BuffID": 113
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633228
+		},
+		"BuffDesc": {
+			"hash": 928374354
+		},
+		"BuffDescBrief": {
+			"hash": -171848238
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Lord",
+		"Score": 600,
+		"GroupType": 10,
+		"Level": 3,
+		"DataImpl": {},
+		"BuffID": 114
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633229
+		},
+		"BuffDesc": {
+			"hash": 928374355
+		},
+		"BuffDescBrief": {
+			"hash": -171848237
+		},
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_AttackSpeedDown",
+		"Score": 200,
+		"GroupType": 11,
+		"Level": 1,
+		"DataImpl": {},
+		"BuffID": 115
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633230
+		},
+		"BuffDesc": {
+			"hash": 928374356
+		},
+		"BuffDescBrief": {
+			"hash": -171848236
+		},
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_AttackSpeedDown",
+		"Score": 400,
+		"GroupType": 11,
+		"Level": 2,
+		"DataImpl": {},
+		"BuffID": 116
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633231
+		},
+		"BuffDesc": {
+			"hash": 928374357
+		},
+		"BuffDescBrief": {
+			"hash": -171848235
+		},
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_AttackSpeedDown",
+		"Score": 600,
+		"GroupType": 11,
+		"Level": 3,
+		"DataImpl": {},
+		"BuffID": 117
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633255
+		},
+		"BuffDesc": {
+			"hash": 928374381
+		},
+		"BuffDescBrief": {
+			"hash": -171848211
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Revenge",
+		"Score": 300,
+		"GroupType": 12,
+		"Level": 1,
+		"DataImpl": {},
+		"BuffID": 120
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633256
+		},
+		"BuffDesc": {
+			"hash": 928374382
+		},
+		"BuffDescBrief": {
+			"hash": -171848210
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Revenge",
+		"Score": 800,
+		"GroupType": 12,
+		"Level": 2,
+		"DataImpl": {},
+		"BuffID": 121
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633257
+		},
+		"BuffDesc": {
+			"hash": 928374383
+		},
+		"BuffDescBrief": {
+			"hash": -171848209
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Revenge",
+		"Score": 1500,
+		"GroupType": 12,
+		"Level": 3,
+		"DataImpl": {},
+		"BuffID": 122
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633258
+		},
+		"BuffDesc": {
+			"hash": 928374384
+		},
+		"BuffDescBrief": {
+			"hash": -171848208
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Bless",
+		"Score": 300,
+		"GroupType": 13,
+		"Level": 1,
+		"DataImpl": {},
+		"BuffID": 123
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633259
+		},
+		"BuffDesc": {
+			"hash": 928374385
+		},
+		"BuffDescBrief": {
+			"hash": -171848207
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Bless",
+		"Score": 800,
+		"GroupType": 13,
+		"Level": 2,
+		"DataImpl": {},
+		"BuffID": 124
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633260
+		},
+		"BuffDesc": {
+			"hash": 928374386
+		},
+		"BuffDescBrief": {
+			"hash": -171848206
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Bless",
+		"Score": 1500,
+		"GroupType": 13,
+		"Level": 3,
+		"DataImpl": {},
+		"BuffID": 125
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633261
+		},
+		"BuffDesc": {
+			"hash": 928374387
+		},
+		"BuffDescBrief": {
+			"hash": -171848205
+		},
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_TM_03g",
+		"Score": 300,
+		"GroupType": 14,
+		"Level": 1,
+		"DataImpl": {},
+		"BuffID": 126
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633262
+		},
+		"BuffDesc": {
+			"hash": 928374388
+		},
+		"BuffDescBrief": {
+			"hash": -171848204
+		},
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_TM_03g",
+		"Score": 800,
+		"GroupType": 14,
+		"Level": 2,
+		"DataImpl": {},
+		"BuffID": 127
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633263
+		},
+		"BuffDesc": {
+			"hash": 928374389
+		},
+		"BuffDescBrief": {
+			"hash": -171848203
+		},
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_TM_03g",
+		"Score": 1500,
+		"GroupType": 14,
+		"Level": 3,
+		"DataImpl": {},
+		"BuffID": 128
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633264
+		},
+		"BuffDesc": {
+			"hash": 928374390
+		},
+		"BuffDescBrief": {
+			"hash": -171848202
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_LightShield",
+		"Score": 300,
+		"GroupType": 15,
+		"Level": 1,
+		"DataImpl": {},
+		"BuffID": 129
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633286
+		},
+		"BuffDesc": {
+			"hash": 928374412
+		},
+		"BuffDescBrief": {
+			"hash": -171848180
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_LightShield",
+		"Score": 800,
+		"GroupType": 15,
+		"Level": 2,
+		"DataImpl": {},
+		"BuffID": 130
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633287
+		},
+		"BuffDesc": {
+			"hash": 928374413
+		},
+		"BuffDescBrief": {
+			"hash": -171848179
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_LightShield",
+		"Score": 1500,
+		"GroupType": 15,
+		"Level": 3,
+		"DataImpl": {},
+		"BuffID": 131
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633288
+		},
+		"BuffDesc": {
+			"hash": 928374414
+		},
+		"BuffDescBrief": {
+			"hash": -171848178
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_RangeAttackShield",
+		"Score": 300,
+		"GroupType": 16,
+		"Level": 1,
+		"DataImpl": {},
+		"BuffID": 132
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633289
+		},
+		"BuffDesc": {
+			"hash": 928374415
+		},
+		"BuffDescBrief": {
+			"hash": -171848177
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_RangeAttackShield",
+		"Score": 800,
+		"GroupType": 16,
+		"Level": 2,
+		"DataImpl": {},
+		"BuffID": 133
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633290
+		},
+		"BuffDesc": {
+			"hash": 928374416
+		},
+		"BuffDescBrief": {
+			"hash": -171848176
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_RangeAttackShield",
+		"Score": 1500,
+		"GroupType": 16,
+		"Level": 3,
+		"DataImpl": {},
+		"BuffID": 134
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633291
+		},
+		"BuffDesc": {
+			"hash": 928374417
+		},
+		"BuffDescBrief": {
+			"hash": -171848175
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Bramble",
+		"Score": 300,
+		"GroupType": 17,
+		"Level": 1,
+		"DataImpl": {},
+		"BuffID": 135
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633292
+		},
+		"BuffDesc": {
+			"hash": 928374418
+		},
+		"BuffDescBrief": {
+			"hash": -171848174
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Bramble",
+		"Score": 800,
+		"GroupType": 17,
+		"Level": 2,
+		"DataImpl": {},
+		"BuffID": 136
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633293
+		},
+		"BuffDesc": {
+			"hash": 928374419
+		},
+		"BuffDescBrief": {
+			"hash": -171848173
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Bramble",
+		"Score": 1500,
+		"GroupType": 17,
+		"Level": 3,
+		"DataImpl": {},
+		"BuffID": 137
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633294
+		},
+		"BuffDesc": {
+			"hash": 928374420
+		},
+		"BuffDescBrief": {
+			"hash": -171848172
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_SpeedDown",
+		"Score": 400,
+		"GroupType": 18,
+		"Level": 1,
+		"DataImpl": {},
+		"BuffID": 138
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633295
+		},
+		"BuffDesc": {
+			"hash": 928374421
+		},
+		"BuffDescBrief": {
+			"hash": -171848171
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_SpeedDown",
+		"Score": 700,
+		"GroupType": 18,
+		"Level": 2,
+		"DataImpl": {},
+		"BuffID": 139
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633317
+		},
+		"BuffDesc": {
+			"hash": 928374443
+		},
+		"BuffDescBrief": {
+			"hash": -171848149
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_SpeedDown",
+		"Score": 1500,
+		"GroupType": 18,
+		"Level": 3,
+		"DataImpl": {},
+		"BuffID": 140
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633318
+		},
+		"BuffDesc": {
+			"hash": 928374444
+		},
+		"BuffDescBrief": {
+			"hash": -171848148
+		},
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_YS_01",
+		"Score": 300,
+		"GroupType": 19,
+		"Level": 1,
+		"DataImpl": {},
+		"BuffID": 141
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633319
+		},
+		"BuffDesc": {
+			"hash": 928374445
+		},
+		"BuffDescBrief": {
+			"hash": -171848147
+		},
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_YS_01",
+		"Score": 800,
+		"GroupType": 19,
+		"Level": 2,
+		"DataImpl": {},
+		"BuffID": 142
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633320
+		},
+		"BuffDesc": {
+			"hash": 928374446
+		},
+		"BuffDescBrief": {
+			"hash": -171848146
+		},
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_YS_01",
+		"Score": 1500,
+		"GroupType": 19,
+		"Level": 3,
+		"DataImpl": {},
+		"BuffID": 143
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633321
+		},
+		"BuffDesc": {
+			"hash": 928374447
+		},
+		"BuffDescBrief": {
+			"hash": -171848145
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter",
+		"Score": 300,
+		"GroupType": 20,
+		"Level": 1,
+		"DataImpl": {},
+		"BuffID": 144
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633322
+		},
+		"BuffDesc": {
+			"hash": 928374448
+		},
+		"BuffDescBrief": {
+			"hash": -171848144
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter",
+		"Score": 800,
+		"GroupType": 20,
+		"Level": 2,
+		"DataImpl": {},
+		"BuffID": 145
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633323
+		},
+		"BuffDesc": {
+			"hash": 928374449
+		},
+		"BuffDescBrief": {
+			"hash": -171848143
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter",
+		"Score": 1500,
+		"GroupType": 20,
+		"Level": 3,
+		"DataImpl": {},
+		"BuffID": 146
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633324
+		},
+		"BuffDesc": {
+			"hash": 928374450
+		},
+		"BuffDescBrief": {
+			"hash": -171848142
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_ImmuneWitchTime",
+		"Score": 500,
+		"GroupType": 21,
+		"Level": 1,
+		"DataImpl": {},
+		"BuffID": 147
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633325
+		},
+		"BuffDesc": {
+			"hash": 928374451
+		},
+		"BuffDescBrief": {
+			"hash": -171848141
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_ImmuneWitchTime",
+		"Score": 1000,
+		"GroupType": 21,
+		"Level": 2,
+		"DataImpl": {},
+		"BuffID": 148
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633326
+		},
+		"BuffDesc": {
+			"hash": 928374452
+		},
+		"BuffDescBrief": {
+			"hash": -171848140
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_ImmuneWitchTime",
+		"Score": 1500,
+		"GroupType": 21,
+		"Level": 3,
+		"DataImpl": {},
+		"BuffID": 149
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633348
+		},
+		"BuffDesc": {
+			"hash": 928374474
+		},
+		"BuffDescBrief": {
+			"hash": -171848118
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter",
+		"Score": 750,
+		"GroupType": 22,
+		"Level": 1,
+		"DataImpl": {},
+		"BuffID": 150
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633349
+		},
+		"BuffDesc": {
+			"hash": 928374475
+		},
+		"BuffDescBrief": {
+			"hash": -171848117
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter",
+		"Score": 1500,
+		"GroupType": 22,
+		"Level": 2,
+		"DataImpl": {},
+		"BuffID": 151
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633350
+		},
+		"BuffDesc": {
+			"hash": 928374476
+		},
+		"BuffDescBrief": {
+			"hash": -171848116
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter",
+		"Score": 2500,
+		"GroupType": 22,
+		"Level": 3,
+		"DataImpl": {},
+		"BuffID": 152
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633351
+		},
+		"BuffDesc": {
+			"hash": 928374477
+		},
+		"BuffDescBrief": {
+			"hash": -171848115
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter",
+		"Score": 750,
+		"GroupType": 23,
+		"Level": 1,
+		"DataImpl": {},
+		"BuffID": 153
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633352
+		},
+		"BuffDesc": {
+			"hash": 928374478
+		},
+		"BuffDescBrief": {
+			"hash": -171848114
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter",
+		"Score": 1000,
+		"GroupType": 23,
+		"Level": 2,
+		"DataImpl": {},
+		"BuffID": 154
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633353
+		},
+		"BuffDesc": {
+			"hash": 928374479
+		},
+		"BuffDescBrief": {
+			"hash": -171848113
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter",
+		"Score": 1500,
+		"GroupType": 23,
+		"Level": 3,
+		"DataImpl": {},
+		"BuffID": 155
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633354
+		},
+		"BuffDesc": {
+			"hash": 928374480
+		},
+		"BuffDescBrief": {
+			"hash": -171848112
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter",
+		"Score": 500,
+		"GroupType": 24,
+		"Level": 1,
+		"DataImpl": {},
+		"BuffID": 156
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633355
+		},
+		"BuffDesc": {
+			"hash": 928374481
+		},
+		"BuffDescBrief": {
+			"hash": -171848111
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter",
+		"Score": 750,
+		"GroupType": 24,
+		"Level": 2,
+		"DataImpl": {},
+		"BuffID": 157
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633356
+		},
+		"BuffDesc": {
+			"hash": 928374482
+		},
+		"BuffDescBrief": {
+			"hash": -171848110
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter",
+		"Score": 1000,
+		"GroupType": 24,
+		"Level": 3,
+		"DataImpl": {},
+		"BuffID": 158
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633357
+		},
+		"BuffDesc": {
+			"hash": 928374483
+		},
+		"BuffDescBrief": {
+			"hash": -171848109
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter",
+		"Score": 750,
+		"GroupType": 25,
+		"Level": 1,
+		"DataImpl": {},
+		"BuffID": 159
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633379
+		},
+		"BuffDesc": {
+			"hash": 928374505
+		},
+		"BuffDescBrief": {
+			"hash": -171848087
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter",
+		"Score": 1000,
+		"GroupType": 25,
+		"Level": 2,
+		"DataImpl": {},
+		"BuffID": 160
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633380
+		},
+		"BuffDesc": {
+			"hash": 928374506
+		},
+		"BuffDescBrief": {
+			"hash": -171848086
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter",
+		"Score": 2500,
+		"GroupType": 25,
+		"Level": 3,
+		"DataImpl": {},
+		"BuffID": 161
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633381
+		},
+		"BuffDesc": {
+			"hash": 928374507
+		},
+		"BuffDescBrief": {
+			"hash": -171848085
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter",
+		"Score": 500,
+		"GroupType": 26,
+		"Level": 1,
+		"DataImpl": {},
+		"BuffID": 162
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633382
+		},
+		"BuffDesc": {
+			"hash": 928374508
+		},
+		"BuffDescBrief": {
+			"hash": -171848084
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter",
+		"Score": 750,
+		"GroupType": 26,
+		"Level": 2,
+		"DataImpl": {},
+		"BuffID": 163
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633383
+		},
+		"BuffDesc": {
+			"hash": 928374509
+		},
+		"BuffDescBrief": {
+			"hash": -171848083
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter",
+		"Score": 1500,
+		"GroupType": 26,
+		"Level": 3,
+		"DataImpl": {},
+		"BuffID": 164
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633384
+		},
+		"BuffDesc": {
+			"hash": 928374510
+		},
+		"BuffDescBrief": {
+			"hash": -171848082
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter",
+		"Score": 750,
+		"GroupType": 27,
+		"Level": 1,
+		"DataImpl": {},
+		"BuffID": 165
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633385
+		},
+		"BuffDesc": {
+			"hash": 928374511
+		},
+		"BuffDescBrief": {
+			"hash": -171848081
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter",
+		"Score": 1000,
+		"GroupType": 27,
+		"Level": 2,
+		"DataImpl": {},
+		"BuffID": 166
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633386
+		},
+		"BuffDesc": {
+			"hash": 928374512
+		},
+		"BuffDescBrief": {
+			"hash": -171848080
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter",
+		"Score": 2000,
+		"GroupType": 27,
+		"Level": 3,
+		"DataImpl": {},
+		"BuffID": 167
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633387
+		},
+		"BuffDesc": {
+			"hash": 928374513
+		},
+		"BuffDescBrief": {
+			"hash": -171848079
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter",
+		"Score": 500,
+		"GroupType": 28,
+		"Level": 1,
+		"DataImpl": {},
+		"BuffID": 168
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633388
+		},
+		"BuffDesc": {
+			"hash": 928374514
+		},
+		"BuffDescBrief": {
+			"hash": -171848078
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter",
+		"Score": 750,
+		"GroupType": 28,
+		"Level": 2,
+		"DataImpl": {},
+		"BuffID": 169
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633410
+		},
+		"BuffDesc": {
+			"hash": 928374536
+		},
+		"BuffDescBrief": {
+			"hash": -171848056
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter",
+		"Score": 1500,
+		"GroupType": 28,
+		"Level": 3,
+		"DataImpl": {},
+		"BuffID": 170
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633411
+		},
+		"BuffDesc": {
+			"hash": 928374537
+		},
+		"BuffDescBrief": {
+			"hash": -171848055
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter",
+		"Score": 750,
+		"GroupType": 29,
+		"Level": 1,
+		"DataImpl": {},
+		"BuffID": 171
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633412
+		},
+		"BuffDesc": {
+			"hash": 928374538
+		},
+		"BuffDescBrief": {
+			"hash": -171848054
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter",
+		"Score": 1500,
+		"GroupType": 29,
+		"Level": 2,
+		"DataImpl": {},
+		"BuffID": 172
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633413
+		},
+		"BuffDesc": {
+			"hash": 928374539
+		},
+		"BuffDescBrief": {
+			"hash": -171848053
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter",
+		"Score": 2000,
+		"GroupType": 29,
+		"Level": 3,
+		"DataImpl": {},
+		"BuffID": 173
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633414
+		},
+		"BuffDesc": {
+			"hash": 928374540
+		},
+		"BuffDescBrief": {
+			"hash": -171848052
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter",
+		"Score": 750,
+		"GroupType": 30,
+		"Level": 1,
+		"DataImpl": {},
+		"BuffID": 174
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633415
+		},
+		"BuffDesc": {
+			"hash": 928374541
+		},
+		"BuffDescBrief": {
+			"hash": -171848051
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter",
+		"Score": 1000,
+		"GroupType": 30,
+		"Level": 2,
+		"DataImpl": {},
+		"BuffID": 175
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633416
+		},
+		"BuffDesc": {
+			"hash": 928374542
+		},
+		"BuffDescBrief": {
+			"hash": -171848050
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter",
+		"Score": 1500,
+		"GroupType": 30,
+		"Level": 3,
+		"DataImpl": {},
+		"BuffID": 176
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633417
+		},
+		"BuffDesc": {
+			"hash": 928374543
+		},
+		"BuffDescBrief": {
+			"hash": -171848049
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter",
+		"Score": 750,
+		"GroupType": 31,
+		"Level": 1,
+		"DataImpl": {},
+		"BuffID": 177
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633418
+		},
+		"BuffDesc": {
+			"hash": 928374544
+		},
+		"BuffDescBrief": {
+			"hash": -171848048
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter",
+		"Score": 1000,
+		"GroupType": 31,
+		"Level": 2,
+		"DataImpl": {},
+		"BuffID": 178
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633419
+		},
+		"BuffDesc": {
+			"hash": 928374545
+		},
+		"BuffDescBrief": {
+			"hash": -171848047
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter",
+		"Score": 2000,
+		"GroupType": 31,
+		"Level": 3,
+		"DataImpl": {},
+		"BuffID": 179
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633441
+		},
+		"BuffDesc": {
+			"hash": 928374567
+		},
+		"BuffDescBrief": {
+			"hash": -171848025
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter",
+		"Score": 750,
+		"GroupType": 32,
+		"Level": 1,
+		"DataImpl": {},
+		"BuffID": 180
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633442
+		},
+		"BuffDesc": {
+			"hash": 928374568
+		},
+		"BuffDescBrief": {
+			"hash": -171848024
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter",
+		"Score": 1000,
+		"GroupType": 32,
+		"Level": 2,
+		"DataImpl": {},
+		"BuffID": 181
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633443
+		},
+		"BuffDesc": {
+			"hash": 928374569
+		},
+		"BuffDescBrief": {
+			"hash": -171848023
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter",
+		"Score": 2000,
+		"GroupType": 32,
+		"Level": 3,
+		"DataImpl": {},
+		"BuffID": 182
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633444
+		},
+		"BuffDesc": {
+			"hash": 928374570
+		},
+		"BuffDescBrief": {
+			"hash": -171848022
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter",
+		"Score": 500,
+		"GroupType": 33,
+		"Level": 1,
+		"DataImpl": {},
+		"BuffID": 183
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633445
+		},
+		"BuffDesc": {
+			"hash": 928374571
+		},
+		"BuffDescBrief": {
+			"hash": -171848021
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter",
+		"Score": 750,
+		"GroupType": 33,
+		"Level": 2,
+		"DataImpl": {},
+		"BuffID": 184
+	},
+	{
+		"BuffType": 1,
+		"RestrictID": 0,
+		"BuffName": {
+			"hash": 1751633446
+		},
+		"BuffDesc": {
+			"hash": 928374572
+		},
+		"BuffDescBrief": {
+			"hash": -171848020
+		},
+		"BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter",
+		"Score": 2500,
+		"GroupType": 33,
+		"Level": 3,
+		"DataImpl": {},
+		"BuffID": 185
+	},
+	{
+		"BuffType": 2,
+		"RestrictID": 134,
+		"BuffName": {
+			"hash": -1533945817
+		},
+		"BuffDesc": {
+			"hash": -1285167135
+		},
+		"BuffDescBrief": {
+			"hash": -1032329119
+		},
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_BlackArmour",
+		"Score": 100,
+		"GroupType": 0,
+		"Level": 0,
+		"DataImpl": {},
+		"BuffID": 1000
+	},
+	{
+		"BuffType": 2,
+		"RestrictID": 22,
+		"BuffName": {
+			"hash": -1533945816
+		},
+		"BuffDesc": {
+			"hash": -1285167134
+		},
+		"BuffDescBrief": {
+			"hash": -1032329118
+		},
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_BlackArmour",
+		"Score": 100,
+		"GroupType": 0,
+		"Level": 0,
+		"DataImpl": {},
+		"BuffID": 1001
+	},
+	{
+		"BuffType": 2,
+		"RestrictID": 222,
+		"BuffName": {
+			"hash": -1533945815
+		},
+		"BuffDesc": {
+			"hash": -1285167133
+		},
+		"BuffDescBrief": {
+			"hash": -1032329117
+		},
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_BlackArmour",
+		"Score": 100,
+		"GroupType": 0,
+		"Level": 0,
+		"DataImpl": {},
+		"BuffID": 1002
+	},
+	{
+		"BuffType": 2,
+		"RestrictID": 223,
+		"BuffName": {
+			"hash": -1533945814
+		},
+		"BuffDesc": {
+			"hash": -1285167132
+		},
+		"BuffDescBrief": {
+			"hash": -1032329116
+		},
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_BlackArmour",
+		"Score": 100,
+		"GroupType": 0,
+		"Level": 0,
+		"DataImpl": {},
+		"BuffID": 1003
+	},
+	{
+		"BuffType": 2,
+		"RestrictID": 224,
+		"BuffName": {
+			"hash": -1533945813
+		},
+		"BuffDesc": {
+			"hash": -1285167131
+		},
+		"BuffDescBrief": {
+			"hash": -1032329115
+		},
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_BlackArmour",
+		"Score": 100,
+		"GroupType": 0,
+		"Level": 0,
+		"DataImpl": {},
+		"BuffID": 1004
+	},
+	{
+		"BuffType": 2,
+		"RestrictID": 225,
+		"BuffName": {
+			"hash": -1533945812
+		},
+		"BuffDesc": {
+			"hash": -1285167130
+		},
+		"BuffDescBrief": {
+			"hash": -1032329114
+		},
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_BlackArmour",
+		"Score": 100,
+		"GroupType": 0,
+		"Level": 0,
+		"DataImpl": {},
+		"BuffID": 1005
+	},
+	{
+		"BuffType": 2,
+		"RestrictID": 22,
+		"BuffName": {
+			"hash": -1533944856
+		},
+		"BuffDesc": {
+			"hash": -1285166174
+		},
+		"BuffDescBrief": {
+			"hash": -1032328158
+		},
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_BlackArmour",
+		"Score": 100,
+		"GroupType": 0,
+		"Level": 0,
+		"DataImpl": {},
+		"BuffID": 1100
+	},
+	{
+		"BuffType": 2,
+		"RestrictID": 21,
+		"BuffName": {
+			"hash": -1533944855
+		},
+		"BuffDesc": {
+			"hash": -1285166173
+		},
+		"BuffDescBrief": {
+			"hash": -1032328157
+		},
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_BlackArmour",
+		"Score": 100,
+		"GroupType": 0,
+		"Level": 0,
+		"DataImpl": {},
+		"BuffID": 1101
+	},
+	{
+		"BuffType": 2,
+		"RestrictID": 23,
+		"BuffName": {
+			"hash": -1533944854
+		},
+		"BuffDesc": {
+			"hash": -1285166172
+		},
+		"BuffDescBrief": {
+			"hash": -1032328156
+		},
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_BlackArmour",
+		"Score": 100,
+		"GroupType": 0,
+		"Level": 0,
+		"DataImpl": {},
+		"BuffID": 1102
+	},
+	{
+		"BuffType": 2,
+		"RestrictID": 22,
+		"BuffName": {
+			"hash": -1533944853
+		},
+		"BuffDesc": {
+			"hash": -1285166171
+		},
+		"BuffDescBrief": {
+			"hash": -1032328155
+		},
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_BlackArmour",
+		"Score": 100,
+		"GroupType": 0,
+		"Level": 0,
+		"DataImpl": {},
+		"BuffID": 1103
+	}
+]

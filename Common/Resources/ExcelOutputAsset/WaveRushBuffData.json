@@ -1,0 +1,1625 @@
+[
+	{
+		"BuffName": "Ability_MWR_StartLevelMax",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 0,
+		"Name": {
+			"hash": 0
+		},
+		"Icon": "",
+		"IsShowDialog": false,
+		"DataImpl": {},
+		"BuffID": 501
+	},
+	{
+		"BuffName": "Ability_MWR_FeverLevelMax",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 0,
+		"Name": {
+			"hash": 0
+		},
+		"Icon": "",
+		"IsShowDialog": false,
+		"DataImpl": {},
+		"BuffID": 999
+	},
+	{
+		"BuffName": "Ability_MWR_QTE_TotalDamage_A1",
+		"Type": 2,
+		"ActivateCore": [],
+		"BuffSect": 1,
+		"Name": {
+			"hash": -38525997
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/Qte01",
+		"IsShowDialog": false,
+		"DataImpl": {},
+		"BuffID": 1001
+	},
+	{
+		"BuffName": "Ability_MWR_QTE_SingleDamageTaken_A2",
+		"Type": 2,
+		"ActivateCore": [],
+		"BuffSect": 1,
+		"Name": {
+			"hash": -38525996
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/Qte02",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 1002
+	},
+	{
+		"BuffName": "Ability_MWR_QTE_SingleDamage_A3",
+		"Type": 2,
+		"ActivateCore": [],
+		"BuffSect": 1,
+		"Name": {
+			"hash": -38525995
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/Qte03",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 1003
+	},
+	{
+		"BuffName": "Ability_MWR_QTE_SingleDamage_A4",
+		"Type": 2,
+		"ActivateCore": [],
+		"BuffSect": 1,
+		"Name": {
+			"hash": -38525994
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/Qte04",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 1004
+	},
+	{
+		"BuffName": "Ability_MWR_QTE_SingleDamage_A5",
+		"Type": 2,
+		"ActivateCore": [],
+		"BuffSect": 1,
+		"Name": {
+			"hash": -38525993
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/Qte05",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 1005
+	},
+	{
+		"BuffName": "Ability_MWR_QTE_Exchange",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 1,
+		"Name": {
+			"hash": -1603292791
+		},
+		"Icon": "",
+		"IsShowDialog": false,
+		"DataImpl": {},
+		"BuffID": 1100
+	},
+	{
+		"BuffName": "Ability_MWR_BlockHole",
+		"Type": 1,
+		"ActivateCore": [
+			{
+				"Type": 1,
+				"Num": 3
+			}
+		],
+		"BuffSect": 1,
+		"Name": {
+			"hash": -799057070
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/Qte00",
+		"IsShowDialog": false,
+		"DataImpl": {},
+		"BuffID": 1101
+	},
+	{
+		"BuffName": "Ability_MWR_QTE_Exchange",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 1,
+		"Name": {
+			"hash": -1603292791
+		},
+		"Icon": "",
+		"IsShowDialog": false,
+		"DataImpl": {},
+		"BuffID": 1102
+	},
+	{
+		"BuffName": "Ability_MWR_HighHint_SingleDamage_B1",
+		"Type": 2,
+		"ActivateCore": [],
+		"BuffSect": 2,
+		"Name": {
+			"hash": -1431153453
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/Hf01",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 2001
+	},
+	{
+		"BuffName": "Ability_MWR_HighHint_TotalDamageTaken_B2",
+		"Type": 2,
+		"ActivateCore": [],
+		"BuffSect": 2,
+		"Name": {
+			"hash": -1431153452
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/Hf02",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 2002
+	},
+	{
+		"BuffName": "Ability_MWR_HighHint_TotalDamage_B3",
+		"Type": 2,
+		"ActivateCore": [],
+		"BuffSect": 2,
+		"Name": {
+			"hash": -1431153451
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/Hf03",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 2003
+	},
+	{
+		"BuffName": "Ability_MWR_HighHint_TotalDamage_B4",
+		"Type": 2,
+		"ActivateCore": [],
+		"BuffSect": 2,
+		"Name": {
+			"hash": -1431153450
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/Hf04",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 2004
+	},
+	{
+		"BuffName": "Ability_MWR_HighHint_TotalDamage_B5",
+		"Type": 2,
+		"ActivateCore": [],
+		"BuffSect": 2,
+		"Name": {
+			"hash": -1431153449
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/Hf05",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 2005
+	},
+	{
+		"BuffName": "Ability_MWR_HighHint_Exchange",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 2,
+		"Name": {
+			"hash": 1600683485
+		},
+		"Icon": "",
+		"IsShowDialog": false,
+		"DataImpl": {},
+		"BuffID": 2100
+	},
+	{
+		"BuffName": "Ability_MWR_FunnelBomb",
+		"Type": 1,
+		"ActivateCore": [
+			{
+				"Type": 2,
+				"Num": 3
+			}
+		],
+		"BuffSect": 2,
+		"Name": {
+			"hash": -2132997038
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/Hf00",
+		"IsShowDialog": false,
+		"DataImpl": {},
+		"BuffID": 2101
+	},
+	{
+		"BuffName": "Ability_MWR_HighHint_Exchange",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 2,
+		"Name": {
+			"hash": 1600683485
+		},
+		"Icon": "",
+		"IsShowDialog": false,
+		"DataImpl": {},
+		"BuffID": 2102
+	},
+	{
+		"BuffName": "Ability_MWR_Ultra_SingleDamage_C1",
+		"Type": 2,
+		"ActivateCore": [],
+		"BuffSect": 3,
+		"Name": {
+			"hash": 1617390237
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/MustKill01",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 3001
+	},
+	{
+		"BuffName": "Ability_MWR_Ultra_TotalDamageTaken_C2",
+		"Type": 2,
+		"ActivateCore": [],
+		"BuffSect": 3,
+		"Name": {
+			"hash": 1617390238
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/MustKill02",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 3002
+	},
+	{
+		"BuffName": "Ability_MWR_Ultra_TotalDamage_C3",
+		"Type": 2,
+		"ActivateCore": [],
+		"BuffSect": 3,
+		"Name": {
+			"hash": 1617390239
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/MustKill03",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 3003
+	},
+	{
+		"BuffName": "Ability_MWR_Ultra_TotalDamage_C4",
+		"Type": 2,
+		"ActivateCore": [],
+		"BuffSect": 3,
+		"Name": {
+			"hash": 1617390240
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/MustKill04",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 3004
+	},
+	{
+		"BuffName": "Ability_MWR_Ultra_Exchange",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 3,
+		"Name": {
+			"hash": 1115054803
+		},
+		"Icon": "",
+		"IsShowDialog": false,
+		"DataImpl": {},
+		"BuffID": 3100
+	},
+	{
+		"BuffName": "Ability_MWR_FireStone",
+		"Type": 1,
+		"ActivateCore": [
+			{
+				"Type": 3,
+				"Num": 3
+			}
+		],
+		"BuffSect": 3,
+		"Name": {
+			"hash": -2028065508
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/MustKill00",
+		"IsShowDialog": false,
+		"DataImpl": {},
+		"BuffID": 3101
+	},
+	{
+		"BuffName": "Ability_MWR_Ultra_Exchange",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 3,
+		"Name": {
+			"hash": 1115054803
+		},
+		"Icon": "",
+		"IsShowDialog": false,
+		"DataImpl": {},
+		"BuffID": 3102
+	},
+	{
+		"BuffName": "Ability_MWR_Frozen_TotalDamage_D1",
+		"Type": 2,
+		"ActivateCore": [],
+		"BuffSect": 4,
+		"Name": {
+			"hash": -878429197
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/Ice01",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 4001
+	},
+	{
+		"BuffName": "Ability_MWR_Frozen_SingleDamageTaken_D2",
+		"Type": 2,
+		"ActivateCore": [],
+		"BuffSect": 4,
+		"Name": {
+			"hash": -878429196
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/Ice02",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 4002
+	},
+	{
+		"BuffName": "Ability_MWR_Frozen_SingleDamage_D3",
+		"Type": 2,
+		"ActivateCore": [],
+		"BuffSect": 4,
+		"Name": {
+			"hash": -878429195
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/Ice03",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 4003
+	},
+	{
+		"BuffName": "Ability_MWR_Frozen_TotalDamage_D4",
+		"Type": 2,
+		"ActivateCore": [],
+		"BuffSect": 4,
+		"Name": {
+			"hash": -878429194
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/Ice04",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 4004
+	},
+	{
+		"BuffName": "Ability_MWR_Frozen_Exchange",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 4,
+		"Name": {
+			"hash": 729041533
+		},
+		"Icon": "",
+		"IsShowDialog": false,
+		"DataImpl": {},
+		"BuffID": 4100
+	},
+	{
+		"BuffName": "Ability_MWR_ShockWaves",
+		"Type": 1,
+		"ActivateCore": [
+			{
+				"Type": 4,
+				"Num": 3
+			}
+		],
+		"BuffSect": 4,
+		"Name": {
+			"hash": 2051433330
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/Ice00",
+		"IsShowDialog": false,
+		"DataImpl": {},
+		"BuffID": 4101
+	},
+	{
+		"BuffName": "Ability_MWR_Frozen_Exchange",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 4,
+		"Name": {
+			"hash": 729041533
+		},
+		"Icon": "",
+		"IsShowDialog": false,
+		"DataImpl": {},
+		"BuffID": 4102
+	},
+	{
+		"BuffName": "Ability_MWR_StartAttackUp",
+		"Type": 4,
+		"ActivateCore": [],
+		"BuffSect": 0,
+		"Name": {
+			"hash": 892456347
+		},
+		"Icon": "SpriteOutput/RandomBuff/RandomBuff05",
+		"IsShowDialog": false,
+		"DataImpl": {},
+		"BuffID": 5001
+	},
+	{
+		"BuffName": "Ability_MWR_StartSPFull",
+		"Type": 4,
+		"ActivateCore": [],
+		"BuffSect": 0,
+		"Name": {
+			"hash": 245900464
+		},
+		"Icon": "SpriteOutput/RandomBuff/RandomBuff_Recover",
+		"IsShowDialog": false,
+		"DataImpl": {},
+		"BuffID": 5002
+	},
+	{
+		"BuffName": "Ability_MWR_AddAccumulator",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 0,
+		"Name": {
+			"hash": 0
+		},
+		"Icon": "",
+		"IsShowDialog": false,
+		"DataImpl": {},
+		"BuffID": 5011
+	},
+	{
+		"BuffName": "Ability_MWR_AddAccumulator_Boss",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 0,
+		"Name": {
+			"hash": 0
+		},
+		"Icon": "",
+		"IsShowDialog": false,
+		"DataImpl": {},
+		"BuffID": 5012
+	},
+	{
+		"BuffName": "Ability_MWR_BranchLevelSkill",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 0,
+		"Name": {
+			"hash": 0
+		},
+		"Icon": "",
+		"IsShowDialog": false,
+		"DataImpl": {},
+		"BuffID": 5021
+	},
+	{
+		"BuffName": "Ability_MWR_Fever_TotalDamage_E1",
+		"Type": 2,
+		"ActivateCore": [],
+		"BuffSect": 5,
+		"Name": {
+			"hash": 990808949
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/Caazy01",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 6001
+	},
+	{
+		"BuffName": "Ability_MWR_Fever_SingleDamageTaken_E2",
+		"Type": 2,
+		"ActivateCore": [],
+		"BuffSect": 5,
+		"Name": {
+			"hash": 990808950
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/Caazy02",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 6002
+	},
+	{
+		"BuffName": "Ability_MWR_Fever_SingleDamage_E3",
+		"Type": 2,
+		"ActivateCore": [],
+		"BuffSect": 5,
+		"Name": {
+			"hash": 990808951
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/Caazy03",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 6003
+	},
+	{
+		"BuffName": "Ability_MWR_Fever_SingleDamage_E4",
+		"Type": 2,
+		"ActivateCore": [],
+		"BuffSect": 5,
+		"Name": {
+			"hash": 990808952
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/Caazy04",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 6004
+	},
+	{
+		"BuffName": "Ability_MWR_Fever_Charge",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 5,
+		"Name": {
+			"hash": 488473515
+		},
+		"Icon": "",
+		"IsShowDialog": false,
+		"DataImpl": {},
+		"BuffID": 6100
+	},
+	{
+		"BuffName": "Ability_MWR_Fever_Core",
+		"Type": 1,
+		"ActivateCore": [
+			{
+				"Type": 5,
+				"Num": 3
+			}
+		],
+		"BuffSect": 5,
+		"Name": {
+			"hash": -2061950476
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/Caazy00",
+		"IsShowDialog": false,
+		"DataImpl": {},
+		"BuffID": 6101
+	},
+	{
+		"BuffName": "Ability_MWR_Fever_Charge",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 5,
+		"Name": {
+			"hash": 488473515
+		},
+		"Icon": "",
+		"IsShowDialog": false,
+		"DataImpl": {},
+		"BuffID": 6102
+	},
+	{
+		"BuffName": "Ability_MWR_Explosion_SingleDamage_F1",
+		"Type": 2,
+		"ActivateCore": [],
+		"BuffSect": 6,
+		"Name": {
+			"hash": 571840582
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/Burst01",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 7001
+	},
+	{
+		"BuffName": "Ability_MWR_Explosion_TotalDamageTaken_F2",
+		"Type": 2,
+		"ActivateCore": [],
+		"BuffSect": 6,
+		"Name": {
+			"hash": 571840583
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/Burst02",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 7002
+	},
+	{
+		"BuffName": "Ability_MWR_Explosion_TotalDamage_F3",
+		"Type": 2,
+		"ActivateCore": [],
+		"BuffSect": 6,
+		"Name": {
+			"hash": 571840584
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/Burst03",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 7003
+	},
+	{
+		"BuffName": "Ability_MWR_Explosion_TotalDamage_F4",
+		"Type": 2,
+		"ActivateCore": [],
+		"BuffSect": 6,
+		"Name": {
+			"hash": 571840585
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/Burst04",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 7004
+	},
+	{
+		"BuffName": "Ability_MWR_Explosion_Charge",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 6,
+		"Name": {
+			"hash": -152992388
+		},
+		"Icon": "",
+		"IsShowDialog": false,
+		"DataImpl": {},
+		"BuffID": 7100
+	},
+	{
+		"BuffName": "Ability_MWR_Explosion_Core",
+		"Type": 1,
+		"ActivateCore": [
+			{
+				"Type": 6,
+				"Num": 3
+			}
+		],
+		"BuffSect": 6,
+		"Name": {
+			"hash": 1161518661
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/Burst00",
+		"IsShowDialog": false,
+		"DataImpl": {},
+		"BuffID": 7101
+	},
+	{
+		"BuffName": "Ability_MWR_Explosion_Charge",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 6,
+		"Name": {
+			"hash": -152992388
+		},
+		"Icon": "",
+		"IsShowDialog": false,
+		"DataImpl": {},
+		"BuffID": 7102
+	},
+	{
+		"BuffName": "Ability_MWR_Versatile_TotalDamage_G1",
+		"Type": 2,
+		"ActivateCore": [],
+		"BuffSect": 7,
+		"Name": {
+			"hash": 10438160
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/AllRound01",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 8001
+	},
+	{
+		"BuffName": "Ability_MWR_Versatile_SingleDamageTaken_G2",
+		"Type": 2,
+		"ActivateCore": [],
+		"BuffSect": 7,
+		"Name": {
+			"hash": 10438161
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/AllRound02",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 8002
+	},
+	{
+		"BuffName": "Ability_MWR_Versatile_SingleDamage_G3",
+		"Type": 2,
+		"ActivateCore": [],
+		"BuffSect": 7,
+		"Name": {
+			"hash": 10438162
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/AllRound03",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 8003
+	},
+	{
+		"BuffName": "Ability_MWR_Versatile_SingleDamage_G4",
+		"Type": 2,
+		"ActivateCore": [],
+		"BuffSect": 7,
+		"Name": {
+			"hash": 10438163
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/AllRound04",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 8004
+	},
+	{
+		"BuffName": "Ability_MWR_Verstile_Charge",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 7,
+		"Name": {
+			"hash": -1151735429
+		},
+		"Icon": "",
+		"IsShowDialog": false,
+		"DataImpl": {},
+		"BuffID": 8100
+	},
+	{
+		"BuffName": "Ability_MWR_Verstile_Core",
+		"Type": 1,
+		"ActivateCore": [
+			{
+				"Type": 7,
+				"Num": 3
+			}
+		],
+		"BuffSect": 7,
+		"Name": {
+			"hash": -1246720528
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/AllRound00",
+		"IsShowDialog": false,
+		"DataImpl": {},
+		"BuffID": 8101
+	},
+	{
+		"BuffName": "Ability_MWR_Verstile_Charge",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 7,
+		"Name": {
+			"hash": -1151735429
+		},
+		"Icon": "",
+		"IsShowDialog": false,
+		"DataImpl": {},
+		"BuffID": 8102
+	},
+	{
+		"BuffName": "Ability_MWR_Colorful_TotalDamage_H1",
+		"Type": 2,
+		"ActivateCore": [],
+		"BuffSect": 8,
+		"Name": {
+			"hash": 1914471885
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/Element01",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 9001
+	},
+	{
+		"BuffName": "Ability_MWR_Colorful_TotalDamageTaken_H2",
+		"Type": 2,
+		"ActivateCore": [],
+		"BuffSect": 8,
+		"Name": {
+			"hash": 1914471886
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/Element02",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 9002
+	},
+	{
+		"BuffName": "Ability_MWR_Colorful_SingleDamage_H3",
+		"Type": 2,
+		"ActivateCore": [],
+		"BuffSect": 8,
+		"Name": {
+			"hash": 1914471887
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/Element03",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 9003
+	},
+	{
+		"BuffName": "Ability_MWR_Colorful_SingleDamage_H4",
+		"Type": 2,
+		"ActivateCore": [],
+		"BuffSect": 8,
+		"Name": {
+			"hash": 1914471888
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/Element04",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 9004
+	},
+	{
+		"BuffName": "Ability_MWR_Colorful_Charge",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 8,
+		"Name": {
+			"hash": 505616855
+		},
+		"Icon": "",
+		"IsShowDialog": false,
+		"DataImpl": {},
+		"BuffID": 9100
+	},
+	{
+		"BuffName": "Ability_MWR_Colorful_Core",
+		"Type": 1,
+		"ActivateCore": [
+			{
+				"Type": 8,
+				"Num": 3
+			}
+		],
+		"BuffSect": 8,
+		"Name": {
+			"hash": 896675916
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/Element00",
+		"IsShowDialog": false,
+		"DataImpl": {},
+		"BuffID": 9101
+	},
+	{
+		"BuffName": "Ability_MWR_Colorful_Charge",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 8,
+		"Name": {
+			"hash": 505616855
+		},
+		"Icon": "",
+		"IsShowDialog": false,
+		"DataImpl": {},
+		"BuffID": 9102
+	},
+	{
+		"BuffName": "Ability_MWR_Armory_M1",
+		"Type": 2,
+		"ActivateCore": [],
+		"BuffSect": 9,
+		"Name": {
+			"hash": -1069565459
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/Weapon01",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 10001
+	},
+	{
+		"BuffName": "Ability_MWR_Armory_M2",
+		"Type": 2,
+		"ActivateCore": [],
+		"BuffSect": 9,
+		"Name": {
+			"hash": -1069565458
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/Weapon02",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 10002
+	},
+	{
+		"BuffName": "Ability_MWR_Armory_M3",
+		"Type": 2,
+		"ActivateCore": [],
+		"BuffSect": 9,
+		"Name": {
+			"hash": -1069565457
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/Weapon03",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 10003
+	},
+	{
+		"BuffName": "Ability_MWR_Armory_M4",
+		"Type": 2,
+		"ActivateCore": [],
+		"BuffSect": 9,
+		"Name": {
+			"hash": -1069565456
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/Weapon04",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 10004
+	},
+	{
+		"BuffName": "Ability_MWR_Armory_Charge",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 9,
+		"Name": {
+			"hash": 537905271
+		},
+		"Icon": "",
+		"IsShowDialog": false,
+		"DataImpl": {},
+		"BuffID": 10100
+	},
+	{
+		"BuffName": "Ability_MWR_Armory_Core",
+		"Type": 1,
+		"ActivateCore": [
+			{
+				"Type": 9,
+				"Num": 3
+			}
+		],
+		"BuffSect": 9,
+		"Name": {
+			"hash": -1734454164
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/Weapon00",
+		"IsShowDialog": false,
+		"DataImpl": {},
+		"BuffID": 10101
+	},
+	{
+		"BuffName": "Ability_MWR_Armory_Charge",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 9,
+		"Name": {
+			"hash": 537905271
+		},
+		"Icon": "",
+		"IsShowDialog": false,
+		"DataImpl": {},
+		"BuffID": 10102
+	},
+	{
+		"BuffName": "Ability_MWR_Opulence_K1",
+		"Type": 2,
+		"ActivateCore": [],
+		"BuffSect": 10,
+		"Name": {
+			"hash": 1816368982
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/SpCost01",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 11001
+	},
+	{
+		"BuffName": "Ability_MWR_Opulence_K2",
+		"Type": 2,
+		"ActivateCore": [],
+		"BuffSect": 10,
+		"Name": {
+			"hash": 1816368983
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/SpCost02",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 11002
+	},
+	{
+		"BuffName": "Ability_MWR_Opulence_K3",
+		"Type": 2,
+		"ActivateCore": [],
+		"BuffSect": 10,
+		"Name": {
+			"hash": 1816368984
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/SpCost03",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 11003
+	},
+	{
+		"BuffName": "Ability_MWR_Opulence_K4",
+		"Type": 2,
+		"ActivateCore": [],
+		"BuffSect": 10,
+		"Name": {
+			"hash": 1816368985
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/SpCost04",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 11004
+	},
+	{
+		"BuffName": "Ability_MWR_Opulence_Charge",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 10,
+		"Name": {
+			"hash": 407513952
+		},
+		"Icon": "",
+		"IsShowDialog": false,
+		"DataImpl": {},
+		"BuffID": 11100
+	},
+	{
+		"BuffName": "Ability_MWR_Opulence_Core",
+		"Type": 1,
+		"ActivateCore": [
+			{
+				"Type": 10,
+				"Num": 3
+			}
+		],
+		"BuffSect": 10,
+		"Name": {
+			"hash": -1154263723
+		},
+		"Icon": "SpriteOutput/WaveRush/IconImg/SpCost00",
+		"IsShowDialog": false,
+		"DataImpl": {},
+		"BuffID": 11101
+	},
+	{
+		"BuffName": "Ability_MWR_Opulence_Charge",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 10,
+		"Name": {
+			"hash": 407513952
+		},
+		"Icon": "",
+		"IsShowDialog": false,
+		"DataImpl": {},
+		"BuffID": 11102
+	},
+	{
+		"BuffName": "Ability_MWR_QTE_TotalDamage_A1",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 1,
+		"Name": {
+			"hash": -38525997
+		},
+		"Icon": "",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 1000001
+	},
+	{
+		"BuffName": "Ability_MWR_QTE_SingleDamageTaken_A2",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 1,
+		"Name": {
+			"hash": -38525996
+		},
+		"Icon": "",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 1000002
+	},
+	{
+		"BuffName": "Ability_MWR_QTE_SingleDamage_A3",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 1,
+		"Name": {
+			"hash": -38525995
+		},
+		"Icon": "",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 1000003
+	},
+	{
+		"BuffName": "Ability_MWR_QTE_SingleDamage_A4",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 1,
+		"Name": {
+			"hash": -38525994
+		},
+		"Icon": "",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 1000004
+	},
+	{
+		"BuffName": "Ability_MWR_HighHint_SingleDamage_B1",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 2,
+		"Name": {
+			"hash": -1431153453
+		},
+		"Icon": "",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 1000005
+	},
+	{
+		"BuffName": "Ability_MWR_HighHint_TotalDamageTaken_B2",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 2,
+		"Name": {
+			"hash": -1431153452
+		},
+		"Icon": "",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 1000006
+	},
+	{
+		"BuffName": "Ability_MWR_HighHint_TotalDamage_B3",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 2,
+		"Name": {
+			"hash": -1431153451
+		},
+		"Icon": "",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 1000007
+	},
+	{
+		"BuffName": "Ability_MWR_HighHint_TotalDamage_B4",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 2,
+		"Name": {
+			"hash": -1431153450
+		},
+		"Icon": "",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 1000008
+	},
+	{
+		"BuffName": "Ability_MWR_Ultra_SingleDamage_C1",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 3,
+		"Name": {
+			"hash": 1617390237
+		},
+		"Icon": "",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 1000009
+	},
+	{
+		"BuffName": "Ability_MWR_Ultra_TotalDamageTaken_C2",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 3,
+		"Name": {
+			"hash": 1617390238
+		},
+		"Icon": "",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 1000010
+	},
+	{
+		"BuffName": "Ability_MWR_Ultra_TotalDamage_C3",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 3,
+		"Name": {
+			"hash": 1617390239
+		},
+		"Icon": "",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 1000011
+	},
+	{
+		"BuffName": "Ability_MWR_Ultra_TotalDamage_C4",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 3,
+		"Name": {
+			"hash": 1617390240
+		},
+		"Icon": "",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 1000012
+	},
+	{
+		"BuffName": "Ability_MWR_Frozen_TotalDamage_D1",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 4,
+		"Name": {
+			"hash": -878429197
+		},
+		"Icon": "",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 1000013
+	},
+	{
+		"BuffName": "Ability_MWR_Frozen_SingleDamageTaken_D2",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 4,
+		"Name": {
+			"hash": -878429196
+		},
+		"Icon": "",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 1000014
+	},
+	{
+		"BuffName": "Ability_MWR_Frozen_SingleDamage_D3",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 4,
+		"Name": {
+			"hash": -878429195
+		},
+		"Icon": "",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 1000015
+	},
+	{
+		"BuffName": "Ability_MWR_Frozen_TotalDamage_D4",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 4,
+		"Name": {
+			"hash": -878429194
+		},
+		"Icon": "",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 1000016
+	},
+	{
+		"BuffName": "Ability_MWR_Fever_TotalDamage_E1",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 5,
+		"Name": {
+			"hash": 990808949
+		},
+		"Icon": "",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 1000101
+	},
+	{
+		"BuffName": "Ability_MWR_Fever_SingleDamageTaken_E2",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 5,
+		"Name": {
+			"hash": 990808950
+		},
+		"Icon": "",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 1000102
+	},
+	{
+		"BuffName": "Ability_MWR_Fever_SingleDamage_E3",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 5,
+		"Name": {
+			"hash": 990808951
+		},
+		"Icon": "",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 1000103
+	},
+	{
+		"BuffName": "Ability_MWR_Fever_SingleDamage_E4",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 5,
+		"Name": {
+			"hash": 990808952
+		},
+		"Icon": "",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 1000104
+	},
+	{
+		"BuffName": "Ability_MWR_Explosion_SingleDamage_F1",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 6,
+		"Name": {
+			"hash": 571840582
+		},
+		"Icon": "",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 1000201
+	},
+	{
+		"BuffName": "Ability_MWR_Explosion_TotalDamageTaken_F2",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 6,
+		"Name": {
+			"hash": 571840583
+		},
+		"Icon": "",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 1000202
+	},
+	{
+		"BuffName": "Ability_MWR_Explosion_TotalDamage_F3",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 6,
+		"Name": {
+			"hash": 571840584
+		},
+		"Icon": "",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 1000203
+	},
+	{
+		"BuffName": "Ability_MWR_Explosion_TotalDamage_F4",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 6,
+		"Name": {
+			"hash": 571840585
+		},
+		"Icon": "",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 1000204
+	},
+	{
+		"BuffName": "Ability_MWR_HighHint_TotalDamage_B5",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 2,
+		"Name": {
+			"hash": -1431153449
+		},
+		"Icon": "",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 1000301
+	},
+	{
+		"BuffName": "Ability_MWR_QTE_SingleDamage_A5",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 1,
+		"Name": {
+			"hash": -38525993
+		},
+		"Icon": "",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 1000401
+	},
+	{
+		"BuffName": "Ability_MWR_Versatile_TotalDamage_G1",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 7,
+		"Name": {
+			"hash": 10438160
+		},
+		"Icon": "",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 1000501
+	},
+	{
+		"BuffName": "Ability_MWR_Versatile_SingleDamageTaken_G2",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 7,
+		"Name": {
+			"hash": 10438161
+		},
+		"Icon": "",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 1000502
+	},
+	{
+		"BuffName": "Ability_MWR_Versatile_SingleDamage_G3",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 7,
+		"Name": {
+			"hash": 10438162
+		},
+		"Icon": "",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 1000503
+	},
+	{
+		"BuffName": "Ability_MWR_Versatile_SingleDamage_G4",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 7,
+		"Name": {
+			"hash": 10438163
+		},
+		"Icon": "",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 1000504
+	},
+	{
+		"BuffName": "Ability_MWR_Colorful_TotalDamage_H1",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 8,
+		"Name": {
+			"hash": 1914471885
+		},
+		"Icon": "",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 1000601
+	},
+	{
+		"BuffName": "Ability_MWR_Colorful_TotalDamageTaken_H2",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 8,
+		"Name": {
+			"hash": 1914471886
+		},
+		"Icon": "",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 1000602
+	},
+	{
+		"BuffName": "Ability_MWR_Colorful_SingleDamage_H3",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 8,
+		"Name": {
+			"hash": 1914471887
+		},
+		"Icon": "",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 1000603
+	},
+	{
+		"BuffName": "Ability_MWR_Colorful_SingleDamage_H4",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 8,
+		"Name": {
+			"hash": 1914471888
+		},
+		"Icon": "",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 1000604
+	},
+	{
+		"BuffName": "Ability_MWR_Armory_M1",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 9,
+		"Name": {
+			"hash": -1069565459
+		},
+		"Icon": "",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 1000701
+	},
+	{
+		"BuffName": "Ability_MWR_Armory_M2",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 9,
+		"Name": {
+			"hash": -1069565458
+		},
+		"Icon": "",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 1000702
+	},
+	{
+		"BuffName": "Ability_MWR_Armory_M3",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 9,
+		"Name": {
+			"hash": -1069565457
+		},
+		"Icon": "",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 1000703
+	},
+	{
+		"BuffName": "Ability_MWR_Armory_M4",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 9,
+		"Name": {
+			"hash": -1069565456
+		},
+		"Icon": "",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 1000704
+	},
+	{
+		"BuffName": "Ability_MWR_Opulence_K1",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 10,
+		"Name": {
+			"hash": 1816368982
+		},
+		"Icon": "",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 1000801
+	},
+	{
+		"BuffName": "Ability_MWR_Opulence_K2",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 10,
+		"Name": {
+			"hash": 1816368983
+		},
+		"Icon": "",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 1000802
+	},
+	{
+		"BuffName": "Ability_MWR_Opulence_K3",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 10,
+		"Name": {
+			"hash": 1816368984
+		},
+		"Icon": "",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 1000803
+	},
+	{
+		"BuffName": "Ability_MWR_Opulence_K4",
+		"Type": 3,
+		"ActivateCore": [],
+		"BuffSect": 10,
+		"Name": {
+			"hash": 1816368985
+		},
+		"Icon": "",
+		"IsShowDialog": true,
+		"DataImpl": {},
+		"BuffID": 1000804
+	}
+]

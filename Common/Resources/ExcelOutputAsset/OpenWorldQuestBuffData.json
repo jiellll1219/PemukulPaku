@@ -1,0 +1,1322 @@
+[
+	{
+		"buffType": 1,
+		"buffNameStrId": "MonsterBuff_Fire_Weak",
+		"buffDescStrId": {
+			"hash": -1238704718
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Fire",
+		"DataImpl": {},
+		"buffId": 100
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "MonsterBuff_Fire_Down",
+		"buffDescStrId": {
+			"hash": -1341679396
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Fire",
+		"DataImpl": {},
+		"buffId": 101
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "MonsterBuff_Ice_Weak",
+		"buffDescStrId": {
+			"hash": 208105249
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Ice",
+		"DataImpl": {},
+		"buffId": 102
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "MonsterBuff_Ice_Down",
+		"buffDescStrId": {
+			"hash": 105130571
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Ice",
+		"DataImpl": {},
+		"buffId": 103
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "MonsterBuff_Lighting_Weak",
+		"buffDescStrId": {
+			"hash": -616020580
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Lighting",
+		"DataImpl": {},
+		"buffId": 104
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "MonsterBuff_Lighting_Down",
+		"buffDescStrId": {
+			"hash": -718995258
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Lighting",
+		"DataImpl": {},
+		"buffId": 105
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "MonsterBuff_Stun_Weak",
+		"buffDescStrId": {
+			"hash": 2121138606
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Stun",
+		"DataImpl": {},
+		"buffId": 106
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "MonsterBuff_Stun_Down",
+		"buffDescStrId": {
+			"hash": 2018163928
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Stun",
+		"DataImpl": {},
+		"buffId": 107
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "MonsterBuff_Break_Weak",
+		"buffDescStrId": {
+			"hash": -1873718099
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Break",
+		"DataImpl": {},
+		"buffId": 110
+	},
+	{
+		"buffType": 2,
+		"buffNameStrId": "MonsterBuff_Break_Down",
+		"buffDescStrId": {
+			"hash": -1976692777
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Break",
+		"DataImpl": {},
+		"buffId": 111
+	},
+	{
+		"buffType": 2,
+		"buffNameStrId": "MonsterBuff_WitchTime_Weak",
+		"buffDescStrId": {
+			"hash": 1090203544
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_WitchTime",
+		"DataImpl": {},
+		"buffId": 112
+	},
+	{
+		"buffType": 2,
+		"buffNameStrId": "MonsterBuff_WitchTime_Down",
+		"buffDescStrId": {
+			"hash": 987228866
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_WitchTime",
+		"DataImpl": {},
+		"buffId": 113
+	},
+	{
+		"buffType": 2,
+		"buffNameStrId": "MonsterBuff_Bleeding_Weak",
+		"buffDescStrId": {
+			"hash": 546039744
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Bleeding",
+		"DataImpl": {},
+		"buffId": 114
+	},
+	{
+		"buffType": 2,
+		"buffNameStrId": "MonsterBuff_Bleeding_Down",
+		"buffDescStrId": {
+			"hash": 443065066
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Bleeding",
+		"DataImpl": {},
+		"buffId": 115
+	},
+	{
+		"buffType": 2,
+		"buffNameStrId": "MonsterBuff_Charge_Weak",
+		"buffDescStrId": {
+			"hash": 947769972
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Crit",
+		"DataImpl": {},
+		"buffId": 116
+	},
+	{
+		"buffType": 2,
+		"buffNameStrId": "MonsterBuff_Charge_Down",
+		"buffDescStrId": {
+			"hash": 844795294
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Crit",
+		"DataImpl": {},
+		"buffId": 117
+	},
+	{
+		"buffType": 2,
+		"buffNameStrId": "MonsterBuff_Qte_Weak",
+		"buffDescStrId": {
+			"hash": 277376106
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 118
+	},
+	{
+		"buffType": 2,
+		"buffNameStrId": "MonsterBuff_Qte_Down",
+		"buffDescStrId": {
+			"hash": 174401428
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 119
+	},
+	{
+		"buffType": 2,
+		"buffNameStrId": "MonsterBuff_Range_Weak",
+		"buffDescStrId": {
+			"hash": 1010452783
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 120
+	},
+	{
+		"buffType": 2,
+		"buffNameStrId": "MonsterBuff_Close_Weak",
+		"buffDescStrId": {
+			"hash": 1188392020
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 121
+	},
+	{
+		"buffType": 2,
+		"buffNameStrId": "MonsterBuff_Branch_Weak",
+		"buffDescStrId": {
+			"hash": -798326202
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 122
+	},
+	{
+		"buffType": 2,
+		"buffNameStrId": "MonsterBuff_Branch_Down",
+		"buffDescStrId": {
+			"hash": -901300880
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 123
+	},
+	{
+		"buffType": 2,
+		"buffNameStrId": "MonsterBuff_Weapon_Weak",
+		"buffDescStrId": {
+			"hash": -124027892
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 124
+	},
+	{
+		"buffType": 2,
+		"buffNameStrId": "MonsterBuff_Weapon_Down",
+		"buffDescStrId": {
+			"hash": -227002570
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 125
+	},
+	{
+		"buffType": 2,
+		"buffNameStrId": "MonsterBuff_Excited_Up",
+		"buffDescStrId": {
+			"hash": -1373235755
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 200
+	},
+	{
+		"buffType": 2,
+		"buffNameStrId": "MonsterBuff_Hold_Up",
+		"buffDescStrId": {
+			"hash": -1625488020
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Def",
+		"DataImpl": {},
+		"buffId": 201
+	},
+	{
+		"buffType": 2,
+		"buffNameStrId": "MonsterBuff_Resist_Up",
+		"buffDescStrId": {
+			"hash": 1326533089
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_MR",
+		"DataImpl": {},
+		"buffId": 202
+	},
+	{
+		"buffType": 2,
+		"buffNameStrId": "MonsterBuff_Hp_Up",
+		"buffDescStrId": {
+			"hash": 266825987
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_HP",
+		"DataImpl": {},
+		"buffId": 203
+	},
+	{
+		"buffType": 2,
+		"buffNameStrId": "MonsterBuff_Atk_Up",
+		"buffDescStrId": {
+			"hash": -89758057
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 204
+	},
+	{
+		"buffType": 2,
+		"buffNameStrId": "MonsterBuff_SA_Up",
+		"buffDescStrId": {
+			"hash": -437560291
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_SA",
+		"DataImpl": {},
+		"buffId": 205
+	},
+	{
+		"buffType": 2,
+		"buffNameStrId": "MonsterBuff_Stun_Up",
+		"buffDescStrId": {
+			"hash": -1804913007
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Stun",
+		"DataImpl": {},
+		"buffId": 206
+	},
+	{
+		"buffType": 2,
+		"buffNameStrId": "MonsterBuff_Hp_Up1",
+		"buffDescStrId": {
+			"hash": -2024820492
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_HP",
+		"DataImpl": {},
+		"buffId": 211
+	},
+	{
+		"buffType": 2,
+		"buffNameStrId": "MonsterBuff_Hp_Up2",
+		"buffDescStrId": {
+			"hash": 462692341
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_HP",
+		"DataImpl": {},
+		"buffId": 212
+	},
+	{
+		"buffType": 2,
+		"buffNameStrId": "MonsterBuff_Hp_Up3",
+		"buffDescStrId": {
+			"hash": -1344762122
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_HP",
+		"DataImpl": {},
+		"buffId": 213
+	},
+	{
+		"buffType": 2,
+		"buffNameStrId": "MonsterBuff_Hp_Up4",
+		"buffDescStrId": {
+			"hash": 1142750711
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_HP",
+		"DataImpl": {},
+		"buffId": 214
+	},
+	{
+		"buffType": 2,
+		"buffNameStrId": "MonsterBuff_Hp_Up5",
+		"buffDescStrId": {
+			"hash": -664703752
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_HP",
+		"DataImpl": {},
+		"buffId": 215
+	},
+	{
+		"buffType": 2,
+		"buffNameStrId": "MonsterBuff_Hp_Up6",
+		"buffDescStrId": {
+			"hash": 1822809081
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_HP",
+		"DataImpl": {},
+		"buffId": 216
+	},
+	{
+		"buffType": 2,
+		"buffNameStrId": "MonsterBuff_Hp_Up7",
+		"buffDescStrId": {
+			"hash": 15354618
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_HP",
+		"DataImpl": {},
+		"buffId": 217
+	},
+	{
+		"buffType": 2,
+		"buffNameStrId": "MonsterBuff_Hp_Up8",
+		"buffDescStrId": {
+			"hash": -1792099845
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_HP",
+		"DataImpl": {},
+		"buffId": 218
+	},
+	{
+		"buffType": 2,
+		"buffNameStrId": "MonsterBuff_Atk_Up1",
+		"buffDescStrId": {
+			"hash": -194023968
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 221
+	},
+	{
+		"buffType": 2,
+		"buffNameStrId": "MonsterBuff_Atk_Up2",
+		"buffDescStrId": {
+			"hash": -2001478431
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 222
+	},
+	{
+		"buffType": 2,
+		"buffNameStrId": "MonsterBuff_Atk_Up3",
+		"buffDescStrId": {
+			"hash": 486034402
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 223
+	},
+	{
+		"buffType": 2,
+		"buffNameStrId": "MonsterBuff_Atk_Up4",
+		"buffDescStrId": {
+			"hash": -1321420061
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 224
+	},
+	{
+		"buffType": 2,
+		"buffNameStrId": "MonsterBuff_Atk_Up5",
+		"buffDescStrId": {
+			"hash": 1166092772
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 225
+	},
+	{
+		"buffType": 2,
+		"buffNameStrId": "MonsterBuff_Atk_Up6",
+		"buffDescStrId": {
+			"hash": -641361691
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 226
+	},
+	{
+		"buffType": 2,
+		"buffNameStrId": "MonsterBuff_Atk_Up7",
+		"buffDescStrId": {
+			"hash": 1846151142
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 227
+	},
+	{
+		"buffType": 2,
+		"buffNameStrId": "MonsterBuff_Atk_Up8",
+		"buffDescStrId": {
+			"hash": 38696679
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 228
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "MonsterBuff_Weak01",
+		"buffDescStrId": {
+			"hash": 1281071438
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Break",
+		"DataImpl": {},
+		"buffId": 301
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "MonsterBuff_Weak02",
+		"buffDescStrId": {
+			"hash": -526383025
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Break",
+		"DataImpl": {},
+		"buffId": 302
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "MonsterBuff_Weak03",
+		"buffDescStrId": {
+			"hash": 1961129808
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Break",
+		"DataImpl": {},
+		"buffId": 303
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "MonsterBuff_Weak04",
+		"buffDescStrId": {
+			"hash": 153675345
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Break",
+		"DataImpl": {},
+		"buffId": 304
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "MonsterBuff_Weak05",
+		"buffDescStrId": {
+			"hash": -1653779118
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Break",
+		"DataImpl": {},
+		"buffId": 305
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "MonsterBuff_Weak06",
+		"buffDescStrId": {
+			"hash": 833733715
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Break",
+		"DataImpl": {},
+		"buffId": 306
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "MonsterBuff_Weak07",
+		"buffDescStrId": {
+			"hash": -973720748
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Break",
+		"DataImpl": {},
+		"buffId": 307
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "MonsterBuff_Weak08",
+		"buffDescStrId": {
+			"hash": 1513792085
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Break",
+		"DataImpl": {},
+		"buffId": 308
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "MonsterBuff_Weak09",
+		"buffDescStrId": {
+			"hash": -293662378
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Break",
+		"DataImpl": {},
+		"buffId": 309
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "MonsterBuff_Weak10",
+		"buffDescStrId": {
+			"hash": -1402954900
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Break",
+		"DataImpl": {},
+		"buffId": 401
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "MonsterBuff_Weak11",
+		"buffDescStrId": {
+			"hash": 1084557933
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Break",
+		"DataImpl": {},
+		"buffId": 402
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "MonsterBuff_Weak12",
+		"buffDescStrId": {
+			"hash": -722896530
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Break",
+		"DataImpl": {},
+		"buffId": 403
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "MonsterBuff_Weak13",
+		"buffDescStrId": {
+			"hash": 1764616303
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Break",
+		"DataImpl": {},
+		"buffId": 404
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "MonsterBuff_Weak14",
+		"buffDescStrId": {
+			"hash": -42838160
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Break",
+		"DataImpl": {},
+		"buffId": 405
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "MonsterBuff_Weak15",
+		"buffDescStrId": {
+			"hash": -1850292623
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Break",
+		"DataImpl": {},
+		"buffId": 406
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "OW_Destiny_Robot_Buff_501",
+		"buffDescStrId": {
+			"hash": -1936743418
+		},
+		"buffIcon": "SpriteOutput/MechSkillIcons/Mech_Buff_09",
+		"DataImpl": {},
+		"buffId": 501
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "OW_Destiny_Robot_Buff_502",
+		"buffDescStrId": {
+			"hash": 550769415
+		},
+		"buffIcon": "SpriteOutput/MechSkillIcons/Mech_Buff_01",
+		"DataImpl": {},
+		"buffId": 502
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "OW_Destiny_Robot_Buff_503",
+		"buffDescStrId": {
+			"hash": -1256685048
+		},
+		"buffIcon": "SpriteOutput/MechSkillIcons/Mech_Buff_02",
+		"DataImpl": {},
+		"buffId": 503
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "OW_Destiny_Robot_Buff_504",
+		"buffDescStrId": {
+			"hash": 1230827785
+		},
+		"buffIcon": "SpriteOutput/MechSkillIcons/Mech_Buff_03",
+		"DataImpl": {},
+		"buffId": 504
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "OW_Destiny_Robot_Buff_505",
+		"buffDescStrId": {
+			"hash": -576626678
+		},
+		"buffIcon": "SpriteOutput/MechSkillIcons/Mech_Buff_04",
+		"DataImpl": {},
+		"buffId": 505
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "OW_Destiny_Robot_Buff_506",
+		"buffDescStrId": {
+			"hash": 1910886155
+		},
+		"buffIcon": "SpriteOutput/MechSkillIcons/Mech_Buff_02",
+		"DataImpl": {},
+		"buffId": 506
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "OW_Destiny_Robot_Buff_507",
+		"buffDescStrId": {
+			"hash": 103431692
+		},
+		"buffIcon": "SpriteOutput/MechSkillIcons/Mech_Buff_10",
+		"DataImpl": {},
+		"buffId": 507
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "OW_Destiny_Robot_Buff_508",
+		"buffDescStrId": {
+			"hash": -1704022771
+		},
+		"buffIcon": "SpriteOutput/MechSkillIcons/Mech_Buff_10",
+		"DataImpl": {},
+		"buffId": 508
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "OW_Destiny_Robot_Buff_509",
+		"buffDescStrId": {
+			"hash": 783490062
+		},
+		"buffIcon": "SpriteOutput/MechSkillIcons/Mech_Buff_10",
+		"DataImpl": {},
+		"buffId": 509
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "OW_Destiny_Robot_Buff_510",
+		"buffDescStrId": {
+			"hash": -325802460
+		},
+		"buffIcon": "SpriteOutput/MechSkillIcons/Mech_Buff_07",
+		"DataImpl": {},
+		"buffId": 510
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "OW_Destiny_Robot_Buff_511",
+		"buffDescStrId": {
+			"hash": -2133256923
+		},
+		"buffIcon": "SpriteOutput/MechSkillIcons/Mech_Buff_10",
+		"DataImpl": {},
+		"buffId": 511
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "OW_Destiny_Robot_Buff_512",
+		"buffDescStrId": {
+			"hash": 354255910
+		},
+		"buffIcon": "SpriteOutput/MechSkillIcons/Mech_Buff_07",
+		"DataImpl": {},
+		"buffId": 512
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "OW_Destiny_Robot_Buff_513",
+		"buffDescStrId": {
+			"hash": -1453198553
+		},
+		"buffIcon": "SpriteOutput/MechSkillIcons/Mech_Buff_06",
+		"DataImpl": {},
+		"buffId": 513
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "OW_Destiny_Robot_Buff_514",
+		"buffDescStrId": {
+			"hash": 1034314280
+		},
+		"buffIcon": "SpriteOutput/MechSkillIcons/Mech_Buff_05",
+		"DataImpl": {},
+		"buffId": 514
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "OW_Destiny_Robot_Buff_515",
+		"buffDescStrId": {
+			"hash": -773140183
+		},
+		"buffIcon": "SpriteOutput/MechSkillIcons/Mech_Buff_08",
+		"DataImpl": {},
+		"buffId": 515
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "OW_Destiny_Robot_Buff_516",
+		"buffDescStrId": {
+			"hash": 1714372650
+		},
+		"buffIcon": "SpriteOutput/MechSkillIcons/Mech_Buff_01",
+		"DataImpl": {},
+		"buffId": 516
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "OW_Destiny_Robot_Buff_517",
+		"buffDescStrId": {
+			"hash": -93081813
+		},
+		"buffIcon": "SpriteOutput/MechSkillIcons/Mech_Buff_01",
+		"DataImpl": {},
+		"buffId": 517
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "OW_Destiny_Robot_Buff_518",
+		"buffDescStrId": {
+			"hash": -1900536276
+		},
+		"buffIcon": "SpriteOutput/MechSkillIcons/Mech_Buff_01",
+		"DataImpl": {},
+		"buffId": 518
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "OW_Destiny_Robot_Buff_519",
+		"buffDescStrId": {
+			"hash": 586976557
+		},
+		"buffIcon": "SpriteOutput/MechSkillIcons/Mech_Buff_08",
+		"DataImpl": {},
+		"buffId": 519
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "OW_Destiny_Robot_Buff_520",
+		"buffDescStrId": {
+			"hash": -522315965
+		},
+		"buffIcon": "SpriteOutput/MechSkillIcons/Mech_Buff_03",
+		"DataImpl": {},
+		"buffId": 520
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "OW_Destiny_Robot_Buff_521",
+		"buffDescStrId": {
+			"hash": 1965196868
+		},
+		"buffIcon": "SpriteOutput/MechSkillIcons/Mech_Buff_04",
+		"DataImpl": {},
+		"buffId": 521
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "OW_Destiny_Robot_Buff_522",
+		"buffDescStrId": {
+			"hash": 157742405
+		},
+		"buffIcon": "SpriteOutput/MechSkillIcons/Mech_Buff_02",
+		"DataImpl": {},
+		"buffId": 522
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "OW_Destiny_Robot_Buff_523",
+		"buffDescStrId": {
+			"hash": -1649712058
+		},
+		"buffIcon": "SpriteOutput/MechSkillIcons/Mech_Buff_03",
+		"DataImpl": {},
+		"buffId": 523
+	},
+	{
+		"buffType": 5,
+		"buffNameStrId": "OW_Destiny_Weather_Carrier_ReduceHP_Slow",
+		"buffDescStrId": {
+			"hash": 1685504031
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 601
+	},
+	{
+		"buffType": 5,
+		"buffNameStrId": "OW_Destiny_Weather_Carrier_ReduceHP_Fast",
+		"buffDescStrId": {
+			"hash": -1359600774
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 602
+	},
+	{
+		"buffType": 4,
+		"buffNameStrId": "OW_Destiny_Weather_Rain_Monster",
+		"buffDescStrId": {
+			"hash": 1374837057
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 603
+	},
+	{
+		"buffType": 4,
+		"buffNameStrId": "OW_Destiny_Weather_Hot_Monster",
+		"buffDescStrId": {
+			"hash": -62131076
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 604
+	},
+	{
+		"buffType": 4,
+		"buffNameStrId": "OW_Destiny_Weather_Thunder_Monster",
+		"buffDescStrId": {
+			"hash": -1698341229
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 605
+	},
+	{
+		"buffType": 4,
+		"buffNameStrId": "OW_Destiny_Weather_Snow_Monster",
+		"buffDescStrId": {
+			"hash": 480198960
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 606
+	},
+	{
+		"buffType": 4,
+		"buffNameStrId": "OW_Destiny_Weather_Fog_Monster",
+		"buffDescStrId": {
+			"hash": 1213655789
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 607
+	},
+	{
+		"buffType": 3,
+		"buffNameStrId": "OW_Destiny_Weather_Fog_Avatar",
+		"buffDescStrId": {
+			"hash": -932350964
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 608
+	},
+	{
+		"buffType": 3,
+		"buffNameStrId": "OW_Destiny_Weather_Hail_Avatar",
+		"buffDescStrId": {
+			"hash": 225795568
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 609
+	},
+	{
+		"buffType": 4,
+		"buffNameStrId": "OW_Destiny_Weather_HonKai_Monster",
+		"buffDescStrId": {
+			"hash": 662109689
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 610
+	},
+	{
+		"buffType": 5,
+		"buffNameStrId": "OW_Destiny_Weather_Carrier_HonkaiKiller",
+		"buffDescStrId": {
+			"hash": 251962128
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 611
+	},
+	{
+		"buffType": 4,
+		"buffNameStrId": "OW_Destiny_Weather_BloodMoon_Monster",
+		"buffDescStrId": {
+			"hash": 1371106186
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 612
+	},
+	{
+		"buffType": 5,
+		"buffNameStrId": "OW_Destiny_Weather_BloodMoon_Carrier",
+		"buffDescStrId": {
+			"hash": -1047722840
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 613
+	},
+	{
+		"buffType": 4,
+		"buffNameStrId": "OW_Destiny_Weather_Aurora_Monster",
+		"buffDescStrId": {
+			"hash": -666709683
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 614
+	},
+	{
+		"buffType": 5,
+		"buffNameStrId": "OW_Destiny_Weather_Carrier_DamageUp",
+		"buffDescStrId": {
+			"hash": -1493115485
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 615
+	},
+	{
+		"buffType": 4,
+		"buffNameStrId": "OW_Destiny_Weather_Hail_Monster",
+		"buffDescStrId": {
+			"hash": -1538507383
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 616
+	},
+	{
+		"buffType": 3,
+		"buffNameStrId": "OW_Destiny_Weather_ResistThunder_LowHP",
+		"buffDescStrId": {
+			"hash": 510513931
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 617
+	},
+	{
+		"buffType": 5,
+		"buffNameStrId": "OW_Destiny_Weather_ResistThunder_LowHP",
+		"buffDescStrId": {
+			"hash": 510513931
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 618
+	},
+	{
+		"buffType": 5,
+		"buffNameStrId": "OW_Destiny_Weather_Fog_Avatar",
+		"buffDescStrId": {
+			"hash": -932350964
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 619
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "CookBuff_1001",
+		"buffDescStrId": {
+			"hash": 689686951
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 1001
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "CookBuff_1002",
+		"buffDescStrId": {
+			"hash": -1117767512
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 1002
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "CookBuff_1003",
+		"buffDescStrId": {
+			"hash": 1369745321
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 1003
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "CookBuff_1004",
+		"buffDescStrId": {
+			"hash": -437709142
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 1004
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "CookBuff_1005",
+		"buffDescStrId": {
+			"hash": 2049803691
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 1005
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "CookBuff_1006",
+		"buffDescStrId": {
+			"hash": 242349228
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 1006
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "CookBuff_1007",
+		"buffDescStrId": {
+			"hash": -1565105235
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 1007
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "CookBuff_1008",
+		"buffDescStrId": {
+			"hash": 922407598
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 1008
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "CookBuff_1009",
+		"buffDescStrId": {
+			"hash": -885046865
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 1009
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "CookBuff_1010",
+		"buffDescStrId": {
+			"hash": -1994339387
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 1010
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "CookBuff_1011",
+		"buffDescStrId": {
+			"hash": 493173446
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Weak",
+		"DataImpl": {},
+		"buffId": 1011
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "ClueBuff01",
+		"buffDescStrId": {
+			"hash": 676726320
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 2000
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "OW_Activity_Boss_Resist_ThunderDamage",
+		"buffDescStrId": {
+			"hash": -1928386470
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Lighting",
+		"DataImpl": {},
+		"buffId": 2001
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "OW_Activity_Boss_Resist_FireDamage",
+		"buffDescStrId": {
+			"hash": 442024868
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Fire",
+		"DataImpl": {},
+		"buffId": 2002
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "OW_Activity_Boss_DamageUp",
+		"buffDescStrId": {
+			"hash": -604788090
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 2003
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "OW_Activity_Boss_Resist_All_Debuff",
+		"buffDescStrId": {
+			"hash": 2016425521
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Stun",
+		"DataImpl": {},
+		"buffId": 2004
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "OW_Activity_Boss_Resist_Damage",
+		"buffDescStrId": {
+			"hash": -612272690
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Break",
+		"DataImpl": {},
+		"buffId": 2005
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "OW_Activity_Boss_Resist_IceDamage",
+		"buffDescStrId": {
+			"hash": -1143598143
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Ice",
+		"DataImpl": {},
+		"buffId": 2006
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "OW_Activity_Boss_AttackCD_Down",
+		"buffDescStrId": {
+			"hash": -80153886
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Atk",
+		"DataImpl": {},
+		"buffId": 2007
+	},
+	{
+		"buffType": 5,
+		"buffNameStrId": "OW_Activity_Region_1_Ability",
+		"buffDescStrId": {
+			"hash": 1267623021
+		},
+		"buffIcon": "SpriteOutput/OpenWorld/WeatherType/123",
+		"DataImpl": {},
+		"buffId": 2010
+	},
+	{
+		"buffType": 5,
+		"buffNameStrId": "OW_Activity_Region_3_Ability",
+		"buffDescStrId": {
+			"hash": -320724881
+		},
+		"buffIcon": "SpriteOutput/OpenWorld/WeatherType/141",
+		"DataImpl": {},
+		"buffId": 2011
+	},
+	{
+		"buffType": 4,
+		"buffNameStrId": "OW_Activity_Region_2_Ability",
+		"buffDescStrId": {
+			"hash": -1674034578
+		},
+		"buffIcon": "SpriteOutput/OpenWorld/WeatherType/122",
+		"DataImpl": {},
+		"buffId": 2012
+	},
+	{
+		"buffType": 4,
+		"buffNameStrId": "OW_Activity_Region_4_Ability",
+		"buffDescStrId": {
+			"hash": 1032584816
+		},
+		"buffIcon": "SpriteOutput/OpenWorld/WeatherType/104",
+		"DataImpl": {},
+		"buffId": 2013
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "OW_Endless_FX_Furnace_On",
+		"buffDescStrId": {
+			"hash": 1560986388
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Fire",
+		"DataImpl": {},
+		"buffId": 2100
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "OW_Endless_FX_HonkaiTower_On",
+		"buffDescStrId": {
+			"hash": 589606799
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_EleRis",
+		"DataImpl": {},
+		"buffId": 2101
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "OW_Endless_FX_Generator_On",
+		"buffDescStrId": {
+			"hash": 1731648505
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Lighting",
+		"DataImpl": {},
+		"buffId": 2102
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "OW_Endless_FX_Freezer_On",
+		"buffDescStrId": {
+			"hash": 497175505
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Ice",
+		"DataImpl": {},
+		"buffId": 2103
+	},
+	{
+		"buffType": 1,
+		"buffNameStrId": "OW_Endless_None",
+		"buffDescStrId": {
+			"hash": -291341763
+		},
+		"buffIcon": "SpriteOutput/StateIcon/State_Event",
+		"DataImpl": {},
+		"buffId": 2104
+	}
+]

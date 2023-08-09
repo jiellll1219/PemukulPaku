@@ -1,0 +1,452 @@
+[
+	{
+		"StageRarityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_S",
+		"StageRarityFrameColor": "#FFDD3EFF",
+		"StageTypeIcon": "SpriteOutput/ChapterActivity/Chapter16/Icon_Guard",
+		"StageBGIcon": "SpriteOutput/OpenWorld/QuestBossIcon/QT_030",
+		"RewardExpMin": 150,
+		"RewardExpMax": 400,
+		"DataImpl": {},
+		"StageID": 161001
+	},
+	{
+		"StageRarityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_S",
+		"StageRarityFrameColor": "#FFDD3EFF",
+		"StageTypeIcon": "SpriteOutput/ChapterActivity/Chapter16/Icon_Guard",
+		"StageBGIcon": "SpriteOutput/OpenWorld/QuestBossIcon/UL_30",
+		"RewardExpMin": 150,
+		"RewardExpMax": 400,
+		"DataImpl": {},
+		"StageID": 161002
+	},
+	{
+		"StageRarityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_S",
+		"StageRarityFrameColor": "#FFDD3EFF",
+		"StageTypeIcon": "SpriteOutput/ChapterActivity/Chapter16/Icon_Monster",
+		"StageBGIcon": "SpriteOutput/OpenWorld/QuestBossIcon/QT_060",
+		"RewardExpMin": 150,
+		"RewardExpMax": 400,
+		"DataImpl": {},
+		"StageID": 161003
+	},
+	{
+		"StageRarityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_S",
+		"StageRarityFrameColor": "#FFDD3EFF",
+		"StageTypeIcon": "SpriteOutput/ChapterActivity/Chapter16/Icon_Monster",
+		"StageBGIcon": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_110",
+		"RewardExpMin": 150,
+		"RewardExpMax": 400,
+		"DataImpl": {},
+		"StageID": 161004
+	},
+	{
+		"StageRarityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_S",
+		"StageRarityFrameColor": "#FFDD3EFF",
+		"StageTypeIcon": "SpriteOutput/ChapterActivity/Chapter16/Icon_Stealth",
+		"StageBGIcon": "SpriteOutput/OpenWorld/QuestBossIcon/DG_30",
+		"RewardExpMin": 150,
+		"RewardExpMax": 400,
+		"DataImpl": {},
+		"StageID": 161005
+	},
+	{
+		"StageRarityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_A",
+		"StageRarityFrameColor": "#F398FFFF",
+		"StageTypeIcon": "SpriteOutput/ChapterActivity/Chapter16/Icon_Guard",
+		"StageBGIcon": "SpriteOutput/OpenWorld/QuestBossIcon/QT_010",
+		"RewardExpMin": 150,
+		"RewardExpMax": 300,
+		"DataImpl": {},
+		"StageID": 161006
+	},
+	{
+		"StageRarityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_A",
+		"StageRarityFrameColor": "#F398FFFF",
+		"StageTypeIcon": "SpriteOutput/ChapterActivity/Chapter16/Icon_Guard",
+		"StageBGIcon": "SpriteOutput/OpenWorld/QuestBossIcon/QT_030",
+		"RewardExpMin": 150,
+		"RewardExpMax": 300,
+		"DataImpl": {},
+		"StageID": 161007
+	},
+	{
+		"StageRarityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_A",
+		"StageRarityFrameColor": "#F398FFFF",
+		"StageTypeIcon": "SpriteOutput/ChapterActivity/Chapter16/Icon_Monster",
+		"StageBGIcon": "SpriteOutput/OpenWorld/QuestBossIcon/UL_080",
+		"RewardExpMin": 150,
+		"RewardExpMax": 300,
+		"DataImpl": {},
+		"StageID": 161008
+	},
+	{
+		"StageRarityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_A",
+		"StageRarityFrameColor": "#F398FFFF",
+		"StageTypeIcon": "SpriteOutput/ChapterActivity/Chapter16/Icon_Monster",
+		"StageBGIcon": "SpriteOutput/OpenWorld/QuestBossIcon/DG_10",
+		"RewardExpMin": 150,
+		"RewardExpMax": 300,
+		"DataImpl": {},
+		"StageID": 161009
+	},
+	{
+		"StageRarityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_A",
+		"StageRarityFrameColor": "#F398FFFF",
+		"StageTypeIcon": "SpriteOutput/ChapterActivity/Chapter16/Icon_Stealth",
+		"StageBGIcon": "SpriteOutput/OpenWorld/QuestBossIcon/DG_30",
+		"RewardExpMin": 150,
+		"RewardExpMax": 300,
+		"DataImpl": {},
+		"StageID": 161010
+	},
+	{
+		"StageRarityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_B",
+		"StageRarityFrameColor": "#FFFFFFFF",
+		"StageTypeIcon": "SpriteOutput/ChapterActivity/Chapter16/Icon_Guard",
+		"StageBGIcon": "SpriteOutput/OpenWorld/QuestBossIcon/UL_30",
+		"RewardExpMin": 150,
+		"RewardExpMax": 200,
+		"DataImpl": {},
+		"StageID": 161011
+	},
+	{
+		"StageRarityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_B",
+		"StageRarityFrameColor": "#FFFFFFFF",
+		"StageTypeIcon": "SpriteOutput/ChapterActivity/Chapter16/Icon_Guard",
+		"StageBGIcon": "SpriteOutput/OpenWorld/QuestBossIcon/UL_30",
+		"RewardExpMin": 150,
+		"RewardExpMax": 200,
+		"DataImpl": {},
+		"StageID": 161012
+	},
+	{
+		"StageRarityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_B",
+		"StageRarityFrameColor": "#FFFFFFFF",
+		"StageTypeIcon": "SpriteOutput/ChapterActivity/Chapter16/Icon_Monster",
+		"StageBGIcon": "SpriteOutput/OpenWorld/QuestBossIcon/UL_040",
+		"RewardExpMin": 150,
+		"RewardExpMax": 200,
+		"DataImpl": {},
+		"StageID": 161013
+	},
+	{
+		"StageRarityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_B",
+		"StageRarityFrameColor": "#FFFFFFFF",
+		"StageTypeIcon": "SpriteOutput/ChapterActivity/Chapter16/Icon_Monster",
+		"StageBGIcon": "SpriteOutput/OpenWorld/QuestBossIcon/UL_060",
+		"RewardExpMin": 150,
+		"RewardExpMax": 200,
+		"DataImpl": {},
+		"StageID": 161014
+	},
+	{
+		"StageRarityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_B",
+		"StageRarityFrameColor": "#FFFFFFFF",
+		"StageTypeIcon": "SpriteOutput/ChapterActivity/Chapter16/Icon_Collect",
+		"StageBGIcon": "SpriteOutput/OpenWorld/QuestBossIcon/RO_40",
+		"RewardExpMin": 150,
+		"RewardExpMax": 200,
+		"DataImpl": {},
+		"StageID": 161015
+	},
+	{
+		"StageRarityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_S",
+		"StageRarityFrameColor": "#FFDD3EFF",
+		"StageTypeIcon": "SpriteOutput/ChapterActivity/Chapter16/Icon_Guard",
+		"StageBGIcon": "SpriteOutput/OpenWorld/QuestBossIcon/QT_030",
+		"RewardExpMin": 150,
+		"RewardExpMax": 400,
+		"DataImpl": {},
+		"StageID": 161101
+	},
+	{
+		"StageRarityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_S",
+		"StageRarityFrameColor": "#FFDD3EFF",
+		"StageTypeIcon": "SpriteOutput/ChapterActivity/Chapter16/Icon_Guard",
+		"StageBGIcon": "SpriteOutput/OpenWorld/QuestBossIcon/UL_30",
+		"RewardExpMin": 150,
+		"RewardExpMax": 400,
+		"DataImpl": {},
+		"StageID": 161102
+	},
+	{
+		"StageRarityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_S",
+		"StageRarityFrameColor": "#FFDD3EFF",
+		"StageTypeIcon": "SpriteOutput/ChapterActivity/Chapter16/Icon_Monster",
+		"StageBGIcon": "SpriteOutput/OpenWorld/QuestBossIcon/QT_060",
+		"RewardExpMin": 150,
+		"RewardExpMax": 400,
+		"DataImpl": {},
+		"StageID": 161103
+	},
+	{
+		"StageRarityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_S",
+		"StageRarityFrameColor": "#FFDD3EFF",
+		"StageTypeIcon": "SpriteOutput/ChapterActivity/Chapter16/Icon_Monster",
+		"StageBGIcon": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_110",
+		"RewardExpMin": 150,
+		"RewardExpMax": 400,
+		"DataImpl": {},
+		"StageID": 161104
+	},
+	{
+		"StageRarityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_S",
+		"StageRarityFrameColor": "#FFDD3EFF",
+		"StageTypeIcon": "SpriteOutput/ChapterActivity/Chapter16/Icon_Stealth",
+		"StageBGIcon": "SpriteOutput/OpenWorld/QuestBossIcon/DG_30",
+		"RewardExpMin": 150,
+		"RewardExpMax": 400,
+		"DataImpl": {},
+		"StageID": 161105
+	},
+	{
+		"StageRarityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_A",
+		"StageRarityFrameColor": "#F398FFFF",
+		"StageTypeIcon": "SpriteOutput/ChapterActivity/Chapter16/Icon_Guard",
+		"StageBGIcon": "SpriteOutput/OpenWorld/QuestBossIcon/QT_010",
+		"RewardExpMin": 150,
+		"RewardExpMax": 300,
+		"DataImpl": {},
+		"StageID": 161106
+	},
+	{
+		"StageRarityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_A",
+		"StageRarityFrameColor": "#F398FFFF",
+		"StageTypeIcon": "SpriteOutput/ChapterActivity/Chapter16/Icon_Guard",
+		"StageBGIcon": "SpriteOutput/OpenWorld/QuestBossIcon/QT_030",
+		"RewardExpMin": 150,
+		"RewardExpMax": 300,
+		"DataImpl": {},
+		"StageID": 161107
+	},
+	{
+		"StageRarityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_A",
+		"StageRarityFrameColor": "#F398FFFF",
+		"StageTypeIcon": "SpriteOutput/ChapterActivity/Chapter16/Icon_Monster",
+		"StageBGIcon": "SpriteOutput/OpenWorld/QuestBossIcon/UL_080",
+		"RewardExpMin": 150,
+		"RewardExpMax": 300,
+		"DataImpl": {},
+		"StageID": 161108
+	},
+	{
+		"StageRarityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_A",
+		"StageRarityFrameColor": "#F398FFFF",
+		"StageTypeIcon": "SpriteOutput/ChapterActivity/Chapter16/Icon_Monster",
+		"StageBGIcon": "SpriteOutput/OpenWorld/QuestBossIcon/DG_10",
+		"RewardExpMin": 150,
+		"RewardExpMax": 300,
+		"DataImpl": {},
+		"StageID": 161109
+	},
+	{
+		"StageRarityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_A",
+		"StageRarityFrameColor": "#F398FFFF",
+		"StageTypeIcon": "SpriteOutput/ChapterActivity/Chapter16/Icon_Stealth",
+		"StageBGIcon": "SpriteOutput/OpenWorld/QuestBossIcon/DG_30",
+		"RewardExpMin": 150,
+		"RewardExpMax": 300,
+		"DataImpl": {},
+		"StageID": 161110
+	},
+	{
+		"StageRarityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_B",
+		"StageRarityFrameColor": "#FFFFFFFF",
+		"StageTypeIcon": "SpriteOutput/ChapterActivity/Chapter16/Icon_Guard",
+		"StageBGIcon": "SpriteOutput/OpenWorld/QuestBossIcon/UL_30",
+		"RewardExpMin": 150,
+		"RewardExpMax": 200,
+		"DataImpl": {},
+		"StageID": 161111
+	},
+	{
+		"StageRarityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_B",
+		"StageRarityFrameColor": "#FFFFFFFF",
+		"StageTypeIcon": "SpriteOutput/ChapterActivity/Chapter16/Icon_Guard",
+		"StageBGIcon": "SpriteOutput/OpenWorld/QuestBossIcon/UL_30",
+		"RewardExpMin": 150,
+		"RewardExpMax": 200,
+		"DataImpl": {},
+		"StageID": 161112
+	},
+	{
+		"StageRarityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_B",
+		"StageRarityFrameColor": "#FFFFFFFF",
+		"StageTypeIcon": "SpriteOutput/ChapterActivity/Chapter16/Icon_Monster",
+		"StageBGIcon": "SpriteOutput/OpenWorld/QuestBossIcon/UL_040",
+		"RewardExpMin": 150,
+		"RewardExpMax": 200,
+		"DataImpl": {},
+		"StageID": 161113
+	},
+	{
+		"StageRarityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_B",
+		"StageRarityFrameColor": "#FFFFFFFF",
+		"StageTypeIcon": "SpriteOutput/ChapterActivity/Chapter16/Icon_Monster",
+		"StageBGIcon": "SpriteOutput/OpenWorld/QuestBossIcon/UL_060",
+		"RewardExpMin": 150,
+		"RewardExpMax": 200,
+		"DataImpl": {},
+		"StageID": 161114
+	},
+	{
+		"StageRarityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_B",
+		"StageRarityFrameColor": "#FFFFFFFF",
+		"StageTypeIcon": "SpriteOutput/ChapterActivity/Chapter16/Icon_Collect",
+		"StageBGIcon": "SpriteOutput/OpenWorld/QuestBossIcon/RO_40",
+		"RewardExpMin": 150,
+		"RewardExpMax": 200,
+		"DataImpl": {},
+		"StageID": 161115
+	},
+	{
+		"StageRarityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_S",
+		"StageRarityFrameColor": "#FFDD3EFF",
+		"StageTypeIcon": "SpriteOutput/ChapterActivity/Chapter16/Icon_Guard",
+		"StageBGIcon": "SpriteOutput/OpenWorld/QuestBossIcon/QT_030",
+		"RewardExpMin": 150,
+		"RewardExpMax": 400,
+		"DataImpl": {},
+		"StageID": 161201
+	},
+	{
+		"StageRarityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_S",
+		"StageRarityFrameColor": "#FFDD3EFF",
+		"StageTypeIcon": "SpriteOutput/ChapterActivity/Chapter16/Icon_Guard",
+		"StageBGIcon": "SpriteOutput/OpenWorld/QuestBossIcon/UL_30",
+		"RewardExpMin": 150,
+		"RewardExpMax": 400,
+		"DataImpl": {},
+		"StageID": 161202
+	},
+	{
+		"StageRarityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_S",
+		"StageRarityFrameColor": "#FFDD3EFF",
+		"StageTypeIcon": "SpriteOutput/ChapterActivity/Chapter16/Icon_Monster",
+		"StageBGIcon": "SpriteOutput/OpenWorld/QuestBossIcon/QT_060",
+		"RewardExpMin": 150,
+		"RewardExpMax": 400,
+		"DataImpl": {},
+		"StageID": 161203
+	},
+	{
+		"StageRarityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_S",
+		"StageRarityFrameColor": "#FFDD3EFF",
+		"StageTypeIcon": "SpriteOutput/ChapterActivity/Chapter16/Icon_Monster",
+		"StageBGIcon": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_110",
+		"RewardExpMin": 150,
+		"RewardExpMax": 400,
+		"DataImpl": {},
+		"StageID": 161204
+	},
+	{
+		"StageRarityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_S",
+		"StageRarityFrameColor": "#FFDD3EFF",
+		"StageTypeIcon": "SpriteOutput/ChapterActivity/Chapter16/Icon_Stealth",
+		"StageBGIcon": "SpriteOutput/OpenWorld/QuestBossIcon/DG_30",
+		"RewardExpMin": 150,
+		"RewardExpMax": 400,
+		"DataImpl": {},
+		"StageID": 161205
+	},
+	{
+		"StageRarityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_A",
+		"StageRarityFrameColor": "#F398FFFF",
+		"StageTypeIcon": "SpriteOutput/ChapterActivity/Chapter16/Icon_Guard",
+		"StageBGIcon": "SpriteOutput/OpenWorld/QuestBossIcon/QT_010",
+		"RewardExpMin": 150,
+		"RewardExpMax": 300,
+		"DataImpl": {},
+		"StageID": 161206
+	},
+	{
+		"StageRarityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_A",
+		"StageRarityFrameColor": "#F398FFFF",
+		"StageTypeIcon": "SpriteOutput/ChapterActivity/Chapter16/Icon_Guard",
+		"StageBGIcon": "SpriteOutput/OpenWorld/QuestBossIcon/QT_030",
+		"RewardExpMin": 150,
+		"RewardExpMax": 300,
+		"DataImpl": {},
+		"StageID": 161207
+	},
+	{
+		"StageRarityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_A",
+		"StageRarityFrameColor": "#F398FFFF",
+		"StageTypeIcon": "SpriteOutput/ChapterActivity/Chapter16/Icon_Monster",
+		"StageBGIcon": "SpriteOutput/OpenWorld/QuestBossIcon/UL_080",
+		"RewardExpMin": 150,
+		"RewardExpMax": 300,
+		"DataImpl": {},
+		"StageID": 161208
+	},
+	{
+		"StageRarityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_A",
+		"StageRarityFrameColor": "#F398FFFF",
+		"StageTypeIcon": "SpriteOutput/ChapterActivity/Chapter16/Icon_Monster",
+		"StageBGIcon": "SpriteOutput/OpenWorld/QuestBossIcon/DG_10",
+		"RewardExpMin": 150,
+		"RewardExpMax": 300,
+		"DataImpl": {},
+		"StageID": 161209
+	},
+	{
+		"StageRarityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_A",
+		"StageRarityFrameColor": "#F398FFFF",
+		"StageTypeIcon": "SpriteOutput/ChapterActivity/Chapter16/Icon_Stealth",
+		"StageBGIcon": "SpriteOutput/OpenWorld/QuestBossIcon/DG_30",
+		"RewardExpMin": 150,
+		"RewardExpMax": 300,
+		"DataImpl": {},
+		"StageID": 161210
+	},
+	{
+		"StageRarityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_B",
+		"StageRarityFrameColor": "#FFFFFFFF",
+		"StageTypeIcon": "SpriteOutput/ChapterActivity/Chapter16/Icon_Guard",
+		"StageBGIcon": "SpriteOutput/OpenWorld/QuestBossIcon/UL_30",
+		"RewardExpMin": 150,
+		"RewardExpMax": 200,
+		"DataImpl": {},
+		"StageID": 161211
+	},
+	{
+		"StageRarityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_B",
+		"StageRarityFrameColor": "#FFFFFFFF",
+		"StageTypeIcon": "SpriteOutput/ChapterActivity/Chapter16/Icon_Guard",
+		"StageBGIcon": "SpriteOutput/OpenWorld/QuestBossIcon/UL_30",
+		"RewardExpMin": 150,
+		"RewardExpMax": 200,
+		"DataImpl": {},
+		"StageID": 161212
+	},
+	{
+		"StageRarityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_B",
+		"StageRarityFrameColor": "#FFFFFFFF",
+		"StageTypeIcon": "SpriteOutput/ChapterActivity/Chapter16/Icon_Monster",
+		"StageBGIcon": "SpriteOutput/OpenWorld/QuestBossIcon/UL_040",
+		"RewardExpMin": 150,
+		"RewardExpMax": 200,
+		"DataImpl": {},
+		"StageID": 161213
+	},
+	{
+		"StageRarityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_B",
+		"StageRarityFrameColor": "#FFFFFFFF",
+		"StageTypeIcon": "SpriteOutput/ChapterActivity/Chapter16/Icon_Monster",
+		"StageBGIcon": "SpriteOutput/OpenWorld/QuestBossIcon/UL_060",
+		"RewardExpMin": 150,
+		"RewardExpMax": 200,
+		"DataImpl": {},
+		"StageID": 161214
+	},
+	{
+		"StageRarityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_B",
+		"StageRarityFrameColor": "#FFFFFFFF",
+		"StageTypeIcon": "SpriteOutput/ChapterActivity/Chapter16/Icon_Collect",
+		"StageBGIcon": "SpriteOutput/OpenWorld/QuestBossIcon/RO_40",
+		"RewardExpMin": 150,
+		"RewardExpMax": 200,
+		"DataImpl": {},
+		"StageID": 161215
+	}
+]

@@ -1,0 +1,30 @@
+[
+	{
+		"MaterialCost": 1,
+		"MaterialID": 7882,
+		"BeginTime": "2019-05-20 10:00:00",
+		"EndTime": "2029-12-31 04:00:00",
+		"LimitType": 2,
+		"LimitNum": 15,
+		"TextID": {
+			"hash": 656787667
+		},
+		"MaterialLink": "<type=\"32|8\" text=\"Obtain_Source_Desc_703202\"/>",
+		"DataImpl": {},
+		"ID": 1
+	},
+	{
+		"MaterialCost": 1,
+		"MaterialID": 7882,
+		"BeginTime": "2019-05-20 10:00:00",
+		"EndTime": "2029-12-31 04:00:00",
+		"LimitType": 2,
+		"LimitNum": 10,
+		"TextID": {
+			"hash": 656787668
+		},
+		"MaterialLink": "<type=\"32|8\" text=\"Obtain_Source_Desc_703202\"/>",
+		"DataImpl": {},
+		"ID": 2
+	}
+]

@@ -1,0 +1,134 @@
+[
+	{
+		"TriggerType": 1,
+		"Text": {
+			"hash": -1535595804
+		},
+		"TriggerAbility": "",
+		"DropType": "SPMedic",
+		"Param": 1,
+		"DataImpl": {},
+		"TriggerID": 1
+	},
+	{
+		"TriggerType": 1,
+		"Text": {
+			"hash": -1535595803
+		},
+		"TriggerAbility": "",
+		"DropType": "HPMedic",
+		"Param": 1,
+		"DataImpl": {},
+		"TriggerID": 2
+	},
+	{
+		"TriggerType": 1,
+		"Text": {
+			"hash": -1535595802
+		},
+		"TriggerAbility": "",
+		"DropType": "SPMedic",
+		"Param": 2,
+		"DataImpl": {},
+		"TriggerID": 3
+	},
+	{
+		"TriggerType": 1,
+		"Text": {
+			"hash": -1535595801
+		},
+		"TriggerAbility": "",
+		"DropType": "HPMedic",
+		"Param": 2,
+		"DataImpl": {},
+		"TriggerID": 4
+	},
+	{
+		"TriggerType": 3,
+		"Text": {
+			"hash": -1535595800
+		},
+		"TriggerAbility": "Rogue_Trigger_Max_HP",
+		"DropType": "",
+		"Param": 0,
+		"DataImpl": {},
+		"TriggerID": 1001
+	},
+	{
+		"TriggerType": 3,
+		"Text": {
+			"hash": -1535595799
+		},
+		"TriggerAbility": "Rogue_Trigger_Max_SP",
+		"DropType": "",
+		"Param": 0,
+		"DataImpl": {},
+		"TriggerID": 1002
+	},
+	{
+		"TriggerType": 3,
+		"Text": {
+			"hash": -1535595798
+		},
+		"TriggerAbility": "Rogue_Trigger_Max_HP_Large",
+		"DropType": "",
+		"Param": 0,
+		"DataImpl": {},
+		"TriggerID": 1003
+	},
+	{
+		"TriggerType": 3,
+		"Text": {
+			"hash": -1535595797
+		},
+		"TriggerAbility": "Rogue_Trigger_Max_SP_Large",
+		"DropType": "",
+		"Param": 0,
+		"DataImpl": {},
+		"TriggerID": 1004
+	},
+	{
+		"TriggerType": 3,
+		"Text": {
+			"hash": -1535595796
+		},
+		"TriggerAbility": "Rogue_Heal_All_HP",
+		"DropType": "",
+		"Param": 0,
+		"DataImpl": {},
+		"TriggerID": 1005
+	},
+	{
+		"TriggerType": 3,
+		"Text": {
+			"hash": -358829620
+		},
+		"TriggerAbility": "Rogue_Heal_All_SP",
+		"DropType": "",
+		"Param": 0,
+		"DataImpl": {},
+		"TriggerID": 1006
+	},
+	{
+		"TriggerType": 2,
+		"Text": {
+			"hash": -358829619
+		},
+		"TriggerAbility": "Rogue_Lua_AntiEntropy",
+		"DropType": "",
+		"Param": 0,
+		"DataImpl": {},
+		"TriggerID": 2001
+	},
+	{
+		"TriggerType": 2,
+		"Text": {
+			"hash": -358829618
+		},
+		"TriggerAbility": "Rogue_Lua_CrazyMonster",
+		"DropType": "",
+		"Param": 0,
+		"DataImpl": {},
+		"TriggerID": 2002
+	}
+]

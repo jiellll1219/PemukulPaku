@@ -1,0 +1,2113 @@
+[
+	{
+		"mapId": 1,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": -357543518
+		},
+		"areaIcon": "SpriteOutput/OpenWorld/IconTabArea/IconTabMachi",
+		"levelID": 900401,
+		"switchPoint": "102:Door",
+		"unlockAreaTips": {
+			"hash": -1658465143
+		},
+		"unlockAreaDesc": {
+			"hash": 1209122448
+		},
+		"DataImpl": {},
+		"areaId": 101
+	},
+	{
+		"mapId": 1,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#4de6aa",
+		"unlockStoryId": 407,
+		"nameTextId": {
+			"hash": -357543517
+		},
+		"areaIcon": "SpriteOutput/OpenWorld/IconTabArea/IconTabTenshu",
+		"levelID": 900403,
+		"switchPoint": "101:Door",
+		"unlockAreaTips": {
+			"hash": -1658465142
+		},
+		"unlockAreaDesc": {
+			"hash": 1209122449
+		},
+		"DataImpl": {},
+		"areaId": 102
+	},
+	{
+		"mapId": 1,
+		"isStoryOnly": 0,
+		"isMarkOnly": true,
+		"areaList": [],
+		"areaRGB": "#FFAF2CFF",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": -357543516
+		},
+		"areaIcon": "SpriteOutput/OpenWorld/IconTabArea/IconTabFloor3",
+		"levelID": 900401,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658465141
+		},
+		"unlockAreaDesc": {
+			"hash": 1209122450
+		},
+		"DataImpl": {},
+		"areaId": 103
+	},
+	{
+		"mapId": 2,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 308,
+		"nameTextId": {
+			"hash": -357542557
+		},
+		"areaIcon": "SpriteOutput/OpenWorld/IconTabArea/IconTabFloor1",
+		"levelID": 900405,
+		"switchPoint": "202:AreaI_P Portal,203:AreaT_P Portal",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 201
+	},
+	{
+		"mapId": 2,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#4de6aa",
+		"unlockStoryId": 602,
+		"nameTextId": {
+			"hash": -357542556
+		},
+		"areaIcon": "SpriteOutput/OpenWorld/IconTabArea/IconTabFloor2",
+		"levelID": 900406,
+		"switchPoint": "201:AreaL_P Portal,203:AreaL_P Portal",
+		"unlockAreaTips": {
+			"hash": -1658464181
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123410
+		},
+		"DataImpl": {},
+		"areaId": 202
+	},
+	{
+		"mapId": 2,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#9babff",
+		"unlockStoryId": 513,
+		"nameTextId": {
+			"hash": -357542555
+		},
+		"areaIcon": "SpriteOutput/OpenWorld/IconTabArea/IconTabFloor1",
+		"levelID": 900407,
+		"switchPoint": "201:Born,202:Born",
+		"unlockAreaTips": {
+			"hash": 0
+		},
+		"unlockAreaDesc": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"areaId": 203
+	},
+	{
+		"mapId": 2,
+		"isStoryOnly": 0,
+		"isMarkOnly": true,
+		"areaList": [],
+		"areaRGB": "#FFAF2CFF",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": -357542554
+		},
+		"areaIcon": "SpriteOutput/OpenWorld/IconTabArea/IconTabFloor3",
+		"levelID": 900405,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658465141
+		},
+		"unlockAreaDesc": {
+			"hash": 1209122450
+		},
+		"DataImpl": {},
+		"areaId": 204
+	},
+	{
+		"mapId": 2,
+		"isStoryOnly": 1,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": -357542557
+		},
+		"areaIcon": "SpriteOutput/OpenWorld/IconTabArea/IconTabQumo",
+		"levelID": 900409,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": 0
+		},
+		"unlockAreaDesc": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"areaId": 210
+	},
+	{
+		"mapId": 2,
+		"isStoryOnly": 1,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#4de6aa",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": -357542557
+		},
+		"areaIcon": "SpriteOutput/OpenWorld/IconTabArea/IconTabQumo",
+		"levelID": 900410,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": 0
+		},
+		"unlockAreaDesc": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"areaId": 211
+	},
+	{
+		"mapId": 2,
+		"isStoryOnly": 1,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#9babff",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": -357542557
+		},
+		"areaIcon": "SpriteOutput/OpenWorld/IconTabArea/IconTabQumo",
+		"levelID": 900411,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": 0
+		},
+		"unlockAreaDesc": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"areaId": 212
+	},
+	{
+		"mapId": 111,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": -357542557
+		},
+		"areaIcon": "SpriteOutput/OpenWorld/IconTabArea/IconTabFloor1",
+		"levelID": 900421,
+		"switchPoint": "202:AreaI_P Portal,203:AreaT_P Portal",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 1111
+	},
+	{
+		"mapId": 112,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": -357542557
+		},
+		"areaIcon": "SpriteOutput/OpenWorld/IconTabArea/IconTabFloor1",
+		"levelID": 900422,
+		"switchPoint": "202:AreaI_P Portal,203:AreaT_P Portal",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 1121
+	},
+	{
+		"mapId": 113,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": -357542557
+		},
+		"areaIcon": "SpriteOutput/OpenWorld/IconTabArea/IconTabFloor1",
+		"levelID": 900423,
+		"switchPoint": "202:AreaI_P Portal,203:AreaT_P Portal",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 1131
+	},
+	{
+		"mapId": 114,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": -357542557
+		},
+		"areaIcon": "SpriteOutput/OpenWorld/IconTabArea/IconTabFloor1",
+		"levelID": 900424,
+		"switchPoint": "202:AreaI_P Portal,203:AreaT_P Portal",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 1141
+	},
+	{
+		"mapId": 301,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [
+			"AreaA",
+			"AreaB",
+			"AreaC",
+			"AreaD",
+			"AreaE",
+			"AreaF",
+			"AreaG",
+			"AreaH"
+		],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": 1801112461
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconFloor01",
+		"levelID": 900425,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 3011
+	},
+	{
+		"mapId": 301,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [
+			"AreaA",
+			"AreaB",
+			"AreaC",
+			"AreaD",
+			"AreaE",
+			"AreaF",
+			"AreaG"
+		],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": 1801112462
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconFloor02",
+		"levelID": 900426,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 3012
+	},
+	{
+		"mapId": 301,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [
+			"AreaA",
+			"AreaB",
+			"AreaC",
+			"AreaD",
+			"AreaE",
+			"AreaF",
+			"AreaG"
+		],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": 1801112463
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconFloor03",
+		"levelID": 900427,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 3013
+	},
+	{
+		"mapId": 301,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [
+			"AreaA",
+			"AreaB",
+			"AreaC",
+			"AreaD",
+			"AreaE",
+			"AreaF"
+		],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": 1801112464
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconFloor04",
+		"levelID": 900428,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 3014
+	},
+	{
+		"mapId": 301,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [
+			"AreaA"
+		],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": 1801112465
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 900429,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 3015
+	},
+	{
+		"mapId": 301,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [
+			"AreaA"
+		],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": 1801112466
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 900429,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 3016
+	},
+	{
+		"mapId": 301,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [
+			"AreaA"
+		],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": 1801112467
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 900429,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 3017
+	},
+	{
+		"mapId": 301,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [
+			"AreaA"
+		],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": 1801112468
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 900429,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 3018
+	},
+	{
+		"mapId": 303,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [
+			"AreaA",
+			"AreaB",
+			"AreaC",
+			"AreaD",
+			"AreaE",
+			"AreaF",
+			"AreaG",
+			"AreaH"
+		],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": 1801112461
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconFloor01",
+		"levelID": 143157,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 3021
+	},
+	{
+		"mapId": 303,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [
+			"AreaA",
+			"AreaB",
+			"AreaC",
+			"AreaD",
+			"AreaE",
+			"AreaF",
+			"AreaG"
+		],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": 1801112462
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconFloor02",
+		"levelID": 143158,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 3022
+	},
+	{
+		"mapId": 303,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [
+			"AreaA",
+			"AreaB",
+			"AreaC",
+			"AreaD",
+			"AreaE",
+			"AreaF",
+			"AreaG"
+		],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": 1801112463
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconFloor03",
+		"levelID": 143159,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 3023
+	},
+	{
+		"mapId": 302,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": 1801112461
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconFloor01",
+		"levelID": 900430,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 3100
+	},
+	{
+		"mapId": 401,
+		"isStoryOnly": 0,
+		"isMarkOnly": true,
+		"areaList": [],
+		"areaRGB": "#FFAF2CFF",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": 1801142251
+		},
+		"areaIcon": "SpriteOutput/OpenWorld/IconTabArea/IconTabFloor3",
+		"levelID": 143401,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 4010
+	},
+	{
+		"mapId": 401,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#FF5945FF",
+		"unlockStoryId": 104009,
+		"nameTextId": {
+			"hash": 1801142252
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 143401,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 4011
+	},
+	{
+		"mapId": 401,
+		"isStoryOnly": 1,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#FF5945FF",
+		"unlockStoryId": 104034,
+		"nameTextId": {
+			"hash": 1801142252
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 143402,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 4012
+	},
+	{
+		"mapId": 401,
+		"isStoryOnly": 1,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#FF5945FF",
+		"unlockStoryId": 104034,
+		"nameTextId": {
+			"hash": 1801142252
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 143409,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 4013
+	},
+	{
+		"mapId": 401,
+		"isStoryOnly": 1,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 104001,
+		"nameTextId": {
+			"hash": 1801142253
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 143412,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 4022
+	},
+	{
+		"mapId": 401,
+		"isStoryOnly": 1,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 104004,
+		"nameTextId": {
+			"hash": 1801142254
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 143413,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 4023
+	},
+	{
+		"mapId": 401,
+		"isStoryOnly": 1,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 104007,
+		"nameTextId": {
+			"hash": 1801142252
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 143414,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 4024
+	},
+	{
+		"mapId": 401,
+		"isStoryOnly": 1,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 104012,
+		"nameTextId": {
+			"hash": 1801142253
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 143415,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 4025
+	},
+	{
+		"mapId": 401,
+		"isStoryOnly": 1,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 104018,
+		"nameTextId": {
+			"hash": 1801142254
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 143416,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 4026
+	},
+	{
+		"mapId": 401,
+		"isStoryOnly": 1,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 104021,
+		"nameTextId": {
+			"hash": 1801142252
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 143417,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 4027
+	},
+	{
+		"mapId": 401,
+		"isStoryOnly": 1,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 104024,
+		"nameTextId": {
+			"hash": 1801142253
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 143418,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 4028
+	},
+	{
+		"mapId": 401,
+		"isStoryOnly": 1,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 104027,
+		"nameTextId": {
+			"hash": 1801142254
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 143419,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 4029
+	},
+	{
+		"mapId": 401,
+		"isStoryOnly": 1,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 104030,
+		"nameTextId": {
+			"hash": 1801142254
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 143420,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 4030
+	},
+	{
+		"mapId": 401,
+		"isStoryOnly": 1,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 104033,
+		"nameTextId": {
+			"hash": 1801142254
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 143421,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 4031
+	},
+	{
+		"mapId": 401,
+		"isStoryOnly": 1,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 104015,
+		"nameTextId": {
+			"hash": 1801142253
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 143422,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 4032
+	},
+	{
+		"mapId": 401,
+		"isStoryOnly": 1,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 104101,
+		"nameTextId": {
+			"hash": 1801142252
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 143501,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 4101
+	},
+	{
+		"mapId": 401,
+		"isStoryOnly": 1,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 104104,
+		"nameTextId": {
+			"hash": 1801142253
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 143502,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 4102
+	},
+	{
+		"mapId": 401,
+		"isStoryOnly": 1,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 104107,
+		"nameTextId": {
+			"hash": 1801142254
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 143503,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 4103
+	},
+	{
+		"mapId": 401,
+		"isStoryOnly": 1,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 104110,
+		"nameTextId": {
+			"hash": 1801142252
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 143504,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 4104
+	},
+	{
+		"mapId": 401,
+		"isStoryOnly": 1,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 104113,
+		"nameTextId": {
+			"hash": 1801142253
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 143505,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 4105
+	},
+	{
+		"mapId": 401,
+		"isStoryOnly": 1,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 104116,
+		"nameTextId": {
+			"hash": 1801142254
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 143506,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 4106
+	},
+	{
+		"mapId": 401,
+		"isStoryOnly": 1,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 104119,
+		"nameTextId": {
+			"hash": 1801142252
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 143507,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 4107
+	},
+	{
+		"mapId": 401,
+		"isStoryOnly": 1,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 104122,
+		"nameTextId": {
+			"hash": 1801142253
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 143508,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 4108
+	},
+	{
+		"mapId": 401,
+		"isStoryOnly": 1,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 104125,
+		"nameTextId": {
+			"hash": 1801142254
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 143509,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 4109
+	},
+	{
+		"mapId": 401,
+		"isStoryOnly": 1,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 104128,
+		"nameTextId": {
+			"hash": 1801142254
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 143510,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 4110
+	},
+	{
+		"mapId": 401,
+		"isStoryOnly": 1,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 104027,
+		"nameTextId": {
+			"hash": 1801142253
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 143601,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 4201
+	},
+	{
+		"mapId": 401,
+		"isStoryOnly": 1,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 104030,
+		"nameTextId": {
+			"hash": 1801142254
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 143602,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 4202
+	},
+	{
+		"mapId": 401,
+		"isStoryOnly": 1,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 104033,
+		"nameTextId": {
+			"hash": 1801142252
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 143603,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 4203
+	},
+	{
+		"mapId": 401,
+		"isStoryOnly": 1,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 104103,
+		"nameTextId": {
+			"hash": 1801142253
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 143604,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 4204
+	},
+	{
+		"mapId": 401,
+		"isStoryOnly": 1,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 104107,
+		"nameTextId": {
+			"hash": 1801142254
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 143605,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 4205
+	},
+	{
+		"mapId": 401,
+		"isStoryOnly": 1,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 104112,
+		"nameTextId": {
+			"hash": 1801142252
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 143606,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 4206
+	},
+	{
+		"mapId": 401,
+		"isStoryOnly": 1,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 104115,
+		"nameTextId": {
+			"hash": 1801142253
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 143607,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 4207
+	},
+	{
+		"mapId": 401,
+		"isStoryOnly": 1,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 104118,
+		"nameTextId": {
+			"hash": 1801142254
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 143608,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 4208
+	},
+	{
+		"mapId": 401,
+		"isStoryOnly": 1,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 104121,
+		"nameTextId": {
+			"hash": 1801142254
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 143609,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 4209
+	},
+	{
+		"mapId": 401,
+		"isStoryOnly": 1,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 104124,
+		"nameTextId": {
+			"hash": 1801142254
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 143610,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 4210
+	},
+	{
+		"mapId": 401,
+		"isStoryOnly": 1,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 104034,
+		"nameTextId": {
+			"hash": 1801142254
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 143611,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 4211
+	},
+	{
+		"mapId": 501,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": 1801142254
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 900701,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 5010
+	},
+	{
+		"mapId": 501,
+		"isStoryOnly": 1,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": 1801142254
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 900702,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 5011
+	},
+	{
+		"mapId": 601,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#FF5945FF",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": 1801201833
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 143550,
+		"switchPoint": "6011:MapTransition_Front,6012:MapTransition_Front",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 6010
+	},
+	{
+		"mapId": 601,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#FF5945FF",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": 1801201834
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 143551,
+		"switchPoint": "6010:Area9_Born",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 6011
+	},
+	{
+		"mapId": 601,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#FF5945FF",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": 1801201835
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 143552,
+		"switchPoint": "6010:MapTeleportPoint",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 6012
+	},
+	{
+		"mapId": 601,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#FF5945FF",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": 1801201836
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 143561,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 6013
+	},
+	{
+		"mapId": 601,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#FF5945FF",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": 1801202794
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 143550,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 6110
+	},
+	{
+		"mapId": 701,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": 1801142254
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 900801,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 7010
+	},
+	{
+		"mapId": 801,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": 1801142254
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 900802,
+		"switchPoint": "8011:LeaveBranch01,8012:LeaveBranch01",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 8010
+	},
+	{
+		"mapId": 801,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": 1801142254
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 900803,
+		"switchPoint": "8010:Stage02Born,8012:LeaveLevel01",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 8011
+	},
+	{
+		"mapId": 801,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": 1801142254
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 900804,
+		"switchPoint": "8011:Born,8010:Born",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 8012
+	},
+	{
+		"mapId": 901,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": 1801142254
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 151137,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 9011
+	},
+	{
+		"mapId": 901,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": 1801142254
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 151137,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 9012
+	},
+	{
+		"mapId": 901,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": 1801142254
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 151137,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 9013
+	},
+	{
+		"mapId": 902,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": 1801142254
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 151138,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 9021
+	},
+	{
+		"mapId": 903,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": 1801142254
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 151139,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 9031
+	},
+	{
+		"mapId": 1001,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": 1455561434
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 900901,
+		"switchPoint": "10013:Elevator_DS_LunarCrater",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 10011
+	},
+	{
+		"mapId": 1001,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": 287678715
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 900902,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 10012
+	},
+	{
+		"mapId": 1001,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": -2063538476
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 900903,
+		"switchPoint": "10011:BackToMoonbase",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 10013
+	},
+	{
+		"mapId": 1001,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": -1361012031
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 900904,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 10014
+	},
+	{
+		"mapId": 2001,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": 1801142254
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 1726013,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 20010
+	},
+	{
+		"mapId": 2001,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": 1801142254
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 1726014,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 20011
+	},
+	{
+		"mapId": 2001,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#00bffb",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": 1801142254
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 1726015,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 20012
+	},
+	{
+		"mapId": 601,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#FF5945FF",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": 2682116
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 143552,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 60130
+	},
+	{
+		"mapId": 601,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#FF5945FF",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": 2682117
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 143552,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 60131
+	},
+	{
+		"mapId": 601,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#FF5945FF",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": 2682118
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 143552,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 60132
+	},
+	{
+		"mapId": 601,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#FF5945FF",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": 2682119
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 143552,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 60133
+	},
+	{
+		"mapId": 601,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#FF5945FF",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": 2682120
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 143552,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 60134
+	},
+	{
+		"mapId": 601,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#FF5945FF",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": 2682121
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 143552,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 60135
+	},
+	{
+		"mapId": 601,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#FF5945FF",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": 2682122
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 143552,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 60136
+	},
+	{
+		"mapId": 601,
+		"isStoryOnly": 0,
+		"isMarkOnly": false,
+		"areaList": [],
+		"areaRGB": "#FF5945FF",
+		"unlockStoryId": 0,
+		"nameTextId": {
+			"hash": 2682123
+		},
+		"areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+		"levelID": 10300261,
+		"switchPoint": "",
+		"unlockAreaTips": {
+			"hash": -1658464182
+		},
+		"unlockAreaDesc": {
+			"hash": 1209123409
+		},
+		"DataImpl": {},
+		"areaId": 60137
+	}
+]

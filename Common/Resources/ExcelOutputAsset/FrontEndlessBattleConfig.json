@@ -1,0 +1,72 @@
+[
+	{
+		"WeatherID": 101,
+		"MechanismID": 101,
+		"MonsterTable": [
+			228507,
+			228508,
+			228509,
+			228510
+		],
+		"StageMonsterDisplay": [
+			1049,
+			4221,
+			2020,
+			4142
+		],
+		"TimeLimit": 120,
+		"ChallengeTime": 0,
+		"FloorType": 1,
+		"DataImpl": {},
+		"FrontEndlessFloor": 1
+	},
+	{
+		"WeatherID": 101,
+		"MechanismID": 101,
+		"MonsterTable": [
+			228515,
+			228516,
+			228517
+		],
+		"StageMonsterDisplay": [
+			1002,
+			4215,
+			1049
+		],
+		"TimeLimit": 120,
+		"ChallengeTime": 0,
+		"FloorType": 1,
+		"DataImpl": {},
+		"FrontEndlessFloor": 2
+	},
+	{
+		"WeatherID": 101,
+		"MechanismID": 101,
+		"MonsterTable": [
+			228522
+		],
+		"StageMonsterDisplay": [
+			1060
+		],
+		"TimeLimit": 150,
+		"ChallengeTime": 0,
+		"FloorType": 1,
+		"DataImpl": {},
+		"FrontEndlessFloor": 3
+	},
+	{
+		"WeatherID": 101,
+		"MechanismID": 101,
+		"MonsterTable": [
+			228531
+		],
+		"StageMonsterDisplay": [
+			34
+		],
+		"TimeLimit": 180,
+		"ChallengeTime": 180,
+		"FloorType": 3,
+		"DataImpl": {},
+		"FrontEndlessFloor": 4
+	}
+]

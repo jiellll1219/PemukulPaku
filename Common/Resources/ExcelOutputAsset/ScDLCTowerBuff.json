@@ -1,0 +1,306 @@
+[
+	{
+		"BuffName": "DLC_TowerBuff_Fire",
+		"OverrideMap": [
+			"Actor_FireAttackRatio:0.5"
+		],
+		"BuffType": 3,
+		"DataImpl": {},
+		"ID": 2001
+	},
+	{
+		"BuffName": "DLC_TowerBuff_Fire",
+		"OverrideMap": [
+			"Actor_FireAttackRatio:-0.5"
+		],
+		"BuffType": 3,
+		"DataImpl": {},
+		"ID": 2002
+	},
+	{
+		"BuffName": "DLC_TowerBuff_Thunder",
+		"OverrideMap": [
+			"Actor_ThunderAttackRatio:0.5"
+		],
+		"BuffType": 3,
+		"DataImpl": {},
+		"ID": 2003
+	},
+	{
+		"BuffName": "DLC_TowerBuff_Thunder",
+		"OverrideMap": [
+			"Actor_ThunderAttackRatio:-0.5"
+		],
+		"BuffType": 3,
+		"DataImpl": {},
+		"ID": 2004
+	},
+	{
+		"BuffName": "DLC_TowerBuff_Ice",
+		"OverrideMap": [
+			"Actor_IceAttackRatio:0.5"
+		],
+		"BuffType": 3,
+		"DataImpl": {},
+		"ID": 2005
+	},
+	{
+		"BuffName": "DLC_TowerBuff_Ice",
+		"OverrideMap": [
+			"Actor_IceAttackRatio:-0.5"
+		],
+		"BuffType": 3,
+		"DataImpl": {},
+		"ID": 2006
+	},
+	{
+		"BuffName": "DLC_TowerBuff_AddedAttack",
+		"OverrideMap": [
+			"Actor_AddedAttackRatio:0.5"
+		],
+		"BuffType": 3,
+		"DataImpl": {},
+		"ID": 2007
+	},
+	{
+		"BuffName": "DLC_TowerBuff_AddedAttack",
+		"OverrideMap": [
+			"Actor_AddedAttackRatio:-0.5"
+		],
+		"BuffType": 3,
+		"DataImpl": {},
+		"ID": 2008
+	},
+	{
+		"BuffName": "DLC_TowerBuff_Burn",
+		"OverrideMap": [
+			"ResistanceRatio:-0.5",
+			"ResistanceDurationRatio:-0.5"
+		],
+		"BuffType": 3,
+		"DataImpl": {},
+		"ID": 2009
+	},
+	{
+		"BuffName": "DLC_TowerBuff_Burn",
+		"OverrideMap": [
+			"ResistanceRatio:0.3",
+			"ResistanceDurationRatio:0.3"
+		],
+		"BuffType": 3,
+		"DataImpl": {},
+		"ID": 2010
+	},
+	{
+		"BuffName": "DLC_TowerBuff_Paralyze",
+		"OverrideMap": [
+			"ResistanceRatio:-0.5",
+			"ResistanceDurationRatio:-0.5"
+		],
+		"BuffType": 3,
+		"DataImpl": {},
+		"ID": 2011
+	},
+	{
+		"BuffName": "DLC_TowerBuff_Paralyze",
+		"OverrideMap": [
+			"ResistanceRatio:0.3",
+			"ResistanceDurationRatio:0.3"
+		],
+		"BuffType": 3,
+		"DataImpl": {},
+		"ID": 2012
+	},
+	{
+		"BuffName": "DLC_TowerBuff_Frozen",
+		"OverrideMap": [
+			"ResistanceRatio:-0.5",
+			"ResistanceDurationRatio:-0.5"
+		],
+		"BuffType": 3,
+		"DataImpl": {},
+		"ID": 2013
+	},
+	{
+		"BuffName": "DLC_TowerBuff_Frozen",
+		"OverrideMap": [
+			"ResistanceRatio:0.3",
+			"ResistanceDurationRatio:0.3"
+		],
+		"BuffType": 3,
+		"DataImpl": {},
+		"ID": 2014
+	},
+	{
+		"BuffName": "DLC_TowerBuff_AbsorbSoul",
+		"OverrideMap": [
+			"ResistanceRatio:-0.5",
+			"ResistanceDurationRatio:-0.5"
+		],
+		"BuffType": 3,
+		"DataImpl": {},
+		"ID": 2015
+	},
+	{
+		"BuffName": "DLC_TowerBuff_AbsorbSoul",
+		"OverrideMap": [
+			"ResistanceRatio:0.5",
+			"ResistanceDurationRatio:0.5"
+		],
+		"BuffType": 3,
+		"DataImpl": {},
+		"ID": 2016
+	},
+	{
+		"BuffName": "DLC_TowerBuff_All_ControlBuff",
+		"OverrideMap": [
+			"ResistanceRatio:-0.5",
+			"ResistanceDurationRatio:-0.5"
+		],
+		"BuffType": 3,
+		"DataImpl": {},
+		"ID": 2017
+	},
+	{
+		"BuffName": "DLC_TowerBuff_All_ControlBuff",
+		"OverrideMap": [
+			"ResistanceRatio:0.5",
+			"ResistanceDurationRatio:0.5"
+		],
+		"BuffType": 3,
+		"DataImpl": {},
+		"ID": 2018
+	},
+	{
+		"BuffName": "DLC_TowerBuff_Weather_ModifyAttackByRange",
+		"OverrideMap": [
+			"AddedDamageRatio2_Melee:0.3",
+			"AddedDamageRatio2_Ranged:-0.2"
+		],
+		"BuffType": 3,
+		"DataImpl": {},
+		"ID": 2019
+	},
+	{
+		"BuffName": "DLC_TowerBuff_Weather_ModifyAttackByRange",
+		"OverrideMap": [
+			"AddedDamageRatio2_Melee:-0.2",
+			"AddedDamageRatio2_Ranged:0.6"
+		],
+		"BuffType": 3,
+		"DataImpl": {},
+		"ID": 2020
+	},
+	{
+		"BuffName": "DLC_TowerBuff_Combo",
+		"OverrideMap": [],
+		"BuffType": 1,
+		"DataImpl": {},
+		"ID": 2101
+	},
+	{
+		"BuffName": "DLC_TowerBuff_HeavyHit",
+		"OverrideMap": [],
+		"BuffType": 1,
+		"DataImpl": {},
+		"ID": 2102
+	},
+	{
+		"BuffName": "DLC_TowerBuff_AirCombat",
+		"OverrideMap": [],
+		"BuffType": 1,
+		"DataImpl": {},
+		"ID": 2103
+	},
+	{
+		"BuffName": "DLC_TowerBuff_KeepAir",
+		"OverrideMap": [],
+		"BuffType": 1,
+		"DataImpl": {},
+		"ID": 2104
+	},
+	{
+		"BuffName": "DLC_TowerBuff_Evade",
+		"OverrideMap": [],
+		"BuffType": 1,
+		"DataImpl": {},
+		"ID": 2105
+	},
+	{
+		"BuffName": "DLC_TowerBuff_CriticalJump",
+		"OverrideMap": [],
+		"BuffType": 1,
+		"DataImpl": {},
+		"ID": 2106
+	},
+	{
+		"BuffName": "DLC_TowerBuff_WitchTime",
+		"OverrideMap": [],
+		"BuffType": 1,
+		"DataImpl": {},
+		"ID": 2107
+	},
+	{
+		"BuffName": "DLC_TowerBuff_Bloody",
+		"OverrideMap": [],
+		"BuffType": 1,
+		"DataImpl": {},
+		"ID": 2108
+	},
+	{
+		"BuffName": "DLC_TowerBuff_Showdown",
+		"OverrideMap": [],
+		"BuffType": 1,
+		"DataImpl": {},
+		"ID": 2109
+	},
+	{
+		"BuffName": "DLC_TowerBuff_Faint",
+		"OverrideMap": [],
+		"BuffType": 1,
+		"DataImpl": {},
+		"ID": 2110
+	},
+	{
+		"BuffName": "DLC_TowerBuff_Teamwork",
+		"OverrideMap": [],
+		"BuffType": 1,
+		"DataImpl": {},
+		"ID": 2111
+	},
+	{
+		"BuffName": "DLC_TowerBuff_Ultimate",
+		"OverrideMap": [],
+		"BuffType": 1,
+		"DataImpl": {},
+		"ID": 2112
+	},
+	{
+		"BuffName": "DLC_TowerBuff_Style",
+		"OverrideMap": [],
+		"BuffType": 1,
+		"DataImpl": {},
+		"ID": 2113
+	},
+	{
+		"BuffName": "DLC_TowerBuff_Fever",
+		"OverrideMap": [],
+		"BuffType": 1,
+		"DataImpl": {},
+		"ID": 2114
+	},
+	{
+		"BuffName": "DLC_TowerBuff_ThrowAttack",
+		"OverrideMap": [],
+		"BuffType": 1,
+		"DataImpl": {},
+		"ID": 2115
+	},
+	{
+		"BuffName": "DLC_TowerBuff_ShootWeakness",
+		"OverrideMap": [],
+		"BuffType": 1,
+		"DataImpl": {},
+		"ID": 2116
+	}
+]

@@ -1,0 +1,1326 @@
+[
+	{
+		"IsShow": true,
+		"Interactive": false,
+		"InteractName": "",
+		"InteractIcon": "",
+		"InteractRadius": 1,
+		"InteractAngle": 360,
+		"NPCID": 0,
+		"InteractEnterActionList": [],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"State": 101
+	},
+	{
+		"IsShow": true,
+		"Interactive": false,
+		"InteractName": "",
+		"InteractIcon": "",
+		"InteractRadius": 1,
+		"InteractAngle": 360,
+		"NPCID": 0,
+		"InteractEnterActionList": [],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"State": 201
+	},
+	{
+		"IsShow": true,
+		"Interactive": false,
+		"InteractName": "",
+		"InteractIcon": "",
+		"InteractRadius": 1,
+		"InteractAngle": 360,
+		"NPCID": 0,
+		"InteractEnterActionList": [],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"State": 301
+	},
+	{
+		"IsShow": true,
+		"Interactive": false,
+		"InteractName": "",
+		"InteractIcon": "",
+		"InteractRadius": 1,
+		"InteractAngle": 360,
+		"NPCID": 0,
+		"InteractEnterActionList": [],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"State": 401
+	},
+	{
+		"IsShow": true,
+		"Interactive": false,
+		"InteractName": "",
+		"InteractIcon": "",
+		"InteractRadius": 1,
+		"InteractAngle": 360,
+		"NPCID": 0,
+		"InteractEnterActionList": [],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"State": 501
+	},
+	{
+		"IsShow": true,
+		"Interactive": false,
+		"InteractName": "",
+		"InteractIcon": "",
+		"InteractRadius": 1,
+		"InteractAngle": 360,
+		"NPCID": 0,
+		"InteractEnterActionList": [],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"State": 601
+	},
+	{
+		"IsShow": true,
+		"Interactive": false,
+		"InteractName": "",
+		"InteractIcon": "",
+		"InteractRadius": 1.75,
+		"InteractAngle": 360,
+		"NPCID": 0,
+		"InteractEnterActionList": [],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"State": 701
+	},
+	{
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": "InteractName_jukebox_1",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSetting",
+		"InteractRadius": 1.5,
+		"InteractAngle": 360,
+		"NPCID": 0,
+		"InteractEnterActionList": [
+			801,
+			9
+		],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"State": 801
+	},
+	{
+		"IsShow": true,
+		"Interactive": false,
+		"InteractName": "",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSetting",
+		"InteractRadius": 1,
+		"InteractAngle": 360,
+		"NPCID": 0,
+		"InteractEnterActionList": [],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"State": 901
+	},
+	{
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": "InteractName_screen_1",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSetting",
+		"InteractRadius": 2,
+		"InteractAngle": 360,
+		"NPCID": 0,
+		"InteractEnterActionList": [
+			1001,
+			9
+		],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"State": 1001
+	},
+	{
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": "InteractName_screen_2",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSetting",
+		"InteractRadius": 2,
+		"InteractAngle": 360,
+		"NPCID": 0,
+		"InteractEnterActionList": [
+			90110101,
+			1002,
+			9
+		],
+		"InteractExitActionList": [
+			90110000
+		],
+		"DataImpl": {},
+		"State": 1002
+	},
+	{
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": "InteractName_screen_2",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSetting",
+		"InteractRadius": 2,
+		"InteractAngle": 360,
+		"NPCID": 0,
+		"InteractEnterActionList": [
+			90110101,
+			1003,
+			9
+		],
+		"InteractExitActionList": [
+			90110000
+		],
+		"DataImpl": {},
+		"State": 1003
+	},
+	{
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": "InteractName_smalldoor_1",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSetting",
+		"InteractRadius": 3,
+		"InteractAngle": 360,
+		"NPCID": 0,
+		"InteractEnterActionList": [
+			1101,
+			9
+		],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"State": 1101
+	},
+	{
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": "InteractName_smalldoor_1",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSetting",
+		"InteractRadius": 3,
+		"InteractAngle": 360,
+		"NPCID": 0,
+		"InteractEnterActionList": [
+			1102,
+			9
+		],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"State": 1102
+	},
+	{
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": "InteractName_largedoor_1",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSetting",
+		"InteractRadius": 5,
+		"InteractAngle": 360,
+		"NPCID": 0,
+		"InteractEnterActionList": [
+			1201,
+			9
+		],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"State": 1201
+	},
+	{
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": "InteractName_largedoor_1",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSetting",
+		"InteractRadius": 5,
+		"InteractAngle": 360,
+		"NPCID": 0,
+		"InteractEnterActionList": [
+			1202,
+			9
+		],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"State": 1202
+	},
+	{
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": "InteractName_box_1",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSetting",
+		"InteractRadius": 1.3,
+		"InteractAngle": 360,
+		"NPCID": 0,
+		"InteractEnterActionList": [
+			1301,
+			9
+		],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"State": 1301
+	},
+	{
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": "InteractName_screen_1",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSetting",
+		"InteractRadius": 1.3,
+		"InteractAngle": 360,
+		"NPCID": 0,
+		"InteractEnterActionList": [
+			1401,
+			9
+		],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"State": 1401
+	},
+	{
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": "InteractName_screen_2",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSetting",
+		"InteractRadius": 1.3,
+		"InteractAngle": 360,
+		"NPCID": 0,
+		"InteractEnterActionList": [
+			90110101,
+			1402,
+			9
+		],
+		"InteractExitActionList": [
+			90110000
+		],
+		"DataImpl": {},
+		"State": 1402
+	},
+	{
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": "InteractName_screen_2",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSetting",
+		"InteractRadius": 1.3,
+		"InteractAngle": 360,
+		"NPCID": 0,
+		"InteractEnterActionList": [
+			90110101,
+			1403,
+			9
+		],
+		"InteractExitActionList": [
+			90110000
+		],
+		"DataImpl": {},
+		"State": 1403
+	},
+	{
+		"IsShow": true,
+		"Interactive": false,
+		"InteractName": "",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSetting",
+		"InteractRadius": 1,
+		"InteractAngle": 360,
+		"NPCID": 0,
+		"InteractEnterActionList": [],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"State": 1501
+	},
+	{
+		"IsShow": false,
+		"Interactive": false,
+		"InteractName": "",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSetting",
+		"InteractRadius": 1,
+		"InteractAngle": 360,
+		"NPCID": 0,
+		"InteractEnterActionList": [],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"State": 1502
+	},
+	{
+		"IsShow": true,
+		"Interactive": false,
+		"InteractName": "",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSetting",
+		"InteractRadius": 1,
+		"InteractAngle": 360,
+		"NPCID": 0,
+		"InteractEnterActionList": [],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"State": 1601
+	},
+	{
+		"IsShow": true,
+		"Interactive": false,
+		"InteractName": "",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSetting",
+		"InteractRadius": 1,
+		"InteractAngle": 360,
+		"NPCID": 0,
+		"InteractEnterActionList": [],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"State": 1701
+	},
+	{
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": "InteractName_sofa_1",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSetting",
+		"InteractRadius": 0.6,
+		"InteractAngle": 360,
+		"NPCID": 0,
+		"InteractEnterActionList": [
+			90110201,
+			90110202,
+			90110203,
+			90110204,
+			90110205,
+			90110206,
+			90110207,
+			90110208,
+			90110209,
+			90110210,
+			90110211
+		],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"State": 1801
+	},
+	{
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": "InteractName_table_1",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSetting",
+		"InteractRadius": 0.6,
+		"InteractAngle": 360,
+		"NPCID": 0,
+		"InteractEnterActionList": [
+			90110201,
+			90110202,
+			90110203,
+			90110204,
+			90110205,
+			90110206,
+			90110207,
+			90110208,
+			90110209,
+			90110210,
+			90110211,
+			1802,
+			9
+		],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"State": 1802
+	},
+	{
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": "InteractName_table_2",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSetting",
+		"InteractRadius": 0.6,
+		"InteractAngle": 360,
+		"NPCID": 0,
+		"InteractEnterActionList": [
+			90110201,
+			90110202,
+			90110203,
+			90110204,
+			90110205,
+			90110206,
+			90110207,
+			90110208,
+			90110209,
+			90110210,
+			90110211,
+			1803,
+			9
+		],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"State": 1803
+	},
+	{
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": "InteractName_table_1",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSetting",
+		"InteractRadius": 0.6,
+		"InteractAngle": 360,
+		"NPCID": 0,
+		"InteractEnterActionList": [
+			1901,
+			9
+		],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"State": 1901
+	},
+	{
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": "InteractName_table_2",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSetting",
+		"InteractRadius": 0.6,
+		"InteractAngle": 360,
+		"NPCID": 0,
+		"InteractEnterActionList": [
+			1902,
+			9
+		],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"State": 1902
+	},
+	{
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": "InteractName_mei_1",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSendMessage",
+		"InteractRadius": 1.4,
+		"InteractAngle": 180,
+		"NPCID": 1,
+		"InteractEnterActionList": [
+			2001,
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9
+		],
+		"InteractExitActionList": [
+			10
+		],
+		"DataImpl": {},
+		"State": 2001
+	},
+	{
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": "InteractName_mei_1",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSendMessage",
+		"InteractRadius": 1.4,
+		"InteractAngle": 180,
+		"NPCID": 1,
+		"InteractEnterActionList": [
+			2002,
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9
+		],
+		"InteractExitActionList": [
+			10
+		],
+		"DataImpl": {},
+		"State": 2002
+	},
+	{
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": "InteractName_mei_1",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSendMessage",
+		"InteractRadius": 1.4,
+		"InteractAngle": 180,
+		"NPCID": 1,
+		"InteractEnterActionList": [
+			2003,
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9
+		],
+		"InteractExitActionList": [
+			10
+		],
+		"DataImpl": {},
+		"State": 2003
+	},
+	{
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": "InteractName_mei_1",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSendMessage",
+		"InteractRadius": 1.4,
+		"InteractAngle": 180,
+		"NPCID": 1,
+		"InteractEnterActionList": [
+			2004,
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9
+		],
+		"InteractExitActionList": [
+			10
+		],
+		"DataImpl": {},
+		"State": 2004
+	},
+	{
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": "InteractName_carol_1",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSendMessage",
+		"InteractRadius": 1.6,
+		"InteractAngle": 180,
+		"NPCID": 2,
+		"InteractEnterActionList": [
+			2101,
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			90110301,
+			9
+		],
+		"InteractExitActionList": [
+			10,
+			90110000
+		],
+		"DataImpl": {},
+		"State": 2101
+	},
+	{
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": "InteractName_carol_1",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSendMessage",
+		"InteractRadius": 1.6,
+		"InteractAngle": 180,
+		"NPCID": 2,
+		"InteractEnterActionList": [
+			2102,
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9
+		],
+		"InteractExitActionList": [
+			10
+		],
+		"DataImpl": {},
+		"State": 2102
+	},
+	{
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": "InteractName_carol_1",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSendMessage",
+		"InteractRadius": 1.6,
+		"InteractAngle": 180,
+		"NPCID": 2,
+		"InteractEnterActionList": [
+			2103,
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9
+		],
+		"InteractExitActionList": [
+			10
+		],
+		"DataImpl": {},
+		"State": 2103
+	},
+	{
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": "InteractName_carol_1",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSendMessage",
+		"InteractRadius": 1.6,
+		"InteractAngle": 180,
+		"NPCID": 2,
+		"InteractEnterActionList": [
+			2104,
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9
+		],
+		"InteractExitActionList": [
+			10
+		],
+		"DataImpl": {},
+		"State": 2104
+	},
+	{
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": "InteractName_carol_1",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSendMessage",
+		"InteractRadius": 1.6,
+		"InteractAngle": 180,
+		"NPCID": 2,
+		"InteractEnterActionList": [
+			2105,
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			90110301,
+			9
+		],
+		"InteractExitActionList": [
+			10,
+			90110000
+		],
+		"DataImpl": {},
+		"State": 2105
+	},
+	{
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": "InteractName_bronya_1",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSendMessage",
+		"InteractRadius": 1.4,
+		"InteractAngle": 180,
+		"NPCID": 3,
+		"InteractEnterActionList": [
+			2201,
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9
+		],
+		"InteractExitActionList": [
+			10
+		],
+		"DataImpl": {},
+		"State": 2201
+	},
+	{
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": "InteractName_bronya_1",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSendMessage",
+		"InteractRadius": 1.4,
+		"InteractAngle": 180,
+		"NPCID": 3,
+		"InteractEnterActionList": [
+			2202,
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9
+		],
+		"InteractExitActionList": [
+			10
+		],
+		"DataImpl": {},
+		"State": 2202
+	},
+	{
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": "InteractName_bronya_1",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSendMessage",
+		"InteractRadius": 1.4,
+		"InteractAngle": 180,
+		"NPCID": 3,
+		"InteractEnterActionList": [
+			2203,
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9
+		],
+		"InteractExitActionList": [
+			10
+		],
+		"DataImpl": {},
+		"State": 2203
+	},
+	{
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": "InteractName_bronya_1",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSendMessage",
+		"InteractRadius": 1.4,
+		"InteractAngle": 180,
+		"NPCID": 3,
+		"InteractEnterActionList": [
+			2204,
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9
+		],
+		"InteractExitActionList": [
+			10
+		],
+		"DataImpl": {},
+		"State": 2204
+	},
+	{
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": "InteractName_bronya_1",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSendMessage",
+		"InteractRadius": 1.4,
+		"InteractAngle": 180,
+		"NPCID": 3,
+		"InteractEnterActionList": [
+			2205,
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9
+		],
+		"InteractExitActionList": [
+			10
+		],
+		"DataImpl": {},
+		"State": 2205
+	},
+	{
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": "InteractName_bronya_1",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSendMessage",
+		"InteractRadius": 1.4,
+		"InteractAngle": 180,
+		"NPCID": 3,
+		"InteractEnterActionList": [
+			2206,
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9
+		],
+		"InteractExitActionList": [
+			10
+		],
+		"DataImpl": {},
+		"State": 2206
+	},
+	{
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": "InteractName_bronya_1",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSendMessage",
+		"InteractRadius": 1.4,
+		"InteractAngle": 180,
+		"NPCID": 3,
+		"InteractEnterActionList": [
+			2207,
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9
+		],
+		"InteractExitActionList": [
+			10
+		],
+		"DataImpl": {},
+		"State": 2207
+	},
+	{
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": "InteractName_bronya_1",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSendMessage",
+		"InteractRadius": 1.4,
+		"InteractAngle": 180,
+		"NPCID": 3,
+		"InteractEnterActionList": [
+			2208,
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9
+		],
+		"InteractExitActionList": [
+			10
+		],
+		"DataImpl": {},
+		"State": 2208
+	},
+	{
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": "InteractName_bronya_1",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSendMessage",
+		"InteractRadius": 1.4,
+		"InteractAngle": 180,
+		"NPCID": 3,
+		"InteractEnterActionList": [
+			2209,
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9
+		],
+		"InteractExitActionList": [
+			10
+		],
+		"DataImpl": {},
+		"State": 2209
+	},
+	{
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": "InteractName_bronya_1",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSendMessage",
+		"InteractRadius": 1.4,
+		"InteractAngle": 180,
+		"NPCID": 3,
+		"InteractEnterActionList": [
+			2210,
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9
+		],
+		"InteractExitActionList": [
+			10
+		],
+		"DataImpl": {},
+		"State": 2210
+	},
+	{
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": "InteractName_bronya_1",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSendMessage",
+		"InteractRadius": 1.4,
+		"InteractAngle": 180,
+		"NPCID": 3,
+		"InteractEnterActionList": [
+			2211,
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9
+		],
+		"InteractExitActionList": [
+			10
+		],
+		"DataImpl": {},
+		"State": 2211
+	},
+	{
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": "InteractName_timido_1",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSendMessage",
+		"InteractRadius": 1.4,
+		"InteractAngle": 180,
+		"NPCID": 4,
+		"InteractEnterActionList": [
+			2301,
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9
+		],
+		"InteractExitActionList": [
+			10
+		],
+		"DataImpl": {},
+		"State": 2301
+	},
+	{
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": "InteractName_timido_1",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSendMessage",
+		"InteractRadius": 1.4,
+		"InteractAngle": 180,
+		"NPCID": 4,
+		"InteractEnterActionList": [
+			2302,
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9
+		],
+		"InteractExitActionList": [
+			10
+		],
+		"DataImpl": {},
+		"State": 2302
+	},
+	{
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": "InteractName_lyle_1",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSendMessage",
+		"InteractRadius": 1.4,
+		"InteractAngle": 180,
+		"NPCID": 5,
+		"InteractEnterActionList": [
+			2401,
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9
+		],
+		"InteractExitActionList": [
+			10
+		],
+		"DataImpl": {},
+		"State": 2401
+	},
+	{
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": "InteractName_lyle_1",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSendMessage",
+		"InteractRadius": 1.4,
+		"InteractAngle": 180,
+		"NPCID": 5,
+		"InteractEnterActionList": [
+			2402,
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9
+		],
+		"InteractExitActionList": [
+			10
+		],
+		"DataImpl": {},
+		"State": 2402
+	},
+	{
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": "InteractName_lyle_1",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSendMessage",
+		"InteractRadius": 1.4,
+		"InteractAngle": 180,
+		"NPCID": 5,
+		"InteractEnterActionList": [
+			2403,
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9
+		],
+		"InteractExitActionList": [
+			10
+		],
+		"DataImpl": {},
+		"State": 2403
+	},
+	{
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": "InteractName_lyle_1",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSendMessage",
+		"InteractRadius": 1.4,
+		"InteractAngle": 180,
+		"NPCID": 5,
+		"InteractEnterActionList": [
+			2404,
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9
+		],
+		"InteractExitActionList": [
+			10
+		],
+		"DataImpl": {},
+		"State": 2404
+	},
+	{
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": "InteractName_lyle_1",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSendMessage",
+		"InteractRadius": 1.4,
+		"InteractAngle": 180,
+		"NPCID": 5,
+		"InteractEnterActionList": [
+			2405,
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9
+		],
+		"InteractExitActionList": [
+			10
+		],
+		"DataImpl": {},
+		"State": 2405
+	},
+	{
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": "InteractName_lyle_1",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSendMessage",
+		"InteractRadius": 1.4,
+		"InteractAngle": 180,
+		"NPCID": 5,
+		"InteractEnterActionList": [
+			2406,
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9
+		],
+		"InteractExitActionList": [
+			10
+		],
+		"DataImpl": {},
+		"State": 2406
+	},
+	{
+		"IsShow": true,
+		"Interactive": false,
+		"InteractName": "",
+		"InteractIcon": "",
+		"InteractRadius": 1,
+		"InteractAngle": 360,
+		"NPCID": 0,
+		"InteractEnterActionList": [],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"State": 3101
+	},
+	{
+		"IsShow": true,
+		"Interactive": false,
+		"InteractName": "",
+		"InteractIcon": "",
+		"InteractRadius": 1,
+		"InteractAngle": 360,
+		"NPCID": 0,
+		"InteractEnterActionList": [],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"State": 3201
+	},
+	{
+		"IsShow": true,
+		"Interactive": false,
+		"InteractName": "",
+		"InteractIcon": "",
+		"InteractRadius": 1,
+		"InteractAngle": 360,
+		"NPCID": 0,
+		"InteractEnterActionList": [],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"State": 3301
+	},
+	{
+		"IsShow": true,
+		"Interactive": false,
+		"InteractName": "",
+		"InteractIcon": "",
+		"InteractRadius": 1,
+		"InteractAngle": 360,
+		"NPCID": 0,
+		"InteractEnterActionList": [],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"State": 3401
+	},
+	{
+		"IsShow": true,
+		"Interactive": false,
+		"InteractName": "",
+		"InteractIcon": "",
+		"InteractRadius": 1,
+		"InteractAngle": 360,
+		"NPCID": 0,
+		"InteractEnterActionList": [],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"State": 3501
+	},
+	{
+		"IsShow": true,
+		"Interactive": false,
+		"InteractName": "",
+		"InteractIcon": "",
+		"InteractRadius": 1,
+		"InteractAngle": 360,
+		"NPCID": 0,
+		"InteractEnterActionList": [],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"State": 3601
+	},
+	{
+		"IsShow": true,
+		"Interactive": false,
+		"InteractName": "",
+		"InteractIcon": "",
+		"InteractRadius": 1,
+		"InteractAngle": 360,
+		"NPCID": 0,
+		"InteractEnterActionList": [],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"State": 3701
+	},
+	{
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": "InteractName_OWStory_223299",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconNPC04",
+		"InteractRadius": 1,
+		"InteractAngle": 360,
+		"NPCID": 0,
+		"InteractEnterActionList": [
+			3801,
+			9
+		],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"State": 3801
+	},
+	{
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": "InteractName_OWStory_223299",
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconNPC04",
+		"InteractRadius": 1,
+		"InteractAngle": 360,
+		"NPCID": 0,
+		"InteractEnterActionList": [
+			3802,
+			9
+		],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"State": 3802
+	}
+]

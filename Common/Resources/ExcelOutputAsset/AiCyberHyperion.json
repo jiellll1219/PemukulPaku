@@ -1,0 +1,41 @@
+[
+	{
+		"SpaceshipPath": "Stage/Stage_AICyberSpace/Stage_AI_MainMenu_Fadeout_02",
+		"AvatarModelPath": "Entities/Avatar\\AI_C1_JC/Avatar_AI_C1_JC_AiCyber_UI",
+		"UnlockConditionList": "",
+		"GalEvents": [
+			1,
+			2,
+			3
+		],
+		"DataImpl": {},
+		"ID": 0
+	},
+	{
+		"SpaceshipPath": "Stage/Stage_AICyberSpace/Stage_AI_MainMenu_Fadeout_01",
+		"AvatarModelPath": "",
+		"UnlockConditionList": "2|1727010",
+		"GalEvents": [],
+		"DataImpl": {},
+		"ID": 1
+	},
+	{
+		"SpaceshipPath": "Stage/Stage_AICyberSpace/Stage_AI_MainMenu_Fadeout_01",
+		"AvatarModelPath": "Entities/Avatar\\AI_C1_JC/Avatar_AI_C1_JC_Holographic_UI",
+		"UnlockConditionList": "2|1727011",
+		"GalEvents": [],
+		"DataImpl": {},
+		"ID": 2
+	},
+	{
+		"SpaceshipPath": "Stage/Stage_AICyberSpace/Stage_AI_MainMenu_Fadeout",
+		"AvatarModelPath": "Entities/Avatar\\AI_C1_JC/Avatar_AI_C1_JC_AiCyber_UI",
+		"UnlockConditionList": "2|1727014",
+		"GalEvents": [
+			4,
+			5
+		],
+		"DataImpl": {},
+		"ID": 3
+	}
+]

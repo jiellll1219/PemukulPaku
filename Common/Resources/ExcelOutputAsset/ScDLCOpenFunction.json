@@ -1,0 +1,308 @@
+[
+	{
+		"ConditionID": 10113,
+		"BtnPath": "InfoPanel/On/BtnPanel/AvatarBtn",
+		"ShowUnlockTips": true,
+		"Title": {
+			"hash": -2088037647
+		},
+		"Desc": {
+			"hash": -1467726168
+		},
+		"TitleLabel": {
+			"hash": 0
+		},
+		"IconPath": "",
+		"DataImpl": {},
+		"Function": 1
+	},
+	{
+		"ConditionID": 3,
+		"BtnPath": "InfoPanel/On/BtnPanel/ItemBtn",
+		"ShowUnlockTips": false,
+		"Title": {
+			"hash": -2088037646
+		},
+		"Desc": {
+			"hash": -1467726167
+		},
+		"TitleLabel": {
+			"hash": 0
+		},
+		"IconPath": "",
+		"DataImpl": {},
+		"Function": 2
+	},
+	{
+		"ConditionID": 3,
+		"BtnPath": "InfoPanel/On/BtnPanel/RewardBtn",
+		"ShowUnlockTips": false,
+		"Title": {
+			"hash": -2088037645
+		},
+		"Desc": {
+			"hash": -1467726166
+		},
+		"TitleLabel": {
+			"hash": 0
+		},
+		"IconPath": "",
+		"DataImpl": {},
+		"Function": 3
+	},
+	{
+		"ConditionID": 3,
+		"BtnPath": "InfoPanel/On/BtnPanel/Gacha",
+		"ShowUnlockTips": false,
+		"Title": {
+			"hash": -2088037644
+		},
+		"Desc": {
+			"hash": -1467726165
+		},
+		"TitleLabel": {
+			"hash": 0
+		},
+		"IconPath": "",
+		"DataImpl": {},
+		"Function": 4
+	},
+	{
+		"ConditionID": 10123,
+		"BtnPath": "",
+		"ShowUnlockTips": true,
+		"Title": {
+			"hash": -2088037643
+		},
+		"Desc": {
+			"hash": -1467726164
+		},
+		"TitleLabel": {
+			"hash": 0
+		},
+		"IconPath": "",
+		"DataImpl": {},
+		"Function": 5
+	},
+	{
+		"ConditionID": 216,
+		"BtnPath": "",
+		"ShowUnlockTips": true,
+		"Title": {
+			"hash": -2088037642
+		},
+		"Desc": {
+			"hash": -1467726163
+		},
+		"TitleLabel": {
+			"hash": 0
+		},
+		"IconPath": "",
+		"DataImpl": {},
+		"Function": 6
+	},
+	{
+		"ConditionID": 50,
+		"BtnPath": "",
+		"ShowUnlockTips": true,
+		"Title": {
+			"hash": -2088037641
+		},
+		"Desc": {
+			"hash": -1467726162
+		},
+		"TitleLabel": {
+			"hash": 0
+		},
+		"IconPath": "",
+		"DataImpl": {},
+		"Function": 7
+	},
+	{
+		"ConditionID": 51,
+		"BtnPath": "",
+		"ShowUnlockTips": false,
+		"Title": {
+			"hash": -2088037640
+		},
+		"Desc": {
+			"hash": -1467726161
+		},
+		"TitleLabel": {
+			"hash": 0
+		},
+		"IconPath": "",
+		"DataImpl": {},
+		"Function": 8
+	},
+	{
+		"ConditionID": 98,
+		"BtnPath": "",
+		"ShowUnlockTips": true,
+		"Title": {
+			"hash": -2088037639
+		},
+		"Desc": {
+			"hash": -1467726160
+		},
+		"TitleLabel": {
+			"hash": 0
+		},
+		"IconPath": "",
+		"DataImpl": {},
+		"Function": 9
+	},
+	{
+		"ConditionID": 60,
+		"BtnPath": "",
+		"ShowUnlockTips": true,
+		"Title": {
+			"hash": -304657569
+		},
+		"Desc": {
+			"hash": 1745129096
+		},
+		"TitleLabel": {
+			"hash": 0
+		},
+		"IconPath": "",
+		"DataImpl": {},
+		"Function": 10
+	},
+	{
+		"ConditionID": 1502,
+		"BtnPath": "TeamBtn/Button",
+		"ShowUnlockTips": false,
+		"Title": {
+			"hash": -304657568
+		},
+		"Desc": {
+			"hash": 1745129097
+		},
+		"TitleLabel": {
+			"hash": 0
+		},
+		"IconPath": "",
+		"DataImpl": {},
+		"Function": 11
+	},
+	{
+		"ConditionID": 1511,
+		"BtnPath": "",
+		"ShowUnlockTips": false,
+		"Title": {
+			"hash": -304657567
+		},
+		"Desc": {
+			"hash": 1745129098
+		},
+		"TitleLabel": {
+			"hash": 0
+		},
+		"IconPath": "",
+		"DataImpl": {},
+		"Function": 12
+	},
+	{
+		"ConditionID": 1512,
+		"BtnPath": "",
+		"ShowUnlockTips": false,
+		"Title": {
+			"hash": -304657566
+		},
+		"Desc": {
+			"hash": 1745129099
+		},
+		"TitleLabel": {
+			"hash": 0
+		},
+		"IconPath": "",
+		"DataImpl": {},
+		"Function": 13
+	},
+	{
+		"ConditionID": 1522,
+		"BtnPath": "",
+		"ShowUnlockTips": false,
+		"Title": {
+			"hash": -304657565
+		},
+		"Desc": {
+			"hash": 1745129100
+		},
+		"TitleLabel": {
+			"hash": 0
+		},
+		"IconPath": "",
+		"DataImpl": {},
+		"Function": 14
+	},
+	{
+		"ConditionID": 1513,
+		"BtnPath": "",
+		"ShowUnlockTips": false,
+		"Title": {
+			"hash": -304657564
+		},
+		"Desc": {
+			"hash": 1745129101
+		},
+		"TitleLabel": {
+			"hash": 0
+		},
+		"IconPath": "",
+		"DataImpl": {},
+		"Function": 15
+	},
+	{
+		"ConditionID": 1506,
+		"BtnPath": "",
+		"ShowUnlockTips": true,
+		"Title": {
+			"hash": -304657563
+		},
+		"Desc": {
+			"hash": 1745129102
+		},
+		"TitleLabel": {
+			"hash": 1021818190
+		},
+		"IconPath": "SpriteOutput/AvatarCardIcons/9021",
+		"DataImpl": {},
+		"Function": 16
+	},
+	{
+		"ConditionID": 1507,
+		"BtnPath": "",
+		"ShowUnlockTips": true,
+		"Title": {
+			"hash": -304657562
+		},
+		"Desc": {
+			"hash": 1745129103
+		},
+		"TitleLabel": {
+			"hash": 1021818190
+		},
+		"IconPath": "SpriteOutput/AvatarCardIcons/9031",
+		"DataImpl": {},
+		"Function": 17
+	},
+	{
+		"ConditionID": 1503,
+		"BtnPath": "TeamBtn/Locked",
+		"ShowUnlockTips": false,
+		"Title": {
+			"hash": -304657561
+		},
+		"Desc": {
+			"hash": 1745129104
+		},
+		"TitleLabel": {
+			"hash": 0
+		},
+		"IconPath": "",
+		"DataImpl": {},
+		"Function": 18
+	}
+]

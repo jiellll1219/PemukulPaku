@@ -1,0 +1,1143 @@
+[
+	{
+		"MapID": 1001,
+		"TalentType": 1,
+		"IsDefaultActivate": 1,
+		"AutoActivate": 0,
+		"UniqueTag": 0,
+		"MaxLevel": 7,
+		"RelateTalentIDList": [],
+		"UIChangePath": "",
+		"UIPointPath": "CoreSkill/1/Chapter30OWSkillCircular",
+		"UILinePath": [
+			"UniqueSkill/Line/MainLine/Active/00"
+		],
+		"TalentName": {
+			"hash": 242140371
+		},
+		"TalentDesc": {
+			"hash": 0
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Button_Robot_001_Ultra",
+		"CGID": [],
+		"UnlockConditionList": "",
+		"DataImpl": {},
+		"TalentID": 1
+	},
+	{
+		"MapID": 1001,
+		"TalentType": 1,
+		"IsDefaultActivate": 1,
+		"AutoActivate": 0,
+		"UniqueTag": 0,
+		"MaxLevel": 4,
+		"RelateTalentIDList": [],
+		"UIChangePath": "",
+		"UIPointPath": "UniqueSkill/Content/1/Chapter30OWSkillCircular",
+		"UILinePath": [
+			"UniqueSkill/Line/MainLine/Active/01"
+		],
+		"TalentName": {
+			"hash": 242140372
+		},
+		"TalentDesc": {
+			"hash": 0
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_Weapon_08",
+		"CGID": [],
+		"UnlockConditionList": "",
+		"DataImpl": {},
+		"TalentID": 2
+	},
+	{
+		"MapID": 1001,
+		"TalentType": 1,
+		"IsDefaultActivate": 0,
+		"AutoActivate": 101,
+		"UniqueTag": 0,
+		"MaxLevel": 4,
+		"RelateTalentIDList": [],
+		"UIChangePath": "",
+		"UIPointPath": "UniqueSkill/Content/Branch02/1/Chapter30OWSkillCircular",
+		"UILinePath": [
+			"UniqueSkill/Line/BranchLine02/Active/02"
+		],
+		"TalentName": {
+			"hash": 242140373
+		},
+		"TalentDesc": {
+			"hash": 0
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Elf_Ultra",
+		"CGID": [],
+		"UnlockConditionList": "",
+		"DataImpl": {},
+		"TalentID": 3
+	},
+	{
+		"MapID": 1001,
+		"TalentType": 1,
+		"IsDefaultActivate": 0,
+		"AutoActivate": 0,
+		"UniqueTag": 0,
+		"MaxLevel": 4,
+		"RelateTalentIDList": [],
+		"UIChangePath": "",
+		"UIPointPath": "UniqueSkill/Content/Branch02/2/Chapter30OWSkillCircular",
+		"UILinePath": [
+			"UniqueSkill/Line/BranchLine02/Active/03"
+		],
+		"TalentName": {
+			"hash": 242140374
+		},
+		"TalentDesc": {
+			"hash": 0
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_Weapon_18",
+		"CGID": [],
+		"UnlockConditionList": "",
+		"DataImpl": {},
+		"TalentID": 4
+	},
+	{
+		"MapID": 1001,
+		"TalentType": 1,
+		"IsDefaultActivate": 0,
+		"AutoActivate": 0,
+		"UniqueTag": 0,
+		"MaxLevel": 4,
+		"RelateTalentIDList": [],
+		"UIChangePath": "",
+		"UIPointPath": "UniqueSkill/Content/Branch02/3/Chapter30OWSkillCircular",
+		"UILinePath": [
+			"UniqueSkill/Line/BranchLine02/Active/04"
+		],
+		"TalentName": {
+			"hash": 242140375
+		},
+		"TalentDesc": {
+			"hash": 0
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/ChapterOW_CoreSkill03_3",
+		"CGID": [],
+		"UnlockConditionList": "",
+		"DataImpl": {},
+		"TalentID": 5
+	},
+	{
+		"MapID": 1001,
+		"TalentType": 1,
+		"IsDefaultActivate": 1,
+		"AutoActivate": 0,
+		"UniqueTag": 0,
+		"MaxLevel": 7,
+		"RelateTalentIDList": [],
+		"UIChangePath": "",
+		"UIPointPath": "CoreSkill/3/Chapter30OWSkillCircular",
+		"UILinePath": [
+			"NormalAttackSkill/Line/MainLine/Active/01",
+			"NormalAttackSkill/Line/MainLine/Active/02"
+		],
+		"TalentName": {
+			"hash": 242140376
+		},
+		"TalentDesc": {
+			"hash": 0
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Button_Robot_001_Interaction",
+		"CGID": [],
+		"UnlockConditionList": "",
+		"DataImpl": {},
+		"TalentID": 6
+	},
+	{
+		"MapID": 1001,
+		"TalentType": 1,
+		"IsDefaultActivate": 0,
+		"AutoActivate": 0,
+		"UniqueTag": 0,
+		"MaxLevel": 4,
+		"RelateTalentIDList": [],
+		"UIChangePath": "",
+		"UIPointPath": "NormalAttackSkill/Content/Branch03/1/Chapter30OWSkillCircular",
+		"UILinePath": [
+			"NormalAttackSkill/Line/BranchLine03/Active/02"
+		],
+		"TalentName": {
+			"hash": 242140377
+		},
+		"TalentDesc": {
+			"hash": 0
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Himeko_Weapon_04",
+		"CGID": [],
+		"UnlockConditionList": "",
+		"DataImpl": {},
+		"TalentID": 7
+	},
+	{
+		"MapID": 1001,
+		"TalentType": 1,
+		"IsDefaultActivate": 0,
+		"AutoActivate": 0,
+		"UniqueTag": 0,
+		"MaxLevel": 4,
+		"RelateTalentIDList": [],
+		"UIChangePath": "",
+		"UIPointPath": "NormalAttackSkill/Content/Branch03/2/Chapter30OWSkillCircular",
+		"UILinePath": [
+			"NormalAttackSkill/Line/BranchLine03/Active/03"
+		],
+		"TalentName": {
+			"hash": 242140378
+		},
+		"TalentDesc": {
+			"hash": 0
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_Weapon_42",
+		"CGID": [],
+		"UnlockConditionList": "",
+		"DataImpl": {},
+		"TalentID": 8
+	},
+	{
+		"MapID": 1001,
+		"TalentType": 1,
+		"IsDefaultActivate": 0,
+		"AutoActivate": 0,
+		"UniqueTag": 0,
+		"MaxLevel": 4,
+		"RelateTalentIDList": [],
+		"UIChangePath": "",
+		"UIPointPath": "NormalAttackSkill/Content/Branch02/1/Chapter30OWSkillCircular",
+		"UILinePath": [
+			"NormalAttackSkill/Line/BranchLine02/Active/02"
+		],
+		"TalentName": {
+			"hash": 242140379
+		},
+		"TalentDesc": {
+			"hash": 0
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_Weapon_14",
+		"CGID": [],
+		"UnlockConditionList": "",
+		"DataImpl": {},
+		"TalentID": 9
+	},
+	{
+		"MapID": 1001,
+		"TalentType": 1,
+		"IsDefaultActivate": 0,
+		"AutoActivate": 0,
+		"UniqueTag": 0,
+		"MaxLevel": 4,
+		"RelateTalentIDList": [],
+		"UIChangePath": "",
+		"UIPointPath": "NormalAttackSkill/Content/Branch02/2/Chapter30OWSkillCircular",
+		"UILinePath": [
+			"NormalAttackSkill/Line/BranchLine02/Active/03"
+		],
+		"TalentName": {
+			"hash": -1083583043
+		},
+		"TalentDesc": {
+			"hash": 0
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Himeko_Weapon_05",
+		"CGID": [],
+		"UnlockConditionList": "",
+		"DataImpl": {},
+		"TalentID": 10
+	},
+	{
+		"MapID": 1001,
+		"TalentType": 1,
+		"IsDefaultActivate": 0,
+		"AutoActivate": 0,
+		"UniqueTag": 0,
+		"MaxLevel": 4,
+		"RelateTalentIDList": [],
+		"UIChangePath": "",
+		"UIPointPath": "NormalAttackSkill/Content/Branch01/1/Chapter30OWSkillCircular",
+		"UILinePath": [
+			"NormalAttackSkill/Line/BranchLine01/Active/02"
+		],
+		"TalentName": {
+			"hash": -1083583042
+		},
+		"TalentDesc": {
+			"hash": 0
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Rita_Weapon_09",
+		"CGID": [],
+		"UnlockConditionList": "",
+		"DataImpl": {},
+		"TalentID": 11
+	},
+	{
+		"MapID": 1001,
+		"TalentType": 1,
+		"IsDefaultActivate": 0,
+		"AutoActivate": 0,
+		"UniqueTag": 0,
+		"MaxLevel": 4,
+		"RelateTalentIDList": [],
+		"UIChangePath": "",
+		"UIPointPath": "NormalAttackSkill/Content/Branch01/2/Chapter30OWSkillCircular",
+		"UILinePath": [
+			"NormalAttackSkill/Line/BranchLine01/Active/03"
+		],
+		"TalentName": {
+			"hash": -1083583041
+		},
+		"TalentDesc": {
+			"hash": 0
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Theresa_Weapon_05",
+		"CGID": [],
+		"UnlockConditionList": "",
+		"DataImpl": {},
+		"TalentID": 12
+	},
+	{
+		"MapID": 1001,
+		"TalentType": 1,
+		"IsDefaultActivate": 1,
+		"AutoActivate": 0,
+		"UniqueTag": 0,
+		"MaxLevel": 6,
+		"RelateTalentIDList": [],
+		"UIChangePath": "",
+		"UIPointPath": "CoreSkill/2/Chapter30OWSkillCircular",
+		"UILinePath": [
+			"GrabSkill/Line/MainLine/Active/01"
+		],
+		"TalentName": {
+			"hash": -1083583040
+		},
+		"TalentDesc": {
+			"hash": 0
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Button_Robot_001_Catch",
+		"CGID": [],
+		"UnlockConditionList": "",
+		"DataImpl": {},
+		"TalentID": 13
+	},
+	{
+		"MapID": 1001,
+		"TalentType": 1,
+		"IsDefaultActivate": 0,
+		"AutoActivate": 0,
+		"UniqueTag": 0,
+		"MaxLevel": 4,
+		"RelateTalentIDList": [],
+		"UIChangePath": "",
+		"UIPointPath": "GrabSkill/Content/Branch01/1/Chapter30OWSkillCircular",
+		"UILinePath": [
+			"GrabSkill/Line/BranchLine01/Active/02"
+		],
+		"TalentName": {
+			"hash": -1083583039
+		},
+		"TalentDesc": {
+			"hash": 0
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_Weapon_08",
+		"CGID": [],
+		"UnlockConditionList": "",
+		"DataImpl": {},
+		"TalentID": 14
+	},
+	{
+		"MapID": 1001,
+		"TalentType": 1,
+		"IsDefaultActivate": 0,
+		"AutoActivate": 0,
+		"UniqueTag": 0,
+		"MaxLevel": 4,
+		"RelateTalentIDList": [],
+		"UIChangePath": "",
+		"UIPointPath": "GrabSkill/Content/Branch01/2/Chapter30OWSkillCircular",
+		"UILinePath": [
+			"GrabSkill/Line/BranchLine01/Active/03"
+		],
+		"TalentName": {
+			"hash": -1083583038
+		},
+		"TalentDesc": {
+			"hash": 0
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_MK2_Branch_11",
+		"CGID": [],
+		"UnlockConditionList": "",
+		"DataImpl": {},
+		"TalentID": 15
+	},
+	{
+		"MapID": 1001,
+		"TalentType": 1,
+		"IsDefaultActivate": 0,
+		"AutoActivate": 0,
+		"UniqueTag": 0,
+		"MaxLevel": 4,
+		"RelateTalentIDList": [],
+		"UIChangePath": "",
+		"UIPointPath": "GrabSkill/Content/Branch01/3/Chapter30OWSkillCircular",
+		"UILinePath": [
+			"GrabSkill/Line/BranchLine01/Active/04"
+		],
+		"TalentName": {
+			"hash": -1083583037
+		},
+		"TalentDesc": {
+			"hash": 0
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_MK2_Branch_12",
+		"CGID": [
+			44878
+		],
+		"UnlockConditionList": "",
+		"DataImpl": {},
+		"TalentID": 16
+	},
+	{
+		"MapID": 1001,
+		"TalentType": 1,
+		"IsDefaultActivate": 0,
+		"AutoActivate": 0,
+		"UniqueTag": 0,
+		"MaxLevel": 4,
+		"RelateTalentIDList": [],
+		"UIChangePath": "",
+		"UIPointPath": "GrabSkill/Content/Branch02/1/Chapter30OWSkillCircular",
+		"UILinePath": [
+			"GrabSkill/Line/BranchLine02/Active/02"
+		],
+		"TalentName": {
+			"hash": -1083583036
+		},
+		"TalentDesc": {
+			"hash": 0
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_Weapon_08",
+		"CGID": [],
+		"UnlockConditionList": "",
+		"DataImpl": {},
+		"TalentID": 17
+	},
+	{
+		"MapID": 1001,
+		"TalentType": 1,
+		"IsDefaultActivate": 0,
+		"AutoActivate": 0,
+		"UniqueTag": 0,
+		"MaxLevel": 4,
+		"RelateTalentIDList": [],
+		"UIChangePath": "",
+		"UIPointPath": "GrabSkill/Content/Branch02/2/Chapter30OWSkillCircular",
+		"UILinePath": [
+			"GrabSkill/Line/BranchLine02/Active/03"
+		],
+		"TalentName": {
+			"hash": -1083583035
+		},
+		"TalentDesc": {
+			"hash": 0
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_Weapon_21",
+		"CGID": [],
+		"UnlockConditionList": "",
+		"DataImpl": {},
+		"TalentID": 18
+	},
+	{
+		"MapID": 1001,
+		"TalentType": 1,
+		"IsDefaultActivate": 0,
+		"AutoActivate": 0,
+		"UniqueTag": 0,
+		"MaxLevel": 4,
+		"RelateTalentIDList": [],
+		"UIChangePath": "",
+		"UIPointPath": "GrabSkill/Content/Branch02/3/Chapter30OWSkillCircular",
+		"UILinePath": [
+			"GrabSkill/Line/BranchLine02/Active/04"
+		],
+		"TalentName": {
+			"hash": -1083583034
+		},
+		"TalentDesc": {
+			"hash": 0
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/ChapterOW_ShieldSkill_Suit2",
+		"CGID": [],
+		"UnlockConditionList": "",
+		"DataImpl": {},
+		"TalentID": 19
+	},
+	{
+		"MapID": 1001,
+		"TalentType": 1,
+		"IsDefaultActivate": 1,
+		"AutoActivate": 0,
+		"UniqueTag": 0,
+		"MaxLevel": 4,
+		"RelateTalentIDList": [],
+		"UIChangePath": "",
+		"UIPointPath": "UniqueSkill/Content/2/Chapter30OWSkillCircular",
+		"UILinePath": [
+			"UniqueSkill/Line/MainLine/Active/02"
+		],
+		"TalentName": {
+			"hash": -1083583012
+		},
+		"TalentDesc": {
+			"hash": 0
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_MK2_Branch_13",
+		"CGID": [],
+		"UnlockConditionList": "",
+		"DataImpl": {},
+		"TalentID": 20
+	},
+	{
+		"MapID": 1001,
+		"TalentType": 1,
+		"IsDefaultActivate": 1,
+		"AutoActivate": 0,
+		"UniqueTag": 0,
+		"MaxLevel": 4,
+		"RelateTalentIDList": [],
+		"UIChangePath": "",
+		"UIPointPath": "UniqueSkill/Content/3/Chapter30OWSkillCircular",
+		"UILinePath": [
+			"UniqueSkill/Line/MainLine/Active/03"
+		],
+		"TalentName": {
+			"hash": -1083583011
+		},
+		"TalentDesc": {
+			"hash": 0
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_MK2_Branch_14",
+		"CGID": [],
+		"UnlockConditionList": "",
+		"DataImpl": {},
+		"TalentID": 21
+	},
+	{
+		"MapID": 1001,
+		"TalentType": 1,
+		"IsDefaultActivate": 0,
+		"AutoActivate": 0,
+		"UniqueTag": 0,
+		"MaxLevel": 4,
+		"RelateTalentIDList": [],
+		"UIChangePath": "",
+		"UIPointPath": "UniqueSkill/Content/Branch01/1/Chapter30OWSkillCircular",
+		"UILinePath": [
+			"UniqueSkill/Line/BranchLine01/Active/02"
+		],
+		"TalentName": {
+			"hash": -1083583010
+		},
+		"TalentDesc": {
+			"hash": 0
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Rita_Weapon_03",
+		"CGID": [],
+		"UnlockConditionList": "",
+		"DataImpl": {},
+		"TalentID": 22
+	},
+	{
+		"MapID": 1001,
+		"TalentType": 1,
+		"IsDefaultActivate": 0,
+		"AutoActivate": 0,
+		"UniqueTag": 0,
+		"MaxLevel": 4,
+		"RelateTalentIDList": [],
+		"UIChangePath": "",
+		"UIPointPath": "UniqueSkill/Content/Branch01/2/Chapter30OWSkillCircular",
+		"UILinePath": [
+			"UniqueSkill/Line/BranchLine01/Active/03"
+		],
+		"TalentName": {
+			"hash": -1083583009
+		},
+		"TalentDesc": {
+			"hash": 0
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Theresa_Weapon_13",
+		"CGID": [],
+		"UnlockConditionList": "",
+		"DataImpl": {},
+		"TalentID": 23
+	},
+	{
+		"MapID": 1001,
+		"TalentType": 1,
+		"IsDefaultActivate": 0,
+		"AutoActivate": 0,
+		"UniqueTag": 0,
+		"MaxLevel": 4,
+		"RelateTalentIDList": [],
+		"UIChangePath": "",
+		"UIPointPath": "UniqueSkill/Content/Branch01/3/Chapter30OWSkillCircular",
+		"UILinePath": [
+			"UniqueSkill/Line/BranchLine01/Active/04"
+		],
+		"TalentName": {
+			"hash": -1083583008
+		},
+		"TalentDesc": {
+			"hash": 0
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_MK2_Branch_15",
+		"CGID": [],
+		"UnlockConditionList": "",
+		"DataImpl": {},
+		"TalentID": 24
+	},
+	{
+		"MapID": 1001,
+		"TalentType": 1,
+		"IsDefaultActivate": 0,
+		"AutoActivate": 0,
+		"UniqueTag": 0,
+		"MaxLevel": 4,
+		"RelateTalentIDList": [],
+		"UIChangePath": "",
+		"UIPointPath": "NormalAttackSkill/Content/Branch03/3/Chapter30OWSkillCircular",
+		"UILinePath": [
+			"NormalAttackSkill/Line/BranchLine03/Active/04"
+		],
+		"TalentName": {
+			"hash": -1083583007
+		},
+		"TalentDesc": {
+			"hash": 0
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Sakura_ZF_004",
+		"CGID": [],
+		"UnlockConditionList": "",
+		"DataImpl": {},
+		"TalentID": 25
+	},
+	{
+		"MapID": 1001,
+		"TalentType": 1,
+		"IsDefaultActivate": 0,
+		"AutoActivate": 0,
+		"UniqueTag": 0,
+		"MaxLevel": 4,
+		"RelateTalentIDList": [],
+		"UIChangePath": "",
+		"UIPointPath": "NormalAttackSkill/Content/Branch02/3/Chapter30OWSkillCircular",
+		"UILinePath": [
+			"NormalAttackSkill/Line/BranchLine02/Active/04"
+		],
+		"TalentName": {
+			"hash": -1083583006
+		},
+		"TalentDesc": {
+			"hash": 0
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Theresa_Weapon_07",
+		"CGID": [],
+		"UnlockConditionList": "",
+		"DataImpl": {},
+		"TalentID": 26
+	},
+	{
+		"MapID": 1001,
+		"TalentType": 1,
+		"IsDefaultActivate": 0,
+		"AutoActivate": 0,
+		"UniqueTag": 0,
+		"MaxLevel": 4,
+		"RelateTalentIDList": [],
+		"UIChangePath": "",
+		"UIPointPath": "NormalAttackSkill/Content/Branch01/3/Chapter30OWSkillCircular",
+		"UILinePath": [
+			"NormalAttackSkill/Line/BranchLine01/Active/04"
+		],
+		"TalentName": {
+			"hash": -1083583005
+		},
+		"TalentDesc": {
+			"hash": 0
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_Weapon_33",
+		"CGID": [],
+		"UnlockConditionList": "",
+		"DataImpl": {},
+		"TalentID": 27
+	},
+	{
+		"MapID": 1001,
+		"TalentType": 1,
+		"IsDefaultActivate": 0,
+		"AutoActivate": 0,
+		"UniqueTag": 0,
+		"MaxLevel": 4,
+		"RelateTalentIDList": [],
+		"UIChangePath": "",
+		"UIPointPath": "GrabSkill/Content/Branch03/1/Chapter30OWSkillCircular",
+		"UILinePath": [
+			"GrabSkill/Line/BranchLine03/Active/02"
+		],
+		"TalentName": {
+			"hash": -1083583004
+		},
+		"TalentDesc": {
+			"hash": 0
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_Weapon_18",
+		"CGID": [],
+		"UnlockConditionList": "",
+		"DataImpl": {},
+		"TalentID": 28
+	},
+	{
+		"MapID": 1001,
+		"TalentType": 1,
+		"IsDefaultActivate": 0,
+		"AutoActivate": 0,
+		"UniqueTag": 0,
+		"MaxLevel": 4,
+		"RelateTalentIDList": [],
+		"UIChangePath": "",
+		"UIPointPath": "GrabSkill/Content/Branch03/2/Chapter30OWSkillCircular",
+		"UILinePath": [
+			"GrabSkill/Line/BranchLine03/Active/03"
+		],
+		"TalentName": {
+			"hash": -1083583003
+		},
+		"TalentDesc": {
+			"hash": 0
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Rita_Weapon_06",
+		"CGID": [],
+		"UnlockConditionList": "",
+		"DataImpl": {},
+		"TalentID": 29
+	},
+	{
+		"MapID": 1001,
+		"TalentType": 1,
+		"IsDefaultActivate": 0,
+		"AutoActivate": 0,
+		"UniqueTag": 0,
+		"MaxLevel": 4,
+		"RelateTalentIDList": [],
+		"UIChangePath": "",
+		"UIPointPath": "GrabSkill/Content/Branch03/3/Chapter30OWSkillCircular",
+		"UILinePath": [
+			"GrabSkill/Line/BranchLine03/Active/04"
+		],
+		"TalentName": {
+			"hash": -1083582981
+		},
+		"TalentDesc": {
+			"hash": 0
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Theresa_Weapon_19",
+		"CGID": [],
+		"UnlockConditionList": "",
+		"DataImpl": {},
+		"TalentID": 30
+	},
+	{
+		"MapID": 1001,
+		"TalentType": 2,
+		"IsDefaultActivate": 0,
+		"AutoActivate": 101,
+		"UniqueTag": 3,
+		"MaxLevel": 99,
+		"RelateTalentIDList": [
+			3,
+			4,
+			5
+		],
+		"UIChangePath": "Right/SkillSmall01/Chapter30OWSkillSquare",
+		"UIPointPath": "UniqueSkill/Content/Branch02/0/Chapter30OWSkillSquare",
+		"UILinePath": [
+			"UniqueSkill/Line/BranchLine02/Active/01"
+		],
+		"TalentName": {
+			"hash": 768664084
+		},
+		"TalentDesc": {
+			"hash": -54594790
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_MK2_Branch_01",
+		"CGID": [
+			44873
+		],
+		"UnlockConditionList": "",
+		"DataImpl": {},
+		"TalentID": 101
+	},
+	{
+		"MapID": 1001,
+		"TalentType": 2,
+		"IsDefaultActivate": 0,
+		"AutoActivate": 0,
+		"UniqueTag": 1,
+		"MaxLevel": 99,
+		"RelateTalentIDList": [
+			7,
+			8,
+			25
+		],
+		"UIChangePath": "Left/SkillSmall01/Chapter30OWSkillSquare",
+		"UIPointPath": "NormalAttackSkill/Content/Branch03/0/Chapter30OWSkillSquare",
+		"UILinePath": [
+			"NormalAttackSkill/Line/BranchLine03/Active/01"
+		],
+		"TalentName": {
+			"hash": 768664085
+		},
+		"TalentDesc": {
+			"hash": -54594789
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_MK2_Branch_02",
+		"CGID": [
+			44874
+		],
+		"UnlockConditionList": "",
+		"DataImpl": {},
+		"TalentID": 102
+	},
+	{
+		"MapID": 1001,
+		"TalentType": 2,
+		"IsDefaultActivate": 0,
+		"AutoActivate": 0,
+		"UniqueTag": 1,
+		"MaxLevel": 99,
+		"RelateTalentIDList": [
+			9,
+			10,
+			26
+		],
+		"UIChangePath": "Left/SkillSmall02/Chapter30OWSkillSquare",
+		"UIPointPath": "NormalAttackSkill/Content/Branch02/0/Chapter30OWSkillSquare",
+		"UILinePath": [
+			"NormalAttackSkill/Line/BranchLine02/Active/01"
+		],
+		"TalentName": {
+			"hash": 768664086
+		},
+		"TalentDesc": {
+			"hash": -54594788
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_MK2_Branch_03",
+		"CGID": [
+			44875
+		],
+		"UnlockConditionList": "",
+		"DataImpl": {},
+		"TalentID": 103
+	},
+	{
+		"MapID": 1001,
+		"TalentType": 2,
+		"IsDefaultActivate": 0,
+		"AutoActivate": 0,
+		"UniqueTag": 1,
+		"MaxLevel": 99,
+		"RelateTalentIDList": [
+			11,
+			12,
+			27
+		],
+		"UIChangePath": "Left/SkillSmall03/Chapter30OWSkillSquare",
+		"UIPointPath": "NormalAttackSkill/Content/Branch01/0/Chapter30OWSkillSquare",
+		"UILinePath": [
+			"NormalAttackSkill/Line/BranchLine01/Active/01"
+		],
+		"TalentName": {
+			"hash": 768664087
+		},
+		"TalentDesc": {
+			"hash": -54594787
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_MK2_Branch_04",
+		"CGID": [
+			44876
+		],
+		"UnlockConditionList": "",
+		"DataImpl": {},
+		"TalentID": 104
+	},
+	{
+		"MapID": 1001,
+		"TalentType": 2,
+		"IsDefaultActivate": 0,
+		"AutoActivate": 0,
+		"UniqueTag": 2,
+		"MaxLevel": 99,
+		"RelateTalentIDList": [
+			14,
+			15,
+			16
+		],
+		"UIChangePath": "Middle/SkillSmall01/Chapter30OWSkillSquare",
+		"UIPointPath": "GrabSkill/Content/Branch01/0/Chapter30OWSkillSquare",
+		"UILinePath": [
+			"GrabSkill/Line/BranchLine01/Active/01"
+		],
+		"TalentName": {
+			"hash": 768664088
+		},
+		"TalentDesc": {
+			"hash": -54594786
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_MK2_Branch_05",
+		"CGID": [
+			44877
+		],
+		"UnlockConditionList": "",
+		"DataImpl": {},
+		"TalentID": 105
+	},
+	{
+		"MapID": 1001,
+		"TalentType": 2,
+		"IsDefaultActivate": 0,
+		"AutoActivate": 0,
+		"UniqueTag": 2,
+		"MaxLevel": 99,
+		"RelateTalentIDList": [
+			17,
+			18,
+			19
+		],
+		"UIChangePath": "Middle/SkillSmall02/Chapter30OWSkillSquare",
+		"UIPointPath": "GrabSkill/Content/Branch02/0/Chapter30OWSkillSquare",
+		"UILinePath": [
+			"GrabSkill/Line/BranchLine02/Active/01"
+		],
+		"TalentName": {
+			"hash": 768664089
+		},
+		"TalentDesc": {
+			"hash": -54594785
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_MK2_Branch_06",
+		"CGID": [
+			44879
+		],
+		"UnlockConditionList": "",
+		"DataImpl": {},
+		"TalentID": 106
+	},
+	{
+		"MapID": 1001,
+		"TalentType": 2,
+		"IsDefaultActivate": 0,
+		"AutoActivate": 0,
+		"UniqueTag": 3,
+		"MaxLevel": 99,
+		"RelateTalentIDList": [
+			22,
+			23,
+			24
+		],
+		"UIChangePath": "Right/SkillSmall02/Chapter30OWSkillSquare",
+		"UIPointPath": "UniqueSkill/Content/Branch01/0/Chapter30OWSkillSquare",
+		"UILinePath": [
+			"UniqueSkill/Line/BranchLine01/Active/01"
+		],
+		"TalentName": {
+			"hash": 768664090
+		},
+		"TalentDesc": {
+			"hash": -54594784
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_MK2_Branch_07",
+		"CGID": [
+			44895
+		],
+		"UnlockConditionList": "",
+		"DataImpl": {},
+		"TalentID": 107
+	},
+	{
+		"MapID": 1001,
+		"TalentType": 2,
+		"IsDefaultActivate": 0,
+		"AutoActivate": 0,
+		"UniqueTag": 2,
+		"MaxLevel": 99,
+		"RelateTalentIDList": [
+			28,
+			29,
+			30
+		],
+		"UIChangePath": "Middle/SkillSmall03/Chapter30OWSkillSquare",
+		"UIPointPath": "GrabSkill/Content/Branch03/0/Chapter30OWSkillSquare",
+		"UILinePath": [
+			"GrabSkill/Line/BranchLine03/Active/01"
+		],
+		"TalentName": {
+			"hash": 768664091
+		},
+		"TalentDesc": {
+			"hash": -54594783
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_MK2_Branch_08",
+		"CGID": [
+			44896
+		],
+		"UnlockConditionList": "",
+		"DataImpl": {},
+		"TalentID": 108
+	},
+	{
+		"MapID": 1001,
+		"TalentType": 3,
+		"IsDefaultActivate": 1,
+		"AutoActivate": 0,
+		"UniqueTag": 0,
+		"MaxLevel": 10,
+		"RelateTalentIDList": [],
+		"UIChangePath": "",
+		"UIPointPath": "Skill04/1/Chapter30OWSkillCircular",
+		"UILinePath": [],
+		"TalentName": {
+			"hash": 768665045
+		},
+		"TalentDesc": {
+			"hash": -54593829
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_MK2_Branch_09",
+		"CGID": [],
+		"UnlockConditionList": "",
+		"DataImpl": {},
+		"TalentID": 201
+	},
+	{
+		"MapID": 1001,
+		"TalentType": 3,
+		"IsDefaultActivate": 1,
+		"AutoActivate": 0,
+		"UniqueTag": 0,
+		"MaxLevel": 5,
+		"RelateTalentIDList": [],
+		"UIChangePath": "",
+		"UIPointPath": "Skill01/1/Chapter30OWSkillCircular",
+		"UILinePath": [],
+		"TalentName": {
+			"hash": 768665046
+		},
+		"TalentDesc": {
+			"hash": -54593828
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_MK2_Branch_10",
+		"CGID": [],
+		"UnlockConditionList": "",
+		"DataImpl": {},
+		"TalentID": 202
+	},
+	{
+		"MapID": 1001,
+		"TalentType": 3,
+		"IsDefaultActivate": 1,
+		"AutoActivate": 0,
+		"UniqueTag": 0,
+		"MaxLevel": 5,
+		"RelateTalentIDList": [],
+		"UIChangePath": "",
+		"UIPointPath": "Skill03/1/Chapter30OWSkillCircular",
+		"UILinePath": [],
+		"TalentName": {
+			"hash": 768665047
+		},
+		"TalentDesc": {
+			"hash": -54593827
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/ChapterMoon_PushTalent",
+		"CGID": [],
+		"UnlockConditionList": "",
+		"DataImpl": {},
+		"TalentID": 203
+	},
+	{
+		"MapID": 1001,
+		"TalentType": 3,
+		"IsDefaultActivate": 1,
+		"AutoActivate": 0,
+		"UniqueTag": 0,
+		"MaxLevel": 5,
+		"RelateTalentIDList": [],
+		"UIChangePath": "",
+		"UIPointPath": "Skill02/1/Chapter30OWSkillCircular",
+		"UILinePath": [],
+		"TalentName": {
+			"hash": 768665048
+		},
+		"TalentDesc": {
+			"hash": -54593826
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/ChapterMoon_Fast_QTETalent",
+		"CGID": [
+			44880
+		],
+		"UnlockConditionList": "",
+		"DataImpl": {},
+		"TalentID": 204
+	},
+	{
+		"MapID": 1001,
+		"TalentType": 3,
+		"IsDefaultActivate": 1,
+		"AutoActivate": 0,
+		"UniqueTag": 0,
+		"MaxLevel": 5,
+		"RelateTalentIDList": [],
+		"UIChangePath": "",
+		"UIPointPath": "Skill05/1/Chapter30OWSkillCircular",
+		"UILinePath": [],
+		"TalentName": {
+			"hash": 768665049
+		},
+		"TalentDesc": {
+			"hash": -54593825
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_MK2_Branch_16",
+		"CGID": [],
+		"UnlockConditionList": "5|450201",
+		"DataImpl": {},
+		"TalentID": 205
+	},
+	{
+		"MapID": 1001,
+		"TalentType": 3,
+		"IsDefaultActivate": 1,
+		"AutoActivate": 0,
+		"UniqueTag": 0,
+		"MaxLevel": 5,
+		"RelateTalentIDList": [],
+		"UIChangePath": "",
+		"UIPointPath": "Skill06/1/Chapter30OWSkillCircular",
+		"UILinePath": [],
+		"TalentName": {
+			"hash": 768665050
+		},
+		"TalentDesc": {
+			"hash": -54593824
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_MK2_Branch_17",
+		"CGID": [],
+		"UnlockConditionList": "5|450201",
+		"DataImpl": {},
+		"TalentID": 206
+	}
+]

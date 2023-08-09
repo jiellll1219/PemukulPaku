@@ -1,0 +1,98 @@
+[
+	{
+		"MapID": 501,
+		"VAGroup": 108,
+		"RestrictAvatarID": 314,
+		"BanSelfAvatarIDList": [
+			214,
+			502
+		],
+		"UIManager": "UI/3D/AvatarActivityBronyaC8/AvatarActivityUIManagerBronyaC8",
+		"TutorialActivityID": 40000221,
+		"ChallengeActivityID": 40000122,
+		"QuestDailyLimit": 2,
+		"QuestRefreshLimit": 5,
+		"QuestCostStamina": 12,
+		"QuestTotalLimit": 6,
+		"LevelMaterialID": 116506,
+		"CurrencyLimit": [
+			{
+				"CurrencyID": 116510,
+				"Max": 7100
+			}
+		],
+		"GenActivityRewardShowID": 45,
+		"CultivateImage": "SpriteOutput/AvatarActivityBronyaC8/EnhancementAvatar",
+		"ShowMaterialList": [],
+		"ShopLink": [
+			304
+		],
+		"WebLink": "",
+		"GachaLink": "<type=\"7|6\" text=\"\"/>",
+		"GachaID": 1700001,
+		"ExploreAreaID": 5010,
+		"ImageInfo": [
+			{
+				"Content": "Tutorial_SPBronyaOWEvent_1001",
+				"Sprite": "event/Immediately/Tutorial/5.8_2021spBronieTutorial_01",
+				"Title": "Tutorial_SPBronyaOWEvent_Title_1001"
+			},
+			{
+				"Content": "Tutorial_SPBronyaOWEvent_1002",
+				"Sprite": "event/Immediately/Tutorial/5.8_2021spBronieTutorial_02",
+				"Title": "Tutorial_SPBronyaOWEvent_Title_1002"
+			},
+			{
+				"Content": "Tutorial_SPBronyaOWEvent_1003",
+				"Sprite": "event/Immediately/Tutorial/5.8_2021spBronieTutorial_03",
+				"Title": "Tutorial_SPBronyaOWEvent_Title_1003"
+			},
+			{
+				"Content": "Tutorial_SPBronyaOWEvent_1004",
+				"Sprite": "event/Immediately/Tutorial/5.8_2021spBronieTutorial_04",
+				"Title": "Tutorial_SPBronyaOWEvent_Title_1004"
+			},
+			{
+				"Content": "Tutorial_SPBronyaOWEvent_1005",
+				"Sprite": "event/Immediately/Tutorial/5.8_2021spBronieTutorial_05",
+				"Title": "Tutorial_SPBronyaOWEvent_Title_1005"
+			},
+			{
+				"Content": "Tutorial_SPBronyaOWEvent_1006",
+				"Sprite": "event/Immediately/Tutorial/5.8_2021spBronieTutorial_06",
+				"Title": "Tutorial_SPBronyaOWEvent_Title_1006"
+			},
+			{
+				"Content": "Tutorial_SPBronyaOWEvent_1007",
+				"Sprite": "event/Immediately/Tutorial/5.8_2021spBronieTutorial_07",
+				"Title": "Tutorial_SPBronyaOWEvent_Title_1007"
+			},
+			{
+				"Content": "Tutorial_SPBronyaOWEvent_1008",
+				"Sprite": "event/Immediately/Tutorial/5.8_2021spBronieTutorial_08",
+				"Title": "Tutorial_SPBronyaOWEvent_Title_1008"
+			},
+			{
+				"Content": "Tutorial_SPBronyaOWEvent_1009",
+				"Sprite": "event/Immediately/Tutorial/5.8_2021spBronieTutorial_09",
+				"Title": "Tutorial_SPBronyaOWEvent_Title_1009"
+			},
+			{
+				"Content": "Tutorial_SPBronyaOWEvent_1010",
+				"Sprite": "event/Immediately/Tutorial/5.8_2021spBronieTutorial_10",
+				"Title": "Tutorial_SPBronyaOWEvent_Title_1010"
+			}
+		],
+		"JsonCfg": "Data/OWAvatarActivity/OWAvatarActivity_Bronya_C8_CH",
+		"PerformID": 39,
+		"MissionList": [
+			97457,
+			97458,
+			97459,
+			97460,
+			97461
+		],
+		"DataImpl": {},
+		"ActivityID": 1000
+	}
+]

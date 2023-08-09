@@ -1,0 +1,1760 @@
+[
+	{
+		"UnlockSlotIndex": [
+			0,
+			1,
+			2
+		],
+		"SpecialSlotLimitHeroList": [
+			1
+		],
+		"SpecialCardSlotUpgrade": 1,
+		"LevelUpCostMaterialList": "123101:1",
+		"ActiveSkillName": "ChapterOWHeroActiveSkillName_001",
+		"ActiveSkillNextLevelDesc": "Next_ChapterOWHeroActiveSkillDesc_001_1",
+		"ActiveSkillDesc": "ChapterOWHeroActiveSkillDesc_001_1",
+		"AttributeDisplayDesc": "ChapterOWHeroAttributeSkillDesc_001_1",
+		"BuildingSkillDesc": "ChapterOWHeroBuildingSkillDesc_001_1",
+		"BuildingSkillNextLevelDesc": "Next_ChapterOWHeroBuildingSkillDesc_001_1",
+		"ActiveSkill": "Stage29_Su_Skill",
+		"ActiveSkillParam": [
+			250000,
+			300,
+			90,
+			0
+		],
+		"ActiveSkillCD": 90,
+		"AttributeSkill": "Stage29_OWCard_Properties_Delta",
+		"AttributeSkillParam": [
+			300,
+			100,
+			0,
+			0
+		],
+		"BattlePoint": 300,
+		"DataImpl": {},
+		"HeroID": 1,
+		"Level": 1
+	},
+	{
+		"UnlockSlotIndex": [
+			0,
+			1,
+			2,
+			3
+		],
+		"SpecialSlotLimitHeroList": [
+			1
+		],
+		"SpecialCardSlotUpgrade": 1,
+		"LevelUpCostMaterialList": "123006:1,123002:500",
+		"ActiveSkillName": "ChapterOWHeroActiveSkillName_001",
+		"ActiveSkillNextLevelDesc": "Next_ChapterOWHeroActiveSkillDesc_001_2",
+		"ActiveSkillDesc": "ChapterOWHeroActiveSkillDesc_001_2",
+		"AttributeDisplayDesc": "ChapterOWHeroAttributeSkillDesc_001_2",
+		"BuildingSkillDesc": "ChapterOWHeroBuildingSkillDesc_001_2",
+		"BuildingSkillNextLevelDesc": "Next_ChapterOWHeroBuildingSkillDesc_001_2",
+		"ActiveSkill": "Stage29_Su_Skill",
+		"ActiveSkillParam": [
+			350000,
+			400,
+			90,
+			0
+		],
+		"ActiveSkillCD": 90,
+		"AttributeSkill": "Stage29_OWCard_Properties_Delta",
+		"AttributeSkillParam": [
+			500,
+			200,
+			0,
+			0
+		],
+		"BattlePoint": 450,
+		"DataImpl": {},
+		"HeroID": 1,
+		"Level": 2
+	},
+	{
+		"UnlockSlotIndex": [
+			0,
+			1,
+			2,
+			3
+		],
+		"SpecialSlotLimitHeroList": [
+			1
+		],
+		"SpecialCardSlotUpgrade": 1,
+		"LevelUpCostMaterialList": "123006:1,123002:1000",
+		"ActiveSkillName": "ChapterOWHeroActiveSkillName_001",
+		"ActiveSkillNextLevelDesc": "Next_ChapterOWHeroActiveSkillDesc_001_3",
+		"ActiveSkillDesc": "ChapterOWHeroActiveSkillDesc_001_3",
+		"AttributeDisplayDesc": "ChapterOWHeroAttributeSkillDesc_001_3",
+		"BuildingSkillDesc": "ChapterOWHeroBuildingSkillDesc_001_3",
+		"BuildingSkillNextLevelDesc": "Next_ChapterOWHeroBuildingSkillDesc_001_3",
+		"ActiveSkill": "Stage29_Su_Skill",
+		"ActiveSkillParam": [
+			450000,
+			500,
+			60,
+			0
+		],
+		"ActiveSkillCD": 60,
+		"AttributeSkill": "Stage29_OWCard_Properties_Delta",
+		"AttributeSkillParam": [
+			700,
+			300,
+			0,
+			0
+		],
+		"BattlePoint": 600,
+		"DataImpl": {},
+		"HeroID": 1,
+		"Level": 3
+	},
+	{
+		"UnlockSlotIndex": [
+			0,
+			1,
+			2,
+			3,
+			4
+		],
+		"SpecialSlotLimitHeroList": [
+			1
+		],
+		"SpecialCardSlotUpgrade": 1,
+		"LevelUpCostMaterialList": "123006:1,123002:1500",
+		"ActiveSkillName": "ChapterOWHeroActiveSkillName_001",
+		"ActiveSkillNextLevelDesc": "Next_ChapterOWHeroActiveSkillDesc_001_4",
+		"ActiveSkillDesc": "ChapterOWHeroActiveSkillDesc_001_4",
+		"AttributeDisplayDesc": "ChapterOWHeroAttributeSkillDesc_001_4",
+		"BuildingSkillDesc": "ChapterOWHeroBuildingSkillDesc_001_4",
+		"BuildingSkillNextLevelDesc": "Next_ChapterOWHeroBuildingSkillDesc_001_4",
+		"ActiveSkill": "Stage29_Su_Skill",
+		"ActiveSkillParam": [
+			550000,
+			600,
+			60,
+			0.5
+		],
+		"ActiveSkillCD": 60,
+		"AttributeSkill": "Stage29_OWCard_Properties_Delta",
+		"AttributeSkillParam": [
+			900,
+			400,
+			0,
+			0
+		],
+		"BattlePoint": 750,
+		"DataImpl": {},
+		"HeroID": 1,
+		"Level": 4
+	},
+	{
+		"UnlockSlotIndex": [
+			0,
+			1,
+			2,
+			3,
+			4
+		],
+		"SpecialSlotLimitHeroList": [
+			1
+		],
+		"SpecialCardSlotUpgrade": 2,
+		"LevelUpCostMaterialList": "123006:1,123002:2000",
+		"ActiveSkillName": "ChapterOWHeroActiveSkillName_001",
+		"ActiveSkillNextLevelDesc": "Next_ChapterOWHeroActiveSkillDesc_001_5",
+		"ActiveSkillDesc": "ChapterOWHeroActiveSkillDesc_001_5",
+		"AttributeDisplayDesc": "ChapterOWHeroAttributeSkillDesc_001_5",
+		"BuildingSkillDesc": "ChapterOWHeroBuildingSkillDesc_001_5",
+		"BuildingSkillNextLevelDesc": "Next_ChapterOWHeroBuildingSkillDesc_001_5",
+		"ActiveSkill": "Stage29_Su_Skill",
+		"ActiveSkillParam": [
+			650000,
+			650,
+			60,
+			0.5
+		],
+		"ActiveSkillCD": 60,
+		"AttributeSkill": "Stage29_OWCard_Properties_Delta",
+		"AttributeSkillParam": [
+			1100,
+			500,
+			0,
+			0
+		],
+		"BattlePoint": 900,
+		"DataImpl": {},
+		"HeroID": 1,
+		"Level": 5
+	},
+	{
+		"UnlockSlotIndex": [
+			0,
+			1,
+			2,
+			3,
+			4,
+			5
+		],
+		"SpecialSlotLimitHeroList": [
+			1
+		],
+		"SpecialCardSlotUpgrade": 2,
+		"LevelUpCostMaterialList": "123006:1,123002:2500",
+		"ActiveSkillName": "ChapterOWHeroActiveSkillName_001",
+		"ActiveSkillNextLevelDesc": "Next_ChapterOWHeroActiveSkillDesc_001_6",
+		"ActiveSkillDesc": "ChapterOWHeroActiveSkillDesc_001_6",
+		"AttributeDisplayDesc": "ChapterOWHeroAttributeSkillDesc_001_6",
+		"BuildingSkillDesc": "ChapterOWHeroBuildingSkillDesc_001_6",
+		"BuildingSkillNextLevelDesc": "Next_ChapterOWHeroBuildingSkillDesc_001_6",
+		"ActiveSkill": "Stage29_Su_Skill",
+		"ActiveSkillParam": [
+			750000,
+			700,
+			60,
+			0.5
+		],
+		"ActiveSkillCD": 60,
+		"AttributeSkill": "Stage29_OWCard_Properties_Delta",
+		"AttributeSkillParam": [
+			1300,
+			600,
+			0,
+			0
+		],
+		"BattlePoint": 1050,
+		"DataImpl": {},
+		"HeroID": 1,
+		"Level": 6
+	},
+	{
+		"UnlockSlotIndex": [
+			0,
+			1,
+			2,
+			3,
+			4,
+			5,
+			6
+		],
+		"SpecialSlotLimitHeroList": [
+			1
+		],
+		"SpecialCardSlotUpgrade": 2,
+		"LevelUpCostMaterialList": "123006:1,123002:3000",
+		"ActiveSkillName": "ChapterOWHeroActiveSkillName_001",
+		"ActiveSkillNextLevelDesc": "Next_ChapterOWHeroActiveSkillDesc_001_7",
+		"ActiveSkillDesc": "ChapterOWHeroActiveSkillDesc_001_7",
+		"AttributeDisplayDesc": "ChapterOWHeroAttributeSkillDesc_001_7",
+		"BuildingSkillDesc": "ChapterOWHeroBuildingSkillDesc_001_7",
+		"BuildingSkillNextLevelDesc": "Next_ChapterOWHeroBuildingSkillDesc_001_7",
+		"ActiveSkill": "Stage29_Su_Skill",
+		"ActiveSkillParam": [
+			800000,
+			720,
+			60,
+			0.5
+		],
+		"ActiveSkillCD": 60,
+		"AttributeSkill": "Stage29_OWCard_Properties_Delta",
+		"AttributeSkillParam": [
+			1500,
+			700,
+			0,
+			0
+		],
+		"BattlePoint": 1100,
+		"DataImpl": {},
+		"HeroID": 1,
+		"Level": 7
+	},
+	{
+		"UnlockSlotIndex": [
+			0,
+			1,
+			2
+		],
+		"SpecialSlotLimitHeroList": [
+			2
+		],
+		"SpecialCardSlotUpgrade": 1,
+		"LevelUpCostMaterialList": "123102:1",
+		"ActiveSkillName": "ChapterOWHeroActiveSkillName_002",
+		"ActiveSkillNextLevelDesc": "Next_ChapterOWHeroActiveSkillDesc_002_1",
+		"ActiveSkillDesc": "ChapterOWHeroActiveSkillDesc_002_1",
+		"AttributeDisplayDesc": "ChapterOWHeroAttributeSkillDesc_002_1",
+		"BuildingSkillDesc": "ChapterOWHeroBuildingSkillDesc_002_1",
+		"BuildingSkillNextLevelDesc": "Next_ChapterOWHeroBuildingSkillDesc_002_1",
+		"ActiveSkill": "Stage29_Kevin_ActiveSkill",
+		"ActiveSkillParam": [
+			70,
+			10,
+			1500,
+			300000,
+			8,
+			100,
+			2,
+			20
+		],
+		"ActiveSkillCD": 70,
+		"AttributeSkill": "Stage29_OWCard_Properties_Delta",
+		"AttributeSkillParam": [
+			300,
+			100,
+			0,
+			0
+		],
+		"BattlePoint": 300,
+		"DataImpl": {},
+		"HeroID": 2,
+		"Level": 1
+	},
+	{
+		"UnlockSlotIndex": [
+			0,
+			1,
+			2,
+			3
+		],
+		"SpecialSlotLimitHeroList": [
+			2
+		],
+		"SpecialCardSlotUpgrade": 1,
+		"LevelUpCostMaterialList": "123007:1,123002:500",
+		"ActiveSkillName": "ChapterOWHeroActiveSkillName_002",
+		"ActiveSkillNextLevelDesc": "Next_ChapterOWHeroActiveSkillDesc_002_2",
+		"ActiveSkillDesc": "ChapterOWHeroActiveSkillDesc_002_2",
+		"AttributeDisplayDesc": "ChapterOWHeroAttributeSkillDesc_002_2",
+		"BuildingSkillDesc": "ChapterOWHeroBuildingSkillDesc_002_2",
+		"BuildingSkillNextLevelDesc": "Next_ChapterOWHeroBuildingSkillDesc_002_2",
+		"ActiveSkill": "Stage29_Kevin_ActiveSkill",
+		"ActiveSkillParam": [
+			70,
+			10,
+			1800,
+			400000,
+			8,
+			100,
+			2,
+			20
+		],
+		"ActiveSkillCD": 70,
+		"AttributeSkill": "Stage29_OWCard_Properties_Delta",
+		"AttributeSkillParam": [
+			500,
+			200,
+			0,
+			0
+		],
+		"BattlePoint": 450,
+		"DataImpl": {},
+		"HeroID": 2,
+		"Level": 2
+	},
+	{
+		"UnlockSlotIndex": [
+			0,
+			1,
+			2,
+			3
+		],
+		"SpecialSlotLimitHeroList": [
+			2
+		],
+		"SpecialCardSlotUpgrade": 1,
+		"LevelUpCostMaterialList": "123007:1,123002:1000",
+		"ActiveSkillName": "ChapterOWHeroActiveSkillName_002",
+		"ActiveSkillNextLevelDesc": "Next_ChapterOWHeroActiveSkillDesc_002_3",
+		"ActiveSkillDesc": "ChapterOWHeroActiveSkillDesc_002_3",
+		"AttributeDisplayDesc": "ChapterOWHeroAttributeSkillDesc_002_3",
+		"BuildingSkillDesc": "ChapterOWHeroBuildingSkillDesc_002_3",
+		"BuildingSkillNextLevelDesc": "Next_ChapterOWHeroBuildingSkillDesc_002_3",
+		"ActiveSkill": "Stage29_Kevin_ActiveSkill",
+		"ActiveSkillParam": [
+			70,
+			10,
+			2000,
+			500000,
+			8,
+			100,
+			2,
+			20
+		],
+		"ActiveSkillCD": 70,
+		"AttributeSkill": "Stage29_OWCard_Properties_Delta",
+		"AttributeSkillParam": [
+			700,
+			300,
+			0,
+			0
+		],
+		"BattlePoint": 600,
+		"DataImpl": {},
+		"HeroID": 2,
+		"Level": 3
+	},
+	{
+		"UnlockSlotIndex": [
+			0,
+			1,
+			2,
+			3,
+			4
+		],
+		"SpecialSlotLimitHeroList": [
+			2
+		],
+		"SpecialCardSlotUpgrade": 1,
+		"LevelUpCostMaterialList": "123007:1,123002:1500",
+		"ActiveSkillName": "ChapterOWHeroActiveSkillName_002",
+		"ActiveSkillNextLevelDesc": "Next_ChapterOWHeroActiveSkillDesc_002_4",
+		"ActiveSkillDesc": "ChapterOWHeroActiveSkillDesc_002_4",
+		"AttributeDisplayDesc": "ChapterOWHeroAttributeSkillDesc_002_4",
+		"BuildingSkillDesc": "ChapterOWHeroBuildingSkillDesc_002_4",
+		"BuildingSkillNextLevelDesc": "Next_ChapterOWHeroBuildingSkillDesc_002_4",
+		"ActiveSkill": "Stage29_Kevin_ActiveSkill_UP",
+		"ActiveSkillParam": [
+			50,
+			10,
+			2200,
+			18000,
+			8,
+			120,
+			2,
+			20
+		],
+		"ActiveSkillCD": 50,
+		"AttributeSkill": "Stage29_OWCard_Properties_Delta",
+		"AttributeSkillParam": [
+			900,
+			400,
+			0,
+			0
+		],
+		"BattlePoint": 750,
+		"DataImpl": {},
+		"HeroID": 2,
+		"Level": 4
+	},
+	{
+		"UnlockSlotIndex": [
+			0,
+			1,
+			2,
+			3,
+			4
+		],
+		"SpecialSlotLimitHeroList": [
+			2
+		],
+		"SpecialCardSlotUpgrade": 2,
+		"LevelUpCostMaterialList": "123007:1,123002:2000",
+		"ActiveSkillName": "ChapterOWHeroActiveSkillName_002",
+		"ActiveSkillNextLevelDesc": "Next_ChapterOWHeroActiveSkillDesc_002_5",
+		"ActiveSkillDesc": "ChapterOWHeroActiveSkillDesc_002_5",
+		"AttributeDisplayDesc": "ChapterOWHeroAttributeSkillDesc_002_5",
+		"BuildingSkillDesc": "ChapterOWHeroBuildingSkillDesc_002_5",
+		"BuildingSkillNextLevelDesc": "Next_ChapterOWHeroBuildingSkillDesc_002_5",
+		"ActiveSkill": "Stage29_Kevin_ActiveSkill_UP",
+		"ActiveSkillParam": [
+			50,
+			10,
+			2400,
+			21000,
+			8,
+			120,
+			2,
+			20
+		],
+		"ActiveSkillCD": 50,
+		"AttributeSkill": "Stage29_OWCard_Properties_Delta",
+		"AttributeSkillParam": [
+			1100,
+			500,
+			0,
+			0
+		],
+		"BattlePoint": 900,
+		"DataImpl": {},
+		"HeroID": 2,
+		"Level": 5
+	},
+	{
+		"UnlockSlotIndex": [
+			0,
+			1,
+			2,
+			3,
+			4,
+			5
+		],
+		"SpecialSlotLimitHeroList": [
+			2
+		],
+		"SpecialCardSlotUpgrade": 2,
+		"LevelUpCostMaterialList": "123007:1,123002:2500",
+		"ActiveSkillName": "ChapterOWHeroActiveSkillName_002",
+		"ActiveSkillNextLevelDesc": "Next_ChapterOWHeroActiveSkillDesc_002_6",
+		"ActiveSkillDesc": "ChapterOWHeroActiveSkillDesc_002_6",
+		"AttributeDisplayDesc": "ChapterOWHeroAttributeSkillDesc_002_6",
+		"BuildingSkillDesc": "ChapterOWHeroBuildingSkillDesc_002_6",
+		"BuildingSkillNextLevelDesc": "Next_ChapterOWHeroBuildingSkillDesc_002_6",
+		"ActiveSkill": "Stage29_Kevin_ActiveSkill_UP",
+		"ActiveSkillParam": [
+			50,
+			10,
+			2500,
+			22500,
+			8,
+			120,
+			2,
+			20
+		],
+		"ActiveSkillCD": 50,
+		"AttributeSkill": "Stage29_OWCard_Properties_Delta",
+		"AttributeSkillParam": [
+			1300,
+			600,
+			0,
+			0
+		],
+		"BattlePoint": 1050,
+		"DataImpl": {},
+		"HeroID": 2,
+		"Level": 6
+	},
+	{
+		"UnlockSlotIndex": [
+			0,
+			1,
+			2,
+			3,
+			4,
+			5,
+			6
+		],
+		"SpecialSlotLimitHeroList": [
+			2
+		],
+		"SpecialCardSlotUpgrade": 2,
+		"LevelUpCostMaterialList": "123007:1,123002:3000",
+		"ActiveSkillName": "ChapterOWHeroActiveSkillName_002",
+		"ActiveSkillNextLevelDesc": "Next_ChapterOWHeroActiveSkillDesc_002_7",
+		"ActiveSkillDesc": "ChapterOWHeroActiveSkillDesc_002_7",
+		"AttributeDisplayDesc": "ChapterOWHeroAttributeSkillDesc_002_7",
+		"BuildingSkillDesc": "ChapterOWHeroBuildingSkillDesc_002_7",
+		"BuildingSkillNextLevelDesc": "Next_ChapterOWHeroBuildingSkillDesc_002_7",
+		"ActiveSkill": "Stage29_Kevin_ActiveSkill_UP",
+		"ActiveSkillParam": [
+			50,
+			10,
+			2600,
+			24000,
+			8,
+			120,
+			2,
+			20
+		],
+		"ActiveSkillCD": 50,
+		"AttributeSkill": "Stage29_OWCard_Properties_Delta",
+		"AttributeSkillParam": [
+			1500,
+			700,
+			0,
+			0
+		],
+		"BattlePoint": 1100,
+		"DataImpl": {},
+		"HeroID": 2,
+		"Level": 7
+	},
+	{
+		"UnlockSlotIndex": [
+			0,
+			1,
+			2
+		],
+		"SpecialSlotLimitHeroList": [
+			3
+		],
+		"SpecialCardSlotUpgrade": 1,
+		"LevelUpCostMaterialList": "123103:1",
+		"ActiveSkillName": "ChapterOWHeroActiveSkillName_003",
+		"ActiveSkillNextLevelDesc": "Next_ChapterOWHeroActiveSkillDesc_003_1",
+		"ActiveSkillDesc": "ChapterOWHeroActiveSkillDesc_003_1",
+		"AttributeDisplayDesc": "ChapterOWHeroAttributeSkillDesc_003_1",
+		"BuildingSkillDesc": "ChapterOWHeroBuildingSkillDesc_003_1",
+		"BuildingSkillNextLevelDesc": "Next_ChapterOWHeroBuildingSkillDesc_003_1",
+		"ActiveSkill": "Stage29_Aponia_ActiveSkill",
+		"ActiveSkillParam": [
+			60,
+			100000,
+			300000,
+			0
+		],
+		"ActiveSkillCD": 60,
+		"AttributeSkill": "Stage29_OWCard_Properties_Delta",
+		"AttributeSkillParam": [
+			300,
+			100,
+			0,
+			0
+		],
+		"BattlePoint": 300,
+		"DataImpl": {},
+		"HeroID": 3,
+		"Level": 1
+	},
+	{
+		"UnlockSlotIndex": [
+			0,
+			1,
+			2,
+			3
+		],
+		"SpecialSlotLimitHeroList": [
+			3
+		],
+		"SpecialCardSlotUpgrade": 1,
+		"LevelUpCostMaterialList": "123008:1,123002:500",
+		"ActiveSkillName": "ChapterOWHeroActiveSkillName_003",
+		"ActiveSkillNextLevelDesc": "Next_ChapterOWHeroActiveSkillDesc_003_2",
+		"ActiveSkillDesc": "ChapterOWHeroActiveSkillDesc_003_2",
+		"AttributeDisplayDesc": "ChapterOWHeroAttributeSkillDesc_003_2",
+		"BuildingSkillDesc": "ChapterOWHeroBuildingSkillDesc_003_2",
+		"BuildingSkillNextLevelDesc": "Next_ChapterOWHeroBuildingSkillDesc_003_2",
+		"ActiveSkill": "Stage29_Aponia_ActiveSkill",
+		"ActiveSkillParam": [
+			60,
+			110000,
+			350000,
+			0
+		],
+		"ActiveSkillCD": 60,
+		"AttributeSkill": "Stage29_OWCard_Properties_Delta",
+		"AttributeSkillParam": [
+			500,
+			200,
+			0,
+			0
+		],
+		"BattlePoint": 450,
+		"DataImpl": {},
+		"HeroID": 3,
+		"Level": 2
+	},
+	{
+		"UnlockSlotIndex": [
+			0,
+			1,
+			2,
+			3
+		],
+		"SpecialSlotLimitHeroList": [
+			3
+		],
+		"SpecialCardSlotUpgrade": 1,
+		"LevelUpCostMaterialList": "123008:1,123002:1000",
+		"ActiveSkillName": "ChapterOWHeroActiveSkillName_003",
+		"ActiveSkillNextLevelDesc": "Next_ChapterOWHeroActiveSkillDesc_003_3",
+		"ActiveSkillDesc": "ChapterOWHeroActiveSkillDesc_003_3",
+		"AttributeDisplayDesc": "ChapterOWHeroAttributeSkillDesc_003_3",
+		"BuildingSkillDesc": "ChapterOWHeroBuildingSkillDesc_003_3",
+		"BuildingSkillNextLevelDesc": "Next_ChapterOWHeroBuildingSkillDesc_003_3",
+		"ActiveSkill": "Stage29_Aponia_ActiveSkill",
+		"ActiveSkillParam": [
+			60,
+			120000,
+			400000,
+			0
+		],
+		"ActiveSkillCD": 60,
+		"AttributeSkill": "Stage29_OWCard_Properties_Delta",
+		"AttributeSkillParam": [
+			700,
+			300,
+			0,
+			0
+		],
+		"BattlePoint": 600,
+		"DataImpl": {},
+		"HeroID": 3,
+		"Level": 3
+	},
+	{
+		"UnlockSlotIndex": [
+			0,
+			1,
+			2,
+			3,
+			4
+		],
+		"SpecialSlotLimitHeroList": [
+			3
+		],
+		"SpecialCardSlotUpgrade": 1,
+		"LevelUpCostMaterialList": "123008:1,123002:1500",
+		"ActiveSkillName": "ChapterOWHeroActiveSkillName_003",
+		"ActiveSkillNextLevelDesc": "Next_ChapterOWHeroActiveSkillDesc_003_4",
+		"ActiveSkillDesc": "ChapterOWHeroActiveSkillDesc_003_4",
+		"AttributeDisplayDesc": "ChapterOWHeroAttributeSkillDesc_003_4",
+		"BuildingSkillDesc": "ChapterOWHeroBuildingSkillDesc_003_4",
+		"BuildingSkillNextLevelDesc": "Next_ChapterOWHeroBuildingSkillDesc_003_4",
+		"ActiveSkill": "Stage29_Aponia_ActiveSkill",
+		"ActiveSkillParam": [
+			40,
+			130000,
+			450000,
+			0
+		],
+		"ActiveSkillCD": 60,
+		"AttributeSkill": "Stage29_OWCard_Properties_Delta",
+		"AttributeSkillParam": [
+			900,
+			400,
+			0,
+			0
+		],
+		"BattlePoint": 750,
+		"DataImpl": {},
+		"HeroID": 3,
+		"Level": 4
+	},
+	{
+		"UnlockSlotIndex": [
+			0,
+			1,
+			2,
+			3,
+			4
+		],
+		"SpecialSlotLimitHeroList": [
+			3
+		],
+		"SpecialCardSlotUpgrade": 2,
+		"LevelUpCostMaterialList": "123008:1,123002:2000",
+		"ActiveSkillName": "ChapterOWHeroActiveSkillName_003",
+		"ActiveSkillNextLevelDesc": "Next_ChapterOWHeroActiveSkillDesc_003_5",
+		"ActiveSkillDesc": "ChapterOWHeroActiveSkillDesc_003_5",
+		"AttributeDisplayDesc": "ChapterOWHeroAttributeSkillDesc_003_5",
+		"BuildingSkillDesc": "ChapterOWHeroBuildingSkillDesc_003_5",
+		"BuildingSkillNextLevelDesc": "Next_ChapterOWHeroBuildingSkillDesc_003_5",
+		"ActiveSkill": "Stage29_Aponia_ActiveSkill",
+		"ActiveSkillParam": [
+			40,
+			150000,
+			500000,
+			0
+		],
+		"ActiveSkillCD": 40,
+		"AttributeSkill": "Stage29_OWCard_Properties_Delta",
+		"AttributeSkillParam": [
+			1100,
+			500,
+			0,
+			0
+		],
+		"BattlePoint": 900,
+		"DataImpl": {},
+		"HeroID": 3,
+		"Level": 5
+	},
+	{
+		"UnlockSlotIndex": [
+			0,
+			1,
+			2,
+			3,
+			4,
+			5
+		],
+		"SpecialSlotLimitHeroList": [
+			3
+		],
+		"SpecialCardSlotUpgrade": 2,
+		"LevelUpCostMaterialList": "123008:1,123002:2500",
+		"ActiveSkillName": "ChapterOWHeroActiveSkillName_003",
+		"ActiveSkillNextLevelDesc": "Next_ChapterOWHeroActiveSkillDesc_003_6",
+		"ActiveSkillDesc": "ChapterOWHeroActiveSkillDesc_003_6",
+		"AttributeDisplayDesc": "ChapterOWHeroAttributeSkillDesc_003_6",
+		"BuildingSkillDesc": "ChapterOWHeroBuildingSkillDesc_003_6",
+		"BuildingSkillNextLevelDesc": "Next_ChapterOWHeroBuildingSkillDesc_003_6",
+		"ActiveSkill": "Stage29_Aponia_ActiveSkill",
+		"ActiveSkillParam": [
+			40,
+			180000,
+			550000,
+			0
+		],
+		"ActiveSkillCD": 40,
+		"AttributeSkill": "Stage29_OWCard_Properties_Delta",
+		"AttributeSkillParam": [
+			1300,
+			600,
+			0,
+			0
+		],
+		"BattlePoint": 1050,
+		"DataImpl": {},
+		"HeroID": 3,
+		"Level": 6
+	},
+	{
+		"UnlockSlotIndex": [
+			0,
+			1,
+			2,
+			3,
+			4,
+			5,
+			6
+		],
+		"SpecialSlotLimitHeroList": [
+			3
+		],
+		"SpecialCardSlotUpgrade": 2,
+		"LevelUpCostMaterialList": "123008:1,123002:3000",
+		"ActiveSkillName": "ChapterOWHeroActiveSkillName_003",
+		"ActiveSkillNextLevelDesc": "Next_ChapterOWHeroActiveSkillDesc_003_7",
+		"ActiveSkillDesc": "ChapterOWHeroActiveSkillDesc_003_7",
+		"AttributeDisplayDesc": "ChapterOWHeroAttributeSkillDesc_003_7",
+		"BuildingSkillDesc": "ChapterOWHeroBuildingSkillDesc_003_7",
+		"BuildingSkillNextLevelDesc": "Next_ChapterOWHeroBuildingSkillDesc_003_7",
+		"ActiveSkill": "Stage29_Aponia_ActiveSkill",
+		"ActiveSkillParam": [
+			40,
+			210000,
+			600000,
+			0
+		],
+		"ActiveSkillCD": 40,
+		"AttributeSkill": "Stage29_OWCard_Properties_Delta",
+		"AttributeSkillParam": [
+			1500,
+			700,
+			0,
+			0
+		],
+		"BattlePoint": 1100,
+		"DataImpl": {},
+		"HeroID": 3,
+		"Level": 7
+	},
+	{
+		"UnlockSlotIndex": [
+			0,
+			1,
+			2
+		],
+		"SpecialSlotLimitHeroList": [
+			8
+		],
+		"SpecialCardSlotUpgrade": 1,
+		"LevelUpCostMaterialList": "123104:1",
+		"ActiveSkillName": "ChapterOWHeroActiveSkillName_008",
+		"ActiveSkillNextLevelDesc": "Next_ChapterOWHeroActiveSkillDesc_008_1",
+		"ActiveSkillDesc": "ChapterOWHeroActiveSkillDesc_008_1",
+		"AttributeDisplayDesc": "ChapterOWHeroAttributeSkillDesc_008_1",
+		"BuildingSkillDesc": "ChapterOWHeroBuildingSkillDesc_008_1",
+		"BuildingSkillNextLevelDesc": "Next_ChapterOWHeroBuildingSkillDesc_008_1",
+		"ActiveSkill": "Stage29_Kosma_ActiveSkill",
+		"ActiveSkillParam": [
+			25000,
+			50,
+			5,
+			0
+		],
+		"ActiveSkillCD": 50,
+		"AttributeSkill": "Stage29_OWCard_Properties_Delta",
+		"AttributeSkillParam": [
+			300,
+			100,
+			0,
+			0
+		],
+		"BattlePoint": 300,
+		"DataImpl": {},
+		"HeroID": 8,
+		"Level": 1
+	},
+	{
+		"UnlockSlotIndex": [
+			0,
+			1,
+			2,
+			3
+		],
+		"SpecialSlotLimitHeroList": [
+			8
+		],
+		"SpecialCardSlotUpgrade": 1,
+		"LevelUpCostMaterialList": "123009:1,123002:500",
+		"ActiveSkillName": "ChapterOWHeroActiveSkillName_008",
+		"ActiveSkillNextLevelDesc": "Next_ChapterOWHeroActiveSkillDesc_008_2",
+		"ActiveSkillDesc": "ChapterOWHeroActiveSkillDesc_008_2",
+		"AttributeDisplayDesc": "ChapterOWHeroAttributeSkillDesc_008_2",
+		"BuildingSkillDesc": "ChapterOWHeroBuildingSkillDesc_008_2",
+		"BuildingSkillNextLevelDesc": "Next_ChapterOWHeroBuildingSkillDesc_008_2",
+		"ActiveSkill": "Stage29_Kosma_ActiveSkill",
+		"ActiveSkillParam": [
+			30000,
+			50,
+			5,
+			0
+		],
+		"ActiveSkillCD": 50,
+		"AttributeSkill": "Stage29_OWCard_Properties_Delta",
+		"AttributeSkillParam": [
+			500,
+			200,
+			0,
+			0
+		],
+		"BattlePoint": 450,
+		"DataImpl": {},
+		"HeroID": 8,
+		"Level": 2
+	},
+	{
+		"UnlockSlotIndex": [
+			0,
+			1,
+			2,
+			3
+		],
+		"SpecialSlotLimitHeroList": [
+			8
+		],
+		"SpecialCardSlotUpgrade": 1,
+		"LevelUpCostMaterialList": "123009:1,123002:1000",
+		"ActiveSkillName": "ChapterOWHeroActiveSkillName_008",
+		"ActiveSkillNextLevelDesc": "Next_ChapterOWHeroActiveSkillDesc_008_3",
+		"ActiveSkillDesc": "ChapterOWHeroActiveSkillDesc_008_3",
+		"AttributeDisplayDesc": "ChapterOWHeroAttributeSkillDesc_008_3",
+		"BuildingSkillDesc": "ChapterOWHeroBuildingSkillDesc_008_3",
+		"BuildingSkillNextLevelDesc": "Next_ChapterOWHeroBuildingSkillDesc_008_3",
+		"ActiveSkill": "Stage29_Kosma_ActiveSkill",
+		"ActiveSkillParam": [
+			35000,
+			50,
+			5,
+			0
+		],
+		"ActiveSkillCD": 50,
+		"AttributeSkill": "Stage29_OWCard_Properties_Delta",
+		"AttributeSkillParam": [
+			700,
+			300,
+			0,
+			0
+		],
+		"BattlePoint": 600,
+		"DataImpl": {},
+		"HeroID": 8,
+		"Level": 3
+	},
+	{
+		"UnlockSlotIndex": [
+			0,
+			1,
+			2,
+			3,
+			4
+		],
+		"SpecialSlotLimitHeroList": [
+			8
+		],
+		"SpecialCardSlotUpgrade": 1,
+		"LevelUpCostMaterialList": "123009:1,123002:1500",
+		"ActiveSkillName": "ChapterOWHeroActiveSkillName_008",
+		"ActiveSkillNextLevelDesc": "Next_ChapterOWHeroActiveSkillDesc_008_4",
+		"ActiveSkillDesc": "ChapterOWHeroActiveSkillDesc_008_4",
+		"AttributeDisplayDesc": "ChapterOWHeroAttributeSkillDesc_008_4",
+		"BuildingSkillDesc": "ChapterOWHeroBuildingSkillDesc_008_4",
+		"BuildingSkillNextLevelDesc": "Next_ChapterOWHeroBuildingSkillDesc_008_4",
+		"ActiveSkill": "Stage29_Kosma_ActiveSkill",
+		"ActiveSkillParam": [
+			40000,
+			30,
+			15,
+			0
+		],
+		"ActiveSkillCD": 30,
+		"AttributeSkill": "Stage29_OWCard_Properties_Delta",
+		"AttributeSkillParam": [
+			900,
+			400,
+			0,
+			0
+		],
+		"BattlePoint": 750,
+		"DataImpl": {},
+		"HeroID": 8,
+		"Level": 4
+	},
+	{
+		"UnlockSlotIndex": [
+			0,
+			1,
+			2,
+			3,
+			4
+		],
+		"SpecialSlotLimitHeroList": [
+			8
+		],
+		"SpecialCardSlotUpgrade": 2,
+		"LevelUpCostMaterialList": "123009:1,123002:2000",
+		"ActiveSkillName": "ChapterOWHeroActiveSkillName_008",
+		"ActiveSkillNextLevelDesc": "Next_ChapterOWHeroActiveSkillDesc_008_5",
+		"ActiveSkillDesc": "ChapterOWHeroActiveSkillDesc_008_5",
+		"AttributeDisplayDesc": "ChapterOWHeroAttributeSkillDesc_008_5",
+		"BuildingSkillDesc": "ChapterOWHeroBuildingSkillDesc_008_5",
+		"BuildingSkillNextLevelDesc": "Next_ChapterOWHeroBuildingSkillDesc_008_5",
+		"ActiveSkill": "Stage29_Kosma_ActiveSkill",
+		"ActiveSkillParam": [
+			45000,
+			30,
+			15,
+			0
+		],
+		"ActiveSkillCD": 30,
+		"AttributeSkill": "Stage29_OWCard_Properties_Delta",
+		"AttributeSkillParam": [
+			1100,
+			500,
+			0,
+			0
+		],
+		"BattlePoint": 900,
+		"DataImpl": {},
+		"HeroID": 8,
+		"Level": 5
+	},
+	{
+		"UnlockSlotIndex": [
+			0,
+			1,
+			2,
+			3,
+			4,
+			5
+		],
+		"SpecialSlotLimitHeroList": [
+			8
+		],
+		"SpecialCardSlotUpgrade": 2,
+		"LevelUpCostMaterialList": "123009:1,123002:2500",
+		"ActiveSkillName": "ChapterOWHeroActiveSkillName_008",
+		"ActiveSkillNextLevelDesc": "Next_ChapterOWHeroActiveSkillDesc_008_6",
+		"ActiveSkillDesc": "ChapterOWHeroActiveSkillDesc_008_6",
+		"AttributeDisplayDesc": "ChapterOWHeroAttributeSkillDesc_008_6",
+		"BuildingSkillDesc": "ChapterOWHeroBuildingSkillDesc_008_6",
+		"BuildingSkillNextLevelDesc": "Next_ChapterOWHeroBuildingSkillDesc_008_6",
+		"ActiveSkill": "Stage29_Kosma_ActiveSkill",
+		"ActiveSkillParam": [
+			50000,
+			30,
+			15,
+			0
+		],
+		"ActiveSkillCD": 30,
+		"AttributeSkill": "Stage29_OWCard_Properties_Delta",
+		"AttributeSkillParam": [
+			1300,
+			600,
+			0,
+			0
+		],
+		"BattlePoint": 1050,
+		"DataImpl": {},
+		"HeroID": 8,
+		"Level": 6
+	},
+	{
+		"UnlockSlotIndex": [
+			0,
+			1,
+			2,
+			3,
+			4,
+			5,
+			6
+		],
+		"SpecialSlotLimitHeroList": [
+			8
+		],
+		"SpecialCardSlotUpgrade": 2,
+		"LevelUpCostMaterialList": "123009:1,123002:3000",
+		"ActiveSkillName": "ChapterOWHeroActiveSkillName_008",
+		"ActiveSkillNextLevelDesc": "Next_ChapterOWHeroActiveSkillDesc_008_7",
+		"ActiveSkillDesc": "ChapterOWHeroActiveSkillDesc_008_7",
+		"AttributeDisplayDesc": "ChapterOWHeroAttributeSkillDesc_008_7",
+		"BuildingSkillDesc": "ChapterOWHeroBuildingSkillDesc_008_7",
+		"BuildingSkillNextLevelDesc": "Next_ChapterOWHeroBuildingSkillDesc_008_7",
+		"ActiveSkill": "Stage29_Kosma_ActiveSkill",
+		"ActiveSkillParam": [
+			55000,
+			30,
+			15,
+			0
+		],
+		"ActiveSkillCD": 30,
+		"AttributeSkill": "Stage29_OWCard_Properties_Delta",
+		"AttributeSkillParam": [
+			1500,
+			700,
+			0,
+			0
+		],
+		"BattlePoint": 1100,
+		"DataImpl": {},
+		"HeroID": 8,
+		"Level": 7
+	},
+	{
+		"UnlockSlotIndex": [
+			0,
+			1,
+			2
+		],
+		"SpecialSlotLimitHeroList": [
+			9
+		],
+		"SpecialCardSlotUpgrade": 1,
+		"LevelUpCostMaterialList": "123105:1",
+		"ActiveSkillName": "ChapterOWHeroActiveSkillName_009",
+		"ActiveSkillNextLevelDesc": "Next_ChapterOWHeroActiveSkillDesc_009_1",
+		"ActiveSkillDesc": "ChapterOWHeroActiveSkillDesc_009_1",
+		"AttributeDisplayDesc": "ChapterOWHeroAttributeSkillDesc_009_1",
+		"BuildingSkillDesc": "ChapterOWHeroBuildingSkillDesc_009_1",
+		"BuildingSkillNextLevelDesc": "Next_ChapterOWHeroBuildingSkillDesc_009_1",
+		"ActiveSkill": "Stage29_Mobius_ActiveSkill",
+		"ActiveSkillParam": [
+			250000,
+			60,
+			0,
+			0
+		],
+		"ActiveSkillCD": 60,
+		"AttributeSkill": "Stage29_OWCard_Properties_Delta",
+		"AttributeSkillParam": [
+			300,
+			100,
+			0,
+			0
+		],
+		"BattlePoint": 300,
+		"DataImpl": {},
+		"HeroID": 9,
+		"Level": 1
+	},
+	{
+		"UnlockSlotIndex": [
+			0,
+			1,
+			2,
+			3
+		],
+		"SpecialSlotLimitHeroList": [
+			9
+		],
+		"SpecialCardSlotUpgrade": 1,
+		"LevelUpCostMaterialList": "123010:1,123002:500",
+		"ActiveSkillName": "ChapterOWHeroActiveSkillName_009",
+		"ActiveSkillNextLevelDesc": "Next_ChapterOWHeroActiveSkillDesc_009_2",
+		"ActiveSkillDesc": "ChapterOWHeroActiveSkillDesc_009_2",
+		"AttributeDisplayDesc": "ChapterOWHeroAttributeSkillDesc_009_2",
+		"BuildingSkillDesc": "ChapterOWHeroBuildingSkillDesc_009_2",
+		"BuildingSkillNextLevelDesc": "Next_ChapterOWHeroBuildingSkillDesc_009_2",
+		"ActiveSkill": "Stage29_Mobius_ActiveSkill",
+		"ActiveSkillParam": [
+			300000,
+			60,
+			0,
+			0
+		],
+		"ActiveSkillCD": 60,
+		"AttributeSkill": "Stage29_OWCard_Properties_Delta",
+		"AttributeSkillParam": [
+			500,
+			200,
+			0,
+			0
+		],
+		"BattlePoint": 450,
+		"DataImpl": {},
+		"HeroID": 9,
+		"Level": 2
+	},
+	{
+		"UnlockSlotIndex": [
+			0,
+			1,
+			2,
+			3
+		],
+		"SpecialSlotLimitHeroList": [
+			9
+		],
+		"SpecialCardSlotUpgrade": 1,
+		"LevelUpCostMaterialList": "123010:1,123002:1000",
+		"ActiveSkillName": "ChapterOWHeroActiveSkillName_009",
+		"ActiveSkillNextLevelDesc": "Next_ChapterOWHeroActiveSkillDesc_009_3",
+		"ActiveSkillDesc": "ChapterOWHeroActiveSkillDesc_009_3",
+		"AttributeDisplayDesc": "ChapterOWHeroAttributeSkillDesc_009_3",
+		"BuildingSkillDesc": "ChapterOWHeroBuildingSkillDesc_009_3",
+		"BuildingSkillNextLevelDesc": "Next_ChapterOWHeroBuildingSkillDesc_009_3",
+		"ActiveSkill": "Stage29_Mobius_ActiveSkill",
+		"ActiveSkillParam": [
+			350000,
+			60,
+			0,
+			0
+		],
+		"ActiveSkillCD": 60,
+		"AttributeSkill": "Stage29_OWCard_Properties_Delta",
+		"AttributeSkillParam": [
+			700,
+			300,
+			0,
+			0
+		],
+		"BattlePoint": 600,
+		"DataImpl": {},
+		"HeroID": 9,
+		"Level": 3
+	},
+	{
+		"UnlockSlotIndex": [
+			0,
+			1,
+			2,
+			3,
+			4
+		],
+		"SpecialSlotLimitHeroList": [
+			9
+		],
+		"SpecialCardSlotUpgrade": 1,
+		"LevelUpCostMaterialList": "123010:1,123002:1500",
+		"ActiveSkillName": "ChapterOWHeroActiveSkillName_009",
+		"ActiveSkillNextLevelDesc": "Next_ChapterOWHeroActiveSkillDesc_009_4",
+		"ActiveSkillDesc": "ChapterOWHeroActiveSkillDesc_009_4",
+		"AttributeDisplayDesc": "ChapterOWHeroAttributeSkillDesc_009_4",
+		"BuildingSkillDesc": "ChapterOWHeroBuildingSkillDesc_009_4",
+		"BuildingSkillNextLevelDesc": "Next_ChapterOWHeroBuildingSkillDesc_009_4",
+		"ActiveSkill": "Stage29_Mobius_ActiveSkill",
+		"ActiveSkillParam": [
+			400000,
+			40,
+			0,
+			0
+		],
+		"ActiveSkillCD": 60,
+		"AttributeSkill": "Stage29_OWCard_Properties_Delta",
+		"AttributeSkillParam": [
+			900,
+			400,
+			0,
+			0
+		],
+		"BattlePoint": 750,
+		"DataImpl": {},
+		"HeroID": 9,
+		"Level": 4
+	},
+	{
+		"UnlockSlotIndex": [
+			0,
+			1,
+			2,
+			3,
+			4
+		],
+		"SpecialSlotLimitHeroList": [
+			9
+		],
+		"SpecialCardSlotUpgrade": 2,
+		"LevelUpCostMaterialList": "123010:1,123002:2000",
+		"ActiveSkillName": "ChapterOWHeroActiveSkillName_009",
+		"ActiveSkillNextLevelDesc": "Next_ChapterOWHeroActiveSkillDesc_009_5",
+		"ActiveSkillDesc": "ChapterOWHeroActiveSkillDesc_009_5",
+		"AttributeDisplayDesc": "ChapterOWHeroAttributeSkillDesc_009_5",
+		"BuildingSkillDesc": "ChapterOWHeroBuildingSkillDesc_009_5",
+		"BuildingSkillNextLevelDesc": "Next_ChapterOWHeroBuildingSkillDesc_009_5",
+		"ActiveSkill": "Stage29_Mobius_ActiveSkill",
+		"ActiveSkillParam": [
+			450000,
+			40,
+			0,
+			0
+		],
+		"ActiveSkillCD": 40,
+		"AttributeSkill": "Stage29_OWCard_Properties_Delta",
+		"AttributeSkillParam": [
+			1100,
+			500,
+			0,
+			0
+		],
+		"BattlePoint": 900,
+		"DataImpl": {},
+		"HeroID": 9,
+		"Level": 5
+	},
+	{
+		"UnlockSlotIndex": [
+			0,
+			1,
+			2,
+			3,
+			4,
+			5
+		],
+		"SpecialSlotLimitHeroList": [
+			9
+		],
+		"SpecialCardSlotUpgrade": 2,
+		"LevelUpCostMaterialList": "123010:1,123002:2500",
+		"ActiveSkillName": "ChapterOWHeroActiveSkillName_009",
+		"ActiveSkillNextLevelDesc": "Next_ChapterOWHeroActiveSkillDesc_009_6",
+		"ActiveSkillDesc": "ChapterOWHeroActiveSkillDesc_009_6",
+		"AttributeDisplayDesc": "ChapterOWHeroAttributeSkillDesc_009_6",
+		"BuildingSkillDesc": "ChapterOWHeroBuildingSkillDesc_009_6",
+		"BuildingSkillNextLevelDesc": "Next_ChapterOWHeroBuildingSkillDesc_009_6",
+		"ActiveSkill": "Stage29_Mobius_ActiveSkill",
+		"ActiveSkillParam": [
+			500000,
+			40,
+			0,
+			0
+		],
+		"ActiveSkillCD": 40,
+		"AttributeSkill": "Stage29_OWCard_Properties_Delta",
+		"AttributeSkillParam": [
+			1300,
+			600,
+			0,
+			0
+		],
+		"BattlePoint": 1050,
+		"DataImpl": {},
+		"HeroID": 9,
+		"Level": 6
+	},
+	{
+		"UnlockSlotIndex": [
+			0,
+			1,
+			2,
+			3,
+			4,
+			5,
+			6
+		],
+		"SpecialSlotLimitHeroList": [
+			9
+		],
+		"SpecialCardSlotUpgrade": 2,
+		"LevelUpCostMaterialList": "123010:1,123002:3000",
+		"ActiveSkillName": "ChapterOWHeroActiveSkillName_009",
+		"ActiveSkillNextLevelDesc": "Next_ChapterOWHeroActiveSkillDesc_009_7",
+		"ActiveSkillDesc": "ChapterOWHeroActiveSkillDesc_009_7",
+		"AttributeDisplayDesc": "ChapterOWHeroAttributeSkillDesc_009_7",
+		"BuildingSkillDesc": "ChapterOWHeroBuildingSkillDesc_009_7",
+		"BuildingSkillNextLevelDesc": "Next_ChapterOWHeroBuildingSkillDesc_009_7",
+		"ActiveSkill": "Stage29_Mobius_ActiveSkill",
+		"ActiveSkillParam": [
+			550000,
+			40,
+			0,
+			0
+		],
+		"ActiveSkillCD": 40,
+		"AttributeSkill": "Stage29_OWCard_Properties_Delta",
+		"AttributeSkillParam": [
+			1500,
+			700,
+			0,
+			0
+		],
+		"BattlePoint": 1100,
+		"DataImpl": {},
+		"HeroID": 9,
+		"Level": 7
+	},
+	{
+		"UnlockSlotIndex": [
+			0,
+			1,
+			2
+		],
+		"SpecialSlotLimitHeroList": [
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9,
+			10,
+			99
+		],
+		"SpecialCardSlotUpgrade": 1,
+		"LevelUpCostMaterialList": "123106:1",
+		"ActiveSkillName": "ChapterOWHeroActiveSkillName_0099",
+		"ActiveSkillNextLevelDesc": "Next_ChapterOWHeroActiveSkillDesc_0099_1",
+		"ActiveSkillDesc": "ChapterOWHeroActiveSkillDesc_0099_1",
+		"AttributeDisplayDesc": "ChapterOWHeroAttributeSkillDesc_0099_1",
+		"BuildingSkillDesc": "ChapterOWHeroBuildingSkillDesc_0099_1",
+		"BuildingSkillNextLevelDesc": "Next_ChapterOWHeroBuildingSkillDesc_0099_1",
+		"ActiveSkill": "Stage29_VillV_Skill",
+		"ActiveSkillParam": [
+			1000000,
+			900000,
+			1000000,
+			1000000,
+			125000,
+			1500,
+			50,
+			0
+		],
+		"ActiveSkillCD": 50,
+		"AttributeSkill": "Stage29_OWCard_Properties_Delta",
+		"AttributeSkillParam": [
+			300,
+			100,
+			0,
+			0
+		],
+		"BattlePoint": 300,
+		"DataImpl": {},
+		"HeroID": 99,
+		"Level": 1
+	},
+	{
+		"UnlockSlotIndex": [
+			0,
+			1,
+			2,
+			3
+		],
+		"SpecialSlotLimitHeroList": [
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9,
+			10,
+			99
+		],
+		"SpecialCardSlotUpgrade": 1,
+		"LevelUpCostMaterialList": "123011:1,123002:500",
+		"ActiveSkillName": "ChapterOWHeroActiveSkillName_0099",
+		"ActiveSkillNextLevelDesc": "Next_ChapterOWHeroActiveSkillDesc_0099_2",
+		"ActiveSkillDesc": "ChapterOWHeroActiveSkillDesc_0099_2",
+		"AttributeDisplayDesc": "ChapterOWHeroAttributeSkillDesc_0099_2",
+		"BuildingSkillDesc": "ChapterOWHeroBuildingSkillDesc_0099_2",
+		"BuildingSkillNextLevelDesc": "Next_ChapterOWHeroBuildingSkillDesc_0099_2",
+		"ActiveSkill": "Stage29_VillV_Skill",
+		"ActiveSkillParam": [
+			1100000,
+			1000000,
+			1100000,
+			1100000,
+			137500,
+			1700,
+			50,
+			0
+		],
+		"ActiveSkillCD": 50,
+		"AttributeSkill": "Stage29_OWCard_Properties_Delta",
+		"AttributeSkillParam": [
+			500,
+			200,
+			0,
+			0
+		],
+		"BattlePoint": 450,
+		"DataImpl": {},
+		"HeroID": 99,
+		"Level": 2
+	},
+	{
+		"UnlockSlotIndex": [
+			0,
+			1,
+			2,
+			3
+		],
+		"SpecialSlotLimitHeroList": [
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9,
+			10,
+			99
+		],
+		"SpecialCardSlotUpgrade": 1,
+		"LevelUpCostMaterialList": "123011:1,123002:1000",
+		"ActiveSkillName": "ChapterOWHeroActiveSkillName_0099",
+		"ActiveSkillNextLevelDesc": "Next_ChapterOWHeroActiveSkillDesc_0099_3",
+		"ActiveSkillDesc": "ChapterOWHeroActiveSkillDesc_0099_3",
+		"AttributeDisplayDesc": "ChapterOWHeroAttributeSkillDesc_0099_3",
+		"BuildingSkillDesc": "ChapterOWHeroBuildingSkillDesc_0099_3",
+		"BuildingSkillNextLevelDesc": "Next_ChapterOWHeroBuildingSkillDesc_0099_3",
+		"ActiveSkill": "Stage29_VillV_Skill",
+		"ActiveSkillParam": [
+			1200000,
+			1100000,
+			1200000,
+			1200000,
+			150000,
+			1900,
+			50,
+			0
+		],
+		"ActiveSkillCD": 50,
+		"AttributeSkill": "Stage29_OWCard_Properties_Delta",
+		"AttributeSkillParam": [
+			700,
+			300,
+			0,
+			0
+		],
+		"BattlePoint": 600,
+		"DataImpl": {},
+		"HeroID": 99,
+		"Level": 3
+	},
+	{
+		"UnlockSlotIndex": [
+			0,
+			1,
+			2,
+			3,
+			4
+		],
+		"SpecialSlotLimitHeroList": [
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9,
+			10,
+			99
+		],
+		"SpecialCardSlotUpgrade": 1,
+		"LevelUpCostMaterialList": "123011:1,123002:1500",
+		"ActiveSkillName": "ChapterOWHeroActiveSkillName_0099",
+		"ActiveSkillNextLevelDesc": "Next_ChapterOWHeroActiveSkillDesc_0099_4",
+		"ActiveSkillDesc": "ChapterOWHeroActiveSkillDesc_0099_4",
+		"AttributeDisplayDesc": "ChapterOWHeroAttributeSkillDesc_0099_4",
+		"BuildingSkillDesc": "ChapterOWHeroBuildingSkillDesc_0099_4",
+		"BuildingSkillNextLevelDesc": "Next_ChapterOWHeroBuildingSkillDesc_0099_4",
+		"ActiveSkill": "Stage29_VillV_Skill",
+		"ActiveSkillParam": [
+			1300000,
+			1200000,
+			1300000,
+			1300000,
+			162500,
+			2100,
+			40,
+			0
+		],
+		"ActiveSkillCD": 40,
+		"AttributeSkill": "Stage29_OWCard_Properties_Delta",
+		"AttributeSkillParam": [
+			900,
+			400,
+			0,
+			0
+		],
+		"BattlePoint": 750,
+		"DataImpl": {},
+		"HeroID": 99,
+		"Level": 4
+	},
+	{
+		"UnlockSlotIndex": [
+			0,
+			1,
+			2,
+			3,
+			4
+		],
+		"SpecialSlotLimitHeroList": [
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9,
+			10,
+			99
+		],
+		"SpecialCardSlotUpgrade": 2,
+		"LevelUpCostMaterialList": "123011:1,123002:2000",
+		"ActiveSkillName": "ChapterOWHeroActiveSkillName_0099",
+		"ActiveSkillNextLevelDesc": "Next_ChapterOWHeroActiveSkillDesc_0099_5",
+		"ActiveSkillDesc": "ChapterOWHeroActiveSkillDesc_0099_5",
+		"AttributeDisplayDesc": "ChapterOWHeroAttributeSkillDesc_0099_5",
+		"BuildingSkillDesc": "ChapterOWHeroBuildingSkillDesc_0099_5",
+		"BuildingSkillNextLevelDesc": "Next_ChapterOWHeroBuildingSkillDesc_0099_5",
+		"ActiveSkill": "Stage29_VillV_Skill",
+		"ActiveSkillParam": [
+			1400000,
+			1300000,
+			1400000,
+			1400000,
+			175000,
+			2300,
+			40,
+			0
+		],
+		"ActiveSkillCD": 40,
+		"AttributeSkill": "Stage29_OWCard_Properties_Delta",
+		"AttributeSkillParam": [
+			1100,
+			500,
+			0,
+			0
+		],
+		"BattlePoint": 900,
+		"DataImpl": {},
+		"HeroID": 99,
+		"Level": 5
+	},
+	{
+		"UnlockSlotIndex": [
+			0,
+			1,
+			2,
+			3,
+			4,
+			5
+		],
+		"SpecialSlotLimitHeroList": [
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9,
+			10,
+			99
+		],
+		"SpecialCardSlotUpgrade": 2,
+		"LevelUpCostMaterialList": "123011:1,123002:2500",
+		"ActiveSkillName": "ChapterOWHeroActiveSkillName_0099",
+		"ActiveSkillNextLevelDesc": "Next_ChapterOWHeroActiveSkillDesc_0099_6",
+		"ActiveSkillDesc": "ChapterOWHeroActiveSkillDesc_0099_6",
+		"AttributeDisplayDesc": "ChapterOWHeroAttributeSkillDesc_0099_6",
+		"BuildingSkillDesc": "ChapterOWHeroBuildingSkillDesc_0099_6",
+		"BuildingSkillNextLevelDesc": "Next_ChapterOWHeroBuildingSkillDesc_0099_6",
+		"ActiveSkill": "Stage29_VillV_Skill",
+		"ActiveSkillParam": [
+			1500000,
+			1400000,
+			1500000,
+			1500000,
+			187500,
+			2500,
+			40,
+			0
+		],
+		"ActiveSkillCD": 40,
+		"AttributeSkill": "Stage29_OWCard_Properties_Delta",
+		"AttributeSkillParam": [
+			1300,
+			600,
+			0,
+			0
+		],
+		"BattlePoint": 1050,
+		"DataImpl": {},
+		"HeroID": 99,
+		"Level": 6
+	},
+	{
+		"UnlockSlotIndex": [
+			0,
+			1,
+			2,
+			3,
+			4,
+			5,
+			6
+		],
+		"SpecialSlotLimitHeroList": [
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9,
+			10,
+			99
+		],
+		"SpecialCardSlotUpgrade": 2,
+		"LevelUpCostMaterialList": "123011:1,123002:3000",
+		"ActiveSkillName": "ChapterOWHeroActiveSkillName_0099",
+		"ActiveSkillNextLevelDesc": "Next_ChapterOWHeroActiveSkillDesc_0099_7",
+		"ActiveSkillDesc": "ChapterOWHeroActiveSkillDesc_0099_7",
+		"AttributeDisplayDesc": "ChapterOWHeroAttributeSkillDesc_0099_7",
+		"BuildingSkillDesc": "ChapterOWHeroBuildingSkillDesc_0099_7",
+		"BuildingSkillNextLevelDesc": "Next_ChapterOWHeroBuildingSkillDesc_0099_7",
+		"ActiveSkill": "Stage29_VillV_Skill",
+		"ActiveSkillParam": [
+			1600000,
+			1500000,
+			1600000,
+			1600000,
+			200000,
+			2700,
+			40,
+			0
+		],
+		"ActiveSkillCD": 40,
+		"AttributeSkill": "Stage29_OWCard_Properties_Delta",
+		"AttributeSkillParam": [
+			1500,
+			700,
+			0,
+			0
+		],
+		"BattlePoint": 1100,
+		"DataImpl": {},
+		"HeroID": 99,
+		"Level": 7
+	}
+]

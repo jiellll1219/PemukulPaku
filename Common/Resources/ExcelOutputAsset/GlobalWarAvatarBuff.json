@@ -1,0 +1,890 @@
+[
+	{
+		"Hp": 0,
+		"Atk": 0,
+		"Def": 0,
+		"AllDamageRatio": 0,
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_4thAnv",
+		"BuffName": {
+			"hash": -2022334864
+		},
+		"BuffDesc": {
+			"hash": -1773556182
+		},
+		"BuffEffectDesc": "GlobalBuff_EffectText0",
+		"SpecialBuffList": [
+			{
+				"BuffLevel": 1,
+				"BuffType": 4
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 5
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 6
+			}
+		],
+		"DataImpl": {},
+		"BuffLevel": 0
+	},
+	{
+		"Hp": 1000,
+		"Atk": 280,
+		"Def": 140,
+		"AllDamageRatio": 100,
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_4thAnv",
+		"BuffName": {
+			"hash": -2022334864
+		},
+		"BuffDesc": {
+			"hash": -1773556182
+		},
+		"BuffEffectDesc": "GlobalBuff_EffectText1",
+		"SpecialBuffList": [
+			{
+				"BuffLevel": 1,
+				"BuffType": 1
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 4
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 5
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 6
+			}
+		],
+		"DataImpl": {},
+		"BuffLevel": 1
+	},
+	{
+		"Hp": 1300,
+		"Atk": 420,
+		"Def": 220,
+		"AllDamageRatio": 150,
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_4thAnv",
+		"BuffName": {
+			"hash": -2022334864
+		},
+		"BuffDesc": {
+			"hash": -1773556182
+		},
+		"BuffEffectDesc": "",
+		"SpecialBuffList": [
+			{
+				"BuffLevel": 1,
+				"BuffType": 1
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 4
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 5
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 6
+			}
+		],
+		"DataImpl": {},
+		"BuffLevel": 2
+	},
+	{
+		"Hp": 1600,
+		"Atk": 560,
+		"Def": 280,
+		"AllDamageRatio": 200,
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_4thAnv",
+		"BuffName": {
+			"hash": -2022334864
+		},
+		"BuffDesc": {
+			"hash": -1773556182
+		},
+		"BuffEffectDesc": "GlobalBuff_EffectText2",
+		"SpecialBuffList": [
+			{
+				"BuffLevel": 1,
+				"BuffType": 1
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 2
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 4
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 5
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 6
+			}
+		],
+		"DataImpl": {},
+		"BuffLevel": 3
+	},
+	{
+		"Hp": 1900,
+		"Atk": 700,
+		"Def": 360,
+		"AllDamageRatio": 250,
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_4thAnv",
+		"BuffName": {
+			"hash": -2022334864
+		},
+		"BuffDesc": {
+			"hash": -1773556182
+		},
+		"BuffEffectDesc": "",
+		"SpecialBuffList": [
+			{
+				"BuffLevel": 1,
+				"BuffType": 1
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 2
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 4
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 5
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 6
+			}
+		],
+		"DataImpl": {},
+		"BuffLevel": 4
+	},
+	{
+		"Hp": 2200,
+		"Atk": 840,
+		"Def": 420,
+		"AllDamageRatio": 250,
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_4thAnv",
+		"BuffName": {
+			"hash": -2022334864
+		},
+		"BuffDesc": {
+			"hash": -1773556182
+		},
+		"BuffEffectDesc": "GlobalBuff_EffectText3",
+		"SpecialBuffList": [
+			{
+				"BuffLevel": 1,
+				"BuffType": 1
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 2
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 3
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 4
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 5
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 6
+			}
+		],
+		"DataImpl": {},
+		"BuffLevel": 5
+	},
+	{
+		"Hp": 2500,
+		"Atk": 980,
+		"Def": 500,
+		"AllDamageRatio": 300,
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_4thAnv",
+		"BuffName": {
+			"hash": -2022334864
+		},
+		"BuffDesc": {
+			"hash": -1773556182
+		},
+		"BuffEffectDesc": "",
+		"SpecialBuffList": [
+			{
+				"BuffLevel": 1,
+				"BuffType": 1
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 2
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 3
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 4
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 5
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 6
+			}
+		],
+		"DataImpl": {},
+		"BuffLevel": 6
+	},
+	{
+		"Hp": 2800,
+		"Atk": 1120,
+		"Def": 560,
+		"AllDamageRatio": 350,
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_4thAnv",
+		"BuffName": {
+			"hash": -2022334864
+		},
+		"BuffDesc": {
+			"hash": -1773556182
+		},
+		"BuffEffectDesc": "GlobalBuff_EffectText4",
+		"SpecialBuffList": [
+			{
+				"BuffLevel": 2,
+				"BuffType": 1
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 2
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 3
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 4
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 5
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 6
+			}
+		],
+		"DataImpl": {},
+		"BuffLevel": 7
+	},
+	{
+		"Hp": 3100,
+		"Atk": 1260,
+		"Def": 640,
+		"AllDamageRatio": 400,
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_4thAnv",
+		"BuffName": {
+			"hash": -2022334864
+		},
+		"BuffDesc": {
+			"hash": -1773556182
+		},
+		"BuffEffectDesc": "",
+		"SpecialBuffList": [
+			{
+				"BuffLevel": 2,
+				"BuffType": 1
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 2
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 3
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 4
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 5
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 6
+			}
+		],
+		"DataImpl": {},
+		"BuffLevel": 8
+	},
+	{
+		"Hp": 3400,
+		"Atk": 1400,
+		"Def": 700,
+		"AllDamageRatio": 450,
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_4thAnv",
+		"BuffName": {
+			"hash": -2022334864
+		},
+		"BuffDesc": {
+			"hash": -1773556182
+		},
+		"BuffEffectDesc": "GlobalBuff_EffectText5",
+		"SpecialBuffList": [
+			{
+				"BuffLevel": 2,
+				"BuffType": 1
+			},
+			{
+				"BuffLevel": 2,
+				"BuffType": 2
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 3
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 4
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 5
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 6
+			}
+		],
+		"DataImpl": {},
+		"BuffLevel": 9
+	},
+	{
+		"Hp": 3700,
+		"Atk": 1540,
+		"Def": 780,
+		"AllDamageRatio": 500,
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_4thAnv",
+		"BuffName": {
+			"hash": -2022334864
+		},
+		"BuffDesc": {
+			"hash": -1773556182
+		},
+		"BuffEffectDesc": "",
+		"SpecialBuffList": [
+			{
+				"BuffLevel": 2,
+				"BuffType": 1
+			},
+			{
+				"BuffLevel": 2,
+				"BuffType": 2
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 3
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 4
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 5
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 6
+			}
+		],
+		"DataImpl": {},
+		"BuffLevel": 10
+	},
+	{
+		"Hp": 4000,
+		"Atk": 1680,
+		"Def": 840,
+		"AllDamageRatio": 550,
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_4thAnv",
+		"BuffName": {
+			"hash": -2022334864
+		},
+		"BuffDesc": {
+			"hash": -1773556182
+		},
+		"BuffEffectDesc": "GlobalBuff_EffectText6",
+		"SpecialBuffList": [
+			{
+				"BuffLevel": 2,
+				"BuffType": 1
+			},
+			{
+				"BuffLevel": 2,
+				"BuffType": 2
+			},
+			{
+				"BuffLevel": 2,
+				"BuffType": 3
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 4
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 5
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 6
+			}
+		],
+		"DataImpl": {},
+		"BuffLevel": 11
+	},
+	{
+		"Hp": 4300,
+		"Atk": 1820,
+		"Def": 920,
+		"AllDamageRatio": 600,
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_4thAnv",
+		"BuffName": {
+			"hash": -2022334864
+		},
+		"BuffDesc": {
+			"hash": -1773556182
+		},
+		"BuffEffectDesc": "",
+		"SpecialBuffList": [
+			{
+				"BuffLevel": 2,
+				"BuffType": 1
+			},
+			{
+				"BuffLevel": 2,
+				"BuffType": 2
+			},
+			{
+				"BuffLevel": 2,
+				"BuffType": 3
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 4
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 5
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 6
+			}
+		],
+		"DataImpl": {},
+		"BuffLevel": 12
+	},
+	{
+		"Hp": 4600,
+		"Atk": 1960,
+		"Def": 980,
+		"AllDamageRatio": 650,
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_4thAnv",
+		"BuffName": {
+			"hash": -2022334864
+		},
+		"BuffDesc": {
+			"hash": -1773556182
+		},
+		"BuffEffectDesc": "GlobalBuff_EffectText7",
+		"SpecialBuffList": [
+			{
+				"BuffLevel": 3,
+				"BuffType": 1
+			},
+			{
+				"BuffLevel": 2,
+				"BuffType": 2
+			},
+			{
+				"BuffLevel": 2,
+				"BuffType": 3
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 4
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 5
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 6
+			}
+		],
+		"DataImpl": {},
+		"BuffLevel": 13
+	},
+	{
+		"Hp": 4900,
+		"Atk": 2100,
+		"Def": 1060,
+		"AllDamageRatio": 700,
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_4thAnv",
+		"BuffName": {
+			"hash": -2022334864
+		},
+		"BuffDesc": {
+			"hash": -1773556182
+		},
+		"BuffEffectDesc": "",
+		"SpecialBuffList": [
+			{
+				"BuffLevel": 3,
+				"BuffType": 1
+			},
+			{
+				"BuffLevel": 2,
+				"BuffType": 2
+			},
+			{
+				"BuffLevel": 2,
+				"BuffType": 3
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 4
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 5
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 6
+			}
+		],
+		"DataImpl": {},
+		"BuffLevel": 14
+	},
+	{
+		"Hp": 5200,
+		"Atk": 2240,
+		"Def": 1120,
+		"AllDamageRatio": 700,
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_4thAnv",
+		"BuffName": {
+			"hash": -2022334864
+		},
+		"BuffDesc": {
+			"hash": -1773556182
+		},
+		"BuffEffectDesc": "GlobalBuff_EffectText8",
+		"SpecialBuffList": [
+			{
+				"BuffLevel": 3,
+				"BuffType": 1
+			},
+			{
+				"BuffLevel": 3,
+				"BuffType": 2
+			},
+			{
+				"BuffLevel": 2,
+				"BuffType": 3
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 4
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 5
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 6
+			}
+		],
+		"DataImpl": {},
+		"BuffLevel": 15
+	},
+	{
+		"Hp": 5500,
+		"Atk": 2380,
+		"Def": 1200,
+		"AllDamageRatio": 750,
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_4thAnv",
+		"BuffName": {
+			"hash": -2022334864
+		},
+		"BuffDesc": {
+			"hash": -1773556182
+		},
+		"BuffEffectDesc": "",
+		"SpecialBuffList": [
+			{
+				"BuffLevel": 3,
+				"BuffType": 1
+			},
+			{
+				"BuffLevel": 3,
+				"BuffType": 2
+			},
+			{
+				"BuffLevel": 2,
+				"BuffType": 3
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 4
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 5
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 6
+			}
+		],
+		"DataImpl": {},
+		"BuffLevel": 16
+	},
+	{
+		"Hp": 5800,
+		"Atk": 2520,
+		"Def": 1260,
+		"AllDamageRatio": 800,
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_4thAnv",
+		"BuffName": {
+			"hash": -2022334864
+		},
+		"BuffDesc": {
+			"hash": -1773556182
+		},
+		"BuffEffectDesc": "GlobalBuff_EffectText9",
+		"SpecialBuffList": [
+			{
+				"BuffLevel": 3,
+				"BuffType": 1
+			},
+			{
+				"BuffLevel": 3,
+				"BuffType": 2
+			},
+			{
+				"BuffLevel": 3,
+				"BuffType": 3
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 4
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 5
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 6
+			}
+		],
+		"DataImpl": {},
+		"BuffLevel": 17
+	},
+	{
+		"Hp": 6100,
+		"Atk": 2660,
+		"Def": 1340,
+		"AllDamageRatio": 850,
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_4thAnv",
+		"BuffName": {
+			"hash": -2022334864
+		},
+		"BuffDesc": {
+			"hash": -1773556182
+		},
+		"BuffEffectDesc": "",
+		"SpecialBuffList": [
+			{
+				"BuffLevel": 3,
+				"BuffType": 1
+			},
+			{
+				"BuffLevel": 3,
+				"BuffType": 2
+			},
+			{
+				"BuffLevel": 3,
+				"BuffType": 3
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 4
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 5
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 6
+			}
+		],
+		"DataImpl": {},
+		"BuffLevel": 18
+	},
+	{
+		"Hp": 6400,
+		"Atk": 2800,
+		"Def": 1400,
+		"AllDamageRatio": 900,
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_4thAnv",
+		"BuffName": {
+			"hash": -2022334864
+		},
+		"BuffDesc": {
+			"hash": -1773556182
+		},
+		"BuffEffectDesc": "",
+		"SpecialBuffList": [
+			{
+				"BuffLevel": 3,
+				"BuffType": 1
+			},
+			{
+				"BuffLevel": 3,
+				"BuffType": 2
+			},
+			{
+				"BuffLevel": 3,
+				"BuffType": 3
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 4
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 5
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 6
+			}
+		],
+		"DataImpl": {},
+		"BuffLevel": 19
+	},
+	{
+		"Hp": 6700,
+		"Atk": 2940,
+		"Def": 1480,
+		"AllDamageRatio": 950,
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_4thAnv",
+		"BuffName": {
+			"hash": -2022334864
+		},
+		"BuffDesc": {
+			"hash": -1773556182
+		},
+		"BuffEffectDesc": "",
+		"SpecialBuffList": [
+			{
+				"BuffLevel": 3,
+				"BuffType": 1
+			},
+			{
+				"BuffLevel": 3,
+				"BuffType": 2
+			},
+			{
+				"BuffLevel": 3,
+				"BuffType": 3
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 4
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 5
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 6
+			}
+		],
+		"DataImpl": {},
+		"BuffLevel": 20
+	},
+	{
+		"Hp": 7000,
+		"Atk": 3080,
+		"Def": 1540,
+		"AllDamageRatio": 1000,
+		"BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_4thAnv",
+		"BuffName": {
+			"hash": -2022334864
+		},
+		"BuffDesc": {
+			"hash": -1773556182
+		},
+		"BuffEffectDesc": "",
+		"SpecialBuffList": [
+			{
+				"BuffLevel": 3,
+				"BuffType": 1
+			},
+			{
+				"BuffLevel": 3,
+				"BuffType": 2
+			},
+			{
+				"BuffLevel": 3,
+				"BuffType": 3
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 4
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 5
+			},
+			{
+				"BuffLevel": 1,
+				"BuffType": 6
+			}
+		],
+		"DataImpl": {},
+		"BuffLevel": 21
+	}
+]

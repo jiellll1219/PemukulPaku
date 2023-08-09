@@ -1,0 +1,127 @@
+[
+	{
+		"AccDebuff": "Stun",
+		"IconPath": "SpriteOutput/Resistance/ResStun",
+		"IconColor": "#FDE24AFF",
+		"CycleColor": "#FDE24AFF",
+		"RootColor": "#FEDF4CFF",
+		"ResWaveColor": "#FEDF4CFF",
+		"StarColor": "#FEDF4CFF",
+		"GlowColor": "#FEC24CFF",
+		"MaskSliderFillColor": "#00C3FFFF",
+		"LayerTextColor": "#ffffff",
+		"MaxLayerTextColor": "#ffc300",
+		"MaskColor": "#FFF53DFF",
+		"BaseColor": "#B29700D2",
+		"FillColor": "#FDE24A87",
+		"FlashColor": "#FDE24ACE",
+		"TipsName": {
+			"hash": -1618947985
+		},
+		"TipsDesc": {
+			"hash": -1370169303
+		},
+		"DataImpl": {},
+		"ID": 0
+	},
+	{
+		"AccDebuff": "Frozen",
+		"IconPath": "SpriteOutput/Resistance/ResFrozen",
+		"IconColor": "#7CFFFDFF",
+		"CycleColor": "#7CFFFDFF",
+		"RootColor": "#4FFFFCFF",
+		"ResWaveColor": "#4FFFFCFF",
+		"StarColor": "#4FFFFCFF",
+		"GlowColor": "#52A2FFFF",
+		"MaskSliderFillColor": "#00C3FFFF",
+		"LayerTextColor": "#ffffff",
+		"MaxLayerTextColor": "#ffc300",
+		"MaskColor": "#41D8D5FF",
+		"BaseColor": "#329AA9D2",
+		"FillColor": "#1DDAD787",
+		"FlashColor": "#3DD4D2B5",
+		"TipsName": {
+			"hash": -1405042411
+		},
+		"TipsDesc": {
+			"hash": 1448069711
+		},
+		"DataImpl": {},
+		"ID": 1
+	},
+	{
+		"AccDebuff": "Paralyze",
+		"IconPath": "SpriteOutput/Resistance/ResParalysis",
+		"IconColor": "#EE87FFFF",
+		"CycleColor": "#C54CFCFF",
+		"RootColor": "#D547FFFF",
+		"ResWaveColor": "#D547FFFF",
+		"StarColor": "#D547FFFF",
+		"GlowColor": "#E24CFCFF",
+		"MaskSliderFillColor": "#00C3FFFF",
+		"LayerTextColor": "#ffffff",
+		"MaxLayerTextColor": "#ffc300",
+		"MaskColor": "#F551FFFF",
+		"BaseColor": "#B636BCD2",
+		"FillColor": "#7E009287",
+		"FlashColor": "#DB00FFD0",
+		"TipsName": {
+			"hash": 777537165
+		},
+		"TipsDesc": {
+			"hash": -1865815737
+		},
+		"DataImpl": {},
+		"ID": 2
+	},
+	{
+		"AccDebuff": "Bleed",
+		"IconPath": "SpriteOutput/Resistance/ResBleading",
+		"IconColor": "#FC7D7CFF",
+		"CycleColor": "#FC7D7CFF",
+		"RootColor": "#FF5E41FF",
+		"ResWaveColor": "#FF5E41FF",
+		"StarColor": "#FF5E41FF",
+		"GlowColor": "#FF9900FF",
+		"MaskSliderFillColor": "#00C3FFFF",
+		"LayerTextColor": "#ffffff",
+		"MaxLayerTextColor": "#ffc300",
+		"MaskColor": "#DF5953FF",
+		"BaseColor": "#A94747E3",
+		"FillColor": "#A1010087",
+		"FlashColor": "#C3403FFF",
+		"TipsName": {
+			"hash": 1336266277
+		},
+		"TipsDesc": {
+			"hash": 458470827
+		},
+		"DataImpl": {},
+		"ID": 3
+	},
+	{
+		"AccDebuff": "Burn",
+		"IconPath": "SpriteOutput/Resistance/ResBurning",
+		"IconColor": "#FE8B36FF",
+		"CycleColor": "#FC7D7CFF",
+		"RootColor": "#FF5E41FF",
+		"ResWaveColor": "#FF5E41FF",
+		"StarColor": "#FF5E41FF",
+		"GlowColor": "#FF9900FF",
+		"MaskSliderFillColor": "#00C3FFFF",
+		"LayerTextColor": "#ffffff",
+		"MaxLayerTextColor": "#ffc300",
+		"MaskColor": "#FE9C36FF",
+		"BaseColor": "#C57E00BE",
+		"FillColor": "#AC580087",
+		"FlashColor": "#FE8B36FF",
+		"TipsName": {
+			"hash": -1619453564
+		},
+		"TipsDesc": {
+			"hash": -1370674882
+		},
+		"DataImpl": {},
+		"ID": 4
+	}
+]

@@ -1,0 +1,47 @@
+[
+	{
+		"MapID": 1001,
+		"LevelIDList": [
+			1,
+			2,
+			3
+		],
+		"TalentIDList": [
+			205,
+			206
+		],
+		"MaterialID": [],
+		"LocationID": 1607004,
+		"DisplayCondition": 1300,
+		"UnlockConditionTips": {
+			"hash": -1180808607
+		},
+		"Title": {
+			"hash": -452964187
+		},
+		"DataImpl": {},
+		"ID": 1
+	},
+	{
+		"MapID": 1001,
+		"LevelIDList": [
+			4,
+			5
+		],
+		"TalentIDList": [
+			205,
+			206
+		],
+		"MaterialID": [],
+		"LocationID": 1607005,
+		"DisplayCondition": 1301,
+		"UnlockConditionTips": {
+			"hash": -1180808606
+		},
+		"Title": {
+			"hash": -452964187
+		},
+		"DataImpl": {},
+		"ID": 2
+	}
+]

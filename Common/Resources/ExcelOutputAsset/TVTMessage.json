@@ -1,0 +1,7322 @@
+[
+	{
+		"MessageType": 1,
+		"MessagePara": 0,
+		"StageID": 0,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 0
+		},
+		"BossIcon": "",
+		"DataImpl": {},
+		"MessageID": 1
+	},
+	{
+		"MessageType": 2,
+		"MessagePara": 0,
+		"StageID": 0,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 0
+		},
+		"BossIcon": "",
+		"DataImpl": {},
+		"MessageID": 2
+	},
+	{
+		"MessageType": 3,
+		"MessagePara": 0,
+		"StageID": 0,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 0
+		},
+		"BossIcon": "",
+		"DataImpl": {},
+		"MessageID": 3
+	},
+	{
+		"MessageType": 5,
+		"MessagePara": 0,
+		"StageID": 0,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 0
+		},
+		"BossIcon": "",
+		"DataImpl": {},
+		"MessageID": 4
+	},
+	{
+		"MessageType": 6,
+		"MessagePara": 0,
+		"StageID": 0,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 0
+		},
+		"BossIcon": "",
+		"DataImpl": {},
+		"MessageID": 6
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 775000,
+		"StageID": 200001,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1298663633
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 100
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 825000,
+		"StageID": 200001,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1712235399
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 101
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 850000,
+		"StageID": 200002,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1298663633
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 102
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 925000,
+		"StageID": 200002,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1712235399
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 103
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 925000,
+		"StageID": 200003,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1298663633
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 104
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1000000,
+		"StageID": 200003,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1712235399
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 105
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1025000,
+		"StageID": 200004,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1298663633
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 106
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1075000,
+		"StageID": 200004,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1712235399
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 107
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1075000,
+		"StageID": 200005,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1298663633
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 108
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1150000,
+		"StageID": 200005,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1712235399
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 109
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1175000,
+		"StageID": 200006,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1298663633
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 110
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1250000,
+		"StageID": 200006,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1712235399
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 111
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1300000,
+		"StageID": 200007,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1298663633
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 112
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1375000,
+		"StageID": 200007,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1712235399
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 113
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1175000,
+		"StageID": 200008,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1298663633
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 114
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1250000,
+		"StageID": 200008,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1712235399
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 115
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1275000,
+		"StageID": 200009,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1298663633
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 116
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1350000,
+		"StageID": 200009,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1712235399
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 117
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1400000,
+		"StageID": 200010,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1298663633
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 118
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1475000,
+		"StageID": 200010,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1712235399
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 119
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1500000,
+		"StageID": 200011,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1298663633
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 120
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1600000,
+		"StageID": 200011,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1712235399
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 121
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1625000,
+		"StageID": 200012,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1298663633
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 122
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1725000,
+		"StageID": 200012,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1712235399
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 123
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1725000,
+		"StageID": 200013,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1298663633
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 124
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1850000,
+		"StageID": 200013,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1712235399
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 125
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1850000,
+		"StageID": 200014,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1298663633
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 126
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1975000,
+		"StageID": 200014,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1712235399
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 127
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 2100000,
+		"StageID": 200015,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1298663633
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 128
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 2400000,
+		"StageID": 200015,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1712235399
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 129
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 2700000,
+		"StageID": 200016,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1298663633
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 130
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 3000000,
+		"StageID": 200016,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1712235399
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 131
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 3000000,
+		"StageID": 200017,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1298663633
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 132
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 3600000,
+		"StageID": 200017,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1712235399
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 133
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 3600000,
+		"StageID": 200018,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1298663633
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 134
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 4200000,
+		"StageID": 200018,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1712235399
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 135
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 4200000,
+		"StageID": 200019,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1298663633
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 136
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 4500000,
+		"StageID": 200019,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1712235399
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 137
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 4200000,
+		"StageID": 200020,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1298663633
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 138
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 4500000,
+		"StageID": 200020,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1712235399
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 139
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 5000000,
+		"StageID": 200021,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1298663633
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 140
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 6000000,
+		"StageID": 200021,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1712235399
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 141
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 300000,
+		"StageID": 200022,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1298663633
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 142
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 320000,
+		"StageID": 200022,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1712235399
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 143
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 460000,
+		"StageID": 200029,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1298663633
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 144
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 480000,
+		"StageID": 200029,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1712235399
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 145
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 350000,
+		"StageID": 200023,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1298663633
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 146
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 380000,
+		"StageID": 200023,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1712235399
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 147
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 520000,
+		"StageID": 200030,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1298663633
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 148
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 550000,
+		"StageID": 200030,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1712235399
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 149
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 400000,
+		"StageID": 200024,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1298663633
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 150
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 430000,
+		"StageID": 200024,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1712235399
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 151
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 580000,
+		"StageID": 200031,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1298663633
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 152
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 620000,
+		"StageID": 200031,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1712235399
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 153
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 450000,
+		"StageID": 200025,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1298663633
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 154
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 470000,
+		"StageID": 200025,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1712235399
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 155
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 640000,
+		"StageID": 200032,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1298663633
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 156
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 680000,
+		"StageID": 200032,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1712235399
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 157
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 500000,
+		"StageID": 200026,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1298663633
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 158
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 540000,
+		"StageID": 200026,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1712235399
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 159
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 700000,
+		"StageID": 200033,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1298663633
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 160
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 740000,
+		"StageID": 200033,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1712235399
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 161
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 550000,
+		"StageID": 200027,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1298663633
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 162
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 580000,
+		"StageID": 200027,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1712235399
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 163
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 760000,
+		"StageID": 200034,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1298663633
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 164
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 820000,
+		"StageID": 200034,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1712235399
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 165
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 600000,
+		"StageID": 200028,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1298663633
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 166
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 660000,
+		"StageID": 200028,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1712235399
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 167
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 820000,
+		"StageID": 200035,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1298663633
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 168
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 875000,
+		"StageID": 200035,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1712235399
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 169
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 775000,
+		"StageID": 200101,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1510014546
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 200
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 850000,
+		"StageID": 200102,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1510014546
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 201
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 925000,
+		"StageID": 200103,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1510014546
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 202
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1025000,
+		"StageID": 200104,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1510014546
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 203
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1075000,
+		"StageID": 200105,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1510014546
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 204
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1175000,
+		"StageID": 200106,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1510014546
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 205
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1300000,
+		"StageID": 200107,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1510014546
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 206
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1175000,
+		"StageID": 200108,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1510014546
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 207
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1275000,
+		"StageID": 200109,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1510014546
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 208
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1400000,
+		"StageID": 200110,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1510014546
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 209
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1500000,
+		"StageID": 200111,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1510014546
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 210
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1625000,
+		"StageID": 200112,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1510014546
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 211
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1725000,
+		"StageID": 200113,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1510014546
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 212
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1850000,
+		"StageID": 200114,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1510014546
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 213
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 2100000,
+		"StageID": 200115,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1510014546
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 214
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 2700000,
+		"StageID": 200116,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1510014546
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 215
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 3000000,
+		"StageID": 200117,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1510014546
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 216
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 3600000,
+		"StageID": 200118,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1510014546
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 217
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 3600000,
+		"StageID": 200119,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1510014546
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 218
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 4200000,
+		"StageID": 200120,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1510014546
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 219
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 5400000,
+		"StageID": 200121,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1510014546
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 220
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 825000,
+		"StageID": 200101,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 565568674
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 221
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 925000,
+		"StageID": 200102,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 565568674
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 222
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1000000,
+		"StageID": 200103,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 565568674
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 223
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1075000,
+		"StageID": 200104,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 565568674
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 224
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1150000,
+		"StageID": 200105,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 565568674
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 225
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1250000,
+		"StageID": 200106,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 565568674
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 226
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1375000,
+		"StageID": 200107,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 565568674
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 227
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1250000,
+		"StageID": 200108,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 565568674
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 228
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1350000,
+		"StageID": 200109,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 565568674
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 229
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1475000,
+		"StageID": 200110,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 565568674
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 230
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1600000,
+		"StageID": 200111,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 565568674
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 231
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1725000,
+		"StageID": 200112,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 565568674
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 232
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1850000,
+		"StageID": 200113,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 565568674
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 233
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1975000,
+		"StageID": 200114,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 565568674
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 234
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 2400000,
+		"StageID": 200115,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 565568674
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 235
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 3000000,
+		"StageID": 200116,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 565568674
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 236
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 3600000,
+		"StageID": 200117,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 565568674
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 237
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 4200000,
+		"StageID": 200118,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 565568674
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 238
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 4200000,
+		"StageID": 200119,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 565568674
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 239
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 5000000,
+		"StageID": 200120,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 565568674
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 240
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 6000000,
+		"StageID": 200121,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 565568674
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 241
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 300000,
+		"StageID": 200122,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1510014546
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 242
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 460000,
+		"StageID": 200129,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1510014546
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 243
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 320000,
+		"StageID": 200122,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 565568674
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 244
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 480000,
+		"StageID": 200129,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 565568674
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 245
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 350000,
+		"StageID": 200123,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1510014546
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 246
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 520000,
+		"StageID": 200130,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1510014546
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 247
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 380000,
+		"StageID": 200123,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 565568674
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 248
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 550000,
+		"StageID": 200130,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 565568674
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 249
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 400000,
+		"StageID": 200124,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1510014546
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 250
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 580000,
+		"StageID": 200131,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1510014546
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 251
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 430000,
+		"StageID": 200124,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 565568674
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 252
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 620000,
+		"StageID": 200131,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 565568674
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 253
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 450000,
+		"StageID": 200125,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1510014546
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 254
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 640000,
+		"StageID": 200132,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1510014546
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 255
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 470000,
+		"StageID": 200125,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 565568674
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 256
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 680000,
+		"StageID": 200132,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 565568674
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 257
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 500000,
+		"StageID": 200126,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1510014546
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 258
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 700000,
+		"StageID": 200133,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1510014546
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 259
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 540000,
+		"StageID": 200126,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 565568674
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 260
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 740000,
+		"StageID": 200133,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 565568674
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 261
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 550000,
+		"StageID": 200127,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1510014546
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 262
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 760000,
+		"StageID": 200134,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1510014546
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 263
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 580000,
+		"StageID": 200127,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 565568674
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 264
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 820000,
+		"StageID": 200134,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 565568674
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 265
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 600000,
+		"StageID": 200128,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1510014546
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 266
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 820000,
+		"StageID": 200135,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1510014546
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 267
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 660000,
+		"StageID": 200128,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 565568674
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 268
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 875000,
+		"StageID": 200135,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 565568674
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 269
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 775000,
+		"StageID": 200201,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1721365459
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 300
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 850000,
+		"StageID": 200202,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1721365459
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 301
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 925000,
+		"StageID": 200203,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1721365459
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 302
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1025000,
+		"StageID": 200204,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1721365459
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 303
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1075000,
+		"StageID": 200205,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1721365459
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 304
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1175000,
+		"StageID": 200206,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1721365459
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 305
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1300000,
+		"StageID": 200207,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1721365459
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 306
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1175000,
+		"StageID": 200208,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1721365459
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 307
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1275000,
+		"StageID": 200209,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1721365459
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 308
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1400000,
+		"StageID": 200210,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1721365459
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 309
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1500000,
+		"StageID": 200211,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1721365459
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 310
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1625000,
+		"StageID": 200212,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1721365459
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 311
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1725000,
+		"StageID": 200213,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1721365459
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 312
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1850000,
+		"StageID": 200214,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1721365459
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 313
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 2100000,
+		"StageID": 200215,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1721365459
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 314
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 2700000,
+		"StageID": 200216,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1721365459
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 315
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 3000000,
+		"StageID": 200217,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1721365459
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 316
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 3600000,
+		"StageID": 200218,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1721365459
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 317
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 3600000,
+		"StageID": 200219,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1721365459
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 318
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 4200000,
+		"StageID": 200220,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1721365459
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 319
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 5400000,
+		"StageID": 200221,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1721365459
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 320
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 825000,
+		"StageID": 200201,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1472487615
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 321
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 925000,
+		"StageID": 200202,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1472487615
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 322
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1000000,
+		"StageID": 200203,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1472487615
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 323
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1075000,
+		"StageID": 200204,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1472487615
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 324
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1150000,
+		"StageID": 200205,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1472487615
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 325
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1250000,
+		"StageID": 200206,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1472487615
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 326
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1375000,
+		"StageID": 200207,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1472487615
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 327
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1250000,
+		"StageID": 200208,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1472487615
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 328
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1350000,
+		"StageID": 200209,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1472487615
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 329
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1475000,
+		"StageID": 200210,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1472487615
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 330
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1600000,
+		"StageID": 200211,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1472487615
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 331
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1725000,
+		"StageID": 200212,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1472487615
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 332
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1850000,
+		"StageID": 200213,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1472487615
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 333
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1975000,
+		"StageID": 200214,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1472487615
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 334
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 2400000,
+		"StageID": 200215,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1472487615
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 335
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 3000000,
+		"StageID": 200216,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1472487615
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 336
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 3600000,
+		"StageID": 200217,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1472487615
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 337
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 4200000,
+		"StageID": 200218,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1472487615
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 338
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 4200000,
+		"StageID": 200219,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1472487615
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 339
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 5000000,
+		"StageID": 200220,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1472487615
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 340
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 6000000,
+		"StageID": 200221,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1472487615
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 341
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 300000,
+		"StageID": 200222,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1721365459
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 342
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 460000,
+		"StageID": 200229,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1721365459
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 343
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 320000,
+		"StageID": 200222,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1472487615
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 344
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 480000,
+		"StageID": 200229,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1472487615
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 345
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 350000,
+		"StageID": 200223,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1721365459
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 346
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 520000,
+		"StageID": 200230,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1721365459
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 347
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 380000,
+		"StageID": 200223,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1472487615
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 348
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 550000,
+		"StageID": 200230,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1472487615
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 349
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 400000,
+		"StageID": 200224,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1721365459
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 350
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 580000,
+		"StageID": 200231,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1721365459
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 351
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 430000,
+		"StageID": 200224,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1472487615
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 352
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 620000,
+		"StageID": 200231,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1472487615
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 353
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 450000,
+		"StageID": 200225,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1721365459
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 354
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 640000,
+		"StageID": 200232,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1721365459
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 355
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 470000,
+		"StageID": 200225,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1472487615
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 356
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 680000,
+		"StageID": 200232,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1472487615
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 357
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 500000,
+		"StageID": 200226,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1721365459
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 358
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 700000,
+		"StageID": 200233,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1721365459
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 359
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 540000,
+		"StageID": 200226,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1472487615
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 360
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 740000,
+		"StageID": 200233,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1472487615
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 361
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 550000,
+		"StageID": 200227,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1721365459
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 362
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 760000,
+		"StageID": 200234,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1721365459
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 363
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 580000,
+		"StageID": 200227,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1472487615
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 364
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 820000,
+		"StageID": 200234,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1472487615
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 365
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 600000,
+		"StageID": 200228,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1721365459
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 366
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 820000,
+		"StageID": 200235,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1721365459
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 367
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 660000,
+		"StageID": 200228,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1472487615
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 368
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 875000,
+		"StageID": 200235,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1472487615
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 369
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 775000,
+		"StageID": 200301,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1932716372
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 400
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 850000,
+		"StageID": 200302,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1932716372
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 401
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 925000,
+		"StageID": 200303,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1932716372
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 402
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1025000,
+		"StageID": 200304,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1932716372
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 403
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1075000,
+		"StageID": 200305,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1932716372
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 404
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1175000,
+		"StageID": 200306,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1932716372
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 405
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1300000,
+		"StageID": 200307,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1932716372
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 406
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1175000,
+		"StageID": 200308,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1932716372
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 407
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1275000,
+		"StageID": 200309,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1932716372
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 408
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1400000,
+		"StageID": 200310,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1932716372
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 409
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1500000,
+		"StageID": 200311,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1932716372
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 410
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1625000,
+		"StageID": 200312,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1932716372
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 411
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1725000,
+		"StageID": 200313,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1932716372
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 412
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1850000,
+		"StageID": 200314,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1932716372
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 413
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 2100000,
+		"StageID": 200315,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1932716372
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 414
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 2700000,
+		"StageID": 200316,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1932716372
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 415
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 3000000,
+		"StageID": 200317,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1932716372
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 416
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 3600000,
+		"StageID": 200318,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1932716372
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 417
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 3600000,
+		"StageID": 200319,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1932716372
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 418
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 4200000,
+		"StageID": 200320,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1932716372
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 419
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 5400000,
+		"StageID": 200321,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1932716372
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 420
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 825000,
+		"StageID": 200301,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 784423392
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 421
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 925000,
+		"StageID": 200302,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 784423392
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 422
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1000000,
+		"StageID": 200303,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 784423392
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 423
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1075000,
+		"StageID": 200304,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 784423392
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 424
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1150000,
+		"StageID": 200305,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 784423392
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 425
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1250000,
+		"StageID": 200306,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 784423392
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 426
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1375000,
+		"StageID": 200307,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 784423392
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 427
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1250000,
+		"StageID": 200308,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 784423392
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 428
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1350000,
+		"StageID": 200309,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 784423392
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 429
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1475000,
+		"StageID": 200310,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 784423392
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 430
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1600000,
+		"StageID": 200311,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 784423392
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 431
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1725000,
+		"StageID": 200312,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 784423392
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 432
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1850000,
+		"StageID": 200313,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 784423392
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 433
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1975000,
+		"StageID": 200314,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 784423392
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 434
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 2400000,
+		"StageID": 200315,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 784423392
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 435
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 3000000,
+		"StageID": 200316,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 784423392
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 436
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 3600000,
+		"StageID": 200317,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 784423392
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 437
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 4200000,
+		"StageID": 200318,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 784423392
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 438
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 4200000,
+		"StageID": 200319,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 784423392
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 439
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 5000000,
+		"StageID": 200320,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 784423392
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 440
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 6000000,
+		"StageID": 200321,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 784423392
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 441
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 300000,
+		"StageID": 200322,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1932716372
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 442
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 460000,
+		"StageID": 200329,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1932716372
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 443
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 320000,
+		"StageID": 200322,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 784423392
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 444
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 480000,
+		"StageID": 200329,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 784423392
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 445
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 350000,
+		"StageID": 200323,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1932716372
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 446
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 520000,
+		"StageID": 200330,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1932716372
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 447
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 380000,
+		"StageID": 200323,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 784423392
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 448
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 550000,
+		"StageID": 200330,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 784423392
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 449
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 400000,
+		"StageID": 200324,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1932716372
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 450
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 580000,
+		"StageID": 200331,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1932716372
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 451
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 430000,
+		"StageID": 200324,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 784423392
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 452
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 620000,
+		"StageID": 200331,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 784423392
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 453
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 450000,
+		"StageID": 200325,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1932716372
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 454
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 640000,
+		"StageID": 200332,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1932716372
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 455
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 470000,
+		"StageID": 200325,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 784423392
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 456
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 680000,
+		"StageID": 200332,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 784423392
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 457
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 500000,
+		"StageID": 200326,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1932716372
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 458
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 700000,
+		"StageID": 200333,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1932716372
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 459
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 540000,
+		"StageID": 200326,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 784423392
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 460
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 740000,
+		"StageID": 200333,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 784423392
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 461
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 550000,
+		"StageID": 200327,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1932716372
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 462
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 760000,
+		"StageID": 200334,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1932716372
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 463
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 580000,
+		"StageID": 200327,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 784423392
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 464
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 820000,
+		"StageID": 200334,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 784423392
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 465
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 600000,
+		"StageID": 200328,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1932716372
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 466
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 820000,
+		"StageID": 200335,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 1932716372
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 467
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 660000,
+		"StageID": 200328,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 784423392
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 468
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 875000,
+		"StageID": 200335,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 784423392
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 469
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 775000,
+		"StageID": 200401,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 2144067285
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 500
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 850000,
+		"StageID": 200402,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 2144067285
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 501
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 925000,
+		"StageID": 200403,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 2144067285
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 502
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1025000,
+		"StageID": 200404,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 2144067285
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 503
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1075000,
+		"StageID": 200405,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 2144067285
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 504
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1175000,
+		"StageID": 200406,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 2144067285
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 505
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1300000,
+		"StageID": 200407,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 2144067285
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 506
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1175000,
+		"StageID": 200408,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 2144067285
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 507
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1275000,
+		"StageID": 200409,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 2144067285
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 508
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1400000,
+		"StageID": 200410,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 2144067285
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 509
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1500000,
+		"StageID": 200411,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 2144067285
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 510
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1625000,
+		"StageID": 200412,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 2144067285
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 511
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1725000,
+		"StageID": 200413,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 2144067285
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 512
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1850000,
+		"StageID": 200414,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 2144067285
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 513
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 2100000,
+		"StageID": 200415,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 2144067285
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 514
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 2700000,
+		"StageID": 200416,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 2144067285
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 515
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 3000000,
+		"StageID": 200417,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 2144067285
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 516
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 3600000,
+		"StageID": 200418,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 2144067285
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 517
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 3600000,
+		"StageID": 200419,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 2144067285
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 518
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 4200000,
+		"StageID": 200420,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 2144067285
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 519
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 5400000,
+		"StageID": 200421,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 2144067285
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 520
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 825000,
+		"StageID": 200401,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1253632897
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 521
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 925000,
+		"StageID": 200402,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1253632897
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 522
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1000000,
+		"StageID": 200403,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1253632897
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 523
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1075000,
+		"StageID": 200404,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1253632897
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 524
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1150000,
+		"StageID": 200405,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1253632897
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 525
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1250000,
+		"StageID": 200406,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1253632897
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 526
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1375000,
+		"StageID": 200407,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1253632897
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 527
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1250000,
+		"StageID": 200408,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1253632897
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 528
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1350000,
+		"StageID": 200409,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1253632897
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 529
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1475000,
+		"StageID": 200410,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1253632897
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 530
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1600000,
+		"StageID": 200411,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1253632897
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 531
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1725000,
+		"StageID": 200412,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1253632897
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 532
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1850000,
+		"StageID": 200413,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1253632897
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 533
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1975000,
+		"StageID": 200414,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1253632897
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 534
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 2400000,
+		"StageID": 200415,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1253632897
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 535
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 3000000,
+		"StageID": 200416,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1253632897
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 536
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 3600000,
+		"StageID": 200417,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1253632897
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 537
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 4200000,
+		"StageID": 200418,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1253632897
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 538
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 4200000,
+		"StageID": 200419,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1253632897
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 539
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 5000000,
+		"StageID": 200420,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1253632897
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 540
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 6000000,
+		"StageID": 200421,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1253632897
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 541
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 300000,
+		"StageID": 200422,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 2144067285
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 542
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 460000,
+		"StageID": 200429,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 2144067285
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 543
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 320000,
+		"StageID": 200422,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1253632897
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 544
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 480000,
+		"StageID": 200429,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1253632897
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 545
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 350000,
+		"StageID": 200423,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 2144067285
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 546
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 520000,
+		"StageID": 200430,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 2144067285
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 547
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 380000,
+		"StageID": 200423,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1253632897
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 548
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 550000,
+		"StageID": 200430,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1253632897
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 549
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 400000,
+		"StageID": 200424,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 2144067285
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 550
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 580000,
+		"StageID": 200431,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 2144067285
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 551
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 430000,
+		"StageID": 200424,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1253632897
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 552
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 620000,
+		"StageID": 200431,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1253632897
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 553
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 450000,
+		"StageID": 200425,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 2144067285
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 554
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 640000,
+		"StageID": 200432,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 2144067285
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 555
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 470000,
+		"StageID": 200425,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1253632897
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 556
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 680000,
+		"StageID": 200432,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1253632897
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 557
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 500000,
+		"StageID": 200426,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 2144067285
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 558
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 700000,
+		"StageID": 200433,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 2144067285
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 559
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 540000,
+		"StageID": 200426,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1253632897
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 560
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 740000,
+		"StageID": 200433,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1253632897
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 561
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 550000,
+		"StageID": 200427,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 2144067285
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 562
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 760000,
+		"StageID": 200434,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 2144067285
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 563
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 580000,
+		"StageID": 200427,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1253632897
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 564
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 820000,
+		"StageID": 200434,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1253632897
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 565
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 600000,
+		"StageID": 200428,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 2144067285
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 566
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 820000,
+		"StageID": 200435,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": 2144067285
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 567
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 660000,
+		"StageID": 200428,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1253632897
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 568
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 875000,
+		"StageID": 200435,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1253632897
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 569
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 775000,
+		"StageID": 200501,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1939549098
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 600
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 850000,
+		"StageID": 200502,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1939549098
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 601
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 925000,
+		"StageID": 200503,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1939549098
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 602
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1025000,
+		"StageID": 200504,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1939549098
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 603
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1075000,
+		"StageID": 200505,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1939549098
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 604
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1175000,
+		"StageID": 200506,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1939549098
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 605
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1300000,
+		"StageID": 200507,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1939549098
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 606
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1175000,
+		"StageID": 200508,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1939549098
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 607
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1275000,
+		"StageID": 200509,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1939549098
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 608
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1400000,
+		"StageID": 200510,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1939549098
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 609
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1500000,
+		"StageID": 200511,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1939549098
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 610
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1625000,
+		"StageID": 200512,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1939549098
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 611
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1725000,
+		"StageID": 200513,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1939549098
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 612
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1850000,
+		"StageID": 200514,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1939549098
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 613
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 2100000,
+		"StageID": 200515,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1939549098
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 614
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 2700000,
+		"StageID": 200516,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1939549098
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 615
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 3000000,
+		"StageID": 200517,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1939549098
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 616
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 3600000,
+		"StageID": 200518,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1939549098
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 617
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 3600000,
+		"StageID": 200519,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1939549098
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 618
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 4200000,
+		"StageID": 200520,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1939549098
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 619
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 5400000,
+		"StageID": 200521,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1939549098
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 620
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 825000,
+		"StageID": 200501,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1003278110
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 621
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 925000,
+		"StageID": 200502,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1003278110
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 622
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1000000,
+		"StageID": 200503,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1003278110
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 623
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1075000,
+		"StageID": 200504,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1003278110
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 624
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1150000,
+		"StageID": 200505,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1003278110
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 625
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1250000,
+		"StageID": 200506,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1003278110
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 626
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1375000,
+		"StageID": 200507,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1003278110
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 627
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1250000,
+		"StageID": 200508,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1003278110
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 628
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1350000,
+		"StageID": 200509,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1003278110
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 629
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1475000,
+		"StageID": 200510,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1003278110
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 630
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1600000,
+		"StageID": 200511,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1003278110
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 631
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1725000,
+		"StageID": 200512,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1003278110
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 632
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1850000,
+		"StageID": 200513,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1003278110
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 633
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1975000,
+		"StageID": 200514,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1003278110
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 634
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 2400000,
+		"StageID": 200515,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1003278110
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 635
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 3000000,
+		"StageID": 200516,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1003278110
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 636
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 3600000,
+		"StageID": 200517,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1003278110
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 637
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 4200000,
+		"StageID": 200518,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1003278110
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 638
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 4200000,
+		"StageID": 200519,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1003278110
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 639
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 5000000,
+		"StageID": 200520,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1003278110
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 640
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 6000000,
+		"StageID": 200521,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1003278110
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 641
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 300000,
+		"StageID": 200522,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1939549098
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 642
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 460000,
+		"StageID": 200529,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1939549098
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 643
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 320000,
+		"StageID": 200522,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1003278110
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 644
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 480000,
+		"StageID": 200529,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1003278110
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 645
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 350000,
+		"StageID": 200523,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1939549098
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 646
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 520000,
+		"StageID": 200530,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1939549098
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 647
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 380000,
+		"StageID": 200523,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1003278110
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 648
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 550000,
+		"StageID": 200530,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1003278110
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 649
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 400000,
+		"StageID": 200524,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1939549098
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 650
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 580000,
+		"StageID": 200531,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1939549098
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 651
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 430000,
+		"StageID": 200524,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1003278110
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 652
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 620000,
+		"StageID": 200531,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1003278110
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 653
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 450000,
+		"StageID": 200525,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1939549098
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 654
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 640000,
+		"StageID": 200532,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1939549098
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 655
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 470000,
+		"StageID": 200525,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1003278110
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 656
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 680000,
+		"StageID": 200532,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1003278110
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 657
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 500000,
+		"StageID": 200526,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1939549098
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 658
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 700000,
+		"StageID": 200533,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1939549098
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 659
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 540000,
+		"StageID": 200526,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1003278110
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 660
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 740000,
+		"StageID": 200533,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1003278110
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 661
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 550000,
+		"StageID": 200527,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1939549098
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 662
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 760000,
+		"StageID": 200534,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1939549098
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 663
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 580000,
+		"StageID": 200527,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1003278110
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 664
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 820000,
+		"StageID": 200534,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1003278110
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 665
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 600000,
+		"StageID": 200528,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1939549098
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 666
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 820000,
+		"StageID": 200535,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1939549098
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 667
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 660000,
+		"StageID": 200528,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1003278110
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 668
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 875000,
+		"StageID": 200535,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1003278110
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 669
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 775000,
+		"StageID": 200601,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1728198185
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 700
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 850000,
+		"StageID": 200602,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1728198185
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 701
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 925000,
+		"StageID": 200603,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1728198185
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 702
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1025000,
+		"StageID": 200604,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1728198185
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 703
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1075000,
+		"StageID": 200605,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1728198185
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 704
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1175000,
+		"StageID": 200606,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1728198185
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 705
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1300000,
+		"StageID": 200607,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1728198185
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 706
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1175000,
+		"StageID": 200608,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1728198185
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 707
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1275000,
+		"StageID": 200609,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1728198185
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 708
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1400000,
+		"StageID": 200610,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1728198185
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 709
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1500000,
+		"StageID": 200611,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1728198185
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 710
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1625000,
+		"StageID": 200612,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1728198185
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 711
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1725000,
+		"StageID": 200613,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1728198185
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 712
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1850000,
+		"StageID": 200614,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1728198185
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 713
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 2100000,
+		"StageID": 200615,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1728198185
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 714
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 2700000,
+		"StageID": 200616,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1728198185
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 715
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 3000000,
+		"StageID": 200617,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1728198185
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 716
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 3600000,
+		"StageID": 200618,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1728198185
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 717
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 3600000,
+		"StageID": 200619,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1728198185
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 718
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 4200000,
+		"StageID": 200620,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1728198185
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 719
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 5400000,
+		"StageID": 200621,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1728198185
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 720
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 825000,
+		"StageID": 200601,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1034778179
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 721
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 925000,
+		"StageID": 200602,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1034778179
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 722
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1000000,
+		"StageID": 200603,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1034778179
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 723
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1075000,
+		"StageID": 200604,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1034778179
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 724
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1150000,
+		"StageID": 200605,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1034778179
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 725
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1250000,
+		"StageID": 200606,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1034778179
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 726
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1375000,
+		"StageID": 200607,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1034778179
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 727
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1250000,
+		"StageID": 200608,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1034778179
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 728
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1350000,
+		"StageID": 200609,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1034778179
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 729
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1475000,
+		"StageID": 200610,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1034778179
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 730
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1600000,
+		"StageID": 200611,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1034778179
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 731
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1725000,
+		"StageID": 200612,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1034778179
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 732
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1850000,
+		"StageID": 200613,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1034778179
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 733
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1975000,
+		"StageID": 200614,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1034778179
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 734
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 2400000,
+		"StageID": 200615,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1034778179
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 735
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 3000000,
+		"StageID": 200616,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1034778179
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 736
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 3600000,
+		"StageID": 200617,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1034778179
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 737
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 4200000,
+		"StageID": 200618,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1034778179
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 738
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 4200000,
+		"StageID": 200619,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1034778179
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 739
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 5000000,
+		"StageID": 200620,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1034778179
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 740
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 6000000,
+		"StageID": 200621,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1034778179
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 741
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 300000,
+		"StageID": 200622,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1728198185
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 742
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 460000,
+		"StageID": 200629,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1728198185
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 743
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 320000,
+		"StageID": 200622,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1034778179
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 744
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 480000,
+		"StageID": 200629,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1034778179
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 745
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 350000,
+		"StageID": 200623,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1728198185
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 746
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 520000,
+		"StageID": 200630,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1728198185
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 747
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 380000,
+		"StageID": 200623,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1034778179
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 748
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 550000,
+		"StageID": 200630,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1034778179
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 749
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 400000,
+		"StageID": 200624,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1728198185
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 750
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 580000,
+		"StageID": 200631,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1728198185
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 751
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 430000,
+		"StageID": 200624,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1034778179
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 752
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 620000,
+		"StageID": 200631,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1034778179
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 753
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 450000,
+		"StageID": 200625,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1728198185
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 754
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 640000,
+		"StageID": 200632,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1728198185
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 755
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 470000,
+		"StageID": 200625,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1034778179
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 756
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 680000,
+		"StageID": 200632,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1034778179
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 757
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 500000,
+		"StageID": 200626,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1728198185
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 758
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 700000,
+		"StageID": 200633,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1728198185
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 759
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 540000,
+		"StageID": 200626,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1034778179
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 760
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 740000,
+		"StageID": 200633,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1034778179
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 761
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 550000,
+		"StageID": 200627,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1728198185
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 762
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 760000,
+		"StageID": 200634,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1728198185
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 763
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 580000,
+		"StageID": 200627,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1034778179
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 764
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 820000,
+		"StageID": 200634,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1034778179
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 765
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 600000,
+		"StageID": 200628,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1728198185
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 766
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 820000,
+		"StageID": 200635,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1728198185
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 767
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 660000,
+		"StageID": 200628,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1034778179
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 768
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 875000,
+		"StageID": 200635,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -1034778179
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 769
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 775000,
+		"StageID": 200701,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1516847272
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 800
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 850000,
+		"StageID": 200702,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1516847272
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 801
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 925000,
+		"StageID": 200703,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1516847272
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 802
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1025000,
+		"StageID": 200704,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1516847272
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 803
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1075000,
+		"StageID": 200705,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1516847272
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 804
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1175000,
+		"StageID": 200706,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1516847272
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 805
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1300000,
+		"StageID": 200707,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1516847272
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 806
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1175000,
+		"StageID": 200708,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1516847272
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 807
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1275000,
+		"StageID": 200709,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1516847272
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 808
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1400000,
+		"StageID": 200710,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1516847272
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 809
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1500000,
+		"StageID": 200711,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1516847272
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 810
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1625000,
+		"StageID": 200712,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1516847272
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 811
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1725000,
+		"StageID": 200713,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1516847272
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 812
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1850000,
+		"StageID": 200714,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1516847272
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 813
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 2100000,
+		"StageID": 200715,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1516847272
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 814
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 2700000,
+		"StageID": 200716,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1516847272
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 815
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 3000000,
+		"StageID": 200717,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1516847272
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 816
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 3600000,
+		"StageID": 200718,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1516847272
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 817
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 3600000,
+		"StageID": 200719,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1516847272
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 818
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 4200000,
+		"StageID": 200720,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1516847272
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 819
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 5400000,
+		"StageID": 200721,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1516847272
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 820
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 825000,
+		"StageID": 200701,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1222132828
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 821
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 925000,
+		"StageID": 200702,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1222132828
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 822
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1000000,
+		"StageID": 200703,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1222132828
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 823
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1075000,
+		"StageID": 200704,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1222132828
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 824
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1150000,
+		"StageID": 200705,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1222132828
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 825
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1250000,
+		"StageID": 200706,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1222132828
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 826
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1375000,
+		"StageID": 200707,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1222132828
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 827
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1250000,
+		"StageID": 200708,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1222132828
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 828
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1350000,
+		"StageID": 200709,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1222132828
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 829
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1475000,
+		"StageID": 200710,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1222132828
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 830
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1600000,
+		"StageID": 200711,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1222132828
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 831
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1725000,
+		"StageID": 200712,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1222132828
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 832
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1850000,
+		"StageID": 200713,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1222132828
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 833
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1975000,
+		"StageID": 200714,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1222132828
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 834
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 2400000,
+		"StageID": 200715,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1222132828
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 835
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 3000000,
+		"StageID": 200716,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1222132828
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 836
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 3600000,
+		"StageID": 200717,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1222132828
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 837
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 4200000,
+		"StageID": 200718,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1222132828
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 838
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 4200000,
+		"StageID": 200719,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1222132828
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 839
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 5000000,
+		"StageID": 200720,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1222132828
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 840
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 6000000,
+		"StageID": 200721,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1222132828
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 841
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 300000,
+		"StageID": 200722,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1516847272
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 842
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 460000,
+		"StageID": 200729,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1516847272
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 843
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 320000,
+		"StageID": 200722,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1222132828
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 844
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 480000,
+		"StageID": 200729,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1222132828
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 845
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 350000,
+		"StageID": 200723,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1516847272
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 846
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 520000,
+		"StageID": 200730,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1516847272
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 847
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 380000,
+		"StageID": 200723,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1222132828
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 848
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 550000,
+		"StageID": 200730,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1222132828
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 849
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 400000,
+		"StageID": 200724,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1516847272
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 850
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 580000,
+		"StageID": 200731,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1516847272
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 851
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 430000,
+		"StageID": 200724,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1222132828
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 852
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 620000,
+		"StageID": 200731,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1222132828
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 853
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 450000,
+		"StageID": 200725,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1516847272
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 854
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 640000,
+		"StageID": 200732,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1516847272
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 855
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 470000,
+		"StageID": 200725,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1222132828
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 856
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 680000,
+		"StageID": 200732,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1222132828
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 857
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 500000,
+		"StageID": 200726,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1516847272
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 858
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 700000,
+		"StageID": 200733,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1516847272
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 859
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 540000,
+		"StageID": 200726,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1222132828
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 860
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 740000,
+		"StageID": 200733,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1222132828
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 861
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 550000,
+		"StageID": 200727,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1516847272
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 862
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 760000,
+		"StageID": 200734,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1516847272
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 863
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 580000,
+		"StageID": 200727,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1222132828
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 864
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 820000,
+		"StageID": 200734,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1222132828
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 865
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 600000,
+		"StageID": 200728,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1516847272
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 866
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 820000,
+		"StageID": 200735,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -1516847272
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 867
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 660000,
+		"StageID": 200728,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1222132828
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 868
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 875000,
+		"StageID": 200735,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": 1222132828
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 869
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 10000000,
+		"StageID": 200706,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -203040940
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 870
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 2500000,
+		"StageID": 200706,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -203040940
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 871
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1,
+		"StageID": 200515,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -203040940
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 881
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1000000,
+		"StageID": 200515,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -203040940
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 882
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1000000,
+		"StageID": 200515,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -203040940
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 883
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1000000,
+		"StageID": 200401,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -203040940
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 884
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 100000000,
+		"StageID": 200401,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -203040940
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 885
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1000000,
+		"StageID": 200515,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -203040940
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 886
+	},
+	{
+		"MessageType": 7,
+		"MessagePara": 20,
+		"StageID": 200609,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -203040940
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 887
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 10000000,
+		"StageID": 200707,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -203040940
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 920
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 2500000,
+		"StageID": 200707,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -203040940
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 921
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1,
+		"StageID": 200516,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -203040940
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 931
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1000000,
+		"StageID": 200516,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -203040940
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 932
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1000000,
+		"StageID": 200516,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -203040940
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 933
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1000000,
+		"StageID": 200402,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -203040940
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 934
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 100000000,
+		"StageID": 200402,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -203040940
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 935
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1000000,
+		"StageID": 200516,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -203040940
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 936
+	},
+	{
+		"MessageType": 7,
+		"MessagePara": 20,
+		"StageID": 200610,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -203040940
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 937
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 10000000,
+		"StageID": 200708,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -203040940
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 970
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 2500000,
+		"StageID": 200708,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -203040940
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 971
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1,
+		"StageID": 200517,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -203040940
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 981
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1000000,
+		"StageID": 200517,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -203040940
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 982
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1000000,
+		"StageID": 200517,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -203040940
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 983
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1000000,
+		"StageID": 200403,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -203040940
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 984
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 100000000,
+		"StageID": 200403,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -203040940
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 985
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1000000,
+		"StageID": 200517,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -203040940
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 986
+	},
+	{
+		"MessageType": 7,
+		"MessagePara": 20,
+		"StageID": 200611,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -203040940
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 987
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 10000000,
+		"StageID": 200709,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -203040940
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 1020
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 2500000,
+		"StageID": 200709,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -203040940
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 1021
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1,
+		"StageID": 200518,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -203040940
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 1031
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1000000,
+		"StageID": 200518,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -203040940
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 1032
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1000000,
+		"StageID": 200518,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -203040940
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 1033
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1000000,
+		"StageID": 200404,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -203040940
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 1034
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 100000000,
+		"StageID": 200404,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -203040940
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 1035
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1000000,
+		"StageID": 200518,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -203040940
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 1036
+	},
+	{
+		"MessageType": 7,
+		"MessagePara": 20,
+		"StageID": 200612,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -203040940
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 1037
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 10000000,
+		"StageID": 200710,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -203040940
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 1070
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 2500000,
+		"StageID": 200710,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -203040940
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 1071
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1,
+		"StageID": 200519,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -203040940
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 1081
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1000000,
+		"StageID": 200519,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -203040940
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 1082
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1000000,
+		"StageID": 200519,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -203040940
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 1083
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1000000,
+		"StageID": 200405,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -203040940
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 1084
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 100000000,
+		"StageID": 200405,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -203040940
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 1085
+	},
+	{
+		"MessageType": 4,
+		"MessagePara": 1000000,
+		"StageID": 200519,
+		"IsBattleWinCondition": false,
+		"BossName": {
+			"hash": -203040940
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 1086
+	},
+	{
+		"MessageType": 7,
+		"MessagePara": 20,
+		"StageID": 200613,
+		"IsBattleWinCondition": true,
+		"BossName": {
+			"hash": -203040940
+		},
+		"BossIcon": "SpriteOutput/TVTBossPortrait/BOSS_012",
+		"DataImpl": {},
+		"MessageID": 1087
+	}
+]

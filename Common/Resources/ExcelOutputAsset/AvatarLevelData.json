@@ -1,0 +1,642 @@
+[
+	{
+		"exp": 15,
+		"cost": 999,
+		"avatarAssistConf": 1,
+		"subSkillScoin": 100,
+		"DataImpl": {},
+		"level": 1
+	},
+	{
+		"exp": 25,
+		"cost": 999,
+		"avatarAssistConf": 1.05,
+		"subSkillScoin": 100,
+		"DataImpl": {},
+		"level": 2
+	},
+	{
+		"exp": 35,
+		"cost": 999,
+		"avatarAssistConf": 1.1,
+		"subSkillScoin": 100,
+		"DataImpl": {},
+		"level": 3
+	},
+	{
+		"exp": 45,
+		"cost": 999,
+		"avatarAssistConf": 1.24,
+		"subSkillScoin": 130,
+		"DataImpl": {},
+		"level": 4
+	},
+	{
+		"exp": 55,
+		"cost": 999,
+		"avatarAssistConf": 1.38,
+		"subSkillScoin": 160,
+		"DataImpl": {},
+		"level": 5
+	},
+	{
+		"exp": 65,
+		"cost": 999,
+		"avatarAssistConf": 1.53,
+		"subSkillScoin": 190,
+		"DataImpl": {},
+		"level": 6
+	},
+	{
+		"exp": 75,
+		"cost": 999,
+		"avatarAssistConf": 1.6,
+		"subSkillScoin": 220,
+		"DataImpl": {},
+		"level": 7
+	},
+	{
+		"exp": 85,
+		"cost": 999,
+		"avatarAssistConf": 1.66,
+		"subSkillScoin": 250,
+		"DataImpl": {},
+		"level": 8
+	},
+	{
+		"exp": 100,
+		"cost": 999,
+		"avatarAssistConf": 1.72,
+		"subSkillScoin": 290,
+		"DataImpl": {},
+		"level": 9
+	},
+	{
+		"exp": 115,
+		"cost": 999,
+		"avatarAssistConf": 1.83,
+		"subSkillScoin": 330,
+		"DataImpl": {},
+		"level": 10
+	},
+	{
+		"exp": 130,
+		"cost": 999,
+		"avatarAssistConf": 1.95,
+		"subSkillScoin": 370,
+		"DataImpl": {},
+		"level": 11
+	},
+	{
+		"exp": 145,
+		"cost": 999,
+		"avatarAssistConf": 2.07,
+		"subSkillScoin": 410,
+		"DataImpl": {},
+		"level": 12
+	},
+	{
+		"exp": 160,
+		"cost": 999,
+		"avatarAssistConf": 2.14,
+		"subSkillScoin": 450,
+		"DataImpl": {},
+		"level": 13
+	},
+	{
+		"exp": 250,
+		"cost": 999,
+		"avatarAssistConf": 2.26,
+		"subSkillScoin": 500,
+		"DataImpl": {},
+		"level": 14
+	},
+	{
+		"exp": 340,
+		"cost": 999,
+		"avatarAssistConf": 2.53,
+		"subSkillScoin": 550,
+		"DataImpl": {},
+		"level": 15
+	},
+	{
+		"exp": 430,
+		"cost": 999,
+		"avatarAssistConf": 2.8,
+		"subSkillScoin": 600,
+		"DataImpl": {},
+		"level": 16
+	},
+	{
+		"exp": 520,
+		"cost": 999,
+		"avatarAssistConf": 3.04,
+		"subSkillScoin": 650,
+		"DataImpl": {},
+		"level": 17
+	},
+	{
+		"exp": 610,
+		"cost": 999,
+		"avatarAssistConf": 3.14,
+		"subSkillScoin": 700,
+		"DataImpl": {},
+		"level": 18
+	},
+	{
+		"exp": 730,
+		"cost": 999,
+		"avatarAssistConf": 3.25,
+		"subSkillScoin": 760,
+		"DataImpl": {},
+		"level": 19
+	},
+	{
+		"exp": 850,
+		"cost": 999,
+		"avatarAssistConf": 3.42,
+		"subSkillScoin": 820,
+		"DataImpl": {},
+		"level": 20
+	},
+	{
+		"exp": 970,
+		"cost": 999,
+		"avatarAssistConf": 3.6,
+		"subSkillScoin": 880,
+		"DataImpl": {},
+		"level": 21
+	},
+	{
+		"exp": 1090,
+		"cost": 999,
+		"avatarAssistConf": 3.78,
+		"subSkillScoin": 940,
+		"DataImpl": {},
+		"level": 22
+	},
+	{
+		"exp": 1210,
+		"cost": 999,
+		"avatarAssistConf": 3.9,
+		"subSkillScoin": 1000,
+		"DataImpl": {},
+		"level": 23
+	},
+	{
+		"exp": 1360,
+		"cost": 999,
+		"avatarAssistConf": 4.01,
+		"subSkillScoin": 1070,
+		"DataImpl": {},
+		"level": 24
+	},
+	{
+		"exp": 1510,
+		"cost": 999,
+		"avatarAssistConf": 4.16,
+		"subSkillScoin": 1140,
+		"DataImpl": {},
+		"level": 25
+	},
+	{
+		"exp": 1660,
+		"cost": 999,
+		"avatarAssistConf": 4.3,
+		"subSkillScoin": 1210,
+		"DataImpl": {},
+		"level": 26
+	},
+	{
+		"exp": 1810,
+		"cost": 999,
+		"avatarAssistConf": 4.45,
+		"subSkillScoin": 1280,
+		"DataImpl": {},
+		"level": 27
+	},
+	{
+		"exp": 1960,
+		"cost": 999,
+		"avatarAssistConf": 4.57,
+		"subSkillScoin": 1350,
+		"DataImpl": {},
+		"level": 28
+	},
+	{
+		"exp": 2160,
+		"cost": 999,
+		"avatarAssistConf": 4.7,
+		"subSkillScoin": 1450,
+		"DataImpl": {},
+		"level": 29
+	},
+	{
+		"exp": 2360,
+		"cost": 999,
+		"avatarAssistConf": 5.04,
+		"subSkillScoin": 1550,
+		"DataImpl": {},
+		"level": 30
+	},
+	{
+		"exp": 2560,
+		"cost": 999,
+		"avatarAssistConf": 5.39,
+		"subSkillScoin": 1650,
+		"DataImpl": {},
+		"level": 31
+	},
+	{
+		"exp": 2760,
+		"cost": 999,
+		"avatarAssistConf": 5.75,
+		"subSkillScoin": 1750,
+		"DataImpl": {},
+		"level": 32
+	},
+	{
+		"exp": 2960,
+		"cost": 999,
+		"avatarAssistConf": 5.89,
+		"subSkillScoin": 1850,
+		"DataImpl": {},
+		"level": 33
+	},
+	{
+		"exp": 3260,
+		"cost": 999,
+		"avatarAssistConf": 6.04,
+		"subSkillScoin": 2050,
+		"DataImpl": {},
+		"level": 34
+	},
+	{
+		"exp": 3560,
+		"cost": 999,
+		"avatarAssistConf": 6.26,
+		"subSkillScoin": 2250,
+		"DataImpl": {},
+		"level": 35
+	},
+	{
+		"exp": 3860,
+		"cost": 999,
+		"avatarAssistConf": 6.48,
+		"subSkillScoin": 2450,
+		"DataImpl": {},
+		"level": 36
+	},
+	{
+		"exp": 4160,
+		"cost": 999,
+		"avatarAssistConf": 6.71,
+		"subSkillScoin": 2650,
+		"DataImpl": {},
+		"level": 37
+	},
+	{
+		"exp": 4460,
+		"cost": 999,
+		"avatarAssistConf": 6.87,
+		"subSkillScoin": 2850,
+		"DataImpl": {},
+		"level": 38
+	},
+	{
+		"exp": 4840,
+		"cost": 999,
+		"avatarAssistConf": 7.03,
+		"subSkillScoin": 3150,
+		"DataImpl": {},
+		"level": 39
+	},
+	{
+		"exp": 5220,
+		"cost": 999,
+		"avatarAssistConf": 7.26,
+		"subSkillScoin": 3450,
+		"DataImpl": {},
+		"level": 40
+	},
+	{
+		"exp": 5600,
+		"cost": 999,
+		"avatarAssistConf": 7.49,
+		"subSkillScoin": 3750,
+		"DataImpl": {},
+		"level": 41
+	},
+	{
+		"exp": 5980,
+		"cost": 999,
+		"avatarAssistConf": 7.72,
+		"subSkillScoin": 4050,
+		"DataImpl": {},
+		"level": 42
+	},
+	{
+		"exp": 6360,
+		"cost": 999,
+		"avatarAssistConf": 7.93,
+		"subSkillScoin": 4350,
+		"DataImpl": {},
+		"level": 43
+	},
+	{
+		"exp": 6860,
+		"cost": 999,
+		"avatarAssistConf": 8.15,
+		"subSkillScoin": 4750,
+		"DataImpl": {},
+		"level": 44
+	},
+	{
+		"exp": 7360,
+		"cost": 999,
+		"avatarAssistConf": 8.64,
+		"subSkillScoin": 5150,
+		"DataImpl": {},
+		"level": 45
+	},
+	{
+		"exp": 7860,
+		"cost": 999,
+		"avatarAssistConf": 9.11,
+		"subSkillScoin": 5550,
+		"DataImpl": {},
+		"level": 46
+	},
+	{
+		"exp": 8360,
+		"cost": 999,
+		"avatarAssistConf": 9.58,
+		"subSkillScoin": 5950,
+		"DataImpl": {},
+		"level": 47
+	},
+	{
+		"exp": 8860,
+		"cost": 999,
+		"avatarAssistConf": 9.78,
+		"subSkillScoin": 6350,
+		"DataImpl": {},
+		"level": 48
+	},
+	{
+		"exp": 9460,
+		"cost": 999,
+		"avatarAssistConf": 9.98,
+		"subSkillScoin": 6850,
+		"DataImpl": {},
+		"level": 49
+	},
+	{
+		"exp": 10060,
+		"cost": 999,
+		"avatarAssistConf": 10.32,
+		"subSkillScoin": 7350,
+		"DataImpl": {},
+		"level": 50
+	},
+	{
+		"exp": 10660,
+		"cost": 999,
+		"avatarAssistConf": 10.66,
+		"subSkillScoin": 7850,
+		"DataImpl": {},
+		"level": 51
+	},
+	{
+		"exp": 11260,
+		"cost": 999,
+		"avatarAssistConf": 11,
+		"subSkillScoin": 8350,
+		"DataImpl": {},
+		"level": 52
+	},
+	{
+		"exp": 11860,
+		"cost": 999,
+		"avatarAssistConf": 11.21,
+		"subSkillScoin": 8850,
+		"DataImpl": {},
+		"level": 53
+	},
+	{
+		"exp": 12660,
+		"cost": 999,
+		"avatarAssistConf": 11.43,
+		"subSkillScoin": 9450,
+		"DataImpl": {},
+		"level": 54
+	},
+	{
+		"exp": 13460,
+		"cost": 999,
+		"avatarAssistConf": 11.68,
+		"subSkillScoin": 10050,
+		"DataImpl": {},
+		"level": 55
+	},
+	{
+		"exp": 14260,
+		"cost": 999,
+		"avatarAssistConf": 11.94,
+		"subSkillScoin": 10650,
+		"DataImpl": {},
+		"level": 56
+	},
+	{
+		"exp": 15060,
+		"cost": 999,
+		"avatarAssistConf": 12.21,
+		"subSkillScoin": 11250,
+		"DataImpl": {},
+		"level": 57
+	},
+	{
+		"exp": 15860,
+		"cost": 999,
+		"avatarAssistConf": 12.49,
+		"subSkillScoin": 11850,
+		"DataImpl": {},
+		"level": 58
+	},
+	{
+		"exp": 16660,
+		"cost": 999,
+		"avatarAssistConf": 12.77,
+		"subSkillScoin": 12550,
+		"DataImpl": {},
+		"level": 59
+	},
+	{
+		"exp": 17460,
+		"cost": 999,
+		"avatarAssistConf": 13.52,
+		"subSkillScoin": 13250,
+		"DataImpl": {},
+		"level": 60
+	},
+	{
+		"exp": 18260,
+		"cost": 999,
+		"avatarAssistConf": 14.22,
+		"subSkillScoin": 13950,
+		"DataImpl": {},
+		"level": 61
+	},
+	{
+		"exp": 19060,
+		"cost": 999,
+		"avatarAssistConf": 14.92,
+		"subSkillScoin": 14650,
+		"DataImpl": {},
+		"level": 62
+	},
+	{
+		"exp": 19860,
+		"cost": 999,
+		"avatarAssistConf": 15.18,
+		"subSkillScoin": 15350,
+		"DataImpl": {},
+		"level": 63
+	},
+	{
+		"exp": 20860,
+		"cost": 999,
+		"avatarAssistConf": 15.44,
+		"subSkillScoin": 16150,
+		"DataImpl": {},
+		"level": 64
+	},
+	{
+		"exp": 21860,
+		"cost": 999,
+		"avatarAssistConf": 15.98,
+		"subSkillScoin": 16950,
+		"DataImpl": {},
+		"level": 65
+	},
+	{
+		"exp": 22860,
+		"cost": 999,
+		"avatarAssistConf": 16.52,
+		"subSkillScoin": 17750,
+		"DataImpl": {},
+		"level": 66
+	},
+	{
+		"exp": 23860,
+		"cost": 999,
+		"avatarAssistConf": 17.07,
+		"subSkillScoin": 18550,
+		"DataImpl": {},
+		"level": 67
+	},
+	{
+		"exp": 24860,
+		"cost": 999,
+		"avatarAssistConf": 17.35,
+		"subSkillScoin": 19350,
+		"DataImpl": {},
+		"level": 68
+	},
+	{
+		"exp": 26460,
+		"cost": 999,
+		"avatarAssistConf": 17.63,
+		"subSkillScoin": 20250,
+		"DataImpl": {},
+		"level": 69
+	},
+	{
+		"exp": 28060,
+		"cost": 999,
+		"avatarAssistConf": 18.01,
+		"subSkillScoin": 21150,
+		"DataImpl": {},
+		"level": 70
+	},
+	{
+		"exp": 29660,
+		"cost": 999,
+		"avatarAssistConf": 18.4,
+		"subSkillScoin": 22050,
+		"DataImpl": {},
+		"level": 71
+	},
+	{
+		"exp": 31260,
+		"cost": 999,
+		"avatarAssistConf": 18.78,
+		"subSkillScoin": 22950,
+		"DataImpl": {},
+		"level": 72
+	},
+	{
+		"exp": 32860,
+		"cost": 999,
+		"avatarAssistConf": 19.08,
+		"subSkillScoin": 23850,
+		"DataImpl": {},
+		"level": 73
+	},
+	{
+		"exp": 34660,
+		"cost": 999,
+		"avatarAssistConf": 19.37,
+		"subSkillScoin": 24850,
+		"DataImpl": {},
+		"level": 74
+	},
+	{
+		"exp": 36460,
+		"cost": 999,
+		"avatarAssistConf": 19.72,
+		"subSkillScoin": 25850,
+		"DataImpl": {},
+		"level": 75
+	},
+	{
+		"exp": 38260,
+		"cost": 999,
+		"avatarAssistConf": 20.07,
+		"subSkillScoin": 26850,
+		"DataImpl": {},
+		"level": 76
+	},
+	{
+		"exp": 40060,
+		"cost": 999,
+		"avatarAssistConf": 20.42,
+		"subSkillScoin": 27850,
+		"DataImpl": {},
+		"level": 77
+	},
+	{
+		"exp": 41860,
+		"cost": 999,
+		"avatarAssistConf": 20.72,
+		"subSkillScoin": 28850,
+		"DataImpl": {},
+		"level": 78
+	},
+	{
+		"exp": 43860,
+		"cost": 999,
+		"avatarAssistConf": 21.02,
+		"subSkillScoin": 29950,
+		"DataImpl": {},
+		"level": 79
+	},
+	{
+		"exp": 45860,
+		"cost": 999,
+		"avatarAssistConf": 21.33,
+		"subSkillScoin": 31050,
+		"DataImpl": {},
+		"level": 80
+	}
+]

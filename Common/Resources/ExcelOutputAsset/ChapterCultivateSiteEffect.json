@@ -1,0 +1,218 @@
+[
+	{
+		"LevelJumpDisplay": [
+			{
+				"FloorBlock": 8,
+				"NumHint": 5
+			},
+			{
+				"FloorBlock": 12,
+				"NumHint": 9
+			}
+		],
+		"MaxFloor": 12,
+		"LevelEffectList": [
+			{
+				"BuffID": 9200,
+				"Level": 4
+			},
+			{
+				"BuffID": 9201,
+				"Level": 8
+			},
+			{
+				"BuffID": 9202,
+				"Level": 12
+			}
+		],
+		"EnterTimeEffectList": "1:1;2:2;3:3;4:3,1;5:3,2;6:3,3;7:3,3,3",
+		"RandomEffectList": [
+			9101,
+			9102,
+			9103,
+			9104,
+			9105,
+			9106,
+			9107,
+			9108
+		],
+		"BaseEffectList": [
+			9400
+		],
+		"UpAvatarList": [
+			113,
+			502,
+			203,
+			504,
+			506
+		],
+		"UpAvatarConditionNum": 1,
+		"UpAvatarConditionIcon": "SpriteOutput/ChapterActivity/Chapter24/Icon_Up",
+		"UpAvatarConditionText": {
+			"hash": 2041257164
+		},
+		"DataImpl": {},
+		"StageID": 1256301
+	},
+	{
+		"LevelJumpDisplay": [
+			{
+				"FloorBlock": 8,
+				"NumHint": 5
+			},
+			{
+				"FloorBlock": 12,
+				"NumHint": 9
+			}
+		],
+		"MaxFloor": 12,
+		"LevelEffectList": [
+			{
+				"BuffID": 9203,
+				"Level": 4
+			},
+			{
+				"BuffID": 9204,
+				"Level": 8
+			},
+			{
+				"BuffID": 9205,
+				"Level": 12
+			}
+		],
+		"EnterTimeEffectList": "1:1;2:2;3:3;4:3,1;5:3,2;6:3,3;7:3,3,3",
+		"RandomEffectList": [
+			9109,
+			9110,
+			9111,
+			9112,
+			9113,
+			9114,
+			9115,
+			9116
+		],
+		"BaseEffectList": [
+			9401
+		],
+		"UpAvatarList": [
+			803,
+			412,
+			213,
+			611,
+			503
+		],
+		"UpAvatarConditionNum": 1,
+		"UpAvatarConditionIcon": "SpriteOutput/ChapterActivity/Chapter24/Icon_Up",
+		"UpAvatarConditionText": {
+			"hash": 2041257165
+		},
+		"DataImpl": {},
+		"StageID": 1256302
+	},
+	{
+		"LevelJumpDisplay": [
+			{
+				"FloorBlock": 8,
+				"NumHint": 5
+			},
+			{
+				"FloorBlock": 12,
+				"NumHint": 9
+			}
+		],
+		"MaxFloor": 12,
+		"LevelEffectList": [
+			{
+				"BuffID": 9206,
+				"Level": 4
+			},
+			{
+				"BuffID": 9207,
+				"Level": 8
+			},
+			{
+				"BuffID": 9208,
+				"Level": 12
+			}
+		],
+		"EnterTimeEffectList": "1:1;2:2;3:3;4:3,1;5:3,2;6:3,3;7:3,3,3",
+		"RandomEffectList": [
+			9117,
+			9118,
+			9119,
+			9120,
+			9121,
+			9122,
+			9123,
+			9124
+		],
+		"BaseEffectList": [
+			9402
+		],
+		"UpAvatarList": [
+			712,
+			205,
+			802,
+			612,
+			103
+		],
+		"UpAvatarConditionNum": 1,
+		"UpAvatarConditionIcon": "SpriteOutput/ChapterActivity/Chapter24/Icon_Up",
+		"UpAvatarConditionText": {
+			"hash": 2041257166
+		},
+		"DataImpl": {},
+		"StageID": 1256303
+	},
+	{
+		"LevelJumpDisplay": [
+			{
+				"FloorBlock": 8,
+				"NumHint": 5
+			},
+			{
+				"FloorBlock": 12,
+				"NumHint": 9
+			}
+		],
+		"MaxFloor": 12,
+		"LevelEffectList": [
+			{
+				"BuffID": 9209,
+				"Level": 4
+			},
+			{
+				"BuffID": 9210,
+				"Level": 8
+			},
+			{
+				"BuffID": 9211,
+				"Level": 12
+			}
+		],
+		"EnterTimeEffectList": "1:1;2:2;3:3;4:3,1;5:3,2;6:3,3;7:3,3,3",
+		"RandomEffectList": [
+			9125,
+			9126,
+			9127,
+			9128,
+			9129,
+			9130,
+			9131,
+			9132
+		],
+		"BaseEffectList": [
+			9403
+		],
+		"UpAvatarList": [
+			713
+		],
+		"UpAvatarConditionNum": 1,
+		"UpAvatarConditionIcon": "SpriteOutput/ChapterActivity/Chapter24/Icon_Up",
+		"UpAvatarConditionText": {
+			"hash": 2041257167
+		},
+		"DataImpl": {},
+		"StageID": 1256304
+	}
+]

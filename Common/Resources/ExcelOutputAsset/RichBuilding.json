@@ -1,0 +1,3213 @@
+[
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 0,
+		"FuncType": 1,
+		"Para": "114344,800,10",
+		"Model": 1664,
+		"Name": "Building_Name_1",
+		"BuildingDesc": "Building_Desc_1",
+		"UpgradeDesc": "Building_UpDesc_1_1",
+		"Scale": [
+			1.5,
+			1.5,
+			1.5
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Money_LV1",
+		"DataImpl": {},
+		"BuildingType": 1,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 10,
+		"FuncType": 1,
+		"Para": "114344,1000,15",
+		"Model": 1665,
+		"Name": "Building_Name_1",
+		"BuildingDesc": "Building_Desc_1",
+		"UpgradeDesc": "Building_UpDesc_1_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Money_LV2",
+		"DataImpl": {},
+		"BuildingType": 1,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 20,
+		"FuncType": 1,
+		"Para": "114344,1200,20",
+		"Model": 1666,
+		"Name": "Building_Name_1",
+		"BuildingDesc": "Building_Desc_1",
+		"UpgradeDesc": "Building_UpDesc_1_3",
+		"Scale": [
+			2.5,
+			2.5,
+			2.5
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Money_LV3",
+		"DataImpl": {},
+		"BuildingType": 1,
+		"BuildingLevel": 3
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 1000,
+		"FuncType": 2,
+		"Para": "4,1",
+		"Model": 1646,
+		"Name": "Building_Name_2",
+		"BuildingDesc": "Building_Desc_2",
+		"UpgradeDesc": "Building_UpDesc_2_1",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_attack",
+		"DataImpl": {},
+		"BuildingType": 2,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 1200,
+		"FuncType": 2,
+		"Para": "4,2",
+		"Model": 1647,
+		"Name": "Building_Name_2",
+		"BuildingDesc": "Building_Desc_2",
+		"UpgradeDesc": "Building_UpDesc_2_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_attack",
+		"DataImpl": {},
+		"BuildingType": 2,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 1500,
+		"FuncType": 2,
+		"Para": "4,3",
+		"Model": 1648,
+		"Name": "Building_Name_2",
+		"BuildingDesc": "Building_Desc_2",
+		"UpgradeDesc": "Building_UpDesc_2_3",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_attack",
+		"DataImpl": {},
+		"BuildingType": 2,
+		"BuildingLevel": 3
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 1,
+		"FuncType": 2,
+		"Para": "2,1",
+		"Model": 1649,
+		"Name": "Building_Name_3",
+		"BuildingDesc": "Building_Desc_3",
+		"UpgradeDesc": "Building_UpDesc_3_1",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/LevelMatrix_SummerTreasureHunt_Floor1",
+		"DataImpl": {},
+		"BuildingType": 3,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 2,
+		"FuncType": 2,
+		"Para": "2,2",
+		"Model": 1650,
+		"Name": "Building_Name_3",
+		"BuildingDesc": "Building_Desc_3",
+		"UpgradeDesc": "Building_UpDesc_3_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/LevelMatrix_SummerTreasureHunt_Floor1",
+		"DataImpl": {},
+		"BuildingType": 3,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 3,
+		"FuncType": 2,
+		"Para": "2,3",
+		"Model": 1651,
+		"Name": "Building_Name_3",
+		"BuildingDesc": "Building_Desc_3",
+		"UpgradeDesc": "Building_UpDesc_3_3",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/LevelMatrix_SummerTreasureHunt_Floor1",
+		"DataImpl": {},
+		"BuildingType": 3,
+		"BuildingLevel": 3
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 1000,
+		"FuncType": 2,
+		"Para": "2,1",
+		"Model": 1653,
+		"Name": "Building_Name_4",
+		"BuildingDesc": "Building_Desc_4",
+		"UpgradeDesc": "Building_UpDesc_4_1",
+		"Scale": [
+			1.5,
+			1.5,
+			1.5
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Element_LV1_kindle",
+		"DataImpl": {},
+		"BuildingType": 4,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 1,
+		"FuncType": 2,
+		"Para": "4,1",
+		"Model": 1655,
+		"Name": "Building_Name_5",
+		"BuildingDesc": "Building_Desc_5",
+		"UpgradeDesc": "Building_UpDesc_5_1",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/LevelMatrix_SummerTreasureHunt_Floor1",
+		"DataImpl": {},
+		"BuildingType": 5,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 2,
+		"FuncType": 2,
+		"Para": "4,2",
+		"Model": 1656,
+		"Name": "Building_Name_5",
+		"BuildingDesc": "Building_Desc_5",
+		"UpgradeDesc": "Building_UpDesc_5_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/LevelMatrix_SummerTreasureHunt_Floor1",
+		"DataImpl": {},
+		"BuildingType": 5,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 3,
+		"FuncType": 2,
+		"Para": "4,3",
+		"Model": 1657,
+		"Name": "Building_Name_5",
+		"BuildingDesc": "Building_Desc_5",
+		"UpgradeDesc": "Building_UpDesc_5_3",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/LevelMatrix_SummerTreasureHunt_Floor1",
+		"DataImpl": {},
+		"BuildingType": 5,
+		"BuildingLevel": 3
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 2000,
+		"FuncType": 2,
+		"Para": "5,1",
+		"Model": 1658,
+		"Name": "Building_Name_6",
+		"BuildingDesc": "Building_Desc_6",
+		"UpgradeDesc": "Building_UpDesc_6_1",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Game1_LV1",
+		"DataImpl": {},
+		"BuildingType": 6,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 1,
+		"FuncType": 2,
+		"Para": "6,1",
+		"Model": 1638,
+		"Name": "Building_Name_7",
+		"BuildingDesc": "Building_Desc_7",
+		"UpgradeDesc": "Building_UpDesc_7_1",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/LevelMatrix_SummerTreasureHunt_Floor1",
+		"DataImpl": {},
+		"BuildingType": 7,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 2,
+		"FuncType": 2,
+		"Para": "6,2",
+		"Model": 1639,
+		"Name": "Building_Name_7",
+		"BuildingDesc": "Building_Desc_7",
+		"UpgradeDesc": "Building_UpDesc_7_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/LevelMatrix_SummerTreasureHunt_Floor1",
+		"DataImpl": {},
+		"BuildingType": 7,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 3,
+		"FuncType": 2,
+		"Para": "6,3",
+		"Model": 1640,
+		"Name": "Building_Name_7",
+		"BuildingDesc": "Building_Desc_7",
+		"UpgradeDesc": "Building_UpDesc_7_3",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/LevelMatrix_SummerTreasureHunt_Floor1",
+		"DataImpl": {},
+		"BuildingType": 7,
+		"BuildingLevel": 3
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 1,
+		"FuncType": 2,
+		"Para": "7,1",
+		"Model": 1643,
+		"Name": "Building_Name_8",
+		"BuildingDesc": "Building_Desc_8",
+		"UpgradeDesc": "Building_UpDesc_8_1",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/LevelMatrix_SummerTreasureHunt_Floor1",
+		"DataImpl": {},
+		"BuildingType": 8,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 2,
+		"FuncType": 2,
+		"Para": "7,2",
+		"Model": 1644,
+		"Name": "Building_Name_8",
+		"BuildingDesc": "Building_Desc_8",
+		"UpgradeDesc": "Building_UpDesc_8_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/LevelMatrix_SummerTreasureHunt_Floor1",
+		"DataImpl": {},
+		"BuildingType": 8,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 3,
+		"FuncType": 2,
+		"Para": "7,3",
+		"Model": 1645,
+		"Name": "Building_Name_8",
+		"BuildingDesc": "Building_Desc_8",
+		"UpgradeDesc": "Building_UpDesc_8_3",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/LevelMatrix_SummerTreasureHunt_Floor1",
+		"DataImpl": {},
+		"BuildingType": 8,
+		"BuildingLevel": 3
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 0,
+		"FuncType": 1,
+		"Para": "114344,3200,40",
+		"Model": 1664,
+		"Name": "Building_Name_11",
+		"BuildingDesc": "Building_Desc_11",
+		"UpgradeDesc": "Building_UpDesc_11_1",
+		"Scale": [
+			1.5,
+			1.5,
+			1.5
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Money_LV1",
+		"DataImpl": {},
+		"BuildingType": 11,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 40,
+		"FuncType": 1,
+		"Para": "114344,4000,60",
+		"Model": 1665,
+		"Name": "Building_Name_11",
+		"BuildingDesc": "Building_Desc_11",
+		"UpgradeDesc": "Building_UpDesc_11_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Money_LV2",
+		"DataImpl": {},
+		"BuildingType": 11,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 80,
+		"FuncType": 1,
+		"Para": "114344,4800,80",
+		"Model": 1666,
+		"Name": "Building_Name_11",
+		"BuildingDesc": "Building_Desc_11",
+		"UpgradeDesc": "Building_UpDesc_11_3",
+		"Scale": [
+			2.5,
+			2.5,
+			2.5
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Money_LV3",
+		"DataImpl": {},
+		"BuildingType": 11,
+		"BuildingLevel": 3
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 4000,
+		"FuncType": 2,
+		"Para": "4,4",
+		"Model": 1646,
+		"Name": "Building_Name_12",
+		"BuildingDesc": "Building_Desc_12",
+		"UpgradeDesc": "Building_UpDesc_12_1",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_attack",
+		"DataImpl": {},
+		"BuildingType": 12,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 4800,
+		"FuncType": 2,
+		"Para": "4,6",
+		"Model": 1647,
+		"Name": "Building_Name_12",
+		"BuildingDesc": "Building_Desc_12",
+		"UpgradeDesc": "Building_UpDesc_12_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_attack",
+		"DataImpl": {},
+		"BuildingType": 12,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 6000,
+		"FuncType": 2,
+		"Para": "4,8",
+		"Model": 1648,
+		"Name": "Building_Name_12",
+		"BuildingDesc": "Building_Desc_12",
+		"UpgradeDesc": "Building_UpDesc_12_3",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_attack",
+		"DataImpl": {},
+		"BuildingType": 12,
+		"BuildingLevel": 3
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 8000,
+		"FuncType": 2,
+		"Para": "2,2",
+		"Model": 1653,
+		"Name": "Building_Name_14",
+		"BuildingDesc": "Building_Desc_14",
+		"UpgradeDesc": "Building_UpDesc_14_1",
+		"Scale": [
+			1.5,
+			1.5,
+			1.5
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Element_LV1_kindle",
+		"DataImpl": {},
+		"BuildingType": 14,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 5000,
+		"FuncType": 2,
+		"Para": "2,3",
+		"Model": 1653,
+		"Name": "Building_Name_14",
+		"BuildingDesc": "Building_Desc_14",
+		"UpgradeDesc": "Building_UpDesc_14_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Element_LV1_kindle",
+		"DataImpl": {},
+		"BuildingType": 14,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 4800,
+		"FuncType": 2,
+		"Para": "5,2",
+		"Model": 1659,
+		"Name": "Building_Name_16",
+		"BuildingDesc": "Building_Desc_16",
+		"UpgradeDesc": "Building_UpDesc_16_1",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Game1_LV2",
+		"DataImpl": {},
+		"BuildingType": 16,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 3000,
+		"FuncType": 2,
+		"Para": "5,3",
+		"Model": 1659,
+		"Name": "Building_Name_16",
+		"BuildingDesc": "Building_Desc_16",
+		"UpgradeDesc": "Building_UpDesc_16_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Game1_LV2",
+		"DataImpl": {},
+		"BuildingType": 16,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 0,
+		"FuncType": 1,
+		"Para": "114344,12800,160",
+		"Model": 1664,
+		"Name": "Building_Name_21",
+		"BuildingDesc": "Building_Desc_21",
+		"UpgradeDesc": "Building_UpDesc_21_1",
+		"Scale": [
+			1.5,
+			1.5,
+			1.5
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Money_LV1",
+		"DataImpl": {},
+		"BuildingType": 21,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 160,
+		"FuncType": 1,
+		"Para": "114344,16000,240",
+		"Model": 1665,
+		"Name": "Building_Name_21",
+		"BuildingDesc": "Building_Desc_21",
+		"UpgradeDesc": "Building_UpDesc_21_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Money_LV2",
+		"DataImpl": {},
+		"BuildingType": 21,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 320,
+		"FuncType": 1,
+		"Para": "114344,19200,320",
+		"Model": 1666,
+		"Name": "Building_Name_21",
+		"BuildingDesc": "Building_Desc_21",
+		"UpgradeDesc": "Building_UpDesc_21_3",
+		"Scale": [
+			2.5,
+			2.5,
+			2.5
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Money_LV3",
+		"DataImpl": {},
+		"BuildingType": 21,
+		"BuildingLevel": 3
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 16000,
+		"FuncType": 2,
+		"Para": "4,10",
+		"Model": 1646,
+		"Name": "Building_Name_22",
+		"BuildingDesc": "Building_Desc_22",
+		"UpgradeDesc": "Building_UpDesc_22_1",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_attack",
+		"DataImpl": {},
+		"BuildingType": 22,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 19200,
+		"FuncType": 2,
+		"Para": "4,20",
+		"Model": 1647,
+		"Name": "Building_Name_22",
+		"BuildingDesc": "Building_Desc_22",
+		"UpgradeDesc": "Building_UpDesc_22_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_attack",
+		"DataImpl": {},
+		"BuildingType": 22,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 24000,
+		"FuncType": 2,
+		"Para": "4,30",
+		"Model": 1648,
+		"Name": "Building_Name_22",
+		"BuildingDesc": "Building_Desc_22",
+		"UpgradeDesc": "Building_UpDesc_22_3",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_attack",
+		"DataImpl": {},
+		"BuildingType": 22,
+		"BuildingLevel": 3
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 30000,
+		"FuncType": 2,
+		"Para": "2,3",
+		"Model": 1653,
+		"Name": "Building_Name_24",
+		"BuildingDesc": "Building_Desc_24",
+		"UpgradeDesc": "Building_UpDesc_24_1",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Element_LV1_kindle",
+		"DataImpl": {},
+		"BuildingType": 24,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 12000,
+		"FuncType": 2,
+		"Para": "2,4",
+		"Model": 1653,
+		"Name": "Building_Name_24",
+		"BuildingDesc": "Building_Desc_24",
+		"UpgradeDesc": "Building_UpDesc_24_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Element_LV1_kindle",
+		"DataImpl": {},
+		"BuildingType": 24,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 12000,
+		"FuncType": 2,
+		"Para": "2,5",
+		"Model": 1654,
+		"Name": "Building_Name_24",
+		"BuildingDesc": "Building_Desc_24",
+		"UpgradeDesc": "Building_UpDesc_24_3",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Element_LV1_kindle",
+		"DataImpl": {},
+		"BuildingType": 24,
+		"BuildingLevel": 3
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 18000,
+		"FuncType": 2,
+		"Para": "5,3",
+		"Model": 1660,
+		"Name": "Building_Name_26",
+		"BuildingDesc": "Building_Desc_26",
+		"UpgradeDesc": "Building_UpDesc_26_1",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Game1_LV3",
+		"DataImpl": {},
+		"BuildingType": 26,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 7200,
+		"FuncType": 2,
+		"Para": "5,4",
+		"Model": 1659,
+		"Name": "Building_Name_26",
+		"BuildingDesc": "Building_Desc_26",
+		"UpgradeDesc": "Building_UpDesc_26_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Game1_LV1",
+		"DataImpl": {},
+		"BuildingType": 26,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 7200,
+		"FuncType": 2,
+		"Para": "5,5",
+		"Model": 1660,
+		"Name": "Building_Name_26",
+		"BuildingDesc": "Building_Desc_26",
+		"UpgradeDesc": "Building_UpDesc_26_3",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Game1_LV1",
+		"DataImpl": {},
+		"BuildingType": 26,
+		"BuildingLevel": 3
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 1000,
+		"FuncType": 2,
+		"Para": "10,1",
+		"Model": 1707,
+		"Name": "Building_Name_101",
+		"BuildingDesc": "Building_Desc_101",
+		"UpgradeDesc": "Building_UpDesc_101_1",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_palsy",
+		"DataImpl": {},
+		"BuildingType": 101,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 1200,
+		"FuncType": 2,
+		"Para": "10,2",
+		"Model": 1708,
+		"Name": "Building_Name_101",
+		"BuildingDesc": "Building_Desc_101",
+		"UpgradeDesc": "Building_UpDesc_101_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_palsy",
+		"DataImpl": {},
+		"BuildingType": 101,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 1500,
+		"FuncType": 2,
+		"Para": "10,3",
+		"Model": 1709,
+		"Name": "Building_Name_101",
+		"BuildingDesc": "Building_Desc_101",
+		"UpgradeDesc": "Building_UpDesc_101_3",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_palsy",
+		"DataImpl": {},
+		"BuildingType": 101,
+		"BuildingLevel": 3
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 4000,
+		"FuncType": 2,
+		"Para": "10,5",
+		"Model": 1707,
+		"Name": "Building_Name_201",
+		"BuildingDesc": "Building_Desc_201",
+		"UpgradeDesc": "Building_UpDesc_201_1",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_palsy",
+		"DataImpl": {},
+		"BuildingType": 201,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 4800,
+		"FuncType": 2,
+		"Para": "10,7",
+		"Model": 1708,
+		"Name": "Building_Name_201",
+		"BuildingDesc": "Building_Desc_201",
+		"UpgradeDesc": "Building_UpDesc_201_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_palsy",
+		"DataImpl": {},
+		"BuildingType": 201,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 6000,
+		"FuncType": 2,
+		"Para": "10,9",
+		"Model": 1709,
+		"Name": "Building_Name_201",
+		"BuildingDesc": "Building_Desc_201",
+		"UpgradeDesc": "Building_UpDesc_201_3",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_palsy",
+		"DataImpl": {},
+		"BuildingType": 201,
+		"BuildingLevel": 3
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 4000,
+		"FuncType": 2,
+		"Para": "11,5",
+		"Model": 1716,
+		"Name": "Building_Name_202",
+		"BuildingDesc": "Building_Desc_202",
+		"UpgradeDesc": "Building_UpDesc_202_1",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Element_LV1_palsy",
+		"DataImpl": {},
+		"BuildingType": 202,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 4800,
+		"FuncType": 2,
+		"Para": "11,7",
+		"Model": 1717,
+		"Name": "Building_Name_202",
+		"BuildingDesc": "Building_Desc_202",
+		"UpgradeDesc": "Building_UpDesc_202_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Element_LV1_palsy",
+		"DataImpl": {},
+		"BuildingType": 202,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 6000,
+		"FuncType": 2,
+		"Para": "11,9",
+		"Model": 1718,
+		"Name": "Building_Name_202",
+		"BuildingDesc": "Building_Desc_202",
+		"UpgradeDesc": "Building_UpDesc_202_3",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Element_LV1_palsy",
+		"DataImpl": {},
+		"BuildingType": 202,
+		"BuildingLevel": 3
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 16000,
+		"FuncType": 2,
+		"Para": "10,10",
+		"Model": 1707,
+		"Name": "Building_Name_301",
+		"BuildingDesc": "Building_Desc_301",
+		"UpgradeDesc": "Building_UpDesc_301_1",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_palsy",
+		"DataImpl": {},
+		"BuildingType": 301,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 19200,
+		"FuncType": 2,
+		"Para": "10,20",
+		"Model": 1708,
+		"Name": "Building_Name_301",
+		"BuildingDesc": "Building_Desc_301",
+		"UpgradeDesc": "Building_UpDesc_301_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_palsy",
+		"DataImpl": {},
+		"BuildingType": 301,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 24000,
+		"FuncType": 2,
+		"Para": "10,30",
+		"Model": 1709,
+		"Name": "Building_Name_301",
+		"BuildingDesc": "Building_Desc_301",
+		"UpgradeDesc": "Building_UpDesc_301_3",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_palsy",
+		"DataImpl": {},
+		"BuildingType": 301,
+		"BuildingLevel": 3
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 16000,
+		"FuncType": 2,
+		"Para": "11,10",
+		"Model": 1716,
+		"Name": "Building_Name_302",
+		"BuildingDesc": "Building_Desc_302",
+		"UpgradeDesc": "Building_UpDesc_302_1",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Element_LV1_palsy",
+		"DataImpl": {},
+		"BuildingType": 302,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 19200,
+		"FuncType": 2,
+		"Para": "11,20",
+		"Model": 1717,
+		"Name": "Building_Name_302",
+		"BuildingDesc": "Building_Desc_302",
+		"UpgradeDesc": "Building_UpDesc_302_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Element_LV1_palsy",
+		"DataImpl": {},
+		"BuildingType": 302,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 24000,
+		"FuncType": 2,
+		"Para": "11,30",
+		"Model": 1718,
+		"Name": "Building_Name_302",
+		"BuildingDesc": "Building_Desc_302",
+		"UpgradeDesc": "Building_UpDesc_302_3",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Element_LV1_palsy",
+		"DataImpl": {},
+		"BuildingType": 302,
+		"BuildingLevel": 3
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 16000,
+		"FuncType": 2,
+		"Para": "12,10",
+		"Model": 1725,
+		"Name": "Building_Name_303",
+		"BuildingDesc": "Building_Desc_303",
+		"UpgradeDesc": "Building_UpDesc_303_1",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Game2_LV1_palsy",
+		"DataImpl": {},
+		"BuildingType": 303,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 19200,
+		"FuncType": 2,
+		"Para": "12,20",
+		"Model": 1726,
+		"Name": "Building_Name_303",
+		"BuildingDesc": "Building_Desc_303",
+		"UpgradeDesc": "Building_UpDesc_303_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Game2_LV1_palsy",
+		"DataImpl": {},
+		"BuildingType": 303,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 24000,
+		"FuncType": 2,
+		"Para": "12,30",
+		"Model": 1727,
+		"Name": "Building_Name_303",
+		"BuildingDesc": "Building_Desc_303",
+		"UpgradeDesc": "Building_UpDesc_303_3",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Game2_LV1_palsy",
+		"DataImpl": {},
+		"BuildingType": 303,
+		"BuildingLevel": 3
+	},
+	{
+		"UpgradeCurrency": 114345,
+		"UpgradeNum": 0,
+		"FuncType": 1,
+		"Para": "114345,800,10",
+		"Model": 1664,
+		"Name": "Building_Name_401",
+		"BuildingDesc": "Building_Desc_401",
+		"UpgradeDesc": "Building_UpDesc_401_1",
+		"Scale": [
+			1.5,
+			1.5,
+			1.5
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Money_LV1",
+		"DataImpl": {},
+		"BuildingType": 401,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114345,
+		"UpgradeNum": 10,
+		"FuncType": 1,
+		"Para": "114345,1000,15",
+		"Model": 1665,
+		"Name": "Building_Name_401",
+		"BuildingDesc": "Building_Desc_401",
+		"UpgradeDesc": "Building_UpDesc_401_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Money_LV2",
+		"DataImpl": {},
+		"BuildingType": 401,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114345,
+		"UpgradeNum": 20,
+		"FuncType": 1,
+		"Para": "114345,1200,20",
+		"Model": 1666,
+		"Name": "Building_Name_401",
+		"BuildingDesc": "Building_Desc_401",
+		"UpgradeDesc": "Building_UpDesc_401_3",
+		"Scale": [
+			2.5,
+			2.5,
+			2.5
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Money_LV3",
+		"DataImpl": {},
+		"BuildingType": 401,
+		"BuildingLevel": 3
+	},
+	{
+		"UpgradeCurrency": 114345,
+		"UpgradeNum": 0,
+		"FuncType": 1,
+		"Para": "114345,3200,40",
+		"Model": 1664,
+		"Name": "Building_Name_402",
+		"BuildingDesc": "Building_Desc_402",
+		"UpgradeDesc": "Building_UpDesc_402_1",
+		"Scale": [
+			1.5,
+			1.5,
+			1.5
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Money_LV1",
+		"DataImpl": {},
+		"BuildingType": 402,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114345,
+		"UpgradeNum": 40,
+		"FuncType": 1,
+		"Para": "114345,4000,60",
+		"Model": 1665,
+		"Name": "Building_Name_402",
+		"BuildingDesc": "Building_Desc_402",
+		"UpgradeDesc": "Building_UpDesc_402_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Money_LV2",
+		"DataImpl": {},
+		"BuildingType": 402,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114345,
+		"UpgradeNum": 80,
+		"FuncType": 1,
+		"Para": "114345,4800,80",
+		"Model": 1666,
+		"Name": "Building_Name_402",
+		"BuildingDesc": "Building_Desc_402",
+		"UpgradeDesc": "Building_UpDesc_402_3",
+		"Scale": [
+			2.5,
+			2.5,
+			2.5
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Money_LV3",
+		"DataImpl": {},
+		"BuildingType": 402,
+		"BuildingLevel": 3
+	},
+	{
+		"UpgradeCurrency": 114345,
+		"UpgradeNum": 0,
+		"FuncType": 1,
+		"Para": "114345,12800,160",
+		"Model": 1664,
+		"Name": "Building_Name_403",
+		"BuildingDesc": "Building_Desc_403",
+		"UpgradeDesc": "Building_UpDesc_403_1",
+		"Scale": [
+			1.5,
+			1.5,
+			1.5
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Money_LV1",
+		"DataImpl": {},
+		"BuildingType": 403,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114345,
+		"UpgradeNum": 160,
+		"FuncType": 1,
+		"Para": "114345,16000,240",
+		"Model": 1665,
+		"Name": "Building_Name_403",
+		"BuildingDesc": "Building_Desc_403",
+		"UpgradeDesc": "Building_UpDesc_403_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Money_LV2",
+		"DataImpl": {},
+		"BuildingType": 403,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114345,
+		"UpgradeNum": 320,
+		"FuncType": 1,
+		"Para": "114345,19200,320",
+		"Model": 1666,
+		"Name": "Building_Name_403",
+		"BuildingDesc": "Building_Desc_403",
+		"UpgradeDesc": "Building_UpDesc_403_3",
+		"Scale": [
+			2.5,
+			2.5,
+			2.5
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Money_LV3",
+		"DataImpl": {},
+		"BuildingType": 403,
+		"BuildingLevel": 3
+	},
+	{
+		"UpgradeCurrency": 114345,
+		"UpgradeNum": 2000,
+		"FuncType": 2,
+		"Para": "6,1",
+		"Model": 1661,
+		"Name": "Building_Name_411",
+		"BuildingDesc": "Building_Desc_411",
+		"UpgradeDesc": "Building_UpDesc_411_1",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Game3_LV1",
+		"DataImpl": {},
+		"BuildingType": 411,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114345,
+		"UpgradeNum": 4800,
+		"FuncType": 2,
+		"Para": "6,2",
+		"Model": 1662,
+		"Name": "Building_Name_412",
+		"BuildingDesc": "Building_Desc_412",
+		"UpgradeDesc": "Building_UpDesc_412_1",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Game3_LV2",
+		"DataImpl": {},
+		"BuildingType": 412,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114345,
+		"UpgradeNum": 3000,
+		"FuncType": 2,
+		"Para": "6,3",
+		"Model": 1662,
+		"Name": "Building_Name_412",
+		"BuildingDesc": "Building_Desc_412",
+		"UpgradeDesc": "Building_UpDesc_412_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Game3_LV1",
+		"DataImpl": {},
+		"BuildingType": 412,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114345,
+		"UpgradeNum": 18000,
+		"FuncType": 2,
+		"Para": "6,3",
+		"Model": 1663,
+		"Name": "Building_Name_413",
+		"BuildingDesc": "Building_Desc_413",
+		"UpgradeDesc": "Building_UpDesc_413_1",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Game3_LV3",
+		"DataImpl": {},
+		"BuildingType": 413,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114345,
+		"UpgradeNum": 7200,
+		"FuncType": 2,
+		"Para": "6,4",
+		"Model": 1662,
+		"Name": "Building_Name_413",
+		"BuildingDesc": "Building_Desc_413",
+		"UpgradeDesc": "Building_UpDesc_413_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Game3_LV1",
+		"DataImpl": {},
+		"BuildingType": 413,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114345,
+		"UpgradeNum": 7200,
+		"FuncType": 2,
+		"Para": "6,5",
+		"Model": 1663,
+		"Name": "Building_Name_413",
+		"BuildingDesc": "Building_Desc_413",
+		"UpgradeDesc": "Building_UpDesc_413_3",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Game3_LV1",
+		"DataImpl": {},
+		"BuildingType": 413,
+		"BuildingLevel": 3
+	},
+	{
+		"UpgradeCurrency": 114346,
+		"UpgradeNum": 0,
+		"FuncType": 1,
+		"Para": "114346,800,10",
+		"Model": 1664,
+		"Name": "Building_Name_501",
+		"BuildingDesc": "Building_Desc_501",
+		"UpgradeDesc": "Building_UpDesc_501_1",
+		"Scale": [
+			1.5,
+			1.5,
+			1.5
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Money_LV1",
+		"DataImpl": {},
+		"BuildingType": 501,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114346,
+		"UpgradeNum": 10,
+		"FuncType": 1,
+		"Para": "114346,1000,15",
+		"Model": 1665,
+		"Name": "Building_Name_501",
+		"BuildingDesc": "Building_Desc_501",
+		"UpgradeDesc": "Building_UpDesc_501_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Money_LV2",
+		"DataImpl": {},
+		"BuildingType": 501,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114346,
+		"UpgradeNum": 20,
+		"FuncType": 1,
+		"Para": "114346,1200,20",
+		"Model": 1666,
+		"Name": "Building_Name_501",
+		"BuildingDesc": "Building_Desc_501",
+		"UpgradeDesc": "Building_UpDesc_501_3",
+		"Scale": [
+			2.5,
+			2.5,
+			2.5
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Money_LV3",
+		"DataImpl": {},
+		"BuildingType": 501,
+		"BuildingLevel": 3
+	},
+	{
+		"UpgradeCurrency": 114346,
+		"UpgradeNum": 0,
+		"FuncType": 1,
+		"Para": "114346,3200,40",
+		"Model": 1664,
+		"Name": "Building_Name_502",
+		"BuildingDesc": "Building_Desc_502",
+		"UpgradeDesc": "Building_UpDesc_502_1",
+		"Scale": [
+			1.5,
+			1.5,
+			1.5
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Money_LV1",
+		"DataImpl": {},
+		"BuildingType": 502,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114346,
+		"UpgradeNum": 40,
+		"FuncType": 1,
+		"Para": "114346,4000,60",
+		"Model": 1665,
+		"Name": "Building_Name_502",
+		"BuildingDesc": "Building_Desc_502",
+		"UpgradeDesc": "Building_UpDesc_502_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Money_LV2",
+		"DataImpl": {},
+		"BuildingType": 502,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114346,
+		"UpgradeNum": 80,
+		"FuncType": 1,
+		"Para": "114346,4800,80",
+		"Model": 1666,
+		"Name": "Building_Name_502",
+		"BuildingDesc": "Building_Desc_502",
+		"UpgradeDesc": "Building_UpDesc_502_3",
+		"Scale": [
+			2.5,
+			2.5,
+			2.5
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Money_LV3",
+		"DataImpl": {},
+		"BuildingType": 502,
+		"BuildingLevel": 3
+	},
+	{
+		"UpgradeCurrency": 114346,
+		"UpgradeNum": 0,
+		"FuncType": 1,
+		"Para": "114346,12800,160",
+		"Model": 1664,
+		"Name": "Building_Name_503",
+		"BuildingDesc": "Building_Desc_503",
+		"UpgradeDesc": "Building_UpDesc_503_1",
+		"Scale": [
+			1.5,
+			1.5,
+			1.5
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Money_LV1",
+		"DataImpl": {},
+		"BuildingType": 503,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114346,
+		"UpgradeNum": 160,
+		"FuncType": 1,
+		"Para": "114346,16000,240",
+		"Model": 1665,
+		"Name": "Building_Name_503",
+		"BuildingDesc": "Building_Desc_503",
+		"UpgradeDesc": "Building_UpDesc_503_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Money_LV2",
+		"DataImpl": {},
+		"BuildingType": 503,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114346,
+		"UpgradeNum": 320,
+		"FuncType": 1,
+		"Para": "114346,19200,320",
+		"Model": 1666,
+		"Name": "Building_Name_503",
+		"BuildingDesc": "Building_Desc_503",
+		"UpgradeDesc": "Building_UpDesc_503_3",
+		"Scale": [
+			2.5,
+			2.5,
+			2.5
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Money_LV3",
+		"DataImpl": {},
+		"BuildingType": 503,
+		"BuildingLevel": 3
+	},
+	{
+		"UpgradeCurrency": 114346,
+		"UpgradeNum": 2000,
+		"FuncType": 2,
+		"Para": "7,1",
+		"Model": 1638,
+		"Name": "Building_Name_511",
+		"BuildingDesc": "Building_Desc_511",
+		"UpgradeDesc": "Building_UpDesc_511_1",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Game4_LV1",
+		"DataImpl": {},
+		"BuildingType": 511,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114346,
+		"UpgradeNum": 4800,
+		"FuncType": 2,
+		"Para": "7,2",
+		"Model": 1638,
+		"Name": "Building_Name_512",
+		"BuildingDesc": "Building_Desc_512",
+		"UpgradeDesc": "Building_UpDesc_512_1",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Game4_LV2",
+		"DataImpl": {},
+		"BuildingType": 512,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114346,
+		"UpgradeNum": 18000,
+		"FuncType": 2,
+		"Para": "7,3",
+		"Model": 1638,
+		"Name": "Building_Name_513",
+		"BuildingDesc": "Building_Desc_513",
+		"UpgradeDesc": "Building_UpDesc_513_1",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Game4_LV3",
+		"DataImpl": {},
+		"BuildingType": 513,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114347,
+		"UpgradeNum": 0,
+		"FuncType": 1,
+		"Para": "114347,800,10",
+		"Model": 1664,
+		"Name": "Building_Name_601",
+		"BuildingDesc": "Building_Desc_601",
+		"UpgradeDesc": "Building_UpDesc_601_1",
+		"Scale": [
+			1.5,
+			1.5,
+			1.5
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Money_LV1",
+		"DataImpl": {},
+		"BuildingType": 601,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114347,
+		"UpgradeNum": 10,
+		"FuncType": 1,
+		"Para": "114347,1000,15",
+		"Model": 1665,
+		"Name": "Building_Name_601",
+		"BuildingDesc": "Building_Desc_601",
+		"UpgradeDesc": "Building_UpDesc_601_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Money_LV2",
+		"DataImpl": {},
+		"BuildingType": 601,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114347,
+		"UpgradeNum": 20,
+		"FuncType": 1,
+		"Para": "114347,1200,20",
+		"Model": 1666,
+		"Name": "Building_Name_601",
+		"BuildingDesc": "Building_Desc_601",
+		"UpgradeDesc": "Building_UpDesc_601_3",
+		"Scale": [
+			2.5,
+			2.5,
+			2.5
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Money_LV3",
+		"DataImpl": {},
+		"BuildingType": 601,
+		"BuildingLevel": 3
+	},
+	{
+		"UpgradeCurrency": 114347,
+		"UpgradeNum": 0,
+		"FuncType": 1,
+		"Para": "114347,3200,40",
+		"Model": 1664,
+		"Name": "Building_Name_602",
+		"BuildingDesc": "Building_Desc_602",
+		"UpgradeDesc": "Building_UpDesc_602_1",
+		"Scale": [
+			1.5,
+			1.5,
+			1.5
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Money_LV1",
+		"DataImpl": {},
+		"BuildingType": 602,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114347,
+		"UpgradeNum": 40,
+		"FuncType": 1,
+		"Para": "114347,4000,60",
+		"Model": 1665,
+		"Name": "Building_Name_602",
+		"BuildingDesc": "Building_Desc_602",
+		"UpgradeDesc": "Building_UpDesc_602_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Money_LV2",
+		"DataImpl": {},
+		"BuildingType": 602,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114347,
+		"UpgradeNum": 80,
+		"FuncType": 1,
+		"Para": "114347,4800,80",
+		"Model": 1666,
+		"Name": "Building_Name_602",
+		"BuildingDesc": "Building_Desc_602",
+		"UpgradeDesc": "Building_UpDesc_602_3",
+		"Scale": [
+			2.5,
+			2.5,
+			2.5
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Money_LV3",
+		"DataImpl": {},
+		"BuildingType": 602,
+		"BuildingLevel": 3
+	},
+	{
+		"UpgradeCurrency": 114347,
+		"UpgradeNum": 0,
+		"FuncType": 1,
+		"Para": "114347,12800,160",
+		"Model": 1664,
+		"Name": "Building_Name_603",
+		"BuildingDesc": "Building_Desc_603",
+		"UpgradeDesc": "Building_UpDesc_603_1",
+		"Scale": [
+			1.5,
+			1.5,
+			1.5
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Money_LV1",
+		"DataImpl": {},
+		"BuildingType": 603,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114347,
+		"UpgradeNum": 160,
+		"FuncType": 1,
+		"Para": "114347,16000,240",
+		"Model": 1665,
+		"Name": "Building_Name_603",
+		"BuildingDesc": "Building_Desc_603",
+		"UpgradeDesc": "Building_UpDesc_603_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Money_LV2",
+		"DataImpl": {},
+		"BuildingType": 603,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114347,
+		"UpgradeNum": 320,
+		"FuncType": 1,
+		"Para": "114347,19200,320",
+		"Model": 1666,
+		"Name": "Building_Name_603",
+		"BuildingDesc": "Building_Desc_603",
+		"UpgradeDesc": "Building_UpDesc_603_3",
+		"Scale": [
+			2.5,
+			2.5,
+			2.5
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Money_LV3",
+		"DataImpl": {},
+		"BuildingType": 603,
+		"BuildingLevel": 3
+	},
+	{
+		"UpgradeCurrency": 114347,
+		"UpgradeNum": 2000,
+		"FuncType": 2,
+		"Para": "5,1",
+		"Model": 1658,
+		"Name": "Building_Name_611",
+		"BuildingDesc": "Building_Desc_611",
+		"UpgradeDesc": "Building_UpDesc_611_1",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Game3_LV1",
+		"DataImpl": {},
+		"BuildingType": 611,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114347,
+		"UpgradeNum": 4800,
+		"FuncType": 2,
+		"Para": "5,2",
+		"Model": 1658,
+		"Name": "Building_Name_612",
+		"BuildingDesc": "Building_Desc_612",
+		"UpgradeDesc": "Building_UpDesc_612_1",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Game3_LV1",
+		"DataImpl": {},
+		"BuildingType": 612,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114347,
+		"UpgradeNum": 18000,
+		"FuncType": 2,
+		"Para": "5,3",
+		"Model": 1658,
+		"Name": "Building_Name_613",
+		"BuildingDesc": "Building_Desc_613",
+		"UpgradeDesc": "Building_UpDesc_613_1",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Game3_LV1",
+		"DataImpl": {},
+		"BuildingType": 613,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114497,
+		"UpgradeNum": 1,
+		"FuncType": 2,
+		"Para": "1025,1",
+		"Model": 1683,
+		"Name": "Building_Name_701",
+		"BuildingDesc": "Building_Desc_701",
+		"UpgradeDesc": "Building_UpDesc_701_1",
+		"Scale": [
+			1.5,
+			1.5,
+			1.5
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/S00_Pet_RobotPet_02_A_Richman",
+		"DataImpl": {},
+		"BuildingType": 701,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114497,
+		"UpgradeNum": 1,
+		"FuncType": 2,
+		"Para": "1026,1",
+		"Model": 1684,
+		"Name": "Building_Name_702",
+		"BuildingDesc": "Building_Desc_702",
+		"UpgradeDesc": "Building_UpDesc_702_1",
+		"Scale": [
+			1.5,
+			1.5,
+			1.5
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/S00_Pet_RobotPet_02_B_Richman",
+		"DataImpl": {},
+		"BuildingType": 702,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114497,
+		"UpgradeNum": 1,
+		"FuncType": 2,
+		"Para": "1027,1",
+		"Model": 1685,
+		"Name": "Building_Name_703",
+		"BuildingDesc": "Building_Desc_703",
+		"UpgradeDesc": "Building_UpDesc_703_1",
+		"Scale": [
+			1.5,
+			1.5,
+			1.5
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/S00_Pet_RobotPet_02_C_Richman",
+		"DataImpl": {},
+		"BuildingType": 703,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 0,
+		"FuncType": 1,
+		"Para": "114344,1000,25",
+		"Model": 1682,
+		"Name": "Building_Name_1002",
+		"BuildingDesc": "Building_Desc_1002",
+		"UpgradeDesc": "Building_UpDesc_1002_1",
+		"Scale": [
+			1,
+			1,
+			1
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/LevelMatrix_SummerTreasureHunt_Floor1",
+		"DataImpl": {},
+		"BuildingType": 1002,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 0,
+		"FuncType": 1,
+		"Para": "114344,1000,25",
+		"Model": 1683,
+		"Name": "Building_Name_1003",
+		"BuildingDesc": "Building_Desc_1003",
+		"UpgradeDesc": "Building_UpDesc_1003_1",
+		"Scale": [
+			1,
+			1,
+			1
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/LevelMatrix_SummerTreasureHunt_Floor2",
+		"DataImpl": {},
+		"BuildingType": 1003,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 0,
+		"FuncType": 1,
+		"Para": "114344,1000,25",
+		"Model": 1684,
+		"Name": "Building_Name_1004",
+		"BuildingDesc": "Building_Desc_1004",
+		"UpgradeDesc": "Building_UpDesc_1004_1",
+		"Scale": [
+			1,
+			1,
+			1
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/LevelMatrix_SummerTreasureHunt_Floor3",
+		"DataImpl": {},
+		"BuildingType": 1004,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 0,
+		"FuncType": 1,
+		"Para": "114344,1000,25",
+		"Model": 1685,
+		"Name": "Building_Name_1005",
+		"BuildingDesc": "Building_Desc_1005",
+		"UpgradeDesc": "Building_UpDesc_1005_1",
+		"Scale": [
+			1,
+			1,
+			1
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/LevelMatrix_SummerTreasureHunt_Floor4",
+		"DataImpl": {},
+		"BuildingType": 1005,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 0,
+		"FuncType": 2,
+		"Para": "1031,1",
+		"Model": 1686,
+		"Name": "Building_Name_1006",
+		"BuildingDesc": "Building_Desc_1006",
+		"UpgradeDesc": "Building_UpDesc_1006_1",
+		"Scale": [
+			1,
+			1,
+			1
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/Garden_Object_Plane_Stigmata_S3E",
+		"DataImpl": {},
+		"BuildingType": 1006,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 0,
+		"FuncType": 2,
+		"Para": "1032,1",
+		"Model": 1687,
+		"Name": "Building_Name_1007",
+		"BuildingDesc": "Building_Desc_1007",
+		"UpgradeDesc": "Building_UpDesc_1007_1",
+		"Scale": [
+			1,
+			1,
+			1
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/Garden_Object_Plane_Stigmata_S3F",
+		"DataImpl": {},
+		"BuildingType": 1007,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 0,
+		"FuncType": 2,
+		"Para": "1033,1",
+		"Model": 1688,
+		"Name": "Building_Name_1008",
+		"BuildingDesc": "Building_Desc_1008",
+		"UpgradeDesc": "Building_UpDesc_1008_1",
+		"Scale": [
+			1,
+			1,
+			1
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/Garden_Object_Plane_Durandal_C1_04_02",
+		"DataImpl": {},
+		"BuildingType": 1008,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 0,
+		"FuncType": 2,
+		"Para": "1034,1",
+		"Model": 1689,
+		"Name": "Building_Name_1009",
+		"BuildingDesc": "Building_Desc_1009",
+		"UpgradeDesc": "Building_UpDesc_1009_1",
+		"Scale": [
+			1,
+			1,
+			1
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/Garden_Object_Plane_Twins_C1_04_03",
+		"DataImpl": {},
+		"BuildingType": 1009,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 0,
+		"FuncType": 2,
+		"Para": "1035,1",
+		"Model": 1690,
+		"Name": "Building_Name_1010",
+		"BuildingDesc": "Building_Desc_1010",
+		"UpgradeDesc": "Building_UpDesc_1010_1",
+		"Scale": [
+			1,
+			1,
+			1
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/Garden_Object_Plane_Sakura_C2_04_02",
+		"DataImpl": {},
+		"BuildingType": 1010,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 0,
+		"FuncType": 2,
+		"Para": "1036,1",
+		"Model": 1691,
+		"Name": "Building_Name_1011",
+		"BuildingDesc": "Building_Desc_1011",
+		"UpgradeDesc": "Building_UpDesc_1011_1",
+		"Scale": [
+			1,
+			1,
+			1
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/Garden_Object_Plane_Twins_C2_04_03",
+		"DataImpl": {},
+		"BuildingType": 1011,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 0,
+		"FuncType": 2,
+		"Para": "1037,1",
+		"Model": 1692,
+		"Name": "Building_Name_1012",
+		"BuildingDesc": "Building_Desc_1012",
+		"UpgradeDesc": "Building_UpDesc_1012_1",
+		"Scale": [
+			1,
+			1,
+			1
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/Garden_Object_Plane_Bronya_C7",
+		"DataImpl": {},
+		"BuildingType": 1012,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 0,
+		"FuncType": 2,
+		"Para": "1038,1",
+		"Model": 1693,
+		"Name": "Building_Name_1013",
+		"BuildingDesc": "Building_Desc_1013",
+		"UpgradeDesc": "Building_UpDesc_1013_1",
+		"Scale": [
+			1,
+			1,
+			1
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/Garden_Object_Plane_Kiana_C5_04_02",
+		"DataImpl": {},
+		"BuildingType": 1013,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114344,
+		"UpgradeNum": 0,
+		"FuncType": 2,
+		"Para": "1039,1",
+		"Model": 1694,
+		"Name": "Building_Name_1014",
+		"BuildingDesc": "Building_Desc_1014",
+		"UpgradeDesc": "Building_UpDesc_1014_1",
+		"Scale": [
+			1,
+			1,
+			1
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/Garden_Object_Plane_Rita_C2_04_02",
+		"DataImpl": {},
+		"BuildingType": 1014,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114345,
+		"UpgradeNum": 1000,
+		"FuncType": 2,
+		"Para": "110,1",
+		"Model": 1704,
+		"Name": "Building_Name_1101",
+		"BuildingDesc": "Building_Desc_1101",
+		"UpgradeDesc": "Building_UpDesc_1101_1",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_kindle",
+		"DataImpl": {},
+		"BuildingType": 1101,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114345,
+		"UpgradeNum": 1200,
+		"FuncType": 2,
+		"Para": "110,2",
+		"Model": 1705,
+		"Name": "Building_Name_1101",
+		"BuildingDesc": "Building_Desc_1101",
+		"UpgradeDesc": "Building_UpDesc_1101_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_kindle",
+		"DataImpl": {},
+		"BuildingType": 1101,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114345,
+		"UpgradeNum": 1500,
+		"FuncType": 2,
+		"Para": "110,3",
+		"Model": 1706,
+		"Name": "Building_Name_1101",
+		"BuildingDesc": "Building_Desc_1101",
+		"UpgradeDesc": "Building_UpDesc_1101_3",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_kindle",
+		"DataImpl": {},
+		"BuildingType": 1101,
+		"BuildingLevel": 3
+	},
+	{
+		"UpgradeCurrency": 114345,
+		"UpgradeNum": 4000,
+		"FuncType": 2,
+		"Para": "110,5",
+		"Model": 1704,
+		"Name": "Building_Name_1201",
+		"BuildingDesc": "Building_Desc_1201",
+		"UpgradeDesc": "Building_UpDesc_1201_1",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_kindle",
+		"DataImpl": {},
+		"BuildingType": 1201,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114345,
+		"UpgradeNum": 4800,
+		"FuncType": 2,
+		"Para": "110,7",
+		"Model": 1705,
+		"Name": "Building_Name_1201",
+		"BuildingDesc": "Building_Desc_1201",
+		"UpgradeDesc": "Building_UpDesc_1201_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_kindle",
+		"DataImpl": {},
+		"BuildingType": 1201,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114345,
+		"UpgradeNum": 6000,
+		"FuncType": 2,
+		"Para": "110,9",
+		"Model": 1706,
+		"Name": "Building_Name_1201",
+		"BuildingDesc": "Building_Desc_1201",
+		"UpgradeDesc": "Building_UpDesc_1201_3",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_kindle",
+		"DataImpl": {},
+		"BuildingType": 1201,
+		"BuildingLevel": 3
+	},
+	{
+		"UpgradeCurrency": 114345,
+		"UpgradeNum": 4000,
+		"FuncType": 2,
+		"Para": "111,5",
+		"Model": 1713,
+		"Name": "Building_Name_1202",
+		"BuildingDesc": "Building_Desc_1202",
+		"UpgradeDesc": "Building_UpDesc_1202_1",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Element_LV1_kindle",
+		"DataImpl": {},
+		"BuildingType": 1202,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114345,
+		"UpgradeNum": 4800,
+		"FuncType": 2,
+		"Para": "111,7",
+		"Model": 1714,
+		"Name": "Building_Name_1202",
+		"BuildingDesc": "Building_Desc_1202",
+		"UpgradeDesc": "Building_UpDesc_1202_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Element_LV1_kindle",
+		"DataImpl": {},
+		"BuildingType": 1202,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114345,
+		"UpgradeNum": 6000,
+		"FuncType": 2,
+		"Para": "111,9",
+		"Model": 1715,
+		"Name": "Building_Name_1202",
+		"BuildingDesc": "Building_Desc_1202",
+		"UpgradeDesc": "Building_UpDesc_1202_3",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Element_LV1_kindle",
+		"DataImpl": {},
+		"BuildingType": 1202,
+		"BuildingLevel": 3
+	},
+	{
+		"UpgradeCurrency": 114345,
+		"UpgradeNum": 16000,
+		"FuncType": 2,
+		"Para": "110,10",
+		"Model": 1704,
+		"Name": "Building_Name_1301",
+		"BuildingDesc": "Building_Desc_1301",
+		"UpgradeDesc": "Building_UpDesc_1301_1",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_kindle",
+		"DataImpl": {},
+		"BuildingType": 1301,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114345,
+		"UpgradeNum": 19200,
+		"FuncType": 2,
+		"Para": "110,20",
+		"Model": 1705,
+		"Name": "Building_Name_1301",
+		"BuildingDesc": "Building_Desc_1301",
+		"UpgradeDesc": "Building_UpDesc_1301_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_kindle",
+		"DataImpl": {},
+		"BuildingType": 1301,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114345,
+		"UpgradeNum": 24000,
+		"FuncType": 2,
+		"Para": "110,30",
+		"Model": 1706,
+		"Name": "Building_Name_1301",
+		"BuildingDesc": "Building_Desc_1301",
+		"UpgradeDesc": "Building_UpDesc_1301_3",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_kindle",
+		"DataImpl": {},
+		"BuildingType": 1301,
+		"BuildingLevel": 3
+	},
+	{
+		"UpgradeCurrency": 114345,
+		"UpgradeNum": 16000,
+		"FuncType": 2,
+		"Para": "111,10",
+		"Model": 1713,
+		"Name": "Building_Name_1302",
+		"BuildingDesc": "Building_Desc_1302",
+		"UpgradeDesc": "Building_UpDesc_1302_1",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Element_LV1_kindle",
+		"DataImpl": {},
+		"BuildingType": 1302,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114345,
+		"UpgradeNum": 19200,
+		"FuncType": 2,
+		"Para": "111,20",
+		"Model": 1714,
+		"Name": "Building_Name_1302",
+		"BuildingDesc": "Building_Desc_1302",
+		"UpgradeDesc": "Building_UpDesc_1302_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Element_LV1_kindle",
+		"DataImpl": {},
+		"BuildingType": 1302,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114345,
+		"UpgradeNum": 24000,
+		"FuncType": 2,
+		"Para": "111,30",
+		"Model": 1715,
+		"Name": "Building_Name_1302",
+		"BuildingDesc": "Building_Desc_1302",
+		"UpgradeDesc": "Building_UpDesc_1302_3",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Element_LV1_kindle",
+		"DataImpl": {},
+		"BuildingType": 1302,
+		"BuildingLevel": 3
+	},
+	{
+		"UpgradeCurrency": 114345,
+		"UpgradeNum": 16000,
+		"FuncType": 2,
+		"Para": "112,10",
+		"Model": 1725,
+		"Name": "Building_Name_1303",
+		"BuildingDesc": "Building_Desc_1303",
+		"UpgradeDesc": "Building_UpDesc_1303_1",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Game2_LV1_kindle",
+		"DataImpl": {},
+		"BuildingType": 1303,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114345,
+		"UpgradeNum": 19200,
+		"FuncType": 2,
+		"Para": "112,20",
+		"Model": 1726,
+		"Name": "Building_Name_1303",
+		"BuildingDesc": "Building_Desc_1303",
+		"UpgradeDesc": "Building_UpDesc_1303_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Game2_LV1_kindle",
+		"DataImpl": {},
+		"BuildingType": 1303,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114345,
+		"UpgradeNum": 24000,
+		"FuncType": 2,
+		"Para": "112,30",
+		"Model": 1727,
+		"Name": "Building_Name_1303",
+		"BuildingDesc": "Building_Desc_1303",
+		"UpgradeDesc": "Building_UpDesc_1303_3",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Game2_LV1_kindle",
+		"DataImpl": {},
+		"BuildingType": 1303,
+		"BuildingLevel": 3
+	},
+	{
+		"UpgradeCurrency": 114346,
+		"UpgradeNum": 1000,
+		"FuncType": 2,
+		"Para": "210,1",
+		"Model": 1701,
+		"Name": "Building_Name_2101",
+		"BuildingDesc": "Building_Desc_2101",
+		"UpgradeDesc": "Building_UpDesc_2101_1",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_frozen",
+		"DataImpl": {},
+		"BuildingType": 2101,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114346,
+		"UpgradeNum": 1200,
+		"FuncType": 2,
+		"Para": "210,2",
+		"Model": 1702,
+		"Name": "Building_Name_2101",
+		"BuildingDesc": "Building_Desc_2101",
+		"UpgradeDesc": "Building_UpDesc_2101_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_frozen",
+		"DataImpl": {},
+		"BuildingType": 2101,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114346,
+		"UpgradeNum": 1500,
+		"FuncType": 2,
+		"Para": "210,3",
+		"Model": 1703,
+		"Name": "Building_Name_2101",
+		"BuildingDesc": "Building_Desc_2101",
+		"UpgradeDesc": "Building_UpDesc_2101_3",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_frozen",
+		"DataImpl": {},
+		"BuildingType": 2101,
+		"BuildingLevel": 3
+	},
+	{
+		"UpgradeCurrency": 114346,
+		"UpgradeNum": 4000,
+		"FuncType": 2,
+		"Para": "210,5",
+		"Model": 1701,
+		"Name": "Building_Name_2201",
+		"BuildingDesc": "Building_Desc_2201",
+		"UpgradeDesc": "Building_UpDesc_2201_1",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_frozen",
+		"DataImpl": {},
+		"BuildingType": 2201,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114346,
+		"UpgradeNum": 4800,
+		"FuncType": 2,
+		"Para": "210,7",
+		"Model": 1702,
+		"Name": "Building_Name_2201",
+		"BuildingDesc": "Building_Desc_2201",
+		"UpgradeDesc": "Building_UpDesc_2201_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_frozen",
+		"DataImpl": {},
+		"BuildingType": 2201,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114346,
+		"UpgradeNum": 6000,
+		"FuncType": 2,
+		"Para": "210,9",
+		"Model": 1703,
+		"Name": "Building_Name_2201",
+		"BuildingDesc": "Building_Desc_2201",
+		"UpgradeDesc": "Building_UpDesc_2201_3",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_frozen",
+		"DataImpl": {},
+		"BuildingType": 2201,
+		"BuildingLevel": 3
+	},
+	{
+		"UpgradeCurrency": 114346,
+		"UpgradeNum": 4000,
+		"FuncType": 2,
+		"Para": "211,5",
+		"Model": 1710,
+		"Name": "Building_Name_2202",
+		"BuildingDesc": "Building_Desc_2202",
+		"UpgradeDesc": "Building_UpDesc_2202_1",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Element_LV2_frozen",
+		"DataImpl": {},
+		"BuildingType": 2202,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114346,
+		"UpgradeNum": 4800,
+		"FuncType": 2,
+		"Para": "211,7",
+		"Model": 1711,
+		"Name": "Building_Name_2202",
+		"BuildingDesc": "Building_Desc_2202",
+		"UpgradeDesc": "Building_UpDesc_2202_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Element_LV2_frozen",
+		"DataImpl": {},
+		"BuildingType": 2202,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114346,
+		"UpgradeNum": 6000,
+		"FuncType": 2,
+		"Para": "211,9",
+		"Model": 1712,
+		"Name": "Building_Name_2202",
+		"BuildingDesc": "Building_Desc_2202",
+		"UpgradeDesc": "Building_UpDesc_2202_3",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Element_LV2_frozen",
+		"DataImpl": {},
+		"BuildingType": 2202,
+		"BuildingLevel": 3
+	},
+	{
+		"UpgradeCurrency": 114346,
+		"UpgradeNum": 16000,
+		"FuncType": 2,
+		"Para": "210,10",
+		"Model": 1701,
+		"Name": "Building_Name_2301",
+		"BuildingDesc": "Building_Desc_2301",
+		"UpgradeDesc": "Building_UpDesc_2301_1",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_frozen",
+		"DataImpl": {},
+		"BuildingType": 2301,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114346,
+		"UpgradeNum": 19200,
+		"FuncType": 2,
+		"Para": "210,20",
+		"Model": 1702,
+		"Name": "Building_Name_2301",
+		"BuildingDesc": "Building_Desc_2301",
+		"UpgradeDesc": "Building_UpDesc_2301_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_frozen",
+		"DataImpl": {},
+		"BuildingType": 2301,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114346,
+		"UpgradeNum": 24000,
+		"FuncType": 2,
+		"Para": "210,30",
+		"Model": 1703,
+		"Name": "Building_Name_2301",
+		"BuildingDesc": "Building_Desc_2301",
+		"UpgradeDesc": "Building_UpDesc_2301_3",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_frozen",
+		"DataImpl": {},
+		"BuildingType": 2301,
+		"BuildingLevel": 3
+	},
+	{
+		"UpgradeCurrency": 114346,
+		"UpgradeNum": 16000,
+		"FuncType": 2,
+		"Para": "211,10",
+		"Model": 1710,
+		"Name": "Building_Name_2302",
+		"BuildingDesc": "Building_Desc_2302",
+		"UpgradeDesc": "Building_UpDesc_2302_1",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Element_LV2_frozen",
+		"DataImpl": {},
+		"BuildingType": 2302,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114346,
+		"UpgradeNum": 19200,
+		"FuncType": 2,
+		"Para": "211,20",
+		"Model": 1711,
+		"Name": "Building_Name_2302",
+		"BuildingDesc": "Building_Desc_2302",
+		"UpgradeDesc": "Building_UpDesc_2302_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Element_LV2_frozen",
+		"DataImpl": {},
+		"BuildingType": 2302,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114346,
+		"UpgradeNum": 24000,
+		"FuncType": 2,
+		"Para": "211,30",
+		"Model": 1712,
+		"Name": "Building_Name_2302",
+		"BuildingDesc": "Building_Desc_2302",
+		"UpgradeDesc": "Building_UpDesc_2302_3",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Element_LV2_frozen",
+		"DataImpl": {},
+		"BuildingType": 2302,
+		"BuildingLevel": 3
+	},
+	{
+		"UpgradeCurrency": 114346,
+		"UpgradeNum": 16000,
+		"FuncType": 2,
+		"Para": "212,10",
+		"Model": 1719,
+		"Name": "Building_Name_2303",
+		"BuildingDesc": "Building_Desc_2303",
+		"UpgradeDesc": "Building_UpDesc_2303_1",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Game2_LV1_frozen",
+		"DataImpl": {},
+		"BuildingType": 2303,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114346,
+		"UpgradeNum": 19200,
+		"FuncType": 2,
+		"Para": "212,20",
+		"Model": 1720,
+		"Name": "Building_Name_2303",
+		"BuildingDesc": "Building_Desc_2303",
+		"UpgradeDesc": "Building_UpDesc_2303_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Game2_LV1_frozen",
+		"DataImpl": {},
+		"BuildingType": 2303,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114346,
+		"UpgradeNum": 24000,
+		"FuncType": 2,
+		"Para": "212,30",
+		"Model": 1721,
+		"Name": "Building_Name_2303",
+		"BuildingDesc": "Building_Desc_2303",
+		"UpgradeDesc": "Building_UpDesc_2303_3",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Game2_LV1_frozen",
+		"DataImpl": {},
+		"BuildingType": 2303,
+		"BuildingLevel": 3
+	},
+	{
+		"UpgradeCurrency": 114347,
+		"UpgradeNum": 1000,
+		"FuncType": 2,
+		"Para": "310,1",
+		"Model": 1707,
+		"Name": "Building_Name_3101",
+		"BuildingDesc": "Building_Desc_3101",
+		"UpgradeDesc": "Building_UpDesc_3101_1",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_palsy",
+		"DataImpl": {},
+		"BuildingType": 3101,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114347,
+		"UpgradeNum": 1200,
+		"FuncType": 2,
+		"Para": "310,2",
+		"Model": 1708,
+		"Name": "Building_Name_3101",
+		"BuildingDesc": "Building_Desc_3101",
+		"UpgradeDesc": "Building_UpDesc_3101_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_palsy",
+		"DataImpl": {},
+		"BuildingType": 3101,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114347,
+		"UpgradeNum": 1500,
+		"FuncType": 2,
+		"Para": "310,5",
+		"Model": 1709,
+		"Name": "Building_Name_3101",
+		"BuildingDesc": "Building_Desc_3101",
+		"UpgradeDesc": "Building_UpDesc_3101_3",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_palsy",
+		"DataImpl": {},
+		"BuildingType": 3101,
+		"BuildingLevel": 3
+	},
+	{
+		"UpgradeCurrency": 114347,
+		"UpgradeNum": 4000,
+		"FuncType": 2,
+		"Para": "310,5",
+		"Model": 1707,
+		"Name": "Building_Name_3201",
+		"BuildingDesc": "Building_Desc_3201",
+		"UpgradeDesc": "Building_UpDesc_3201_1",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_palsy",
+		"DataImpl": {},
+		"BuildingType": 3201,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114347,
+		"UpgradeNum": 4800,
+		"FuncType": 2,
+		"Para": "310,10",
+		"Model": 1708,
+		"Name": "Building_Name_3201",
+		"BuildingDesc": "Building_Desc_3201",
+		"UpgradeDesc": "Building_UpDesc_3201_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_palsy",
+		"DataImpl": {},
+		"BuildingType": 3201,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114347,
+		"UpgradeNum": 6000,
+		"FuncType": 2,
+		"Para": "310,20",
+		"Model": 1709,
+		"Name": "Building_Name_3201",
+		"BuildingDesc": "Building_Desc_3201",
+		"UpgradeDesc": "Building_UpDesc_3201_3",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_palsy",
+		"DataImpl": {},
+		"BuildingType": 3201,
+		"BuildingLevel": 3
+	},
+	{
+		"UpgradeCurrency": 114347,
+		"UpgradeNum": 4000,
+		"FuncType": 2,
+		"Para": "311,5",
+		"Model": 1716,
+		"Name": "Building_Name_3202",
+		"BuildingDesc": "Building_Desc_3202",
+		"UpgradeDesc": "Building_UpDesc_3202_1",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Element_LV1_palsy",
+		"DataImpl": {},
+		"BuildingType": 3202,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114347,
+		"UpgradeNum": 4800,
+		"FuncType": 2,
+		"Para": "311,10",
+		"Model": 1717,
+		"Name": "Building_Name_3202",
+		"BuildingDesc": "Building_Desc_3202",
+		"UpgradeDesc": "Building_UpDesc_3202_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Element_LV1_palsy",
+		"DataImpl": {},
+		"BuildingType": 3202,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114347,
+		"UpgradeNum": 6000,
+		"FuncType": 2,
+		"Para": "311,20",
+		"Model": 1718,
+		"Name": "Building_Name_3202",
+		"BuildingDesc": "Building_Desc_3202",
+		"UpgradeDesc": "Building_UpDesc_3202_3",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Element_LV1_palsy",
+		"DataImpl": {},
+		"BuildingType": 3202,
+		"BuildingLevel": 3
+	},
+	{
+		"UpgradeCurrency": 114347,
+		"UpgradeNum": 16000,
+		"FuncType": 2,
+		"Para": "310,10",
+		"Model": 1646,
+		"Name": "Building_Name_3301",
+		"BuildingDesc": "Building_Desc_3301",
+		"UpgradeDesc": "Building_UpDesc_3301_1",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_attack",
+		"DataImpl": {},
+		"BuildingType": 3301,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114347,
+		"UpgradeNum": 19200,
+		"FuncType": 2,
+		"Para": "310,20",
+		"Model": 1647,
+		"Name": "Building_Name_3301",
+		"BuildingDesc": "Building_Desc_3301",
+		"UpgradeDesc": "Building_UpDesc_3301_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_attack",
+		"DataImpl": {},
+		"BuildingType": 3301,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114347,
+		"UpgradeNum": 24000,
+		"FuncType": 2,
+		"Para": "310,30",
+		"Model": 1648,
+		"Name": "Building_Name_3301",
+		"BuildingDesc": "Building_Desc_3301",
+		"UpgradeDesc": "Building_UpDesc_3301_3",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_attack",
+		"DataImpl": {},
+		"BuildingType": 3301,
+		"BuildingLevel": 3
+	},
+	{
+		"UpgradeCurrency": 114347,
+		"UpgradeNum": 16000,
+		"FuncType": 2,
+		"Para": "310,10",
+		"Model": 1716,
+		"Name": "Building_Name_3302",
+		"BuildingDesc": "Building_Desc_3302",
+		"UpgradeDesc": "Building_UpDesc_3302_1",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Element_LV1_palsy",
+		"DataImpl": {},
+		"BuildingType": 3302,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114347,
+		"UpgradeNum": 19200,
+		"FuncType": 2,
+		"Para": "310,20",
+		"Model": 1717,
+		"Name": "Building_Name_3302",
+		"BuildingDesc": "Building_Desc_3302",
+		"UpgradeDesc": "Building_UpDesc_3302_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Element_LV1_palsy",
+		"DataImpl": {},
+		"BuildingType": 3302,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114347,
+		"UpgradeNum": 24000,
+		"FuncType": 2,
+		"Para": "310,30",
+		"Model": 1718,
+		"Name": "Building_Name_3302",
+		"BuildingDesc": "Building_Desc_3302",
+		"UpgradeDesc": "Building_UpDesc_3302_3",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Element_LV1_palsy",
+		"DataImpl": {},
+		"BuildingType": 3302,
+		"BuildingLevel": 3
+	},
+	{
+		"UpgradeCurrency": 114347,
+		"UpgradeNum": 16000,
+		"FuncType": 2,
+		"Para": "312,5",
+		"Model": 1635,
+		"Name": "Building_Name_3303",
+		"BuildingDesc": "Building_Desc_3303",
+		"UpgradeDesc": "Building_UpDesc_3303_1",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Game2_LV1",
+		"DataImpl": {},
+		"BuildingType": 3303,
+		"BuildingLevel": 1
+	},
+	{
+		"UpgradeCurrency": 114347,
+		"UpgradeNum": 19200,
+		"FuncType": 2,
+		"Para": "312,10",
+		"Model": 1636,
+		"Name": "Building_Name_3303",
+		"BuildingDesc": "Building_Desc_3303",
+		"UpgradeDesc": "Building_UpDesc_3303_2",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Game2_LV1",
+		"DataImpl": {},
+		"BuildingType": 3303,
+		"BuildingLevel": 2
+	},
+	{
+		"UpgradeCurrency": 114347,
+		"UpgradeNum": 24000,
+		"FuncType": 2,
+		"Para": "312,20",
+		"Model": 1637,
+		"Name": "Building_Name_3303",
+		"BuildingDesc": "Building_Desc_3303",
+		"UpgradeDesc": "Building_UpDesc_3303_3",
+		"Scale": [
+			2,
+			2,
+			2
+		],
+		"BuildingIcon": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Game2_LV1",
+		"DataImpl": {},
+		"BuildingType": 3303,
+		"BuildingLevel": 3
+	}
+]

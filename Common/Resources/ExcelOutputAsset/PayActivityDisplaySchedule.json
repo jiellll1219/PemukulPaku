@@ -1,0 +1,35 @@
+[
+	{
+		"BeginTime": "2021-08-13 12:00:00",
+		"EndTime": "2021-09-10 11:59:59",
+		"DisplayTextMap": "5.0PaymentActivityPanel_title",
+		"PopupDisplayTextMap": "5.0Payment_Popup_Text",
+		"IconImgPath": "SpriteOutput/MallTabIcon/MainPageIcon/IconShoppingFestival",
+		"DisplayImgPathList": [],
+		"CGEventID": 0,
+		"DataImpl": {},
+		"ScheduleID": 8
+	},
+	{
+		"BeginTime": "2022-09-15 04:00:00",
+		"EndTime": "2022-10-07 12:00:00",
+		"DisplayTextMap": "6.0_ShoppingTitle",
+		"PopupDisplayTextMap": "6.0Payment_Popup_Text",
+		"IconImgPath": "event/Immediately/GiftPacks/6.0_ElfElysiaStoreIcon",
+		"DisplayImgPathList": [],
+		"CGEventID": 0,
+		"DataImpl": {},
+		"ScheduleID": 11
+	},
+	{
+		"BeginTime": "2023-05-18 04:00:00",
+		"EndTime": "2023-06-16 12:00:00",
+		"DisplayTextMap": "6.6_ShoppingTitle",
+		"PopupDisplayTextMap": "6.6Payment_Popup_Text",
+		"IconImgPath": "event/Immediately/GiftPacks/6.6_AIStoreIcon",
+		"DisplayImgPathList": [],
+		"CGEventID": 0,
+		"DataImpl": {},
+		"ScheduleID": 12
+	}
+]

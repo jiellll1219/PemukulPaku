@@ -1,0 +1,46 @@
+[
+	{
+		"IconPath": "SpriteOutput/Garden/Bg/01",
+		"SmallIconPath": "SpriteOutput/Garden/Weather/01",
+		"WeatherName": "GardenActivity_Weather_Name01",
+		"ShadowColor": "#47291697",
+		"NeedCropNum": 0,
+		"PlayPlot": 0,
+		"DataImpl": {},
+		"WeatherID": 1,
+		"GardenID": 8
+	},
+	{
+		"IconPath": "SpriteOutput/Garden/Bg/04",
+		"SmallIconPath": "SpriteOutput/Garden/Weather/04",
+		"WeatherName": "GardenActivity_Weather_Name04",
+		"ShadowColor": "#4666B497",
+		"NeedCropNum": 150,
+		"PlayPlot": 0,
+		"DataImpl": {},
+		"WeatherID": 2,
+		"GardenID": 8
+	},
+	{
+		"IconPath": "event/Immediately/Garden/Bg/6.2_01",
+		"SmallIconPath": "SpriteOutput/Garden/Weather/02",
+		"WeatherName": "GardenActivity_Weather_letu_Name05",
+		"ShadowColor": "#47291697",
+		"NeedCropNum": 300,
+		"PlayPlot": 0,
+		"DataImpl": {},
+		"WeatherID": 3,
+		"GardenID": 8
+	},
+	{
+		"IconPath": "event/Immediately/Garden/Bg/6.2_02",
+		"SmallIconPath": "event/Immediately/Garden/Weather/6.2_Weather01",
+		"WeatherName": "GardenActivity_Weather_letu_Name06",
+		"ShadowColor": "#47291697",
+		"NeedCropNum": 600,
+		"PlayPlot": 0,
+		"DataImpl": {},
+		"WeatherID": 4,
+		"GardenID": 8
+	}
+]

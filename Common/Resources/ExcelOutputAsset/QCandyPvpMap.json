@@ -1,0 +1,739 @@
+[
+	{
+		"Type": 1,
+		"IsNew": false,
+		"Name": {
+			"hash": 525120466
+		},
+		"Desc": {
+			"hash": 2092482371
+		},
+		"StageID": 10310201,
+		"Image": "SpriteOutput/QCandyPVP/Map/QCandyMap1",
+		"RecordImage": "SpriteOutput/QCandyPVP/QCandySmallMap/QCandyMap1",
+		"RotateImage": "SpriteOutput/QCandyPVP/MapV2/QCandyV2Map1",
+		"SkillList": [
+			102
+		],
+		"Lives": 0,
+		"CountDown": 180,
+		"Score": 0,
+		"JsonName": "",
+		"TimeLineTime": 7,
+		"TimeLineName": "QCandy_ClassicalRace",
+		"DataImpl": {},
+		"ID": 1
+	},
+	{
+		"Type": 1,
+		"IsNew": false,
+		"Name": {
+			"hash": 525120467
+		},
+		"Desc": {
+			"hash": 2092482372
+		},
+		"StageID": 10310202,
+		"Image": "SpriteOutput/QCandyPVP/Map/QCandyMap2",
+		"RecordImage": "SpriteOutput/QCandyPVP/QCandySmallMap/QCandyMap2",
+		"RotateImage": "SpriteOutput/QCandyPVP/MapV2/QCandyV2Map2",
+		"SkillList": [
+			102,
+			105
+		],
+		"Lives": 0,
+		"CountDown": 180,
+		"Score": 0,
+		"JsonName": "",
+		"TimeLineTime": 7,
+		"TimeLineName": "QCandy_HillRace",
+		"DataImpl": {},
+		"ID": 2
+	},
+	{
+		"Type": 2,
+		"IsNew": false,
+		"Name": {
+			"hash": 525120468
+		},
+		"Desc": {
+			"hash": 2092482373
+		},
+		"StageID": 10310203,
+		"Image": "SpriteOutput/QCandyPVP/Map/QCandyMap3",
+		"RecordImage": "SpriteOutput/QCandyPVP/QCandySmallMap/QCandyMap3",
+		"RotateImage": "SpriteOutput/QCandyPVP/MapV2/QCandyV2Map3",
+		"SkillList": [
+			106,
+			103
+		],
+		"Lives": 1,
+		"CountDown": 120,
+		"Score": 0,
+		"JsonName": "CellSurvival",
+		"TimeLineTime": 7,
+		"TimeLineName": "Qcandy_CellSurvival",
+		"DataImpl": {},
+		"ID": 3
+	},
+	{
+		"Type": 3,
+		"IsNew": false,
+		"Name": {
+			"hash": 525120469
+		},
+		"Desc": {
+			"hash": 2092482374
+		},
+		"StageID": 10310204,
+		"Image": "SpriteOutput/QCandyPVP/Map/QCandyMap4",
+		"RecordImage": "SpriteOutput/QCandyPVP/QCandySmallMap/QCandyMap4",
+		"RotateImage": "SpriteOutput/QCandyPVP/MapV2/QCandyV2Map4",
+		"SkillList": [
+			102
+		],
+		"Lives": 0,
+		"CountDown": 180,
+		"Score": 20,
+		"JsonName": "CoinScoring",
+		"TimeLineTime": 7,
+		"TimeLineName": "Qcandy_CoinScoring",
+		"DataImpl": {},
+		"ID": 4
+	},
+	{
+		"Type": 1,
+		"IsNew": false,
+		"Name": {
+			"hash": 525120470
+		},
+		"Desc": {
+			"hash": 2092482375
+		},
+		"StageID": 10310205,
+		"Image": "SpriteOutput/QCandyPVP/Map/QCandyMap5",
+		"RecordImage": "SpriteOutput/QCandyPVP/QCandySmallMap/QCandyMap5",
+		"RotateImage": "SpriteOutput/QCandyPVP/MapV2/QCandyV2Map5",
+		"SkillList": [
+			107
+		],
+		"Lives": 0,
+		"CountDown": 180,
+		"Score": 0,
+		"JsonName": "SlideRace",
+		"TimeLineTime": 9,
+		"TimeLineName": "Qcandy_SlideRace",
+		"DataImpl": {},
+		"ID": 5
+	},
+	{
+		"Type": 3,
+		"IsNew": false,
+		"Name": {
+			"hash": 525120471
+		},
+		"Desc": {
+			"hash": 2092482376
+		},
+		"StageID": 10310206,
+		"Image": "SpriteOutput/QCandyPVP/Map/QCandyMap6",
+		"RecordImage": "SpriteOutput/QCandyPVP/QCandySmallMap/QCandyMap6",
+		"RotateImage": "SpriteOutput/QCandyPVP/MapV2/QCandyV2Map6",
+		"SkillList": [
+			108
+		],
+		"Lives": 0,
+		"CountDown": 180,
+		"Score": 20,
+		"JsonName": "RingScore",
+		"TimeLineTime": 8,
+		"TimeLineName": "Qcandy_RingScore",
+		"DataImpl": {},
+		"ID": 6
+	},
+	{
+		"Type": 1,
+		"IsNew": false,
+		"Name": {
+			"hash": 525120472
+		},
+		"Desc": {
+			"hash": 2092482377
+		},
+		"StageID": 10310207,
+		"Image": "SpriteOutput/QCandyPVP/Map/QCandyMap7",
+		"RecordImage": "SpriteOutput/QCandyPVP/QCandySmallMap/QCandyMap7",
+		"RotateImage": "SpriteOutput/QCandyPVP/MapV2/QCandyV2Map7",
+		"SkillList": [
+			104
+		],
+		"Lives": 0,
+		"CountDown": 180,
+		"Score": 0,
+		"JsonName": "GravityRace",
+		"TimeLineTime": 8,
+		"TimeLineName": "Qcandy_GravityRace",
+		"DataImpl": {},
+		"ID": 7
+	},
+	{
+		"Type": 2,
+		"IsNew": false,
+		"Name": {
+			"hash": 525120473
+		},
+		"Desc": {
+			"hash": 2092482378
+		},
+		"StageID": 10310208,
+		"Image": "SpriteOutput/QCandyPVP/Map/QCandyMap8",
+		"RecordImage": "SpriteOutput/QCandyPVP/QCandySmallMap/QCandyMap8",
+		"RotateImage": "SpriteOutput/QCandyPVP/MapV2/QCandyV2Map8",
+		"SkillList": [
+			101,
+			103
+		],
+		"Lives": 3,
+		"CountDown": 120,
+		"Score": 0,
+		"JsonName": "",
+		"TimeLineTime": 6,
+		"TimeLineName": "QCandy_Plate",
+		"DataImpl": {},
+		"ID": 8
+	},
+	{
+		"Type": 1,
+		"IsNew": false,
+		"Name": {
+			"hash": 525120474
+		},
+		"Desc": {
+			"hash": 2092482379
+		},
+		"StageID": 10310209,
+		"Image": "SpriteOutput/QCandyPVP/Map/QCandyMap9",
+		"RecordImage": "SpriteOutput/QCandyPVP/QCandySmallMap/QCandyMap9",
+		"RotateImage": "SpriteOutput/QCandyPVP/MapV2/QCandyV2Map9",
+		"SkillList": [
+			102,
+			105
+		],
+		"Lives": 0,
+		"CountDown": 180,
+		"Score": 0,
+		"JsonName": "HammerRace",
+		"TimeLineTime": 9,
+		"TimeLineName": "Qcandy_HammerRace",
+		"DataImpl": {},
+		"ID": 9
+	},
+	{
+		"Type": 3,
+		"IsNew": false,
+		"Name": {
+			"hash": 525120496
+		},
+		"Desc": {
+			"hash": 2092482401
+		},
+		"StageID": 10310210,
+		"Image": "SpriteOutput/QCandyPVP/Map/QCandyMap10",
+		"RecordImage": "SpriteOutput/QCandyPVP/QCandySmallMap/QCandyMap10",
+		"RotateImage": "SpriteOutput/QCandyPVP/MapV2/QCandyV2Map10",
+		"SkillList": [
+			109,
+			103
+		],
+		"Lives": 0,
+		"CountDown": 180,
+		"Score": 40,
+		"JsonName": "IceScoring",
+		"TimeLineTime": 7,
+		"TimeLineName": "Qcandy_IceScoring",
+		"DataImpl": {},
+		"ID": 10
+	},
+	{
+		"Type": 1,
+		"IsNew": false,
+		"Name": {
+			"hash": 525120497
+		},
+		"Desc": {
+			"hash": 2092482402
+		},
+		"StageID": 10310211,
+		"Image": "SpriteOutput/QCandyPVP/Map/QCandyMap11",
+		"RecordImage": "SpriteOutput/QCandyPVP/QCandySmallMap/QCandyMap11",
+		"RotateImage": "SpriteOutput/QCandyPVP/MapV2/QCandyV2Map11",
+		"SkillList": [
+			102,
+			105
+		],
+		"Lives": 0,
+		"CountDown": 180,
+		"Score": 0,
+		"JsonName": "PipeRace",
+		"TimeLineTime": 7,
+		"TimeLineName": "Qcandy_PipeRace",
+		"DataImpl": {},
+		"ID": 11
+	},
+	{
+		"Type": 2,
+		"IsNew": false,
+		"Name": {
+			"hash": 525120498
+		},
+		"Desc": {
+			"hash": 2092482403
+		},
+		"StageID": 10310212,
+		"Image": "SpriteOutput/QCandyPVP/Map/QCandyMap12",
+		"RecordImage": "SpriteOutput/QCandyPVP/QCandySmallMap/QCandyMap12",
+		"RotateImage": "SpriteOutput/QCandyPVP/MapV2/QCandyV2Map12",
+		"SkillList": [
+			101,
+			103
+		],
+		"Lives": 3,
+		"CountDown": 90,
+		"Score": 0,
+		"JsonName": "RollerSurvival",
+		"TimeLineTime": 7,
+		"TimeLineName": "Qcandy_RollerSurvival",
+		"DataImpl": {},
+		"ID": 12
+	},
+	{
+		"Type": 3,
+		"IsNew": false,
+		"Name": {
+			"hash": 525120753
+		},
+		"Desc": {
+			"hash": 2092482658
+		},
+		"StageID": 10310299,
+		"Image": "SpriteOutput/QCandyPVP/Map/QCandyMap1",
+		"RecordImage": "SpriteOutput/QCandyPVP/QCandySmallMap/QCandyMap1",
+		"RotateImage": "SpriteOutput/QCandyPVP/MapV2/QCandyV2Map99",
+		"SkillList": [
+			106
+		],
+		"Lives": 3,
+		"CountDown": 180,
+		"Score": 20,
+		"JsonName": "OnLineTest",
+		"TimeLineTime": 5,
+		"TimeLineName": "",
+		"DataImpl": {},
+		"ID": 99
+	},
+	{
+		"Type": 3,
+		"IsNew": false,
+		"Name": {
+			"hash": 525149296
+		},
+		"Desc": {
+			"hash": 2092511201
+		},
+		"StageID": 10311101,
+		"Image": "SpriteOutput/QCandyPVP/Map/QCandyMap13",
+		"RecordImage": "SpriteOutput/QCandyPVP/QCandySmallMap/QCandyMap13",
+		"RotateImage": "SpriteOutput/QCandyPVP/MapV2/QCandyV2Map13",
+		"SkillList": [
+			108
+		],
+		"Lives": 0,
+		"CountDown": 90,
+		"Score": 15,
+		"JsonName": "SpringScoring",
+		"TimeLineTime": 7,
+		"TimeLineName": "QCandy_SpringScoring",
+		"DataImpl": {},
+		"ID": 101
+	},
+	{
+		"Type": 1,
+		"IsNew": false,
+		"Name": {
+			"hash": 525149297
+		},
+		"Desc": {
+			"hash": 2092511202
+		},
+		"StageID": 10311102,
+		"Image": "SpriteOutput/QCandyPVP/Map/QCandyMap14",
+		"RecordImage": "SpriteOutput/QCandyPVP/QCandySmallMap/QCandyMap14",
+		"RotateImage": "SpriteOutput/QCandyPVP/MapV2/QCandyV2Map14",
+		"SkillList": [
+			102
+		],
+		"Lives": 0,
+		"CountDown": 180,
+		"Score": 0,
+		"JsonName": "",
+		"TimeLineTime": 7,
+		"TimeLineName": "QCandy_FlipRace",
+		"DataImpl": {},
+		"ID": 102
+	},
+	{
+		"Type": 1,
+		"IsNew": false,
+		"Name": {
+			"hash": 525149298
+		},
+		"Desc": {
+			"hash": 2092511203
+		},
+		"StageID": 10311103,
+		"Image": "SpriteOutput/QCandyPVP/Map/QCandyMap15",
+		"RecordImage": "SpriteOutput/QCandyPVP/QCandySmallMap/QCandyMap15",
+		"RotateImage": "SpriteOutput/QCandyPVP/MapV2/QCandyV2Map15",
+		"SkillList": [
+			107
+		],
+		"Lives": 0,
+		"CountDown": 180,
+		"Score": 0,
+		"JsonName": "",
+		"TimeLineTime": 6,
+		"TimeLineName": "QCandy_PlatRace",
+		"DataImpl": {},
+		"ID": 103
+	},
+	{
+		"Type": 1,
+		"IsNew": false,
+		"Name": {
+			"hash": 525149299
+		},
+		"Desc": {
+			"hash": 2092511204
+		},
+		"StageID": 10311104,
+		"Image": "SpriteOutput/QCandyPVP/Map/QCandyMap16",
+		"RecordImage": "SpriteOutput/QCandyPVP/QCandySmallMap/QCandyMap16",
+		"RotateImage": "SpriteOutput/QCandyPVP/MapV2/QCandyV2Map16",
+		"SkillList": [
+			104
+		],
+		"Lives": 0,
+		"CountDown": 180,
+		"Score": 0,
+		"JsonName": "",
+		"TimeLineTime": 10,
+		"TimeLineName": "QCandy_SpringRace",
+		"DataImpl": {},
+		"ID": 104
+	},
+	{
+		"Type": 1,
+		"IsNew": false,
+		"Name": {
+			"hash": 525120466
+		},
+		"Desc": {
+			"hash": 2092482371
+		},
+		"StageID": 10311111,
+		"Image": "SpriteOutput/QCandyPVP/Map/QCandyMap1",
+		"RecordImage": "SpriteOutput/QCandyPVP/QCandySmallMap/QCandyMap1",
+		"RotateImage": "SpriteOutput/QCandyPVP/MapV2/QCandyV2Map1",
+		"SkillList": [
+			102
+		],
+		"Lives": 0,
+		"CountDown": 180,
+		"Score": 0,
+		"JsonName": "",
+		"TimeLineTime": 7,
+		"TimeLineName": "QCandy_ClassicalRace",
+		"DataImpl": {},
+		"ID": 111
+	},
+	{
+		"Type": 1,
+		"IsNew": false,
+		"Name": {
+			"hash": 525120467
+		},
+		"Desc": {
+			"hash": 2092482372
+		},
+		"StageID": 10311112,
+		"Image": "SpriteOutput/QCandyPVP/Map/QCandyMap2",
+		"RecordImage": "SpriteOutput/QCandyPVP/QCandySmallMap/QCandyMap2",
+		"RotateImage": "SpriteOutput/QCandyPVP/MapV2/QCandyV2Map2",
+		"SkillList": [
+			107
+		],
+		"Lives": 0,
+		"CountDown": 180,
+		"Score": 0,
+		"JsonName": "",
+		"TimeLineTime": 7,
+		"TimeLineName": "QCandy_HillRace",
+		"DataImpl": {},
+		"ID": 112
+	},
+	{
+		"Type": 2,
+		"IsNew": false,
+		"Name": {
+			"hash": 525120468
+		},
+		"Desc": {
+			"hash": 2092482373
+		},
+		"StageID": 10311113,
+		"Image": "SpriteOutput/QCandyPVP/Map/QCandyMap3",
+		"RecordImage": "SpriteOutput/QCandyPVP/QCandySmallMap/QCandyMap3",
+		"RotateImage": "SpriteOutput/QCandyPVP/MapV2/QCandyV2Map3",
+		"SkillList": [
+			106,
+			103
+		],
+		"Lives": 1,
+		"CountDown": 120,
+		"Score": 0,
+		"JsonName": "CellSurvival_V2",
+		"TimeLineTime": 7,
+		"TimeLineName": "Qcandy_CellSurvival",
+		"DataImpl": {},
+		"ID": 113
+	},
+	{
+		"Type": 3,
+		"IsNew": false,
+		"Name": {
+			"hash": 525120469
+		},
+		"Desc": {
+			"hash": 2092482374
+		},
+		"StageID": 10311114,
+		"Image": "SpriteOutput/QCandyPVP/Map/QCandyMap4",
+		"RecordImage": "SpriteOutput/QCandyPVP/QCandySmallMap/QCandyMap4",
+		"RotateImage": "SpriteOutput/QCandyPVP/MapV2/QCandyV2Map4",
+		"SkillList": [
+			102,
+			105
+		],
+		"Lives": 0,
+		"CountDown": 180,
+		"Score": 25,
+		"JsonName": "CoinScoring_V2",
+		"TimeLineTime": 7,
+		"TimeLineName": "Qcandy_CoinScoring",
+		"DataImpl": {},
+		"ID": 114
+	},
+	{
+		"Type": 1,
+		"IsNew": false,
+		"Name": {
+			"hash": 525120470
+		},
+		"Desc": {
+			"hash": 2092482375
+		},
+		"StageID": 10311115,
+		"Image": "SpriteOutput/QCandyPVP/Map/QCandyMap5",
+		"RecordImage": "SpriteOutput/QCandyPVP/QCandySmallMap/QCandyMap5",
+		"RotateImage": "SpriteOutput/QCandyPVP/MapV2/QCandyV2Map5",
+		"SkillList": [
+			107
+		],
+		"Lives": 0,
+		"CountDown": 180,
+		"Score": 0,
+		"JsonName": "SlideRace_V2",
+		"TimeLineTime": 9,
+		"TimeLineName": "Qcandy_SlideRace",
+		"DataImpl": {},
+		"ID": 115
+	},
+	{
+		"Type": 3,
+		"IsNew": false,
+		"Name": {
+			"hash": 525120471
+		},
+		"Desc": {
+			"hash": 2092482376
+		},
+		"StageID": 10311116,
+		"Image": "SpriteOutput/QCandyPVP/Map/QCandyMap6",
+		"RecordImage": "SpriteOutput/QCandyPVP/QCandySmallMap/QCandyMap6",
+		"RotateImage": "SpriteOutput/QCandyPVP/MapV2/QCandyV2Map6",
+		"SkillList": [
+			108
+		],
+		"Lives": 0,
+		"CountDown": 180,
+		"Score": 20,
+		"JsonName": "RingScoring_V2",
+		"TimeLineTime": 8,
+		"TimeLineName": "Qcandy_RingScore",
+		"DataImpl": {},
+		"ID": 116
+	},
+	{
+		"Type": 1,
+		"IsNew": false,
+		"Name": {
+			"hash": 525120472
+		},
+		"Desc": {
+			"hash": 2092482377
+		},
+		"StageID": 10311117,
+		"Image": "SpriteOutput/QCandyPVP/Map/QCandyMap7",
+		"RecordImage": "SpriteOutput/QCandyPVP/QCandySmallMap/QCandyMap7",
+		"RotateImage": "SpriteOutput/QCandyPVP/MapV2/QCandyV2Map7",
+		"SkillList": [
+			104
+		],
+		"Lives": 0,
+		"CountDown": 180,
+		"Score": 0,
+		"JsonName": "GravityRace_V2",
+		"TimeLineTime": 8,
+		"TimeLineName": "Qcandy_GravityRace",
+		"DataImpl": {},
+		"ID": 117
+	},
+	{
+		"Type": 2,
+		"IsNew": false,
+		"Name": {
+			"hash": 525120473
+		},
+		"Desc": {
+			"hash": 2092482378
+		},
+		"StageID": 10311118,
+		"Image": "SpriteOutput/QCandyPVP/Map/QCandyMap8",
+		"RecordImage": "SpriteOutput/QCandyPVP/QCandySmallMap/QCandyMap8",
+		"RotateImage": "SpriteOutput/QCandyPVP/MapV2/QCandyV2Map8",
+		"SkillList": [
+			101,
+			103
+		],
+		"Lives": 3,
+		"CountDown": 120,
+		"Score": 0,
+		"JsonName": "",
+		"TimeLineTime": 6,
+		"TimeLineName": "QCandy_Plate",
+		"DataImpl": {},
+		"ID": 118
+	},
+	{
+		"Type": 1,
+		"IsNew": false,
+		"Name": {
+			"hash": 525120474
+		},
+		"Desc": {
+			"hash": 2092482379
+		},
+		"StageID": 10311119,
+		"Image": "SpriteOutput/QCandyPVP/Map/QCandyMap9",
+		"RecordImage": "SpriteOutput/QCandyPVP/QCandySmallMap/QCandyMap9",
+		"RotateImage": "SpriteOutput/QCandyPVP/MapV2/QCandyV2Map9",
+		"SkillList": [
+			107
+		],
+		"Lives": 0,
+		"CountDown": 180,
+		"Score": 0,
+		"JsonName": "HammerRace",
+		"TimeLineTime": 9,
+		"TimeLineName": "Qcandy_HammerRace",
+		"DataImpl": {},
+		"ID": 119
+	},
+	{
+		"Type": 3,
+		"IsNew": false,
+		"Name": {
+			"hash": 525120496
+		},
+		"Desc": {
+			"hash": 2092482401
+		},
+		"StageID": 10311120,
+		"Image": "SpriteOutput/QCandyPVP/Map/QCandyMap10",
+		"RecordImage": "SpriteOutput/QCandyPVP/QCandySmallMap/QCandyMap10",
+		"RotateImage": "SpriteOutput/QCandyPVP/MapV2/QCandyV2Map10",
+		"SkillList": [
+			106,
+			103
+		],
+		"Lives": 0,
+		"CountDown": 120,
+		"Score": 40,
+		"JsonName": "IceScoring_V2",
+		"TimeLineTime": 7,
+		"TimeLineName": "Qcandy_IceScoring",
+		"DataImpl": {},
+		"ID": 120
+	},
+	{
+		"Type": 1,
+		"IsNew": false,
+		"Name": {
+			"hash": 525120497
+		},
+		"Desc": {
+			"hash": 2092482402
+		},
+		"StageID": 10311121,
+		"Image": "SpriteOutput/QCandyPVP/Map/QCandyMap11",
+		"RecordImage": "SpriteOutput/QCandyPVP/QCandySmallMap/QCandyMap11",
+		"RotateImage": "SpriteOutput/QCandyPVP/MapV2/QCandyV2Map11",
+		"SkillList": [
+			104
+		],
+		"Lives": 0,
+		"CountDown": 180,
+		"Score": 0,
+		"JsonName": "",
+		"TimeLineTime": 7,
+		"TimeLineName": "Qcandy_PipeRace",
+		"DataImpl": {},
+		"ID": 121
+	},
+	{
+		"Type": 2,
+		"IsNew": false,
+		"Name": {
+			"hash": 525120498
+		},
+		"Desc": {
+			"hash": 2092482403
+		},
+		"StageID": 10311122,
+		"Image": "SpriteOutput/QCandyPVP/Map/QCandyMap12",
+		"RecordImage": "SpriteOutput/QCandyPVP/QCandySmallMap/QCandyMap12",
+		"RotateImage": "SpriteOutput/QCandyPVP/MapV2/QCandyV2Map12",
+		"SkillList": [
+			109,
+			103
+		],
+		"Lives": 3,
+		"CountDown": 90,
+		"Score": 0,
+		"JsonName": "RollerSurvival_V2",
+		"TimeLineTime": 7,
+		"TimeLineName": "Qcandy_RollerSurvival",
+		"DataImpl": {},
+		"ID": 122
+	}
+]

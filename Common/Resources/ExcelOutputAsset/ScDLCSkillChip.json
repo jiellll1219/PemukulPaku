@@ -1,0 +1,639 @@
+[
+	{
+		"Icon": "SpriteOutput/MaterialIcons/851",
+		"Desc": {
+			"hash": 64597859
+		},
+		"Cost": 1,
+		"Ability": "DLC_FeverChip_AddAttack",
+		"DisplayID": 1,
+		"MatchFeverAbilityIDs": [],
+		"Title": {
+			"hash": -1613755184
+		},
+		"DataImpl": {},
+		"ItemID": 851
+	},
+	{
+		"Icon": "SpriteOutput/MaterialIcons/852",
+		"Desc": {
+			"hash": 64597860
+		},
+		"Cost": 2,
+		"Ability": "DLC_FeverChip_AddCriticalDamageRatio",
+		"DisplayID": 2,
+		"MatchFeverAbilityIDs": [],
+		"Title": {
+			"hash": -1613755183
+		},
+		"DataImpl": {},
+		"ItemID": 852
+	},
+	{
+		"Icon": "SpriteOutput/MaterialIcons/853",
+		"Desc": {
+			"hash": 64597861
+		},
+		"Cost": 1,
+		"Ability": "DLC_FeverChip_EvadeHealHP",
+		"DisplayID": 3,
+		"MatchFeverAbilityIDs": [],
+		"Title": {
+			"hash": -1613755182
+		},
+		"DataImpl": {},
+		"ItemID": 853
+	},
+	{
+		"Icon": "SpriteOutput/MaterialIcons/854",
+		"Desc": {
+			"hash": 64597862
+		},
+		"Cost": 1,
+		"Ability": "DLC_FeverChip_RemainOneHP",
+		"DisplayID": 4,
+		"MatchFeverAbilityIDs": [],
+		"Title": {
+			"hash": -1613755181
+		},
+		"DataImpl": {},
+		"ItemID": 854
+	},
+	{
+		"Icon": "SpriteOutput/MaterialIcons/855",
+		"Desc": {
+			"hash": 64597863
+		},
+		"Cost": 2,
+		"Ability": "DLC_FeverChip_WeakAddAttack",
+		"DisplayID": 5,
+		"MatchFeverAbilityIDs": [],
+		"Title": {
+			"hash": -1613755180
+		},
+		"DataImpl": {},
+		"ItemID": 855
+	},
+	{
+		"Icon": "SpriteOutput/MaterialIcons/856",
+		"Desc": {
+			"hash": 64597864
+		},
+		"Cost": 2,
+		"Ability": "DLC_FeverChip_FeverImmnueDebuff",
+		"DisplayID": 6,
+		"MatchFeverAbilityIDs": [],
+		"Title": {
+			"hash": -1613755179
+		},
+		"DataImpl": {},
+		"ItemID": 856
+	},
+	{
+		"Icon": "SpriteOutput/MaterialIcons/857",
+		"Desc": {
+			"hash": 64597865
+		},
+		"Cost": 2,
+		"Ability": "DLC_FeverChip_AssassinAddFever",
+		"DisplayID": 7,
+		"MatchFeverAbilityIDs": [],
+		"Title": {
+			"hash": -1613755178
+		},
+		"DataImpl": {},
+		"ItemID": 857
+	},
+	{
+		"Icon": "SpriteOutput/MaterialIcons/858",
+		"Desc": {
+			"hash": 64597866
+		},
+		"Cost": 1,
+		"Ability": "DLC_FeverChip_AddEvadeJumpCount",
+		"DisplayID": 8,
+		"MatchFeverAbilityIDs": [],
+		"Title": {
+			"hash": -1613755177
+		},
+		"DataImpl": {},
+		"ItemID": 858
+	},
+	{
+		"Icon": "SpriteOutput/MaterialIcons/859",
+		"Desc": {
+			"hash": 64597867
+		},
+		"Cost": 0,
+		"Ability": "DLC_FeverChip_TreasureNotice",
+		"DisplayID": 9,
+		"MatchFeverAbilityIDs": [],
+		"Title": {
+			"hash": -1613755176
+		},
+		"DataImpl": {},
+		"ItemID": 859
+	},
+	{
+		"Icon": "SpriteOutput/MaterialIcons/860",
+		"Desc": {
+			"hash": 64597889
+		},
+		"Cost": 0,
+		"Ability": "DLC_FeverChip_TimidoWithMask",
+		"DisplayID": 10,
+		"MatchFeverAbilityIDs": [],
+		"Title": {
+			"hash": -1613755154
+		},
+		"DataImpl": {},
+		"ItemID": 860
+	},
+	{
+		"Icon": "SpriteOutput/MaterialIcons/861",
+		"Desc": {
+			"hash": 64597890
+		},
+		"Cost": 1,
+		"Ability": "DLC_FeverChip_UnlockOffset",
+		"DisplayID": 11,
+		"MatchFeverAbilityIDs": [
+			1
+		],
+		"Title": {
+			"hash": -1613755153
+		},
+		"DataImpl": {},
+		"ItemID": 861
+	},
+	{
+		"Icon": "SpriteOutput/MaterialIcons/862",
+		"Desc": {
+			"hash": 64597891
+		},
+		"Cost": 2,
+		"Ability": "DLC_FeverChip_EnergyNoCost",
+		"DisplayID": 12,
+		"MatchFeverAbilityIDs": [
+			1
+		],
+		"Title": {
+			"hash": -1613755152
+		},
+		"DataImpl": {},
+		"ItemID": 862
+	},
+	{
+		"Icon": "SpriteOutput/MaterialIcons/863",
+		"Desc": {
+			"hash": 64597892
+		},
+		"Cost": 2,
+		"Ability": "DLC_FeverChip_AddedDamage",
+		"DisplayID": 13,
+		"MatchFeverAbilityIDs": [
+			1
+		],
+		"Title": {
+			"hash": -1613755151
+		},
+		"DataImpl": {},
+		"ItemID": 863
+	},
+	{
+		"Icon": "SpriteOutput/MaterialIcons/864",
+		"Desc": {
+			"hash": 64597893
+		},
+		"Cost": 2,
+		"Ability": "DLC_FeverChip_AutoRecoverSP",
+		"DisplayID": 14,
+		"MatchFeverAbilityIDs": [
+			2
+		],
+		"Title": {
+			"hash": -1613755150
+		},
+		"DataImpl": {},
+		"ItemID": 864
+	},
+	{
+		"Icon": "SpriteOutput/MaterialIcons/865",
+		"Desc": {
+			"hash": 64597894
+		},
+		"Cost": 3,
+		"Ability": "DLC_FeverChip_AddUltraCostAndDamage",
+		"DisplayID": 15,
+		"MatchFeverAbilityIDs": [
+			2
+		],
+		"Title": {
+			"hash": -1613755149
+		},
+		"DataImpl": {},
+		"ItemID": 865
+	},
+	{
+		"Icon": "SpriteOutput/MaterialIcons/866",
+		"Desc": {
+			"hash": 64597895
+		},
+		"Cost": 2,
+		"Ability": "DLC_FeverChip_SuperUltraNoCost",
+		"DisplayID": 16,
+		"MatchFeverAbilityIDs": [
+			2
+		],
+		"Title": {
+			"hash": -1613755148
+		},
+		"DataImpl": {},
+		"ItemID": 866
+	},
+	{
+		"Icon": "SpriteOutput/MaterialIcons/867",
+		"Desc": {
+			"hash": 64597896
+		},
+		"Cost": 1,
+		"Ability": "DLC_FeverChip_ReduceSwitchCD",
+		"DisplayID": 17,
+		"MatchFeverAbilityIDs": [
+			3
+		],
+		"Title": {
+			"hash": -1613755147
+		},
+		"DataImpl": {},
+		"ItemID": 867
+	},
+	{
+		"Icon": "SpriteOutput/MaterialIcons/868",
+		"Desc": {
+			"hash": 64597897
+		},
+		"Cost": 2,
+		"Ability": "DLC_FeverChip_EvadeTriggerQTE",
+		"DisplayID": 18,
+		"MatchFeverAbilityIDs": [
+			3
+		],
+		"Title": {
+			"hash": -1613755146
+		},
+		"DataImpl": {},
+		"ItemID": 868
+	},
+	{
+		"Icon": "SpriteOutput/MaterialIcons/869",
+		"Desc": {
+			"hash": 64597898
+		},
+		"Cost": 3,
+		"Ability": "DLC_FeverChip_SwitchPowerUp",
+		"DisplayID": 19,
+		"MatchFeverAbilityIDs": [
+			3
+		],
+		"Title": {
+			"hash": -1613755145
+		},
+		"DataImpl": {},
+		"ItemID": 869
+	},
+	{
+		"Icon": "SpriteOutput/MaterialIcons/870",
+		"Desc": {
+			"hash": 64597920
+		},
+		"Cost": 1,
+		"Ability": "DLC_FeverChip_RemoveEvadeLimit",
+		"DisplayID": 20,
+		"MatchFeverAbilityIDs": [
+			4
+		],
+		"Title": {
+			"hash": -1613755123
+		},
+		"DataImpl": {},
+		"ItemID": 870
+	},
+	{
+		"Icon": "SpriteOutput/MaterialIcons/871",
+		"Desc": {
+			"hash": 64597921
+		},
+		"Cost": 2,
+		"Ability": "DLC_FeverChip_SPEvadeAttack",
+		"DisplayID": 21,
+		"MatchFeverAbilityIDs": [
+			4
+		],
+		"Title": {
+			"hash": -1613755122
+		},
+		"DataImpl": {},
+		"ItemID": 871
+	},
+	{
+		"Icon": "SpriteOutput/MaterialIcons/872",
+		"Desc": {
+			"hash": 64597922
+		},
+		"Cost": 2,
+		"Ability": "DLC_FeverChip_JumpEvadeAttackBonus",
+		"DisplayID": 22,
+		"MatchFeverAbilityIDs": [
+			4
+		],
+		"Title": {
+			"hash": -1613755121
+		},
+		"DataImpl": {},
+		"ItemID": 872
+	},
+	{
+		"Icon": "SpriteOutput/MaterialIcons/873",
+		"Desc": {
+			"hash": 64597923
+		},
+		"Cost": 2,
+		"Ability": "DLC_FeverChip_AutoAddFever",
+		"DisplayID": 23,
+		"MatchFeverAbilityIDs": [
+			2,
+			3,
+			4
+		],
+		"Title": {
+			"hash": -1613755120
+		},
+		"DataImpl": {},
+		"ItemID": 873
+	},
+	{
+		"Icon": "SpriteOutput/MaterialIcons/874",
+		"Desc": {
+			"hash": 64597924
+		},
+		"Cost": 2,
+		"Ability": "DLC_FeverChip_AutoAddEnergy",
+		"DisplayID": 24,
+		"MatchFeverAbilityIDs": [
+			2,
+			3,
+			4
+		],
+		"Title": {
+			"hash": -1613755119
+		},
+		"DataImpl": {},
+		"ItemID": 874
+	},
+	{
+		"Icon": "SpriteOutput/MaterialIcons/875",
+		"Desc": {
+			"hash": 64597925
+		},
+		"Cost": 3,
+		"Ability": "DLC_FeverChip_AutoAddSP",
+		"DisplayID": 25,
+		"MatchFeverAbilityIDs": [
+			1,
+			3,
+			4
+		],
+		"Title": {
+			"hash": -1613755118
+		},
+		"DataImpl": {},
+		"ItemID": 875
+	},
+	{
+		"Icon": "SpriteOutput/MaterialIcons/876",
+		"Desc": {
+			"hash": 64597926
+		},
+		"Cost": 3,
+		"Ability": "DLC_FeverChip_AddFeverRatio",
+		"DisplayID": 26,
+		"MatchFeverAbilityIDs": [
+			1,
+			3,
+			4
+		],
+		"Title": {
+			"hash": -1613755117
+		},
+		"DataImpl": {},
+		"ItemID": 876
+	},
+	{
+		"Icon": "SpriteOutput/MaterialIcons/877",
+		"Desc": {
+			"hash": 64597927
+		},
+		"Cost": 2,
+		"Ability": "DLC_FeverChip_KillQTE",
+		"DisplayID": 27,
+		"MatchFeverAbilityIDs": [
+			1,
+			2,
+			4
+		],
+		"Title": {
+			"hash": -1613755116
+		},
+		"DataImpl": {},
+		"ItemID": 877
+	},
+	{
+		"Icon": "SpriteOutput/MaterialIcons/878",
+		"Desc": {
+			"hash": 64597928
+		},
+		"Cost": 3,
+		"Ability": "DLC_FeverChip_AddDebuffRatio",
+		"DisplayID": 28,
+		"MatchFeverAbilityIDs": [
+			1,
+			2,
+			4
+		],
+		"Title": {
+			"hash": -1613755115
+		},
+		"DataImpl": {},
+		"ItemID": 878
+	},
+	{
+		"Icon": "SpriteOutput/MaterialIcons/879",
+		"Desc": {
+			"hash": 64597929
+		},
+		"Cost": 2,
+		"Ability": "DLC_FeverChip_AddEvadeJump",
+		"DisplayID": 29,
+		"MatchFeverAbilityIDs": [
+			1,
+			2,
+			3
+		],
+		"Title": {
+			"hash": -1613755114
+		},
+		"DataImpl": {},
+		"ItemID": 879
+	},
+	{
+		"Icon": "SpriteOutput/MaterialIcons/897",
+		"Desc": {
+			"hash": 64597989
+		},
+		"Cost": 2,
+		"Ability": "DLC_FeverChip_AutoEvadeSkill",
+		"DisplayID": 30,
+		"MatchFeverAbilityIDs": [
+			1,
+			2,
+			3
+		],
+		"Title": {
+			"hash": -1613755054
+		},
+		"DataImpl": {},
+		"ItemID": 897
+	},
+	{
+		"Icon": "SpriteOutput/MaterialIcons/898",
+		"Desc": {
+			"hash": 64597990
+		},
+		"Cost": 2,
+		"Ability": "DLC_FeverChip_CoreBreakLimit",
+		"DisplayID": 31,
+		"MatchFeverAbilityIDs": [
+			1,
+			2,
+			3,
+			4
+		],
+		"Title": {
+			"hash": -1613755053
+		},
+		"DataImpl": {},
+		"ItemID": 898
+	},
+	{
+		"Icon": "SpriteOutput/MaterialIcons/6561",
+		"Desc": {
+			"hash": 2002474251
+		},
+		"Cost": 2,
+		"Ability": "DLC_FeverChip_AdamArmorDamageUp",
+		"DisplayID": 32,
+		"MatchFeverAbilityIDs": [],
+		"Title": {
+			"hash": 1513137470
+		},
+		"DataImpl": {},
+		"ItemID": 6561
+	},
+	{
+		"Icon": "SpriteOutput/MaterialIcons/6562",
+		"Desc": {
+			"hash": 2002474252
+		},
+		"Cost": 1,
+		"Ability": "DLC_FeverChip_AdamWeaknessAttack",
+		"DisplayID": 33,
+		"MatchFeverAbilityIDs": [],
+		"Title": {
+			"hash": 1513137471
+		},
+		"DataImpl": {},
+		"ItemID": 6562
+	},
+	{
+		"Icon": "SpriteOutput/MaterialIcons/6563",
+		"Desc": {
+			"hash": 2002474253
+		},
+		"Cost": 2,
+		"Ability": "DLC_FeverChip_EnergyNoCost_2",
+		"DisplayID": 34,
+		"MatchFeverAbilityIDs": [
+			1
+		],
+		"Title": {
+			"hash": 1513137472
+		},
+		"DataImpl": {},
+		"ItemID": 6563
+	},
+	{
+		"Icon": "SpriteOutput/MaterialIcons/6564",
+		"Desc": {
+			"hash": 2002474254
+		},
+		"Cost": 1,
+		"Ability": "DLC_FeverChip_AddDebuffDamage",
+		"DisplayID": 35,
+		"MatchFeverAbilityIDs": [
+			3
+		],
+		"Title": {
+			"hash": 1513137473
+		},
+		"DataImpl": {},
+		"ItemID": 6564
+	},
+	{
+		"Icon": "SpriteOutput/MaterialIcons/6565",
+		"Desc": {
+			"hash": 2002474255
+		},
+		"Cost": 3,
+		"Ability": "DLC_FeverChip_EvadeSkillBonus",
+		"DisplayID": 36,
+		"MatchFeverAbilityIDs": [
+			4
+		],
+		"Title": {
+			"hash": 1513137474
+		},
+		"DataImpl": {},
+		"ItemID": 6565
+	},
+	{
+		"Icon": "SpriteOutput/MaterialIcons/6566",
+		"Desc": {
+			"hash": 2002474256
+		},
+		"Cost": 0,
+		"Ability": "DLC_FeverChip_AvatarAttackDown",
+		"DisplayID": 37,
+		"MatchFeverAbilityIDs": [],
+		"Title": {
+			"hash": 1513137475
+		},
+		"DataImpl": {},
+		"ItemID": 6566
+	},
+	{
+		"Icon": "SpriteOutput/MaterialIcons/6567",
+		"Desc": {
+			"hash": 2002474257
+		},
+		"Cost": 0,
+		"Ability": "DLC_FeverChip_AvatarDamageTakenUp",
+		"DisplayID": 38,
+		"MatchFeverAbilityIDs": [],
+		"Title": {
+			"hash": 1513137476
+		},
+		"DataImpl": {},
+		"ItemID": 6567
+	}
+]

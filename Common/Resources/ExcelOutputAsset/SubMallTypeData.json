@@ -1,0 +1,392 @@
+[
+	{
+		"FatherID": 1,
+		"Name": {
+			"hash": -846223398
+		},
+		"SortID": 1,
+		"AddOnEventMissionList": [],
+		"AddOnEventMissionIconPath": "",
+		"BeginTime": "2020-01-01 12:00:00",
+		"EndTime": "2035-01-01 12:00:00",
+		"DataImpl": {},
+		"ID": 1
+	},
+	{
+		"FatherID": 2,
+		"Name": {
+			"hash": -817594247
+		},
+		"SortID": 2,
+		"AddOnEventMissionList": [],
+		"AddOnEventMissionIconPath": "",
+		"BeginTime": "2020-01-01 12:00:00",
+		"EndTime": "2035-01-01 12:00:00",
+		"DataImpl": {},
+		"ID": 2
+	},
+	{
+		"FatherID": 2,
+		"Name": {
+			"hash": -788965096
+		},
+		"SortID": 3,
+		"AddOnEventMissionList": [],
+		"AddOnEventMissionIconPath": "",
+		"BeginTime": "2020-01-01 12:00:00",
+		"EndTime": "2035-01-01 12:00:00",
+		"DataImpl": {},
+		"ID": 3
+	},
+	{
+		"FatherID": 2,
+		"Name": {
+			"hash": -760335945
+		},
+		"SortID": 1,
+		"AddOnEventMissionList": [],
+		"AddOnEventMissionIconPath": "",
+		"BeginTime": "2020-01-01 12:00:00",
+		"EndTime": "2035-01-01 12:00:00",
+		"DataImpl": {},
+		"ID": 4
+	},
+	{
+		"FatherID": 3,
+		"Name": {
+			"hash": -731706794
+		},
+		"SortID": 3,
+		"AddOnEventMissionList": [],
+		"AddOnEventMissionIconPath": "",
+		"BeginTime": "2020-01-01 12:00:00",
+		"EndTime": "2035-01-01 12:00:00",
+		"DataImpl": {},
+		"ID": 5
+	},
+	{
+		"FatherID": 3,
+		"Name": {
+			"hash": -703077643
+		},
+		"SortID": 2,
+		"AddOnEventMissionList": [],
+		"AddOnEventMissionIconPath": "",
+		"BeginTime": "2020-01-01 12:00:00",
+		"EndTime": "2035-01-01 12:00:00",
+		"DataImpl": {},
+		"ID": 6
+	},
+	{
+		"FatherID": 4,
+		"Name": {
+			"hash": -645819341
+		},
+		"SortID": 4,
+		"AddOnEventMissionList": [
+			83626,
+			83627,
+			83628
+		],
+		"AddOnEventMissionIconPath": "event/Immediately/GiftPacks/IconGift_2",
+		"BeginTime": "2020-01-01 12:00:00",
+		"EndTime": "2035-01-01 12:00:00",
+		"DataImpl": {},
+		"ID": 8
+	},
+	{
+		"FatherID": 4,
+		"Name": {
+			"hash": -617190190
+		},
+		"SortID": 1,
+		"AddOnEventMissionList": [
+			114422,
+			83626,
+			83627,
+			83628
+		],
+		"AddOnEventMissionIconPath": "event/Immediately/GiftPacks/IconGift_2",
+		"BeginTime": "2020-01-01 12:00:00",
+		"EndTime": "2035-01-01 12:00:00",
+		"DataImpl": {},
+		"ID": 9
+	},
+	{
+		"FatherID": 6,
+		"Name": {
+			"hash": -1736310712
+		},
+		"SortID": 1,
+		"AddOnEventMissionList": [],
+		"AddOnEventMissionIconPath": "",
+		"BeginTime": "2020-01-01 12:00:00",
+		"EndTime": "2035-01-01 12:00:00",
+		"DataImpl": {},
+		"ID": 12
+	},
+	{
+		"FatherID": 8,
+		"Name": {
+			"hash": -1707681561
+		},
+		"SortID": 1,
+		"AddOnEventMissionList": [],
+		"AddOnEventMissionIconPath": "",
+		"BeginTime": "2020-01-01 12:00:00",
+		"EndTime": "2035-01-01 12:00:00",
+		"DataImpl": {},
+		"ID": 13
+	},
+	{
+		"FatherID": 13,
+		"Name": {
+			"hash": 344289547
+		},
+		"SortID": 5,
+		"AddOnEventMissionList": [],
+		"AddOnEventMissionIconPath": "event/Immediately/GiftPacks/IconGift_2",
+		"BeginTime": "2023-05-18 04:00:00",
+		"EndTime": "2023-06-23 12:00:00",
+		"DataImpl": {},
+		"ID": 23
+	},
+	{
+		"FatherID": 14,
+		"Name": {
+			"hash": -762919578
+		},
+		"SortID": 1,
+		"AddOnEventMissionList": [],
+		"AddOnEventMissionIconPath": "",
+		"BeginTime": "2020-07-09 04:00:00",
+		"EndTime": "2035-01-01 12:00:00",
+		"DataImpl": {},
+		"ID": 25
+	},
+	{
+		"FatherID": 15,
+		"Name": {
+			"hash": -734290427
+		},
+		"SortID": 3,
+		"AddOnEventMissionList": [],
+		"AddOnEventMissionIconPath": "",
+		"BeginTime": "2020-07-20 12:00:00",
+		"EndTime": "2021-02-04 12:00:00",
+		"DataImpl": {},
+		"ID": 26
+	},
+	{
+		"FatherID": 15,
+		"Name": {
+			"hash": -705661276
+		},
+		"SortID": 2,
+		"AddOnEventMissionList": [],
+		"AddOnEventMissionIconPath": "",
+		"BeginTime": "2020-07-20 12:00:00",
+		"EndTime": "2021-04-29 04:00:00",
+		"DataImpl": {},
+		"ID": 27
+	},
+	{
+		"FatherID": 15,
+		"Name": {
+			"hash": -677032125
+		},
+		"SortID": 1,
+		"AddOnEventMissionList": [],
+		"AddOnEventMissionIconPath": "",
+		"BeginTime": "2020-07-20 12:00:00",
+		"EndTime": "2021-04-29 04:00:00",
+		"DataImpl": {},
+		"ID": 28
+	},
+	{
+		"FatherID": 16,
+		"Name": {
+			"hash": -648402974
+		},
+		"SortID": 1,
+		"AddOnEventMissionList": [],
+		"AddOnEventMissionIconPath": "",
+		"BeginTime": "2020-07-20 12:00:00",
+		"EndTime": "2021-02-04 12:00:00",
+		"DataImpl": {},
+		"ID": 29
+	},
+	{
+		"FatherID": 18,
+		"Name": {
+			"hash": 38696650
+		},
+		"SortID": 2,
+		"AddOnEventMissionList": [],
+		"AddOnEventMissionIconPath": "event/Immediately/GiftPacks/IconGift_2",
+		"BeginTime": "2021-04-26 04:00:00",
+		"EndTime": "2035-01-01 12:00:00",
+		"DataImpl": {},
+		"ID": 32
+	},
+	{
+		"FatherID": 18,
+		"Name": {
+			"hash": 67325801
+		},
+		"SortID": 1,
+		"AddOnEventMissionList": [],
+		"AddOnEventMissionIconPath": "event/Immediately/GiftPacks/IconGift_2",
+		"BeginTime": "2021-04-26 04:00:00",
+		"EndTime": "2035-01-01 12:00:00",
+		"DataImpl": {},
+		"ID": 33
+	},
+	{
+		"FatherID": 19,
+		"Name": {
+			"hash": 95954952
+		},
+		"SortID": 1,
+		"AddOnEventMissionList": [],
+		"AddOnEventMissionIconPath": "",
+		"BeginTime": "2020-07-09 04:00:00",
+		"EndTime": "2035-01-01 12:00:00",
+		"DataImpl": {},
+		"ID": 34
+	},
+	{
+		"FatherID": 20,
+		"Name": {
+			"hash": 124584103
+		},
+		"SortID": 1,
+		"AddOnEventMissionList": [],
+		"AddOnEventMissionIconPath": "",
+		"BeginTime": "2020-07-09 04:00:00",
+		"EndTime": "2035-01-01 12:00:00",
+		"DataImpl": {},
+		"ID": 35
+	},
+	{
+		"FatherID": 21,
+		"Name": {
+			"hash": 38696650
+		},
+		"SortID": 2,
+		"AddOnEventMissionList": [],
+		"AddOnEventMissionIconPath": "event/Immediately/GiftPacks/IconGift_2",
+		"BeginTime": "2021-04-26 04:00:00",
+		"EndTime": "2035-01-01 12:00:00",
+		"DataImpl": {},
+		"ID": 36
+	},
+	{
+		"FatherID": 21,
+		"Name": {
+			"hash": 67325801
+		},
+		"SortID": 1,
+		"AddOnEventMissionList": [],
+		"AddOnEventMissionIconPath": "event/Immediately/GiftPacks/IconGift_2",
+		"BeginTime": "2021-04-26 04:00:00",
+		"EndTime": "2035-01-01 12:00:00",
+		"DataImpl": {},
+		"ID": 37
+	},
+	{
+		"FatherID": 22,
+		"Name": {
+			"hash": 210471556
+		},
+		"SortID": 1,
+		"AddOnEventMissionList": [],
+		"AddOnEventMissionIconPath": "",
+		"BeginTime": "2021-11-09 04:00:00",
+		"EndTime": "2022-01-27 04:00:00",
+		"DataImpl": {},
+		"ID": 38
+	},
+	{
+		"FatherID": 4,
+		"Name": {
+			"hash": -906065333
+		},
+		"SortID": 5,
+		"AddOnEventMissionList": [],
+		"AddOnEventMissionIconPath": "",
+		"BeginTime": "2020-01-01 12:00:00",
+		"EndTime": "2025-10-29 04:00:00",
+		"DataImpl": {},
+		"ID": 200
+	},
+	{
+		"FatherID": 4,
+		"Name": {
+			"hash": -1905858664
+		},
+		"SortID": 3,
+		"AddOnEventMissionList": [
+			83626,
+			83627,
+			83628
+		],
+		"AddOnEventMissionIconPath": "event/Immediately/GiftPacks/IconGift_2",
+		"BeginTime": "2020-01-01 12:00:00",
+		"EndTime": "2035-01-01 12:00:00",
+		"DataImpl": {},
+		"ID": 300
+	},
+	{
+		"FatherID": 4,
+		"Name": {
+			"hash": 1562431129
+		},
+		"SortID": 6,
+		"AddOnEventMissionList": [],
+		"AddOnEventMissionIconPath": "",
+		"BeginTime": "2022-01-28 08:00:00",
+		"EndTime": "2022-02-11 12:00:00",
+		"DataImpl": {},
+		"ID": 400
+	},
+	{
+		"FatherID": 4,
+		"Name": {
+			"hash": 781713654
+		},
+		"SortID": 6,
+		"AddOnEventMissionList": [],
+		"AddOnEventMissionIconPath": "",
+		"BeginTime": "2022-10-27 04:00:00",
+		"EndTime": "2022-12-08 04:00:00",
+		"DataImpl": {},
+		"ID": 412
+	},
+	{
+		"FatherID": 4,
+		"Name": {
+			"hash": 810342805
+		},
+		"SortID": 6,
+		"AddOnEventMissionList": [],
+		"AddOnEventMissionIconPath": "",
+		"BeginTime": "2022-11-25 12:00:00",
+		"EndTime": "2022-12-08 04:00:00",
+		"DataImpl": {},
+		"ID": 413
+	},
+	{
+		"FatherID": 4,
+		"Name": {
+			"hash": 1562431129
+		},
+		"SortID": 6,
+		"AddOnEventMissionList": [],
+		"AddOnEventMissionIconPath": "",
+		"BeginTime": "2023-01-19 08:00:00",
+		"EndTime": "2023-02-16 04:00:00",
+		"DataImpl": {},
+		"ID": 414
+	}
+]

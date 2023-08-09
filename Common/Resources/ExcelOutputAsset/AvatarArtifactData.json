@@ -1,0 +1,503 @@
+[
+	{
+		"showPlayLevel": 30,
+		"UnlockAvatarLevel": 30,
+		"ArtifactName": {
+			"hash": -930946803
+		},
+		"ArtifactDes": {
+			"hash": -409544172
+		},
+		"ArtifactPrefab": "Entities/Artifact/Avatar_Kiana_FX_Artifact/AvatarArtifact_102",
+		"LevelList": [
+			10201,
+			10202,
+			10203,
+			10204,
+			10205,
+			10206
+		],
+		"ReplaceSkillList": [
+			{
+				"NewSkillID": 451,
+				"OldSkillID": 21
+			},
+			{
+				"NewSkillID": 452,
+				"OldSkillID": 22
+			},
+			{
+				"NewSkillID": 453,
+				"OldSkillID": 23
+			},
+			{
+				"NewSkillID": 454,
+				"OldSkillID": 24
+			},
+			{
+				"NewSkillID": 456,
+				"OldSkillID": 26
+			}
+		],
+		"DressBanner": "SpriteOutput/AvatarDetail/60102_Artifact",
+		"DressBannerDes1": {
+			"hash": 1493223746
+		},
+		"DressBannerDes2": {
+			"hash": 1493223747
+		},
+		"BannerAvatarImgPath": "SpriteOutput/AvatarCardFigures/60102_05_01",
+		"BannerTitleImgPath": "SpriteOutput/ArtifactUnlock/TitleImg_102",
+		"ShowSkillList": [
+			{
+				"SkillID": 451,
+				"SkillDescriptionTextID": {
+					"hash": -346358415
+				}
+			},
+			{
+				"SkillID": 452,
+				"SkillDescriptionTextID": {
+					"hash": -346358414
+				}
+			}
+		],
+		"TagUnlockList": [
+			10200,
+			10201,
+			10202
+		],
+		"DataImpl": {},
+		"ArtifactID": 102
+	},
+	{
+		"showPlayLevel": 30,
+		"UnlockAvatarLevel": 30,
+		"ArtifactName": {
+			"hash": -930946803
+		},
+		"ArtifactDes": {
+			"hash": -409543211
+		},
+		"ArtifactPrefab": "Entities/Artifact/Avatar_Mei_WS_Artifact/AvatarArtifact_202",
+		"LevelList": [
+			20201,
+			20202,
+			20203,
+			20204,
+			20205,
+			20206
+		],
+		"ReplaceSkillList": [
+			{
+				"NewSkillID": 521,
+				"OldSkillID": 61
+			},
+			{
+				"NewSkillID": 522,
+				"OldSkillID": 62
+			},
+			{
+				"NewSkillID": 523,
+				"OldSkillID": 63
+			},
+			{
+				"NewSkillID": 524,
+				"OldSkillID": 64
+			},
+			{
+				"NewSkillID": 526,
+				"OldSkillID": 66
+			}
+		],
+		"DressBanner": "SpriteOutput/AvatarDetail/60202_05_01_Artifact",
+		"DressBannerDes1": {
+			"hash": 1493223746
+		},
+		"DressBannerDes2": {
+			"hash": 1493223747
+		},
+		"BannerAvatarImgPath": "SpriteOutput/AvatarCardFigures/60202_05_01",
+		"BannerTitleImgPath": "SpriteOutput/ArtifactUnlock/TitleImg_202_05_01",
+		"ShowSkillList": [
+			{
+				"SkillID": 522,
+				"SkillDescriptionTextID": {
+					"hash": -346357546
+				}
+			},
+			{
+				"SkillID": 524,
+				"SkillDescriptionTextID": {
+					"hash": -346357544
+				}
+			}
+		],
+		"TagUnlockList": [
+			20200,
+			20201
+		],
+		"DataImpl": {},
+		"ArtifactID": 202
+	},
+	{
+		"showPlayLevel": 30,
+		"UnlockAvatarLevel": 30,
+		"ArtifactName": {
+			"hash": -930946803
+		},
+		"ArtifactDes": {
+			"hash": -409543210
+		},
+		"ArtifactPrefab": "Entities/Artifact/Avatar_Mei_DH_Artifact/AvatarArtifact_203",
+		"LevelList": [
+			20301,
+			20302,
+			20303,
+			20304,
+			20305,
+			20306
+		],
+		"ReplaceSkillList": [
+			{
+				"NewSkillID": 401,
+				"OldSkillID": 71
+			},
+			{
+				"NewSkillID": 402,
+				"OldSkillID": 72
+			},
+			{
+				"NewSkillID": 403,
+				"OldSkillID": 73
+			},
+			{
+				"NewSkillID": 404,
+				"OldSkillID": 74
+			},
+			{
+				"NewSkillID": 406,
+				"OldSkillID": 76
+			}
+		],
+		"DressBanner": "SpriteOutput/AvatarDetail/60202_Artifact",
+		"DressBannerDes1": {
+			"hash": 1493223746
+		},
+		"DressBannerDes2": {
+			"hash": 1493223747
+		},
+		"BannerAvatarImgPath": "SpriteOutput/AvatarCardFigures/60203_05_01",
+		"BannerTitleImgPath": "SpriteOutput/ArtifactUnlock/TitleImg",
+		"ShowSkillList": [
+			{
+				"SkillID": 401,
+				"SkillDescriptionTextID": {
+					"hash": -346358570
+				}
+			},
+			{
+				"SkillID": 403,
+				"SkillDescriptionTextID": {
+					"hash": -346358568
+				}
+			}
+		],
+		"TagUnlockList": [
+			20300,
+			20301,
+			20302,
+			20303
+		],
+		"DataImpl": {},
+		"ArtifactID": 203
+	},
+	{
+		"showPlayLevel": 30,
+		"UnlockAvatarLevel": 30,
+		"ArtifactName": {
+			"hash": -930946803
+		},
+		"ArtifactDes": {
+			"hash": -409542250
+		},
+		"ArtifactPrefab": "Entities/Artifact/Avatar_Bronya_BQ_Artifact/AvatarArtifact_302",
+		"LevelList": [
+			30201,
+			30202,
+			30203,
+			30204,
+			30205,
+			30206
+		],
+		"ReplaceSkillList": [
+			{
+				"NewSkillID": 411,
+				"OldSkillID": 111
+			},
+			{
+				"NewSkillID": 412,
+				"OldSkillID": 112
+			},
+			{
+				"NewSkillID": 413,
+				"OldSkillID": 113
+			},
+			{
+				"NewSkillID": 414,
+				"OldSkillID": 114
+			},
+			{
+				"NewSkillID": 416,
+				"OldSkillID": 116
+			}
+		],
+		"DressBanner": "SpriteOutput/AvatarDetail/60302_Artifact",
+		"DressBannerDes1": {
+			"hash": 1493223746
+		},
+		"DressBannerDes2": {
+			"hash": 1493223747
+		},
+		"BannerAvatarImgPath": "SpriteOutput/AvatarCardFigures/60302_05_01",
+		"BannerTitleImgPath": "SpriteOutput/ArtifactUnlock/TitleImg_ShanChui",
+		"ShowSkillList": [
+			{
+				"SkillID": 414,
+				"SkillDescriptionTextID": {
+					"hash": -346358536
+				}
+			},
+			{
+				"SkillID": 416,
+				"SkillDescriptionTextID": {
+					"hash": -346358534
+				}
+			}
+		],
+		"TagUnlockList": [
+			30200,
+			30201,
+			30202,
+			30203,
+			30204
+		],
+		"DataImpl": {},
+		"ArtifactID": 302
+	},
+	{
+		"showPlayLevel": 30,
+		"UnlockAvatarLevel": 30,
+		"ArtifactName": {
+			"hash": -930946803
+		},
+		"ArtifactDes": {
+			"hash": -409541227
+		},
+		"ArtifactPrefab": "Entities/Artifact/Avatar_Twins_BS_Artifact/AvatarArtifact_422",
+		"LevelList": [
+			42201,
+			42202,
+			42203,
+			42204,
+			42205,
+			42206
+		],
+		"ReplaceSkillList": [
+			{
+				"NewSkillID": 581,
+				"OldSkillID": 431
+			},
+			{
+				"NewSkillID": 582,
+				"OldSkillID": 432
+			},
+			{
+				"NewSkillID": 583,
+				"OldSkillID": 433
+			},
+			{
+				"NewSkillID": 584,
+				"OldSkillID": 434
+			},
+			{
+				"NewSkillID": 586,
+				"OldSkillID": 436
+			}
+		],
+		"DressBanner": "SpriteOutput/AvatarDetail/60422_05_01_Artifact",
+		"DressBannerDes1": {
+			"hash": 1493223746
+		},
+		"DressBannerDes2": {
+			"hash": 1493223747
+		},
+		"BannerAvatarImgPath": "SpriteOutput/AvatarCardFigures/60422_05_01",
+		"BannerTitleImgPath": "SpriteOutput/ArtifactUnlock/TitleImg_422_05_01",
+		"ShowSkillList": [
+			{
+				"SkillID": 582,
+				"SkillDescriptionTextID": {
+					"hash": -346357360
+				}
+			},
+			{
+				"SkillID": 584,
+				"SkillDescriptionTextID": {
+					"hash": -346357358
+				}
+			}
+		],
+		"TagUnlockList": [
+			42200,
+			42201,
+			42202
+		],
+		"DataImpl": {},
+		"ArtifactID": 422
+	},
+	{
+		"showPlayLevel": 30,
+		"UnlockAvatarLevel": 30,
+		"ArtifactName": {
+			"hash": -930946803
+		},
+		"ArtifactDes": {
+			"hash": -409540328
+		},
+		"ArtifactPrefab": "Entities/Artifact/Avatar_Theresa_TP_Artifact/AvatarArtifact_502",
+		"LevelList": [
+			50201,
+			50202,
+			50203,
+			50204,
+			50205,
+			50206
+		],
+		"ReplaceSkillList": [
+			{
+				"NewSkillID": 471,
+				"OldSkillID": 201
+			},
+			{
+				"NewSkillID": 472,
+				"OldSkillID": 202
+			},
+			{
+				"NewSkillID": 473,
+				"OldSkillID": 203
+			},
+			{
+				"NewSkillID": 474,
+				"OldSkillID": 204
+			},
+			{
+				"NewSkillID": 476,
+				"OldSkillID": 206
+			}
+		],
+		"DressBanner": "SpriteOutput/AvatarDetail/60502_Artifact",
+		"DressBannerDes1": {
+			"hash": 1493223746
+		},
+		"DressBannerDes2": {
+			"hash": 1493223747
+		},
+		"BannerAvatarImgPath": "SpriteOutput/AvatarCardFigures/60502_05_01",
+		"BannerTitleImgPath": "SpriteOutput/ArtifactUnlock/TitleImg_502",
+		"ShowSkillList": [
+			{
+				"SkillID": 472,
+				"SkillDescriptionTextID": {
+					"hash": -346358352
+				}
+			},
+			{
+				"SkillID": 473,
+				"SkillDescriptionTextID": {
+					"hash": -346358351
+				}
+			}
+		],
+		"TagUnlockList": [
+			50200,
+			50201,
+			50202,
+			50203
+		],
+		"DataImpl": {},
+		"ArtifactID": 502
+	},
+	{
+		"showPlayLevel": 30,
+		"UnlockAvatarLevel": 30,
+		"ArtifactName": {
+			"hash": -930946803
+		},
+		"ArtifactDes": {
+			"hash": -409539368
+		},
+		"ArtifactPrefab": "Entities/Artifact/Avatar_Fuka_FK_Artifact/AvatarArtifact_601",
+		"LevelList": [
+			60101,
+			60102,
+			60103,
+			60104,
+			60105,
+			60106
+		],
+		"ReplaceSkillList": [
+			{
+				"NewSkillID": 481,
+				"OldSkillID": 281
+			},
+			{
+				"NewSkillID": 482,
+				"OldSkillID": 282
+			},
+			{
+				"NewSkillID": 483,
+				"OldSkillID": 283
+			},
+			{
+				"NewSkillID": 484,
+				"OldSkillID": 284
+			},
+			{
+				"NewSkillID": 486,
+				"OldSkillID": 286
+			}
+		],
+		"DressBanner": "SpriteOutput/AvatarDetail/60601_Artifact",
+		"DressBannerDes1": {
+			"hash": 1493223746
+		},
+		"DressBannerDes2": {
+			"hash": 1493223747
+		},
+		"BannerAvatarImgPath": "SpriteOutput/AvatarCardFigures/60601_05_01",
+		"BannerTitleImgPath": "SpriteOutput/ArtifactUnlock/TitleImg_601",
+		"ShowSkillList": [
+			{
+				"SkillID": 482,
+				"SkillDescriptionTextID": {
+					"hash": -346358321
+				}
+			},
+			{
+				"SkillID": 484,
+				"SkillDescriptionTextID": {
+					"hash": -346358319
+				}
+			}
+		],
+		"TagUnlockList": [
+			60100,
+			60101,
+			60102,
+			60103
+		],
+		"DataImpl": {},
+		"ArtifactID": 601
+	}
+]

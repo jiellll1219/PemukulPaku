@@ -1,0 +1,228 @@
+[
+	{
+		"GraphicsSettingItemText": {
+			"hash": -44206473
+		},
+		"GraphicsSettingItemName": "Resolution",
+		"ItemType": 0,
+		"OccupiedCols": 1,
+		"ChildrenColCount": 0,
+		"ChildrenLineList": [],
+		"DataImpl": {},
+		"ID": 1,
+		"Hierarchy": 1
+	},
+	{
+		"GraphicsSettingItemText": {
+			"hash": 145533210
+		},
+		"GraphicsSettingItemName": "PostFXGrade",
+		"ItemType": 2,
+		"OccupiedCols": 1,
+		"ChildrenColCount": 0,
+		"ChildrenLineList": [],
+		"DataImpl": {},
+		"ID": 1,
+		"Hierarchy": 2
+	},
+	{
+		"GraphicsSettingItemText": {
+			"hash": -1003805760
+		},
+		"GraphicsSettingItemName": "Option",
+		"ItemType": 0,
+		"OccupiedCols": 1,
+		"ChildrenColCount": 0,
+		"ChildrenLineList": [],
+		"DataImpl": {},
+		"ID": 2,
+		"Hierarchy": 1
+	},
+	{
+		"GraphicsSettingItemText": {
+			"hash": -535777397
+		},
+		"GraphicsSettingItemName": "HDR",
+		"ItemType": 2,
+		"OccupiedCols": 1,
+		"ChildrenColCount": 0,
+		"ChildrenLineList": [],
+		"DataImpl": {},
+		"ID": 2,
+		"Hierarchy": 2
+	},
+	{
+		"GraphicsSettingItemText": {
+			"hash": 1365553018
+		},
+		"GraphicsSettingItemName": "RenderingAccuracy",
+		"ItemType": 0,
+		"OccupiedCols": 1,
+		"ChildrenColCount": 0,
+		"ChildrenLineList": [],
+		"DataImpl": {},
+		"ID": 3,
+		"Hierarchy": 1
+	},
+	{
+		"GraphicsSettingItemText": {
+			"hash": -307758049
+		},
+		"GraphicsSettingItemName": "AntiAliasing",
+		"ItemType": 2,
+		"OccupiedCols": 1,
+		"ChildrenColCount": 0,
+		"ChildrenLineList": [],
+		"DataImpl": {},
+		"ID": 3,
+		"Hierarchy": 2
+	},
+	{
+		"GraphicsSettingItemText": {
+			"hash": -897248149
+		},
+		"GraphicsSettingItemName": "Shadow",
+		"ItemType": 0,
+		"OccupiedCols": 1,
+		"ChildrenColCount": 0,
+		"ChildrenLineList": [],
+		"DataImpl": {},
+		"ID": 4,
+		"Hierarchy": 1
+	},
+	{
+		"GraphicsSettingItemText": {
+			"hash": -2199960
+		},
+		"GraphicsSettingItemName": "Distortion",
+		"ItemType": 2,
+		"OccupiedCols": 1,
+		"ChildrenColCount": 0,
+		"ChildrenLineList": [],
+		"DataImpl": {},
+		"ID": 4,
+		"Hierarchy": 2
+	},
+	{
+		"GraphicsSettingItemText": {
+			"hash": 704161451
+		},
+		"GraphicsSettingItemName": "FrameNumber",
+		"ItemType": 0,
+		"OccupiedCols": 1,
+		"ChildrenColCount": 0,
+		"ChildrenLineList": [],
+		"DataImpl": {},
+		"ID": 5,
+		"Hierarchy": 1
+	},
+	{
+		"GraphicsSettingItemText": {
+			"hash": -1085923477
+		},
+		"GraphicsSettingItemName": "OtherFrames",
+		"ItemType": 0,
+		"OccupiedCols": 1,
+		"ChildrenColCount": 0,
+		"ChildrenLineList": [],
+		"DataImpl": {},
+		"ID": 6,
+		"Hierarchy": 1
+	},
+	{
+		"GraphicsSettingItemText": {
+			"hash": -928491529
+		},
+		"GraphicsSettingItemName": "Reflex",
+		"ItemType": 0,
+		"OccupiedCols": 1,
+		"ChildrenColCount": 0,
+		"ChildrenLineList": [],
+		"DataImpl": {},
+		"ID": 7,
+		"Hierarchy": 1
+	},
+	{
+		"GraphicsSettingItemText": {
+			"hash": -389827492
+		},
+		"GraphicsSettingItemName": "Physics",
+		"ItemType": 1,
+		"OccupiedCols": 1,
+		"ChildrenColCount": 0,
+		"ChildrenLineList": [],
+		"DataImpl": {},
+		"ID": 8,
+		"Hierarchy": 1
+	},
+	{
+		"GraphicsSettingItemText": {
+			"hash": 1341479694
+		},
+		"GraphicsSettingItemName": "LateQuality",
+		"ItemType": 1,
+		"OccupiedCols": 2,
+		"ChildrenColCount": 4,
+		"ChildrenLineList": [
+			1,
+			2,
+			3,
+			4
+		],
+		"DataImpl": {},
+		"ID": 9,
+		"Hierarchy": 1
+	},
+	{
+		"GraphicsSettingItemText": {
+			"hash": -1349294115
+		},
+		"GraphicsSettingItemName": "GlobalIllumination",
+		"ItemType": 0,
+		"OccupiedCols": 1,
+		"ChildrenColCount": 0,
+		"ChildrenLineList": [],
+		"DataImpl": {},
+		"ID": 11,
+		"Hierarchy": 1
+	},
+	{
+		"GraphicsSettingItemText": {
+			"hash": -977727224
+		},
+		"GraphicsSettingItemName": "ShieldingLight",
+		"ItemType": 0,
+		"OccupiedCols": 1,
+		"ChildrenColCount": 0,
+		"ChildrenLineList": [],
+		"DataImpl": {},
+		"ID": 12,
+		"Hierarchy": 1
+	},
+	{
+		"GraphicsSettingItemText": {
+			"hash": -1983447271
+		},
+		"GraphicsSettingItemName": "VolumetricLight",
+		"ItemType": 0,
+		"OccupiedCols": 1,
+		"ChildrenColCount": 0,
+		"ChildrenLineList": [],
+		"DataImpl": {},
+		"ID": 13,
+		"Hierarchy": 1
+	},
+	{
+		"GraphicsSettingItemText": {
+			"hash": -600047199
+		},
+		"GraphicsSettingItemName": "LodGrade",
+		"ItemType": 0,
+		"OccupiedCols": 1,
+		"ChildrenColCount": 0,
+		"ChildrenLineList": [],
+		"DataImpl": {},
+		"ID": 14,
+		"Hierarchy": 1
+	}
+]

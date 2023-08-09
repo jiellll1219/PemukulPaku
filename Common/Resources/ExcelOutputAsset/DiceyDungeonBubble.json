@@ -1,0 +1,2933 @@
+[
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			1
+		],
+		"triggerTimes": 0,
+		"triggerPR": 20,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 54386635
+			}
+		],
+		"DataImpl": {},
+		"roleID": 1,
+		"bubbleID": 1
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			1
+		],
+		"triggerTimes": 0,
+		"triggerPR": 20,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 54386636
+			}
+		],
+		"DataImpl": {},
+		"roleID": 1,
+		"bubbleID": 2
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			2
+		],
+		"triggerTimes": 1,
+		"triggerPR": 10,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 54386637
+			}
+		],
+		"DataImpl": {},
+		"roleID": 1,
+		"bubbleID": 3
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			2
+		],
+		"triggerTimes": 1,
+		"triggerPR": 10,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 54386638
+			}
+		],
+		"DataImpl": {},
+		"roleID": 1,
+		"bubbleID": 4
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			3
+		],
+		"triggerTimes": 0,
+		"triggerPR": 20,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 54386639
+			}
+		],
+		"DataImpl": {},
+		"roleID": 1,
+		"bubbleID": 5
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			3
+		],
+		"triggerTimes": 0,
+		"triggerPR": 20,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 54386640
+			}
+		],
+		"DataImpl": {},
+		"roleID": 1,
+		"bubbleID": 6
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			4
+		],
+		"triggerTimes": 0,
+		"triggerPR": 20,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 54386641
+			}
+		],
+		"DataImpl": {},
+		"roleID": 1,
+		"bubbleID": 7
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 100,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 54386642
+			}
+		],
+		"DataImpl": {},
+		"roleID": 1,
+		"bubbleID": 8
+	},
+	{
+		"triggerCondition": 3,
+		"conditionParameter": [
+			1
+		],
+		"triggerTimes": 0,
+		"triggerPR": 5,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 54386643
+			}
+		],
+		"DataImpl": {},
+		"roleID": 1,
+		"bubbleID": 9
+	},
+	{
+		"triggerCondition": 3,
+		"conditionParameter": [
+			1
+		],
+		"triggerTimes": 0,
+		"triggerPR": 5,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 54386665
+			}
+		],
+		"DataImpl": {},
+		"roleID": 1,
+		"bubbleID": 10
+	},
+	{
+		"triggerCondition": 3,
+		"conditionParameter": [
+			2
+		],
+		"triggerTimes": 0,
+		"triggerPR": 5,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 54386666
+			}
+		],
+		"DataImpl": {},
+		"roleID": 1,
+		"bubbleID": 11
+	},
+	{
+		"triggerCondition": 3,
+		"conditionParameter": [
+			2
+		],
+		"triggerTimes": 0,
+		"triggerPR": 5,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 54386667
+			}
+		],
+		"DataImpl": {},
+		"roleID": 1,
+		"bubbleID": 12
+	},
+	{
+		"triggerCondition": 3,
+		"conditionParameter": [
+			3
+		],
+		"triggerTimes": 0,
+		"triggerPR": 5,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 54386668
+			}
+		],
+		"DataImpl": {},
+		"roleID": 1,
+		"bubbleID": 13
+	},
+	{
+		"triggerCondition": 3,
+		"conditionParameter": [
+			3
+		],
+		"triggerTimes": 0,
+		"triggerPR": 5,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 54386669
+			}
+		],
+		"DataImpl": {},
+		"roleID": 1,
+		"bubbleID": 14
+	},
+	{
+		"triggerCondition": 5,
+		"conditionParameter": [
+			0
+		],
+		"triggerTimes": 0,
+		"triggerPR": 20,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 54386670
+			}
+		],
+		"DataImpl": {},
+		"roleID": 1,
+		"bubbleID": 15
+	},
+	{
+		"triggerCondition": 5,
+		"conditionParameter": [
+			0
+		],
+		"triggerTimes": 0,
+		"triggerPR": 20,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 54386671
+			}
+		],
+		"DataImpl": {},
+		"roleID": 1,
+		"bubbleID": 16
+	},
+	{
+		"triggerCondition": 5,
+		"conditionParameter": [
+			1
+		],
+		"triggerTimes": 0,
+		"triggerPR": 100,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 54386672
+			}
+		],
+		"DataImpl": {},
+		"roleID": 1,
+		"bubbleID": 17
+	},
+	{
+		"triggerCondition": 1,
+		"conditionParameter": [
+			108121
+		],
+		"triggerTimes": 0,
+		"triggerPR": 100,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 54386673
+			}
+		],
+		"DataImpl": {},
+		"roleID": 1,
+		"bubbleID": 18
+	},
+	{
+		"triggerCondition": 1,
+		"conditionParameter": [
+			40461
+		],
+		"triggerTimes": 0,
+		"triggerPR": 100,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 54386673
+			}
+		],
+		"DataImpl": {},
+		"roleID": 1,
+		"bubbleID": 19
+	},
+	{
+		"triggerCondition": 1,
+		"conditionParameter": [
+			208121
+		],
+		"triggerTimes": 0,
+		"triggerPR": 100,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 54386674
+			}
+		],
+		"DataImpl": {},
+		"roleID": 1,
+		"bubbleID": 20
+	},
+	{
+		"triggerCondition": 1,
+		"conditionParameter": [
+			41461
+		],
+		"triggerTimes": 0,
+		"triggerPR": 100,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 54386674
+			}
+		],
+		"DataImpl": {},
+		"roleID": 1,
+		"bubbleID": 21
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			100111,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 54386696
+			}
+		],
+		"DataImpl": {},
+		"roleID": 1,
+		"bubbleID": 22
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			200111,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 54386696
+			}
+		],
+		"DataImpl": {},
+		"roleID": 1,
+		"bubbleID": 23
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			300111,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 54386696
+			}
+		],
+		"DataImpl": {},
+		"roleID": 1,
+		"bubbleID": 24
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			400111,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 54386696
+			}
+		],
+		"DataImpl": {},
+		"roleID": 1,
+		"bubbleID": 25
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			500111,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 54386696
+			}
+		],
+		"DataImpl": {},
+		"roleID": 1,
+		"bubbleID": 26
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			600111,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 54386696
+			}
+		],
+		"DataImpl": {},
+		"roleID": 1,
+		"bubbleID": 27
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			700111,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 54386696
+			}
+		],
+		"DataImpl": {},
+		"roleID": 1,
+		"bubbleID": 28
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			40161,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 54386697
+			}
+		],
+		"DataImpl": {},
+		"roleID": 1,
+		"bubbleID": 29
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			40461,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 54386697
+			}
+		],
+		"DataImpl": {},
+		"roleID": 1,
+		"bubbleID": 30
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			40761,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 54386697
+			}
+		],
+		"DataImpl": {},
+		"roleID": 1,
+		"bubbleID": 31
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			41161,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 54386697
+			}
+		],
+		"DataImpl": {},
+		"roleID": 1,
+		"bubbleID": 32
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			41461,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 54386697
+			}
+		],
+		"DataImpl": {},
+		"roleID": 1,
+		"bubbleID": 33
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			42261,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 54386697
+			}
+		],
+		"DataImpl": {},
+		"roleID": 1,
+		"bubbleID": 34
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			1
+		],
+		"triggerTimes": 0,
+		"triggerPR": 20,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 518464345
+			}
+		],
+		"DataImpl": {},
+		"roleID": 2,
+		"bubbleID": 1
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			1
+		],
+		"triggerTimes": 0,
+		"triggerPR": 20,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 518464346
+			}
+		],
+		"DataImpl": {},
+		"roleID": 2,
+		"bubbleID": 2
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			2
+		],
+		"triggerTimes": 1,
+		"triggerPR": 10,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 518464347
+			}
+		],
+		"DataImpl": {},
+		"roleID": 2,
+		"bubbleID": 3
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			3
+		],
+		"triggerTimes": 0,
+		"triggerPR": 20,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 518464348
+			}
+		],
+		"DataImpl": {},
+		"roleID": 2,
+		"bubbleID": 4
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			3
+		],
+		"triggerTimes": 0,
+		"triggerPR": 20,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 518464349
+			}
+		],
+		"DataImpl": {},
+		"roleID": 2,
+		"bubbleID": 5
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			4
+		],
+		"triggerTimes": 0,
+		"triggerPR": 20,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 518464350
+			}
+		],
+		"DataImpl": {},
+		"roleID": 2,
+		"bubbleID": 6
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 100,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 518464351
+			}
+		],
+		"DataImpl": {},
+		"roleID": 2,
+		"bubbleID": 7
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 100,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 518464352
+			}
+		],
+		"DataImpl": {},
+		"roleID": 2,
+		"bubbleID": 8
+	},
+	{
+		"triggerCondition": 3,
+		"conditionParameter": [
+			1
+		],
+		"triggerTimes": 0,
+		"triggerPR": 5,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 518464353
+			}
+		],
+		"DataImpl": {},
+		"roleID": 2,
+		"bubbleID": 9
+	},
+	{
+		"triggerCondition": 3,
+		"conditionParameter": [
+			2
+		],
+		"triggerTimes": 0,
+		"triggerPR": 5,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 518464375
+			}
+		],
+		"DataImpl": {},
+		"roleID": 2,
+		"bubbleID": 10
+	},
+	{
+		"triggerCondition": 3,
+		"conditionParameter": [
+			3
+		],
+		"triggerTimes": 0,
+		"triggerPR": 5,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 518464376
+			}
+		],
+		"DataImpl": {},
+		"roleID": 2,
+		"bubbleID": 11
+	},
+	{
+		"triggerCondition": 5,
+		"conditionParameter": [
+			0
+		],
+		"triggerTimes": 0,
+		"triggerPR": 20,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 518464377
+			}
+		],
+		"DataImpl": {},
+		"roleID": 2,
+		"bubbleID": 12
+	},
+	{
+		"triggerCondition": 5,
+		"conditionParameter": [
+			0
+		],
+		"triggerTimes": 0,
+		"triggerPR": 20,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 518464378
+			}
+		],
+		"DataImpl": {},
+		"roleID": 2,
+		"bubbleID": 13
+	},
+	{
+		"triggerCondition": 5,
+		"conditionParameter": [
+			1
+		],
+		"triggerTimes": 0,
+		"triggerPR": 100,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 518464379
+			}
+		],
+		"DataImpl": {},
+		"roleID": 2,
+		"bubbleID": 14
+	},
+	{
+		"triggerCondition": 1,
+		"conditionParameter": [
+			108121
+		],
+		"triggerTimes": 0,
+		"triggerPR": 100,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 518464380
+			}
+		],
+		"DataImpl": {},
+		"roleID": 2,
+		"bubbleID": 15
+	},
+	{
+		"triggerCondition": 1,
+		"conditionParameter": [
+			40461
+		],
+		"triggerTimes": 0,
+		"triggerPR": 100,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 518464380
+			}
+		],
+		"DataImpl": {},
+		"roleID": 2,
+		"bubbleID": 16
+	},
+	{
+		"triggerCondition": 1,
+		"conditionParameter": [
+			41361
+		],
+		"triggerTimes": 0,
+		"triggerPR": 100,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 518464380
+			}
+		],
+		"DataImpl": {},
+		"roleID": 2,
+		"bubbleID": 17
+	},
+	{
+		"triggerCondition": 1,
+		"conditionParameter": [
+			310121
+		],
+		"triggerTimes": 0,
+		"triggerPR": 100,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 518464381
+			}
+		],
+		"DataImpl": {},
+		"roleID": 2,
+		"bubbleID": 18
+	},
+	{
+		"triggerCondition": 1,
+		"conditionParameter": [
+			42261
+		],
+		"triggerTimes": 0,
+		"triggerPR": 100,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 518464381
+			}
+		],
+		"DataImpl": {},
+		"roleID": 2,
+		"bubbleID": 19
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			200311,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 518464382
+			}
+		],
+		"DataImpl": {},
+		"roleID": 2,
+		"bubbleID": 20
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			300311,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 518464382
+			}
+		],
+		"DataImpl": {},
+		"roleID": 2,
+		"bubbleID": 21
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			400311,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 518464382
+			}
+		],
+		"DataImpl": {},
+		"roleID": 2,
+		"bubbleID": 22
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			500311,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 518464382
+			}
+		],
+		"DataImpl": {},
+		"roleID": 2,
+		"bubbleID": 23
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			600311,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 518464382
+			}
+		],
+		"DataImpl": {},
+		"roleID": 2,
+		"bubbleID": 24
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			700311,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 518464382
+			}
+		],
+		"DataImpl": {},
+		"roleID": 2,
+		"bubbleID": 25
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			40361,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 518464383
+			}
+		],
+		"DataImpl": {},
+		"roleID": 2,
+		"bubbleID": 26
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			40461,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 518464383
+			}
+		],
+		"DataImpl": {},
+		"roleID": 2,
+		"bubbleID": 27
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			40761,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 518464383
+			}
+		],
+		"DataImpl": {},
+		"roleID": 2,
+		"bubbleID": 28
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			41161,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 518464383
+			}
+		],
+		"DataImpl": {},
+		"roleID": 2,
+		"bubbleID": 29
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			41361,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 518464383
+			}
+		],
+		"DataImpl": {},
+		"roleID": 2,
+		"bubbleID": 30
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			41861,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 518464383
+			}
+		],
+		"DataImpl": {},
+		"roleID": 2,
+		"bubbleID": 31
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			1
+		],
+		"triggerTimes": 0,
+		"triggerPR": 20,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": -259607288
+			}
+		],
+		"DataImpl": {},
+		"roleID": 3,
+		"bubbleID": 1
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			1
+		],
+		"triggerTimes": 0,
+		"triggerPR": 20,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": -259607287
+			}
+		],
+		"DataImpl": {},
+		"roleID": 3,
+		"bubbleID": 2
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			2
+		],
+		"triggerTimes": 1,
+		"triggerPR": 10,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": -259607286
+			}
+		],
+		"DataImpl": {},
+		"roleID": 3,
+		"bubbleID": 3
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			2
+		],
+		"triggerTimes": 1,
+		"triggerPR": 10,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": -259607285
+			}
+		],
+		"DataImpl": {},
+		"roleID": 3,
+		"bubbleID": 4
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			3
+		],
+		"triggerTimes": 0,
+		"triggerPR": 20,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": -259607284
+			}
+		],
+		"DataImpl": {},
+		"roleID": 3,
+		"bubbleID": 5
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			4
+		],
+		"triggerTimes": 0,
+		"triggerPR": 20,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": -259607283
+			}
+		],
+		"DataImpl": {},
+		"roleID": 3,
+		"bubbleID": 6
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			4
+		],
+		"triggerTimes": 0,
+		"triggerPR": 20,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": -259607282
+			}
+		],
+		"DataImpl": {},
+		"roleID": 3,
+		"bubbleID": 7
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 100,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": -259607281
+			}
+		],
+		"DataImpl": {},
+		"roleID": 3,
+		"bubbleID": 8
+	},
+	{
+		"triggerCondition": 3,
+		"conditionParameter": [
+			1
+		],
+		"triggerTimes": 0,
+		"triggerPR": 5,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": -259607280
+			}
+		],
+		"DataImpl": {},
+		"roleID": 3,
+		"bubbleID": 9
+	},
+	{
+		"triggerCondition": 3,
+		"conditionParameter": [
+			1
+		],
+		"triggerTimes": 0,
+		"triggerPR": 5,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": -259607258
+			}
+		],
+		"DataImpl": {},
+		"roleID": 3,
+		"bubbleID": 10
+	},
+	{
+		"triggerCondition": 3,
+		"conditionParameter": [
+			2
+		],
+		"triggerTimes": 0,
+		"triggerPR": 5,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": -259607257
+			}
+		],
+		"DataImpl": {},
+		"roleID": 3,
+		"bubbleID": 11
+	},
+	{
+		"triggerCondition": 3,
+		"conditionParameter": [
+			3
+		],
+		"triggerTimes": 0,
+		"triggerPR": 5,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": -259607256
+			}
+		],
+		"DataImpl": {},
+		"roleID": 3,
+		"bubbleID": 12
+	},
+	{
+		"triggerCondition": 5,
+		"conditionParameter": [
+			0
+		],
+		"triggerTimes": 0,
+		"triggerPR": 20,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": -259607255
+			}
+		],
+		"DataImpl": {},
+		"roleID": 3,
+		"bubbleID": 13
+	},
+	{
+		"triggerCondition": 5,
+		"conditionParameter": [
+			1
+		],
+		"triggerTimes": 0,
+		"triggerPR": 20,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": -259607254
+			}
+		],
+		"DataImpl": {},
+		"roleID": 3,
+		"bubbleID": 14
+	},
+	{
+		"triggerCondition": 1,
+		"conditionParameter": [
+			108121
+		],
+		"triggerTimes": 0,
+		"triggerPR": 100,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": -259607253
+			}
+		],
+		"DataImpl": {},
+		"roleID": 3,
+		"bubbleID": 15
+	},
+	{
+		"triggerCondition": 1,
+		"conditionParameter": [
+			40461
+		],
+		"triggerTimes": 0,
+		"triggerPR": 100,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": -259607253
+			}
+		],
+		"DataImpl": {},
+		"roleID": 3,
+		"bubbleID": 16
+	},
+	{
+		"triggerCondition": 1,
+		"conditionParameter": [
+			307121
+		],
+		"triggerTimes": 0,
+		"triggerPR": 100,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": -259607252
+			}
+		],
+		"DataImpl": {},
+		"roleID": 3,
+		"bubbleID": 17
+	},
+	{
+		"triggerCondition": 1,
+		"conditionParameter": [
+			41551
+		],
+		"triggerTimes": 0,
+		"triggerPR": 100,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": -259607252
+			}
+		],
+		"DataImpl": {},
+		"roleID": 3,
+		"bubbleID": 18
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			100211,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": -259607251
+			}
+		],
+		"DataImpl": {},
+		"roleID": 3,
+		"bubbleID": 19
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			200211,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": -259607251
+			}
+		],
+		"DataImpl": {},
+		"roleID": 3,
+		"bubbleID": 20
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			300211,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": -259607251
+			}
+		],
+		"DataImpl": {},
+		"roleID": 3,
+		"bubbleID": 21
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			400211,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": -259607251
+			}
+		],
+		"DataImpl": {},
+		"roleID": 3,
+		"bubbleID": 22
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			500211,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": -259607251
+			}
+		],
+		"DataImpl": {},
+		"roleID": 3,
+		"bubbleID": 23
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			600211,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": -259607251
+			}
+		],
+		"DataImpl": {},
+		"roleID": 3,
+		"bubbleID": 24
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			700211,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": -259607251
+			}
+		],
+		"DataImpl": {},
+		"roleID": 3,
+		"bubbleID": 25
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			40261,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": -259607250
+			}
+		],
+		"DataImpl": {},
+		"roleID": 3,
+		"bubbleID": 26
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			40461,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": -259607250
+			}
+		],
+		"DataImpl": {},
+		"roleID": 3,
+		"bubbleID": 27
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			40761,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": -259607250
+			}
+		],
+		"DataImpl": {},
+		"roleID": 3,
+		"bubbleID": 28
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			41161,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": -259607250
+			}
+		],
+		"DataImpl": {},
+		"roleID": 3,
+		"bubbleID": 29
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			41561,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": -259607250
+			}
+		],
+		"DataImpl": {},
+		"roleID": 3,
+		"bubbleID": 30
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			42061,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": -259607250
+			}
+		],
+		"DataImpl": {},
+		"roleID": 3,
+		"bubbleID": 31
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			1
+		],
+		"triggerTimes": 0,
+		"triggerPR": 20,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": -143853733
+			}
+		],
+		"DataImpl": {},
+		"roleID": 4,
+		"bubbleID": 1
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			2
+		],
+		"triggerTimes": 1,
+		"triggerPR": 20,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": -143853732
+			}
+		],
+		"DataImpl": {},
+		"roleID": 4,
+		"bubbleID": 2
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			3
+		],
+		"triggerTimes": 0,
+		"triggerPR": 20,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": -143853731
+			}
+		],
+		"DataImpl": {},
+		"roleID": 4,
+		"bubbleID": 3
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			4
+		],
+		"triggerTimes": 0,
+		"triggerPR": 20,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": -143853730
+			}
+		],
+		"DataImpl": {},
+		"roleID": 4,
+		"bubbleID": 4
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 80,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": -143853729
+			}
+		],
+		"DataImpl": {},
+		"roleID": 4,
+		"bubbleID": 5
+	},
+	{
+		"triggerCondition": 3,
+		"conditionParameter": [
+			1
+		],
+		"triggerTimes": 0,
+		"triggerPR": 5,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": -143853728
+			}
+		],
+		"DataImpl": {},
+		"roleID": 4,
+		"bubbleID": 6
+	},
+	{
+		"triggerCondition": 3,
+		"conditionParameter": [
+			1
+		],
+		"triggerTimes": 0,
+		"triggerPR": 5,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": -143853727
+			}
+		],
+		"DataImpl": {},
+		"roleID": 4,
+		"bubbleID": 7
+	},
+	{
+		"triggerCondition": 3,
+		"conditionParameter": [
+			2
+		],
+		"triggerTimes": 0,
+		"triggerPR": 5,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": -143853726
+			}
+		],
+		"DataImpl": {},
+		"roleID": 4,
+		"bubbleID": 8
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			1
+		],
+		"triggerTimes": 0,
+		"triggerPR": 20,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": -945796227
+			}
+		],
+		"DataImpl": {},
+		"roleID": 5,
+		"bubbleID": 1
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			1
+		],
+		"triggerTimes": 0,
+		"triggerPR": 20,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": -945796226
+			}
+		],
+		"DataImpl": {},
+		"roleID": 5,
+		"bubbleID": 2
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			2
+		],
+		"triggerTimes": 1,
+		"triggerPR": 10,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": -945796225
+			}
+		],
+		"DataImpl": {},
+		"roleID": 5,
+		"bubbleID": 3
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			3
+		],
+		"triggerTimes": 0,
+		"triggerPR": 20,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": -945796224
+			}
+		],
+		"DataImpl": {},
+		"roleID": 5,
+		"bubbleID": 4
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			4
+		],
+		"triggerTimes": 0,
+		"triggerPR": 20,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": -945796223
+			}
+		],
+		"DataImpl": {},
+		"roleID": 5,
+		"bubbleID": 5
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 100,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": -945796222
+			}
+		],
+		"DataImpl": {},
+		"roleID": 5,
+		"bubbleID": 6
+	},
+	{
+		"triggerCondition": 3,
+		"conditionParameter": [
+			1
+		],
+		"triggerTimes": 0,
+		"triggerPR": 5,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": -945796221
+			}
+		],
+		"DataImpl": {},
+		"roleID": 5,
+		"bubbleID": 7
+	},
+	{
+		"triggerCondition": 3,
+		"conditionParameter": [
+			2
+		],
+		"triggerTimes": 0,
+		"triggerPR": 5,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": -945796220
+			}
+		],
+		"DataImpl": {},
+		"roleID": 5,
+		"bubbleID": 8
+	},
+	{
+		"triggerCondition": 3,
+		"conditionParameter": [
+			3
+		],
+		"triggerTimes": 0,
+		"triggerPR": 5,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": -945796219
+			}
+		],
+		"DataImpl": {},
+		"roleID": 5,
+		"bubbleID": 9
+	},
+	{
+		"triggerCondition": 5,
+		"conditionParameter": [
+			0
+		],
+		"triggerTimes": 0,
+		"triggerPR": 20,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": -945796197
+			}
+		],
+		"DataImpl": {},
+		"roleID": 5,
+		"bubbleID": 10
+	},
+	{
+		"triggerCondition": 5,
+		"conditionParameter": [
+			0
+		],
+		"triggerTimes": 0,
+		"triggerPR": 20,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": -945796196
+			}
+		],
+		"DataImpl": {},
+		"roleID": 5,
+		"bubbleID": 11
+	},
+	{
+		"triggerCondition": 5,
+		"conditionParameter": [
+			1
+		],
+		"triggerTimes": 0,
+		"triggerPR": 100,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": -945796195
+			}
+		],
+		"DataImpl": {},
+		"roleID": 5,
+		"bubbleID": 12
+	},
+	{
+		"triggerCondition": 1,
+		"conditionParameter": [
+			208121
+		],
+		"triggerTimes": 0,
+		"triggerPR": 100,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": -945796194
+			}
+		],
+		"DataImpl": {},
+		"roleID": 5,
+		"bubbleID": 13
+	},
+	{
+		"triggerCondition": 1,
+		"conditionParameter": [
+			40861
+		],
+		"triggerTimes": 0,
+		"triggerPR": 100,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": -945796194
+			}
+		],
+		"DataImpl": {},
+		"roleID": 5,
+		"bubbleID": 14
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			300411,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": -945796193
+			}
+		],
+		"DataImpl": {},
+		"roleID": 5,
+		"bubbleID": 15
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			400411,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": -945796193
+			}
+		],
+		"DataImpl": {},
+		"roleID": 5,
+		"bubbleID": 16
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			500411,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": -945796193
+			}
+		],
+		"DataImpl": {},
+		"roleID": 5,
+		"bubbleID": 17
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			600411,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": -945796193
+			}
+		],
+		"DataImpl": {},
+		"roleID": 5,
+		"bubbleID": 18
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			700411,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": -945796193
+			}
+		],
+		"DataImpl": {},
+		"roleID": 5,
+		"bubbleID": 19
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			40561,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": -945796192
+			}
+		],
+		"DataImpl": {},
+		"roleID": 5,
+		"bubbleID": 20
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			40861,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": -945796192
+			}
+		],
+		"DataImpl": {},
+		"roleID": 5,
+		"bubbleID": 21
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			41161,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": -945796192
+			}
+		],
+		"DataImpl": {},
+		"roleID": 5,
+		"bubbleID": 22
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			41361,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": -945796192
+			}
+		],
+		"DataImpl": {},
+		"roleID": 5,
+		"bubbleID": 23
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			41761,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": -945796192
+			}
+		],
+		"DataImpl": {},
+		"roleID": 5,
+		"bubbleID": 24
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			1
+		],
+		"triggerTimes": 0,
+		"triggerPR": 20,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 1358131896
+			}
+		],
+		"DataImpl": {},
+		"roleID": 6,
+		"bubbleID": 1
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			1
+		],
+		"triggerTimes": 0,
+		"triggerPR": 20,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 1358131897
+			}
+		],
+		"DataImpl": {},
+		"roleID": 6,
+		"bubbleID": 2
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			2
+		],
+		"triggerTimes": 1,
+		"triggerPR": 10,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 1358131898
+			}
+		],
+		"DataImpl": {},
+		"roleID": 6,
+		"bubbleID": 3
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			2
+		],
+		"triggerTimes": 1,
+		"triggerPR": 10,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 1358131899
+			}
+		],
+		"DataImpl": {},
+		"roleID": 6,
+		"bubbleID": 4
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			3
+		],
+		"triggerTimes": 0,
+		"triggerPR": 20,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 1358131900
+			}
+		],
+		"DataImpl": {},
+		"roleID": 6,
+		"bubbleID": 5
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			3
+		],
+		"triggerTimes": 0,
+		"triggerPR": 20,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 1358131901
+			}
+		],
+		"DataImpl": {},
+		"roleID": 6,
+		"bubbleID": 6
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			4
+		],
+		"triggerTimes": 0,
+		"triggerPR": 20,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 1358131902
+			}
+		],
+		"DataImpl": {},
+		"roleID": 6,
+		"bubbleID": 7
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 100,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 1358131903
+			}
+		],
+		"DataImpl": {},
+		"roleID": 6,
+		"bubbleID": 8
+	},
+	{
+		"triggerCondition": 3,
+		"conditionParameter": [
+			1
+		],
+		"triggerTimes": 0,
+		"triggerPR": 5,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 1358131904
+			}
+		],
+		"DataImpl": {},
+		"roleID": 6,
+		"bubbleID": 9
+	},
+	{
+		"triggerCondition": 3,
+		"conditionParameter": [
+			1
+		],
+		"triggerTimes": 0,
+		"triggerPR": 5,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 1358131926
+			}
+		],
+		"DataImpl": {},
+		"roleID": 6,
+		"bubbleID": 10
+	},
+	{
+		"triggerCondition": 3,
+		"conditionParameter": [
+			2
+		],
+		"triggerTimes": 0,
+		"triggerPR": 5,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 1358131927
+			}
+		],
+		"DataImpl": {},
+		"roleID": 6,
+		"bubbleID": 11
+	},
+	{
+		"triggerCondition": 3,
+		"conditionParameter": [
+			3
+		],
+		"triggerTimes": 0,
+		"triggerPR": 5,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 1358131928
+			}
+		],
+		"DataImpl": {},
+		"roleID": 6,
+		"bubbleID": 12
+	},
+	{
+		"triggerCondition": 5,
+		"conditionParameter": [
+			0
+		],
+		"triggerTimes": 0,
+		"triggerPR": 20,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 1358131929
+			}
+		],
+		"DataImpl": {},
+		"roleID": 6,
+		"bubbleID": 13
+	},
+	{
+		"triggerCondition": 5,
+		"conditionParameter": [
+			0
+		],
+		"triggerTimes": 0,
+		"triggerPR": 20,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 1358131930
+			}
+		],
+		"DataImpl": {},
+		"roleID": 6,
+		"bubbleID": 14
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			40961,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 1358131931
+			}
+		],
+		"DataImpl": {},
+		"roleID": 6,
+		"bubbleID": 15
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			41261,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 1358131931
+			}
+		],
+		"DataImpl": {},
+		"roleID": 6,
+		"bubbleID": 16
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			41461,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 1358131931
+			}
+		],
+		"DataImpl": {},
+		"roleID": 6,
+		"bubbleID": 17
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			41661,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 1358131931
+			}
+		],
+		"DataImpl": {},
+		"roleID": 6,
+		"bubbleID": 18
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			1
+		],
+		"triggerTimes": 0,
+		"triggerPR": 20,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 200695325
+			}
+		],
+		"DataImpl": {},
+		"roleID": 7,
+		"bubbleID": 1
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			2
+		],
+		"triggerTimes": 1,
+		"triggerPR": 10,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 200695326
+			}
+		],
+		"DataImpl": {},
+		"roleID": 7,
+		"bubbleID": 2
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			3
+		],
+		"triggerTimes": 0,
+		"triggerPR": 20,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 200695327
+			}
+		],
+		"DataImpl": {},
+		"roleID": 7,
+		"bubbleID": 3
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			4
+		],
+		"triggerTimes": 0,
+		"triggerPR": 20,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 200695328
+			}
+		],
+		"DataImpl": {},
+		"roleID": 7,
+		"bubbleID": 4
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 100,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 200695329
+			}
+		],
+		"DataImpl": {},
+		"roleID": 7,
+		"bubbleID": 5
+	},
+	{
+		"triggerCondition": 2,
+		"conditionParameter": [
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 100,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 200695330
+			}
+		],
+		"DataImpl": {},
+		"roleID": 7,
+		"bubbleID": 6
+	},
+	{
+		"triggerCondition": 3,
+		"conditionParameter": [
+			1
+		],
+		"triggerTimes": 0,
+		"triggerPR": 5,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 200695331
+			}
+		],
+		"DataImpl": {},
+		"roleID": 7,
+		"bubbleID": 7
+	},
+	{
+		"triggerCondition": 3,
+		"conditionParameter": [
+			1
+		],
+		"triggerTimes": 0,
+		"triggerPR": 5,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 200695332
+			}
+		],
+		"DataImpl": {},
+		"roleID": 7,
+		"bubbleID": 8
+	},
+	{
+		"triggerCondition": 3,
+		"conditionParameter": [
+			2
+		],
+		"triggerTimes": 0,
+		"triggerPR": 5,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 200695333
+			}
+		],
+		"DataImpl": {},
+		"roleID": 7,
+		"bubbleID": 9
+	},
+	{
+		"triggerCondition": 3,
+		"conditionParameter": [
+			2
+		],
+		"triggerTimes": 0,
+		"triggerPR": 5,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 200695355
+			}
+		],
+		"DataImpl": {},
+		"roleID": 7,
+		"bubbleID": 10
+	},
+	{
+		"triggerCondition": 3,
+		"conditionParameter": [
+			3
+		],
+		"triggerTimes": 0,
+		"triggerPR": 5,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 200695356
+			}
+		],
+		"DataImpl": {},
+		"roleID": 7,
+		"bubbleID": 11
+	},
+	{
+		"triggerCondition": 5,
+		"conditionParameter": [
+			0
+		],
+		"triggerTimes": 0,
+		"triggerPR": 20,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 200695357
+			}
+		],
+		"DataImpl": {},
+		"roleID": 7,
+		"bubbleID": 12
+	},
+	{
+		"triggerCondition": 5,
+		"conditionParameter": [
+			0
+		],
+		"triggerTimes": 0,
+		"triggerPR": 20,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 200695358
+			}
+		],
+		"DataImpl": {},
+		"roleID": 7,
+		"bubbleID": 13
+	},
+	{
+		"triggerCondition": 5,
+		"conditionParameter": [
+			1
+		],
+		"triggerTimes": 0,
+		"triggerPR": 100,
+		"weight": 50,
+		"dialogTextList": [
+			{
+				"hash": 200695359
+			}
+		],
+		"DataImpl": {},
+		"roleID": 7,
+		"bubbleID": 14
+	},
+	{
+		"triggerCondition": 1,
+		"conditionParameter": [
+			310121
+		],
+		"triggerTimes": 0,
+		"triggerPR": 100,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 200695360
+			}
+		],
+		"DataImpl": {},
+		"roleID": 7,
+		"bubbleID": 15
+	},
+	{
+		"triggerCondition": 1,
+		"conditionParameter": [
+			41261
+		],
+		"triggerTimes": 0,
+		"triggerPR": 100,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 200695360
+			}
+		],
+		"DataImpl": {},
+		"roleID": 7,
+		"bubbleID": 16
+	},
+	{
+		"triggerCondition": 1,
+		"conditionParameter": [
+			41551
+		],
+		"triggerTimes": 0,
+		"triggerPR": 100,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 200695360
+			}
+		],
+		"DataImpl": {},
+		"roleID": 7,
+		"bubbleID": 17
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			600711,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 200695361
+			}
+		],
+		"DataImpl": {},
+		"roleID": 7,
+		"bubbleID": 18
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			700711,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 200695361
+			}
+		],
+		"DataImpl": {},
+		"roleID": 7,
+		"bubbleID": 19
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			41061,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 200695362
+			}
+		],
+		"DataImpl": {},
+		"roleID": 7,
+		"bubbleID": 20
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			41261,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 200695362
+			}
+		],
+		"DataImpl": {},
+		"roleID": 7,
+		"bubbleID": 21
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			41561,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 200695362
+			}
+		],
+		"DataImpl": {},
+		"roleID": 7,
+		"bubbleID": 22
+	},
+	{
+		"triggerCondition": 4,
+		"conditionParameter": [
+			42161,
+			5
+		],
+		"triggerTimes": 0,
+		"triggerPR": 30,
+		"weight": 110,
+		"dialogTextList": [
+			{
+				"hash": 200695362
+			}
+		],
+		"DataImpl": {},
+		"roleID": 7,
+		"bubbleID": 23
+	}
+]

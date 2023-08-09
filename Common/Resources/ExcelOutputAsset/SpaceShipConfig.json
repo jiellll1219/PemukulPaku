@@ -1,0 +1,44 @@
+[
+	{
+		"ResPath": "Stage/MainMenu_SpaceShip/MainMenu_SpaceShip",
+		"IsSkyBoxShow": true,
+		"DataImpl": {},
+		"SpaceShipID": 0
+	},
+	{
+		"ResPath": "Stage/MainMenu_SpaceShip/EVA/MainMenu_SpaceShip",
+		"IsSkyBoxShow": false,
+		"DataImpl": {},
+		"SpaceShipID": 100
+	},
+	{
+		"ResPath": "Stage/MainMenu_SpaceShip/Taixu/MainMenu_SpaceShip",
+		"IsSkyBoxShow": false,
+		"DataImpl": {},
+		"SpaceShipID": 101
+	},
+	{
+		"ResPath": "Stage/MainMenu_ArcCity/MainMenu_SpaceShip_ArcCity",
+		"IsSkyBoxShow": false,
+		"DataImpl": {},
+		"SpaceShipID": 102
+	},
+	{
+		"ResPath": "Stage/MainMenu_ElysionBoss/MainMenu_SpaceShip_ElysionBoss",
+		"IsSkyBoxShow": false,
+		"DataImpl": {},
+		"SpaceShipID": 103
+	},
+	{
+		"ResPath": "Stage/MainMenu_KevinBoss/MainMenu_KevinBoss",
+		"IsSkyBoxShow": false,
+		"DataImpl": {},
+		"SpaceShipID": 104
+	},
+	{
+		"ResPath": "Stage/MainMenu_Subway/MainMenu_SpaceShip",
+		"IsSkyBoxShow": false,
+		"DataImpl": {},
+		"SpaceShipID": 105
+	}
+]

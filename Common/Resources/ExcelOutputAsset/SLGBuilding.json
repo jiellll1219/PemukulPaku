@@ -1,0 +1,362 @@
+[
+	{
+		"Type": 1,
+		"Parameter": 101,
+		"Model": "Stage/Stage_Camp_Battle/Props/Stage_Camp_Battle_AP_Model",
+		"SmallIcon": "SpriteOutput/SLG/Building/08",
+		"Name": "SLG_Building101_Name",
+		"BuildingDesc": "SLG_Building101_Desc",
+		"DataImpl": {},
+		"ID": 101
+	},
+	{
+		"Type": 1,
+		"Parameter": 102,
+		"Model": "Stage/Stage_Camp_Battle/Props/Stage_Camp_Battle_Score_Model",
+		"SmallIcon": "SpriteOutput/SLG/Building/07",
+		"Name": "SLG_Building102_Name",
+		"BuildingDesc": "SLG_Building102_Desc",
+		"DataImpl": {},
+		"ID": 102
+	},
+	{
+		"Type": 1,
+		"Parameter": 103,
+		"Model": "Stage/Stage_Camp_Battle/Props/Stage_Camp_Battle_Loyalty_Model",
+		"SmallIcon": "SpriteOutput/SLG/Building/01",
+		"Name": "SLG_Building103_Name",
+		"BuildingDesc": "SLG_Building103_Desc",
+		"DataImpl": {},
+		"ID": 103
+	},
+	{
+		"Type": 1,
+		"Parameter": 104,
+		"Model": "Stage/Stage_Camp_Battle/Props/Stage_Camp_Battle_Homu_Model",
+		"SmallIcon": "SpriteOutput/SLG/Building/06",
+		"Name": "SLG_Building104_Name",
+		"BuildingDesc": "SLG_Building104_Desc",
+		"DataImpl": {},
+		"ID": 104
+	},
+	{
+		"Type": 1,
+		"Parameter": 105,
+		"Model": "Stage/Stage_Camp_Battle/Props/Stage_Camp_Battle_SP_Model",
+		"SmallIcon": "SpriteOutput/SLG/Building/05",
+		"Name": "SLG_Building105_Name",
+		"BuildingDesc": "SLG_Building105_Desc",
+		"DataImpl": {},
+		"ID": 105
+	},
+	{
+		"Type": 1,
+		"Parameter": 106,
+		"Model": "Stage/Stage_Camp_Battle/Props/Stage_Camp_Battle_Homu_Model",
+		"SmallIcon": "SpriteOutput/SLG/Building/06",
+		"Name": "SLG_Building106_Name",
+		"BuildingDesc": "SLG_Building106_Desc",
+		"DataImpl": {},
+		"ID": 106
+	},
+	{
+		"Type": 3,
+		"Parameter": 1,
+		"Model": "Stage/Stage_Camp_Battle/Stage_Camp_Small_Boos",
+		"SmallIcon": "SpriteOutput/SLG/Building/09",
+		"Name": "SLG_SmallBoss_Name",
+		"BuildingDesc": "SLG_SmallBoss_Desc",
+		"DataImpl": {},
+		"ID": 111
+	},
+	{
+		"Type": 3,
+		"Parameter": 2,
+		"Model": "Stage/Stage_Camp_Battle/Stage_Camp_Small_Boos",
+		"SmallIcon": "SpriteOutput/SLG/Building/09",
+		"Name": "SLG_SmallBoss_Name",
+		"BuildingDesc": "SLG_SmallBoss_Desc",
+		"DataImpl": {},
+		"ID": 112
+	},
+	{
+		"Type": 3,
+		"Parameter": 3,
+		"Model": "Stage/Stage_Camp_Battle/Stage_Camp_Small_Boos",
+		"SmallIcon": "SpriteOutput/SLG/Building/09",
+		"Name": "SLG_SmallBoss_Name",
+		"BuildingDesc": "SLG_SmallBoss_Desc",
+		"DataImpl": {},
+		"ID": 113
+	},
+	{
+		"Type": 3,
+		"Parameter": 4,
+		"Model": "Stage/Stage_Camp_Battle/Stage_Camp_Small_Boos",
+		"SmallIcon": "SpriteOutput/SLG/Building/09",
+		"Name": "SLG_SmallBoss_Name",
+		"BuildingDesc": "SLG_SmallBoss_Desc",
+		"DataImpl": {},
+		"ID": 114
+	},
+	{
+		"Type": 3,
+		"Parameter": 5,
+		"Model": "Stage/Stage_Camp_Battle/Stage_Camp_Small_Boos",
+		"SmallIcon": "SpriteOutput/SLG/Building/09",
+		"Name": "SLG_SmallBoss_Name",
+		"BuildingDesc": "SLG_SmallBoss_Desc",
+		"DataImpl": {},
+		"ID": 115
+	},
+	{
+		"Type": 3,
+		"Parameter": 6,
+		"Model": "Stage/Stage_Camp_Battle/Stage_Camp_Small_Boos",
+		"SmallIcon": "SpriteOutput/SLG/Building/09",
+		"Name": "SLG_SmallBoss_Name",
+		"BuildingDesc": "SLG_SmallBoss_Desc",
+		"DataImpl": {},
+		"ID": 116
+	},
+	{
+		"Type": 3,
+		"Parameter": 7,
+		"Model": "Stage/Stage_Camp_Battle/Stage_Camp_Small_Boos",
+		"SmallIcon": "SpriteOutput/SLG/Building/09",
+		"Name": "SLG_SmallBoss_Name",
+		"BuildingDesc": "SLG_SmallBoss_Desc",
+		"DataImpl": {},
+		"ID": 117
+	},
+	{
+		"Type": 3,
+		"Parameter": 8,
+		"Model": "Stage/Stage_Camp_Battle/Stage_Camp_Small_Boos",
+		"SmallIcon": "SpriteOutput/SLG/Building/09",
+		"Name": "SLG_SmallBoss_Name",
+		"BuildingDesc": "SLG_SmallBoss_Desc",
+		"DataImpl": {},
+		"ID": 118
+	},
+	{
+		"Type": 3,
+		"Parameter": 9,
+		"Model": "Stage/Stage_Camp_Battle/Stage_Camp_Small_Boos",
+		"SmallIcon": "SpriteOutput/SLG/Building/09",
+		"Name": "SLG_SmallBoss_Name",
+		"BuildingDesc": "SLG_SmallBoss_Desc",
+		"DataImpl": {},
+		"ID": 119
+	},
+	{
+		"Type": 3,
+		"Parameter": 10,
+		"Model": "Stage/Stage_Camp_Battle/Stage_Camp_Small_Boos",
+		"SmallIcon": "SpriteOutput/SLG/Building/09",
+		"Name": "SLG_SmallBoss_Name",
+		"BuildingDesc": "SLG_SmallBoss_Desc",
+		"DataImpl": {},
+		"ID": 121
+	},
+	{
+		"Type": 3,
+		"Parameter": 11,
+		"Model": "Stage/Stage_Camp_Battle/Stage_Camp_Small_Boos",
+		"SmallIcon": "SpriteOutput/SLG/Building/09",
+		"Name": "SLG_SmallBoss_Name",
+		"BuildingDesc": "SLG_SmallBoss_Desc",
+		"DataImpl": {},
+		"ID": 122
+	},
+	{
+		"Type": 3,
+		"Parameter": 12,
+		"Model": "Stage/Stage_Camp_Battle/Stage_Camp_Small_Boos",
+		"SmallIcon": "SpriteOutput/SLG/Building/09",
+		"Name": "SLG_SmallBoss_Name",
+		"BuildingDesc": "SLG_SmallBoss_Desc",
+		"DataImpl": {},
+		"ID": 123
+	},
+	{
+		"Type": 3,
+		"Parameter": 13,
+		"Model": "Stage/Stage_Camp_Battle/Stage_Camp_Small_Boos",
+		"SmallIcon": "SpriteOutput/SLG/Building/09",
+		"Name": "SLG_SmallBoss_Name",
+		"BuildingDesc": "SLG_SmallBoss_Desc",
+		"DataImpl": {},
+		"ID": 124
+	},
+	{
+		"Type": 3,
+		"Parameter": 14,
+		"Model": "Stage/Stage_Camp_Battle/Stage_Camp_Small_Boos",
+		"SmallIcon": "SpriteOutput/SLG/Building/09",
+		"Name": "SLG_SmallBoss_Name",
+		"BuildingDesc": "SLG_SmallBoss_Desc",
+		"DataImpl": {},
+		"ID": 125
+	},
+	{
+		"Type": 3,
+		"Parameter": 15,
+		"Model": "Stage/Stage_Camp_Battle/Stage_Camp_Small_Boos",
+		"SmallIcon": "SpriteOutput/SLG/Building/09",
+		"Name": "SLG_SmallBoss_Name",
+		"BuildingDesc": "SLG_SmallBoss_Desc",
+		"DataImpl": {},
+		"ID": 126
+	},
+	{
+		"Type": 3,
+		"Parameter": 16,
+		"Model": "Stage/Stage_Camp_Battle/Stage_Camp_Small_Boos",
+		"SmallIcon": "SpriteOutput/SLG/Building/09",
+		"Name": "SLG_SmallBoss_Name",
+		"BuildingDesc": "SLG_SmallBoss_Desc",
+		"DataImpl": {},
+		"ID": 127
+	},
+	{
+		"Type": 3,
+		"Parameter": 17,
+		"Model": "Stage/Stage_Camp_Battle/Stage_Camp_Small_Boos",
+		"SmallIcon": "SpriteOutput/SLG/Building/09",
+		"Name": "SLG_SmallBoss_Name",
+		"BuildingDesc": "SLG_SmallBoss_Desc",
+		"DataImpl": {},
+		"ID": 128
+	},
+	{
+		"Type": 3,
+		"Parameter": 18,
+		"Model": "Stage/Stage_Camp_Battle/Stage_Camp_Small_Boos",
+		"SmallIcon": "SpriteOutput/SLG/Building/09",
+		"Name": "SLG_SmallBoss_Name",
+		"BuildingDesc": "SLG_SmallBoss_Desc",
+		"DataImpl": {},
+		"ID": 129
+	},
+	{
+		"Type": 3,
+		"Parameter": 19,
+		"Model": "Stage/Stage_Camp_Battle/Stage_Camp_Small_Boos",
+		"SmallIcon": "SpriteOutput/SLG/Building/09",
+		"Name": "SLG_SmallBoss_Name",
+		"BuildingDesc": "SLG_SmallBoss_Desc",
+		"DataImpl": {},
+		"ID": 131
+	},
+	{
+		"Type": 3,
+		"Parameter": 20,
+		"Model": "Stage/Stage_Camp_Battle/Stage_Camp_Small_Boos",
+		"SmallIcon": "SpriteOutput/SLG/Building/09",
+		"Name": "SLG_SmallBoss_Name",
+		"BuildingDesc": "SLG_SmallBoss_Desc",
+		"DataImpl": {},
+		"ID": 132
+	},
+	{
+		"Type": 3,
+		"Parameter": 21,
+		"Model": "Stage/Stage_Camp_Battle/Stage_Camp_Small_Boos",
+		"SmallIcon": "SpriteOutput/SLG/Building/09",
+		"Name": "SLG_SmallBoss_Name",
+		"BuildingDesc": "SLG_SmallBoss_Desc",
+		"DataImpl": {},
+		"ID": 133
+	},
+	{
+		"Type": 3,
+		"Parameter": 22,
+		"Model": "Stage/Stage_Camp_Battle/Stage_Camp_Small_Boos",
+		"SmallIcon": "SpriteOutput/SLG/Building/09",
+		"Name": "SLG_SmallBoss_Name",
+		"BuildingDesc": "SLG_SmallBoss_Desc",
+		"DataImpl": {},
+		"ID": 134
+	},
+	{
+		"Type": 3,
+		"Parameter": 23,
+		"Model": "Stage/Stage_Camp_Battle/Stage_Camp_Small_Boos",
+		"SmallIcon": "SpriteOutput/SLG/Building/09",
+		"Name": "SLG_SmallBoss_Name",
+		"BuildingDesc": "SLG_SmallBoss_Desc",
+		"DataImpl": {},
+		"ID": 135
+	},
+	{
+		"Type": 3,
+		"Parameter": 24,
+		"Model": "Stage/Stage_Camp_Battle/Stage_Camp_Small_Boos",
+		"SmallIcon": "SpriteOutput/SLG/Building/09",
+		"Name": "SLG_SmallBoss_Name",
+		"BuildingDesc": "SLG_SmallBoss_Desc",
+		"DataImpl": {},
+		"ID": 136
+	},
+	{
+		"Type": 3,
+		"Parameter": 25,
+		"Model": "Stage/Stage_Camp_Battle/Stage_Camp_Small_Boos",
+		"SmallIcon": "SpriteOutput/SLG/Building/09",
+		"Name": "SLG_SmallBoss_Name",
+		"BuildingDesc": "SLG_SmallBoss_Desc",
+		"DataImpl": {},
+		"ID": 137
+	},
+	{
+		"Type": 3,
+		"Parameter": 26,
+		"Model": "Stage/Stage_Camp_Battle/Stage_Camp_Small_Boos",
+		"SmallIcon": "SpriteOutput/SLG/Building/09",
+		"Name": "SLG_SmallBoss_Name",
+		"BuildingDesc": "SLG_SmallBoss_Desc",
+		"DataImpl": {},
+		"ID": 138
+	},
+	{
+		"Type": 3,
+		"Parameter": 27,
+		"Model": "Stage/Stage_Camp_Battle/Stage_Camp_Small_Boos",
+		"SmallIcon": "SpriteOutput/SLG/Building/09",
+		"Name": "SLG_SmallBoss_Name",
+		"BuildingDesc": "SLG_SmallBoss_Desc",
+		"DataImpl": {},
+		"ID": 139
+	},
+	{
+		"Type": 4,
+		"Parameter": 1,
+		"Model": "Stage/Stage_Camp_Battle/Stage_Camp_Big_Boos",
+		"SmallIcon": "SpriteOutput/SLG/Building/10",
+		"Name": "SLG_Big_Name",
+		"BuildingDesc": "SLG_BigBoss_Desc",
+		"DataImpl": {},
+		"ID": 199
+	},
+	{
+		"Type": 4,
+		"Parameter": 2,
+		"Model": "Stage/Stage_Camp_Battle/Stage_Camp_Big_Boos",
+		"SmallIcon": "SpriteOutput/SLG/Building/10",
+		"Name": "SLG_Big_Name",
+		"BuildingDesc": "SLG_BigBoss_Desc",
+		"DataImpl": {},
+		"ID": 299
+	},
+	{
+		"Type": 4,
+		"Parameter": 3,
+		"Model": "Stage/Stage_Camp_Battle/Stage_Camp_Big_Boos",
+		"SmallIcon": "SpriteOutput/SLG/Building/10",
+		"Name": "SLG_Big_Name",
+		"BuildingDesc": "SLG_BigBoss_Desc",
+		"DataImpl": {},
+		"ID": 399
+	}
+]

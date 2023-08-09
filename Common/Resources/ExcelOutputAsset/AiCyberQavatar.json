@@ -1,0 +1,65 @@
+[
+	{
+		"QAvatarName": {
+			"hash": 1461642757
+		},
+		"QAvatarIcon": "SpriteOutput/Activity/AiCyber/ChibiCardAi01",
+		"QAvatarModel": "Entities/Avatar/Fake_Q_AiChan_CyberSpace_Green/Avatar_Fake_Q_AiChan_CyberSpace_Green_UI",
+		"QAvatarExploreSkillID": [
+			1001
+		],
+		"QAvatarAttackSkillID": [
+			1011,
+			1012,
+			1013,
+			1014
+		],
+		"QAvatarReaction": [],
+		"QAvatarColor": "#D5FF643C",
+		"UnlockConditionList": "2|1727005",
+		"DataImpl": {},
+		"QavatarID": 1
+	},
+	{
+		"QAvatarName": {
+			"hash": 1461642758
+		},
+		"QAvatarIcon": "SpriteOutput/Activity/AiCyber/ChibiCardAi03",
+		"QAvatarModel": "Entities/Avatar/Fake_Q_AiChan_CyberSpace_Red/Avatar_Fake_Q_AiChan_CyberSpace_Red_UI",
+		"QAvatarExploreSkillID": [
+			2001
+		],
+		"QAvatarAttackSkillID": [
+			2011,
+			2012,
+			2013,
+			2014
+		],
+		"QAvatarReaction": [],
+		"QAvatarColor": "#EC55433C",
+		"UnlockConditionList": "2|1727010",
+		"DataImpl": {},
+		"QavatarID": 2
+	},
+	{
+		"QAvatarName": {
+			"hash": 1461642759
+		},
+		"QAvatarIcon": "SpriteOutput/Activity/AiCyber/ChibiCardAi02",
+		"QAvatarModel": "Entities/Avatar/Fake_Q_AiChan_CyberSpace_Grey/Avatar_Fake_Q_AiChan_CyberSpace_Grey_UI",
+		"QAvatarExploreSkillID": [
+			3001
+		],
+		"QAvatarAttackSkillID": [
+			3011,
+			3012,
+			3013,
+			3014
+		],
+		"QAvatarReaction": [],
+		"QAvatarColor": "#A5A5A53C",
+		"UnlockConditionList": "2|1727014",
+		"DataImpl": {},
+		"QavatarID": 3
+	}
+]

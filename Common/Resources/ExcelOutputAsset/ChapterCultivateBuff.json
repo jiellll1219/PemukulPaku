@@ -1,0 +1,563 @@
+[
+	{
+		"ActID": 0,
+		"BuffGoodsID": 716298,
+		"RequireBuffMaterialID": 116621,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_ZP_004",
+		"Name": {
+			"hash": 1403291823
+		},
+		"Desc": {
+			"hash": -1303654987
+		},
+		"RowGroupID": 1,
+		"Phase": 0,
+		"DataImpl": {},
+		"ID": 1,
+		"Level": 1
+	},
+	{
+		"ActID": 0,
+		"BuffGoodsID": 716299,
+		"RequireBuffMaterialID": 116622,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_Weapon_08",
+		"Name": {
+			"hash": 1403291824
+		},
+		"Desc": {
+			"hash": -1303654986
+		},
+		"RowGroupID": 1,
+		"Phase": 0,
+		"DataImpl": {},
+		"ID": 1,
+		"Level": 2
+	},
+	{
+		"ActID": 0,
+		"BuffGoodsID": 716300,
+		"RequireBuffMaterialID": 116623,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Carrier_FlyDown",
+		"Name": {
+			"hash": 1403291825
+		},
+		"Desc": {
+			"hash": -1303654985
+		},
+		"RowGroupID": 1,
+		"Phase": 0,
+		"DataImpl": {},
+		"ID": 1,
+		"Level": 3
+	},
+	{
+		"ActID": 0,
+		"BuffGoodsID": 716301,
+		"RequireBuffMaterialID": 116624,
+		"IconPath": "SpriteOutput/SkillIcons/Skill_Bronya_C7_002",
+		"Name": {
+			"hash": 1403291826
+		},
+		"Desc": {
+			"hash": -1303654984
+		},
+		"RowGroupID": 1,
+		"Phase": 0,
+		"DataImpl": {},
+		"ID": 1,
+		"Level": 4
+	},
+	{
+		"ActID": 0,
+		"BuffGoodsID": 716302,
+		"RequireBuffMaterialID": 116625,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Chat_Lobby_ChangeTarget",
+		"Name": {
+			"hash": 1403291827
+		},
+		"Desc": {
+			"hash": -1303654983
+		},
+		"RowGroupID": 1,
+		"Phase": 0,
+		"DataImpl": {},
+		"ID": 1,
+		"Level": 5
+	},
+	{
+		"ActID": 0,
+		"BuffGoodsID": 716303,
+		"RequireBuffMaterialID": 116626,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_41114",
+		"Name": {
+			"hash": 1404215344
+		},
+		"Desc": {
+			"hash": -1302731466
+		},
+		"RowGroupID": 2,
+		"Phase": 0,
+		"DataImpl": {},
+		"ID": 2,
+		"Level": 1
+	},
+	{
+		"ActID": 0,
+		"BuffGoodsID": 716304,
+		"RequireBuffMaterialID": 116627,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_41115",
+		"Name": {
+			"hash": 1404215345
+		},
+		"Desc": {
+			"hash": -1302731465
+		},
+		"RowGroupID": 2,
+		"Phase": 0,
+		"DataImpl": {},
+		"ID": 2,
+		"Level": 2
+	},
+	{
+		"ActID": 0,
+		"BuffGoodsID": 716305,
+		"RequireBuffMaterialID": 116628,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/HealHP",
+		"Name": {
+			"hash": 1404215346
+		},
+		"Desc": {
+			"hash": -1302731464
+		},
+		"RowGroupID": 2,
+		"Phase": 0,
+		"DataImpl": {},
+		"ID": 2,
+		"Level": 3
+	},
+	{
+		"ActID": 0,
+		"BuffGoodsID": 716306,
+		"RequireBuffMaterialID": 116629,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Restraint",
+		"Name": {
+			"hash": 1404215347
+		},
+		"Desc": {
+			"hash": -1302731463
+		},
+		"RowGroupID": 2,
+		"Phase": 0,
+		"DataImpl": {},
+		"ID": 2,
+		"Level": 4
+	},
+	{
+		"ActID": 0,
+		"BuffGoodsID": 716307,
+		"RequireBuffMaterialID": 116630,
+		"IconPath": "SpriteOutput/SkillIcons/Skill_Seele_QT_004",
+		"Name": {
+			"hash": 1404215348
+		},
+		"Desc": {
+			"hash": -1302731462
+		},
+		"RowGroupID": 2,
+		"Phase": 0,
+		"DataImpl": {},
+		"ID": 2,
+		"Level": 5
+	},
+	{
+		"ActID": 0,
+		"BuffGoodsID": 716308,
+		"RequireBuffMaterialID": 116631,
+		"IconPath": "SpriteOutput/SubSkillIcons/Skill_Nagative_StartUp01",
+		"Name": {
+			"hash": 1405138865
+		},
+		"Desc": {
+			"hash": -1301807945
+		},
+		"RowGroupID": 3,
+		"Phase": 0,
+		"DataImpl": {},
+		"ID": 3,
+		"Level": 1
+	},
+	{
+		"ActID": 0,
+		"BuffGoodsID": 716309,
+		"RequireBuffMaterialID": 116632,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Mei_Skill_A1",
+		"Name": {
+			"hash": 1405138866
+		},
+		"Desc": {
+			"hash": -1301807944
+		},
+		"RowGroupID": 3,
+		"Phase": 0,
+		"DataImpl": {},
+		"ID": 3,
+		"Level": 2
+	},
+	{
+		"ActID": 0,
+		"BuffGoodsID": 716310,
+		"RequireBuffMaterialID": 116633,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Carrier_TakeOff",
+		"Name": {
+			"hash": 1405138867
+		},
+		"Desc": {
+			"hash": -1301807943
+		},
+		"RowGroupID": 3,
+		"Phase": 0,
+		"DataImpl": {},
+		"ID": 3,
+		"Level": 3
+	},
+	{
+		"ActID": 0,
+		"BuffGoodsID": 716311,
+		"RequireBuffMaterialID": 116634,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Damage",
+		"Name": {
+			"hash": 1405138868
+		},
+		"Desc": {
+			"hash": -1301807942
+		},
+		"RowGroupID": 3,
+		"Phase": 0,
+		"DataImpl": {},
+		"ID": 3,
+		"Level": 4
+	},
+	{
+		"ActID": 0,
+		"BuffGoodsID": 716312,
+		"RequireBuffMaterialID": 116635,
+		"IconPath": "SpriteOutput/SkillIcons/Skill_Seele_C2_004",
+		"Name": {
+			"hash": 1405138869
+		},
+		"Desc": {
+			"hash": -1301807941
+		},
+		"RowGroupID": 3,
+		"Phase": 0,
+		"DataImpl": {},
+		"ID": 3,
+		"Level": 5
+	},
+	{
+		"ActID": 2801,
+		"BuffGoodsID": 716503,
+		"RequireBuffMaterialID": 116643,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_Weapon_28",
+		"Name": {
+			"hash": 302435790
+		},
+		"Desc": {
+			"hash": 1676732756
+		},
+		"RowGroupID": 1,
+		"Phase": 0,
+		"DataImpl": {},
+		"ID": 4,
+		"Level": 1
+	},
+	{
+		"ActID": 2801,
+		"BuffGoodsID": 716504,
+		"RequireBuffMaterialID": 116644,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_Weapon_28",
+		"Name": {
+			"hash": 302435791
+		},
+		"Desc": {
+			"hash": 1676732757
+		},
+		"RowGroupID": 1,
+		"Phase": 0,
+		"DataImpl": {},
+		"ID": 4,
+		"Level": 2
+	},
+	{
+		"ActID": 2801,
+		"BuffGoodsID": 716505,
+		"RequireBuffMaterialID": 116645,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_Weapon_28",
+		"Name": {
+			"hash": 302435792
+		},
+		"Desc": {
+			"hash": 1676732758
+		},
+		"RowGroupID": 1,
+		"Phase": 0,
+		"DataImpl": {},
+		"ID": 4,
+		"Level": 3
+	},
+	{
+		"ActID": 2801,
+		"BuffGoodsID": 716506,
+		"RequireBuffMaterialID": 116646,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Infinite_Wrath",
+		"Name": {
+			"hash": -844083473
+		},
+		"Desc": {
+			"hash": 1208565161
+		},
+		"RowGroupID": 2,
+		"Phase": 1,
+		"DataImpl": {},
+		"ID": 5,
+		"Level": 1
+	},
+	{
+		"ActID": 2801,
+		"BuffGoodsID": 716507,
+		"RequireBuffMaterialID": 116647,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Theresa_Weapon_04",
+		"Name": {
+			"hash": -844083472
+		},
+		"Desc": {
+			"hash": 1208565162
+		},
+		"RowGroupID": 2,
+		"Phase": 2,
+		"DataImpl": {},
+		"ID": 6,
+		"Level": 1
+	},
+	{
+		"ActID": 2801,
+		"BuffGoodsID": 716508,
+		"RequireBuffMaterialID": 116648,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Seele_C2_004",
+		"Name": {
+			"hash": -844083471
+		},
+		"Desc": {
+			"hash": 1208565163
+		},
+		"RowGroupID": 2,
+		"Phase": 3,
+		"DataImpl": {},
+		"ID": 7,
+		"Level": 1
+	},
+	{
+		"ActID": 2802,
+		"BuffGoodsID": 716509,
+		"RequireBuffMaterialID": 116649,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_Weapon_28",
+		"Name": {
+			"hash": 303359311
+		},
+		"Desc": {
+			"hash": 1677656277
+		},
+		"RowGroupID": 1,
+		"Phase": 0,
+		"DataImpl": {},
+		"ID": 8,
+		"Level": 1
+	},
+	{
+		"ActID": 2802,
+		"BuffGoodsID": 716510,
+		"RequireBuffMaterialID": 116650,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_Weapon_28",
+		"Name": {
+			"hash": 303359312
+		},
+		"Desc": {
+			"hash": 1677656278
+		},
+		"RowGroupID": 1,
+		"Phase": 0,
+		"DataImpl": {},
+		"ID": 8,
+		"Level": 2
+	},
+	{
+		"ActID": 2802,
+		"BuffGoodsID": 716511,
+		"RequireBuffMaterialID": 116651,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_Weapon_28",
+		"Name": {
+			"hash": 303359313
+		},
+		"Desc": {
+			"hash": 1677656279
+		},
+		"RowGroupID": 1,
+		"Phase": 0,
+		"DataImpl": {},
+		"ID": 8,
+		"Level": 3
+	},
+	{
+		"ActID": 2802,
+		"BuffGoodsID": 716512,
+		"RequireBuffMaterialID": 116652,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Infinite_Wrath",
+		"Name": {
+			"hash": 898726862
+		},
+		"Desc": {
+			"hash": -1343591800
+		},
+		"RowGroupID": 2,
+		"Phase": 1,
+		"DataImpl": {},
+		"ID": 9,
+		"Level": 1
+	},
+	{
+		"ActID": 2802,
+		"BuffGoodsID": 716513,
+		"RequireBuffMaterialID": 116653,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Theresa_Weapon_06",
+		"Name": {
+			"hash": 898726863
+		},
+		"Desc": {
+			"hash": -1343591799
+		},
+		"RowGroupID": 2,
+		"Phase": 2,
+		"DataImpl": {},
+		"ID": 10,
+		"Level": 1
+	},
+	{
+		"ActID": 2802,
+		"BuffGoodsID": 716514,
+		"RequireBuffMaterialID": 116654,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_FK_Artifact01_004",
+		"Name": {
+			"hash": 898726864
+		},
+		"Desc": {
+			"hash": -1343591798
+		},
+		"RowGroupID": 2,
+		"Phase": 3,
+		"DataImpl": {},
+		"ID": 11,
+		"Level": 1
+	},
+	{
+		"ActID": 2803,
+		"BuffGoodsID": 716515,
+		"RequireBuffMaterialID": 116655,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_Weapon_28",
+		"Name": {
+			"hash": 304282832
+		},
+		"Desc": {
+			"hash": 1678579798
+		},
+		"RowGroupID": 1,
+		"Phase": 0,
+		"DataImpl": {},
+		"ID": 12,
+		"Level": 1
+	},
+	{
+		"ActID": 2803,
+		"BuffGoodsID": 716516,
+		"RequireBuffMaterialID": 116656,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_Weapon_28",
+		"Name": {
+			"hash": 304282833
+		},
+		"Desc": {
+			"hash": 1678579799
+		},
+		"RowGroupID": 1,
+		"Phase": 0,
+		"DataImpl": {},
+		"ID": 12,
+		"Level": 2
+	},
+	{
+		"ActID": 2803,
+		"BuffGoodsID": 716517,
+		"RequireBuffMaterialID": 116657,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_Weapon_28",
+		"Name": {
+			"hash": 304282834
+		},
+		"Desc": {
+			"hash": 1678579800
+		},
+		"RowGroupID": 1,
+		"Phase": 0,
+		"DataImpl": {},
+		"ID": 12,
+		"Level": 3
+	},
+	{
+		"ActID": 2803,
+		"BuffGoodsID": 716518,
+		"RequireBuffMaterialID": 116658,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Infinite_Wrath",
+		"Name": {
+			"hash": -1653430099
+		},
+		"Desc": {
+			"hash": 399218535
+		},
+		"RowGroupID": 2,
+		"Phase": 1,
+		"DataImpl": {},
+		"ID": 13,
+		"Level": 1
+	},
+	{
+		"ActID": 2803,
+		"BuffGoodsID": 716519,
+		"RequireBuffMaterialID": 116659,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_Weapon_08",
+		"Name": {
+			"hash": -1653430098
+		},
+		"Desc": {
+			"hash": 399218536
+		},
+		"RowGroupID": 2,
+		"Phase": 2,
+		"DataImpl": {},
+		"ID": 14,
+		"Level": 1
+	},
+	{
+		"ActID": 2803,
+		"BuffGoodsID": 716520,
+		"RequireBuffMaterialID": 116660,
+		"IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Carrier_FlyDown",
+		"Name": {
+			"hash": -1653430097
+		},
+		"Desc": {
+			"hash": 399218537
+		},
+		"RowGroupID": 2,
+		"Phase": 3,
+		"DataImpl": {},
+		"ID": 15,
+		"Level": 1
+	}
+]

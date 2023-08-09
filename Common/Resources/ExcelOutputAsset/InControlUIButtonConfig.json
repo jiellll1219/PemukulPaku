@@ -1,0 +1,1162 @@
+[
+	{
+		"buttonPath": "Canvas2D/RootPage/AvatarBtns/0",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "ChapterOWExUIPageContextV3",
+		"playerActionName": "ChapterOWKeySwapAvatar1"
+	},
+	{
+		"buttonPath": "Canvas2D/RootPage/AvatarBtns/1",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "ChapterOWExUIPageContextV3",
+		"playerActionName": "ChapterOWKeySwapAvatar2"
+	},
+	{
+		"buttonPath": "Canvas2D/RootPage/BackBtn/Btn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "ChapterOWExUIPageContextV3",
+		"playerActionName": "General_Back"
+	},
+	{
+		"buttonPath": "",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": true,
+		"DataImpl": {},
+		"contextName": "ChapterOWExUIPageContextV3",
+		"playerActionName": "Interact_Confirm"
+	},
+	{
+		"buttonPath": "",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": true,
+		"DataImpl": {},
+		"contextName": "ChapterOWExUIPageContextV3",
+		"playerActionName": "Interact_Down"
+	},
+	{
+		"buttonPath": "",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": true,
+		"DataImpl": {},
+		"contextName": "ChapterOWExUIPageContextV3",
+		"playerActionName": "Joystick_Release_ChapterMoon"
+	},
+	{
+		"buttonPath": "Dialog/Content/Btn/QTE",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "ChapterOWQTEDialogContext",
+		"playerActionName": "Total_CANCEL"
+	},
+	{
+		"buttonPath": "Dialog/Content/Btn/Analysis",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "ChapterOWQTEDialogContext",
+		"playerActionName": "Total_OTHER2"
+	},
+	{
+		"buttonPath": "BackBtn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "ChatLobbyBarWidgetContext",
+		"playerActionName": "General_Back"
+	},
+	{
+		"buttonPath": "Content/QuitBtn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "ChatLobbyCinemaPageContext",
+		"playerActionName": "General_Back"
+	},
+	{
+		"buttonPath": "Btns/CancelBtn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "ChatLobbyLanternPageContext",
+		"playerActionName": "ChatLobby_LANTERNBACK"
+	},
+	{
+		"buttonPath": "Btns/FishBtn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "ChatLobbyLanternPageContext",
+		"playerActionName": "ChatLobby_MAKELANTERN"
+	},
+	{
+		"buttonPath": "InputController/Jump/Scale/Button",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "ChatLobbyMainPageContext",
+		"playerActionName": "ChatLobby_JUMP"
+	},
+	{
+		"buttonPath": "",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": true,
+		"DataImpl": {},
+		"contextName": "ChatLobbyMainPageContext",
+		"playerActionName": "Interact_Confirm"
+	},
+	{
+		"buttonPath": "",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": true,
+		"DataImpl": {},
+		"contextName": "ChatLobbyMainPageContext",
+		"playerActionName": "Interact_Down"
+	},
+	{
+		"buttonPath": "Content/ActionBtn/Scale/Button",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "ChatLobbyWoodenBoyPageContext",
+		"playerActionName": "ChatLobby_Pause"
+	},
+	{
+		"buttonPath": "Content/QuitBtn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "ChatLobbyWoodenBoyPageContext",
+		"playerActionName": "General_Back"
+	},
+	{
+		"buttonPath": "Canvas2D/RootPage/BackBtn/Button",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "DLC2MainPageContext",
+		"playerActionName": "General_Back"
+	},
+	{
+		"buttonPath": "",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": true,
+		"DataImpl": {},
+		"contextName": "DLC2MainPageContext",
+		"playerActionName": "Interact_Confirm"
+	},
+	{
+		"buttonPath": "",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": true,
+		"DataImpl": {},
+		"contextName": "DLC2MainPageContext",
+		"playerActionName": "Interact_Down"
+	},
+	{
+		"buttonPath": "",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": true,
+		"DataImpl": {},
+		"contextName": "DLC2MainPageContext",
+		"playerActionName": "Joystick_Release"
+	},
+	{
+		"buttonPath": "Panel/LeftBtn/HideShowBtn",
+		"KeyTipsType": 0,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "DLCEventCanvasContext",
+		"playerActionName": "DLCEventDisplay_HideShow"
+	},
+	{
+		"buttonPath": "Panel/RightBtn/SkipBtn",
+		"KeyTipsType": 0,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "DLCEventCanvasContext",
+		"playerActionName": "DLCEventDisplay_Skip"
+	},
+	{
+		"buttonPath": "BackBtn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "DormitoryBarWidgetContext",
+		"playerActionName": "General_Back"
+	},
+	{
+		"buttonPath": "Anim_DormMainPage/Control/Btn_1/ControlBtn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "DormitoryMainPageContext",
+		"playerActionName": "General_Ensure"
+	},
+	{
+		"buttonPath": "InputController/Jump/Button",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "DormitoryOperationPageContext",
+		"playerActionName": "ATK"
+	},
+	{
+		"buttonPath": "InputController/Interactive/Button",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "DormitoryOperationPageContext",
+		"playerActionName": "SKL_WEAPON"
+	},
+	{
+		"buttonPath": "Panel/LeftBtn/HideShowBtn",
+		"KeyTipsType": 0,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "EventDialogContext",
+		"playerActionName": "EventDialog_HideShowBtn"
+	},
+	{
+		"buttonPath": "Panel/RightBtn/SkipBtn",
+		"KeyTipsType": 0,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "EventDialogContext",
+		"playerActionName": "EventDialog_SkipBtn"
+	},
+	{
+		"buttonPath": "Dialog/Content/DoubleButton/CancelBtn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "EventSkipConfirmDialogContext",
+		"playerActionName": "Total_CANCEL"
+	},
+	{
+		"buttonPath": "Dialog/Content/DoubleButton/ExitBtn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "EventSkipConfirmDialogContext",
+		"playerActionName": "Total_CANCEL_2"
+	},
+	{
+		"buttonPath": "Dialog/Content/DoubleButton/OKBtn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "EventSkipConfirmDialogContext",
+		"playerActionName": "Total_OK"
+	},
+	{
+		"buttonPath": "Dialog/Content/DoubleButton/NoBtn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "EventSkipConfirmDialogContext",
+		"playerActionName": "Total_OK_2"
+	},
+	{
+		"buttonPath": "Panel/LeftBtn/HideShowBtn",
+		"KeyTipsType": 0,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "FixedPlotDialogContext",
+		"playerActionName": "FixedPlotEventDisplay_HideShow"
+	},
+	{
+		"buttonPath": "Panel/RightBtn/SkipBtn",
+		"KeyTipsType": 0,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "FixedPlotDialogContext",
+		"playerActionName": "FixedPlotEventDisplay_Skip"
+	},
+	{
+		"buttonPath": "Dialog/Content/DoubleButton/CancelBtn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "GeneralDialogContext",
+		"playerActionName": "Total_CANCEL"
+	},
+	{
+		"buttonPath": "Dialog/Content/DoubleButton/ExitBtn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "GeneralDialogContext",
+		"playerActionName": "Total_CANCEL_2"
+	},
+	{
+		"buttonPath": "Dialog/Content/DoubleButton/OKBtn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "GeneralDialogContext",
+		"playerActionName": "Total_OK"
+	},
+	{
+		"buttonPath": "Dialog/Content/DoubleButton/NoBtn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "GeneralDialogContext",
+		"playerActionName": "Total_OK_2"
+	},
+	{
+		"buttonPath": "Dialog/Content/SingleButton/Btn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "GeneralDialogContext",
+		"playerActionName": "Total_OK_3"
+	},
+	{
+		"buttonPath": "Dialog/Content/DoubleButton/CancelBtn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "GeneralDialogInLevelContext",
+		"playerActionName": "Total_CANCEL"
+	},
+	{
+		"buttonPath": "Dialog/Content/DoubleButton/OKBtn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "GeneralDialogInLevelContext",
+		"playerActionName": "Total_OK"
+	},
+	{
+		"buttonPath": "Dialog/Content/SingleButton/Btn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "GeneralDialogInLevelContext",
+		"playerActionName": "Total_OK_7"
+	},
+	{
+		"buttonPath": "Dialog/BackBtn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "GodWarAvatarTrialPageContext",
+		"playerActionName": "General_Back"
+	},
+	{
+		"buttonPath": "Dialog/Buttons/Bottom/RefreshBtn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "GodWarBuffSelectDialogContext",
+		"playerActionName": "Total_CANCEL"
+	},
+	{
+		"buttonPath": "Dialog/Buttons/Bottom/ConfirmBtn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "GodWarBuffSelectDialogContext",
+		"playerActionName": "Total_OK"
+	},
+	{
+		"buttonPath": "Dialog/Buttons/Bottom/BuffListBtn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "GodWarBuffSelectDialogContext",
+		"playerActionName": "Total_OTHER2"
+	},
+	{
+		"buttonPath": "Dialog/Content/BuffList/ScrollView/Content/0",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "GodWarBuffSelectDialogContext",
+		"playerActionName": "Total_SELECT1"
+	},
+	{
+		"buttonPath": "Dialog/Content/BuffList/ScrollView/Content/1",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "GodWarBuffSelectDialogContext",
+		"playerActionName": "Total_SELECT2"
+	},
+	{
+		"buttonPath": "Dialog/Content/BuffList/ScrollView/Content/2",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "GodWarBuffSelectDialogContext",
+		"playerActionName": "Total_SELECT3"
+	},
+	{
+		"buttonPath": "BackBtn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "GodWarChapterSelectPageContext",
+		"playerActionName": "General_Back"
+	},
+	{
+		"buttonPath": "Dialog/BtnStart",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "GodWarInLevelGuideDialogContext",
+		"playerActionName": "Total_OK_5"
+	},
+	{
+		"buttonPath": "Content/Actions/WindUpBtn/Button",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "GodWarLevelEndPageContext",
+		"playerActionName": "Total_OK_6"
+	},
+	{
+		"buttonPath": "Content/Actions/ChallengeAgainBtn/Button",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "GodWarLevelEndPageContext",
+		"playerActionName": "Total_OTHER1_3"
+	},
+	{
+		"buttonPath": "Canvas2D/Pages/GeneralAvatarActivityPage/Share/BackBtnColor6",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "GodWarMainPageContext",
+		"playerActionName": "General_Back"
+	},
+	{
+		"buttonPath": "Canvas2D/Pages/GeneralAvatarActivityPage/MainPage/Menu/QuickStart",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "GodWarMainPageContext",
+		"playerActionName": "GodWar_QuickStart"
+	},
+	{
+		"buttonPath": "",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": true,
+		"DataImpl": {},
+		"contextName": "GodWarMainPageContext",
+		"playerActionName": "Interact_Confirm"
+	},
+	{
+		"buttonPath": "",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": true,
+		"DataImpl": {},
+		"contextName": "GodWarMainPageContext",
+		"playerActionName": "Interact_Down"
+	},
+	{
+		"buttonPath": "",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": true,
+		"DataImpl": {},
+		"contextName": "GodWarMainPageContext",
+		"playerActionName": "Joystick_Release"
+	},
+	{
+		"buttonPath": "",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": true,
+		"DataImpl": {},
+		"contextName": "GodWarMainPageContext",
+		"playerActionName": "Joystick_Release_1"
+	},
+	{
+		"buttonPath": "BackBtn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "GodWarPunishPageContext",
+		"playerActionName": "General_Back"
+	},
+	{
+		"buttonPath": "Content/BackBtn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "GodWarWeeklyChallengePageContext",
+		"playerActionName": "General_Back"
+	},
+	{
+		"buttonPath": "Dialog/Content/ActionBtns/GiveUp",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "InLevelDLC2ReviveDialogContext",
+		"playerActionName": "Total_CANCEL"
+	},
+	{
+		"buttonPath": "Dialog/Content/ActionBtns/OK",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "InLevelDLC2ReviveDialogContext",
+		"playerActionName": "Total_OK"
+	},
+	{
+		"buttonPath": "Dialog/Content/DLCActionBtns/GiveUp",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "InLevelDLCReviveDialogContext",
+		"playerActionName": "Total_CANCEL"
+	},
+	{
+		"buttonPath": "Dialog/Content/DLCActionBtns/OK",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "InLevelDLCReviveDialogContext",
+		"playerActionName": "Total_OK"
+	},
+	{
+		"buttonPath": "Panel/LeftBtn/HideShowBtn",
+		"KeyTipsType": 0,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "InLevelEventDialogContext",
+		"playerActionName": "EventDialog_HideShowBtn"
+	},
+	{
+		"buttonPath": "Panel/RightBtn/SkipBtn",
+		"KeyTipsType": 0,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "InLevelEventDialogContext",
+		"playerActionName": "EventDialog_SkipBtn"
+	},
+	{
+		"buttonPath": "Dialog/Content/ActionBtns/GiveUp",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "InLevelGiveUpConfirmDialogContext",
+		"playerActionName": "Total_CANCEL"
+	},
+	{
+		"buttonPath": "Dialog/Content/ActionBtns/Think",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "InLevelGiveUpConfirmDialogContext",
+		"playerActionName": "Total_OK"
+	},
+	{
+		"buttonPath": "",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "InLevelMainPageContext",
+		"playerActionName": "ChapterOW_JUMP"
+	},
+	{
+		"buttonPath": "FuncBtns/MapBtn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "InLevelMainPageContext",
+		"playerActionName": "ChapterOW_Map_Btn"
+	},
+	{
+		"buttonPath": "",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": true,
+		"DataImpl": {},
+		"contextName": "InLevelMainPageContext",
+		"playerActionName": "ChapterOW_Moon_MK2_Interact"
+	},
+	{
+		"buttonPath": "",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": true,
+		"DataImpl": {},
+		"contextName": "InLevelMainPageContext",
+		"playerActionName": "ChapterOW_Moon_MK2_Utra"
+	},
+	{
+		"buttonPath": "CommonGuide/BtnGuide",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "InLevelMainPageContext",
+		"playerActionName": "ChapterOW_PicGuide"
+	},
+	{
+		"buttonPath": "InLevelHyperionPlaneMainPanel/Content/BackBtn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "InLevelMainPageContext",
+		"playerActionName": "HyperionPauseBtn"
+	},
+	{
+		"buttonPath": "SkillTutorialBtn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "InLevelMainPageContext",
+		"playerActionName": "InLevelMainPage_SkillTutorial"
+	},
+	{
+		"buttonPath": "",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": true,
+		"DataImpl": {},
+		"contextName": "InLevelMainPageContext",
+		"playerActionName": "Interact_Confirm"
+	},
+	{
+		"buttonPath": "",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": true,
+		"DataImpl": {},
+		"contextName": "InLevelMainPageContext",
+		"playerActionName": "Interact_Down"
+	},
+	{
+		"buttonPath": "TeamContainer/MPButtons/BreakOutButton/Button",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "InLevelMainPageContext",
+		"playerActionName": "MP_BreakOut"
+	},
+	{
+		"buttonPath": "FuncBtns/PauseBtn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "InLevelMainPageContext",
+		"playerActionName": "PauseBtn"
+	},
+	{
+		"buttonPath": "Pages/InLevelMainPage/InLevelRpgQShootInfo/QCandyBattlePage/Inlevel/ExpressionBtn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "InLevelMainPageContext",
+		"playerActionName": "Qcandy_Emoji"
+	},
+	{
+		"buttonPath": "Pages/InLevelMainPage/InLevelRpgQShootInfo/QCandyBattlePage/Inlevel/ExpressionBtn/Extend/01",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "InLevelMainPageContext",
+		"playerActionName": "Qcandy_Emoji_01"
+	},
+	{
+		"buttonPath": "Pages/InLevelMainPage/InLevelRpgQShootInfo/QCandyBattlePage/Inlevel/ExpressionBtn/Extend/02",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "InLevelMainPageContext",
+		"playerActionName": "Qcandy_Emoji_02"
+	},
+	{
+		"buttonPath": "Pages/InLevelMainPage/InLevelRpgQShootInfo/QCandyBattlePage/Inlevel/ExpressionBtn/Extend/03",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "InLevelMainPageContext",
+		"playerActionName": "Qcandy_Emoji_03"
+	},
+	{
+		"buttonPath": "Pages/InLevelMainPage/InLevelRpgQShootInfo/QCandyBattlePage/Inlevel/ExpressionBtn/Extend/04",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "InLevelMainPageContext",
+		"playerActionName": "Qcandy_Emoji_04"
+	},
+	{
+		"buttonPath": "TVTContainer/TVTContainer/TVTButtons/SkillButton_TVTCard",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "InLevelMainPageContext",
+		"playerActionName": "SKL_CUSTOM"
+	},
+	{
+		"buttonPath": "FuncBtns/ScreenshotBtn",
+		"KeyTipsType": 0,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "InLevelMainPageContext",
+		"playerActionName": "Screenshot"
+	},
+	{
+		"buttonPath": "ViewPointTouch/TouchPanel",
+		"KeyTipsType": 0,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "InLevelMainPageContext",
+		"playerActionName": "SetRotateToFaceDirection"
+	},
+	{
+		"buttonPath": "Pages/InLevelMainPage/InputController/CustomButtons/SkillButtonSelect/ChangeSkillBtn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "InLevelMainPageContext",
+		"playerActionName": "SwithSkill"
+	},
+	{
+		"buttonPath": "Dialog/Content/ActionBtns/GiveUp",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "InLevelOpenWorldGiveUpConfirmDialogContext",
+		"playerActionName": "Total_CANCEL"
+	},
+	{
+		"buttonPath": "Dialog/Content/ActionBtns/Think",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "InLevelOpenWorldGiveUpConfirmDialogContext",
+		"playerActionName": "Total_OK"
+	},
+	{
+		"buttonPath": "Dialog/CloseBtn",
+		"KeyTipsType": 2,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "InLevelPauseDialogContext",
+		"playerActionName": "General_Back"
+	},
+	{
+		"buttonPath": "Dialog/StatusTab/Content/ActionBtns/SurrenderBtn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "InLevelPauseDialogContext",
+		"playerActionName": "Total_CANCEL"
+	},
+	{
+		"buttonPath": "Dialog/MapTab/ActionBtns/SaveAndQuitBtn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "InLevelPauseDialogContext",
+		"playerActionName": "Total_CANCEL_2"
+	},
+	{
+		"buttonPath": "Dialog/StatusTab/Content/ActionBtns/ContinueBtn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "InLevelPauseDialogContext",
+		"playerActionName": "Total_OK"
+	},
+	{
+		"buttonPath": "Dialog/MapTab/ActionBtns/ContinueBtn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "InLevelPauseDialogContext",
+		"playerActionName": "Total_OK_2"
+	},
+	{
+		"buttonPath": "Dialog/StatusTab/Content/ActionBtns/RestartBtn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "InLevelPauseDialogContext",
+		"playerActionName": "Total_OTHER1"
+	},
+	{
+		"buttonPath": "Dialog/StatusTab/Content/ActionBtns/GiveUpSettlementBtn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "InLevelPauseDialogContext",
+		"playerActionName": "Total_OTHER2"
+	},
+	{
+		"buttonPath": "Dialog/CloseBtn",
+		"KeyTipsType": 2,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "InLevelPauseOpenWorldDialogContext",
+		"playerActionName": "General_Back"
+	},
+	{
+		"buttonPath": "Dialog/MapTab/ActionBtns/SaveAndQuitBtn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "InLevelPauseOpenWorldDialogContext",
+		"playerActionName": "Total_CANCEL"
+	},
+	{
+		"buttonPath": "Dialog/MapTab/ActionBtns/ContinueBtn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "InLevelPauseOpenWorldDialogContext",
+		"playerActionName": "Total_OK"
+	},
+	{
+		"buttonPath": "PlotDialog/Button",
+		"KeyTipsType": 0,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "InLevelPlotPageContext",
+		"playerActionName": "Plot_Click_Skip"
+	},
+	{
+		"buttonPath": "",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": true,
+		"DataImpl": {},
+		"contextName": "InLevelQTEWidget",
+		"playerActionName": "Level_Susanna_Game_A"
+	},
+	{
+		"buttonPath": "",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": true,
+		"DataImpl": {},
+		"contextName": "InLevelQTEWidget",
+		"playerActionName": "Level_Susanna_Game_D"
+	},
+	{
+		"buttonPath": "",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": true,
+		"DataImpl": {},
+		"contextName": "InLevelQTEWidget",
+		"playerActionName": "Level_Susanna_Game_I"
+	},
+	{
+		"buttonPath": "",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": true,
+		"DataImpl": {},
+		"contextName": "InLevelQTEWidget",
+		"playerActionName": "Level_Susanna_Game_J"
+	},
+	{
+		"buttonPath": "",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": true,
+		"DataImpl": {},
+		"contextName": "InLevelQTEWidget",
+		"playerActionName": "Level_Susanna_Game_K"
+	},
+	{
+		"buttonPath": "",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": true,
+		"DataImpl": {},
+		"contextName": "InLevelQTEWidget",
+		"playerActionName": "Level_Susanna_Game_L"
+	},
+	{
+		"buttonPath": "",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": true,
+		"DataImpl": {},
+		"contextName": "InLevelQTEWidget",
+		"playerActionName": "Level_Susanna_Game_S"
+	},
+	{
+		"buttonPath": "",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": true,
+		"DataImpl": {},
+		"contextName": "InLevelQTEWidget",
+		"playerActionName": "Level_Susanna_Game_W"
+	},
+	{
+		"buttonPath": "Dialog/Content/ActionBtns/GiveUp",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "InLevelReviveConfirmDialogContext",
+		"playerActionName": "Total_CANCEL"
+	},
+	{
+		"buttonPath": "Dialog/Content/ActionBtns/OK",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "InLevelReviveConfirmDialogContext",
+		"playerActionName": "Total_OK"
+	},
+	{
+		"buttonPath": "Dialog/Content/ActionBtns/GiveUp",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "InLevelReviveDialogContext",
+		"playerActionName": "Total_CANCEL"
+	},
+	{
+		"buttonPath": "Dialog/Content/ActionBtns/OK",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "InLevelReviveDialogContext",
+		"playerActionName": "Total_OK"
+	},
+	{
+		"buttonPath": "Skip",
+		"KeyTipsType": 0,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "InLevelVideoTutorialDialogContext",
+		"playerActionName": "VideoTutorial_Skip"
+	},
+	{
+		"buttonPath": "PrepareBar/PrepareBar/MpPreparePanel/MpPreparePanel/CreateRoomBtn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "LevelDetailDialogContextV2",
+		"playerActionName": "Total_CANCEL"
+	},
+	{
+		"buttonPath": "PrepareBar/PrepareBar/PreparePanel/PreparePanel/Btn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "LevelDetailDialogContextV2",
+		"playerActionName": "Total_OK"
+	},
+	{
+		"buttonPath": "PrepareBar/PrepareBar/MpPreparePanel/MpPreparePanel/QuickJoinBtn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "LevelDetailDialogContextV2",
+		"playerActionName": "Total_OK_2"
+	},
+	{
+		"buttonPath": "PrepareBar/PrepareBar/MpPreparePanel/MpPreparePanel/TeamCreateRoomBtn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "LevelDetailDialogContextV2",
+		"playerActionName": "Total_OK_3"
+	},
+	{
+		"buttonPath": "PrepareBar/PrepareBar/MpPreparePanel/MpPreparePanel/OnlyShowInfoOKBtn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "LevelDetailDialogContextV2",
+		"playerActionName": "Total_OK_4"
+	},
+	{
+		"buttonPath": "LosePanel/ExitBtn/Button",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "LevelEndPageContext",
+		"playerActionName": "Total_CANCEL"
+	},
+	{
+		"buttonPath": "WinPanel/Actions/BackBtn/Button",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "LevelEndPageContext",
+		"playerActionName": "Total_OK"
+	},
+	{
+		"buttonPath": "WinPanel/Actions/ExitBtn/Button",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "LevelEndPageContext",
+		"playerActionName": "Total_OK_2"
+	},
+	{
+		"buttonPath": "WinPanel/Actions/SindemonSettlementBtn/Button",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "LevelEndPageContext",
+		"playerActionName": "Total_OK_3"
+	},
+	{
+		"buttonPath": "LosePanel/RestartBtn/Button",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "LevelEndPageContext",
+		"playerActionName": "Total_OTHER1"
+	},
+	{
+		"buttonPath": "WinPanel/Actions/RestartBtn/Button",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "LevelEndPageContext",
+		"playerActionName": "Total_OTHER1_2"
+	},
+	{
+		"buttonPath": "WinPanel/Actions/SindemonAgainBtn/Button",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "LevelEndPageContext",
+		"playerActionName": "Total_OTHER1_3"
+	},
+	{
+		"buttonPath": "WinPanel/Actions/ContinueBtn/Button",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "LevelEndPageContext",
+		"playerActionName": "Total_OTHER2"
+	},
+	{
+		"buttonPath": "Btn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "LevelPreparePageContext",
+		"playerActionName": "Total_OK"
+	},
+	{
+		"buttonPath": "RewardPanel/OKBtn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "LevelResultDialogContext",
+		"playerActionName": "Total_OK"
+	},
+	{
+		"buttonPath": "Mask",
+		"KeyTipsType": 0,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "NewbieDialogContext",
+		"playerActionName": "AnyButton"
+	},
+	{
+		"buttonPath": "Canvas2D/Pages/GeneralAvatarActivityPage/Share/BackBtnColor6",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "OWAvatarExUIPageContext",
+		"playerActionName": "General_Back"
+	},
+	{
+		"buttonPath": "Btn",
+		"KeyTipsType": 0,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "OWEndlessFinishMonsterGroupDialogContext",
+		"playerActionName": "ATK"
+	},
+	{
+		"buttonPath": "Dialog/CloseBtn",
+		"KeyTipsType": 2,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "OpenWorldMissionDetailDialogContext",
+		"playerActionName": "General_Back"
+	},
+	{
+		"buttonPath": "@BuffList/0/@Status/@Active",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "PlatformBuffSelectionDialog",
+		"playerActionName": "QPlat_SELECT1"
+	},
+	{
+		"buttonPath": "@BuffList/1/@Status/@Active",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "PlatformBuffSelectionDialog",
+		"playerActionName": "QPlat_SELECT2"
+	},
+	{
+		"buttonPath": "@BuffList/2/@Status/@Active",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "PlatformBuffSelectionDialog",
+		"playerActionName": "QPlat_SELECT3"
+	},
+	{
+		"buttonPath": "BottomPanel/@SelctBtn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "PlatformBuffSelectionDialog",
+		"playerActionName": "Total_OK"
+	},
+	{
+		"buttonPath": "ActionBtns/BackBtn",
+		"KeyTipsType": 2,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "PlayerStatusWidgetContext",
+		"playerActionName": "General_Back"
+	},
+	{
+		"buttonPath": "ActionBtns/MainMenuBtn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "PlayerStatusWidgetContext",
+		"playerActionName": "MainMenu"
+	},
+	{
+		"buttonPath": "OperationTab/Content/TipsPanel/Content/CloseBtn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "SettingPageContext",
+		"playerActionName": "General_Cancel"
+	},
+	{
+		"buttonPath": "Dialog/Content/OKBtn",
+		"KeyTipsType": 1,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "SinDemonExResultDialogContext",
+		"playerActionName": "Total_OK"
+	},
+	{
+		"buttonPath": "",
+		"KeyTipsType": 0,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "VideoDisplayDialogContext",
+		"playerActionName": "VideoDisplay_BG"
+	},
+	{
+		"buttonPath": "SkipBtn",
+		"KeyTipsType": 0,
+		"isDynamicallyLoaded": false,
+		"DataImpl": {},
+		"contextName": "VideoDisplayDialogContext",
+		"playerActionName": "VideoDisplay_Skip"
+	}
+]

@@ -1,0 +1,286 @@
+[
+	{
+		"PrefabPath": "Entities/PropObject/NPC/Standalone_NPC_Elf_12/NPC_Elf_12_UINPC",
+		"PrefabScale": 1,
+		"IsNeedLookAtPosition": 0,
+		"conditionList": [
+			{
+				"conditionID": 2401,
+				"stateID": 2021
+			},
+			{
+				"conditionID": 2055,
+				"stateID": 2022
+			}
+		],
+		"NPCHeadMark": [
+			{
+				"conditionID": 2400,
+				"stateID": 2
+			},
+			{
+				"conditionID": 4500,
+				"stateID": 3
+			}
+		],
+		"NPCHeadMarkOffsetPosition": [
+			0,
+			2,
+			0
+		],
+		"MainStoryIDList": [],
+		"BranchStoryIDList": [
+			410906,
+			422101,
+			422201,
+			450102,
+			450107,
+			450404
+		],
+		"DataImpl": {},
+		"ID": 1
+	},
+	{
+		"PrefabPath": "Entities/PropObject/NPC/Standalone_NPC_Gray/NPC_Gray_UINPC",
+		"PrefabScale": 1,
+		"IsNeedLookAtPosition": 1,
+		"conditionList": [
+			{
+				"conditionID": 7001,
+				"stateID": 2030
+			},
+			{
+				"conditionID": 2032,
+				"stateID": 2031
+			}
+		],
+		"NPCHeadMark": [
+			{
+				"conditionID": 2500,
+				"stateID": 2
+			},
+			{
+				"conditionID": 4400,
+				"stateID": 3
+			}
+		],
+		"NPCHeadMarkOffsetPosition": [
+			0,
+			3,
+			0
+		],
+		"MainStoryIDList": [],
+		"BranchStoryIDList": [
+			450204,
+			450305
+		],
+		"DataImpl": {},
+		"ID": 2
+	},
+	{
+		"PrefabPath": "Entities/PropObject/NPC/Standalone_NPC_TitanRaven/NPC_TitanRaven_UINPC",
+		"PrefabScale": 1,
+		"IsNeedLookAtPosition": 0,
+		"conditionList": [
+			{
+				"conditionID": 2054,
+				"stateID": 2041
+			}
+		],
+		"NPCHeadMark": [
+			{
+				"conditionID": 4300,
+				"stateID": 3
+			}
+		],
+		"NPCHeadMarkOffsetPosition": [
+			0,
+			2,
+			0
+		],
+		"MainStoryIDList": [],
+		"BranchStoryIDList": [],
+		"DataImpl": {},
+		"ID": 3
+	},
+	{
+		"PrefabPath": "Entities/PropObject/NPC/Standalone_NPC_Hobo/NPC_Hobo_Recovery_UINPC",
+		"PrefabScale": 1,
+		"IsNeedLookAtPosition": 1,
+		"conditionList": [
+			{
+				"conditionID": 2034,
+				"stateID": 2011
+			},
+			{
+				"conditionID": 2001,
+				"stateID": 2012
+			},
+			{
+				"conditionID": 2002,
+				"stateID": 2013
+			},
+			{
+				"conditionID": 2003,
+				"stateID": 2014
+			},
+			{
+				"conditionID": 2004,
+				"stateID": 2015
+			},
+			{
+				"conditionID": 2005,
+				"stateID": 2016
+			},
+			{
+				"conditionID": 2052,
+				"stateID": 2016
+			}
+		],
+		"NPCHeadMark": [
+			{
+				"conditionID": 2001,
+				"stateID": 1
+			},
+			{
+				"conditionID": 2200,
+				"stateID": 2
+			},
+			{
+				"conditionID": 4100,
+				"stateID": 3
+			}
+		],
+		"NPCHeadMarkOffsetPosition": [
+			0,
+			2,
+			0
+		],
+		"MainStoryIDList": [
+			401006
+		],
+		"BranchStoryIDList": [
+			410201,
+			410301,
+			410306,
+			410501,
+			410801,
+			450201,
+			452301
+		],
+		"DataImpl": {},
+		"ID": 4
+	},
+	{
+		"PrefabPath": "Entities/PropObject/NPC/Standalone_NPC_General/NPC_ChildLyle_UINPC",
+		"PrefabScale": 1,
+		"IsNeedLookAtPosition": 1,
+		"conditionList": [
+			{
+				"conditionID": 2053,
+				"stateID": 2051
+			}
+		],
+		"NPCHeadMark": [
+			{
+				"conditionID": 2300,
+				"stateID": 2
+			},
+			{
+				"conditionID": 4200,
+				"stateID": 3
+			}
+		],
+		"NPCHeadMarkOffsetPosition": [
+			0,
+			2,
+			0
+		],
+		"MainStoryIDList": [],
+		"BranchStoryIDList": [
+			410701,
+			421101,
+			421201
+		],
+		"DataImpl": {},
+		"ID": 5
+	},
+	{
+		"PrefabPath": "Entities/PropObject/NPC/Standalone_NPC_General/UINPC_General_Woman",
+		"PrefabScale": 1,
+		"IsNeedLookAtPosition": 1,
+		"conditionList": [
+			{
+				"conditionID": 1,
+				"stateID": 2
+			}
+		],
+		"NPCHeadMark": [
+			{
+				"conditionID": 0,
+				"stateID": 0
+			}
+		],
+		"NPCHeadMarkOffsetPosition": [
+			0,
+			2,
+			0
+		],
+		"MainStoryIDList": [],
+		"BranchStoryIDList": [],
+		"DataImpl": {},
+		"ID": 6
+	},
+	{
+		"PrefabPath": "Entities/PropObject/NPC/Standalone_NPC_General/UINPC_General_Man_BlackSuit",
+		"PrefabScale": 1,
+		"IsNeedLookAtPosition": 1,
+		"conditionList": [
+			{
+				"conditionID": 1,
+				"stateID": 3
+			}
+		],
+		"NPCHeadMark": [
+			{
+				"conditionID": 0,
+				"stateID": 0
+			}
+		],
+		"NPCHeadMarkOffsetPosition": [
+			0,
+			2,
+			0
+		],
+		"MainStoryIDList": [],
+		"BranchStoryIDList": [],
+		"DataImpl": {},
+		"ID": 7
+	},
+	{
+		"PrefabPath": "Entities/PropObject/NPC/Standalone_NPC_General/UINPC_General_Boy",
+		"PrefabScale": 1,
+		"IsNeedLookAtPosition": 1,
+		"conditionList": [
+			{
+				"conditionID": 1,
+				"stateID": 4
+			}
+		],
+		"NPCHeadMark": [
+			{
+				"conditionID": 0,
+				"stateID": 0
+			}
+		],
+		"NPCHeadMarkOffsetPosition": [
+			0,
+			2,
+			0
+		],
+		"MainStoryIDList": [],
+		"BranchStoryIDList": [],
+		"DataImpl": {},
+		"ID": 8
+	}
+]

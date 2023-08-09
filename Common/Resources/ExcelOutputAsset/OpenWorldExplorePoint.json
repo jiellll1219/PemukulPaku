@@ -1,0 +1,2107 @@
+[
+	{
+		"MapID": 401,
+		"AreaID": 4011,
+		"Type": 0,
+		"LocationID": 40111,
+		"BornPointName": "ExploreBorn1",
+		"PointNameTextID": {
+			"hash": 655463121
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 2,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/DLCBirthPoint"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 1
+	},
+	{
+		"MapID": 401,
+		"AreaID": 4011,
+		"Type": 0,
+		"LocationID": 40112,
+		"BornPointName": "ExploreBorn2",
+		"PointNameTextID": {
+			"hash": 684092272
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/DLCBirthPoint"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 2
+	},
+	{
+		"MapID": 401,
+		"AreaID": 4011,
+		"Type": 0,
+		"LocationID": 40113,
+		"BornPointName": "ExploreBorn3",
+		"PointNameTextID": {
+			"hash": 712721423
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/DLCBirthPoint"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 3
+	},
+	{
+		"MapID": 401,
+		"AreaID": 4011,
+		"Type": 0,
+		"LocationID": 40114,
+		"BornPointName": "ExploreBorn4",
+		"PointNameTextID": {
+			"hash": 741350574
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/DLCBirthPoint"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 4
+	},
+	{
+		"MapID": 401,
+		"AreaID": 4011,
+		"Type": 1,
+		"LocationID": 0,
+		"BornPointName": "Gate1",
+		"PointNameTextID": {
+			"hash": 2087962480
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/DLCMapGate",
+			"SpriteOutput/DLC/MapElement/DLCMapGateWaitOpen",
+			""
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 12,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 5
+	},
+	{
+		"MapID": 401,
+		"AreaID": 4011,
+		"Type": 1,
+		"LocationID": 0,
+		"BornPointName": "Gate2",
+		"PointNameTextID": {
+			"hash": 2087962480
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/DLCMapGate",
+			"SpriteOutput/DLC/MapElement/DLCMapGateWaitOpen",
+			""
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 10,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 6
+	},
+	{
+		"MapID": 401,
+		"AreaID": 4011,
+		"Type": 1,
+		"LocationID": 0,
+		"BornPointName": "Gate3",
+		"PointNameTextID": {
+			"hash": 2087962480
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/DLCMapGate",
+			"SpriteOutput/DLC/MapElement/DLCMapGateWaitOpen",
+			""
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 8,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 7
+	},
+	{
+		"MapID": 401,
+		"AreaID": 4011,
+		"Type": 1,
+		"LocationID": 0,
+		"BornPointName": "Gate4",
+		"PointNameTextID": {
+			"hash": 2087962480
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/DLCMapGate",
+			"SpriteOutput/DLC/MapElement/DLCMapGateWaitOpen",
+			""
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 10,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 8
+	},
+	{
+		"MapID": 401,
+		"AreaID": 4011,
+		"Type": 1,
+		"LocationID": 0,
+		"BornPointName": "Gate5",
+		"PointNameTextID": {
+			"hash": 2087962480
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/DLCMapGate",
+			"SpriteOutput/DLC/MapElement/DLCMapGateWaitOpen",
+			""
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 13,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 9
+	},
+	{
+		"MapID": 401,
+		"AreaID": 4011,
+		"Type": 1,
+		"LocationID": 0,
+		"BornPointName": "Gate6",
+		"PointNameTextID": {
+			"hash": 2087962480
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/DLCMapGate",
+			"SpriteOutput/DLC/MapElement/DLCMapGateWaitOpen",
+			""
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 14,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 10
+	},
+	{
+		"MapID": 401,
+		"AreaID": 4011,
+		"Type": 1,
+		"LocationID": 0,
+		"BornPointName": "Gate7",
+		"PointNameTextID": {
+			"hash": 2087962480
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/DLCMapGate",
+			"SpriteOutput/DLC/MapElement/DLCMapGateWaitOpen",
+			""
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 17,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 11
+	},
+	{
+		"MapID": 401,
+		"AreaID": 4011,
+		"Type": 1,
+		"LocationID": 0,
+		"BornPointName": "Gate8",
+		"PointNameTextID": {
+			"hash": 2087962480
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/DLCMapGate",
+			"SpriteOutput/DLC/MapElement/DLCMapGateWaitOpen",
+			""
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 15,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 12
+	},
+	{
+		"MapID": 401,
+		"AreaID": 4011,
+		"Type": 1,
+		"LocationID": 0,
+		"BornPointName": "Gate9",
+		"PointNameTextID": {
+			"hash": 2087962480
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/DLCMapGate",
+			"SpriteOutput/DLC/MapElement/DLCMapGateWaitOpen",
+			""
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 12,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 13
+	},
+	{
+		"MapID": 401,
+		"AreaID": 4011,
+		"Type": 1,
+		"LocationID": 0,
+		"BornPointName": "Gate10",
+		"PointNameTextID": {
+			"hash": 2087962480
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/DLCMapGate",
+			"SpriteOutput/DLC/MapElement/DLCMapGateWaitOpen",
+			""
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 23,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 14
+	},
+	{
+		"MapID": 401,
+		"AreaID": 4011,
+		"Type": 1,
+		"LocationID": 0,
+		"BornPointName": "Gate11",
+		"PointNameTextID": {
+			"hash": 2087962480
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/DLCMapGate",
+			"SpriteOutput/DLC/MapElement/DLCMapGateWaitOpen",
+			""
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 11,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 15
+	},
+	{
+		"MapID": 401,
+		"AreaID": 4011,
+		"Type": 1,
+		"LocationID": 0,
+		"BornPointName": "Gate12",
+		"PointNameTextID": {
+			"hash": 2087962480
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/DLCMapGate",
+			"SpriteOutput/DLC/MapElement/DLCMapGateWaitOpen",
+			""
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 16,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 16
+	},
+	{
+		"MapID": 401,
+		"AreaID": 4011,
+		"Type": 1,
+		"LocationID": 0,
+		"BornPointName": "Gate13",
+		"PointNameTextID": {
+			"hash": 2087962480
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/DLCMapGate",
+			"SpriteOutput/DLC/MapElement/DLCMapGateWaitOpen",
+			""
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 13,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 17
+	},
+	{
+		"MapID": 401,
+		"AreaID": 4012,
+		"Type": 2,
+		"LocationID": 40121,
+		"BornPointName": "Area4_Prop (17)",
+		"PointNameTextID": {
+			"hash": 769979725
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/DLCBirthPoint"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 18
+	},
+	{
+		"MapID": 601,
+		"AreaID": 6010,
+		"Type": 3,
+		"LocationID": 601001,
+		"BornPointName": "TPPoint (1)",
+		"PointNameTextID": {
+			"hash": 1975237647
+		},
+		"PointDescTextID": {
+			"hash": -668115255
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"",
+			"SpriteOutput/DLC/MapElement/DLCBirthPoint"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 101
+	},
+	{
+		"MapID": 601,
+		"AreaID": 6010,
+		"Type": 3,
+		"LocationID": 601002,
+		"BornPointName": "TPPoint (2)",
+		"PointNameTextID": {
+			"hash": 1975237648
+		},
+		"PointDescTextID": {
+			"hash": -668115254
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"",
+			"SpriteOutput/DLC/MapElement/DLCBirthPoint"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 102
+	},
+	{
+		"MapID": 601,
+		"AreaID": 6010,
+		"Type": 3,
+		"LocationID": 601003,
+		"BornPointName": "TPPoint (3)",
+		"PointNameTextID": {
+			"hash": 1975237649
+		},
+		"PointDescTextID": {
+			"hash": -668115253
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"",
+			"SpriteOutput/DLC/MapElement/DLCBirthPoint"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 103
+	},
+	{
+		"MapID": 601,
+		"AreaID": 6010,
+		"Type": 3,
+		"LocationID": 601004,
+		"BornPointName": "TPPoint (4)",
+		"PointNameTextID": {
+			"hash": 1975237650
+		},
+		"PointDescTextID": {
+			"hash": -668115252
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"",
+			"SpriteOutput/DLC/MapElement/DLCBirthPoint"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 104
+	},
+	{
+		"MapID": 601,
+		"AreaID": 6010,
+		"Type": 3,
+		"LocationID": 601005,
+		"BornPointName": "TPPoint (5)",
+		"PointNameTextID": {
+			"hash": 1975237651
+		},
+		"PointDescTextID": {
+			"hash": -668115251
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"",
+			"SpriteOutput/DLC/MapElement/DLCBirthPoint"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 105
+	},
+	{
+		"MapID": 601,
+		"AreaID": 6010,
+		"Type": 7,
+		"LocationID": 601032,
+		"BornPointName": "201801_EP7Point5",
+		"PointNameTextID": {
+			"hash": 1975237652
+		},
+		"PointDescTextID": {
+			"hash": -668115250
+		},
+		"DefaultStatus": 2,
+		"UIPath": [
+			"",
+			"",
+			"SpriteOutput/DLC/MapElement/DLCBirthPoint"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 106
+	},
+	{
+		"MapID": 601,
+		"AreaID": 6012,
+		"Type": 7,
+		"LocationID": 601033,
+		"BornPointName": "monster_spawn_07_1",
+		"PointNameTextID": {
+			"hash": 1975237653
+		},
+		"PointDescTextID": {
+			"hash": -668115249
+		},
+		"DefaultStatus": 2,
+		"UIPath": [
+			"",
+			"",
+			"SpriteOutput/DLC/MapElement/DLCBirthPoint"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 107
+	},
+	{
+		"MapID": 601,
+		"AreaID": 6010,
+		"Type": 3,
+		"LocationID": 601011,
+		"BornPointName": "MainGate",
+		"PointNameTextID": {
+			"hash": 1975237678
+		},
+		"PointDescTextID": {
+			"hash": -668115224
+		},
+		"DefaultStatus": 3,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/ScDLCMapGateGray",
+			"SpriteOutput/DLC/MapElement/ScDLCMapGate03",
+			""
+		],
+		"PrefabPath": [
+			"",
+			"UI/Menus/Widget/ScDLC/ScDLCMapElement04Gray",
+			"UI/Menus/Widget/ScDLC/ScDLCMapElement04",
+			""
+		],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 111
+	},
+	{
+		"MapID": 601,
+		"AreaID": 6010,
+		"Type": 3,
+		"LocationID": 601012,
+		"BornPointName": "SmallGate.003",
+		"PointNameTextID": {
+			"hash": 1975237679
+		},
+		"PointDescTextID": {
+			"hash": -668115223
+		},
+		"DefaultStatus": 3,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/ScDLCMapGateGray",
+			"SpriteOutput/DLC/MapElement/ScDLCMapGate03",
+			""
+		],
+		"PrefabPath": [
+			"",
+			"UI/Menus/Widget/ScDLC/ScDLCMapElement04Gray",
+			"UI/Menus/Widget/ScDLC/ScDLCMapElement04",
+			""
+		],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 112
+	},
+	{
+		"MapID": 601,
+		"AreaID": 6010,
+		"Type": 3,
+		"LocationID": 601013,
+		"BornPointName": "SmallGate.004",
+		"PointNameTextID": {
+			"hash": 1975237680
+		},
+		"PointDescTextID": {
+			"hash": -668115222
+		},
+		"DefaultStatus": 3,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/ScDLCMapGateGray",
+			"SpriteOutput/DLC/MapElement/ScDLCMapGate03",
+			""
+		],
+		"PrefabPath": [
+			"",
+			"UI/Menus/Widget/ScDLC/ScDLCMapElement04Gray",
+			"UI/Menus/Widget/ScDLC/ScDLCMapElement04",
+			""
+		],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 113
+	},
+	{
+		"MapID": 601,
+		"AreaID": 6010,
+		"Type": 3,
+		"LocationID": 601014,
+		"BornPointName": "SmallGate",
+		"PointNameTextID": {
+			"hash": 1975237681
+		},
+		"PointDescTextID": {
+			"hash": -668115221
+		},
+		"DefaultStatus": 3,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/ScDLCMapGateGray",
+			"SpriteOutput/DLC/MapElement/ScDLCMapGate03",
+			""
+		],
+		"PrefabPath": [
+			"",
+			"UI/Menus/Widget/ScDLC/ScDLCMapElement04Gray",
+			"UI/Menus/Widget/ScDLC/ScDLCMapElement04",
+			""
+		],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 114
+	},
+	{
+		"MapID": 601,
+		"AreaID": 6010,
+		"Type": 5,
+		"LocationID": 601015,
+		"BornPointName": "SmallGate.002",
+		"PointNameTextID": {
+			"hash": 1975237682
+		},
+		"PointDescTextID": {
+			"hash": -668115220
+		},
+		"DefaultStatus": 3,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/ScDLCMapGateGray",
+			"SpriteOutput/DLC/MapElement/ScDLCMapGate02",
+			""
+		],
+		"PrefabPath": [
+			"",
+			"UI/Menus/Widget/ScDLC/ScDLCMapElement03Gray",
+			"UI/Menus/Widget/ScDLC/ScDLCMapElement03",
+			""
+		],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 115
+	},
+	{
+		"MapID": 601,
+		"AreaID": 6010,
+		"Type": 4,
+		"LocationID": 601016,
+		"BornPointName": "SmallGate.001",
+		"PointNameTextID": {
+			"hash": 1975237683
+		},
+		"PointDescTextID": {
+			"hash": -668115219
+		},
+		"DefaultStatus": 3,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/ScDLCMapGateGray",
+			"SpriteOutput/DLC/MapElement/ScDLCMapGate02",
+			""
+		],
+		"PrefabPath": [
+			"",
+			"UI/Menus/Widget/ScDLC/ScDLCMapElement02Gray",
+			"UI/Menus/Widget/ScDLC/ScDLCMapElement02",
+			""
+		],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 116
+	},
+	{
+		"MapID": 601,
+		"AreaID": 6010,
+		"Type": 8,
+		"LocationID": 601017,
+		"BornPointName": "SmallGate.005",
+		"PointNameTextID": {
+			"hash": 1975237684
+		},
+		"PointDescTextID": {
+			"hash": -668115218
+		},
+		"DefaultStatus": 3,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/ScDLCMapGateGray",
+			"SpriteOutput/DLC/MapElement/ScDLCMapGate02",
+			""
+		],
+		"PrefabPath": [
+			"",
+			"UI/Menus/Widget/ScDLC/ScDLCMapElement01Gray",
+			"UI/Menus/Widget/ScDLC/ScDLCMapElement01",
+			""
+		],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 117
+	},
+	{
+		"MapID": 601,
+		"AreaID": 6012,
+		"Type": 7,
+		"LocationID": 601501,
+		"BornPointName": "TPPoint (1)",
+		"PointNameTextID": {
+			"hash": 1975238608
+		},
+		"PointDescTextID": {
+			"hash": -668114294
+		},
+		"DefaultStatus": 2,
+		"UIPath": [
+			"",
+			"",
+			"SpriteOutput/DLC/MapElement/DLCBirthPoint"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 201
+	},
+	{
+		"MapID": 601,
+		"AreaID": 6012,
+		"Type": 3,
+		"LocationID": 601502,
+		"BornPointName": "StarGate_1_Point",
+		"PointNameTextID": {
+			"hash": 1975238609
+		},
+		"PointDescTextID": {
+			"hash": -668114293
+		},
+		"DefaultStatus": 3,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/ScDLCMapGateGray",
+			"SpriteOutput/DLC/MapElement/ScDLCMapGate03",
+			""
+		],
+		"PrefabPath": [
+			"",
+			"UI/Menus/Widget/ScDLC/ScDLCMapElement04Gray",
+			"UI/Menus/Widget/ScDLC/ScDLCMapElement04",
+			""
+		],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 202
+	},
+	{
+		"MapID": 601,
+		"AreaID": 6012,
+		"Type": 3,
+		"LocationID": 601503,
+		"BornPointName": "StarGate_2_Point",
+		"PointNameTextID": {
+			"hash": 1975238610
+		},
+		"PointDescTextID": {
+			"hash": -668114292
+		},
+		"DefaultStatus": 3,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/ScDLCMapGateGray",
+			"SpriteOutput/DLC/MapElement/ScDLCMapGate03",
+			""
+		],
+		"PrefabPath": [
+			"",
+			"UI/Menus/Widget/ScDLC/ScDLCMapElement04Gray",
+			"UI/Menus/Widget/ScDLC/ScDLCMapElement04",
+			""
+		],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 203
+	},
+	{
+		"MapID": 601,
+		"AreaID": 6012,
+		"Type": 3,
+		"LocationID": 601504,
+		"BornPointName": "StarGate_3_Point",
+		"PointNameTextID": {
+			"hash": 1975238611
+		},
+		"PointDescTextID": {
+			"hash": -668114291
+		},
+		"DefaultStatus": 3,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/ScDLCMapGateGray",
+			"SpriteOutput/DLC/MapElement/ScDLCMapGate03",
+			""
+		],
+		"PrefabPath": [
+			"",
+			"UI/Menus/Widget/ScDLC/ScDLCMapElement04Gray",
+			"UI/Menus/Widget/ScDLC/ScDLCMapElement04",
+			""
+		],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 204
+	},
+	{
+		"MapID": 601,
+		"AreaID": 6012,
+		"Type": 3,
+		"LocationID": 601505,
+		"BornPointName": "Spawn_03_03_1",
+		"PointNameTextID": {
+			"hash": 1975238612
+		},
+		"PointDescTextID": {
+			"hash": -668114290
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"",
+			"SpriteOutput/DLC/MapElement/DLCBirthPoint"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 205
+	},
+	{
+		"MapID": 2001,
+		"AreaID": 20010,
+		"Type": 0,
+		"LocationID": 0,
+		"BornPointName": "PuzzleStartPoint (1)",
+		"PointNameTextID": {
+			"hash": 959514615
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/IconRewardBox",
+			"SpriteOutput/DLC/MapElement/IconRewardBoxOpen"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 301
+	},
+	{
+		"MapID": 2001,
+		"AreaID": 20010,
+		"Type": 0,
+		"LocationID": 0,
+		"BornPointName": "PuzzleStartPoint (2)",
+		"PointNameTextID": {
+			"hash": 959514615
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/IconRewardBox",
+			"SpriteOutput/DLC/MapElement/IconRewardBoxOpen"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 302
+	},
+	{
+		"MapID": 2001,
+		"AreaID": 20010,
+		"Type": 0,
+		"LocationID": 0,
+		"BornPointName": "PuzzleStartPoint (3)",
+		"PointNameTextID": {
+			"hash": 959514615
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/IconRewardBox",
+			"SpriteOutput/DLC/MapElement/IconRewardBoxOpen"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 303
+	},
+	{
+		"MapID": 2001,
+		"AreaID": 20010,
+		"Type": 0,
+		"LocationID": 0,
+		"BornPointName": "PuzzleStartPoint (4)",
+		"PointNameTextID": {
+			"hash": 959514615
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/IconRewardBox",
+			"SpriteOutput/DLC/MapElement/IconRewardBoxOpen"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 304
+	},
+	{
+		"MapID": 2001,
+		"AreaID": 20010,
+		"Type": 0,
+		"LocationID": 0,
+		"BornPointName": "PuzzleStartPoint (5)",
+		"PointNameTextID": {
+			"hash": 959514615
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/IconRewardBox",
+			"SpriteOutput/DLC/MapElement/IconRewardBoxOpen"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 305
+	},
+	{
+		"MapID": 2001,
+		"AreaID": 20011,
+		"Type": 0,
+		"LocationID": 0,
+		"BornPointName": "PuzzleStartPoint (1)",
+		"PointNameTextID": {
+			"hash": 959514615
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/IconRewardBox",
+			"SpriteOutput/DLC/MapElement/IconRewardBoxOpen"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 306
+	},
+	{
+		"MapID": 2001,
+		"AreaID": 20011,
+		"Type": 0,
+		"LocationID": 0,
+		"BornPointName": "PuzzleStartPoint (2)",
+		"PointNameTextID": {
+			"hash": 959514615
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/IconRewardBox",
+			"SpriteOutput/DLC/MapElement/IconRewardBoxOpen"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 307
+	},
+	{
+		"MapID": 2001,
+		"AreaID": 20011,
+		"Type": 0,
+		"LocationID": 0,
+		"BornPointName": "PuzzleStartPoint (3)",
+		"PointNameTextID": {
+			"hash": 959514615
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/IconRewardBox",
+			"SpriteOutput/DLC/MapElement/IconRewardBoxOpen"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 308
+	},
+	{
+		"MapID": 2001,
+		"AreaID": 20011,
+		"Type": 0,
+		"LocationID": 0,
+		"BornPointName": "PuzzleStartPoint (4)",
+		"PointNameTextID": {
+			"hash": 959514615
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/IconRewardBox",
+			"SpriteOutput/DLC/MapElement/IconRewardBoxOpen"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 309
+	},
+	{
+		"MapID": 2001,
+		"AreaID": 20011,
+		"Type": 0,
+		"LocationID": 0,
+		"BornPointName": "PuzzleStartPoint (5)",
+		"PointNameTextID": {
+			"hash": 959514615
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/IconRewardBox",
+			"SpriteOutput/DLC/MapElement/IconRewardBoxOpen"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 310
+	},
+	{
+		"MapID": 2001,
+		"AreaID": 20012,
+		"Type": 0,
+		"LocationID": 0,
+		"BornPointName": "PuzzleStartPoint (1)",
+		"PointNameTextID": {
+			"hash": 959514615
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/IconRewardBox",
+			"SpriteOutput/DLC/MapElement/IconRewardBoxOpen"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 311
+	},
+	{
+		"MapID": 2001,
+		"AreaID": 20012,
+		"Type": 0,
+		"LocationID": 0,
+		"BornPointName": "PuzzleStartPoint (2)",
+		"PointNameTextID": {
+			"hash": 959514615
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/IconRewardBox",
+			"SpriteOutput/DLC/MapElement/IconRewardBoxOpen"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 312
+	},
+	{
+		"MapID": 2001,
+		"AreaID": 20012,
+		"Type": 0,
+		"LocationID": 0,
+		"BornPointName": "PuzzleStartPoint (3)",
+		"PointNameTextID": {
+			"hash": 959514615
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/IconRewardBox",
+			"SpriteOutput/DLC/MapElement/IconRewardBoxOpen"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 313
+	},
+	{
+		"MapID": 2001,
+		"AreaID": 20012,
+		"Type": 0,
+		"LocationID": 0,
+		"BornPointName": "PuzzleStartPoint (4)",
+		"PointNameTextID": {
+			"hash": 959514615
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/IconRewardBox",
+			"SpriteOutput/DLC/MapElement/IconRewardBoxOpen"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 314
+	},
+	{
+		"MapID": 2001,
+		"AreaID": 20012,
+		"Type": 0,
+		"LocationID": 0,
+		"BornPointName": "PuzzleStartPoint (5)",
+		"PointNameTextID": {
+			"hash": 959514615
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/IconRewardBox",
+			"SpriteOutput/DLC/MapElement/IconRewardBoxOpen"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 315
+	},
+	{
+		"MapID": 2001,
+		"AreaID": 20010,
+		"Type": 0,
+		"LocationID": 0,
+		"BornPointName": "Born_1",
+		"PointNameTextID": {
+			"hash": -674335273
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/Activity/AiCyber/InLevelAIChanPoint"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 316
+	},
+	{
+		"MapID": 2001,
+		"AreaID": 20011,
+		"Type": 0,
+		"LocationID": 0,
+		"BornPointName": "Born_2",
+		"PointNameTextID": {
+			"hash": -674335273
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/Activity/AiCyber/InLevelAIChanPoint"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 317
+	},
+	{
+		"MapID": 2001,
+		"AreaID": 20012,
+		"Type": 0,
+		"LocationID": 0,
+		"BornPointName": "Born_3",
+		"PointNameTextID": {
+			"hash": -674335273
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/Activity/AiCyber/InLevelAIChanPoint"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 318
+	},
+	{
+		"MapID": 601,
+		"AreaID": 60130,
+		"Type": 6,
+		"LocationID": 6013001,
+		"BornPointName": "TreasurePoint (1)",
+		"PointNameTextID": {
+			"hash": -1748746529
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/IconRewardBox",
+			"SpriteOutput/DLC/MapElement/IconRewardBoxOpen"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 6013001
+	},
+	{
+		"MapID": 601,
+		"AreaID": 60130,
+		"Type": 6,
+		"LocationID": 6013002,
+		"BornPointName": "TreasurePoint (2)",
+		"PointNameTextID": {
+			"hash": -1748746529
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/IconRewardBox",
+			"SpriteOutput/DLC/MapElement/IconRewardBoxOpen"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 6013002
+	},
+	{
+		"MapID": 601,
+		"AreaID": 60130,
+		"Type": 6,
+		"LocationID": 6013003,
+		"BornPointName": "TreasurePoint (3)",
+		"PointNameTextID": {
+			"hash": -1748746529
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/IconRewardBox",
+			"SpriteOutput/DLC/MapElement/IconRewardBoxOpen"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 6013003
+	},
+	{
+		"MapID": 601,
+		"AreaID": 60130,
+		"Type": 6,
+		"LocationID": 6013004,
+		"BornPointName": "TreasurePoint (4)",
+		"PointNameTextID": {
+			"hash": -1748746529
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/IconRewardBox",
+			"SpriteOutput/DLC/MapElement/IconRewardBoxOpen"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 6013004
+	},
+	{
+		"MapID": 601,
+		"AreaID": 60130,
+		"Type": 6,
+		"LocationID": 6013005,
+		"BornPointName": "TreasurePoint (5)",
+		"PointNameTextID": {
+			"hash": -1748746529
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/IconRewardBox",
+			"SpriteOutput/DLC/MapElement/IconRewardBoxOpen"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 6013005
+	},
+	{
+		"MapID": 601,
+		"AreaID": 60130,
+		"Type": 6,
+		"LocationID": 6013006,
+		"BornPointName": "TreasurePoint (6)",
+		"PointNameTextID": {
+			"hash": -1748746529
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/IconRewardBox",
+			"SpriteOutput/DLC/MapElement/IconRewardBoxOpen"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 6013006
+	},
+	{
+		"MapID": 601,
+		"AreaID": 60132,
+		"Type": 6,
+		"LocationID": 6013201,
+		"BornPointName": "TreasurePoint (1)",
+		"PointNameTextID": {
+			"hash": -1748746529
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/IconRewardBox",
+			"SpriteOutput/DLC/MapElement/IconRewardBoxOpen"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 6013201
+	},
+	{
+		"MapID": 601,
+		"AreaID": 60132,
+		"Type": 6,
+		"LocationID": 6013202,
+		"BornPointName": "TreasurePoint (2)",
+		"PointNameTextID": {
+			"hash": -1748746529
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/IconRewardBox",
+			"SpriteOutput/DLC/MapElement/IconRewardBoxOpen"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 6013202
+	},
+	{
+		"MapID": 601,
+		"AreaID": 60132,
+		"Type": 6,
+		"LocationID": 6013203,
+		"BornPointName": "TreasurePoint (3)",
+		"PointNameTextID": {
+			"hash": -1748746529
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/IconRewardBox",
+			"SpriteOutput/DLC/MapElement/IconRewardBoxOpen"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 6013203
+	},
+	{
+		"MapID": 601,
+		"AreaID": 60132,
+		"Type": 6,
+		"LocationID": 6013204,
+		"BornPointName": "TreasurePoint (4)",
+		"PointNameTextID": {
+			"hash": -1748746529
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/IconRewardBox",
+			"SpriteOutput/DLC/MapElement/IconRewardBoxOpen"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 6013204
+	},
+	{
+		"MapID": 601,
+		"AreaID": 60132,
+		"Type": 6,
+		"LocationID": 6013205,
+		"BornPointName": "TreasurePoint (5)",
+		"PointNameTextID": {
+			"hash": -1748746529
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/IconRewardBox",
+			"SpriteOutput/DLC/MapElement/IconRewardBoxOpen"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 6013205
+	},
+	{
+		"MapID": 601,
+		"AreaID": 60132,
+		"Type": 6,
+		"LocationID": 6013206,
+		"BornPointName": "TreasurePoint (6)",
+		"PointNameTextID": {
+			"hash": -1748746529
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/IconRewardBox",
+			"SpriteOutput/DLC/MapElement/IconRewardBoxOpen"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 6013206
+	},
+	{
+		"MapID": 601,
+		"AreaID": 60133,
+		"Type": 6,
+		"LocationID": 6013301,
+		"BornPointName": "Treasure1",
+		"PointNameTextID": {
+			"hash": -1748746529
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/IconRewardBox",
+			"SpriteOutput/DLC/MapElement/IconRewardBoxOpen"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 6013301
+	},
+	{
+		"MapID": 601,
+		"AreaID": 60133,
+		"Type": 6,
+		"LocationID": 6013302,
+		"BornPointName": "Treasure2",
+		"PointNameTextID": {
+			"hash": -1748746529
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/IconRewardBox",
+			"SpriteOutput/DLC/MapElement/IconRewardBoxOpen"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 6013302
+	},
+	{
+		"MapID": 601,
+		"AreaID": 60133,
+		"Type": 6,
+		"LocationID": 6013303,
+		"BornPointName": "Treasure3",
+		"PointNameTextID": {
+			"hash": -1748746529
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/IconRewardBox",
+			"SpriteOutput/DLC/MapElement/IconRewardBoxOpen"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 6013303
+	},
+	{
+		"MapID": 601,
+		"AreaID": 60133,
+		"Type": 6,
+		"LocationID": 6013304,
+		"BornPointName": "Treasure4",
+		"PointNameTextID": {
+			"hash": -1748746529
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/IconRewardBox",
+			"SpriteOutput/DLC/MapElement/IconRewardBoxOpen"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 6013304
+	},
+	{
+		"MapID": 601,
+		"AreaID": 60133,
+		"Type": 6,
+		"LocationID": 6013305,
+		"BornPointName": "Treasure5",
+		"PointNameTextID": {
+			"hash": -1748746529
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/IconRewardBox",
+			"SpriteOutput/DLC/MapElement/IconRewardBoxOpen"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 6013305
+	},
+	{
+		"MapID": 601,
+		"AreaID": 60133,
+		"Type": 6,
+		"LocationID": 6013306,
+		"BornPointName": "Treasure6",
+		"PointNameTextID": {
+			"hash": -1748746529
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/IconRewardBox",
+			"SpriteOutput/DLC/MapElement/IconRewardBoxOpen"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 6013306
+	},
+	{
+		"MapID": 601,
+		"AreaID": 60134,
+		"Type": 6,
+		"LocationID": 6013401,
+		"BornPointName": "TreasurePoint (1)",
+		"PointNameTextID": {
+			"hash": -1748746529
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/IconRewardBox",
+			"SpriteOutput/DLC/MapElement/IconRewardBoxOpen"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 6013401
+	},
+	{
+		"MapID": 601,
+		"AreaID": 60134,
+		"Type": 6,
+		"LocationID": 6013402,
+		"BornPointName": "TreasurePoint (2)",
+		"PointNameTextID": {
+			"hash": -1748746529
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/IconRewardBox",
+			"SpriteOutput/DLC/MapElement/IconRewardBoxOpen"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 6013402
+	},
+	{
+		"MapID": 601,
+		"AreaID": 60134,
+		"Type": 6,
+		"LocationID": 6013403,
+		"BornPointName": "TreasurePoint (3)",
+		"PointNameTextID": {
+			"hash": -1748746529
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/IconRewardBox",
+			"SpriteOutput/DLC/MapElement/IconRewardBoxOpen"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 6013403
+	},
+	{
+		"MapID": 601,
+		"AreaID": 60134,
+		"Type": 6,
+		"LocationID": 6013404,
+		"BornPointName": "TreasurePoint (4)",
+		"PointNameTextID": {
+			"hash": -1748746529
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/IconRewardBox",
+			"SpriteOutput/DLC/MapElement/IconRewardBoxOpen"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 6013404
+	},
+	{
+		"MapID": 601,
+		"AreaID": 60134,
+		"Type": 6,
+		"LocationID": 6013405,
+		"BornPointName": "TreasurePoint (5)",
+		"PointNameTextID": {
+			"hash": -1748746529
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/IconRewardBox",
+			"SpriteOutput/DLC/MapElement/IconRewardBoxOpen"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 6013405
+	},
+	{
+		"MapID": 601,
+		"AreaID": 60134,
+		"Type": 6,
+		"LocationID": 6013406,
+		"BornPointName": "TreasurePoint (6)",
+		"PointNameTextID": {
+			"hash": -1748746529
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/IconRewardBox",
+			"SpriteOutput/DLC/MapElement/IconRewardBoxOpen"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 6013406
+	},
+	{
+		"MapID": 601,
+		"AreaID": 60135,
+		"Type": 6,
+		"LocationID": 6013501,
+		"BornPointName": "TreasurePoint (1)",
+		"PointNameTextID": {
+			"hash": -1748746529
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/IconRewardBox",
+			"SpriteOutput/DLC/MapElement/IconRewardBoxOpen"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 6013501
+	},
+	{
+		"MapID": 601,
+		"AreaID": 60135,
+		"Type": 6,
+		"LocationID": 6013502,
+		"BornPointName": "TreasurePoint (2)",
+		"PointNameTextID": {
+			"hash": -1748746529
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/IconRewardBox",
+			"SpriteOutput/DLC/MapElement/IconRewardBoxOpen"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 6013502
+	},
+	{
+		"MapID": 601,
+		"AreaID": 60135,
+		"Type": 6,
+		"LocationID": 6013503,
+		"BornPointName": "TreasurePoint (3)",
+		"PointNameTextID": {
+			"hash": -1748746529
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/IconRewardBox",
+			"SpriteOutput/DLC/MapElement/IconRewardBoxOpen"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 6013503
+	},
+	{
+		"MapID": 601,
+		"AreaID": 60135,
+		"Type": 6,
+		"LocationID": 6013504,
+		"BornPointName": "TreasurePoint (4)",
+		"PointNameTextID": {
+			"hash": -1748746529
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/IconRewardBox",
+			"SpriteOutput/DLC/MapElement/IconRewardBoxOpen"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 6013504
+	},
+	{
+		"MapID": 601,
+		"AreaID": 60135,
+		"Type": 6,
+		"LocationID": 6013505,
+		"BornPointName": "TreasurePoint (5)",
+		"PointNameTextID": {
+			"hash": -1748746529
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/IconRewardBox",
+			"SpriteOutput/DLC/MapElement/IconRewardBoxOpen"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 6013505
+	},
+	{
+		"MapID": 601,
+		"AreaID": 60135,
+		"Type": 6,
+		"LocationID": 6013506,
+		"BornPointName": "TreasurePoint (6)",
+		"PointNameTextID": {
+			"hash": -1748746529
+		},
+		"PointDescTextID": {
+			"hash": 0
+		},
+		"DefaultStatus": 1,
+		"UIPath": [
+			"",
+			"SpriteOutput/DLC/MapElement/IconRewardBox",
+			"SpriteOutput/DLC/MapElement/IconRewardBoxOpen"
+		],
+		"PrefabPath": [],
+		"UnlockLevel": 0,
+		"Rotation": 0,
+		"DataImpl": {},
+		"ExploreID": 6013506
+	}
+]

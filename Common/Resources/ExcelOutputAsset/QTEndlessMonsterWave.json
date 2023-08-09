@@ -1,0 +1,6163 @@
+[
+	{
+		"RankList": [
+			"1:2",
+			"4:1"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Bio:2,QT:1",
+		"TagFilter": "(| Bio QT)",
+		"HPRatio": 1,
+		"DistRule": [
+			"Bio",
+			"Bio",
+			"QT"
+		],
+		"RankDist": [
+			1,
+			1,
+			4
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 101
+	},
+	{
+		"RankList": [
+			"1:2",
+			"4:1"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Psy:2,QT:1",
+		"TagFilter": "(& !Sea (| Psy QT))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Psy",
+			"Psy",
+			"QT"
+		],
+		"RankDist": [
+			1,
+			1,
+			4
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 102
+	},
+	{
+		"RankList": [
+			"1:2",
+			"4:1"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Mec:2,QT:1",
+		"TagFilter": "(| Mec QT)",
+		"HPRatio": 1,
+		"DistRule": [
+			"Mec",
+			"Mec",
+			"QT"
+		],
+		"RankDist": [
+			1,
+			1,
+			4
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 103
+	},
+	{
+		"RankList": [
+			"1:2",
+			"4:1"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Sea:2,QT:1",
+		"TagFilter": "(| Sea QT)",
+		"HPRatio": 1,
+		"DistRule": [
+			"Sea",
+			"Sea",
+			"QT"
+		],
+		"RankDist": [
+			1,
+			1,
+			4
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 104
+	},
+	{
+		"RankList": [
+			"4:2"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "QT:2",
+		"TagFilter": "QT",
+		"HPRatio": 1,
+		"DistRule": [
+			"QT",
+			"QT"
+		],
+		"RankDist": [
+			4,
+			4
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 105
+	},
+	{
+		"RankList": [
+			"4:2",
+			"5:1"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "QT:2,Elite:1",
+		"TagFilter": "(| Elementary QT)",
+		"HPRatio": 1,
+		"DistRule": [
+			"QT",
+			"QT",
+			"Elite"
+		],
+		"RankDist": [
+			4,
+			4,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 106
+	},
+	{
+		"RankList": [
+			"1:2",
+			"5:1"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Little:2,Thunder:1",
+		"TagFilter": "(&G1 (| Thunder Little))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Thunder"
+		],
+		"RankDist": [
+			1,
+			1,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 200
+	},
+	{
+		"RankList": [
+			"1:1",
+			"5:2"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Little:1,Thunder:1,Elite:1",
+		"TagFilter": "(&G1 (| Thunder Little (& Elite Common !Power)))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Thunder",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 201
+	},
+	{
+		"RankList": [
+			"5:3"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Thunder:1,Elite:2",
+		"TagFilter": "(&G1 (| Thunder (& Elite Common !Power)))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Thunder",
+			"Elite",
+			"Elite"
+		],
+		"RankDist": [
+			5,
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 202
+	},
+	{
+		"RankList": [
+			"1:2",
+			"2:1"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Little:2,Thunder:1",
+		"TagFilter": "(| Thunder Little)",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Thunder"
+		],
+		"RankDist": [
+			1,
+			1,
+			2
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 203
+	},
+	{
+		"RankList": [
+			"1:1",
+			"2:1",
+			"5:1"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Little:1,Thunder:1,Elite:1",
+		"TagFilter": "(| Thunder Little (& Elite Common !Power !TempBan))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Thunder",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			2,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 204
+	},
+	{
+		"RankList": [
+			"2:1",
+			"5:2"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Thunder:1,Elite:2",
+		"TagFilter": "(| Thunder (& Elite Common !Power  !TempBan))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Thunder",
+			"Elite",
+			"Elite"
+		],
+		"RankDist": [
+			2,
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 205
+	},
+	{
+		"RankList": [
+			"2:1",
+			"5:2"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Thunder:1,Elite:1,Power:1",
+		"TagFilter": "(| Thunder (& Elite Common !Power  !TempBan) (& Elite Common Power  !TempBan))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Thunder",
+			"Elite",
+			"Power"
+		],
+		"RankDist": [
+			2,
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 206
+	},
+	{
+		"RankList": [
+			"5:2",
+			"4:1"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Thunder:1,Elite:1,QT:1",
+		"TagFilter": "(| Thunder (& Elite Common !Power) QT)",
+		"HPRatio": 1,
+		"DistRule": [
+			"Thunder",
+			"Elite",
+			"QT"
+		],
+		"RankDist": [
+			5,
+			5,
+			4
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 207
+	},
+	{
+		"RankList": [
+			"1:2",
+			"5:1"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Little:2,Ice:1",
+		"TagFilter": "(&G1 (| Ice Little))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Ice"
+		],
+		"RankDist": [
+			1,
+			1,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 210
+	},
+	{
+		"RankList": [
+			"1:1",
+			"5:2"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Little:1,Ice:1,Elite:1",
+		"TagFilter": "(&G1 (| Ice Little (& Elite Common !Power)))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Ice",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 211
+	},
+	{
+		"RankList": [
+			"5:3"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Ice:1,Elite:2",
+		"TagFilter": "(&G1 (| Ice (& Elite Common !Power)))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Ice",
+			"Elite",
+			"Elite"
+		],
+		"RankDist": [
+			5,
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 212
+	},
+	{
+		"RankList": [
+			"1:2",
+			"2:1"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Little:2,Ice:1",
+		"TagFilter": "(| Ice Little)",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Ice"
+		],
+		"RankDist": [
+			1,
+			1,
+			2
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 213
+	},
+	{
+		"RankList": [
+			"1:1",
+			"2:1",
+			"5:1"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Little:1,Ice:1,Elite:1",
+		"TagFilter": "(| Ice Little (& Elite Common !Power  !TempBan))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Ice",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			2,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 214
+	},
+	{
+		"RankList": [
+			"2:1",
+			"5:2"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Ice:1,Elite:2",
+		"TagFilter": "(| Ice (& Elite Common !Power  !TempBan))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Ice",
+			"Elite",
+			"Elite"
+		],
+		"RankDist": [
+			2,
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 215
+	},
+	{
+		"RankList": [
+			"2:1",
+			"5:2"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Ice:1,Elite:1,Power:1",
+		"TagFilter": "(| Ice (& Elite Common !Power  !TempBan) (& Elite Common Power  !TempBan))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Ice",
+			"Elite",
+			"Power"
+		],
+		"RankDist": [
+			2,
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 216
+	},
+	{
+		"RankList": [
+			"5:2",
+			"4:1"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Ice:1,Elite:1,QT:1",
+		"TagFilter": "(| Ice (& Elite Common !Power) QT)",
+		"HPRatio": 1,
+		"DistRule": [
+			"Ice",
+			"Elite",
+			"QT"
+		],
+		"RankDist": [
+			5,
+			5,
+			4
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 217
+	},
+	{
+		"RankList": [
+			"1:2",
+			"5:1"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Little:2,Fire:1",
+		"TagFilter": "(&G1 (| Fire Little))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Fire"
+		],
+		"RankDist": [
+			1,
+			1,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 220
+	},
+	{
+		"RankList": [
+			"1:1",
+			"5:2"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Little:1,Fire:1,Elite:1",
+		"TagFilter": "(&G1 (| Fire Little (& Elite Common !Power)))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Fire",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 221
+	},
+	{
+		"RankList": [
+			"5:3"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Fire:1,Elite:2",
+		"TagFilter": "(&G1 (| Fire (& Elite Common !Power)))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Fire",
+			"Elite",
+			"Elite"
+		],
+		"RankDist": [
+			5,
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 222
+	},
+	{
+		"RankList": [
+			"1:2",
+			"2:1"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Little:2,Fire:1",
+		"TagFilter": "(| Fire Little)",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Fire"
+		],
+		"RankDist": [
+			1,
+			1,
+			2
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 223
+	},
+	{
+		"RankList": [
+			"1:1",
+			"2:1",
+			"5:1"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Little:1,Fire:1,Elite:1",
+		"TagFilter": "(| Fire Little (& Elite Common !Power  !TempBan))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Fire",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			2,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 224
+	},
+	{
+		"RankList": [
+			"2:1",
+			"5:2"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Fire:1,Elite:2",
+		"TagFilter": "(| Fire (& Elite Common !Power  !TempBan))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Fire",
+			"Elite",
+			"Elite"
+		],
+		"RankDist": [
+			2,
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 225
+	},
+	{
+		"RankList": [
+			"2:1",
+			"5:2"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Fire:1,Elite:1,Power:1",
+		"TagFilter": "(| Fire (& Elite Common !Power  !TempBan) (& Elite Common Power  !TempBan))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Fire",
+			"Elite",
+			"Power"
+		],
+		"RankDist": [
+			2,
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 226
+	},
+	{
+		"RankList": [
+			"5:2",
+			"4:1"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Fire:1,Elite:1,QT:1",
+		"TagFilter": "(| Fire (& Elite Common !Power) QT)",
+		"HPRatio": 1,
+		"DistRule": [
+			"Fire",
+			"Elite",
+			"QT"
+		],
+		"RankDist": [
+			5,
+			5,
+			4
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 227
+	},
+	{
+		"RankList": [
+			"1:2",
+			"2:1"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Sea:3",
+		"TagFilter": "Sea",
+		"HPRatio": 1,
+		"DistRule": [
+			"Sea",
+			"Sea",
+			"Sea"
+		],
+		"RankDist": [
+			1,
+			1,
+			2
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 300
+	},
+	{
+		"RankList": [
+			"1:2",
+			"5:1"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Sea:2,Crab:1",
+		"TagFilter": "Sea",
+		"HPRatio": 1,
+		"DistRule": [
+			"Sea",
+			"Sea",
+			"Crab"
+		],
+		"RankDist": [
+			1,
+			1,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 301
+	},
+	{
+		"RankList": [
+			"1:2",
+			"5:1"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Sea:3",
+		"TagFilter": "Sea",
+		"HPRatio": 1,
+		"DistRule": [
+			"Sea",
+			"Sea",
+			"Sea"
+		],
+		"RankDist": [
+			1,
+			1,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 302
+	},
+	{
+		"RankList": [
+			"1:2",
+			"2:1"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Bio:3",
+		"TagFilter": "(| Little (& Common Bio))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Bio",
+			"Bio",
+			"Bio"
+		],
+		"RankDist": [
+			1,
+			1,
+			2
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 400
+	},
+	{
+		"RankList": [
+			"1:2",
+			"2:1"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Mec:3",
+		"TagFilter": "(| Little (& Common Mec))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Mec",
+			"Mec",
+			"Mec"
+		],
+		"RankDist": [
+			1,
+			1,
+			2
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 401
+	},
+	{
+		"RankList": [
+			"1:2",
+			"2:1"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Psy:3",
+		"TagFilter": "(| Little (& Common Psy))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Psy",
+			"Psy",
+			"Psy"
+		],
+		"RankDist": [
+			1,
+			1,
+			2
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 402
+	},
+	{
+		"RankList": [
+			"1:2",
+			"2:1"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Little:2,Elite:1",
+		"TagFilter": "(| Little (& Elite Common))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			2
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 403
+	},
+	{
+		"RankList": [
+			"1:1",
+			"5:1",
+			"2:1"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Bio:3",
+		"TagFilter": "(| Little (& Common Bio))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Bio",
+			"Bio",
+			"Bio"
+		],
+		"RankDist": [
+			1,
+			5,
+			2
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 404
+	},
+	{
+		"RankList": [
+			"1:1",
+			"5:1",
+			"2:1"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Mec:3",
+		"TagFilter": "(| Little (& Common Mec))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Mec",
+			"Mec",
+			"Mec"
+		],
+		"RankDist": [
+			1,
+			5,
+			2
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 405
+	},
+	{
+		"RankList": [
+			"1:1",
+			"5:1",
+			"2:1"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Psy:3",
+		"TagFilter": "(| Little (& Common Psy))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Psy",
+			"Psy",
+			"Psy"
+		],
+		"RankDist": [
+			1,
+			5,
+			2
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 406
+	},
+	{
+		"RankList": [
+			"1:1",
+			"5:1",
+			"2:1"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Little:1,Elite:2",
+		"TagFilter": "(| Little (& Elite Common !Power))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Elite",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			5,
+			2
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 407
+	},
+	{
+		"RankList": [
+			"5:2",
+			"2:1"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Bio:3",
+		"TagFilter": "(| Little (& Common !Power Bio))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Bio",
+			"Bio",
+			"Bio"
+		],
+		"RankDist": [
+			5,
+			5,
+			2
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 408
+	},
+	{
+		"RankList": [
+			"5:2",
+			"2:1"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Mec:3",
+		"TagFilter": "(| Little (& Common !Power Mec))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Mec",
+			"Mec",
+			"Mec"
+		],
+		"RankDist": [
+			5,
+			5,
+			2
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 409
+	},
+	{
+		"RankList": [
+			"5:2",
+			"2:1"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Psy:3",
+		"TagFilter": "(| Little (& Common !Power Psy))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Psy",
+			"Psy",
+			"Psy"
+		],
+		"RankDist": [
+			5,
+			5,
+			2
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 410
+	},
+	{
+		"RankList": [
+			"1:2",
+			"5:1"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Bio:3",
+		"TagFilter": "(&G1 (| Little (& Common Bio)))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Bio",
+			"Bio",
+			"Bio"
+		],
+		"RankDist": [
+			1,
+			1,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 420
+	},
+	{
+		"RankList": [
+			"1:2",
+			"5:1"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Mec:3",
+		"TagFilter": "(&G1 (| Little (& Common Mec)))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Mec",
+			"Mec",
+			"Mec"
+		],
+		"RankDist": [
+			1,
+			1,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 421
+	},
+	{
+		"RankList": [
+			"1:2",
+			"5:1"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Psy:3",
+		"TagFilter": "(&G1 (| Little (& Common Psy)))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Psy",
+			"Psy",
+			"Psy"
+		],
+		"RankDist": [
+			1,
+			1,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 422
+	},
+	{
+		"RankList": [
+			"1:2",
+			"5:1"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Little:2,Elite:1",
+		"TagFilter": "(&G1 (| Little (& Elite Common !Power)))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 423
+	},
+	{
+		"RankList": [
+			"1:1",
+			"5:2"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Bio:3",
+		"TagFilter": "(&G1 (| Little (& Common Bio)))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Bio",
+			"Bio",
+			"Bio"
+		],
+		"RankDist": [
+			1,
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 424
+	},
+	{
+		"RankList": [
+			"1:1",
+			"5:2"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Mec:3",
+		"TagFilter": "(&G1 (| Little (& Common Mec)))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Mec",
+			"Mec",
+			"Mec"
+		],
+		"RankDist": [
+			1,
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 425
+	},
+	{
+		"RankList": [
+			"1:1",
+			"5:2"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Psy:3",
+		"TagFilter": "(&G1 (| Little (& Common Psy)))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Psy",
+			"Psy",
+			"Psy"
+		],
+		"RankDist": [
+			1,
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 426
+	},
+	{
+		"RankList": [
+			"1:1",
+			"5:2"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Little:1,Elite:2",
+		"TagFilter": "(&G1 (| Little (& Elite Common !Power)))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Elite",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 427
+	},
+	{
+		"RankList": [
+			"1:2",
+			"4:1"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Bio:2,QT:1",
+		"TagFilter": "(&G1 (| Bio QT))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Bio",
+			"Bio",
+			"QT"
+		],
+		"RankDist": [
+			1,
+			1,
+			4
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 440
+	},
+	{
+		"RankList": [
+			"1:2",
+			"4:1"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Psy:2,QT:1",
+		"TagFilter": "(&G1  (& !Sea (| Psy QT)))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Psy",
+			"Psy",
+			"QT"
+		],
+		"RankDist": [
+			1,
+			1,
+			4
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 441
+	},
+	{
+		"RankList": [
+			"1:2",
+			"4:1"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Mec:2,QT:1",
+		"TagFilter": "(&G1 (| Mec QT))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Mec",
+			"Mec",
+			"QT"
+		],
+		"RankDist": [
+			1,
+			1,
+			4
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 442
+	},
+	{
+		"RankList": [
+			"1:2",
+			"4:1"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Sea:2,QT:1",
+		"TagFilter": "(&G1 (| Sea QT))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Sea",
+			"Sea",
+			"QT"
+		],
+		"RankDist": [
+			1,
+			1,
+			4
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 443
+	},
+	{
+		"RankList": [
+			"4:2"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "QT:2",
+		"TagFilter": "(&G1 QT)",
+		"HPRatio": 1,
+		"DistRule": [
+			"QT",
+			"QT"
+		],
+		"RankDist": [
+			4,
+			4
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 444
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush:1",
+		"TagFilter": "(&G1 (& !RushHard (& !Ice BioBoss)))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 501
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush:1",
+		"TagFilter": "(&G1 (& !RushHard (& !Ice PsyBoss)))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 502
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush:1",
+		"TagFilter": "(&G1 (& !RushHard (& !Ice MecBoss)))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 503
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush:1",
+		"TagFilter": "(&G1 (& !RushHard (& !Ice QTRush)))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 504
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush:1",
+		"TagFilter": "(&G1 (& !RushHard (& !Ice Rush)))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 505
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush:1",
+		"TagFilter": "(& !Ice BioBoss)",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 506
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush:1",
+		"TagFilter": "(& !Ice PsyBoss)",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 507
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush:1",
+		"TagFilter": "(& !Ice MecBoss)",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 508
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush:1",
+		"TagFilter": "(& !Ice QTRush)",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 509
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush:1",
+		"TagFilter": "(& !Ice RushHard)",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 510
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush:1",
+		"TagFilter": "(&G1 (& !RushHard (& !Fire BioBoss)))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 511
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush:1",
+		"TagFilter": "(&G1 (& !RushHard (& !Fire PsyBoss)))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 512
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush:1",
+		"TagFilter": "(& !RushHard (& !Fire MecBoss))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 513
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush:1",
+		"TagFilter": "(&G1 (& !RushHard (& !Fire QTRush)))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 514
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush:1",
+		"TagFilter": "(&G1 (& !RushHard (& !Fire Rush)))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 515
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush:1",
+		"TagFilter": "(& !Fire BioBoss)",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 516
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush:1",
+		"TagFilter": "(& !Fire PsyBoss)",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 517
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush:1",
+		"TagFilter": "(& !Fire MecBoss)",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 518
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush:1",
+		"TagFilter": "(& !Fire QTRush)",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 519
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush:1",
+		"TagFilter": "(& !Fire RushHard)",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 520
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush:1",
+		"TagFilter": "(&G1 (& !RushHard (& !Thunder BioBoss)))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 521
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush:1",
+		"TagFilter": "(&G1 (& !RushHard (& !Thunder PsyBoss)))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 522
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush:1",
+		"TagFilter": "(& !RushHard (& !Thunder MecBoss))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 523
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush:1",
+		"TagFilter": "(&G1 (& !RushHard (& !Thunder QTRush)))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 524
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush:1",
+		"TagFilter": "(&G1 (& !RushHard (& !Thunder Rush)))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 525
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush:1",
+		"TagFilter": "(& !Thunder BioBoss)",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 526
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush:1",
+		"TagFilter": "(& !Thunder PsyBoss)",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 527
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush:1",
+		"TagFilter": "(& !Thunder MecBoss)",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 528
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush:1",
+		"TagFilter": "(& !Thunder QTRush)",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 529
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush:1",
+		"TagFilter": "(& !Thunder RushHard)",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 530
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush:1",
+		"TagFilter": "(&G1 (& !RushHard QTRush))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 531
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush:1",
+		"TagFilter": "QTRush",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 532
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush:1",
+		"TagFilter": "(& !RushHard Rush)",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 533
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "RushHard:1",
+		"TagFilter": "RushHard",
+		"HPRatio": 1,
+		"DistRule": [
+			"RushHard"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 534
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush:1",
+		"TagFilter": "(& !RushHard BioBoss)",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 535
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush:1",
+		"TagFilter": "(& !RushHard PsyBoss)",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 536
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush:1",
+		"TagFilter": "(& !RushHard MecBoss)",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 537
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "QTWarrior:1",
+		"TagFilter": "QTWarrior",
+		"HPRatio": 1,
+		"DistRule": [
+			"QTWarrior"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 538
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "QTCrab:1",
+		"TagFilter": "QTCrab",
+		"HPRatio": 1,
+		"DistRule": [
+			"QTCrab"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 539
+	},
+	{
+		"RankList": [
+			"3:1"
+		],
+		"MonsterGroupType": 3,
+		"TagDistRule": "F1:1",
+		"TagFilter": "F1",
+		"HPRatio": 0.8,
+		"DistRule": [
+			"F1"
+		],
+		"RankDist": [
+			3
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1000
+	},
+	{
+		"RankList": [
+			"3:1"
+		],
+		"MonsterGroupType": 3,
+		"TagDistRule": "F2:1",
+		"TagFilter": "F2",
+		"HPRatio": 1,
+		"DistRule": [
+			"F2"
+		],
+		"RankDist": [
+			3
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1001
+	},
+	{
+		"RankList": [
+			"3:2"
+		],
+		"MonsterGroupType": 4,
+		"TagDistRule": "Twin03:2",
+		"TagFilter": "Twin03",
+		"HPRatio": 1,
+		"DistRule": [
+			"Twin03",
+			"Twin03"
+		],
+		"RankDist": [
+			3,
+			3
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1002
+	},
+	{
+		"RankList": [
+			"3:2"
+		],
+		"MonsterGroupType": 4,
+		"TagDistRule": "Twin02:2",
+		"TagFilter": "Twin02",
+		"HPRatio": 1,
+		"DistRule": [
+			"Twin02",
+			"Twin02"
+		],
+		"RankDist": [
+			3,
+			3
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1003
+	},
+	{
+		"RankList": [
+			"3:2"
+		],
+		"MonsterGroupType": 4,
+		"TagDistRule": "Twin01J:1,Twin01W:1",
+		"TagFilter": "(| Twin01J Twin01W)",
+		"HPRatio": 1,
+		"DistRule": [
+			"Twin01J",
+			"Twin01W"
+		],
+		"RankDist": [
+			3,
+			3
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1004
+	},
+	{
+		"RankList": [
+			"3:1"
+		],
+		"MonsterGroupType": 3,
+		"TagDistRule": "F4:1",
+		"TagFilter": "(& F4 HLNormal)",
+		"HPRatio": 1,
+		"DistRule": [
+			"F4"
+		],
+		"RankDist": [
+			3
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1005
+	},
+	{
+		"RankList": [
+			"3:1"
+		],
+		"MonsterGroupType": 3,
+		"TagDistRule": "F4:1",
+		"TagFilter": "(& F4 HLHard01)",
+		"HPRatio": 1,
+		"DistRule": [
+			"F4"
+		],
+		"RankDist": [
+			3
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1006
+	},
+	{
+		"RankList": [
+			"3:1"
+		],
+		"MonsterGroupType": 3,
+		"TagDistRule": "F4:1",
+		"TagFilter": "(& F4 HLHard02)",
+		"HPRatio": 1,
+		"DistRule": [
+			"F4"
+		],
+		"RankDist": [
+			3
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1007
+	},
+	{
+		"RankList": [
+			"3:1"
+		],
+		"MonsterGroupType": 3,
+		"TagDistRule": "F4:1",
+		"TagFilter": "(& F4 HLHard03)",
+		"HPRatio": 1,
+		"DistRule": [
+			"F4"
+		],
+		"RankDist": [
+			3
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1008
+	},
+	{
+		"RankList": [
+			"3:1"
+		],
+		"MonsterGroupType": 3,
+		"TagDistRule": "F4:1",
+		"TagFilter": "(& F4 BOSSLow HLNormal)",
+		"HPRatio": 1,
+		"DistRule": [
+			"F4"
+		],
+		"RankDist": [
+			3
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1009
+	},
+	{
+		"RankList": [
+			"3:1"
+		],
+		"MonsterGroupType": 3,
+		"TagDistRule": "BOSSF301:1",
+		"TagFilter": "BOSSF301",
+		"HPRatio": 1,
+		"DistRule": [
+			"BOSSF301"
+		],
+		"RankDist": [
+			3
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1010
+	},
+	{
+		"RankList": [
+			"3:1"
+		],
+		"MonsterGroupType": 3,
+		"TagDistRule": "BOSSF302:1",
+		"TagFilter": "BOSSF302",
+		"HPRatio": 1,
+		"DistRule": [
+			"BOSSF302"
+		],
+		"RankDist": [
+			3
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1011
+	},
+	{
+		"RankList": [
+			"3:1"
+		],
+		"MonsterGroupType": 3,
+		"TagDistRule": "BOSSF303:1",
+		"TagFilter": "BOSSF303",
+		"HPRatio": 1,
+		"DistRule": [
+			"BOSSF303"
+		],
+		"RankDist": [
+			3
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1012
+	},
+	{
+		"RankList": [
+			"3:1"
+		],
+		"MonsterGroupType": 3,
+		"TagDistRule": "F4:1",
+		"TagFilter": "(& F4 BOSSHand)",
+		"HPRatio": 1,
+		"DistRule": [
+			"F4"
+		],
+		"RankDist": [
+			3
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1013
+	},
+	{
+		"RankList": [
+			"3:1"
+		],
+		"MonsterGroupType": 3,
+		"TagDistRule": "F4:1",
+		"TagFilter": "(& F4 HLDragon)",
+		"HPRatio": 1,
+		"DistRule": [
+			"F4"
+		],
+		"RankDist": [
+			3
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1014
+	},
+	{
+		"RankList": [
+			"3:1"
+		],
+		"MonsterGroupType": 3,
+		"TagDistRule": "F4:1",
+		"TagFilter": "(& F4 HLHard04)",
+		"HPRatio": 1,
+		"DistRule": [
+			"F4"
+		],
+		"RankDist": [
+			3
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1015
+	},
+	{
+		"RankList": [
+			"3:1"
+		],
+		"MonsterGroupType": 3,
+		"TagDistRule": "F4:1",
+		"TagFilter": "(& F4 HLDragon Fire)",
+		"HPRatio": 1,
+		"DistRule": [
+			"F4"
+		],
+		"RankDist": [
+			3
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1016
+	},
+	{
+		"RankList": [
+			"3:1"
+		],
+		"MonsterGroupType": 3,
+		"TagDistRule": "F4:1",
+		"TagFilter": "(& F4 HLDragon Ice)",
+		"HPRatio": 1,
+		"DistRule": [
+			"F4"
+		],
+		"RankDist": [
+			3
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1017
+	},
+	{
+		"RankList": [
+			"3:1"
+		],
+		"MonsterGroupType": 3,
+		"TagDistRule": "F4:1",
+		"TagFilter": "(& F4 HLDragon Thunder)",
+		"HPRatio": 1,
+		"DistRule": [
+			"F4"
+		],
+		"RankDist": [
+			3
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1018
+	},
+	{
+		"RankList": [
+			"3:1"
+		],
+		"MonsterGroupType": 3,
+		"TagDistRule": "F4:1",
+		"TagFilter": "BossRita",
+		"HPRatio": 1,
+		"DistRule": [
+			"F4"
+		],
+		"RankDist": [
+			3
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1019
+	},
+	{
+		"RankList": [
+			"2:2"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Titan2:1,Titan3:1",
+		"TagFilter": "BossTitan",
+		"HPRatio": 1,
+		"DistRule": [
+			"Titan2",
+			"Titan3"
+		],
+		"RankDist": [
+			2,
+			2
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1020
+	},
+	{
+		"RankList": [
+			"5:2"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "QTBoss1:1,QTBoss2:1",
+		"TagFilter": "BossQT",
+		"HPRatio": 1,
+		"DistRule": [
+			"QTBoss1",
+			"QTBoss2"
+		],
+		"RankDist": [
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1021
+	},
+	{
+		"RankList": [
+			"2:2"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Titan1:1,Titan5:1",
+		"TagFilter": "BossTitan",
+		"HPRatio": 1,
+		"DistRule": [
+			"Titan1",
+			"Titan5"
+		],
+		"RankDist": [
+			2,
+			2
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1022
+	},
+	{
+		"RankList": [
+			"5:2"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "QTBoss3:1,QTBoss4:1",
+		"TagFilter": "BossQT",
+		"HPRatio": 1,
+		"DistRule": [
+			"QTBoss3",
+			"QTBoss4"
+		],
+		"RankDist": [
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1023
+	},
+	{
+		"RankList": [
+			"5:5"
+		],
+		"MonsterGroupType": 3,
+		"TagDistRule": "QTBoss5:2,Rider:3",
+		"TagFilter": "(| QTBoss5 Rider)",
+		"HPRatio": 1,
+		"DistRule": [
+			"QTBoss5",
+			"QTBoss5",
+			"Rider",
+			"Rider",
+			"Rider"
+		],
+		"RankDist": [
+			5,
+			5,
+			5,
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1024
+	},
+	{
+		"RankList": [
+			"5:5"
+		],
+		"MonsterGroupType": 3,
+		"TagDistRule": "QTBoss3:3,Warrior:2",
+		"TagFilter": "(| QTBoss3 Warrior)",
+		"HPRatio": 1,
+		"DistRule": [
+			"QTBoss3",
+			"QTBoss3",
+			"QTBoss3",
+			"Warrior",
+			"Warrior"
+		],
+		"RankDist": [
+			5,
+			5,
+			5,
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1025
+	},
+	{
+		"RankList": [
+			"5:5"
+		],
+		"MonsterGroupType": 3,
+		"TagDistRule": "QTBoss4:1,QTBoss2:1,Octopus:3",
+		"TagFilter": "(| QTBoss4 QTBoss2 Octopus)",
+		"HPRatio": 1,
+		"DistRule": [
+			"QTBoss4",
+			"QTBoss2",
+			"Octopus",
+			"Octopus",
+			"Octopus"
+		],
+		"RankDist": [
+			5,
+			5,
+			5,
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1026
+	},
+	{
+		"RankList": [
+			"3:1"
+		],
+		"MonsterGroupType": 3,
+		"TagDistRule": "FinalBoss:1",
+		"TagFilter": "(& FinalBoss HLDragon Fire)",
+		"HPRatio": 1,
+		"DistRule": [
+			"FinalBoss"
+		],
+		"RankDist": [
+			3
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1027
+	},
+	{
+		"RankList": [
+			"3:1"
+		],
+		"MonsterGroupType": 3,
+		"TagDistRule": "FinalBoss:1",
+		"TagFilter": "(& FinalBoss HLDragon Ice)",
+		"HPRatio": 1,
+		"DistRule": [
+			"FinalBoss"
+		],
+		"RankDist": [
+			3
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1028
+	},
+	{
+		"RankList": [
+			"3:1"
+		],
+		"MonsterGroupType": 3,
+		"TagDistRule": "FinalBoss:1",
+		"TagFilter": "BossRita",
+		"HPRatio": 1,
+		"DistRule": [
+			"FinalBoss"
+		],
+		"RankDist": [
+			3
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1029
+	},
+	{
+		"RankList": [
+			"2:3"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Titan4:1,Titan2:1,Titan3:1",
+		"TagFilter": "FinalBoss",
+		"HPRatio": 1,
+		"DistRule": [
+			"Titan4",
+			"Titan2",
+			"Titan3"
+		],
+		"RankDist": [
+			2,
+			2,
+			2
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1030
+	},
+	{
+		"RankList": [
+			"5:2"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "QTBoss1:1,QTBoss2:1",
+		"TagFilter": "FinalBoss",
+		"HPRatio": 1,
+		"DistRule": [
+			"QTBoss1",
+			"QTBoss2"
+		],
+		"RankDist": [
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1031
+	},
+	{
+		"RankList": [
+			"2:3"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "Titan1:1,Titan5:1,Titan6:1",
+		"TagFilter": "FinalBoss",
+		"HPRatio": 1,
+		"DistRule": [
+			"Titan1",
+			"Titan5",
+			"Titan6"
+		],
+		"RankDist": [
+			2,
+			2,
+			2
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1032
+	},
+	{
+		"RankList": [
+			"5:2"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "QTBoss3:1,QTBoss4:1",
+		"TagFilter": "FinalBoss",
+		"HPRatio": 1,
+		"DistRule": [
+			"QTBoss3",
+			"QTBoss4"
+		],
+		"RankDist": [
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1033
+	},
+	{
+		"RankList": [
+			"3:1"
+		],
+		"MonsterGroupType": 3,
+		"TagDistRule": "FinalBoss:1",
+		"TagFilter": "(& FinalBoss Tknight)",
+		"HPRatio": 1,
+		"DistRule": [
+			"FinalBoss"
+		],
+		"RankDist": [
+			3
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1034
+	},
+	{
+		"RankList": [
+			"3:1"
+		],
+		"MonsterGroupType": 3,
+		"TagDistRule": "FinalBoss:1",
+		"TagFilter": "(& FinalBoss PsyBoss1)",
+		"HPRatio": 1,
+		"DistRule": [
+			"FinalBoss"
+		],
+		"RankDist": [
+			3
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1035
+	},
+	{
+		"RankList": [
+			"3:1"
+		],
+		"MonsterGroupType": 3,
+		"TagDistRule": "FinalBoss:1",
+		"TagFilter": "(& FinalBoss Horse)",
+		"HPRatio": 1,
+		"DistRule": [
+			"FinalBoss"
+		],
+		"RankDist": [
+			3
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1036
+	},
+	{
+		"RankList": [
+			"3:1"
+		],
+		"MonsterGroupType": 3,
+		"TagDistRule": "Fire:1",
+		"TagFilter": "(& FinalBoss Halo)",
+		"HPRatio": 1,
+		"DistRule": [
+			"Fire"
+		],
+		"RankDist": [
+			3
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1037
+	},
+	{
+		"RankList": [
+			"3:1"
+		],
+		"MonsterGroupType": 3,
+		"TagDistRule": "Ice:1",
+		"TagFilter": "(& FinalBoss Halo)",
+		"HPRatio": 1,
+		"DistRule": [
+			"Ice"
+		],
+		"RankDist": [
+			3
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1038
+	},
+	{
+		"RankList": [
+			"3:1"
+		],
+		"MonsterGroupType": 3,
+		"TagDistRule": "F4:1",
+		"TagFilter": "(& F4 HLHard01)",
+		"HPRatio": 1,
+		"DistRule": [
+			"F4"
+		],
+		"RankDist": [
+			3
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1051
+	},
+	{
+		"RankList": [
+			"3:1"
+		],
+		"MonsterGroupType": 3,
+		"TagDistRule": "F4BOSS:1",
+		"TagFilter": "BossKianaC5",
+		"HPRatio": 1,
+		"DistRule": [
+			"F4BOSS"
+		],
+		"RankDist": [
+			3
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1052
+	},
+	{
+		"RankList": [
+			"3:1"
+		],
+		"MonsterGroupType": 3,
+		"TagDistRule": "F4BOSS:1",
+		"TagFilter": "BossXuanyuan",
+		"HPRatio": 1,
+		"DistRule": [
+			"F4BOSS"
+		],
+		"RankDist": [
+			3
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1053
+	},
+	{
+		"RankList": [
+			"3:1"
+		],
+		"MonsterGroupType": 3,
+		"TagDistRule": "F4BOSS:1",
+		"TagFilter": "BossUlystorm",
+		"HPRatio": 1,
+		"DistRule": [
+			"F4BOSS"
+		],
+		"RankDist": [
+			3
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1054
+	},
+	{
+		"RankList": [
+			"3:1"
+		],
+		"MonsterGroupType": 3,
+		"TagDistRule": "F4BOSS:1",
+		"TagFilter": "BossRita",
+		"HPRatio": 1,
+		"DistRule": [
+			"F4BOSS"
+		],
+		"RankDist": [
+			3
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1055
+	},
+	{
+		"RankList": [
+			"3:1"
+		],
+		"MonsterGroupType": 3,
+		"TagDistRule": "F4BOSS:1",
+		"TagFilter": "BossDragon",
+		"HPRatio": 1,
+		"DistRule": [
+			"F4BOSS"
+		],
+		"RankDist": [
+			3
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1056
+	},
+	{
+		"RankList": [
+			"3:1"
+		],
+		"MonsterGroupType": 3,
+		"TagDistRule": "F4BOSS:1",
+		"TagFilter": "BossSamurai",
+		"HPRatio": 1,
+		"DistRule": [
+			"F4BOSS"
+		],
+		"RankDist": [
+			3
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1057
+	},
+	{
+		"RankList": [
+			"3:1"
+		],
+		"MonsterGroupType": 3,
+		"TagDistRule": "F4BOSS:1",
+		"TagFilter": "RobotTKnight",
+		"HPRatio": 1,
+		"DistRule": [
+			"F4BOSS"
+		],
+		"RankDist": [
+			3
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1058
+	},
+	{
+		"RankList": [
+			"3:1"
+		],
+		"MonsterGroupType": 3,
+		"TagDistRule": "F4BOSS:1",
+		"TagFilter": "BossTwins",
+		"HPRatio": 1,
+		"DistRule": [
+			"F4BOSS"
+		],
+		"RankDist": [
+			3
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1059
+	},
+	{
+		"RankList": [
+			"5:2"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "QTBoss1:1,QTBoss2:1",
+		"TagFilter": "BossQT",
+		"HPRatio": 1,
+		"DistRule": [
+			"QTBoss1",
+			"QTBoss2"
+		],
+		"RankDist": [
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1060
+	},
+	{
+		"RankList": [
+			"5:2"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "QTBoss3:1,QTBoss4:1",
+		"TagFilter": "BossQT",
+		"HPRatio": 1,
+		"DistRule": [
+			"QTBoss3",
+			"QTBoss4"
+		],
+		"RankDist": [
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1061
+	},
+	{
+		"RankList": [
+			"3:1"
+		],
+		"MonsterGroupType": 3,
+		"TagDistRule": "F4BOSS:1",
+		"TagFilter": "BossQuantum",
+		"HPRatio": 1,
+		"DistRule": [
+			"F4BOSS"
+		],
+		"RankDist": [
+			3
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1062
+	},
+	{
+		"RankList": [
+			"3:1"
+		],
+		"MonsterGroupType": 3,
+		"TagDistRule": "UlyssesHalo1:1",
+		"TagFilter": "F4BOSS",
+		"HPRatio": 1,
+		"DistRule": [
+			"UlyssesHalo1"
+		],
+		"RankDist": [
+			3
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1063
+	},
+	{
+		"RankList": [
+			"3:1"
+		],
+		"MonsterGroupType": 3,
+		"TagDistRule": "UlyssesHalo2:1",
+		"TagFilter": "F4BOSS",
+		"HPRatio": 1.2,
+		"DistRule": [
+			"UlyssesHalo2"
+		],
+		"RankDist": [
+			3
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1064
+	},
+	{
+		"RankList": [
+			"2:2"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "RobotTitan1:1,RobotTitan2:1",
+		"TagFilter": "F4BOSS",
+		"HPRatio": 1,
+		"DistRule": [
+			"RobotTitan1",
+			"RobotTitan2"
+		],
+		"RankDist": [
+			2,
+			2
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1065
+	},
+	{
+		"RankList": [
+			"2:3"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "DeadGal2:1,DeadGal3:1,DeadGal4:1",
+		"TagFilter": "F4BOSS",
+		"HPRatio": 1,
+		"DistRule": [
+			"DeadGal2",
+			"DeadGal3",
+			"DeadGal4"
+		],
+		"RankDist": [
+			2,
+			2,
+			2
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1066
+	},
+	{
+		"RankList": [
+			"3:2"
+		],
+		"MonsterGroupType": 2,
+		"TagDistRule": "BossWendy:2",
+		"TagFilter": "F4BOSS",
+		"HPRatio": 1,
+		"DistRule": [
+			"BossWendy",
+			"BossWendy"
+		],
+		"RankDist": [
+			3,
+			3
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 1067
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush01:1",
+		"TagFilter": "Rush01",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush01"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2000
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush02:1",
+		"TagFilter": "Rush02",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush02"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2001
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush03:1",
+		"TagFilter": "Rush03",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush03"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2002
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush04:1",
+		"TagFilter": "Rush04",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush04"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2003
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush05:1",
+		"TagFilter": "Rush05",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush05"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2004
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush06:1",
+		"TagFilter": "Rush06",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush06"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2005
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush07:1",
+		"TagFilter": "Rush07",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush07"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2006
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush08:1",
+		"TagFilter": "Rush08",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush08"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2007
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush09:1",
+		"TagFilter": "Rush09",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush09"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2008
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush10:1",
+		"TagFilter": "Rush10",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush10"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2009
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush11:1",
+		"TagFilter": "Rush11",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush11"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2010
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush12:1",
+		"TagFilter": "Rush12",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush12"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2011
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush13:1",
+		"TagFilter": "Rush13",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush13"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2012
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "QTRush01:1",
+		"TagFilter": "QTRush01",
+		"HPRatio": 1,
+		"DistRule": [
+			"QTRush01"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2013
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "QTRush02:1",
+		"TagFilter": "QTRush02",
+		"HPRatio": 1,
+		"DistRule": [
+			"QTRush02"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2014
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "QTRush03:1",
+		"TagFilter": "QTRush03",
+		"HPRatio": 1,
+		"DistRule": [
+			"QTRush03"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2015
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "QTRush04:1",
+		"TagFilter": "QTRush04",
+		"HPRatio": 1,
+		"DistRule": [
+			"QTRush04"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2016
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "QTRush05:1",
+		"TagFilter": "QTRush05",
+		"HPRatio": 1,
+		"DistRule": [
+			"QTRush05"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2017
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "BRush01:1",
+		"TagFilter": "BRush01",
+		"HPRatio": 1,
+		"DistRule": [
+			"BRush01"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2018
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "BRush02:1",
+		"TagFilter": "BRush02",
+		"HPRatio": 1,
+		"DistRule": [
+			"BRush02"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2019
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "BRush03:1",
+		"TagFilter": "BRush03",
+		"HPRatio": 1,
+		"DistRule": [
+			"BRush03"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2020
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "BRush04:1",
+		"TagFilter": "BRush04",
+		"HPRatio": 1,
+		"DistRule": [
+			"BRush04"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2021
+	},
+	{
+		"RankList": [
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "BRush05:1",
+		"TagFilter": "BRush05",
+		"HPRatio": 1,
+		"DistRule": [
+			"BRush05"
+		],
+		"RankDist": [
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2022
+	},
+	{
+		"RankList": [
+			"2:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Rush14:1",
+		"TagFilter": "Rush14",
+		"HPRatio": 1,
+		"DistRule": [
+			"Rush14"
+		],
+		"RankDist": [
+			2
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2023
+	},
+	{
+		"RankList": [
+			"1:4",
+			"2:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:4,Elite:1",
+		"TagFilter": "(| (& Elite Ice) Little)",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Little",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			1,
+			2
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2100
+	},
+	{
+		"RankList": [
+			"1:4",
+			"2:1",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:4,Elite:2",
+		"TagFilter": "(| (& Elite Ice) Little)",
+		"HPRatio": 0.8,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Little",
+			"Elite",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			1,
+			2,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2101
+	},
+	{
+		"RankList": [
+			"1:3",
+			"5:2",
+			"2:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:3,Elite:3",
+		"TagFilter": "(| (& Elite Ice) Little)",
+		"HPRatio": 0.8,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Elite",
+			"Elite",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			5,
+			5,
+			2
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2102
+	},
+	{
+		"RankList": [
+			"1:4",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:4,Elite:1",
+		"TagFilter": "(&G1 (| (& Elite Ice) Little))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Little",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			1,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2103
+	},
+	{
+		"RankList": [
+			"1:3",
+			"5:2"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:3,Elite:2",
+		"TagFilter": "(&G1 (| (& Elite Ice) Little))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Elite",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2104
+	},
+	{
+		"RankList": [
+			"1:4",
+			"2:1",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:4,Ice:1,Common:1",
+		"TagFilter": "(| (& Elite Ice) Little (& Elite Common))",
+		"HPRatio": 0.8,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Little",
+			"Ice",
+			"Common"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			1,
+			2,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2105
+	},
+	{
+		"RankList": [
+			"1:3",
+			"5:2",
+			"2:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:3,Ice:1,Common:2",
+		"TagFilter": "(| (& Elite Ice) Little (& Elite Common))",
+		"HPRatio": 0.8,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Ice",
+			"Common",
+			"Common"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			5,
+			5,
+			2
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2106
+	},
+	{
+		"RankList": [
+			"1:3",
+			"5:2",
+			"2:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:3,Elite:3",
+		"TagFilter": "(| (& Elite Thunder) Little)",
+		"HPRatio": 0.8,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Elite",
+			"Elite",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			5,
+			5,
+			2
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2107
+	},
+	{
+		"RankList": [
+			"1:3",
+			"5:1",
+			"2:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:3,Elite:2",
+		"TagFilter": "(| (& Elite Thunder) Little)",
+		"HPRatio": 0.8,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Elite",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			5,
+			2
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2108
+	},
+	{
+		"RankList": [
+			"1:4",
+			"2:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:4,Elite:1",
+		"TagFilter": "(| (& Elite Thunder) Little)",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Little",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			1,
+			2
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2109
+	},
+	{
+		"RankList": [
+			"1:4",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:4,Elite:1",
+		"TagFilter": "(&G1 (| (& Elite Thunder) Little))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Little",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			1,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2110
+	},
+	{
+		"RankList": [
+			"1:4",
+			"5:2"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:4,Elite:2",
+		"TagFilter": "(&G1 (| (& Elite Thunder) Little))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Little",
+			"Elite",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			1,
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2111
+	},
+	{
+		"RankList": [
+			"1:4",
+			"2:1",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:4,Thunder:1,Common:1",
+		"TagFilter": "(| (& Elite Thunder) Little (& Elite Common))",
+		"HPRatio": 0.8,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Little",
+			"Thunder",
+			"Common"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			1,
+			2,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2112
+	},
+	{
+		"RankList": [
+			"1:3",
+			"5:2",
+			"2:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:3,Thunder:1,Common:2",
+		"TagFilter": "(| (& Elite Thunder) Little (& Elite Common))",
+		"HPRatio": 0.8,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Thunder",
+			"Common",
+			"Common"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			5,
+			5,
+			2
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2113
+	},
+	{
+		"RankList": [
+			"1:4",
+			"2:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:4,Elite:1",
+		"TagFilter": "(| (& Elite Fire) Little)",
+		"HPRatio": 0.8,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Little",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			1,
+			2
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2114
+	},
+	{
+		"RankList": [
+			"1:3",
+			"5:1",
+			"2:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:3,Elite:2",
+		"TagFilter": "(| (& Elite Fire) Little)",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Elite",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			5,
+			2
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2115
+	},
+	{
+		"RankList": [
+			"1:3",
+			"5:2",
+			"2:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:3,Elite:3",
+		"TagFilter": "(| (& Elite Fire) Little)",
+		"HPRatio": 0.8,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Elite",
+			"Elite",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			5,
+			5,
+			2
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2116
+	},
+	{
+		"RankList": [
+			"1:4",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:4,Elite:1",
+		"TagFilter": "(&G1 (| (& Elite Fire) Little))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Little",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			1,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2117
+	},
+	{
+		"RankList": [
+			"1:4",
+			"5:2"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:4,Elite:2",
+		"TagFilter": "(&G1 (| (& Elite Fire) Little))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Little",
+			"Elite",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			1,
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2118
+	},
+	{
+		"RankList": [
+			"1:4",
+			"2:1",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:4,Fire:1,Common:1",
+		"TagFilter": "(| (& Elite Fire) Little (& Elite Common))",
+		"HPRatio": 0.8,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Little",
+			"Fire",
+			"Common"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			1,
+			2,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2119
+	},
+	{
+		"RankList": [
+			"1:3",
+			"5:2",
+			"2:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:3,Fire:1,Common:2",
+		"TagFilter": "(| (& Elite Fire) Little (& Elite Common))",
+		"HPRatio": 0.8,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Fire",
+			"Common",
+			"Common"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			5,
+			5,
+			2
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2120
+	},
+	{
+		"RankList": [
+			"1:4",
+			"2:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:4,Elite:1",
+		"TagFilter": "(| Elite Little)",
+		"HPRatio": 0.8,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Little",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			1,
+			2
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2200
+	},
+	{
+		"RankList": [
+			"1:3",
+			"2:1",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:3,Elite:2",
+		"TagFilter": "(| Elite Little)",
+		"HPRatio": 0.8,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Elite",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			2,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2201
+	},
+	{
+		"RankList": [
+			"1:4",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:4,Elite:1",
+		"TagFilter": "(| Little (& Elite Power))",
+		"HPRatio": 0.8,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Little",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			1,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2202
+	},
+	{
+		"RankList": [
+			"1:3",
+			"2:1",
+			"5:2"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:3,Elite:3",
+		"TagFilter": "(| Little Elite )",
+		"HPRatio": 0.8,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Elite",
+			"Elite",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			2,
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2203
+	},
+	{
+		"RankList": [
+			"1:4",
+			"2:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:4,Elite:1",
+		"TagFilter": "(| (& Elite Common !Power) Little)",
+		"HPRatio": 0.8,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Little",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			1,
+			2
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2204
+	},
+	{
+		"RankList": [
+			"1:3",
+			"2:1",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:3,Elite:2",
+		"TagFilter": "(| (& Elite Common) Little)",
+		"HPRatio": 0.8,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Elite",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			2,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2205
+	},
+	{
+		"RankList": [
+			"1:4",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:4,Elite:1",
+		"TagFilter": "(| Little (& Elite Common Power))",
+		"HPRatio": 0.8,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Little",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			1,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2206
+	},
+	{
+		"RankList": [
+			"1:3",
+			"2:1",
+			"5:2"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:3,Elite:3",
+		"TagFilter": "(| Little (& Elite Common) )",
+		"HPRatio": 0.8,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Elite",
+			"Elite",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			2,
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2207
+	},
+	{
+		"RankList": [
+			"1:3",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:3,Elite:1",
+		"TagFilter": "(&G1 (| Little (& Elite !Power)))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2208
+	},
+	{
+		"RankList": [
+			"1:3",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:3,Elite:1",
+		"TagFilter": "(&G1 (| Little (& Elite Power)))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2209
+	},
+	{
+		"RankList": [
+			"1:3",
+			"5:2"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:3,Elite:2",
+		"TagFilter": "(&G1 (| Little (& Elite !Power)))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Elite",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2210
+	},
+	{
+		"RankList": [
+			"1:3",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:3,Elite:1",
+		"TagFilter": "(&G1 (| (& Elite Common !Power) Little))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2211
+	},
+	{
+		"RankList": [
+			"1:3",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:3,Elite:1",
+		"TagFilter": "(&G1 (| (& Elite Common Power) Little))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2212
+	},
+	{
+		"RankList": [
+			"1:3",
+			"5:2"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:3,Elite:2",
+		"TagFilter": "(&G1 (| (& Elite Common !Power) Little))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Elite",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2213
+	},
+	{
+		"RankList": [
+			"1:4",
+			"2:1",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:4,Elite:2",
+		"TagFilter": "(| Little (& Elite !Power))",
+		"HPRatio": 0.8,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Little",
+			"Elite",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			1,
+			2,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2214
+	},
+	{
+		"RankList": [
+			"1:4",
+			"2:1",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:4,Elite:1,Power:1",
+		"TagFilter": "(| Little (& Elite Power) Elite)",
+		"HPRatio": 0.8,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Little",
+			"Elite",
+			"Power"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			1,
+			2,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2215
+	},
+	{
+		"RankList": [
+			"1:4",
+			"4:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:4,QT:1",
+		"TagFilter": "(| QT Little)",
+		"HPRatio": 0.8,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Little",
+			"QT"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			1,
+			4
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2300
+	},
+	{
+		"RankList": [
+			"1:3",
+			"4:2"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:3,QT:2",
+		"TagFilter": "(| QT Little)",
+		"HPRatio": 0.8,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"QT",
+			"QT"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			4,
+			4
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2301
+	},
+	{
+		"RankList": [
+			"1:3",
+			"4:2",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:3,QT:2,Power:1",
+		"TagFilter": "(| QT Little Power)",
+		"HPRatio": 0.8,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"QT",
+			"QT",
+			"Power"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			4,
+			4,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2302
+	},
+	{
+		"RankList": [
+			"4:3"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "QT:3",
+		"TagFilter": "QT",
+		"HPRatio": 0.8,
+		"DistRule": [
+			"QT",
+			"QT",
+			"QT"
+		],
+		"RankDist": [
+			4,
+			4,
+			4
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2303
+	},
+	{
+		"RankList": [
+			"4:1",
+			"5:3"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "QT:1,Elite:3",
+		"TagFilter": "(| (& QT Rider) (& Elite Rider))",
+		"HPRatio": 0.8,
+		"DistRule": [
+			"QT",
+			"Elite",
+			"Elite",
+			"Elite"
+		],
+		"RankDist": [
+			4,
+			5,
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2304
+	},
+	{
+		"RankList": [
+			"4:2",
+			"5:2"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "QT:2,Elite:2",
+		"TagFilter": "(| (& QT Warrior) (& Elite Warrior))",
+		"HPRatio": 0.8,
+		"DistRule": [
+			"QT",
+			"QT",
+			"Elite",
+			"Elite"
+		],
+		"RankDist": [
+			4,
+			4,
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2305
+	},
+	{
+		"RankList": [
+			"4:2",
+			"5:2"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "QT:2,Elite:2",
+		"TagFilter": "(| (& QT Octopus) (& Elite Octopus))",
+		"HPRatio": 0.8,
+		"DistRule": [
+			"QT",
+			"QT",
+			"Elite",
+			"Elite"
+		],
+		"RankDist": [
+			4,
+			4,
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 2306
+	},
+	{
+		"RankList": [
+			"1:10"
+		],
+		"MonsterGroupType": 5,
+		"TagDistRule": "ModelSimple:10",
+		"TagFilter": "ModelSimple",
+		"HPRatio": 1,
+		"DistRule": [
+			"ModelSimple",
+			"ModelSimple",
+			"ModelSimple",
+			"ModelSimple",
+			"ModelSimple",
+			"ModelSimple",
+			"ModelSimple",
+			"ModelSimple",
+			"ModelSimple",
+			"ModelSimple"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1,
+			1
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 3000
+	},
+	{
+		"RankList": [
+			"5:2"
+		],
+		"MonsterGroupType": 6,
+		"TagDistRule": "Bio:2",
+		"TagFilter": "Bio",
+		"HPRatio": 1,
+		"DistRule": [
+			"Bio",
+			"Bio"
+		],
+		"RankDist": [
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 4000
+	},
+	{
+		"RankList": [
+			"5:2"
+		],
+		"MonsterGroupType": 6,
+		"TagDistRule": "Mec:2",
+		"TagFilter": "Mec",
+		"HPRatio": 1,
+		"DistRule": [
+			"Mec",
+			"Mec"
+		],
+		"RankDist": [
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 4001
+	},
+	{
+		"RankList": [
+			"5:2"
+		],
+		"MonsterGroupType": 6,
+		"TagDistRule": "Psy:2",
+		"TagFilter": "Psy",
+		"HPRatio": 1,
+		"DistRule": [
+			"Psy",
+			"Psy"
+		],
+		"RankDist": [
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 4002
+	},
+	{
+		"RankList": [
+			"5:2"
+		],
+		"MonsterGroupType": 6,
+		"TagDistRule": "Bio:2",
+		"TagFilter": "Ice",
+		"HPRatio": 1,
+		"DistRule": [
+			"Bio",
+			"Bio"
+		],
+		"RankDist": [
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 4003
+	},
+	{
+		"RankList": [
+			"5:2"
+		],
+		"MonsterGroupType": 6,
+		"TagDistRule": "Psy:2",
+		"TagFilter": "Ice",
+		"HPRatio": 1,
+		"DistRule": [
+			"Psy",
+			"Psy"
+		],
+		"RankDist": [
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 4004
+	},
+	{
+		"RankList": [
+			"5:2"
+		],
+		"MonsterGroupType": 6,
+		"TagDistRule": "Mec:2",
+		"TagFilter": "Thunder",
+		"HPRatio": 1,
+		"DistRule": [
+			"Mec",
+			"Mec"
+		],
+		"RankDist": [
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 4005
+	},
+	{
+		"RankList": [
+			"4:2"
+		],
+		"MonsterGroupType": 6,
+		"TagDistRule": "QT:2",
+		"TagFilter": "Warrior",
+		"HPRatio": 1,
+		"DistRule": [
+			"QT",
+			"QT"
+		],
+		"RankDist": [
+			4,
+			4
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 4006
+	},
+	{
+		"RankList": [
+			"4:2"
+		],
+		"MonsterGroupType": 6,
+		"TagDistRule": "QT:2",
+		"TagFilter": "Fast",
+		"HPRatio": 1,
+		"DistRule": [
+			"QT",
+			"QT"
+		],
+		"RankDist": [
+			4,
+			4
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 4007
+	},
+	{
+		"RankList": [
+			"1:4",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:4,Elite:1",
+		"TagFilter": "(& (& G1 (| (& Elite Ice) Little))  (| Bio Psy))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Little",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			1,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 12103
+	},
+	{
+		"RankList": [
+			"1:3",
+			"5:2"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:3,Elite:2",
+		"TagFilter": "(& (& G1 (| (& Elite Ice) Little))  (| Bio Psy))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Elite",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 12104
+	},
+	{
+		"RankList": [
+			"1:4",
+			"2:1",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:4,Ice:1,Common:1",
+		"TagFilter": "(& (| (& Elite Ice) Little (& Elite Common))  (| Bio Psy))",
+		"HPRatio": 0.8,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Little",
+			"Ice",
+			"Common"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			1,
+			2,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 12105
+	},
+	{
+		"RankList": [
+			"1:4",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:4,Elite:1",
+		"TagFilter": "(& (& G1 (| (& Elite Thunder) Little))  (| Bio Psy))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Little",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			1,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 12110
+	},
+	{
+		"RankList": [
+			"1:4",
+			"5:2"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:4,Elite:2",
+		"TagFilter": "(& (& G1 (| (& Elite Thunder) Little))  (| Bio Psy))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Little",
+			"Elite",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			1,
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 12111
+	},
+	{
+		"RankList": [
+			"1:4",
+			"2:1",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:4,Thunder:1,Common:1",
+		"TagFilter": "(& (| (& Elite Thunder) Little (& Elite Common))  (| Bio Psy))",
+		"HPRatio": 0.8,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Little",
+			"Thunder",
+			"Common"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			1,
+			2,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 12112
+	},
+	{
+		"RankList": [
+			"1:4",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:4,Elite:1",
+		"TagFilter": "(& (& G1 (| (& Elite Fire) Little))  (| Bio Psy))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Little",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			1,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 12117
+	},
+	{
+		"RankList": [
+			"1:4",
+			"5:2"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:4,Elite:2",
+		"TagFilter": "(& (& G1 (| (& Elite Fire) Little))  (| Bio Psy))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Little",
+			"Elite",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			1,
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 12118
+	},
+	{
+		"RankList": [
+			"1:4",
+			"2:1",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:4,Fire:1,Common:1",
+		"TagFilter": "(| (& Elite Fire) Little (& Elite Common))",
+		"HPRatio": 0.8,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Little",
+			"Fire",
+			"Common"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			1,
+			2,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 12119
+	},
+	{
+		"RankList": [
+			"1:3",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:3,Elite:1",
+		"TagFilter": "(& (& G1 (| Little (& Elite !Power)))  (| Bio Psy))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 12208
+	},
+	{
+		"RankList": [
+			"1:3",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:3,Elite:1",
+		"TagFilter": "(& (& G1 (| Little (& Elite Power)))  (| Bio Psy))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 12209
+	},
+	{
+		"RankList": [
+			"1:3",
+			"5:2"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:3,Elite:2",
+		"TagFilter": "(& (& G1 (| Little (& Elite !Power)))  (| Bio Psy))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Elite",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 12210
+	},
+	{
+		"RankList": [
+			"1:3",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:3,Elite:1",
+		"TagFilter": "(& (& G1 (| (& Elite Common !Power) Little))  (| Bio Psy))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 12211
+	},
+	{
+		"RankList": [
+			"1:3",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:3,Elite:1",
+		"TagFilter": "(& (& G1 (| (& Elite Common Power) Little))  (| Bio Psy))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 12212
+	},
+	{
+		"RankList": [
+			"1:3",
+			"5:2"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:3,Elite:2",
+		"TagFilter": "(& (& G1 (| (& Elite Common !Power) Little))  (| Bio Psy))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Elite",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 12213
+	},
+	{
+		"RankList": [
+			"1:4",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:4,Elite:1",
+		"TagFilter": "(& (& G1 (| (& Elite Ice) Little))  (| Bio Mec))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Little",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			1,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 22103
+	},
+	{
+		"RankList": [
+			"1:3",
+			"5:2"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:3,Elite:2",
+		"TagFilter": "(& (& G1 (| (& Elite Ice) Little))  (| Bio Mec))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Elite",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 22104
+	},
+	{
+		"RankList": [
+			"1:4",
+			"2:1",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:4,Ice:1,Common:1",
+		"TagFilter": "(& (| (& Elite Ice) Little (& Elite Common))  (| Bio Mec))",
+		"HPRatio": 0.8,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Little",
+			"Ice",
+			"Common"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			1,
+			2,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 22105
+	},
+	{
+		"RankList": [
+			"1:4",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:4,Elite:1",
+		"TagFilter": "(&G1 (| (& Elite Thunder) Little))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Little",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			1,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 22110
+	},
+	{
+		"RankList": [
+			"1:4",
+			"5:2"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:4,Elite:2",
+		"TagFilter": "(&G1 (| (& Elite Thunder) Little))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Little",
+			"Elite",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			1,
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 22111
+	},
+	{
+		"RankList": [
+			"1:4",
+			"2:1",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:4,Thunder:1,Common:1",
+		"TagFilter": "(& (| (& Elite Thunder) Little (& Elite Common))  (| Bio Mec))",
+		"HPRatio": 0.8,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Little",
+			"Thunder",
+			"Common"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			1,
+			2,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 22112
+	},
+	{
+		"RankList": [
+			"1:4",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:4,Elite:1",
+		"TagFilter": "(& (& G1 (| (& Elite Fire) Little))  (| Bio Mec))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Little",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			1,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 22117
+	},
+	{
+		"RankList": [
+			"1:4",
+			"5:2"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:4,Elite:2",
+		"TagFilter": "(& (& G1 (| (& Elite Fire) Little))  (| Bio Mec))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Little",
+			"Elite",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			1,
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 22118
+	},
+	{
+		"RankList": [
+			"1:4",
+			"2:1",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:4,Fire:1,Common:1",
+		"TagFilter": "(& (| (& Elite Fire) Little (& Elite Common))  (| Bio Mec))",
+		"HPRatio": 0.8,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Little",
+			"Fire",
+			"Common"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			1,
+			2,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 22119
+	},
+	{
+		"RankList": [
+			"1:3",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:3,Elite:1",
+		"TagFilter": "(& (& G1 (| Little (& Elite !Power)))  (| Bio Mec))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 22208
+	},
+	{
+		"RankList": [
+			"1:3",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:3,Elite:1",
+		"TagFilter": "(& (& G1 (| Little (& Elite Power)))  (| Bio Mec))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 22209
+	},
+	{
+		"RankList": [
+			"1:3",
+			"5:2"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:3,Elite:2",
+		"TagFilter": "(& (& G1 (| Little (& Elite !Power)))  (| Bio Mec))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Elite",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 22210
+	},
+	{
+		"RankList": [
+			"1:3",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:3,Elite:1",
+		"TagFilter": "(& (& G1 (| (& Elite Common !Power) Little))  (| Bio Mec))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 22211
+	},
+	{
+		"RankList": [
+			"1:3",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:3,Elite:1",
+		"TagFilter": "(& (& G1 (| (& Elite Common Power) Little))  (| Bio Mec))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 22212
+	},
+	{
+		"RankList": [
+			"1:3",
+			"5:2"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:3,Elite:2",
+		"TagFilter": "(& (& G1 (| (& Elite Common !Power) Little))  (| Bio Mec))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Elite",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 22213
+	},
+	{
+		"RankList": [
+			"1:4",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:4,Elite:1",
+		"TagFilter": "(& (& G1 (| (& Elite Ice) Little))  (| Psy Mec))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Little",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			1,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 32103
+	},
+	{
+		"RankList": [
+			"1:3",
+			"5:2"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:3,Elite:2",
+		"TagFilter": "(& (& G1 (| (& Elite Ice) Little))  (| Psy Mec))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Elite",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 32104
+	},
+	{
+		"RankList": [
+			"1:4",
+			"2:1",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:4,Ice:1,Common:1",
+		"TagFilter": "(& (| (& Elite Ice) Little (& Elite Common))  (| Psy Mec))",
+		"HPRatio": 0.8,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Little",
+			"Ice",
+			"Common"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			1,
+			2,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 32105
+	},
+	{
+		"RankList": [
+			"1:4",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:4,Elite:1",
+		"TagFilter": "(& (& G1 (| (& Elite Thunder) Little))  (| Psy Mec))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Little",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			1,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 32110
+	},
+	{
+		"RankList": [
+			"1:4",
+			"5:2"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:4,Elite:2",
+		"TagFilter": "(& (& G1 (| (& Elite Thunder) Little))  (| Psy Mec))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Little",
+			"Elite",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			1,
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 32111
+	},
+	{
+		"RankList": [
+			"1:4",
+			"2:1",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:4,Thunder:1,Common:1",
+		"TagFilter": "(& (| (& Elite Thunder) Little (& Elite Common))  (| Psy Mec))",
+		"HPRatio": 0.8,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Little",
+			"Thunder",
+			"Common"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			1,
+			2,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 32112
+	},
+	{
+		"RankList": [
+			"1:4",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:4,Elite:1",
+		"TagFilter": "(&G1 (| (& Elite Fire) Little))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Little",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			1,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 32117
+	},
+	{
+		"RankList": [
+			"1:4",
+			"5:2"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:4,Elite:2",
+		"TagFilter": "(&G1 (| (& Elite Fire) Little))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Little",
+			"Elite",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			1,
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 32118
+	},
+	{
+		"RankList": [
+			"1:4",
+			"2:1",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:4,Fire:1,Common:1",
+		"TagFilter": "(& (| (& Elite Fire) Little (& Elite Common))  (| Psy Mec))",
+		"HPRatio": 0.8,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Little",
+			"Fire",
+			"Common"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			1,
+			2,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 32119
+	},
+	{
+		"RankList": [
+			"1:3",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:3,Elite:1",
+		"TagFilter": "(& (& G1 (| Little (& Elite !Power)))  (| Psy Mec))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 32208
+	},
+	{
+		"RankList": [
+			"1:3",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:3,Elite:1",
+		"TagFilter": "(& (& G1 (| Little (& Elite Power)))  (| Psy Mec))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 32209
+	},
+	{
+		"RankList": [
+			"1:3",
+			"5:2"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:3,Elite:2",
+		"TagFilter": "(& (& G1 (| Little (& Elite !Power)))  (| Psy Mec))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Elite",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 32210
+	},
+	{
+		"RankList": [
+			"1:3",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:3,Elite:1",
+		"TagFilter": "(& (& G1 (| (& Elite Common !Power) Little))  (| Psy Mec))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 32211
+	},
+	{
+		"RankList": [
+			"1:3",
+			"5:1"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:3,Elite:1",
+		"TagFilter": "(& (& G1 (| (& Elite Common Power) Little))  (| Psy Mec))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 32212
+	},
+	{
+		"RankList": [
+			"1:3",
+			"5:2"
+		],
+		"MonsterGroupType": 1,
+		"TagDistRule": "Little:3,Elite:2",
+		"TagFilter": "(& (& G1 (| (& Elite Common !Power) Little))  (| Psy Mec))",
+		"HPRatio": 1,
+		"DistRule": [
+			"Little",
+			"Little",
+			"Little",
+			"Elite",
+			"Elite"
+		],
+		"RankDist": [
+			1,
+			1,
+			1,
+			5,
+			5
+		],
+		"TagExpression": {},
+		"DataImpl": {},
+		"WaveID": 32213
+	}
+]

@@ -1,0 +1,902 @@
+[
+	{
+		"MapID": 1,
+		"MapXY": [],
+		"PreSkillID": 0,
+		"UnlockMapLv": 1,
+		"UnlockStoryId": 0,
+		"UnlockType": 0,
+		"UnlockCost": 0,
+		"SkillType": 1,
+		"SkillPar": "Servant_Fox_Empty",
+		"SkillIconPath": "SpriteOutput/OpenWorld/ServantSkill/Skill_Servant_Fox_Fireball",
+		"SkillName": {
+			"hash": 1558187257
+		},
+		"SkillInfo": {
+			"hash": 1426848348
+		},
+		"DataImpl": {},
+		"SkillID": 1
+	},
+	{
+		"MapID": 1,
+		"MapXY": [],
+		"PreSkillID": 0,
+		"UnlockMapLv": 1,
+		"UnlockStoryId": 0,
+		"UnlockType": 0,
+		"UnlockCost": 0,
+		"SkillType": 1,
+		"SkillPar": "Servant_Fox_Empty",
+		"SkillIconPath": "SpriteOutput/OpenWorld/ServantSkill/Skill_Servant_Fox_Attack",
+		"SkillName": {
+			"hash": 1558187258
+		},
+		"SkillInfo": {
+			"hash": 1426848349
+		},
+		"DataImpl": {},
+		"SkillID": 2
+	},
+	{
+		"MapID": 1,
+		"MapXY": [],
+		"PreSkillID": 0,
+		"UnlockMapLv": 10,
+		"UnlockStoryId": 0,
+		"UnlockType": 0,
+		"UnlockCost": 0,
+		"SkillType": 1,
+		"SkillPar": "Servant_Fox_Unlock_Ranged_Super",
+		"SkillIconPath": "SpriteOutput/OpenWorld/ServantSkill/Skill_Servant_Fox_Cannon",
+		"SkillName": {
+			"hash": 1558187259
+		},
+		"SkillInfo": {
+			"hash": 1426848350
+		},
+		"DataImpl": {},
+		"SkillID": 3
+	},
+	{
+		"MapID": 1,
+		"MapXY": [],
+		"PreSkillID": 0,
+		"UnlockMapLv": 16,
+		"UnlockStoryId": 0,
+		"UnlockType": 0,
+		"UnlockCost": 0,
+		"SkillType": 1,
+		"SkillPar": "Servant_Fox_Unlock_Near_Super",
+		"SkillIconPath": "SpriteOutput/OpenWorld/ServantSkill/Skill_Servant_Fox_Explode",
+		"SkillName": {
+			"hash": 1558187260
+		},
+		"SkillInfo": {
+			"hash": 1426848351
+		},
+		"DataImpl": {},
+		"SkillID": 4
+	},
+	{
+		"MapID": 1,
+		"MapXY": [],
+		"PreSkillID": 0,
+		"UnlockMapLv": 20,
+		"UnlockStoryId": 0,
+		"UnlockType": 0,
+		"UnlockCost": 0,
+		"SkillType": 1,
+		"SkillPar": "Servant_Fox_Attack_Burn",
+		"SkillIconPath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_Weapon_07",
+		"SkillName": {
+			"hash": 1558187261
+		},
+		"SkillInfo": {
+			"hash": 1426848352
+		},
+		"DataImpl": {},
+		"SkillID": 5
+	},
+	{
+		"MapID": 1,
+		"MapXY": [],
+		"PreSkillID": 0,
+		"UnlockMapLv": 26,
+		"UnlockStoryId": 0,
+		"UnlockType": 0,
+		"UnlockCost": 0,
+		"SkillType": 1,
+		"SkillPar": "Servant_Fox_Attack_Explode",
+		"SkillIconPath": "SpriteOutput/SkillIconsInLevel/Skill_Himeko_Weapon_01",
+		"SkillName": {
+			"hash": 1558187262
+		},
+		"SkillInfo": {
+			"hash": 1426848353
+		},
+		"DataImpl": {},
+		"SkillID": 6
+	},
+	{
+		"MapID": 1,
+		"MapXY": [],
+		"PreSkillID": 0,
+		"UnlockMapLv": 14,
+		"UnlockStoryId": 0,
+		"UnlockType": 0,
+		"UnlockCost": 0,
+		"SkillType": 5,
+		"SkillPar": "1",
+		"SkillIconPath": "SpriteOutput/OpenWorld/ServantSkill/Skill_Servant_Fox_QuestTeleport",
+		"SkillName": {
+			"hash": 1558187263
+		},
+		"SkillInfo": {
+			"hash": 1426848354
+		},
+		"DataImpl": {},
+		"SkillID": 7
+	},
+	{
+		"MapID": 1,
+		"MapXY": [],
+		"PreSkillID": 0,
+		"UnlockMapLv": 6,
+		"UnlockStoryId": 0,
+		"UnlockType": 0,
+		"UnlockCost": 0,
+		"SkillType": 4,
+		"SkillPar": "1",
+		"SkillIconPath": "SpriteOutput/OpenWorld/ServantSkill/Skill_Servant_Fox_NormalTeleport",
+		"SkillName": {
+			"hash": 1558187264
+		},
+		"SkillInfo": {
+			"hash": 1426848355
+		},
+		"DataImpl": {},
+		"SkillID": 8
+	},
+	{
+		"MapID": 1,
+		"MapXY": [],
+		"PreSkillID": 0,
+		"UnlockMapLv": 2,
+		"UnlockStoryId": 0,
+		"UnlockType": 0,
+		"UnlockCost": 0,
+		"SkillType": 6,
+		"SkillPar": "1",
+		"SkillIconPath": "SpriteOutput/OpenWorld/ServantSkill/Skill_Servant_Fox_Hide",
+		"SkillName": {
+			"hash": 1059164759
+		},
+		"SkillInfo": {
+			"hash": 1282625876
+		},
+		"DataImpl": {},
+		"SkillID": 10
+	},
+	{
+		"MapID": 1,
+		"MapXY": [],
+		"PreSkillID": 0,
+		"UnlockMapLv": 4,
+		"UnlockStoryId": 0,
+		"UnlockType": 0,
+		"UnlockCost": 0,
+		"SkillType": 7,
+		"SkillPar": "1",
+		"SkillIconPath": "SpriteOutput/OpenWorld/ServantSkill/Skill_Servant_Fox_Assassin",
+		"SkillName": {
+			"hash": 1059164760
+		},
+		"SkillInfo": {
+			"hash": 1282625877
+		},
+		"DataImpl": {},
+		"SkillID": 11
+	},
+	{
+		"MapID": 1,
+		"MapXY": [],
+		"PreSkillID": 0,
+		"UnlockMapLv": 12,
+		"UnlockStoryId": 0,
+		"UnlockType": 0,
+		"UnlockCost": 0,
+		"SkillType": 8,
+		"SkillPar": "1",
+		"SkillIconPath": "SpriteOutput/OpenWorld/ServantSkill/Skill_Servant_Fox_EyeField",
+		"SkillName": {
+			"hash": 1059164761
+		},
+		"SkillInfo": {
+			"hash": 1282625878
+		},
+		"DataImpl": {},
+		"SkillID": 12
+	},
+	{
+		"MapID": 1,
+		"MapXY": [],
+		"PreSkillID": 0,
+		"UnlockMapLv": 18,
+		"UnlockStoryId": 0,
+		"UnlockType": 0,
+		"UnlockCost": 0,
+		"SkillType": 2,
+		"SkillPar": "Levelbuff_Servant_Fox_Attack_AddFire",
+		"SkillIconPath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_Weapon_14",
+		"SkillName": {
+			"hash": 1059164762
+		},
+		"SkillInfo": {
+			"hash": 1282625879
+		},
+		"DataImpl": {},
+		"SkillID": 13
+	},
+	{
+		"MapID": 1,
+		"MapXY": [],
+		"PreSkillID": 0,
+		"UnlockMapLv": 23,
+		"UnlockStoryId": 0,
+		"UnlockType": 0,
+		"UnlockCost": 0,
+		"SkillType": 2,
+		"SkillPar": "Levelbuff_Servant_Fox_FireShield",
+		"SkillIconPath": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_Weapon_14",
+		"SkillName": {
+			"hash": 1059164763
+		},
+		"SkillInfo": {
+			"hash": 1282625880
+		},
+		"DataImpl": {},
+		"SkillID": 14
+	},
+	{
+		"MapID": 2,
+		"MapXY": [],
+		"PreSkillID": 0,
+		"UnlockMapLv": 1,
+		"UnlockStoryId": 0,
+		"UnlockType": 0,
+		"UnlockCost": 0,
+		"SkillType": 11,
+		"SkillPar": "Servant_Fox_Empty",
+		"SkillIconPath": "SpriteOutput/OpenWorld/ServantSkill/Skill_Servant_AI_Execution",
+		"SkillName": {
+			"hash": -1525630790
+		},
+		"SkillInfo": {
+			"hash": 1106696541
+		},
+		"DataImpl": {},
+		"SkillID": 101
+	},
+	{
+		"MapID": 2,
+		"MapXY": [],
+		"PreSkillID": 0,
+		"UnlockMapLv": 3,
+		"UnlockStoryId": 0,
+		"UnlockType": 0,
+		"UnlockCost": 0,
+		"SkillType": 11,
+		"SkillPar": "Servant_Fox_Empty",
+		"SkillIconPath": "SpriteOutput/OpenWorld/ServantSkill/Skill_Servant_AI_BossTitan",
+		"SkillName": {
+			"hash": -1525630789
+		},
+		"SkillInfo": {
+			"hash": 1106696542
+		},
+		"DataImpl": {},
+		"SkillID": 102
+	},
+	{
+		"MapID": 2,
+		"MapXY": [],
+		"PreSkillID": 0,
+		"UnlockMapLv": 9,
+		"UnlockStoryId": 0,
+		"UnlockType": 0,
+		"UnlockCost": 0,
+		"SkillType": 11,
+		"SkillPar": "Servant_Fox_Empty",
+		"SkillIconPath": "SpriteOutput/OpenWorld/ServantSkill/Skill_Servant_AI_Hack_Robot",
+		"SkillName": {
+			"hash": -1525630788
+		},
+		"SkillInfo": {
+			"hash": 1106696543
+		},
+		"DataImpl": {},
+		"SkillID": 103
+	},
+	{
+		"MapID": 2,
+		"MapXY": [],
+		"PreSkillID": 0,
+		"UnlockMapLv": 1,
+		"UnlockStoryId": 0,
+		"UnlockType": 0,
+		"UnlockCost": 0,
+		"SkillType": 11,
+		"SkillPar": "Servant_Fox_Empty",
+		"SkillIconPath": "SpriteOutput/OpenWorld/ServantSkill/Skill_Servant_AI_Energy",
+		"SkillName": {
+			"hash": -1525630787
+		},
+		"SkillInfo": {
+			"hash": 1106696544
+		},
+		"DataImpl": {},
+		"SkillID": 104
+	},
+	{
+		"MapID": 2,
+		"MapXY": [
+			1,
+			1
+		],
+		"PreSkillID": 0,
+		"UnlockMapLv": 1,
+		"UnlockStoryId": 101,
+		"UnlockType": 1,
+		"UnlockCost": 1,
+		"SkillType": 10,
+		"SkillPar": "Hack_Electric_1",
+		"SkillIconPath": "SpriteOutput/OpenWorld/ServantSkill/Skill_Servant_AI_Electric",
+		"SkillName": {
+			"hash": -1525629829
+		},
+		"SkillInfo": {
+			"hash": 1106697502
+		},
+		"DataImpl": {},
+		"SkillID": 201
+	},
+	{
+		"MapID": 2,
+		"MapXY": [
+			2,
+			1
+		],
+		"PreSkillID": 201,
+		"UnlockMapLv": 1,
+		"UnlockStoryId": 101,
+		"UnlockType": 1,
+		"UnlockCost": 1,
+		"SkillType": 10,
+		"SkillPar": "Hack_Electric_2",
+		"SkillIconPath": "SpriteOutput/OpenWorld/ServantSkill/Skill_Servant_AI_Electric",
+		"SkillName": {
+			"hash": -1525629828
+		},
+		"SkillInfo": {
+			"hash": 1106697503
+		},
+		"DataImpl": {},
+		"SkillID": 202
+	},
+	{
+		"MapID": 2,
+		"MapXY": [
+			1,
+			2
+		],
+		"PreSkillID": 201,
+		"UnlockMapLv": 1,
+		"UnlockStoryId": 101,
+		"UnlockType": 1,
+		"UnlockCost": 1,
+		"SkillType": 10,
+		"SkillPar": "Hack_Laser",
+		"SkillIconPath": "SpriteOutput/OpenWorld/ServantSkill/Skill_Servant_AI_Light",
+		"SkillName": {
+			"hash": -1525629827
+		},
+		"SkillInfo": {
+			"hash": 1106697504
+		},
+		"DataImpl": {},
+		"SkillID": 203
+	},
+	{
+		"MapID": 2,
+		"MapXY": [
+			1,
+			3
+		],
+		"PreSkillID": 203,
+		"UnlockMapLv": 1,
+		"UnlockStoryId": 101,
+		"UnlockType": 1,
+		"UnlockCost": 1,
+		"SkillType": 10,
+		"SkillPar": "Hack_Master_1",
+		"SkillIconPath": "SpriteOutput/OpenWorld/ServantSkill/Skill_Servant_AI_PowerUp",
+		"SkillName": {
+			"hash": -1525629826
+		},
+		"SkillInfo": {
+			"hash": 1106697505
+		},
+		"DataImpl": {},
+		"SkillID": 204
+	},
+	{
+		"MapID": 2,
+		"MapXY": [
+			2,
+			3
+		],
+		"PreSkillID": 204,
+		"UnlockMapLv": 1,
+		"UnlockStoryId": 101,
+		"UnlockType": 1,
+		"UnlockCost": 1,
+		"SkillType": 10,
+		"SkillPar": "Hack_Master_2",
+		"SkillIconPath": "SpriteOutput/OpenWorld/ServantSkill/Skill_Servant_AI_PowerUp",
+		"SkillName": {
+			"hash": -1525629825
+		},
+		"SkillInfo": {
+			"hash": 1106697506
+		},
+		"DataImpl": {},
+		"SkillID": 205
+	},
+	{
+		"MapID": 2,
+		"MapXY": [
+			1,
+			4
+		],
+		"PreSkillID": 204,
+		"UnlockMapLv": 1,
+		"UnlockStoryId": 101,
+		"UnlockType": 1,
+		"UnlockCost": 1,
+		"SkillType": 10,
+		"SkillPar": "Hack_Reverse",
+		"SkillIconPath": "SpriteOutput/OpenWorld/ServantSkill/Skill_Servant_AI_Reverse",
+		"SkillName": {
+			"hash": -1525629824
+		},
+		"SkillInfo": {
+			"hash": 1106697507
+		},
+		"DataImpl": {},
+		"SkillID": 206
+	},
+	{
+		"MapID": 2,
+		"MapXY": [
+			1,
+			5
+		],
+		"PreSkillID": 206,
+		"UnlockMapLv": 1,
+		"UnlockStoryId": 101,
+		"UnlockType": 1,
+		"UnlockCost": 1,
+		"SkillType": 10,
+		"SkillPar": "Hack_Explosion_1",
+		"SkillIconPath": "SpriteOutput/OpenWorld/ServantSkill/Skill_Servant_Fox_Explode",
+		"SkillName": {
+			"hash": -1525629823
+		},
+		"SkillInfo": {
+			"hash": 1106697508
+		},
+		"DataImpl": {},
+		"SkillID": 207
+	},
+	{
+		"MapID": 2,
+		"MapXY": [
+			2,
+			5
+		],
+		"PreSkillID": 207,
+		"UnlockMapLv": 1,
+		"UnlockStoryId": 101,
+		"UnlockType": 1,
+		"UnlockCost": 2,
+		"SkillType": 10,
+		"SkillPar": "Hack_Explosion_2",
+		"SkillIconPath": "SpriteOutput/OpenWorld/ServantSkill/Skill_Servant_Fox_Explode",
+		"SkillName": {
+			"hash": -1525629822
+		},
+		"SkillInfo": {
+			"hash": 1106697509
+		},
+		"DataImpl": {},
+		"SkillID": 208
+	},
+	{
+		"MapID": 2,
+		"MapXY": [
+			1,
+			6
+		],
+		"PreSkillID": 207,
+		"UnlockMapLv": 1,
+		"UnlockStoryId": 101,
+		"UnlockType": 1,
+		"UnlockCost": 2,
+		"SkillType": 10,
+		"SkillPar": "Hack_Robot",
+		"SkillIconPath": "SpriteOutput/OpenWorld/ServantSkill/Skill_Servant_AI_HackMaster",
+		"SkillName": {
+			"hash": -1525629821
+		},
+		"SkillInfo": {
+			"hash": 1106697510
+		},
+		"DataImpl": {},
+		"SkillID": 209
+	},
+	{
+		"MapID": 2,
+		"MapXY": [
+			2,
+			6
+		],
+		"PreSkillID": 209,
+		"UnlockMapLv": 15,
+		"UnlockStoryId": 101,
+		"UnlockType": 1,
+		"UnlockCost": 2,
+		"SkillType": 10,
+		"SkillPar": "Hack_Exploration",
+		"SkillIconPath": "SpriteOutput/OpenWorld/ServantSkill/Skill_Servant_AI_Rescue",
+		"SkillName": {
+			"hash": -1525629799
+		},
+		"SkillInfo": {
+			"hash": 1106697532
+		},
+		"DataImpl": {},
+		"SkillID": 210
+	},
+	{
+		"MapID": 2,
+		"MapXY": [
+			1,
+			1
+		],
+		"PreSkillID": 0,
+		"UnlockMapLv": 1,
+		"UnlockStoryId": 101,
+		"UnlockType": 1,
+		"UnlockCost": 1,
+		"SkillType": 9,
+		"SkillPar": "ServantAI_Assassination",
+		"SkillIconPath": "SpriteOutput/OpenWorld/ServantSkill/Skill_Servant_AI_Hack_1",
+		"SkillName": {
+			"hash": -1525628868
+		},
+		"SkillInfo": {
+			"hash": 1106698463
+		},
+		"DataImpl": {},
+		"SkillID": 301
+	},
+	{
+		"MapID": 2,
+		"MapXY": [
+			1,
+			2
+		],
+		"PreSkillID": 301,
+		"UnlockMapLv": 1,
+		"UnlockStoryId": 101,
+		"UnlockType": 1,
+		"UnlockCost": 1,
+		"SkillType": 9,
+		"SkillPar": "ServantAI_Energy_1",
+		"SkillIconPath": "SpriteOutput/OpenWorld/ServantSkill/Skill_Servant_AI_Energy",
+		"SkillName": {
+			"hash": -1525628867
+		},
+		"SkillInfo": {
+			"hash": 1106698464
+		},
+		"DataImpl": {},
+		"SkillID": 302
+	},
+	{
+		"MapID": 2,
+		"MapXY": [
+			2,
+			2
+		],
+		"PreSkillID": 302,
+		"UnlockMapLv": 1,
+		"UnlockStoryId": 101,
+		"UnlockType": 1,
+		"UnlockCost": 1,
+		"SkillType": 9,
+		"SkillPar": "ServantAI_Energy_2",
+		"SkillIconPath": "SpriteOutput/OpenWorld/ServantSkill/Skill_Servant_AI_Electric",
+		"SkillName": {
+			"hash": -1525628866
+		},
+		"SkillInfo": {
+			"hash": 1106698465
+		},
+		"DataImpl": {},
+		"SkillID": 303
+	},
+	{
+		"MapID": 2,
+		"MapXY": [
+			1,
+			3
+		],
+		"PreSkillID": 302,
+		"UnlockMapLv": 1,
+		"UnlockStoryId": 101,
+		"UnlockType": 1,
+		"UnlockCost": 1,
+		"SkillType": 9,
+		"SkillPar": "ServantAI_Heal",
+		"SkillIconPath": "SpriteOutput/OpenWorld/ServantSkill/Skill_Servant_AI_Energy",
+		"SkillName": {
+			"hash": -1525628865
+		},
+		"SkillInfo": {
+			"hash": 1106698466
+		},
+		"DataImpl": {},
+		"SkillID": 304
+	},
+	{
+		"MapID": 2,
+		"MapXY": [
+			1,
+			4
+		],
+		"PreSkillID": 304,
+		"UnlockMapLv": 1,
+		"UnlockStoryId": 101,
+		"UnlockType": 1,
+		"UnlockCost": 1,
+		"SkillType": 9,
+		"SkillPar": "ServantAI_Execution_Unlock",
+		"SkillIconPath": "SpriteOutput/OpenWorld/ServantSkill/Skill_Servant_Fox_Explode",
+		"SkillName": {
+			"hash": -1525628864
+		},
+		"SkillInfo": {
+			"hash": 1106698467
+		},
+		"DataImpl": {},
+		"SkillID": 305
+	},
+	{
+		"MapID": 2,
+		"MapXY": [
+			2,
+			4
+		],
+		"PreSkillID": 305,
+		"UnlockMapLv": 1,
+		"UnlockStoryId": 101,
+		"UnlockType": 1,
+		"UnlockCost": 1,
+		"SkillType": 9,
+		"SkillPar": "ServantAI_EliteKiller",
+		"SkillIconPath": "SpriteOutput/OpenWorld/ServantSkill/Skill_Servant_Fox_Explode",
+		"SkillName": {
+			"hash": -1525628863
+		},
+		"SkillInfo": {
+			"hash": 1106698468
+		},
+		"DataImpl": {},
+		"SkillID": 306
+	},
+	{
+		"MapID": 2,
+		"MapXY": [
+			1,
+			5
+		],
+		"PreSkillID": 305,
+		"UnlockMapLv": 1,
+		"UnlockStoryId": 101,
+		"UnlockType": 1,
+		"UnlockCost": 1,
+		"SkillType": 9,
+		"SkillPar": "ServantAI_Hack",
+		"SkillIconPath": "SpriteOutput/OpenWorld/ServantSkill/Skill_Servant_AI_Hack_2",
+		"SkillName": {
+			"hash": -1525628862
+		},
+		"SkillInfo": {
+			"hash": 1106698469
+		},
+		"DataImpl": {},
+		"SkillID": 307
+	},
+	{
+		"MapID": 2,
+		"MapXY": [
+			1,
+			6
+		],
+		"PreSkillID": 307,
+		"UnlockMapLv": 1,
+		"UnlockStoryId": 101,
+		"UnlockType": 1,
+		"UnlockCost": 1,
+		"SkillType": 9,
+		"SkillPar": "ServantAI_Rescue",
+		"SkillIconPath": "SpriteOutput/OpenWorld/ServantSkill/Skill_Servant_AI_Rescue",
+		"SkillName": {
+			"hash": -1525628861
+		},
+		"SkillInfo": {
+			"hash": 1106698470
+		},
+		"DataImpl": {},
+		"SkillID": 308
+	},
+	{
+		"MapID": 2,
+		"MapXY": [
+			2,
+			6
+		],
+		"PreSkillID": 308,
+		"UnlockMapLv": 1,
+		"UnlockStoryId": 101,
+		"UnlockType": 1,
+		"UnlockCost": 2,
+		"SkillType": 9,
+		"SkillPar": "ServantAI_Execution_Enhance",
+		"SkillIconPath": "SpriteOutput/OpenWorld/ServantSkill/Skill_Servant_AI_Hack_Robot",
+		"SkillName": {
+			"hash": -1525628860
+		},
+		"SkillInfo": {
+			"hash": 1106698471
+		},
+		"DataImpl": {},
+		"SkillID": 309
+	},
+	{
+		"MapID": 2,
+		"MapXY": [
+			3,
+			6
+		],
+		"PreSkillID": 309,
+		"UnlockMapLv": 20,
+		"UnlockStoryId": 101,
+		"UnlockType": 1,
+		"UnlockCost": 2,
+		"SkillType": 9,
+		"SkillPar": "ServantAI_Automatic",
+		"SkillIconPath": "SpriteOutput/OpenWorld/ServantSkill/Skill_Servant_AI_Rescue",
+		"SkillName": {
+			"hash": -1525628838
+		},
+		"SkillInfo": {
+			"hash": 1106698493
+		},
+		"DataImpl": {},
+		"SkillID": 310
+	},
+	{
+		"MapID": 401,
+		"MapXY": [],
+		"PreSkillID": 0,
+		"UnlockMapLv": 1,
+		"UnlockStoryId": 0,
+		"UnlockType": 0,
+		"UnlockCost": 0,
+		"SkillType": 1,
+		"SkillPar": "Servant_Fox_Empty",
+		"SkillIconPath": "SpriteOutput/OpenWorld/ServantSkill/Skill_Servant_Fox_Fireball",
+		"SkillName": {
+			"hash": -1525627907
+		},
+		"SkillInfo": {
+			"hash": 1106699424
+		},
+		"DataImpl": {},
+		"SkillID": 401
+	},
+	{
+		"MapID": 401,
+		"MapXY": [],
+		"PreSkillID": 0,
+		"UnlockMapLv": 1,
+		"UnlockStoryId": 0,
+		"UnlockType": 0,
+		"UnlockCost": 0,
+		"SkillType": 1,
+		"SkillPar": "Servant_Fox_Empty",
+		"SkillIconPath": "SpriteOutput/OpenWorld/ServantSkill/Skill_Servant_Fox_Attack",
+		"SkillName": {
+			"hash": -1525627906
+		},
+		"SkillInfo": {
+			"hash": 1106699425
+		},
+		"DataImpl": {},
+		"SkillID": 402
+	},
+	{
+		"MapID": 401,
+		"MapXY": [],
+		"PreSkillID": 0,
+		"UnlockMapLv": 10,
+		"UnlockStoryId": 0,
+		"UnlockType": 0,
+		"UnlockCost": 0,
+		"SkillType": 1,
+		"SkillPar": "Servant_Fox_Unlock_Ranged_Super",
+		"SkillIconPath": "SpriteOutput/OpenWorld/ServantSkill/Skill_Servant_Fox_Cannon",
+		"SkillName": {
+			"hash": -1525627905
+		},
+		"SkillInfo": {
+			"hash": 1106699426
+		},
+		"DataImpl": {},
+		"SkillID": 403
+	},
+	{
+		"MapID": 401,
+		"MapXY": [],
+		"PreSkillID": 0,
+		"UnlockMapLv": 16,
+		"UnlockStoryId": 0,
+		"UnlockType": 0,
+		"UnlockCost": 0,
+		"SkillType": 1,
+		"SkillPar": "Servant_Fox_Unlock_Near_Super",
+		"SkillIconPath": "SpriteOutput/OpenWorld/ServantSkill/Skill_Servant_Fox_Explode",
+		"SkillName": {
+			"hash": -1525627904
+		},
+		"SkillInfo": {
+			"hash": 1106699427
+		},
+		"DataImpl": {},
+		"SkillID": 404
+	},
+	{
+		"MapID": 401,
+		"MapXY": [],
+		"PreSkillID": 0,
+		"UnlockMapLv": 20,
+		"UnlockStoryId": 0,
+		"UnlockType": 0,
+		"UnlockCost": 0,
+		"SkillType": 1,
+		"SkillPar": "Servant_Fox_Attack_Burn",
+		"SkillIconPath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_Weapon_07",
+		"SkillName": {
+			"hash": -1525627903
+		},
+		"SkillInfo": {
+			"hash": 1106699428
+		},
+		"DataImpl": {},
+		"SkillID": 405
+	}
+]

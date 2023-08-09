@@ -1,0 +1,319 @@
+[
+	{
+		"IsStoryValid": false,
+		"ConditionList": "1|1",
+		"Name": "",
+		"Desc": "",
+		"IconPath": "",
+		"AbilityName": "BattleYOWActivity_ThrowEnemyUp_Test",
+		"ParamList": [],
+		"DataImpl": {},
+		"TalentID": 1000001,
+		"Level": 1
+	},
+	{
+		"IsStoryValid": false,
+		"ConditionList": "1|1",
+		"Name": "TalentName_1000002_Lv1",
+		"Desc": "TalentDesc_1000002_Lv1",
+		"IconPath": "SpriteOutput/SkillIcons/SPBronya_OW_SkillIcon_2",
+		"AbilityName": "BattleYOWActivity_Airstrike_TechLevel",
+		"ParamList": [
+			"1"
+		],
+		"DataImpl": {},
+		"TalentID": 1000002,
+		"Level": 1
+	},
+	{
+		"IsStoryValid": false,
+		"ConditionList": "1|4",
+		"Name": "TalentName_1000002_Lv2",
+		"Desc": "TalentDesc_1000002_Lv2",
+		"IconPath": "SpriteOutput/SkillIcons/SPBronya_OW_SkillIcon_2",
+		"AbilityName": "BattleYOWActivity_Airstrike_TechLevel",
+		"ParamList": [
+			"4"
+		],
+		"DataImpl": {},
+		"TalentID": 1000002,
+		"Level": 2
+	},
+	{
+		"IsStoryValid": false,
+		"ConditionList": "1|9",
+		"Name": "TalentName_1000002_Lv3",
+		"Desc": "TalentDesc_1000002_Lv3",
+		"IconPath": "SpriteOutput/SkillIcons/SPBronya_OW_SkillIcon_2",
+		"AbilityName": "BattleYOWActivity_Airstrike_TechLevel",
+		"ParamList": [
+			"9"
+		],
+		"DataImpl": {},
+		"TalentID": 1000002,
+		"Level": 3
+	},
+	{
+		"IsStoryValid": false,
+		"ConditionList": "1|13",
+		"Name": "TalentName_1000002_Lv4",
+		"Desc": "TalentDesc_1000002_Lv4",
+		"IconPath": "SpriteOutput/SkillIcons/SPBronya_OW_SkillIcon_2",
+		"AbilityName": "BattleYOWActivity_Airstrike_TechLevel",
+		"ParamList": [
+			"13"
+		],
+		"DataImpl": {},
+		"TalentID": 1000002,
+		"Level": 4
+	},
+	{
+		"IsStoryValid": false,
+		"ConditionList": "1|16",
+		"Name": "TalentName_1000002_Lv5",
+		"Desc": "TalentDesc_1000002_Lv5",
+		"IconPath": "SpriteOutput/SkillIcons/SPBronya_OW_SkillIcon_2",
+		"AbilityName": "BattleYOWActivity_Airstrike_TechLevel",
+		"ParamList": [
+			"16"
+		],
+		"DataImpl": {},
+		"TalentID": 1000002,
+		"Level": 5
+	},
+	{
+		"IsStoryValid": false,
+		"ConditionList": "1|18",
+		"Name": "TalentName_1000002_Lv6",
+		"Desc": "TalentDesc_1000002_Lv6",
+		"IconPath": "SpriteOutput/SkillIcons/SPBronya_OW_SkillIcon_2",
+		"AbilityName": "BattleYOWActivity_Airstrike_TechLevel",
+		"ParamList": [
+			"18"
+		],
+		"DataImpl": {},
+		"TalentID": 1000002,
+		"Level": 6
+	},
+	{
+		"IsStoryValid": false,
+		"ConditionList": "1|1",
+		"Name": "",
+		"Desc": "",
+		"IconPath": "",
+		"AbilityName": "SPBronya_OW_JumpPoint_Abiltiy",
+		"ParamList": [],
+		"DataImpl": {},
+		"TalentID": 1000003,
+		"Level": 1
+	},
+	{
+		"IsStoryValid": false,
+		"ConditionList": "1|7",
+		"Name": "TalentName_1000003_Lv2",
+		"Desc": "TalentDesc_1000003_Lv2",
+		"IconPath": "SpriteOutput/SkillIcons/SPBronya_OW_SkillIcon_1",
+		"AbilityName": "SPBronya_OW_JumpPoint_Abiltiy",
+		"ParamList": [],
+		"DataImpl": {},
+		"TalentID": 1000003,
+		"Level": 2
+	},
+	{
+		"IsStoryValid": false,
+		"ConditionList": "1|15",
+		"Name": "TalentName_1000003_Lv3",
+		"Desc": "TalentDesc_1000003_Lv3",
+		"IconPath": "SpriteOutput/SkillIcons/SPBronya_OW_SkillIcon_1",
+		"AbilityName": "SPBronya_OW_JumpPoint_Abiltiy",
+		"ParamList": [],
+		"DataImpl": {},
+		"TalentID": 1000003,
+		"Level": 3
+	},
+	{
+		"IsStoryValid": false,
+		"ConditionList": "1|2",
+		"Name": "TalentName_1000004",
+		"Desc": "TalentDesc_1000004",
+		"IconPath": "SpriteOutput/SkillIcons/Skill_Bronya_CH_006",
+		"AbilityName": "SPBronya_OWEnhancedUAV_Ability",
+		"ParamList": [
+			"1"
+		],
+		"DataImpl": {},
+		"TalentID": 1000004,
+		"Level": 1
+	},
+	{
+		"IsStoryValid": false,
+		"ConditionList": "1|6",
+		"Name": "TalentName_1000005",
+		"Desc": "TalentDesc_1000005",
+		"IconPath": "SpriteOutput/SkillIcons/Skill_Bronya_CH_006",
+		"AbilityName": "SPBronya_ChargeAntiShield_Ability",
+		"ParamList": [],
+		"DataImpl": {},
+		"TalentID": 1000005,
+		"Level": 1
+	},
+	{
+		"IsStoryValid": false,
+		"ConditionList": "1|11",
+		"Name": "TalentName_1000006",
+		"Desc": "TalentDesc_1000006",
+		"IconPath": "SpriteOutput/SkillIcons/Skill_Bronya_CH_006",
+		"AbilityName": "SPBronya_UAVPower_Ability",
+		"ParamList": [],
+		"DataImpl": {},
+		"TalentID": 1000006,
+		"Level": 1
+	},
+	{
+		"IsStoryValid": false,
+		"ConditionList": "1|19",
+		"Name": "TalentName_1000007",
+		"Desc": "TalentDesc_1000007",
+		"IconPath": "SpriteOutput/SkillIcons/Skill_Bronya_CH_006",
+		"AbilityName": "SPBronya_UAVAtttackDebuff_Ability",
+		"ParamList": [],
+		"DataImpl": {},
+		"TalentID": 1000007,
+		"Level": 1
+	},
+	{
+		"IsStoryValid": false,
+		"ConditionList": "1|1",
+		"Name": "",
+		"Desc": "",
+		"IconPath": "SpriteOutput/SkillIcons/Skill_Bronya_ZP_002",
+		"AbilityName": "BattleYOWActivity_Properties_TechLevel",
+		"ParamList": [
+			"150",
+			"400"
+		],
+		"DataImpl": {},
+		"TalentID": 1000008,
+		"Level": 1
+	},
+	{
+		"IsStoryValid": false,
+		"ConditionList": "1|3",
+		"Name": "",
+		"Desc": "",
+		"IconPath": "SpriteOutput/SkillIcons/Skill_Bronya_ZP_002",
+		"AbilityName": "BattleYOWActivity_Properties_TechLevel",
+		"ParamList": [
+			"300",
+			"800"
+		],
+		"DataImpl": {},
+		"TalentID": 1000008,
+		"Level": 2
+	},
+	{
+		"IsStoryValid": false,
+		"ConditionList": "1|5",
+		"Name": "",
+		"Desc": "",
+		"IconPath": "SpriteOutput/SkillIcons/Skill_Bronya_ZP_002",
+		"AbilityName": "BattleYOWActivity_Properties_TechLevel",
+		"ParamList": [
+			"450",
+			"1200"
+		],
+		"DataImpl": {},
+		"TalentID": 1000008,
+		"Level": 3
+	},
+	{
+		"IsStoryValid": false,
+		"ConditionList": "1|8",
+		"Name": "",
+		"Desc": "",
+		"IconPath": "SpriteOutput/SkillIcons/Skill_Bronya_ZP_002",
+		"AbilityName": "BattleYOWActivity_Properties_TechLevel",
+		"ParamList": [
+			"600",
+			"1600"
+		],
+		"DataImpl": {},
+		"TalentID": 1000008,
+		"Level": 4
+	},
+	{
+		"IsStoryValid": false,
+		"ConditionList": "1|10",
+		"Name": "",
+		"Desc": "",
+		"IconPath": "SpriteOutput/SkillIcons/Skill_Bronya_ZP_002",
+		"AbilityName": "BattleYOWActivity_Properties_TechLevel",
+		"ParamList": [
+			"750",
+			"2000"
+		],
+		"DataImpl": {},
+		"TalentID": 1000008,
+		"Level": 5
+	},
+	{
+		"IsStoryValid": false,
+		"ConditionList": "1|12",
+		"Name": "",
+		"Desc": "",
+		"IconPath": "SpriteOutput/SkillIcons/Skill_Bronya_ZP_002",
+		"AbilityName": "BattleYOWActivity_Properties_TechLevel",
+		"ParamList": [
+			"900",
+			"2400"
+		],
+		"DataImpl": {},
+		"TalentID": 1000008,
+		"Level": 6
+	},
+	{
+		"IsStoryValid": false,
+		"ConditionList": "1|14",
+		"Name": "",
+		"Desc": "",
+		"IconPath": "SpriteOutput/SkillIcons/Skill_Bronya_ZP_002",
+		"AbilityName": "BattleYOWActivity_Properties_TechLevel",
+		"ParamList": [
+			"1200",
+			"2800"
+		],
+		"DataImpl": {},
+		"TalentID": 1000008,
+		"Level": 7
+	},
+	{
+		"IsStoryValid": false,
+		"ConditionList": "1|17",
+		"Name": "TalentName_1000008_Lv8",
+		"Desc": "TalentDesc_1000008_Lv8",
+		"IconPath": "SpriteOutput/SkillIcons/Skill_Bronya_ZP_002",
+		"AbilityName": "BattleYOWActivity_Properties_TechLevel",
+		"ParamList": [
+			"1700",
+			"3400"
+		],
+		"DataImpl": {},
+		"TalentID": 1000008,
+		"Level": 8
+	},
+	{
+		"IsStoryValid": false,
+		"ConditionList": "1|20",
+		"Name": "TalentName_1000008_Lv9",
+		"Desc": "TalentDesc_1000008_Lv9",
+		"IconPath": "SpriteOutput/SkillIcons/Skill_Bronya_ZP_002",
+		"AbilityName": "BattleYOWActivity_Properties_TechLevel",
+		"ParamList": [
+			"2700",
+			"4000"
+		],
+		"DataImpl": {},
+		"TalentID": 1000008,
+		"Level": 9
+	}
+]

@@ -1,0 +1,1354 @@
+[
+	{
+		"grandKeyID": 201,
+		"unlockgrandKeyLevel": 1,
+		"breachLevel": 0,
+		"HP": 20,
+		"SP": 0,
+		"attack": 0,
+		"defence": 0,
+		"critical": 0,
+		"type": 2,
+		"IsSynchron": 0,
+		"Param1": 0,
+		"Param2": 0,
+		"Param3": 0,
+		"side": 0,
+		"buffNameText": {
+			"hash": -1548490654
+		},
+		"buffDescStrId": {
+			"hash": -1548627323
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_HP",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType02",
+		"DataImpl": {},
+		"grandKeySkill": 20101
+	},
+	{
+		"grandKeyID": 201,
+		"unlockgrandKeyLevel": 2,
+		"breachLevel": 0,
+		"HP": 0,
+		"SP": 0,
+		"attack": 5,
+		"defence": 0,
+		"critical": 0,
+		"type": 2,
+		"IsSynchron": 0,
+		"Param1": 0,
+		"Param2": 0,
+		"Param3": 0,
+		"side": 0,
+		"buffNameText": {
+			"hash": -1519861503
+		},
+		"buffDescStrId": {
+			"hash": -1519998172
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_Attack",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType02",
+		"DataImpl": {},
+		"grandKeySkill": 20102
+	},
+	{
+		"grandKeyID": 201,
+		"unlockgrandKeyLevel": 3,
+		"breachLevel": 0,
+		"HP": 0,
+		"SP": 0,
+		"attack": 0,
+		"defence": 0,
+		"critical": 0,
+		"type": 1,
+		"IsSynchron": 0,
+		"Param1": 0.04,
+		"Param2": 0,
+		"Param3": 0,
+		"side": 1,
+		"buffNameText": {
+			"hash": -1491232352
+		},
+		"buffDescStrId": {
+			"hash": -1491369021
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_20103",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType01",
+		"DataImpl": {},
+		"grandKeySkill": 20103
+	},
+	{
+		"grandKeyID": 201,
+		"unlockgrandKeyLevel": 4,
+		"breachLevel": 0,
+		"HP": 0,
+		"SP": 0,
+		"attack": 0,
+		"defence": 0,
+		"critical": 0,
+		"type": 1,
+		"IsSynchron": 0,
+		"Param1": 0.02,
+		"Param2": 0,
+		"Param3": 0,
+		"side": 2,
+		"buffNameText": {
+			"hash": -1462603201
+		},
+		"buffDescStrId": {
+			"hash": -1462739870
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_20104",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType01",
+		"DataImpl": {},
+		"grandKeySkill": 20104
+	},
+	{
+		"grandKeyID": 201,
+		"unlockgrandKeyLevel": 5,
+		"breachLevel": 0,
+		"HP": 0,
+		"SP": 0,
+		"attack": 0,
+		"defence": 40,
+		"critical": 0,
+		"type": 2,
+		"IsSynchron": 0,
+		"Param1": 0,
+		"Param2": 0,
+		"Param3": 0,
+		"side": 0,
+		"buffNameText": {
+			"hash": -1433974050
+		},
+		"buffDescStrId": {
+			"hash": -1434110719
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_Defence",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType02",
+		"DataImpl": {},
+		"grandKeySkill": 20105
+	},
+	{
+		"grandKeyID": 201,
+		"unlockgrandKeyLevel": 6,
+		"breachLevel": 0,
+		"HP": 0,
+		"SP": 0,
+		"attack": 0,
+		"defence": 0,
+		"critical": 0,
+		"type": 1,
+		"IsSynchron": 0,
+		"Param1": 0.06,
+		"Param2": 0,
+		"Param3": 0,
+		"side": 1,
+		"buffNameText": {
+			"hash": -1405344899
+		},
+		"buffDescStrId": {
+			"hash": -1405481568
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_20106",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType01",
+		"DataImpl": {},
+		"grandKeySkill": 20106
+	},
+	{
+		"grandKeyID": 201,
+		"unlockgrandKeyLevel": 7,
+		"breachLevel": 0,
+		"HP": 0,
+		"SP": 0,
+		"attack": 0,
+		"defence": 0,
+		"critical": 0,
+		"type": 1,
+		"IsSynchron": 0,
+		"Param1": 0.03,
+		"Param2": 0,
+		"Param3": 0,
+		"side": 2,
+		"buffNameText": {
+			"hash": -1376715748
+		},
+		"buffDescStrId": {
+			"hash": -1376852417
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_20107",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType01",
+		"DataImpl": {},
+		"grandKeySkill": 20107
+	},
+	{
+		"grandKeyID": 201,
+		"unlockgrandKeyLevel": 8,
+		"breachLevel": 0,
+		"HP": 0,
+		"SP": 0,
+		"attack": 0,
+		"defence": 0,
+		"critical": 5,
+		"type": 2,
+		"IsSynchron": 0,
+		"Param1": 0,
+		"Param2": 0,
+		"Param3": 0,
+		"side": 0,
+		"buffNameText": {
+			"hash": -1348086597
+		},
+		"buffDescStrId": {
+			"hash": -1348223266
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_Critical",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType02",
+		"DataImpl": {},
+		"grandKeySkill": 20108
+	},
+	{
+		"grandKeyID": 201,
+		"unlockgrandKeyLevel": 9,
+		"breachLevel": 0,
+		"HP": 0,
+		"SP": 0,
+		"attack": 0,
+		"defence": 0,
+		"critical": 0,
+		"type": 1,
+		"IsSynchron": 0,
+		"Param1": 0.08,
+		"Param2": 0,
+		"Param3": 0,
+		"side": 1,
+		"buffNameText": {
+			"hash": -1319457446
+		},
+		"buffDescStrId": {
+			"hash": -1319594115
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_20109",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType01",
+		"DataImpl": {},
+		"grandKeySkill": 20109
+	},
+	{
+		"grandKeyID": 201,
+		"unlockgrandKeyLevel": 10,
+		"breachLevel": 0,
+		"HP": 0,
+		"SP": 0,
+		"attack": 0,
+		"defence": 0,
+		"critical": 0,
+		"type": 1,
+		"IsSynchron": 0,
+		"Param1": 0.04,
+		"Param2": 0,
+		"Param3": 0,
+		"side": 2,
+		"buffNameText": {
+			"hash": -689616124
+		},
+		"buffDescStrId": {
+			"hash": -689752793
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_20110",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType01",
+		"DataImpl": {},
+		"grandKeySkill": 20110
+	},
+	{
+		"grandKeyID": 202,
+		"unlockgrandKeyLevel": 1,
+		"breachLevel": 0,
+		"HP": 20,
+		"SP": 0,
+		"attack": 0,
+		"defence": 0,
+		"critical": 0,
+		"type": 2,
+		"IsSynchron": 0,
+		"Param1": 0,
+		"Param2": 0,
+		"Param3": 0,
+		"side": 0,
+		"buffNameText": {
+			"hash": 194319681
+		},
+		"buffDescStrId": {
+			"hash": 194183012
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_HP",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType01",
+		"DataImpl": {},
+		"grandKeySkill": 20201
+	},
+	{
+		"grandKeyID": 202,
+		"unlockgrandKeyLevel": 2,
+		"breachLevel": 0,
+		"HP": 0,
+		"SP": 0,
+		"attack": 5,
+		"defence": 0,
+		"critical": 0,
+		"type": 2,
+		"IsSynchron": 0,
+		"Param1": 0,
+		"Param2": 0,
+		"Param3": 0,
+		"side": 0,
+		"buffNameText": {
+			"hash": 222948832
+		},
+		"buffDescStrId": {
+			"hash": 222812163
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_Attack",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType02",
+		"DataImpl": {},
+		"grandKeySkill": 20202
+	},
+	{
+		"grandKeyID": 202,
+		"unlockgrandKeyLevel": 3,
+		"breachLevel": 0,
+		"HP": 0,
+		"SP": 0,
+		"attack": 0,
+		"defence": 0,
+		"critical": 0,
+		"type": 1,
+		"IsSynchron": 0,
+		"Param1": 0.04,
+		"Param2": 0,
+		"Param3": 0,
+		"side": 1,
+		"buffNameText": {
+			"hash": 251577983
+		},
+		"buffDescStrId": {
+			"hash": 251441314
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_20203",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType02",
+		"DataImpl": {},
+		"grandKeySkill": 20203
+	},
+	{
+		"grandKeyID": 202,
+		"unlockgrandKeyLevel": 4,
+		"breachLevel": 0,
+		"HP": 0,
+		"SP": 0,
+		"attack": 0,
+		"defence": 0,
+		"critical": 0,
+		"type": 1,
+		"IsSynchron": 0,
+		"Param1": 0.03,
+		"Param2": 0,
+		"Param3": 0,
+		"side": 2,
+		"buffNameText": {
+			"hash": 280207134
+		},
+		"buffDescStrId": {
+			"hash": 280070465
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_20204",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType02",
+		"DataImpl": {},
+		"grandKeySkill": 20204
+	},
+	{
+		"grandKeyID": 202,
+		"unlockgrandKeyLevel": 5,
+		"breachLevel": 0,
+		"HP": 0,
+		"SP": 0,
+		"attack": 0,
+		"defence": 0,
+		"critical": 5,
+		"type": 2,
+		"IsSynchron": 0,
+		"Param1": 0,
+		"Param2": 0,
+		"Param3": 0,
+		"side": 0,
+		"buffNameText": {
+			"hash": 308836285
+		},
+		"buffDescStrId": {
+			"hash": 308699616
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_Critical",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType01",
+		"DataImpl": {},
+		"grandKeySkill": 20205
+	},
+	{
+		"grandKeyID": 202,
+		"unlockgrandKeyLevel": 6,
+		"breachLevel": 0,
+		"HP": 0,
+		"SP": 0,
+		"attack": 0,
+		"defence": 0,
+		"critical": 0,
+		"type": 1,
+		"IsSynchron": 0,
+		"Param1": 0.06,
+		"Param2": 0,
+		"Param3": 0,
+		"side": 1,
+		"buffNameText": {
+			"hash": 337465436
+		},
+		"buffDescStrId": {
+			"hash": 337328767
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_20206",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType02",
+		"DataImpl": {},
+		"grandKeySkill": 20206
+	},
+	{
+		"grandKeyID": 202,
+		"unlockgrandKeyLevel": 7,
+		"breachLevel": 0,
+		"HP": 0,
+		"SP": 0,
+		"attack": 0,
+		"defence": 0,
+		"critical": 0,
+		"type": 1,
+		"IsSynchron": 0,
+		"Param1": 0.045,
+		"Param2": 0,
+		"Param3": 0,
+		"side": 2,
+		"buffNameText": {
+			"hash": 366094587
+		},
+		"buffDescStrId": {
+			"hash": 365957918
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_20207",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType02",
+		"DataImpl": {},
+		"grandKeySkill": 20207
+	},
+	{
+		"grandKeyID": 202,
+		"unlockgrandKeyLevel": 8,
+		"breachLevel": 0,
+		"HP": 0,
+		"SP": 0,
+		"attack": 8,
+		"defence": 0,
+		"critical": 0,
+		"type": 2,
+		"IsSynchron": 0,
+		"Param1": 0,
+		"Param2": 0,
+		"Param3": 0,
+		"side": 0,
+		"buffNameText": {
+			"hash": 394723738
+		},
+		"buffDescStrId": {
+			"hash": 394587069
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_Attack",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType02",
+		"DataImpl": {},
+		"grandKeySkill": 20208
+	},
+	{
+		"grandKeyID": 202,
+		"unlockgrandKeyLevel": 9,
+		"breachLevel": 0,
+		"HP": 0,
+		"SP": 0,
+		"attack": 0,
+		"defence": 0,
+		"critical": 0,
+		"type": 1,
+		"IsSynchron": 0,
+		"Param1": 0.08,
+		"Param2": 0,
+		"Param3": 0,
+		"side": 1,
+		"buffNameText": {
+			"hash": 423352889
+		},
+		"buffDescStrId": {
+			"hash": 423216220
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_20209",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType01",
+		"DataImpl": {},
+		"grandKeySkill": 20209
+	},
+	{
+		"grandKeyID": 202,
+		"unlockgrandKeyLevel": 10,
+		"breachLevel": 0,
+		"HP": 0,
+		"SP": 0,
+		"attack": 0,
+		"defence": 0,
+		"critical": 0,
+		"type": 1,
+		"IsSynchron": 0,
+		"Param1": 0.06,
+		"Param2": 0,
+		"Param3": 0,
+		"side": 2,
+		"buffNameText": {
+			"hash": 1053194211
+		},
+		"buffDescStrId": {
+			"hash": 1053057542
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_20210",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType01",
+		"DataImpl": {},
+		"grandKeySkill": 20210
+	},
+	{
+		"grandKeyID": 202,
+		"unlockgrandKeyLevel": 0,
+		"breachLevel": 1,
+		"HP": 0,
+		"SP": 0,
+		"attack": 10,
+		"defence": 0,
+		"critical": 0,
+		"type": 2,
+		"IsSynchron": 1,
+		"Param1": 0,
+		"Param2": 0,
+		"Param3": 0,
+		"side": 0,
+		"buffNameText": {
+			"hash": 1081823362
+		},
+		"buffDescStrId": {
+			"hash": 1081686693
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_Attack",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType02",
+		"DataImpl": {},
+		"grandKeySkill": 20211
+	},
+	{
+		"grandKeyID": 202,
+		"unlockgrandKeyLevel": 0,
+		"breachLevel": 2,
+		"HP": 0,
+		"SP": 0,
+		"attack": 10,
+		"defence": 0,
+		"critical": 0,
+		"type": 2,
+		"IsSynchron": 1,
+		"Param1": 0,
+		"Param2": 0,
+		"Param3": 0,
+		"side": 0,
+		"buffNameText": {
+			"hash": 1110452513
+		},
+		"buffDescStrId": {
+			"hash": 1110315844
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_Attack",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType02",
+		"DataImpl": {},
+		"grandKeySkill": 20212
+	},
+	{
+		"grandKeyID": 203,
+		"unlockgrandKeyLevel": 1,
+		"breachLevel": 0,
+		"HP": 0,
+		"SP": 0,
+		"attack": 3,
+		"defence": 0,
+		"critical": 0,
+		"type": 2,
+		"IsSynchron": 0,
+		"Param1": 0,
+		"Param2": 0,
+		"Param3": 0,
+		"side": 0,
+		"buffNameText": {
+			"hash": 1937130016
+		},
+		"buffDescStrId": {
+			"hash": 1936993347
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_Attack",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType02",
+		"DataImpl": {},
+		"grandKeySkill": 20301
+	},
+	{
+		"grandKeyID": 203,
+		"unlockgrandKeyLevel": 2,
+		"breachLevel": 0,
+		"HP": 30,
+		"SP": 0,
+		"attack": 0,
+		"defence": 0,
+		"critical": 0,
+		"type": 2,
+		"IsSynchron": 0,
+		"Param1": 0,
+		"Param2": 0,
+		"Param3": 0,
+		"side": 0,
+		"buffNameText": {
+			"hash": 1965759167
+		},
+		"buffDescStrId": {
+			"hash": 1965622498
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_HP",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType02",
+		"DataImpl": {},
+		"grandKeySkill": 20302
+	},
+	{
+		"grandKeyID": 203,
+		"unlockgrandKeyLevel": 3,
+		"breachLevel": 0,
+		"HP": 0,
+		"SP": 0,
+		"attack": 0,
+		"defence": 0,
+		"critical": 0,
+		"type": 1,
+		"IsSynchron": 0,
+		"Param1": 0.04,
+		"Param2": 0,
+		"Param3": 0,
+		"side": 1,
+		"buffNameText": {
+			"hash": 1994388318
+		},
+		"buffDescStrId": {
+			"hash": 1994251649
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_20303",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType01",
+		"DataImpl": {},
+		"grandKeySkill": 20303
+	},
+	{
+		"grandKeyID": 203,
+		"unlockgrandKeyLevel": 4,
+		"breachLevel": 0,
+		"HP": 0,
+		"SP": 0,
+		"attack": 0,
+		"defence": 0,
+		"critical": 0,
+		"type": 1,
+		"IsSynchron": 0,
+		"Param1": 0.8,
+		"Param2": 4,
+		"Param3": 0,
+		"side": 2,
+		"buffNameText": {
+			"hash": 2023017469
+		},
+		"buffDescStrId": {
+			"hash": 2022880800
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_20304",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType01",
+		"DataImpl": {},
+		"grandKeySkill": 20304
+	},
+	{
+		"grandKeyID": 203,
+		"unlockgrandKeyLevel": 5,
+		"breachLevel": 0,
+		"HP": 55,
+		"SP": 0,
+		"attack": 0,
+		"defence": 0,
+		"critical": 0,
+		"type": 2,
+		"IsSynchron": 0,
+		"Param1": 0,
+		"Param2": 0,
+		"Param3": 0,
+		"side": 0,
+		"buffNameText": {
+			"hash": 2051646620
+		},
+		"buffDescStrId": {
+			"hash": 2051509951
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_HP",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType02",
+		"DataImpl": {},
+		"grandKeySkill": 20305
+	},
+	{
+		"grandKeyID": 203,
+		"unlockgrandKeyLevel": 6,
+		"breachLevel": 0,
+		"HP": 0,
+		"SP": 0,
+		"attack": 0,
+		"defence": 0,
+		"critical": 0,
+		"type": 1,
+		"IsSynchron": 0,
+		"Param1": 0.06,
+		"Param2": 0,
+		"Param3": 0,
+		"side": 1,
+		"buffNameText": {
+			"hash": 2080275771
+		},
+		"buffDescStrId": {
+			"hash": 2080139102
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_20306",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType01",
+		"DataImpl": {},
+		"grandKeySkill": 20306
+	},
+	{
+		"grandKeyID": 203,
+		"unlockgrandKeyLevel": 7,
+		"breachLevel": 0,
+		"HP": 0,
+		"SP": 0,
+		"attack": 0,
+		"defence": 0,
+		"critical": 0,
+		"type": 1,
+		"IsSynchron": 0,
+		"Param1": 1.2,
+		"Param2": 4,
+		"Param3": 0,
+		"side": 2,
+		"buffNameText": {
+			"hash": 2108904922
+		},
+		"buffDescStrId": {
+			"hash": 2108768253
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_20307",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType01",
+		"DataImpl": {},
+		"grandKeySkill": 20307
+	},
+	{
+		"grandKeyID": 203,
+		"unlockgrandKeyLevel": 8,
+		"breachLevel": 0,
+		"HP": 0,
+		"SP": 0,
+		"attack": 8,
+		"defence": 0,
+		"critical": 0,
+		"type": 2,
+		"IsSynchron": 0,
+		"Param1": 0,
+		"Param2": 0,
+		"Param3": 0,
+		"side": 0,
+		"buffNameText": {
+			"hash": 2137534073
+		},
+		"buffDescStrId": {
+			"hash": 2137397404
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_Attack",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType02",
+		"DataImpl": {},
+		"grandKeySkill": 20308
+	},
+	{
+		"grandKeyID": 203,
+		"unlockgrandKeyLevel": 9,
+		"breachLevel": 0,
+		"HP": 0,
+		"SP": 0,
+		"attack": 0,
+		"defence": 0,
+		"critical": 0,
+		"type": 1,
+		"IsSynchron": 0,
+		"Param1": 0.08,
+		"Param2": 0,
+		"Param3": 0,
+		"side": 1,
+		"buffNameText": {
+			"hash": -2128804072
+		},
+		"buffDescStrId": {
+			"hash": -2128940741
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_20309",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType01",
+		"DataImpl": {},
+		"grandKeySkill": 20309
+	},
+	{
+		"grandKeyID": 203,
+		"unlockgrandKeyLevel": 10,
+		"breachLevel": 0,
+		"HP": 0,
+		"SP": 0,
+		"attack": 0,
+		"defence": 0,
+		"critical": 0,
+		"type": 1,
+		"IsSynchron": 0,
+		"Param1": 1.6,
+		"Param2": 4,
+		"Param3": 0,
+		"side": 2,
+		"buffNameText": {
+			"hash": -1498962750
+		},
+		"buffDescStrId": {
+			"hash": -1499099419
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_20310",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType01",
+		"DataImpl": {},
+		"grandKeySkill": 20310
+	},
+	{
+		"grandKeyID": 203,
+		"unlockgrandKeyLevel": 0,
+		"breachLevel": 1,
+		"HP": 0,
+		"SP": 0,
+		"attack": 10,
+		"defence": 0,
+		"critical": 0,
+		"type": 2,
+		"IsSynchron": 1,
+		"Param1": 0,
+		"Param2": 0,
+		"Param3": 0,
+		"side": 0,
+		"buffNameText": {
+			"hash": -1470333599
+		},
+		"buffDescStrId": {
+			"hash": -1470470268
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_Attack",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType02",
+		"DataImpl": {},
+		"grandKeySkill": 20311
+	},
+	{
+		"grandKeyID": 204,
+		"unlockgrandKeyLevel": 1,
+		"breachLevel": 0,
+		"HP": 0,
+		"SP": 0,
+		"attack": 5,
+		"defence": 0,
+		"critical": 0,
+		"type": 2,
+		"IsSynchron": 0,
+		"Param1": 0,
+		"Param2": 0,
+		"Param3": 0,
+		"side": 0,
+		"buffNameText": {
+			"hash": -615026945
+		},
+		"buffDescStrId": {
+			"hash": -615163614
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_Attack",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType02",
+		"DataImpl": {},
+		"grandKeySkill": 20401
+	},
+	{
+		"grandKeyID": 204,
+		"unlockgrandKeyLevel": 1,
+		"breachLevel": 1,
+		"HP": 0,
+		"SP": 0,
+		"attack": 10,
+		"defence": 0,
+		"critical": 0,
+		"type": 2,
+		"IsSynchron": 1,
+		"Param1": 0,
+		"Param2": 0,
+		"Param3": 0,
+		"side": 0,
+		"buffNameText": {
+			"hash": -586397794
+		},
+		"buffDescStrId": {
+			"hash": -586534463
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_Attack",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType02",
+		"DataImpl": {},
+		"grandKeySkill": 20402
+	},
+	{
+		"grandKeyID": 204,
+		"unlockgrandKeyLevel": 1,
+		"breachLevel": 2,
+		"HP": 0,
+		"SP": 0,
+		"attack": 10,
+		"defence": 0,
+		"critical": 0,
+		"type": 2,
+		"IsSynchron": 1,
+		"Param1": 0,
+		"Param2": 0,
+		"Param3": 0,
+		"side": 0,
+		"buffNameText": {
+			"hash": -557768643
+		},
+		"buffDescStrId": {
+			"hash": -557905312
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_Attack",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType02",
+		"DataImpl": {},
+		"grandKeySkill": 20403
+	},
+	{
+		"grandKeyID": 205,
+		"unlockgrandKeyLevel": 1,
+		"breachLevel": 0,
+		"HP": 0,
+		"SP": 0,
+		"attack": 0,
+		"defence": 15,
+		"critical": 0,
+		"type": 2,
+		"IsSynchron": 0,
+		"Param1": 0,
+		"Param2": 0,
+		"Param3": 0,
+		"side": 0,
+		"buffNameText": {
+			"hash": 1127783390
+		},
+		"buffDescStrId": {
+			"hash": 1127646721
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_Attack",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType02",
+		"DataImpl": {},
+		"grandKeySkill": 20501
+	},
+	{
+		"grandKeyID": 205,
+		"unlockgrandKeyLevel": 2,
+		"breachLevel": 0,
+		"HP": 30,
+		"SP": 0,
+		"attack": 0,
+		"defence": 0,
+		"critical": 0,
+		"type": 2,
+		"IsSynchron": 0,
+		"Param1": 0,
+		"Param2": 0,
+		"Param3": 0,
+		"side": 0,
+		"buffNameText": {
+			"hash": 1156412541
+		},
+		"buffDescStrId": {
+			"hash": 1156275872
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_HP",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType02",
+		"DataImpl": {},
+		"grandKeySkill": 20502
+	},
+	{
+		"grandKeyID": 205,
+		"unlockgrandKeyLevel": 3,
+		"breachLevel": 0,
+		"HP": 0,
+		"SP": 0,
+		"attack": 0,
+		"defence": 0,
+		"critical": 0,
+		"type": 1,
+		"IsSynchron": 0,
+		"Param1": 0.04,
+		"Param2": 0,
+		"Param3": 0,
+		"side": 1,
+		"buffNameText": {
+			"hash": 1185041692
+		},
+		"buffDescStrId": {
+			"hash": 1184905023
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_20503",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType01",
+		"DataImpl": {},
+		"grandKeySkill": 20503
+	},
+	{
+		"grandKeyID": 205,
+		"unlockgrandKeyLevel": 4,
+		"breachLevel": 0,
+		"HP": 0,
+		"SP": 0,
+		"attack": 0,
+		"defence": 0,
+		"critical": 0,
+		"type": 1,
+		"IsSynchron": 0,
+		"Param1": 0.8,
+		"Param2": 4,
+		"Param3": 0,
+		"side": 2,
+		"buffNameText": {
+			"hash": 1213670843
+		},
+		"buffDescStrId": {
+			"hash": 1213534174
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_20504",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType01",
+		"DataImpl": {},
+		"grandKeySkill": 20504
+	},
+	{
+		"grandKeyID": 205,
+		"unlockgrandKeyLevel": 5,
+		"breachLevel": 0,
+		"HP": 0,
+		"SP": 0,
+		"attack": 0,
+		"defence": 0,
+		"critical": 5,
+		"type": 2,
+		"IsSynchron": 0,
+		"Param1": 0,
+		"Param2": 0,
+		"Param3": 0,
+		"side": 0,
+		"buffNameText": {
+			"hash": 1242299994
+		},
+		"buffDescStrId": {
+			"hash": 1242163325
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_HP",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType02",
+		"DataImpl": {},
+		"grandKeySkill": 20505
+	},
+	{
+		"grandKeyID": 205,
+		"unlockgrandKeyLevel": 6,
+		"breachLevel": 0,
+		"HP": 0,
+		"SP": 0,
+		"attack": 0,
+		"defence": 0,
+		"critical": 0,
+		"type": 1,
+		"IsSynchron": 0,
+		"Param1": 0.06,
+		"Param2": 0,
+		"Param3": 0,
+		"side": 1,
+		"buffNameText": {
+			"hash": 1270929145
+		},
+		"buffDescStrId": {
+			"hash": 1270792476
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_20506",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType01",
+		"DataImpl": {},
+		"grandKeySkill": 20506
+	},
+	{
+		"grandKeyID": 205,
+		"unlockgrandKeyLevel": 7,
+		"breachLevel": 0,
+		"HP": 0,
+		"SP": 0,
+		"attack": 0,
+		"defence": 0,
+		"critical": 0,
+		"type": 1,
+		"IsSynchron": 0,
+		"Param1": 1.2,
+		"Param2": 4,
+		"Param3": 0,
+		"side": 2,
+		"buffNameText": {
+			"hash": 1299558296
+		},
+		"buffDescStrId": {
+			"hash": 1299421627
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_20507",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType01",
+		"DataImpl": {},
+		"grandKeySkill": 20507
+	},
+	{
+		"grandKeyID": 205,
+		"unlockgrandKeyLevel": 8,
+		"breachLevel": 0,
+		"HP": 0,
+		"SP": 0,
+		"attack": 0,
+		"defence": 0,
+		"critical": 5,
+		"type": 2,
+		"IsSynchron": 0,
+		"Param1": 0,
+		"Param2": 0,
+		"Param3": 0,
+		"side": 0,
+		"buffNameText": {
+			"hash": 1328187447
+		},
+		"buffDescStrId": {
+			"hash": 1328050778
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_Attack",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType02",
+		"DataImpl": {},
+		"grandKeySkill": 20508
+	},
+	{
+		"grandKeyID": 205,
+		"unlockgrandKeyLevel": 9,
+		"breachLevel": 0,
+		"HP": 0,
+		"SP": 0,
+		"attack": 0,
+		"defence": 0,
+		"critical": 0,
+		"type": 1,
+		"IsSynchron": 0,
+		"Param1": 0.08,
+		"Param2": 0,
+		"Param3": 0,
+		"side": 1,
+		"buffNameText": {
+			"hash": 1356816598
+		},
+		"buffDescStrId": {
+			"hash": 1356679929
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_20509",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType01",
+		"DataImpl": {},
+		"grandKeySkill": 20509
+	},
+	{
+		"grandKeyID": 205,
+		"unlockgrandKeyLevel": 10,
+		"breachLevel": 0,
+		"HP": 0,
+		"SP": 0,
+		"attack": 0,
+		"defence": 0,
+		"critical": 0,
+		"type": 1,
+		"IsSynchron": 0,
+		"Param1": 1.6,
+		"Param2": 4,
+		"Param3": 0,
+		"side": 2,
+		"buffNameText": {
+			"hash": 1986657920
+		},
+		"buffDescStrId": {
+			"hash": 1986521251
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_20510",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType01",
+		"DataImpl": {},
+		"grandKeySkill": 20510
+	},
+	{
+		"grandKeyID": 205,
+		"unlockgrandKeyLevel": 0,
+		"breachLevel": 1,
+		"HP": 0,
+		"SP": 0,
+		"attack": 10,
+		"defence": 0,
+		"critical": 0,
+		"type": 2,
+		"IsSynchron": 1,
+		"Param1": 0,
+		"Param2": 0,
+		"Param3": 0,
+		"side": 0,
+		"buffNameText": {
+			"hash": 2015287071
+		},
+		"buffDescStrId": {
+			"hash": 2015150402
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_Attack",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType02",
+		"DataImpl": {},
+		"grandKeySkill": 20511
+	},
+	{
+		"grandKeyID": 206,
+		"unlockgrandKeyLevel": 1,
+		"breachLevel": 0,
+		"HP": 20,
+		"SP": 0,
+		"attack": 0,
+		"defence": 0,
+		"critical": 0,
+		"type": 2,
+		"IsSynchron": 0,
+		"Param1": 0,
+		"Param2": 0,
+		"Param3": 0,
+		"side": 0,
+		"buffNameText": {
+			"hash": -1424373571
+		},
+		"buffDescStrId": {
+			"hash": -1424510240
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_HP",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType02",
+		"DataImpl": {},
+		"grandKeySkill": 20601
+	},
+	{
+		"grandKeyID": 206,
+		"unlockgrandKeyLevel": 1,
+		"breachLevel": 1,
+		"HP": 0,
+		"SP": 0,
+		"attack": 10,
+		"defence": 0,
+		"critical": 0,
+		"type": 2,
+		"IsSynchron": 1,
+		"Param1": 0,
+		"Param2": 0,
+		"Param3": 0,
+		"side": 0,
+		"buffNameText": {
+			"hash": -1395744420
+		},
+		"buffDescStrId": {
+			"hash": -1395881089
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_Attack",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType02",
+		"DataImpl": {},
+		"grandKeySkill": 20602
+	},
+	{
+		"grandKeyID": 207,
+		"unlockgrandKeyLevel": 1,
+		"breachLevel": 0,
+		"HP": 20,
+		"SP": 0,
+		"attack": 0,
+		"defence": 0,
+		"critical": 0,
+		"type": 2,
+		"IsSynchron": 0,
+		"Param1": 0,
+		"Param2": 0,
+		"Param3": 0,
+		"side": 0,
+		"buffNameText": {
+			"hash": 318436764
+		},
+		"buffDescStrId": {
+			"hash": 318300095
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_HP",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType02",
+		"DataImpl": {},
+		"grandKeySkill": 20701
+	},
+	{
+		"grandKeyID": 207,
+		"unlockgrandKeyLevel": 1,
+		"breachLevel": 1,
+		"HP": 0,
+		"SP": 0,
+		"attack": 10,
+		"defence": 0,
+		"critical": 0,
+		"type": 2,
+		"IsSynchron": 1,
+		"Param1": 0,
+		"Param2": 0,
+		"Param3": 0,
+		"side": 0,
+		"buffNameText": {
+			"hash": 347065915
+		},
+		"buffDescStrId": {
+			"hash": 346929246
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_Attack",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType02",
+		"DataImpl": {},
+		"grandKeySkill": 20702
+	},
+	{
+		"grandKeyID": 208,
+		"unlockgrandKeyLevel": 1,
+		"breachLevel": 0,
+		"HP": 0,
+		"SP": 0,
+		"attack": 10,
+		"defence": 0,
+		"critical": 0,
+		"type": 2,
+		"IsSynchron": 0,
+		"Param1": 0,
+		"Param2": 0,
+		"Param3": 0,
+		"side": 0,
+		"buffNameText": {
+			"hash": 2061247099
+		},
+		"buffDescStrId": {
+			"hash": 2061110430
+		},
+		"buffIcon": "SpriteOutput/GrandKeyEffects/GrandSkill/Skill_Grand_Attack",
+		"BuffTypeIcon": "SpriteOutput/GrandKey/GrandKeySkillType02",
+		"DataImpl": {},
+		"grandKeySkill": 20801
+	}
+]

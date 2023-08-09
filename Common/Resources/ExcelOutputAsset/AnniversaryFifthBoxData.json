@@ -1,0 +1,72 @@
+[
+	{
+		"InProgressImagePath": "SpriteOutput/Activity/Activity5AnniversaryPanel/Reward1",
+		"FinishedImagePath": "SpriteOutput/Activity/Activity5AnniversaryPanel/RewardFinish1",
+		"MaterialID": 115150,
+		"BoxType": 1,
+		"BoxStartTime": {
+			"TimeStampForBakedReader": 1633089600
+		},
+		"BoxEndTime": {
+			"TimeStampForBakedReader": 1635998400
+		},
+		"IntParams": [
+			99826
+		],
+		"DataImpl": {},
+		"BoxID": 5
+	},
+	{
+		"InProgressImagePath": "SpriteOutput/Activity/Activity5AnniversaryPanel/Reward2",
+		"FinishedImagePath": "SpriteOutput/Activity/Activity5AnniversaryPanel/RewardFinish2",
+		"MaterialID": 115151,
+		"BoxType": 3,
+		"BoxStartTime": {
+			"TimeStampForBakedReader": 1633060800
+		},
+		"BoxEndTime": {
+			"TimeStampForBakedReader": 1635998400
+		},
+		"IntParams": [
+			4,
+			5,
+			6
+		],
+		"DataImpl": {},
+		"BoxID": 6
+	},
+	{
+		"InProgressImagePath": "SpriteOutput/Activity/Activity5AnniversaryPanel/Reward3",
+		"FinishedImagePath": "SpriteOutput/Activity/Activity5AnniversaryPanel/RewardFinish3",
+		"MaterialID": 115152,
+		"BoxType": 2,
+		"BoxStartTime": {
+			"TimeStampForBakedReader": 1632384000
+		},
+		"BoxEndTime": {
+			"TimeStampForBakedReader": 1635998400
+		},
+		"IntParams": [
+			33
+		],
+		"DataImpl": {},
+		"BoxID": 7
+	},
+	{
+		"InProgressImagePath": "SpriteOutput/Activity/Activity5AnniversaryPanel/Reward4",
+		"FinishedImagePath": "SpriteOutput/Activity/Activity5AnniversaryPanel/RewardFinish4",
+		"MaterialID": 115153,
+		"BoxType": 2,
+		"BoxStartTime": {
+			"TimeStampForBakedReader": 1632384000
+		},
+		"BoxEndTime": {
+			"TimeStampForBakedReader": 1635998400
+		},
+		"IntParams": [
+			34
+		],
+		"DataImpl": {},
+		"BoxID": 8
+	}
+]

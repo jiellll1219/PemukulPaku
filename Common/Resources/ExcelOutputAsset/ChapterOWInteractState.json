@@ -1,0 +1,986 @@
+[
+	{
+		"NPCID": 6,
+		"IsShow": true,
+		"Interactive": false,
+		"InteractName": {
+			"hash": -78597971
+		},
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSendMessage",
+		"InteractRadius": 3,
+		"InteractBelowHeight": 1,
+		"InteractAboveHeight": 1,
+		"InteractAngle": 90,
+		"InteractEnterActionList": [
+			6,
+			1,
+			2,
+			3,
+			4
+		],
+		"InteractExitActionList": [
+			5
+		],
+		"DataImpl": {},
+		"ID": 2
+	},
+	{
+		"NPCID": 7,
+		"IsShow": true,
+		"Interactive": false,
+		"InteractName": {
+			"hash": 1385080149
+		},
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSendMessage",
+		"InteractRadius": 3,
+		"InteractBelowHeight": 1,
+		"InteractAboveHeight": 1,
+		"InteractAngle": 90,
+		"InteractEnterActionList": [
+			6,
+			1,
+			2,
+			3,
+			4
+		],
+		"InteractExitActionList": [
+			5
+		],
+		"DataImpl": {},
+		"ID": 3
+	},
+	{
+		"NPCID": 8,
+		"IsShow": true,
+		"Interactive": false,
+		"InteractName": {
+			"hash": 1384766243
+		},
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSendMessage",
+		"InteractRadius": 3,
+		"InteractBelowHeight": 1,
+		"InteractAboveHeight": 1,
+		"InteractAngle": 90,
+		"InteractEnterActionList": [
+			6,
+			1,
+			2,
+			3,
+			4
+		],
+		"InteractExitActionList": [
+			5
+		],
+		"DataImpl": {},
+		"ID": 4
+	},
+	{
+		"NPCID": 0,
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": {
+			"hash": 809887067
+		},
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSetting",
+		"InteractRadius": 4.5,
+		"InteractBelowHeight": 20,
+		"InteractAboveHeight": 20,
+		"InteractAngle": 180,
+		"InteractEnterActionList": [
+			1011,
+			4
+		],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"ID": 1011
+	},
+	{
+		"NPCID": 0,
+		"IsShow": true,
+		"Interactive": false,
+		"InteractName": {
+			"hash": 809887067
+		},
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSetting",
+		"InteractRadius": 4.5,
+		"InteractBelowHeight": 20,
+		"InteractAboveHeight": 20,
+		"InteractAngle": 180,
+		"InteractEnterActionList": [
+			1011,
+			4
+		],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"ID": 1012
+	},
+	{
+		"NPCID": 0,
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": {
+			"hash": 809887067
+		},
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSetting",
+		"InteractRadius": 4.5,
+		"InteractBelowHeight": 20,
+		"InteractAboveHeight": 20,
+		"InteractAngle": 180,
+		"InteractEnterActionList": [
+			1013,
+			4,
+			1012,
+			4
+		],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"ID": 1013
+	},
+	{
+		"NPCID": 0,
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": {
+			"hash": -1959476335
+		},
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSetting",
+		"InteractRadius": 4.5,
+		"InteractBelowHeight": 20,
+		"InteractAboveHeight": 20,
+		"InteractAngle": 180,
+		"InteractEnterActionList": [
+			1020,
+			4
+		],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"ID": 1020
+	},
+	{
+		"NPCID": 0,
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": {
+			"hash": -1959476335
+		},
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSetting",
+		"InteractRadius": 4.5,
+		"InteractBelowHeight": 20,
+		"InteractAboveHeight": 20,
+		"InteractAngle": 180,
+		"InteractEnterActionList": [
+			1020,
+			4
+		],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"ID": 1021
+	},
+	{
+		"NPCID": 0,
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": {
+			"hash": -1959476335
+		},
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSetting",
+		"InteractRadius": 4.5,
+		"InteractBelowHeight": 20,
+		"InteractAboveHeight": 20,
+		"InteractAngle": 180,
+		"InteractEnterActionList": [
+			1020,
+			4
+		],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"ID": 1022
+	},
+	{
+		"NPCID": 0,
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": {
+			"hash": -1959476335
+		},
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSetting",
+		"InteractRadius": 4.5,
+		"InteractBelowHeight": 20,
+		"InteractAboveHeight": 20,
+		"InteractAngle": 180,
+		"InteractEnterActionList": [
+			1020,
+			4
+		],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"ID": 1023
+	},
+	{
+		"NPCID": 0,
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": {
+			"hash": 1004124199
+		},
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSetting",
+		"InteractRadius": 4.5,
+		"InteractBelowHeight": 20,
+		"InteractAboveHeight": 10,
+		"InteractAngle": 180,
+		"InteractEnterActionList": [
+			1030,
+			4
+		],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"ID": 1030
+	},
+	{
+		"NPCID": 0,
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": {
+			"hash": 1004124200
+		},
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSetting",
+		"InteractRadius": 4.5,
+		"InteractBelowHeight": 20,
+		"InteractAboveHeight": 10,
+		"InteractAngle": 180,
+		"InteractEnterActionList": [
+			1031,
+			4
+		],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"ID": 1031
+	},
+	{
+		"NPCID": 0,
+		"IsShow": true,
+		"Interactive": false,
+		"InteractName": {
+			"hash": 1004124200
+		},
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSetting",
+		"InteractRadius": 4.5,
+		"InteractBelowHeight": 20,
+		"InteractAboveHeight": 10,
+		"InteractAngle": 180,
+		"InteractEnterActionList": [],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"ID": 1032
+	},
+	{
+		"NPCID": 0,
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": {
+			"hash": 1004124200
+		},
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSetting",
+		"InteractRadius": 4.5,
+		"InteractBelowHeight": 20,
+		"InteractAboveHeight": 10,
+		"InteractAngle": 180,
+		"InteractEnterActionList": [
+			1035,
+			4,
+			1032,
+			4
+		],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"ID": 1033
+	},
+	{
+		"NPCID": 0,
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": {
+			"hash": 1004124200
+		},
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSetting",
+		"InteractRadius": 4.5,
+		"InteractBelowHeight": 20,
+		"InteractAboveHeight": 10,
+		"InteractAngle": 180,
+		"InteractEnterActionList": [
+			7,
+			1036,
+			4,
+			1034,
+			4,
+			8
+		],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"ID": 1034
+	},
+	{
+		"NPCID": 0,
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": {
+			"hash": 1004124200
+		},
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSetting",
+		"InteractRadius": 4.5,
+		"InteractBelowHeight": 20,
+		"InteractAboveHeight": 10,
+		"InteractAngle": 180,
+		"InteractEnterActionList": [
+			7,
+			1030,
+			4,
+			1033,
+			4,
+			8
+		],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"ID": 1035
+	},
+	{
+		"NPCID": 0,
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": {
+			"hash": 1021891736
+		},
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSetting",
+		"InteractRadius": 4.5,
+		"InteractBelowHeight": 20,
+		"InteractAboveHeight": 20,
+		"InteractAngle": 180,
+		"InteractEnterActionList": [
+			1040,
+			4
+		],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"ID": 1040
+	},
+	{
+		"NPCID": 0,
+		"IsShow": true,
+		"Interactive": false,
+		"InteractName": {
+			"hash": 1021891736
+		},
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSetting",
+		"InteractRadius": 4.5,
+		"InteractBelowHeight": 20,
+		"InteractAboveHeight": 20,
+		"InteractAngle": 180,
+		"InteractEnterActionList": [
+			1040,
+			4
+		],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"ID": 1041
+	},
+	{
+		"NPCID": 0,
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": {
+			"hash": 1021891736
+		},
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSetting",
+		"InteractRadius": 4.5,
+		"InteractBelowHeight": 20,
+		"InteractAboveHeight": 20,
+		"InteractAngle": 180,
+		"InteractEnterActionList": [
+			1041,
+			4,
+			1042,
+			4
+		],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"ID": 1042
+	},
+	{
+		"NPCID": 0,
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": {
+			"hash": -1327133751
+		},
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSetting",
+		"InteractRadius": 6,
+		"InteractBelowHeight": 20,
+		"InteractAboveHeight": 20,
+		"InteractAngle": 180,
+		"InteractEnterActionList": [
+			1045,
+			4
+		],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"ID": 1045
+	},
+	{
+		"NPCID": 0,
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": {
+			"hash": 1997640108
+		},
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSetting",
+		"InteractRadius": 8,
+		"InteractBelowHeight": 20,
+		"InteractAboveHeight": 20,
+		"InteractAngle": 360,
+		"InteractEnterActionList": [
+			1050,
+			4
+		],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"ID": 1050
+	},
+	{
+		"NPCID": 0,
+		"IsShow": true,
+		"Interactive": false,
+		"InteractName": {
+			"hash": 1997640108
+		},
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSetting",
+		"InteractRadius": 3,
+		"InteractBelowHeight": 20,
+		"InteractAboveHeight": 20,
+		"InteractAngle": 360,
+		"InteractEnterActionList": [
+			1050,
+			4
+		],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"ID": 1051
+	},
+	{
+		"NPCID": 0,
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": {
+			"hash": 1997640108
+		},
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSetting",
+		"InteractRadius": 8,
+		"InteractBelowHeight": 20,
+		"InteractAboveHeight": 20,
+		"InteractAngle": 360,
+		"InteractEnterActionList": [
+			1051,
+			4
+		],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"ID": 1052
+	},
+	{
+		"NPCID": 0,
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": {
+			"hash": 1961027058
+		},
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSetting",
+		"InteractRadius": 5,
+		"InteractBelowHeight": 100,
+		"InteractAboveHeight": 100,
+		"InteractAngle": 360,
+		"InteractEnterActionList": [],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"ID": 1060
+	},
+	{
+		"NPCID": 0,
+		"IsShow": true,
+		"Interactive": false,
+		"InteractName": {
+			"hash": 1961027058
+		},
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSetting",
+		"InteractRadius": 5,
+		"InteractBelowHeight": 100,
+		"InteractAboveHeight": 100,
+		"InteractAngle": 360,
+		"InteractEnterActionList": [],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"ID": 1061
+	},
+	{
+		"NPCID": 0,
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": {
+			"hash": -1959476335
+		},
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSetting",
+		"InteractRadius": 4,
+		"InteractBelowHeight": 20,
+		"InteractAboveHeight": 20,
+		"InteractAngle": 360,
+		"InteractEnterActionList": [
+			1070,
+			4
+		],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"ID": 1070
+	},
+	{
+		"NPCID": 0,
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": {
+			"hash": -1959476335
+		},
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSetting",
+		"InteractRadius": 4,
+		"InteractBelowHeight": 20,
+		"InteractAboveHeight": 20,
+		"InteractAngle": 360,
+		"InteractEnterActionList": [
+			1070,
+			4
+		],
+		"InteractExitActionList": [],
+		"DataImpl": {},
+		"ID": 1071
+	},
+	{
+		"NPCID": 4,
+		"IsShow": false,
+		"Interactive": false,
+		"InteractName": {
+			"hash": -527084588
+		},
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSendMessage",
+		"InteractRadius": 3.5,
+		"InteractBelowHeight": 1,
+		"InteractAboveHeight": 1,
+		"InteractAngle": 90,
+		"InteractEnterActionList": [
+			6,
+			1,
+			2,
+			3,
+			4
+		],
+		"InteractExitActionList": [
+			5
+		],
+		"DataImpl": {},
+		"ID": 2010
+	},
+	{
+		"NPCID": 4,
+		"IsShow": true,
+		"Interactive": false,
+		"InteractName": {
+			"hash": -527084588
+		},
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSendMessage",
+		"InteractRadius": 3.5,
+		"InteractBelowHeight": 1,
+		"InteractAboveHeight": 1,
+		"InteractAngle": 90,
+		"InteractEnterActionList": [
+			6,
+			1,
+			2,
+			3,
+			4
+		],
+		"InteractExitActionList": [
+			5
+		],
+		"DataImpl": {},
+		"ID": 2011
+	},
+	{
+		"NPCID": 4,
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": {
+			"hash": -527084588
+		},
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSendMessage",
+		"InteractRadius": 3.5,
+		"InteractBelowHeight": 1,
+		"InteractAboveHeight": 1,
+		"InteractAngle": 90,
+		"InteractEnterActionList": [
+			7,
+			1,
+			2011,
+			2,
+			3,
+			4,
+			8
+		],
+		"InteractExitActionList": [
+			5
+		],
+		"DataImpl": {},
+		"ID": 2012
+	},
+	{
+		"NPCID": 4,
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": {
+			"hash": -527084588
+		},
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSendMessage",
+		"InteractRadius": 3.5,
+		"InteractBelowHeight": 1,
+		"InteractAboveHeight": 1,
+		"InteractAngle": 90,
+		"InteractEnterActionList": [
+			7,
+			1,
+			2019,
+			4,
+			2,
+			3,
+			2012,
+			4,
+			8
+		],
+		"InteractExitActionList": [
+			5
+		],
+		"DataImpl": {},
+		"ID": 2013
+	},
+	{
+		"NPCID": 4,
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": {
+			"hash": -527084588
+		},
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSendMessage",
+		"InteractRadius": 3.5,
+		"InteractBelowHeight": 1,
+		"InteractAboveHeight": 1,
+		"InteractAngle": 90,
+		"InteractEnterActionList": [
+			7,
+			1,
+			2017,
+			4,
+			2,
+			3,
+			2013,
+			4,
+			8
+		],
+		"InteractExitActionList": [
+			5
+		],
+		"DataImpl": {},
+		"ID": 2014
+	},
+	{
+		"NPCID": 4,
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": {
+			"hash": -527084588
+		},
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSendMessage",
+		"InteractRadius": 3.5,
+		"InteractBelowHeight": 1,
+		"InteractAboveHeight": 1,
+		"InteractAngle": 90,
+		"InteractEnterActionList": [
+			7,
+			1,
+			2018,
+			4,
+			2,
+			3,
+			2014,
+			4,
+			8
+		],
+		"InteractExitActionList": [
+			5
+		],
+		"DataImpl": {},
+		"ID": 2015
+	},
+	{
+		"NPCID": 4,
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": {
+			"hash": -527084588
+		},
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSendMessage",
+		"InteractRadius": 3.5,
+		"InteractBelowHeight": 1,
+		"InteractAboveHeight": 1,
+		"InteractAngle": 90,
+		"InteractEnterActionList": [
+			7,
+			1,
+			2015,
+			2,
+			3,
+			4,
+			8
+		],
+		"InteractExitActionList": [
+			5
+		],
+		"DataImpl": {},
+		"ID": 2016
+	},
+	{
+		"NPCID": 1,
+		"IsShow": false,
+		"Interactive": false,
+		"InteractName": {
+			"hash": 822256924
+		},
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSendMessage",
+		"InteractRadius": 3.5,
+		"InteractBelowHeight": 1,
+		"InteractAboveHeight": 1,
+		"InteractAngle": 90,
+		"InteractEnterActionList": [
+			6,
+			1,
+			2,
+			3,
+			4
+		],
+		"InteractExitActionList": [
+			5
+		],
+		"DataImpl": {},
+		"ID": 2020
+	},
+	{
+		"NPCID": 1,
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": {
+			"hash": 822256924
+		},
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSendMessage",
+		"InteractRadius": 3.5,
+		"InteractBelowHeight": 1,
+		"InteractAboveHeight": 1,
+		"InteractAngle": 90,
+		"InteractEnterActionList": [
+			7,
+			1,
+			2021,
+			2,
+			3,
+			4,
+			8
+		],
+		"InteractExitActionList": [
+			5
+		],
+		"DataImpl": {},
+		"ID": 2021
+	},
+	{
+		"NPCID": 1,
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": {
+			"hash": 822256924
+		},
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSendMessage",
+		"InteractRadius": 3.5,
+		"InteractBelowHeight": 1,
+		"InteractAboveHeight": 1,
+		"InteractAngle": 90,
+		"InteractEnterActionList": [
+			7,
+			1,
+			2022,
+			2,
+			3,
+			4,
+			8
+		],
+		"InteractExitActionList": [
+			5
+		],
+		"DataImpl": {},
+		"ID": 2022
+	},
+	{
+		"NPCID": 2,
+		"IsShow": false,
+		"Interactive": false,
+		"InteractName": {
+			"hash": -527919387
+		},
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSendMessage",
+		"InteractRadius": 3.5,
+		"InteractBelowHeight": 1,
+		"InteractAboveHeight": 1,
+		"InteractAngle": 90,
+		"InteractEnterActionList": [
+			6,
+			1,
+			2,
+			3,
+			4
+		],
+		"InteractExitActionList": [
+			5
+		],
+		"DataImpl": {},
+		"ID": 2030
+	},
+	{
+		"NPCID": 2,
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": {
+			"hash": -527919387
+		},
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSendMessage",
+		"InteractRadius": 3.5,
+		"InteractBelowHeight": 1,
+		"InteractAboveHeight": 1,
+		"InteractAngle": 90,
+		"InteractEnterActionList": [
+			7,
+			1,
+			2031,
+			2,
+			3,
+			4,
+			8
+		],
+		"InteractExitActionList": [
+			5
+		],
+		"DataImpl": {},
+		"ID": 2031
+	},
+	{
+		"NPCID": 3,
+		"IsShow": false,
+		"Interactive": false,
+		"InteractName": {
+			"hash": -58011964
+		},
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSendMessage",
+		"InteractRadius": 3.5,
+		"InteractBelowHeight": 1,
+		"InteractAboveHeight": 1,
+		"InteractAngle": 90,
+		"InteractEnterActionList": [
+			6,
+			1,
+			2,
+			3,
+			4
+		],
+		"InteractExitActionList": [
+			5
+		],
+		"DataImpl": {},
+		"ID": 2040
+	},
+	{
+		"NPCID": 3,
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": {
+			"hash": -58011964
+		},
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSendMessage",
+		"InteractRadius": 3.5,
+		"InteractBelowHeight": 1,
+		"InteractAboveHeight": 1,
+		"InteractAngle": 90,
+		"InteractEnterActionList": [
+			1,
+			2041,
+			2,
+			3,
+			4
+		],
+		"InteractExitActionList": [
+			5
+		],
+		"DataImpl": {},
+		"ID": 2041
+	},
+	{
+		"NPCID": 5,
+		"IsShow": false,
+		"Interactive": false,
+		"InteractName": {
+			"hash": 18874136
+		},
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSendMessage",
+		"InteractRadius": 3.5,
+		"InteractBelowHeight": 1,
+		"InteractAboveHeight": 1,
+		"InteractAngle": 90,
+		"InteractEnterActionList": [
+			6,
+			1,
+			2,
+			3,
+			4
+		],
+		"InteractExitActionList": [
+			5
+		],
+		"DataImpl": {},
+		"ID": 2050
+	},
+	{
+		"NPCID": 5,
+		"IsShow": true,
+		"Interactive": true,
+		"InteractName": {
+			"hash": 18874136
+		},
+		"InteractIcon": "SpriteOutput\\InLevel\\Prop\\IconSendMessage",
+		"InteractRadius": 3.5,
+		"InteractBelowHeight": 1,
+		"InteractAboveHeight": 1,
+		"InteractAngle": 90,
+		"InteractEnterActionList": [
+			7,
+			1,
+			2051,
+			2,
+			3,
+			4,
+			8
+		],
+		"InteractExitActionList": [
+			5
+		],
+		"DataImpl": {},
+		"ID": 2051
+	}
+]

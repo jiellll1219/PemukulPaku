@@ -1,0 +1,332 @@
+[
+	{
+		"Name": {
+			"hash": 90519488
+		},
+		"Info": {
+			"hash": 398303042
+		},
+		"TalentGroup": 2,
+		"TalentCost": 1,
+		"MaxLv": 5,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Function",
+		"SortWeight": 11000,
+		"DataImpl": {},
+		"ElfTalentID": 10001
+	},
+	{
+		"Name": {
+			"hash": 90519550
+		},
+		"Info": {
+			"hash": 398303044
+		},
+		"TalentGroup": 1,
+		"TalentCost": 1,
+		"MaxLv": 5,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Status",
+		"SortWeight": 11002,
+		"DataImpl": {},
+		"ElfTalentID": 10021
+	},
+	{
+		"Name": {
+			"hash": 90519551
+		},
+		"Info": {
+			"hash": 398303044
+		},
+		"TalentGroup": 1,
+		"TalentCost": 1,
+		"MaxLv": 1,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Status",
+		"SortWeight": 21002,
+		"DataImpl": {},
+		"ElfTalentID": 10022
+	},
+	{
+		"Name": {
+			"hash": 90519581
+		},
+		"Info": {
+			"hash": 398303045
+		},
+		"TalentGroup": 1,
+		"TalentCost": 1,
+		"MaxLv": 5,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Status",
+		"SortWeight": 11003,
+		"DataImpl": {},
+		"ElfTalentID": 10031
+	},
+	{
+		"Name": {
+			"hash": 90519612
+		},
+		"Info": {
+			"hash": 398303046
+		},
+		"TalentGroup": 3,
+		"TalentCost": 1,
+		"MaxLv": 5,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Status",
+		"SortWeight": 11004,
+		"DataImpl": {},
+		"ElfTalentID": 10041
+	},
+	{
+		"Name": {
+			"hash": 90519613
+		},
+		"Info": {
+			"hash": 398303046
+		},
+		"TalentGroup": 3,
+		"TalentCost": 1,
+		"MaxLv": 1,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Status",
+		"SortWeight": 21004,
+		"DataImpl": {},
+		"ElfTalentID": 10042
+	},
+	{
+		"Name": {
+			"hash": 90519643
+		},
+		"Info": {
+			"hash": 398303047
+		},
+		"TalentGroup": 3,
+		"TalentCost": 1,
+		"MaxLv": 5,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Status",
+		"SortWeight": 11005,
+		"DataImpl": {},
+		"ElfTalentID": 10051
+	},
+	{
+		"Name": {
+			"hash": 90519674
+		},
+		"Info": {
+			"hash": 398303048
+		},
+		"TalentGroup": 1,
+		"TalentCost": 1,
+		"MaxLv": 5,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Status",
+		"SortWeight": 11006,
+		"DataImpl": {},
+		"ElfTalentID": 10061
+	},
+	{
+		"Name": {
+			"hash": 90519675
+		},
+		"Info": {
+			"hash": 398303048
+		},
+		"TalentGroup": 1,
+		"TalentCost": 1,
+		"MaxLv": 1,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Status",
+		"SortWeight": 21006,
+		"DataImpl": {},
+		"ElfTalentID": 10062
+	},
+	{
+		"Name": {
+			"hash": 90519705
+		},
+		"Info": {
+			"hash": 398303049
+		},
+		"TalentGroup": 2,
+		"TalentCost": 1,
+		"MaxLv": 5,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Ultra",
+		"SortWeight": 11007,
+		"DataImpl": {},
+		"ElfTalentID": 10071
+	},
+	{
+		"Name": {
+			"hash": 90519706
+		},
+		"Info": {
+			"hash": 398303049
+		},
+		"TalentGroup": 2,
+		"TalentCost": 1,
+		"MaxLv": 1,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Ultra",
+		"SortWeight": 21007,
+		"DataImpl": {},
+		"ElfTalentID": 10072
+	},
+	{
+		"Name": {
+			"hash": 90519736
+		},
+		"Info": {
+			"hash": 398303050
+		},
+		"TalentGroup": 3,
+		"TalentCost": 1,
+		"MaxLv": 5,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Attack",
+		"SortWeight": 11008,
+		"DataImpl": {},
+		"ElfTalentID": 10081
+	},
+	{
+		"Name": {
+			"hash": 90519737
+		},
+		"Info": {
+			"hash": 398303050
+		},
+		"TalentGroup": 3,
+		"TalentCost": 1,
+		"MaxLv": 1,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Attack",
+		"SortWeight": 21008,
+		"DataImpl": {},
+		"ElfTalentID": 10082
+	},
+	{
+		"Name": {
+			"hash": 90519767
+		},
+		"Info": {
+			"hash": 398303051
+		},
+		"TalentGroup": 1,
+		"TalentCost": 1,
+		"MaxLv": 5,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Attack",
+		"SortWeight": 11009,
+		"DataImpl": {},
+		"ElfTalentID": 10091
+	},
+	{
+		"Name": {
+			"hash": 90520449
+		},
+		"Info": {
+			"hash": 398303073
+		},
+		"TalentGroup": 1,
+		"TalentCost": 1,
+		"MaxLv": 5,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Attack",
+		"SortWeight": 11010,
+		"DataImpl": {},
+		"ElfTalentID": 10101
+	},
+	{
+		"Name": {
+			"hash": 90520480
+		},
+		"Info": {
+			"hash": 398303074
+		},
+		"TalentGroup": 3,
+		"TalentCost": 1,
+		"MaxLv": 5,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Attack",
+		"SortWeight": 11011,
+		"DataImpl": {},
+		"ElfTalentID": 10111
+	},
+	{
+		"Name": {
+			"hash": 90520481
+		},
+		"Info": {
+			"hash": 398303074
+		},
+		"TalentGroup": 3,
+		"TalentCost": 1,
+		"MaxLv": 1,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Attack",
+		"SortWeight": 21011,
+		"DataImpl": {},
+		"ElfTalentID": 10112
+	},
+	{
+		"Name": {
+			"hash": 90520511
+		},
+		"Info": {
+			"hash": 398303075
+		},
+		"TalentGroup": 3,
+		"TalentCost": 1,
+		"MaxLv": 5,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Attack",
+		"SortWeight": 11012,
+		"DataImpl": {},
+		"ElfTalentID": 10121
+	},
+	{
+		"Name": {
+			"hash": 90520542
+		},
+		"Info": {
+			"hash": 398303076
+		},
+		"TalentGroup": 2,
+		"TalentCost": 1,
+		"MaxLv": 5,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Ultra",
+		"SortWeight": 11013,
+		"DataImpl": {},
+		"ElfTalentID": 10131
+	},
+	{
+		"Name": {
+			"hash": 90520666
+		},
+		"Info": {
+			"hash": 398303080
+		},
+		"TalentGroup": 2,
+		"TalentCost": 1,
+		"MaxLv": 5,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Function",
+		"SortWeight": 11017,
+		"DataImpl": {},
+		"ElfTalentID": 10171
+	},
+	{
+		"Name": {
+			"hash": 90520697
+		},
+		"Info": {
+			"hash": 398303081
+		},
+		"TalentGroup": 2,
+		"TalentCost": 1,
+		"MaxLv": 5,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Function",
+		"SortWeight": 11018,
+		"DataImpl": {},
+		"ElfTalentID": 10181
+	},
+	{
+		"Name": {
+			"hash": 90520698
+		},
+		"Info": {
+			"hash": 398303081
+		},
+		"TalentGroup": 2,
+		"TalentCost": 1,
+		"MaxLv": 1,
+		"IconPath": "SpriteOutput/Elf_Skill_Icon/Skill_Elf_Talent_Function",
+		"SortWeight": 21018,
+		"DataImpl": {},
+		"ElfTalentID": 10182
+	}
+]

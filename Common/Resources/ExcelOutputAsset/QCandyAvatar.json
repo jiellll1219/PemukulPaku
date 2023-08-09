@@ -1,0 +1,512 @@
+[
+	{
+		"AvatarRegistryKey": "Fake_FG_Kiana_C2",
+		"UIAvatarPrefabPath": "Entities/QAvatar/Kiana_C2_PT/AvatarQ_Kiana_C2_PT_UI",
+		"UIControllerPath": "Entities/QAvatar/Qavata_All/Avatar_FG_AniController_UI",
+		"InitFace": true,
+		"FullName": {
+			"hash": 544833474
+		},
+		"ChibiIconPath": "SpriteOutput/AvatarChibiIcons/101",
+		"ItemCost": 0,
+		"RankRequest": 0,
+		"IsShownLocked": true,
+		"DataImpl": {},
+		"AvatarID": 101
+	},
+	{
+		"AvatarRegistryKey": "Fake_FG_Kiana_C7_SK",
+		"UIAvatarPrefabPath": "Entities/QAvatar/Kiana_C7_SK/AvatarQ_Kiana_C7_SK_UI",
+		"UIControllerPath": "Entities/QAvatar/Qavata_All/Avatar_FG_AniController_UI",
+		"InitFace": true,
+		"FullName": {
+			"hash": 544833479
+		},
+		"ChibiIconPath": "SpriteOutput/AvatarChibiIcons/106",
+		"ItemCost": 1,
+		"RankRequest": 0,
+		"IsShownLocked": true,
+		"DataImpl": {},
+		"AvatarID": 106
+	},
+	{
+		"AvatarRegistryKey": "Fake_FG_Kallen_C1",
+		"UIAvatarPrefabPath": "Entities/QAvatar/Kallen_C1_KT/AvatarQ_Kallen_C1_KT_UI",
+		"UIControllerPath": "Entities/QAvatar/Qavata_All/Avatar_FG_AniController_UI",
+		"InitFace": true,
+		"FullName": {
+			"hash": 544833505
+		},
+		"ChibiIconPath": "SpriteOutput/AvatarChibiIcons/111",
+		"ItemCost": 1,
+		"RankRequest": 0,
+		"IsShownLocked": true,
+		"DataImpl": {},
+		"AvatarID": 111
+	},
+	{
+		"AvatarRegistryKey": "Fake_FG_Mei_C3",
+		"UIAvatarPrefabPath": "Entities/QAvatar/Mei_C3_WS/AvatarQ_Mei_C3_WS_UI",
+		"UIControllerPath": "Entities/QAvatar/Qavata_All/Avatar_FG_AniController_UI",
+		"InitFace": true,
+		"FullName": {
+			"hash": 544834436
+		},
+		"ChibiIconPath": "SpriteOutput/AvatarChibiIcons/202",
+		"ItemCost": 0,
+		"RankRequest": 0,
+		"IsShownLocked": true,
+		"DataImpl": {},
+		"AvatarID": 202
+	},
+	{
+		"AvatarRegistryKey": "Fake_FG_Mei_C6_GM",
+		"UIAvatarPrefabPath": "Entities/QAvatar/Mei_C6_GM/AvatarQ_Mei_C6_GM_UI",
+		"UIControllerPath": "Entities/QAvatar/Qavata_All/Avatar_FG_AniController_UI",
+		"InitFace": true,
+		"FullName": {
+			"hash": 544834440
+		},
+		"ChibiIconPath": "SpriteOutput/AvatarChibiIcons/206",
+		"ItemCost": 1,
+		"RankRequest": 0,
+		"IsShownLocked": true,
+		"DataImpl": {},
+		"AvatarID": 206
+	},
+	{
+		"AvatarRegistryKey": "Fake_FG_Sakura_C2",
+		"UIAvatarPrefabPath": "Entities/QAvatar/Sakura_C2_04_03/AvatarQ_Yae_Sakura_C2_04_03_Zombie_UI",
+		"UIControllerPath": "Entities/QAvatar/Qavata_All/Avatar_FG_AniController_UI",
+		"InitFace": true,
+		"FullName": {
+			"hash": 544834467
+		},
+		"ChibiIconPath": "SpriteOutput/AvatarChibiIcons/212",
+		"ItemCost": 1,
+		"RankRequest": 0,
+		"IsShownLocked": true,
+		"DataImpl": {},
+		"AvatarID": 212
+	},
+	{
+		"AvatarRegistryKey": "Fake_FG_Bronya_C1",
+		"UIAvatarPrefabPath": "Entities/QAvatar/Bronya_C1_ZP/AvatarQ_Bronya_C1_ZP_UI",
+		"UIControllerPath": "Entities/QAvatar/Qavata_All/Avatar_FG_AniController_UI",
+		"InitFace": true,
+		"FullName": {
+			"hash": 544835396
+		},
+		"ChibiIconPath": "SpriteOutput/AvatarChibiIcons/301",
+		"ItemCost": 0,
+		"RankRequest": 0,
+		"IsShownLocked": true,
+		"DataImpl": {},
+		"AvatarID": 301
+	},
+	{
+		"AvatarRegistryKey": "Fake_FG_Bronya_C9",
+		"UIAvatarPrefabPath": "Entities/QAvatar/Bronya_C10_JS/AvatarQ_Bronya_C10_JS_UI",
+		"UIControllerPath": "Entities/QAvatar/Qavata_All/Avatar_FG_AniController_UI",
+		"InitFace": true,
+		"FullName": {
+			"hash": 544835431
+		},
+		"ChibiIconPath": "SpriteOutput/AvatarChibiIcons/315",
+		"ItemCost": 1,
+		"RankRequest": 0,
+		"IsShownLocked": true,
+		"DataImpl": {},
+		"AvatarID": 315
+	},
+	{
+		"AvatarRegistryKey": "Fake_FG_Bronya_C12",
+		"UIAvatarPrefabPath": "Entities/QAvatar/Bronya_C12/AvatarQ_Bronya_C12_UI",
+		"UIControllerPath": "Entities/QAvatar/Qavata_All/Avatar_FG_AniController_UI",
+		"InitFace": true,
+		"FullName": {
+			"hash": 544835433
+		},
+		"ChibiIconPath": "SpriteOutput/AvatarChibiIcons/317",
+		"ItemCost": 1,
+		"RankRequest": 0,
+		"IsShownLocked": true,
+		"DataImpl": {},
+		"AvatarID": 317
+	},
+	{
+		"AvatarRegistryKey": "Fake_FG_Himeko_C4",
+		"UIAvatarPrefabPath": "Entities/QAvatar/Himeko_C4_BZ/AvatarQ_Himeko_C4_BZ_UI",
+		"UIControllerPath": "Entities/QAvatar/Qavata_All/Avatar_FG_AniController_UI",
+		"InitFace": true,
+		"FullName": {
+			"hash": 544836360
+		},
+		"ChibiIconPath": "SpriteOutput/AvatarChibiIcons/404",
+		"ItemCost": 1,
+		"RankRequest": 0,
+		"IsShownLocked": true,
+		"DataImpl": {},
+		"AvatarID": 404
+	},
+	{
+		"AvatarRegistryKey": "Fake_FG_Twins_C1",
+		"UIAvatarPrefabPath": "Entities/QAvatar/Twins_C1_GP/AvatarQ_Twins_C1_GP_UI",
+		"UIControllerPath": "Entities/QAvatar/Qavata_All/Avatar_FG_AniController_UI",
+		"InitFace": true,
+		"FullName": {
+			"hash": 544836419
+		},
+		"ChibiIconPath": "SpriteOutput/AvatarChibiIcons/421",
+		"ItemCost": 1,
+		"RankRequest": 0,
+		"IsShownLocked": true,
+		"DataImpl": {},
+		"AvatarID": 421
+	},
+	{
+		"AvatarRegistryKey": "Fake_FG_Twins_C2",
+		"UIAvatarPrefabPath": "Entities/QAvatar/Twins_C2_BS/AvatarQ_Twins_C2_BS_UI",
+		"UIControllerPath": "Entities/QAvatar/Qavata_All/Avatar_FG_AniController_UI",
+		"InitFace": true,
+		"FullName": {
+			"hash": 544836420
+		},
+		"ChibiIconPath": "SpriteOutput/AvatarChibiIcons/422",
+		"ItemCost": 1,
+		"RankRequest": 0,
+		"IsShownLocked": true,
+		"DataImpl": {},
+		"AvatarID": 422
+	},
+	{
+		"AvatarRegistryKey": "Fake_FG_Theresa_C1",
+		"UIAvatarPrefabPath": "Entities/QAvatar/Theresa_C1_04_03/AvatarQ_Theresa_C1_04_03_UI",
+		"UIControllerPath": "Entities/QAvatar/Qavata_All/Avatar_FG_AniController_UI",
+		"InitFace": true,
+		"FullName": {
+			"hash": 544837318
+		},
+		"ChibiIconPath": "SpriteOutput/AvatarChibiIcons/501_04_02",
+		"ItemCost": 1,
+		"RankRequest": 0,
+		"IsShownLocked": true,
+		"DataImpl": {},
+		"AvatarID": 501
+	},
+	{
+		"AvatarRegistryKey": "Fake_FG_Fuka_C2",
+		"UIAvatarPrefabPath": "Entities/QAvatar/Fuka_C2_04_02/AvatarQ_Fuka_C2_04_02_Zombie_UI",
+		"UIControllerPath": "Entities/QAvatar/Qavata_All/Avatar_FG_AniController_UI",
+		"InitFace": true,
+		"FullName": {
+			"hash": 544838280
+		},
+		"ChibiIconPath": "SpriteOutput/AvatarChibiIcons/602",
+		"ItemCost": 1,
+		"RankRequest": 0,
+		"IsShownLocked": true,
+		"DataImpl": {},
+		"AvatarID": 602
+	},
+	{
+		"AvatarRegistryKey": "Fake_FG_Durandal_C1",
+		"UIAvatarPrefabPath": "Entities/QAvatar/Durandal_C1_04_02/AvatarQ_Durandal_C1_04_02_UI",
+		"UIControllerPath": "Entities/QAvatar/Qavata_All/Avatar_FG_AniController_UI",
+		"InitFace": true,
+		"FullName": {
+			"hash": 544840201
+		},
+		"ChibiIconPath": "SpriteOutput/AvatarChibiIcons/801_04_02",
+		"ItemCost": 1,
+		"RankRequest": 0,
+		"IsShownLocked": true,
+		"DataImpl": {},
+		"AvatarID": 801
+	},
+	{
+		"AvatarRegistryKey": "Fake_FG_Mobius_C1",
+		"UIAvatarPrefabPath": "Entities/QAvatar/Mobius_C1_SY/AvatarQ_Mobius_C1_SY_UI",
+		"UIControllerPath": "Entities/QAvatar/Qavata_All/Avatar_FG_AniController_UI",
+		"InitFace": true,
+		"FullName": {
+			"hash": -289998798
+		},
+		"ChibiIconPath": "SpriteOutput/AvatarChibiIcons/2301",
+		"ItemCost": 1,
+		"RankRequest": 0,
+		"IsShownLocked": true,
+		"DataImpl": {},
+		"AvatarID": 2301
+	},
+	{
+		"AvatarRegistryKey": "Fake_FG_Raven_C1",
+		"UIAvatarPrefabPath": "Entities/QAvatar/Raven_C1_DC/AvatarQ_Raven_C1_DC_UI",
+		"UIControllerPath": "Entities/QAvatar/Qavata_All/Avatar_FG_AniController_UI",
+		"InitFace": true,
+		"FullName": {
+			"hash": -289997837
+		},
+		"ChibiIconPath": "SpriteOutput/AvatarChibiIcons/2401",
+		"ItemCost": 1,
+		"RankRequest": 0,
+		"IsShownLocked": true,
+		"DataImpl": {},
+		"AvatarID": 2401
+	},
+	{
+		"AvatarRegistryKey": "Fake_FG_Carol_C3",
+		"UIAvatarPrefabPath": "Entities/QAvatar/Carol_C3_SP/AvatarQ_Carol_C3_SP_UI",
+		"UIControllerPath": "Entities/QAvatar/Qavata_All/Avatar_FG_AniController_UI",
+		"InitFace": true,
+		"FullName": {
+			"hash": -289996876
+		},
+		"ChibiIconPath": "SpriteOutput/AvatarChibiIcons/2501",
+		"ItemCost": 1,
+		"RankRequest": 0,
+		"IsShownLocked": true,
+		"DataImpl": {},
+		"AvatarID": 2501
+	},
+	{
+		"AvatarRegistryKey": "Fake_FG_Pardofelis_C1",
+		"UIAvatarPrefabPath": "Entities/QAvatar/Pardofelis_C1_04_02/AvatarQ_Pardofelis_C1_04_02_Zombie_UI",
+		"UIControllerPath": "Entities/QAvatar/Qavata_All/Avatar_FG_AniController_UI",
+		"InitFace": true,
+		"FullName": {
+			"hash": -289995915
+		},
+		"ChibiIconPath": "SpriteOutput/AvatarChibiIcons/2601",
+		"ItemCost": 1,
+		"RankRequest": 0,
+		"IsShownLocked": true,
+		"DataImpl": {},
+		"AvatarID": 2601
+	},
+	{
+		"AvatarRegistryKey": "Fake_FG_Aponia_C1",
+		"UIAvatarPrefabPath": "Entities/QAvatar/Aponia_C1_04_01/AvatarQ_Aponia_C1_04_01_Zombie_UI",
+		"UIControllerPath": "Entities/QAvatar/Qavata_All/Avatar_FG_AniController_UI",
+		"InitFace": true,
+		"FullName": {
+			"hash": -289994954
+		},
+		"ChibiIconPath": "SpriteOutput/AvatarChibiIcons/2701",
+		"ItemCost": 1,
+		"RankRequest": 0,
+		"IsShownLocked": true,
+		"DataImpl": {},
+		"AvatarID": 2701
+	},
+	{
+		"AvatarRegistryKey": "Fake_FG_Eden_C1",
+		"UIAvatarPrefabPath": "Entities/QAvatar/Eden_C1_04_01/AvatarQ_Eden_C1_04_01_Zombie_UI",
+		"UIControllerPath": "Entities/QAvatar/Qavata_All/Avatar_FG_AniController_UI",
+		"InitFace": true,
+		"FullName": {
+			"hash": -289993993
+		},
+		"ChibiIconPath": "SpriteOutput/AvatarChibiIcons/2801",
+		"ItemCost": 1,
+		"RankRequest": 0,
+		"IsShownLocked": true,
+		"DataImpl": {},
+		"AvatarID": 2801
+	},
+	{
+		"AvatarRegistryKey": "Fake_FG_Griseo_C1",
+		"UIAvatarPrefabPath": "Entities/QAvatar/Griseo_C1_04_01/AvatarQ_Griseo_C1_04_01_UI",
+		"UIControllerPath": "Entities/QAvatar/Qavata_All/Avatar_FG_AniController_UI",
+		"InitFace": true,
+		"FullName": {
+			"hash": -289993032
+		},
+		"ChibiIconPath": "SpriteOutput/AvatarChibiIcons/2901",
+		"ItemCost": 1,
+		"RankRequest": 0,
+		"IsShownLocked": true,
+		"DataImpl": {},
+		"AvatarID": 2901
+	},
+	{
+		"AvatarRegistryKey": "Fake_FG_Vill_V_C1",
+		"UIAvatarPrefabPath": "Entities/QAvatar/Vill_V_C1_04_01/AvatarQ_Vill_V_C1_04_01_UI",
+		"UIControllerPath": "Entities/QAvatar/Qavata_All/Avatar_FG_AniController_UI",
+		"InitFace": true,
+		"FullName": {
+			"hash": -289971890
+		},
+		"ChibiIconPath": "SpriteOutput/AvatarChibiIcons/3001",
+		"ItemCost": 1,
+		"RankRequest": 0,
+		"IsShownLocked": true,
+		"DataImpl": {},
+		"AvatarID": 3001
+	},
+	{
+		"AvatarRegistryKey": "Fake_FG_AI_C1",
+		"UIAvatarPrefabPath": "Entities/QAvatar/AI_C1/AvatarQ_AI_C1_UI",
+		"UIControllerPath": "Entities/QAvatar/Qavata_All/Avatar_FG_AniController_UI",
+		"InitFace": true,
+		"FullName": {
+			"hash": -289969968
+		},
+		"ChibiIconPath": "SpriteOutput/AvatarChibiIcons/3201",
+		"ItemCost": 1,
+		"RankRequest": 0,
+		"IsShownLocked": true,
+		"DataImpl": {},
+		"AvatarID": 3201
+	},
+	{
+		"AvatarRegistryKey": "Fake_FG_Susannah_C1_ED",
+		"UIAvatarPrefabPath": "Entities/QAvatar/Susannah_C1_ED/AvatarQ_Susannah_C1_ED_UI",
+		"UIControllerPath": "Entities/QAvatar/Qavata_All/Avatar_FG_AniController_UI",
+		"InitFace": true,
+		"FullName": {
+			"hash": -289969007
+		},
+		"ChibiIconPath": "SpriteOutput/AvatarChibiIcons/3301",
+		"ItemCost": 1,
+		"RankRequest": 0,
+		"IsShownLocked": true,
+		"DataImpl": {},
+		"AvatarID": 3301
+	},
+	{
+		"AvatarRegistryKey": "Fake_FG_Elysia_C2_04_01",
+		"UIAvatarPrefabPath": "Entities/QAvatar/Elysia_C2_04_01/AvatarQ_Elysia_C2_04_01_UI",
+		"UIControllerPath": "Entities/QAvatar/Qavata_All/Avatar_FG_AniController_UI",
+		"InitFace": true,
+		"FullName": {
+			"hash": -397345728
+		},
+		"ChibiIconPath": "SpriteOutput/AvatarChibiIcons/2202",
+		"ItemCost": 1,
+		"RankRequest": 0,
+		"IsShownLocked": true,
+		"DataImpl": {},
+		"AvatarID": 50182
+	},
+	{
+		"AvatarRegistryKey": "Fake_FG_Lisushang_C2_04_01",
+		"UIAvatarPrefabPath": "Entities/QAvatar/Lisushang_C2_04_01/AvatarQ_Lisushang_C2_04_01_UI",
+		"UIControllerPath": "Entities/QAvatar/Qavata_All/Avatar_FG_AniController_UI",
+		"InitFace": true,
+		"FullName": {
+			"hash": -397345721
+		},
+		"ChibiIconPath": "SpriteOutput/AvatarChibiIcons/3101",
+		"ItemCost": 1,
+		"RankRequest": 0,
+		"IsShownLocked": true,
+		"DataImpl": {},
+		"AvatarID": 50189
+	},
+	{
+		"AvatarRegistryKey": "Fake_FG_Rita_C5_04_03",
+		"UIAvatarPrefabPath": "Entities/QAvatar/Rita_C5_04_03/AvatarQ_Rita_C5_04_03_UI",
+		"UIControllerPath": "Entities/QAvatar/Qavata_All/Avatar_FG_AniController_UI",
+		"InitFace": true,
+		"FullName": {
+			"hash": -397345699
+		},
+		"ChibiIconPath": "SpriteOutput/AvatarChibiIcons/705",
+		"ItemCost": 1,
+		"RankRequest": 0,
+		"IsShownLocked": true,
+		"DataImpl": {},
+		"AvatarID": 50190
+	},
+	{
+		"AvatarRegistryKey": "Fake_FG_Seele_C2_04_03_W",
+		"UIAvatarPrefabPath": "Entities/QAvatar/Seele_C2_04_03_W/AvatarQ_Seele_C2_04_03_W_UI",
+		"UIControllerPath": "Entities/QAvatar/Qavata_All/Avatar_FG_AniController_UI",
+		"InitFace": true,
+		"FullName": {
+			"hash": -397345698
+		},
+		"ChibiIconPath": "SpriteOutput/AvatarChibiIcons/712",
+		"ItemCost": 1,
+		"RankRequest": 0,
+		"IsShownLocked": true,
+		"DataImpl": {},
+		"AvatarID": 50191
+	},
+	{
+		"AvatarRegistryKey": "Fake_FG_Fuka_C6_04_02",
+		"UIAvatarPrefabPath": "Entities/QAvatar/Fuka_C6_04_02/AvatarQ_Fuka_C6_04_02_UI",
+		"UIControllerPath": "Entities/QAvatar/Qavata_All/Avatar_FG_AniController_UI",
+		"InitFace": true,
+		"FullName": {
+			"hash": -397345697
+		},
+		"ChibiIconPath": "SpriteOutput/AvatarChibiIcons/612",
+		"ItemCost": 1,
+		"RankRequest": 0,
+		"IsShownLocked": true,
+		"DataImpl": {},
+		"AvatarID": 50192
+	},
+	{
+		"AvatarRegistryKey": "Fake_FG_Kalpas_C1",
+		"UIAvatarPrefabPath": "Entities/QAvatar/Kalpas_C1_04_01/AvatarQ_NPC_Kalpas_C1_04_01_Zombie_UI",
+		"UIControllerPath": "Entities/QAvatar/Qavata_All/Avatar_FG_AniController_UI",
+		"InitFace": true,
+		"FullName": {
+			"hash": -393652789
+		},
+		"ChibiIconPath": "SpriteOutput/AvatarChibiIcons/Kalpas_swim",
+		"ItemCost": 1,
+		"RankRequest": 0,
+		"IsShownLocked": true,
+		"DataImpl": {},
+		"AvatarID": 90024
+	},
+	{
+		"AvatarRegistryKey": "Fake_FG_Kevin_C1",
+		"UIAvatarPrefabPath": "Entities/QAvatar/Kevin_C1_04_01/AvatarQ_NPC_Kevin_C1_04_01_Zombie_UI",
+		"UIControllerPath": "Entities/QAvatar/Qavata_All/Avatar_FG_AniController_UI",
+		"InitFace": true,
+		"FullName": {
+			"hash": -393652788
+		},
+		"ChibiIconPath": "SpriteOutput/AvatarChibiIcons/kevin_swim",
+		"ItemCost": 1,
+		"RankRequest": 0,
+		"IsShownLocked": true,
+		"DataImpl": {},
+		"AvatarID": 90025
+	},
+	{
+		"AvatarRegistryKey": "Fake_FG_Su_C1",
+		"UIAvatarPrefabPath": "Entities/QAvatar/Su_C1_04_01/AvatarQ_NPC_Su_C1_04_01_UI",
+		"UIControllerPath": "Entities/QAvatar/Qavata_All/Avatar_FG_AniController_UI_Su",
+		"InitFace": false,
+		"FullName": {
+			"hash": -393652786
+		},
+		"ChibiIconPath": "SpriteOutput/AvatarChibiIcons/su_swim",
+		"ItemCost": 1,
+		"RankRequest": 0,
+		"IsShownLocked": true,
+		"DataImpl": {},
+		"AvatarID": 90027
+	},
+	{
+		"AvatarRegistryKey": "Fake_FG_Kosma_C1",
+		"UIAvatarPrefabPath": "Entities/QAvatar/NPC_Kosma_C1_04_01/AvatarQ_NPC_Kosma_C1_04_01_Zombie_UI",
+		"UIControllerPath": "Entities/QAvatar/Qavata_All/Avatar_FG_AniController_UI",
+		"InitFace": true,
+		"FullName": {
+			"hash": -393652785
+		},
+		"ChibiIconPath": "SpriteOutput/AvatarChibiIcons/kosma_swim",
+		"ItemCost": 1,
+		"RankRequest": 0,
+		"IsShownLocked": true,
+		"DataImpl": {},
+		"AvatarID": 90028
+	}
+]

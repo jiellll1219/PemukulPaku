@@ -1,0 +1,26 @@
+[
+	{
+		"MaxStep": 8,
+		"MaxScore": 1500,
+		"Explain_Textmap": {
+			"hash": -1388304088
+		},
+		"JumpActivity": 16182,
+		"BackgroundPic": "SpriteOutput/Activity/ChristmasPanel/BG01",
+		"ContentPrefab": "UI/Menus/Page/Activity/ChristmasContent",
+		"DataImpl": {},
+		"ActivityID": 16183
+	},
+	{
+		"MaxStep": 8,
+		"MaxScore": 1200,
+		"Explain_Textmap": {
+			"hash": -1705308032
+		},
+		"JumpActivity": 16236,
+		"BackgroundPic": "event/Immediately/ActivityPage/5.9_ConcertBG01",
+		"ContentPrefab": "UI/Menus/Page/Activity/ChristmasContent",
+		"DataImpl": {},
+		"ActivityID": 16237
+	}
+]

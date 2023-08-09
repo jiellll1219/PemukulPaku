@@ -1,0 +1,156 @@
+[
+	{
+		"PreMapId": 0,
+		"SectionID": 9011,
+		"FloorsNum": 3,
+		"OpenWorldName1": {
+			"hash": 1622628810
+		},
+		"OpenWorldName2": {
+			"hash": 1622628811
+		},
+		"OpenWorldPicPath": "SpriteOutput/OWHunt/OWHuntMap01",
+		"OpenPremise": 0,
+		"StrongholdMaxTimes": 12,
+		"QuestDailyTimes": 1,
+		"QuestMaxTimes": 8,
+		"QuestIDList": [
+			27003,
+			27004,
+			27006,
+			27008,
+			27002,
+			27001,
+			27007,
+			27005
+		],
+		"ForceAreaEventID": 1300034,
+		"ForceAreaPicPath": "SpriteOutput/OWHunt/OWHuntQuest02",
+		"ForceAreaFuncParam": [],
+		"ForceAreaFloor": 1,
+		"BornPointFloor": 2,
+		"HunterID": 10011,
+		"HunterEventID": 1300119,
+		"MachineShowIDList": [
+			1,
+			2,
+			4,
+			5,
+			6,
+			8,
+			9,
+			10,
+			11
+		],
+		"InitialTalentList": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 1001
+			}
+		],
+		"DataImpl": {},
+		"MapID": 901
+	},
+	{
+		"PreMapId": 0,
+		"SectionID": 9021,
+		"FloorsNum": 3,
+		"OpenWorldName1": {
+			"hash": -1784834805
+		},
+		"OpenWorldName2": {
+			"hash": -1784834804
+		},
+		"OpenWorldPicPath": "SpriteOutput/OWHunt/OWHuntMap02",
+		"OpenPremise": 12,
+		"StrongholdMaxTimes": 12,
+		"QuestDailyTimes": 1,
+		"QuestMaxTimes": 8,
+		"QuestIDList": [
+			27009,
+			27010,
+			27011,
+			27012,
+			27013,
+			27014,
+			27015,
+			27016
+		],
+		"ForceAreaEventID": 1300035,
+		"ForceAreaPicPath": "SpriteOutput/OWHunt/OWHuntQuest02",
+		"ForceAreaFuncParam": [],
+		"ForceAreaFloor": 1,
+		"BornPointFloor": 2,
+		"HunterID": 10012,
+		"HunterEventID": 0,
+		"MachineShowIDList": [
+			1,
+			2,
+			3
+		],
+		"InitialTalentList": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 1006
+			}
+		],
+		"DataImpl": {},
+		"MapID": 902
+	},
+	{
+		"PreMapId": 901,
+		"SectionID": 9031,
+		"FloorsNum": 3,
+		"OpenWorldName1": {
+			"hash": -897331124
+		},
+		"OpenWorldName2": {
+			"hash": -897331123
+		},
+		"OpenWorldPicPath": "SpriteOutput/OWHunt/OWHuntMap03",
+		"OpenPremise": 12,
+		"StrongholdMaxTimes": 12,
+		"QuestDailyTimes": 1,
+		"QuestMaxTimes": 8,
+		"QuestIDList": [
+			27017,
+			27018,
+			27019,
+			27020,
+			27021,
+			27022,
+			27023,
+			27024
+		],
+		"ForceAreaEventID": 1300036,
+		"ForceAreaPicPath": "SpriteOutput/OWHunt/OWHuntQuest02",
+		"ForceAreaFuncParam": [],
+		"ForceAreaFloor": 3,
+		"BornPointFloor": 1,
+		"HunterID": 10013,
+		"HunterEventID": 1300121,
+		"MachineShowIDList": [
+			1,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9,
+			10,
+			11,
+			12,
+			13,
+			14
+		],
+		"InitialTalentList": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 1006
+			}
+		],
+		"DataImpl": {},
+		"MapID": 903
+	}
+]

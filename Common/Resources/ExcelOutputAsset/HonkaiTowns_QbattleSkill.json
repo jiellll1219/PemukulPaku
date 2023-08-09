@@ -1,0 +1,1798 @@
+[
+	{
+		"SkillPredicates": "EveryXRounds",
+		"PredicatesPara": 3,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddAttackRatio",
+		"ActionPara": 40,
+		"IsOccupyARound": false,
+		"StateName": "SKL01",
+		"SkillName": {
+			"hash": -1944413018
+		},
+		"SkillDes": {
+			"hash": 1931700268
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit2",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 1
+	},
+	{
+		"SkillPredicates": "EveryXSpeed",
+		"PredicatesPara": 3,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddAttackDamage",
+		"ActionPara": 2,
+		"IsOccupyARound": false,
+		"StateName": "SKL01",
+		"SkillName": {
+			"hash": -1944413017
+		},
+		"SkillDes": {
+			"hash": 1931700269
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit1",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 2
+	},
+	{
+		"SkillPredicates": "AfterQBattle",
+		"PredicatesPara": 1,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			1
+		],
+		"SkillAction": "Heal",
+		"ActionPara": 2,
+		"IsOccupyARound": false,
+		"StateName": "SKL01",
+		"SkillName": {
+			"hash": -1944413016
+		},
+		"SkillDes": {
+			"hash": 1931700270
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/Chat_Lobby_Heal",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 3
+	},
+	{
+		"SkillPredicates": "",
+		"PredicatesPara": 0,
+		"PredicatesTarget": "",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "AllQavatar",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddAttackRatio2",
+		"ActionPara": 10,
+		"IsOccupyARound": false,
+		"StateName": "SKL01",
+		"SkillName": {
+			"hash": -1944413015
+		},
+		"SkillDes": {
+			"hash": 1931700271
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit3",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 4
+	},
+	{
+		"SkillPredicates": "HpLessThan",
+		"PredicatesPara": 50,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddAttackRatio",
+		"ActionPara": 30,
+		"IsOccupyARound": false,
+		"StateName": "SKL01",
+		"SkillName": {
+			"hash": -1944413014
+		},
+		"SkillDes": {
+			"hash": 1931700272
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit2",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 5
+	},
+	{
+		"SkillPredicates": "HpMoreThan",
+		"PredicatesPara": 50,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "SelfAttackTarget",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddAttackDamage",
+		"ActionPara": -2,
+		"IsOccupyARound": false,
+		"StateName": "SKL01",
+		"SkillName": {
+			"hash": -1944413013
+		},
+		"SkillDes": {
+			"hash": 1931700273
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit1",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 6
+	},
+	{
+		"SkillPredicates": "HpLessThan",
+		"PredicatesPara": 15,
+		"PredicatesTarget": "SelfAttackTarget",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddAttackDamage",
+		"ActionPara": 999999,
+		"IsOccupyARound": false,
+		"StateName": "SKL01",
+		"SkillName": {
+			"hash": -1944413012
+		},
+		"SkillDes": {
+			"hash": 1931700274
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit1",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 7
+	},
+	{
+		"SkillPredicates": "EveryXAttackTimes",
+		"PredicatesPara": 5,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			1
+		],
+		"SkillAction": "HealByLuck",
+		"ActionPara": 1,
+		"IsOccupyARound": true,
+		"StateName": "SKL01",
+		"SkillName": {
+			"hash": -1944413011
+		},
+		"SkillDes": {
+			"hash": 1931700275
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/Chat_Lobby_Heal",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 8
+	},
+	{
+		"SkillPredicates": "EveryXCoin",
+		"PredicatesPara": 100,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddStrength",
+		"ActionPara": 2,
+		"IsOccupyARound": false,
+		"StateName": "SKL01",
+		"SkillName": {
+			"hash": -1944413010
+		},
+		"SkillDes": {
+			"hash": 1931700276
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/QTEndless_Kill",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 9
+	},
+	{
+		"SkillPredicates": "ByKill",
+		"PredicatesPara": 0,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "GetBrick",
+		"ActionPara": 1,
+		"IsOccupyARound": false,
+		"StateName": "SKL01",
+		"SkillName": {
+			"hash": -1944412988
+		},
+		"SkillDes": {
+			"hash": 1931700298
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/QTEndless_Quantum",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 10
+	},
+	{
+		"SkillPredicates": "EveryXCoin",
+		"PredicatesPara": 100,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "SelfAttackTarget",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddAttackRatio2",
+		"ActionPara": -1,
+		"IsOccupyARound": false,
+		"StateName": "SKL01",
+		"SkillName": {
+			"hash": -1944412987
+		},
+		"SkillDes": {
+			"hash": 1931700299
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit3",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 11
+	},
+	{
+		"SkillPredicates": "EveryXRounds",
+		"PredicatesPara": 3,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "SelfAttackTarget",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddAttackRatio",
+		"ActionPara": -30,
+		"IsOccupyARound": false,
+		"StateName": "SKL01",
+		"SkillName": {
+			"hash": -147260435
+		},
+		"SkillDes": {
+			"hash": -246832857
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit2",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 101
+	},
+	{
+		"SkillPredicates": "EveryXCoin",
+		"PredicatesPara": 100,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddAttackRatio",
+		"ActionPara": 1,
+		"IsOccupyARound": false,
+		"StateName": "Attack",
+		"SkillName": {
+			"hash": -147260434
+		},
+		"SkillDes": {
+			"hash": -246832856
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit2",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 102
+	},
+	{
+		"SkillPredicates": "EveryXRounds",
+		"PredicatesPara": 3,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddAttackRatio",
+		"ActionPara": 80,
+		"IsOccupyARound": false,
+		"StateName": "SKL01",
+		"SkillName": {
+			"hash": -147260433
+		},
+		"SkillDes": {
+			"hash": -246832855
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit2",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 103
+	},
+	{
+		"SkillPredicates": "",
+		"PredicatesPara": 0,
+		"PredicatesTarget": "",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AttackByStrength",
+		"ActionPara": 1000,
+		"IsOccupyARound": false,
+		"StateName": "Attack",
+		"SkillName": {
+			"hash": -147260432
+		},
+		"SkillDes": {
+			"hash": -246832854
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit1",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 104
+	},
+	{
+		"SkillPredicates": "EveryXRounds",
+		"PredicatesPara": 3,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddAttackRatio",
+		"ActionPara": 50,
+		"IsOccupyARound": false,
+		"StateName": "SKL01",
+		"SkillName": {
+			"hash": -147260431
+		},
+		"SkillDes": {
+			"hash": -246832853
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit2",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 105
+	},
+	{
+		"SkillPredicates": "ByIsRunning",
+		"PredicatesPara": 0,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "AllQavatar",
+		"ActionTargetPara": [
+			6
+		],
+		"SkillAction": "AddAttackRatio",
+		"ActionPara": 30,
+		"IsOccupyARound": false,
+		"StateName": "SKL01",
+		"SkillName": {
+			"hash": -147260430
+		},
+		"SkillDes": {
+			"hash": -246832852
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit2",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 106
+	},
+	{
+		"SkillPredicates": "HpLessThan",
+		"PredicatesPara": 60,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddAttackRatio",
+		"ActionPara": 30,
+		"IsOccupyARound": false,
+		"StateName": "SKL01",
+		"SkillName": {
+			"hash": -147260429
+		},
+		"SkillDes": {
+			"hash": -246832851
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit2",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 107
+	},
+	{
+		"SkillPredicates": "HpLessThan",
+		"PredicatesPara": 40,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "SelfAttackTarget",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddAttackRatio2",
+		"ActionPara": -30,
+		"IsOccupyARound": false,
+		"StateName": "SKL01",
+		"SkillName": {
+			"hash": -147260428
+		},
+		"SkillDes": {
+			"hash": -246832850
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit3",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 108
+	},
+	{
+		"SkillPredicates": "EveryXRounds",
+		"PredicatesPara": 1,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			1
+		],
+		"SkillAction": "HealByAttack",
+		"ActionPara": 20,
+		"IsOccupyARound": false,
+		"StateName": "SKL01",
+		"SkillName": {
+			"hash": -147260427
+		},
+		"SkillDes": {
+			"hash": -246832849
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/Chat_Lobby_Heal",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 109
+	},
+	{
+		"SkillPredicates": "EveryXRounds",
+		"PredicatesPara": 2,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddAttackRatio",
+		"ActionPara": 20,
+		"IsOccupyARound": false,
+		"StateName": "Attack",
+		"SkillName": {
+			"hash": -147260405
+		},
+		"SkillDes": {
+			"hash": -246832827
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit2",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 110
+	},
+	{
+		"SkillPredicates": "EveryXRounds",
+		"PredicatesPara": 3,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddAttackRatio",
+		"ActionPara": 60,
+		"IsOccupyARound": false,
+		"StateName": "SKL01",
+		"SkillName": {
+			"hash": -147260404
+		},
+		"SkillDes": {
+			"hash": -246832826
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit2",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 111
+	},
+	{
+		"SkillPredicates": "HpLessThan",
+		"PredicatesPara": 15,
+		"PredicatesTarget": "SelfAttackTarget",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddAttackDamage",
+		"ActionPara": 999999,
+		"IsOccupyARound": false,
+		"StateName": "SKL01",
+		"SkillName": {
+			"hash": -147260403
+		},
+		"SkillDes": {
+			"hash": -246832825
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit1",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 112
+	},
+	{
+		"SkillPredicates": "EveryXRounds",
+		"PredicatesPara": 3,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "SelfAttackTarget",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "Stun",
+		"ActionPara": 1,
+		"IsOccupyARound": false,
+		"StateName": "SKL01",
+		"SkillName": {
+			"hash": -147260402
+		},
+		"SkillDes": {
+			"hash": -246832824
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_Weapon_09",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 113
+	},
+	{
+		"SkillPredicates": "HpLessThanOnce",
+		"PredicatesPara": 20,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [
+			1
+		],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			1
+		],
+		"SkillAction": "HealByHpRatio",
+		"ActionPara": 5,
+		"IsOccupyARound": false,
+		"StateName": "SKL02",
+		"SkillName": {
+			"hash": -147260401
+		},
+		"SkillDes": {
+			"hash": -246832823
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit2",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 114
+	},
+	{
+		"SkillPredicates": "EveryXRounds",
+		"PredicatesPara": 3,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddAttackRatio",
+		"ActionPara": 30,
+		"IsOccupyARound": false,
+		"StateName": "SKL01",
+		"SkillName": {
+			"hash": -147260400
+		},
+		"SkillDes": {
+			"hash": -246832822
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit2",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 115
+	},
+	{
+		"SkillPredicates": "HpLessThan",
+		"PredicatesPara": 60,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			2
+		],
+		"SkillAction": "AddAttackRatio",
+		"ActionPara": 30,
+		"IsOccupyARound": false,
+		"StateName": "SKL01",
+		"SkillName": {
+			"hash": -147260399
+		},
+		"SkillDes": {
+			"hash": -246832821
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit2",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 116
+	},
+	{
+		"SkillPredicates": "EveryXRoundsMultiple",
+		"PredicatesPara": 1,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [
+			4
+		],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddAttackRatio",
+		"ActionPara": 15,
+		"IsOccupyARound": false,
+		"StateName": "SKL01",
+		"SkillName": {
+			"hash": -147260398
+		},
+		"SkillDes": {
+			"hash": -246832820
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit2",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 117
+	},
+	{
+		"SkillPredicates": "HpLessThanMultiple",
+		"PredicatesPara": 10,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [
+			10
+		],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddAttackRatio",
+		"ActionPara": 10,
+		"IsOccupyARound": false,
+		"StateName": "SKL01",
+		"SkillName": {
+			"hash": -147260397
+		},
+		"SkillDes": {
+			"hash": -246832819
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit2",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 118
+	},
+	{
+		"SkillPredicates": "",
+		"PredicatesPara": 0,
+		"PredicatesTarget": "",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddAttackRatio",
+		"ActionPara": 70,
+		"IsOccupyARound": false,
+		"StateName": "SKL01",
+		"SkillName": {
+			"hash": -147260396
+		},
+		"SkillDes": {
+			"hash": -246832818
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit2",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 119
+	},
+	{
+		"SkillPredicates": "",
+		"PredicatesPara": 0,
+		"PredicatesTarget": "",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddCriticalRate",
+		"ActionPara": 30,
+		"IsOccupyARound": false,
+		"StateName": "SKL01",
+		"SkillName": {
+			"hash": -147260374
+		},
+		"SkillDes": {
+			"hash": -246832796
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit2",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 120
+	},
+	{
+		"SkillPredicates": "EveryXRounds",
+		"PredicatesPara": 3,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "SelfAttackTarget",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "Stun",
+		"ActionPara": 1,
+		"IsOccupyARound": false,
+		"StateName": "SKL01",
+		"SkillName": {
+			"hash": -147260373
+		},
+		"SkillDes": {
+			"hash": -246832795
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_Weapon_09",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 121
+	},
+	{
+		"SkillPredicates": "ByAttackToStun",
+		"PredicatesPara": 0,
+		"PredicatesTarget": "SelfAttackTarget",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddAttackRatio",
+		"ActionPara": 50,
+		"IsOccupyARound": false,
+		"StateName": "SKL01",
+		"SkillName": {
+			"hash": -147260372
+		},
+		"SkillDes": {
+			"hash": -246832794
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit2",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 122
+	},
+	{
+		"SkillPredicates": "EveryXRounds",
+		"PredicatesPara": 4,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddAttackRatio2",
+		"ActionPara": 30,
+		"IsOccupyARound": false,
+		"StateName": "SKL01",
+		"SkillName": {
+			"hash": -147260371
+		},
+		"SkillDes": {
+			"hash": -246832793
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit3",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 123
+	},
+	{
+		"SkillPredicates": "EveryXRoundsMultiple",
+		"PredicatesPara": 1,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [
+			6
+		],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddAttackRatio",
+		"ActionPara": -20,
+		"IsOccupyARound": false,
+		"StateName": "SKL01",
+		"SkillName": {
+			"hash": -147260370
+		},
+		"SkillDes": {
+			"hash": -246832792
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit2",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 124
+	},
+	{
+		"SkillPredicates": "EveryXRounds",
+		"PredicatesPara": 4,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddAttackRatio2",
+		"ActionPara": 40,
+		"IsOccupyARound": false,
+		"StateName": "SKL01",
+		"SkillName": {
+			"hash": -147260369
+		},
+		"SkillDes": {
+			"hash": -246832791
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit3",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 125
+	},
+	{
+		"SkillPredicates": "EveryXCoin",
+		"PredicatesPara": 100,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [
+			50
+		],
+		"ActionTarget": "SelfAttackTarget",
+		"ActionTargetPara": [
+			3
+		],
+		"SkillAction": "AddAttackRatio2",
+		"ActionPara": -1,
+		"IsOccupyARound": false,
+		"StateName": "",
+		"SkillName": {
+			"hash": -147260368
+		},
+		"SkillDes": {
+			"hash": -246832790
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit3",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 126
+	},
+	{
+		"SkillPredicates": "EveryXRounds",
+		"PredicatesPara": 3,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddAttackRatio",
+		"ActionPara": 50,
+		"IsOccupyARound": false,
+		"StateName": "SKL01",
+		"SkillName": {
+			"hash": -147260367
+		},
+		"SkillDes": {
+			"hash": -246832789
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit2",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 127
+	},
+	{
+		"SkillPredicates": "EveryXLuck",
+		"PredicatesPara": 1,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddCriticalDamage",
+		"ActionPara": 3,
+		"IsOccupyARound": false,
+		"StateName": "",
+		"SkillName": {
+			"hash": -147260366
+		},
+		"SkillDes": {
+			"hash": -246832788
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit1",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 128
+	},
+	{
+		"SkillPredicates": "EveryXRounds",
+		"PredicatesPara": 3,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddAttackRatio",
+		"ActionPara": 50,
+		"IsOccupyARound": false,
+		"StateName": "SKL01",
+		"SkillName": {
+			"hash": -147259474
+		},
+		"SkillDes": {
+			"hash": -246831896
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit2",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 201
+	},
+	{
+		"SkillPredicates": "EveryXRounds",
+		"PredicatesPara": 2,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddAttackRatio",
+		"ActionPara": 80,
+		"IsOccupyARound": false,
+		"StateName": "SKL01",
+		"SkillName": {
+			"hash": -147259473
+		},
+		"SkillDes": {
+			"hash": -246831895
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit2",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 202
+	},
+	{
+		"SkillPredicates": "EveryXRounds",
+		"PredicatesPara": 3,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddAttackRatio",
+		"ActionPara": 1200,
+		"IsOccupyARound": false,
+		"StateName": "SKL01",
+		"SkillName": {
+			"hash": -147259472
+		},
+		"SkillDes": {
+			"hash": -246831894
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit2",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 203
+	},
+	{
+		"SkillPredicates": "ByKill",
+		"PredicatesPara": 0,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "SelfAttackTarget",
+		"ActionTargetPara": [
+			5
+		],
+		"SkillAction": "HealByHpRatio",
+		"ActionPara": -20,
+		"IsOccupyARound": true,
+		"StateName": "SKL01",
+		"SkillName": {
+			"hash": -147259471
+		},
+		"SkillDes": {
+			"hash": -246831893
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/Chat_Lobby_Heal",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 204
+	},
+	{
+		"SkillPredicates": "EveryXRounds",
+		"PredicatesPara": 2,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			1
+		],
+		"SkillAction": "HealByAttack",
+		"ActionPara": 20,
+		"IsOccupyARound": false,
+		"StateName": "SKL01",
+		"SkillName": {
+			"hash": -147259470
+		},
+		"SkillDes": {
+			"hash": -246831892
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/Chat_Lobby_Heal",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 205
+	},
+	{
+		"SkillPredicates": "",
+		"PredicatesPara": 0,
+		"PredicatesTarget": "",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AttackByStrength",
+		"ActionPara": 500,
+		"IsOccupyARound": false,
+		"StateName": "SKL01",
+		"SkillName": {
+			"hash": -147259469
+		},
+		"SkillDes": {
+			"hash": -246831891
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit1",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 206
+	},
+	{
+		"SkillPredicates": "EveryXRounds",
+		"PredicatesPara": 5,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "SelfAttackTarget",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddAttackRatio",
+		"ActionPara": -20,
+		"IsOccupyARound": false,
+		"StateName": "SKL01",
+		"SkillName": {
+			"hash": -147259468
+		},
+		"SkillDes": {
+			"hash": -246831890
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit2",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 207
+	},
+	{
+		"SkillPredicates": "HpLessThan",
+		"PredicatesPara": 30,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddAttackRatio",
+		"ActionPara": 50,
+		"IsOccupyARound": false,
+		"StateName": "SKL01",
+		"SkillName": {
+			"hash": -147259467
+		},
+		"SkillDes": {
+			"hash": -246831889
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit2",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 208
+	},
+	{
+		"SkillPredicates": "EveryXRounds",
+		"PredicatesPara": 3,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddAttackRatio",
+		"ActionPara": 30,
+		"IsOccupyARound": false,
+		"StateName": "",
+		"SkillName": {
+			"hash": -147259466
+		},
+		"SkillDes": {
+			"hash": -246831888
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit2",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 209
+	},
+	{
+		"SkillPredicates": "EveryXRounds",
+		"PredicatesPara": 1,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			1
+		],
+		"SkillAction": "HealByAttack",
+		"ActionPara": 15,
+		"IsOccupyARound": false,
+		"StateName": "",
+		"SkillName": {
+			"hash": -147259444
+		},
+		"SkillDes": {
+			"hash": -246831866
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/Chat_Lobby_Heal",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 210
+	},
+	{
+		"SkillPredicates": "HpLessThanMultiple",
+		"PredicatesPara": 10,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [
+			10
+		],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddAttackRatio",
+		"ActionPara": 5,
+		"IsOccupyARound": false,
+		"StateName": "",
+		"SkillName": {
+			"hash": -147259443
+		},
+		"SkillDes": {
+			"hash": -246831865
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit2",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 211
+	},
+	{
+		"SkillPredicates": "EveryXRounds",
+		"PredicatesPara": 3,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddAttackRatio",
+		"ActionPara": 50,
+		"IsOccupyARound": false,
+		"StateName": "SKL01",
+		"SkillName": {
+			"hash": -147259442
+		},
+		"SkillDes": {
+			"hash": -246831864
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit2",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 212
+	},
+	{
+		"SkillPredicates": "HpLessThan",
+		"PredicatesPara": 40,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "SelfAttackTarget",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddAttackRatio2",
+		"ActionPara": -30,
+		"IsOccupyARound": false,
+		"StateName": "SKL01",
+		"SkillName": {
+			"hash": -147260428
+		},
+		"SkillDes": {
+			"hash": -246832850
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit3",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 213
+	},
+	{
+		"SkillPredicates": "HpLessThan",
+		"PredicatesPara": 60,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddAttackRatio",
+		"ActionPara": 30,
+		"IsOccupyARound": false,
+		"StateName": "SKL01",
+		"SkillName": {
+			"hash": -147260429
+		},
+		"SkillDes": {
+			"hash": -246832851
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit2",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 214
+	},
+	{
+		"SkillPredicates": "",
+		"PredicatesPara": 0,
+		"PredicatesTarget": "",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "SelfAttackTarget",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddAttackRatio",
+		"ActionPara": 20,
+		"IsOccupyARound": false,
+		"StateName": "",
+		"SkillName": {
+			"hash": -147258513
+		},
+		"SkillDes": {
+			"hash": -246830935
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit2",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 301
+	},
+	{
+		"SkillPredicates": "ByAttackToStun",
+		"PredicatesPara": 0,
+		"PredicatesTarget": "SelfAttackTarget",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "SelfAttackTarget",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddCriticalRate",
+		"ActionPara": 100,
+		"IsOccupyARound": false,
+		"StateName": "",
+		"SkillName": {
+			"hash": -147258512
+		},
+		"SkillDes": {
+			"hash": -246830934
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit2",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 302
+	},
+	{
+		"SkillPredicates": "",
+		"PredicatesPara": 0,
+		"PredicatesTarget": "",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddAttackRatio",
+		"ActionPara": 25,
+		"IsOccupyARound": false,
+		"StateName": "",
+		"SkillName": {
+			"hash": -147257552
+		},
+		"SkillDes": {
+			"hash": -246829974
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit2",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 401
+	},
+	{
+		"SkillPredicates": "",
+		"PredicatesPara": 0,
+		"PredicatesTarget": "",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddCriticalRate",
+		"ActionPara": 20,
+		"IsOccupyARound": false,
+		"StateName": "",
+		"SkillName": {
+			"hash": -147257551
+		},
+		"SkillDes": {
+			"hash": -246829973
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/QTEndless_Physics",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 402
+	},
+	{
+		"SkillPredicates": "",
+		"PredicatesPara": 0,
+		"PredicatesTarget": "",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddCriticalDamage",
+		"ActionPara": 40,
+		"IsOccupyARound": false,
+		"StateName": "",
+		"SkillName": {
+			"hash": -147257550
+		},
+		"SkillDes": {
+			"hash": -246829972
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/QTEndless_Physics",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 403
+	},
+	{
+		"SkillPredicates": "",
+		"PredicatesPara": 0,
+		"PredicatesTarget": "",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddAttackRatio",
+		"ActionPara": 3,
+		"IsOccupyARound": false,
+		"StateName": "",
+		"SkillName": {
+			"hash": -147257549
+		},
+		"SkillDes": {
+			"hash": -246829971
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit2",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 404
+	},
+	{
+		"SkillPredicates": "",
+		"PredicatesPara": 0,
+		"PredicatesTarget": "",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddCriticalRate",
+		"ActionPara": 2,
+		"IsOccupyARound": false,
+		"StateName": "",
+		"SkillName": {
+			"hash": -147257548
+		},
+		"SkillDes": {
+			"hash": -246829970
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/QTEndless_Physics",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 405
+	},
+	{
+		"SkillPredicates": "",
+		"PredicatesPara": 0,
+		"PredicatesTarget": "",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddCriticalDamage",
+		"ActionPara": 5,
+		"IsOccupyARound": false,
+		"StateName": "",
+		"SkillName": {
+			"hash": -147257547
+		},
+		"SkillDes": {
+			"hash": -246829969
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/QTEndless_Physics",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 406
+	},
+	{
+		"SkillPredicates": "HpLessThanMultiple",
+		"PredicatesPara": 1,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [
+			100
+		],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddAttackRatio",
+		"ActionPara": 1,
+		"IsOccupyARound": false,
+		"StateName": "",
+		"SkillName": {
+			"hash": -147256591
+		},
+		"SkillDes": {
+			"hash": -246829013
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit2",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 501
+	},
+	{
+		"SkillPredicates": "HpLessThanMultiple",
+		"PredicatesPara": 1,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [
+			100
+		],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddAttackRatio",
+		"ActionPara": 2,
+		"IsOccupyARound": false,
+		"StateName": "",
+		"SkillName": {
+			"hash": -147256590
+		},
+		"SkillDes": {
+			"hash": -246829012
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit2",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 502
+	},
+	{
+		"SkillPredicates": "HpLessThan",
+		"PredicatesPara": 40,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "SelfAttackTarget",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddAttackRatio2",
+		"ActionPara": -20,
+		"IsOccupyARound": false,
+		"StateName": "",
+		"SkillName": {
+			"hash": -147256589
+		},
+		"SkillDes": {
+			"hash": -246829011
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit3",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 503
+	},
+	{
+		"SkillPredicates": "HpLessThan",
+		"PredicatesPara": 20,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "SelfAttackTarget",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddAttackRatio2",
+		"ActionPara": -20,
+		"IsOccupyARound": false,
+		"StateName": "",
+		"SkillName": {
+			"hash": -147256588
+		},
+		"SkillDes": {
+			"hash": -246829010
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit3",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 504
+	},
+	{
+		"SkillPredicates": "",
+		"PredicatesPara": 0,
+		"PredicatesTarget": "",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddCriticalDamage",
+		"ActionPara": 20,
+		"IsOccupyARound": false,
+		"StateName": "",
+		"SkillName": {
+			"hash": -147256587
+		},
+		"SkillDes": {
+			"hash": -246829009
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/QTEndless_Physics",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 505
+	},
+	{
+		"SkillPredicates": "HpLessThanOnce",
+		"PredicatesPara": 100,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [
+			1
+		],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "HealByHpRatio",
+		"ActionPara": 10,
+		"IsOccupyARound": false,
+		"StateName": "",
+		"SkillName": {
+			"hash": -147256586
+		},
+		"SkillDes": {
+			"hash": -246829008
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/Chat_Lobby_Heal",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 506
+	},
+	{
+		"SkillPredicates": "HpLessThanOnce",
+		"PredicatesPara": 15,
+		"PredicatesTarget": "Self",
+		"PredicatesTargetPara": [
+			1
+		],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "HealByHpRatio",
+		"ActionPara": 15,
+		"IsOccupyARound": false,
+		"StateName": "",
+		"SkillName": {
+			"hash": -147256585
+		},
+		"SkillDes": {
+			"hash": -246829007
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/Chat_Lobby_Heal",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 507
+	},
+	{
+		"SkillPredicates": "",
+		"PredicatesPara": 0,
+		"PredicatesTarget": "",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddCriticalRate",
+		"ActionPara": 20,
+		"IsOccupyARound": false,
+		"StateName": "",
+		"SkillName": {
+			"hash": -147256584
+		},
+		"SkillDes": {
+			"hash": -246829006
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/QTEndless_Physics",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 508
+	},
+	{
+		"SkillPredicates": "",
+		"PredicatesPara": 0,
+		"PredicatesTarget": "",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddCriticalDamage",
+		"ActionPara": 30,
+		"IsOccupyARound": false,
+		"StateName": "",
+		"SkillName": {
+			"hash": -147256583
+		},
+		"SkillDes": {
+			"hash": -246829005
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/QTEndless_Physics",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 509
+	},
+	{
+		"SkillPredicates": "",
+		"PredicatesPara": 0,
+		"PredicatesTarget": "",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddCriticalDamage",
+		"ActionPara": 15,
+		"IsOccupyARound": false,
+		"StateName": "",
+		"SkillName": {
+			"hash": -147256587
+		},
+		"SkillDes": {
+			"hash": -246828983
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/QTEndless_Physics",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 510
+	},
+	{
+		"SkillPredicates": "",
+		"PredicatesPara": 0,
+		"PredicatesTarget": "",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddAttackRatio",
+		"ActionPara": 50,
+		"IsOccupyARound": false,
+		"StateName": "",
+		"SkillName": {
+			"hash": -147256560
+		},
+		"SkillDes": {
+			"hash": -246828982
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit2",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 511
+	},
+	{
+		"SkillPredicates": "",
+		"PredicatesPara": 0,
+		"PredicatesTarget": "",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "SelfAttackTarget",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddAttackRatio",
+		"ActionPara": 50,
+		"IsOccupyARound": false,
+		"StateName": "",
+		"SkillName": {
+			"hash": -147256559
+		},
+		"SkillDes": {
+			"hash": -246828981
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit2",
+		"IsShowBuffDes": false,
+		"DataImpl": {},
+		"QavatarSkillID": 512
+	},
+	{
+		"SkillPredicates": "",
+		"PredicatesPara": 0,
+		"PredicatesTarget": "",
+		"PredicatesTargetPara": [],
+		"ActionTarget": "Self",
+		"ActionTargetPara": [
+			0
+		],
+		"SkillAction": "AddCriticalDamage",
+		"ActionPara": 30,
+		"IsOccupyARound": false,
+		"StateName": "",
+		"SkillName": {
+			"hash": -147256558
+		},
+		"SkillDes": {
+			"hash": -246828980
+		},
+		"SkillImagePath": "SpriteOutput/SkillIconsInLevel/QTEndless_Physics",
+		"IsShowBuffDes": true,
+		"DataImpl": {},
+		"QavatarSkillID": 513
+	}
+]

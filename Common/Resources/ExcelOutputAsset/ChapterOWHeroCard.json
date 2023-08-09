@@ -1,0 +1,644 @@
+[
+	{
+		"MapID": 801,
+		"HeroID": 0,
+		"MaxLevel": 1,
+		"Name": "ChapterOWCardName_000",
+		"CardContentTextID": {
+			"hash": 650065345
+		},
+		"Rarity": 6,
+		"ShowConditionList": "5|305307",
+		"OverflowConvertMaterialList": "123002:50",
+		"SymbiosisCardsList": [],
+		"CounterCardsList": [],
+		"ActivationDesc": "",
+		"DataImpl": {},
+		"CardID": 10
+	},
+	{
+		"MapID": 801,
+		"HeroID": 1,
+		"MaxLevel": 8,
+		"Name": "ChapterOWCardName_001_1",
+		"CardContentTextID": {
+			"hash": 650065283
+		},
+		"Rarity": 2,
+		"ShowConditionList": "",
+		"OverflowConvertMaterialList": "123002:50",
+		"SymbiosisCardsList": [],
+		"CounterCardsList": [],
+		"ActivationDesc": "",
+		"DataImpl": {},
+		"CardID": 11
+	},
+	{
+		"MapID": 801,
+		"HeroID": 1,
+		"MaxLevel": 8,
+		"Name": "ChapterOWCardName_001_2",
+		"CardContentTextID": {
+			"hash": 650065284
+		},
+		"Rarity": 1,
+		"ShowConditionList": "",
+		"OverflowConvertMaterialList": "123002:50",
+		"SymbiosisCardsList": [],
+		"CounterCardsList": [],
+		"ActivationDesc": "",
+		"DataImpl": {},
+		"CardID": 12
+	},
+	{
+		"MapID": 801,
+		"HeroID": 1,
+		"MaxLevel": 8,
+		"Name": "ChapterOWCardName_001_3",
+		"CardContentTextID": {
+			"hash": 650065285
+		},
+		"Rarity": 3,
+		"ShowConditionList": "",
+		"OverflowConvertMaterialList": "123002:50",
+		"SymbiosisCardsList": [],
+		"CounterCardsList": [],
+		"ActivationDesc": "",
+		"DataImpl": {},
+		"CardID": 13
+	},
+	{
+		"MapID": 801,
+		"HeroID": 1,
+		"MaxLevel": 8,
+		"Name": "ChapterOWCardName_001_4",
+		"CardContentTextID": {
+			"hash": 650065286
+		},
+		"Rarity": 4,
+		"ShowConditionList": "",
+		"OverflowConvertMaterialList": "123002:50",
+		"SymbiosisCardsList": [],
+		"CounterCardsList": [],
+		"ActivationDesc": "",
+		"DataImpl": {},
+		"CardID": 14
+	},
+	{
+		"MapID": 801,
+		"HeroID": 1,
+		"MaxLevel": 8,
+		"Name": "ChapterOWCardName_001_5",
+		"CardContentTextID": {
+			"hash": 650065377
+		},
+		"Rarity": 5,
+		"ShowConditionList": "2|2022-07-11 10:00:00",
+		"OverflowConvertMaterialList": "123002:50",
+		"SymbiosisCardsList": [
+			7
+		],
+		"CounterCardsList": [],
+		"ActivationDesc": "ActivationDesc_01",
+		"DataImpl": {},
+		"CardID": 15
+	},
+	{
+		"MapID": 801,
+		"HeroID": 2,
+		"MaxLevel": 8,
+		"Name": "ChapterOWCardName_002_1",
+		"CardContentTextID": {
+			"hash": 650065287
+		},
+		"Rarity": 3,
+		"ShowConditionList": "5|305101",
+		"OverflowConvertMaterialList": "123002:50",
+		"SymbiosisCardsList": [],
+		"CounterCardsList": [],
+		"ActivationDesc": "",
+		"DataImpl": {},
+		"CardID": 21
+	},
+	{
+		"MapID": 801,
+		"HeroID": 2,
+		"MaxLevel": 8,
+		"Name": "ChapterOWCardName_002_2",
+		"CardContentTextID": {
+			"hash": 650065288
+		},
+		"Rarity": 2,
+		"ShowConditionList": "5|305101",
+		"OverflowConvertMaterialList": "123002:50",
+		"SymbiosisCardsList": [],
+		"CounterCardsList": [],
+		"ActivationDesc": "",
+		"DataImpl": {},
+		"CardID": 22
+	},
+	{
+		"MapID": 801,
+		"HeroID": 2,
+		"MaxLevel": 8,
+		"Name": "ChapterOWCardName_002_3",
+		"CardContentTextID": {
+			"hash": 650065289
+		},
+		"Rarity": 1,
+		"ShowConditionList": "5|305101",
+		"OverflowConvertMaterialList": "123002:50",
+		"SymbiosisCardsList": [],
+		"CounterCardsList": [],
+		"ActivationDesc": "",
+		"DataImpl": {},
+		"CardID": 23
+	},
+	{
+		"MapID": 801,
+		"HeroID": 2,
+		"MaxLevel": 8,
+		"Name": "ChapterOWCardName_002_4",
+		"CardContentTextID": {
+			"hash": 650065290
+		},
+		"Rarity": 4,
+		"ShowConditionList": "5|305101",
+		"OverflowConvertMaterialList": "123002:50",
+		"SymbiosisCardsList": [],
+		"CounterCardsList": [],
+		"ActivationDesc": "",
+		"DataImpl": {},
+		"CardID": 24
+	},
+	{
+		"MapID": 801,
+		"HeroID": 2,
+		"MaxLevel": 8,
+		"Name": "ChapterOWCardName_002_5",
+		"CardContentTextID": {
+			"hash": 650065378
+		},
+		"Rarity": 5,
+		"ShowConditionList": "2|2022-07-11 10:00:00",
+		"OverflowConvertMaterialList": "123002:50",
+		"SymbiosisCardsList": [
+			1
+		],
+		"CounterCardsList": [],
+		"ActivationDesc": "ActivationDesc_02",
+		"DataImpl": {},
+		"CardID": 25
+	},
+	{
+		"MapID": 801,
+		"HeroID": 3,
+		"MaxLevel": 8,
+		"Name": "ChapterOWCardName_003_1",
+		"CardContentTextID": {
+			"hash": 650065291
+		},
+		"Rarity": 3,
+		"ShowConditionList": "5|305201",
+		"OverflowConvertMaterialList": "123002:50",
+		"SymbiosisCardsList": [],
+		"CounterCardsList": [],
+		"ActivationDesc": "",
+		"DataImpl": {},
+		"CardID": 31
+	},
+	{
+		"MapID": 801,
+		"HeroID": 3,
+		"MaxLevel": 8,
+		"Name": "ChapterOWCardName_003_2",
+		"CardContentTextID": {
+			"hash": 650065313
+		},
+		"Rarity": 2,
+		"ShowConditionList": "5|305201",
+		"OverflowConvertMaterialList": "123002:50",
+		"SymbiosisCardsList": [],
+		"CounterCardsList": [],
+		"ActivationDesc": "",
+		"DataImpl": {},
+		"CardID": 32
+	},
+	{
+		"MapID": 801,
+		"HeroID": 3,
+		"MaxLevel": 8,
+		"Name": "ChapterOWCardName_003_3",
+		"CardContentTextID": {
+			"hash": 650065314
+		},
+		"Rarity": 4,
+		"ShowConditionList": "5|305201",
+		"OverflowConvertMaterialList": "123002:50",
+		"SymbiosisCardsList": [],
+		"CounterCardsList": [],
+		"ActivationDesc": "",
+		"DataImpl": {},
+		"CardID": 33
+	},
+	{
+		"MapID": 801,
+		"HeroID": 3,
+		"MaxLevel": 8,
+		"Name": "ChapterOWCardName_003_4",
+		"CardContentTextID": {
+			"hash": 650065315
+		},
+		"Rarity": 1,
+		"ShowConditionList": "5|305201",
+		"OverflowConvertMaterialList": "123002:50",
+		"SymbiosisCardsList": [],
+		"CounterCardsList": [],
+		"ActivationDesc": "",
+		"DataImpl": {},
+		"CardID": 34
+	},
+	{
+		"MapID": 801,
+		"HeroID": 3,
+		"MaxLevel": 8,
+		"Name": "ChapterOWCardName_003_5",
+		"CardContentTextID": {
+			"hash": 650065379
+		},
+		"Rarity": 5,
+		"ShowConditionList": "2|2022-07-11 10:00:00",
+		"OverflowConvertMaterialList": "123002:50",
+		"SymbiosisCardsList": [],
+		"CounterCardsList": [
+			0,
+			1,
+			2,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9,
+			10
+		],
+		"ActivationDesc": "ActivationDesc_03",
+		"DataImpl": {},
+		"CardID": 35
+	},
+	{
+		"MapID": 801,
+		"HeroID": 4,
+		"MaxLevel": 8,
+		"Name": "ChapterOWCardName_004_1",
+		"CardContentTextID": {
+			"hash": 650065316
+		},
+		"Rarity": 3,
+		"ShowConditionList": "",
+		"OverflowConvertMaterialList": "123002:50",
+		"SymbiosisCardsList": [],
+		"CounterCardsList": [],
+		"ActivationDesc": "",
+		"DataImpl": {},
+		"CardID": 41
+	},
+	{
+		"MapID": 801,
+		"HeroID": 4,
+		"MaxLevel": 8,
+		"Name": "ChapterOWCardName_004_2",
+		"CardContentTextID": {
+			"hash": 650065317
+		},
+		"Rarity": 2,
+		"ShowConditionList": "",
+		"OverflowConvertMaterialList": "123002:50",
+		"SymbiosisCardsList": [],
+		"CounterCardsList": [],
+		"ActivationDesc": "",
+		"DataImpl": {},
+		"CardID": 42
+	},
+	{
+		"MapID": 801,
+		"HeroID": 5,
+		"MaxLevel": 8,
+		"Name": "ChapterOWCardName_005_1",
+		"CardContentTextID": {
+			"hash": 650065318
+		},
+		"Rarity": 4,
+		"ShowConditionList": "",
+		"OverflowConvertMaterialList": "123002:50",
+		"SymbiosisCardsList": [],
+		"CounterCardsList": [],
+		"ActivationDesc": "",
+		"DataImpl": {},
+		"CardID": 51
+	},
+	{
+		"MapID": 801,
+		"HeroID": 5,
+		"MaxLevel": 8,
+		"Name": "ChapterOWCardName_005_2",
+		"CardContentTextID": {
+			"hash": 650065319
+		},
+		"Rarity": 2,
+		"ShowConditionList": "",
+		"OverflowConvertMaterialList": "123002:50",
+		"SymbiosisCardsList": [],
+		"CounterCardsList": [],
+		"ActivationDesc": "",
+		"DataImpl": {},
+		"CardID": 52
+	},
+	{
+		"MapID": 801,
+		"HeroID": 6,
+		"MaxLevel": 8,
+		"Name": "ChapterOWCardName_006_1",
+		"CardContentTextID": {
+			"hash": 650065320
+		},
+		"Rarity": 3,
+		"ShowConditionList": "",
+		"OverflowConvertMaterialList": "123002:50",
+		"SymbiosisCardsList": [],
+		"CounterCardsList": [],
+		"ActivationDesc": "",
+		"DataImpl": {},
+		"CardID": 61
+	},
+	{
+		"MapID": 801,
+		"HeroID": 6,
+		"MaxLevel": 8,
+		"Name": "ChapterOWCardName_006_2",
+		"CardContentTextID": {
+			"hash": 650065321
+		},
+		"Rarity": 2,
+		"ShowConditionList": "",
+		"OverflowConvertMaterialList": "123002:50",
+		"SymbiosisCardsList": [],
+		"CounterCardsList": [],
+		"ActivationDesc": "",
+		"DataImpl": {},
+		"CardID": 62
+	},
+	{
+		"MapID": 801,
+		"HeroID": 7,
+		"MaxLevel": 8,
+		"Name": "ChapterOWCardName_007_1",
+		"CardContentTextID": {
+			"hash": 650065322
+		},
+		"Rarity": 3,
+		"ShowConditionList": "",
+		"OverflowConvertMaterialList": "123002:50",
+		"SymbiosisCardsList": [],
+		"CounterCardsList": [],
+		"ActivationDesc": "",
+		"DataImpl": {},
+		"CardID": 71
+	},
+	{
+		"MapID": 801,
+		"HeroID": 7,
+		"MaxLevel": 8,
+		"Name": "ChapterOWCardName_007_2",
+		"CardContentTextID": {
+			"hash": 650065344
+		},
+		"Rarity": 2,
+		"ShowConditionList": "",
+		"OverflowConvertMaterialList": "123002:50",
+		"SymbiosisCardsList": [],
+		"CounterCardsList": [],
+		"ActivationDesc": "",
+		"DataImpl": {},
+		"CardID": 72
+	},
+	{
+		"MapID": 801,
+		"HeroID": 8,
+		"MaxLevel": 8,
+		"Name": "ChapterOWCardName_008_1",
+		"CardContentTextID": {
+			"hash": 650065346
+		},
+		"Rarity": 1,
+		"ShowConditionList": "2|2022-07-11 10:00:00",
+		"OverflowConvertMaterialList": "123002:50",
+		"SymbiosisCardsList": [],
+		"CounterCardsList": [],
+		"ActivationDesc": "",
+		"DataImpl": {},
+		"CardID": 81
+	},
+	{
+		"MapID": 801,
+		"HeroID": 8,
+		"MaxLevel": 8,
+		"Name": "ChapterOWCardName_008_2",
+		"CardContentTextID": {
+			"hash": 650065347
+		},
+		"Rarity": 2,
+		"ShowConditionList": "2|2022-07-11 10:00:00",
+		"OverflowConvertMaterialList": "123002:50",
+		"SymbiosisCardsList": [],
+		"CounterCardsList": [],
+		"ActivationDesc": "",
+		"DataImpl": {},
+		"CardID": 82
+	},
+	{
+		"MapID": 801,
+		"HeroID": 8,
+		"MaxLevel": 8,
+		"Name": "ChapterOWCardName_008_3",
+		"CardContentTextID": {
+			"hash": 650065348
+		},
+		"Rarity": 4,
+		"ShowConditionList": "2|2022-07-11 10:00:00",
+		"OverflowConvertMaterialList": "123002:50",
+		"SymbiosisCardsList": [],
+		"CounterCardsList": [],
+		"ActivationDesc": "",
+		"DataImpl": {},
+		"CardID": 83
+	},
+	{
+		"MapID": 801,
+		"HeroID": 8,
+		"MaxLevel": 8,
+		"Name": "ChapterOWCardName_008_4",
+		"CardContentTextID": {
+			"hash": 650065349
+		},
+		"Rarity": 3,
+		"ShowConditionList": "2|2022-07-11 10:00:00",
+		"OverflowConvertMaterialList": "123002:50",
+		"SymbiosisCardsList": [],
+		"CounterCardsList": [],
+		"ActivationDesc": "",
+		"DataImpl": {},
+		"CardID": 84
+	},
+	{
+		"MapID": 801,
+		"HeroID": 8,
+		"MaxLevel": 8,
+		"Name": "ChapterOWCardName_008_5",
+		"CardContentTextID": {
+			"hash": 650065380
+		},
+		"Rarity": 5,
+		"ShowConditionList": "2|2022-07-11 10:00:00",
+		"OverflowConvertMaterialList": "123002:50",
+		"SymbiosisCardsList": [
+			10
+		],
+		"CounterCardsList": [
+			0,
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			9
+		],
+		"ActivationDesc": "ActivationDesc_04",
+		"DataImpl": {},
+		"CardID": 85
+	},
+	{
+		"MapID": 801,
+		"HeroID": 9,
+		"MaxLevel": 8,
+		"Name": "ChapterOWCardName_009_1",
+		"CardContentTextID": {
+			"hash": 650065350
+		},
+		"Rarity": 4,
+		"ShowConditionList": "2|2022-07-11 10:00:00",
+		"OverflowConvertMaterialList": "123002:50",
+		"SymbiosisCardsList": [],
+		"CounterCardsList": [],
+		"ActivationDesc": "",
+		"DataImpl": {},
+		"CardID": 91
+	},
+	{
+		"MapID": 801,
+		"HeroID": 9,
+		"MaxLevel": 8,
+		"Name": "ChapterOWCardName_009_2",
+		"CardContentTextID": {
+			"hash": 650065351
+		},
+		"Rarity": 2,
+		"ShowConditionList": "2|2022-07-11 10:00:00",
+		"OverflowConvertMaterialList": "123002:50",
+		"SymbiosisCardsList": [],
+		"CounterCardsList": [],
+		"ActivationDesc": "",
+		"DataImpl": {},
+		"CardID": 92
+	},
+	{
+		"MapID": 801,
+		"HeroID": 9,
+		"MaxLevel": 8,
+		"Name": "ChapterOWCardName_009_3",
+		"CardContentTextID": {
+			"hash": 650065352
+		},
+		"Rarity": 3,
+		"ShowConditionList": "2|2022-07-11 10:00:00",
+		"OverflowConvertMaterialList": "123002:50",
+		"SymbiosisCardsList": [],
+		"CounterCardsList": [],
+		"ActivationDesc": "",
+		"DataImpl": {},
+		"CardID": 93
+	},
+	{
+		"MapID": 801,
+		"HeroID": 9,
+		"MaxLevel": 8,
+		"Name": "ChapterOWCardName_009_4",
+		"CardContentTextID": {
+			"hash": 650065353
+		},
+		"Rarity": 1,
+		"ShowConditionList": "2|2022-07-11 10:00:00",
+		"OverflowConvertMaterialList": "123002:50",
+		"SymbiosisCardsList": [],
+		"CounterCardsList": [],
+		"ActivationDesc": "",
+		"DataImpl": {},
+		"CardID": 94
+	},
+	{
+		"MapID": 801,
+		"HeroID": 9,
+		"MaxLevel": 8,
+		"Name": "ChapterOWCardName_009_5",
+		"CardContentTextID": {
+			"hash": 650065381
+		},
+		"Rarity": 5,
+		"ShowConditionList": "2|2022-07-11 10:00:00",
+		"OverflowConvertMaterialList": "123002:50",
+		"SymbiosisCardsList": [
+			3,
+			5
+		],
+		"CounterCardsList": [],
+		"ActivationDesc": "ActivationDesc_05",
+		"DataImpl": {},
+		"CardID": 95
+	},
+	{
+		"MapID": 801,
+		"HeroID": 10,
+		"MaxLevel": 8,
+		"Name": "ChapterOWCardName_010_1",
+		"CardContentTextID": {
+			"hash": 650065375
+		},
+		"Rarity": 3,
+		"ShowConditionList": "2|2022-07-11 10:00:00",
+		"OverflowConvertMaterialList": "123002:50",
+		"SymbiosisCardsList": [],
+		"CounterCardsList": [],
+		"ActivationDesc": "",
+		"DataImpl": {},
+		"CardID": 101
+	},
+	{
+		"MapID": 801,
+		"HeroID": 10,
+		"MaxLevel": 8,
+		"Name": "ChapterOWCardName_010_2",
+		"CardContentTextID": {
+			"hash": 650065376
+		},
+		"Rarity": 2,
+		"ShowConditionList": "2|2022-07-11 10:00:00",
+		"OverflowConvertMaterialList": "123002:50",
+		"SymbiosisCardsList": [],
+		"CounterCardsList": [],
+		"ActivationDesc": "",
+		"DataImpl": {},
+		"CardID": 102
+	}
+]

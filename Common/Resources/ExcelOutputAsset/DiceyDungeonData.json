@@ -1,0 +1,3478 @@
+[
+	{
+		"dungeonName": {
+			"hash": -410083684
+		},
+		"dungeonType": 1,
+		"beginDungeonRoomID": 10111,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			16,
+			17,
+			18
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": -1233436264
+			}
+		],
+		"ornamentPoolID": 10021,
+		"fristDropRewardDisplayList": 18330,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 1,
+		"checkEventHP": 1,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg01",
+		"ornamentRefreshNum": 0,
+		"DataImpl": {},
+		"dungeonID": 101
+	},
+	{
+		"dungeonName": {
+			"hash": -381454533
+		},
+		"dungeonType": 1,
+		"beginDungeonRoomID": 10211,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			23,
+			25,
+			28,
+			210
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": -1233436263
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 18331,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 1,
+		"checkEventHP": 1,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg01",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 102
+	},
+	{
+		"dungeonName": {
+			"hash": -352825382
+		},
+		"dungeonType": 1,
+		"beginDungeonRoomID": 10311,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			32,
+			33,
+			37,
+			310,
+			313
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": -1233436262
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 18332,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [
+			{
+				"ID": 3,
+				"Level": 4
+			}
+		],
+		"unlockWeaponList": [
+			{
+				"ID": 6,
+				"Level": 1
+			}
+		],
+		"recoveryRoomHP": 1,
+		"checkEventHP": 1,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg01",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 103
+	},
+	{
+		"dungeonName": {
+			"hash": -324196231
+		},
+		"dungeonType": 1,
+		"beginDungeonRoomID": 10411,
+		"roleRestrictList": [
+			3
+		],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			42,
+			44,
+			478,
+			49,
+			413
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": -1233436262
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 18333,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 1,
+		"checkEventHP": 1,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg01",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 104
+	},
+	{
+		"dungeonName": {
+			"hash": -295567080
+		},
+		"dungeonType": 1,
+		"beginDungeonRoomID": 10511,
+		"roleRestrictList": [
+			3
+		],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			64,
+			67,
+			68,
+			69,
+			611,
+			613
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": -1233436261
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 18335,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 1,
+		"checkEventHP": 1,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg01",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 105
+	},
+	{
+		"dungeonName": {
+			"hash": -266937929
+		},
+		"dungeonType": 1,
+		"beginDungeonRoomID": 10611,
+		"roleRestrictList": [
+			3
+		],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			72,
+			75,
+			77,
+			79,
+			710,
+			713
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": -1233436261
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 18336,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [
+			{
+				"ID": 2,
+				"Level": 5
+			}
+		],
+		"unlockWeaponList": [
+			{
+				"ID": 4,
+				"Level": 1
+			}
+		],
+		"recoveryRoomHP": 1,
+		"checkEventHP": 1,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg01",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 106
+	},
+	{
+		"dungeonName": {
+			"hash": -238308778
+		},
+		"dungeonType": 1,
+		"beginDungeonRoomID": 10711,
+		"roleRestrictList": [
+			2
+		],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			92,
+			94,
+			95,
+			97,
+			910,
+			913
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": -1233436260
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 18338,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 1,
+		"checkEventHP": 1,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg01",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 107
+	},
+	{
+		"dungeonName": {
+			"hash": -209679627
+		},
+		"dungeonType": 1,
+		"beginDungeonRoomID": 10811,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			102,
+			103,
+			104,
+			107,
+			108,
+			109,
+			1012
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": -1233436258
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 18339,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 1,
+		"checkEventHP": 1,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg01",
+		"ornamentRefreshNum": 6,
+		"DataImpl": {},
+		"dungeonID": 108
+	},
+	{
+		"dungeonName": {
+			"hash": 1332726651
+		},
+		"dungeonType": 1,
+		"beginDungeonRoomID": 20111,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			212,
+			213,
+			214,
+			2110,
+			2113
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": -1233436257
+			}
+		],
+		"ornamentPoolID": 10021,
+		"fristDropRewardDisplayList": 18340,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 1,
+		"checkEventHP": 1,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg03",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 201
+	},
+	{
+		"dungeonName": {
+			"hash": 1361355802
+		},
+		"dungeonType": 1,
+		"beginDungeonRoomID": 20211,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			222,
+			224,
+			227,
+			229,
+			2212
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": -1233436256
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 18341,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 1,
+		"checkEventHP": 1,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg03",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 202
+	},
+	{
+		"dungeonName": {
+			"hash": 1389984953
+		},
+		"dungeonType": 1,
+		"beginDungeonRoomID": 20311,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			232,
+			233,
+			235,
+			2310,
+			2313
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 418181528
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 18342,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [
+			{
+				"ID": 5,
+				"Level": 11
+			}
+		],
+		"unlockWeaponList": [
+			{
+				"ID": 10,
+				"Level": 1
+			}
+		],
+		"recoveryRoomHP": 1,
+		"checkEventHP": 1,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg03",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 203
+	},
+	{
+		"dungeonName": {
+			"hash": 1418614104
+		},
+		"dungeonType": 1,
+		"beginDungeonRoomID": 20411,
+		"roleRestrictList": [
+			5
+		],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			262,
+			263,
+			2678,
+			2613
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 418181529
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 18345,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 1,
+		"checkEventHP": 1,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg03",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 204
+	},
+	{
+		"dungeonName": {
+			"hash": 1447243255
+		},
+		"dungeonType": 1,
+		"beginDungeonRoomID": 20511,
+		"roleRestrictList": [
+			5
+		],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			272,
+			277,
+			278,
+			279,
+			2711,
+			2713
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 418181530
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 18346,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [
+			{
+				"ID": 4,
+				"Level": 13
+			}
+		],
+		"unlockWeaponList": [
+			{
+				"ID": 8,
+				"Level": 1
+			}
+		],
+		"recoveryRoomHP": 1,
+		"checkEventHP": 1,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg03",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 205
+	},
+	{
+		"dungeonName": {
+			"hash": 1475872406
+		},
+		"dungeonType": 1,
+		"beginDungeonRoomID": 20611,
+		"roleRestrictList": [
+			4
+		],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			282,
+			283,
+			284,
+			288,
+			2811
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 418181531
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 18347,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 1,
+		"checkEventHP": 1,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg03",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 206
+	},
+	{
+		"dungeonName": {
+			"hash": 1504501557
+		},
+		"dungeonType": 1,
+		"beginDungeonRoomID": 20711,
+		"roleRestrictList": [
+			4
+		],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			292,
+			293,
+			297,
+			299,
+			2910,
+			2913
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 418181532
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 18348,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 1,
+		"checkEventHP": 1,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg03",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 207
+	},
+	{
+		"dungeonName": {
+			"hash": 1533130708
+		},
+		"dungeonType": 1,
+		"beginDungeonRoomID": 20811,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			302,
+			303,
+			304,
+			308,
+			309,
+			3012
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 418181534
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 18349,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 1,
+		"checkEventHP": 1,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg03",
+		"ornamentRefreshNum": 6,
+		"DataImpl": {},
+		"dungeonID": 208
+	},
+	{
+		"dungeonName": {
+			"hash": -1219430310
+		},
+		"dungeonType": 1,
+		"beginDungeonRoomID": 30111,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			312,
+			314,
+			315,
+			317,
+			3110,
+			3113
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 418181536
+			}
+		],
+		"ornamentPoolID": 10021,
+		"fristDropRewardDisplayList": 18350,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 1,
+		"checkEventHP": 1,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg02",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 301
+	},
+	{
+		"dungeonName": {
+			"hash": -1190801159
+		},
+		"dungeonType": 1,
+		"beginDungeonRoomID": 30211,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			322,
+			323,
+			324,
+			3278,
+			329,
+			3213
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 418181559
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 18351,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 1,
+		"checkEventHP": 1,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg02",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 302
+	},
+	{
+		"dungeonName": {
+			"hash": -1162172008
+		},
+		"dungeonType": 1,
+		"beginDungeonRoomID": 30311,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			332,
+			337,
+			338,
+			339,
+			3311,
+			3313
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 418181560
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 18352,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [
+			{
+				"ID": 6,
+				"Level": 22
+			}
+		],
+		"unlockWeaponList": [
+			{
+				"ID": 12,
+				"Level": 1
+			}
+		],
+		"recoveryRoomHP": 1,
+		"checkEventHP": 1,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg02",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 303
+	},
+	{
+		"dungeonName": {
+			"hash": -1133542857
+		},
+		"dungeonType": 1,
+		"beginDungeonRoomID": 30411,
+		"roleRestrictList": [
+			6
+		],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			342,
+			343,
+			344,
+			347,
+			348,
+			3411
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 418181561
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 18353,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 1,
+		"checkEventHP": 1,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg02",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 304
+	},
+	{
+		"dungeonName": {
+			"hash": -1104913706
+		},
+		"dungeonType": 1,
+		"beginDungeonRoomID": 30511,
+		"roleRestrictList": [
+			6
+		],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			352,
+			353,
+			357,
+			359,
+			3610,
+			3513
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 418181562
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 18354,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 1,
+		"checkEventHP": 1,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg02",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 305
+	},
+	{
+		"dungeonName": {
+			"hash": -1076284555
+		},
+		"dungeonType": 1,
+		"beginDungeonRoomID": 30611,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			362,
+			364,
+			365,
+			367,
+			3610,
+			3611
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 418181562
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 18355,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 1,
+		"checkEventHP": 1,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg02",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 306
+	},
+	{
+		"dungeonName": {
+			"hash": -1047655404
+		},
+		"dungeonType": 1,
+		"beginDungeonRoomID": 30711,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			372,
+			373,
+			374,
+			378,
+			379,
+			3712
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 418181563
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 18356,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [
+			{
+				"ID": 7,
+				"Level": 25
+			}
+		],
+		"unlockWeaponList": [
+			{
+				"ID": 14,
+				"Level": 1
+			}
+		],
+		"recoveryRoomHP": 1,
+		"checkEventHP": 1,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg02",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 307
+	},
+	{
+		"dungeonName": {
+			"hash": -1019026253
+		},
+		"dungeonType": 1,
+		"beginDungeonRoomID": 30811,
+		"roleRestrictList": [
+			7
+		],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			382,
+			383,
+			384,
+			387,
+			388,
+			3811
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 418181563
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 18357,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 1,
+		"checkEventHP": 1,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg02",
+		"ornamentRefreshNum": 6,
+		"DataImpl": {},
+		"dungeonID": 308
+	},
+	{
+		"dungeonName": {
+			"hash": -990397102
+		},
+		"dungeonType": 1,
+		"beginDungeonRoomID": 30911,
+		"roleRestrictList": [
+			7
+		],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			392,
+			393,
+			397,
+			399,
+			3910,
+			3913
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 418181564
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 18358,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 1,
+		"checkEventHP": 1,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg02",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 309
+	},
+	{
+		"dungeonName": {
+			"hash": -197997018
+		},
+		"dungeonType": 1,
+		"beginDungeonRoomID": 31011,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			402,
+			403,
+			404,
+			408,
+			409,
+			4012
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 418181565
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 18359,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 1,
+		"checkEventHP": 1,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg02",
+		"ornamentRefreshNum": 6,
+		"DataImpl": {},
+		"dungeonID": 310
+	},
+	{
+		"dungeonName": {
+			"hash": 1059158126
+		},
+		"dungeonType": 3,
+		"beginDungeonRoomID": 40101,
+		"roleRestrictList": [
+			1
+		],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			30001,
+			30002,
+			30003,
+			30004,
+			30005
+		],
+		"ornamentDisplayList": [
+			101,
+			102,
+			103,
+			104,
+			105,
+			108,
+			109,
+			1010,
+			1011,
+			1012,
+			1014,
+			1015,
+			1016,
+			1017,
+			1018,
+			1019,
+			1020,
+			1201
+		],
+		"tipDisplayList": [
+			{
+				"hash": -1233436257
+			},
+			{
+				"hash": 967335162
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 18360,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.5,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg01",
+		"ornamentRefreshNum": 6,
+		"DataImpl": {},
+		"dungeonID": 401
+	},
+	{
+		"dungeonName": {
+			"hash": 2016382611
+		},
+		"dungeonType": 3,
+		"beginDungeonRoomID": 40201,
+		"roleRestrictList": [
+			3
+		],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			30006,
+			30007,
+			30008,
+			30009,
+			30010
+		],
+		"ornamentDisplayList": [
+			1021,
+			1023,
+			1025,
+			1026,
+			1029,
+			1030,
+			1031,
+			1032,
+			1033,
+			1034,
+			1035,
+			1037,
+			1040,
+			1041,
+			1039,
+			1016,
+			1017,
+			1038
+		],
+		"tipDisplayList": [
+			{
+				"hash": -1233436256
+			},
+			{
+				"hash": 967335162
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 18361,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.5,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg01",
+		"ornamentRefreshNum": 6,
+		"DataImpl": {},
+		"dungeonID": 402
+	},
+	{
+		"dungeonName": {
+			"hash": -850371150
+		},
+		"dungeonType": 3,
+		"beginDungeonRoomID": 40301,
+		"roleRestrictList": [
+			2
+		],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			30011,
+			30012,
+			30013,
+			30014,
+			30015
+		],
+		"ornamentDisplayList": [
+			1042,
+			1043,
+			1048,
+			101,
+			102,
+			1012,
+			1021,
+			1023,
+			1026,
+			109,
+			1025,
+			1055,
+			1014,
+			1019,
+			1020,
+			1201,
+			1035,
+			1037,
+			1040,
+			1041,
+			1050,
+			1051,
+			1053,
+			1054
+		],
+		"tipDisplayList": [
+			{
+				"hash": 418181528
+			},
+			{
+				"hash": 967335162
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 18362,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.5,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg01",
+		"ornamentRefreshNum": 6,
+		"DataImpl": {},
+		"dungeonID": 403
+	},
+	{
+		"dungeonName": {
+			"hash": -553350947
+		},
+		"dungeonType": 3,
+		"beginDungeonRoomID": 40401,
+		"roleRestrictList": [
+			1,
+			2,
+			3
+		],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			30016,
+			30017,
+			30018,
+			30019,
+			30020
+		],
+		"ornamentDisplayList": [
+			1042,
+			1043,
+			1048,
+			101,
+			102,
+			1012,
+			1021,
+			1023,
+			1026,
+			109,
+			1025,
+			1055,
+			1014,
+			1019,
+			1020,
+			1201,
+			1035,
+			1037,
+			1040,
+			1041,
+			1050,
+			1051,
+			1053,
+			1054
+		],
+		"tipDisplayList": [
+			{
+				"hash": 346210619
+			},
+			{
+				"hash": 967335162
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 18363,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.5,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg01",
+		"ornamentRefreshNum": 6,
+		"DataImpl": {},
+		"dungeonID": 404
+	},
+	{
+		"dungeonName": {
+			"hash": -159380974
+		},
+		"dungeonType": 3,
+		"beginDungeonRoomID": 40501,
+		"roleRestrictList": [
+			5
+		],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			30021,
+			30022,
+			30023,
+			30024,
+			30025
+		],
+		"ornamentDisplayList": [
+			1042,
+			1043,
+			1048,
+			101,
+			102,
+			1012,
+			1021,
+			1023,
+			1026,
+			109,
+			1025,
+			1055,
+			1014,
+			1019,
+			1020,
+			1201,
+			1035,
+			1037,
+			1040,
+			1041,
+			1050,
+			1051,
+			1053,
+			1054
+		],
+		"tipDisplayList": [
+			{
+				"hash": 418181536
+			},
+			{
+				"hash": 967335164
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 18364,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.5,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg03",
+		"ornamentRefreshNum": 6,
+		"DataImpl": {},
+		"dungeonID": 405
+	},
+	{
+		"dungeonName": {
+			"hash": 137639229
+		},
+		"dungeonType": 3,
+		"beginDungeonRoomID": 40601,
+		"roleRestrictList": [
+			4
+		],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			30026,
+			30027,
+			30028,
+			30029,
+			30030
+		],
+		"ornamentDisplayList": [
+			2001,
+			2002,
+			2003,
+			2004,
+			2005,
+			2006,
+			2007,
+			2008,
+			2009,
+			1052,
+			2010,
+			2011,
+			2012,
+			2013,
+			2014
+		],
+		"tipDisplayList": [
+			{
+				"hash": 418181537
+			},
+			{
+				"hash": 967335164
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 18365,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.5,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg03",
+		"ornamentRefreshNum": 6,
+		"DataImpl": {},
+		"dungeonID": 406
+	},
+	{
+		"dungeonName": {
+			"hash": 531609202
+		},
+		"dungeonType": 3,
+		"beginDungeonRoomID": 40701,
+		"roleRestrictList": [
+			1,
+			2,
+			3
+		],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			30031,
+			30032,
+			30033,
+			30034,
+			30035
+		],
+		"ornamentDisplayList": [
+			2101,
+			2102,
+			2103,
+			2104,
+			2105,
+			2106,
+			2109,
+			2110,
+			2112,
+			108,
+			109,
+			1013,
+			1015,
+			1016,
+			1017,
+			2113,
+			2114,
+			2115
+		],
+		"tipDisplayList": [
+			{
+				"hash": 418181559
+			},
+			{
+				"hash": 967335164
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 18366,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.5,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg03",
+		"ornamentRefreshNum": 6,
+		"DataImpl": {},
+		"dungeonID": 407
+	},
+	{
+		"dungeonName": {
+			"hash": 828629405
+		},
+		"dungeonType": 3,
+		"beginDungeonRoomID": 40801,
+		"roleRestrictList": [
+			4,
+			5
+		],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			30036,
+			30037,
+			30038,
+			30039,
+			30040
+		],
+		"ornamentDisplayList": [
+			2101,
+			2102,
+			2103,
+			2201,
+			2202,
+			2203,
+			2001,
+			2002,
+			2003,
+			105,
+			2110,
+			1052,
+			2010,
+			2011,
+			2012,
+			2013,
+			2014,
+			2113,
+			2114,
+			2115,
+			2204,
+			1018,
+			1019,
+			1020,
+			1201
+		],
+		"tipDisplayList": [
+			{
+				"hash": 475293338
+			},
+			{
+				"hash": 967335164
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 18367,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.5,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg03",
+		"ornamentRefreshNum": 6,
+		"DataImpl": {},
+		"dungeonID": 408
+	},
+	{
+		"dungeonName": {
+			"hash": 1222599378
+		},
+		"dungeonType": 3,
+		"beginDungeonRoomID": 40901,
+		"roleRestrictList": [
+			6
+		],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			30041,
+			30042,
+			30043,
+			30044,
+			30045
+		],
+		"ornamentDisplayList": [
+			2101,
+			2102,
+			2103,
+			2201,
+			2202,
+			2203,
+			2001,
+			2002,
+			2003,
+			105,
+			2110,
+			1052,
+			2010,
+			2011,
+			2012,
+			2013,
+			2014,
+			2113,
+			2114,
+			2115,
+			2204,
+			1018,
+			1019,
+			1020,
+			1201
+		],
+		"tipDisplayList": [
+			{
+				"hash": 418181566
+			},
+			{
+				"hash": 967335163
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 18368,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.5,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg02",
+		"ornamentRefreshNum": 6,
+		"DataImpl": {},
+		"dungeonID": 409
+	},
+	{
+		"dungeonName": {
+			"hash": 1519619581
+		},
+		"dungeonType": 3,
+		"beginDungeonRoomID": 41001,
+		"roleRestrictList": [
+			7
+		],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			30046,
+			30047,
+			30048,
+			30049,
+			30050
+		],
+		"ornamentDisplayList": [
+			1042,
+			1043,
+			1048,
+			101,
+			102,
+			1012,
+			1021,
+			1023,
+			1026,
+			109,
+			1025,
+			1055,
+			2101,
+			2102,
+			2103,
+			2201,
+			2202,
+			2203,
+			2001,
+			2002,
+			2003,
+			105,
+			2110,
+			1014,
+			1019,
+			1020,
+			1201,
+			1035,
+			1037,
+			1040,
+			1041,
+			1050,
+			1051,
+			1053,
+			1054,
+			1052,
+			2010,
+			2011,
+			2012,
+			2013,
+			2014,
+			2113,
+			2114,
+			2115,
+			2204,
+			1018
+		],
+		"tipDisplayList": [
+			{
+				"hash": 418181567
+			},
+			{
+				"hash": 967335163
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 18369,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.5,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg02",
+		"ornamentRefreshNum": 6,
+		"DataImpl": {},
+		"dungeonID": 410
+	},
+	{
+		"dungeonName": {
+			"hash": 1870948150
+		},
+		"dungeonType": 3,
+		"beginDungeonRoomID": 41101,
+		"roleRestrictList": [
+			1,
+			2,
+			3,
+			4,
+			5
+		],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			30051,
+			30052,
+			30053,
+			30054,
+			30055
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 418181568
+			},
+			{
+				"hash": 967335163
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 18370,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.5,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg02",
+		"ornamentRefreshNum": 6,
+		"DataImpl": {},
+		"dungeonID": 411
+	},
+	{
+		"dungeonName": {
+			"hash": -1679661220
+		},
+		"dungeonType": 3,
+		"beginDungeonRoomID": 41201,
+		"roleRestrictList": [
+			6,
+			7
+		],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			30056,
+			30057,
+			30058,
+			30059,
+			30060
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 604376057
+			},
+			{
+				"hash": 967335163
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 18371,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.5,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg02",
+		"ornamentRefreshNum": 6,
+		"DataImpl": {},
+		"dungeonID": 412
+	},
+	{
+		"dungeonName": {
+			"hash": -1536515465
+		},
+		"dungeonType": 3,
+		"beginDungeonRoomID": 41301,
+		"roleRestrictList": [
+			2,
+			5
+		],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			30061,
+			30062,
+			30063,
+			30064,
+			30065
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 604376057
+			},
+			{
+				"hash": 967335165
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 18372,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.5,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg01",
+		"ornamentRefreshNum": 6,
+		"DataImpl": {},
+		"dungeonID": 413
+	},
+	{
+		"dungeonName": {
+			"hash": -792157539
+		},
+		"dungeonType": 3,
+		"beginDungeonRoomID": 41401,
+		"roleRestrictList": [
+			1,
+			6
+		],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			30066,
+			30067,
+			30068,
+			30069,
+			30070
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 604376057
+			},
+			{
+				"hash": 967335166
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 18373,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.5,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg03",
+		"ornamentRefreshNum": 6,
+		"DataImpl": {},
+		"dungeonID": 414
+	},
+	{
+		"dungeonName": {
+			"hash": -649011784
+		},
+		"dungeonType": 3,
+		"beginDungeonRoomID": 41501,
+		"roleRestrictList": [
+			3,
+			4,
+			7
+		],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			30071,
+			30072,
+			30073,
+			30074,
+			30075
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": -1192575302
+			},
+			{
+				"hash": 967335167
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 18374,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.5,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg02",
+		"ornamentRefreshNum": 6,
+		"DataImpl": {},
+		"dungeonID": 415
+	},
+	{
+		"dungeonName": {
+			"hash": 95346142
+		},
+		"dungeonType": 3,
+		"beginDungeonRoomID": 41601,
+		"roleRestrictList": [
+			6
+		],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			30076,
+			30077,
+			30078,
+			30079,
+			30080
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 1305440635
+			},
+			{
+				"hash": 967335169
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 0,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.5,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg01",
+		"ornamentRefreshNum": 6,
+		"DataImpl": {},
+		"dungeonID": 416
+	},
+	{
+		"dungeonName": {
+			"hash": 238491897
+		},
+		"dungeonType": 3,
+		"beginDungeonRoomID": 41701,
+		"roleRestrictList": [
+			5
+		],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			30081,
+			30082,
+			30083,
+			30084,
+			30085
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": -491510724
+			},
+			{
+				"hash": 967335168
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 0,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.5,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg03",
+		"ornamentRefreshNum": 6,
+		"DataImpl": {},
+		"dungeonID": 417
+	},
+	{
+		"dungeonName": {
+			"hash": 982849823
+		},
+		"dungeonType": 3,
+		"beginDungeonRoomID": 41801,
+		"roleRestrictList": [
+			2
+		],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			30086,
+			30087,
+			30088,
+			30089,
+			30090
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 2006505213
+			},
+			{
+				"hash": 967335170
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 0,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.5,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg02",
+		"ornamentRefreshNum": 6,
+		"DataImpl": {},
+		"dungeonID": 418
+	},
+	{
+		"dungeonName": {
+			"hash": 1125995578
+		},
+		"dungeonType": 3,
+		"beginDungeonRoomID": 41901,
+		"roleRestrictList": [
+			4
+		],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			30091,
+			30092,
+			30093,
+			30094,
+			30095
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 209553854
+			},
+			{
+				"hash": 967335168
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 0,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.5,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg01",
+		"ornamentRefreshNum": 6,
+		"DataImpl": {},
+		"dungeonID": 419
+	},
+	{
+		"dungeonName": {
+			"hash": -1704370423
+		},
+		"dungeonType": 3,
+		"beginDungeonRoomID": 42001,
+		"roleRestrictList": [
+			3
+		],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			30096,
+			30097,
+			30098,
+			30099,
+			30100
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 209553854
+			},
+			{
+				"hash": 967335169
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 0,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.5,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg03",
+		"ornamentRefreshNum": 6,
+		"DataImpl": {},
+		"dungeonID": 420
+	},
+	{
+		"dungeonName": {
+			"hash": -1561224668
+		},
+		"dungeonType": 3,
+		"beginDungeonRoomID": 42101,
+		"roleRestrictList": [
+			7
+		],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			30101,
+			30102,
+			30103,
+			30104,
+			30105
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 209553854
+			},
+			{
+				"hash": 967335168
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 0,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.5,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg01",
+		"ornamentRefreshNum": 6,
+		"DataImpl": {},
+		"dungeonID": 421
+	},
+	{
+		"dungeonName": {
+			"hash": -816866742
+		},
+		"dungeonType": 3,
+		"beginDungeonRoomID": 42201,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			30106,
+			30107,
+			30108,
+			30109,
+			30111
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 209553854
+			},
+			{
+				"hash": 967335170
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 0,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.5,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg02",
+		"ornamentRefreshNum": 6,
+		"DataImpl": {},
+		"dungeonID": 422
+	},
+	{
+		"dungeonName": {
+			"hash": -650254151
+		},
+		"dungeonType": 2,
+		"beginDungeonRoomID": 100101,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			1001
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": -1233436262
+			},
+			{
+				"hash": -761343990
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 0,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg01",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 1001
+	},
+	{
+		"dungeonName": {
+			"hash": -650254150
+		},
+		"dungeonType": 2,
+		"beginDungeonRoomID": 100201,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			1002
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": -1233436262
+			},
+			{
+				"hash": -761343989
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 0,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg01",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 1002
+	},
+	{
+		"dungeonName": {
+			"hash": -650254149
+		},
+		"dungeonType": 2,
+		"beginDungeonRoomID": 100301,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			1003
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": -1233436262
+			},
+			{
+				"hash": -761343988
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 0,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg01",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 1003
+	},
+	{
+		"dungeonName": {
+			"hash": 1519783879
+		},
+		"dungeonType": 1,
+		"beginDungeonRoomID": 1041119,
+		"roleRestrictList": [
+			3
+		],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			52,
+			53,
+			54,
+			57,
+			58,
+			511
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": -1233436260
+			},
+			{
+				"hash": 1301681522
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 18334,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 1,
+		"checkEventHP": 1,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg01",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 1041
+	},
+	{
+		"dungeonName": {
+			"hash": 710437253
+		},
+		"dungeonType": 1,
+		"beginDungeonRoomID": 1061119,
+		"roleRestrictList": [
+			2
+		],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			82,
+			83,
+			84,
+			87,
+			88,
+			811
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": -1233436259
+			},
+			{
+				"hash": 1301681522
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 18337,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 1,
+		"checkEventHP": 1,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg01",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 1061
+	},
+	{
+		"dungeonName": {
+			"hash": -650224360
+		},
+		"dungeonType": 2,
+		"beginDungeonRoomID": 200101,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			2001
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": -1233436260
+			},
+			{
+				"hash": -761343990
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 0,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg01",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 2001
+	},
+	{
+		"dungeonName": {
+			"hash": -650224359
+		},
+		"dungeonType": 2,
+		"beginDungeonRoomID": 200201,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			2002
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": -1233436260
+			},
+			{
+				"hash": -761343989
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 0,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg01",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 2002
+	},
+	{
+		"dungeonName": {
+			"hash": -650224358
+		},
+		"dungeonType": 2,
+		"beginDungeonRoomID": 200301,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			2003
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": -1233436260
+			},
+			{
+				"hash": -761343988
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 0,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg01",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 2003
+	},
+	{
+		"dungeonName": {
+			"hash": -419539961
+		},
+		"dungeonType": 1,
+		"beginDungeonRoomID": 2031119,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			242,
+			244,
+			245,
+			247,
+			2410,
+			2413
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 418181530
+			},
+			{
+				"hash": 1301681522
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 18343,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 1,
+		"checkEventHP": 1,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg03",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 2031
+	},
+	{
+		"dungeonName": {
+			"hash": -390910810
+		},
+		"dungeonType": 1,
+		"beginDungeonRoomID": 2032111,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			252,
+			253,
+			254,
+			257,
+			258,
+			2511
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 418181532
+			},
+			{
+				"hash": 1301681522
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 18344,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 1,
+		"checkEventHP": 1,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg03",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 2032
+	},
+	{
+		"dungeonName": {
+			"hash": -650194569
+		},
+		"dungeonType": 2,
+		"beginDungeonRoomID": 300101,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			3001
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": -1233436257
+			},
+			{
+				"hash": -761343990
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 0,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg01",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 3001
+	},
+	{
+		"dungeonName": {
+			"hash": -650194568
+		},
+		"dungeonType": 2,
+		"beginDungeonRoomID": 300201,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			3002
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": -1233436257
+			},
+			{
+				"hash": -761343989
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 0,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg01",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 3002
+	},
+	{
+		"dungeonName": {
+			"hash": -650194567
+		},
+		"dungeonType": 2,
+		"beginDungeonRoomID": 300301,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			3003
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": -1233436257
+			},
+			{
+				"hash": -761343988
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 0,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg01",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 3003
+	},
+	{
+		"dungeonName": {
+			"hash": -650194566
+		},
+		"dungeonType": 2,
+		"beginDungeonRoomID": 300401,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			3004
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": -1233436257
+			},
+			{
+				"hash": -761343987
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 0,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg03",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 3004
+	},
+	{
+		"dungeonName": {
+			"hash": -650194565
+		},
+		"dungeonType": 2,
+		"beginDungeonRoomID": 300501,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			3005
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": -1233436257
+			},
+			{
+				"hash": -761343987
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 0,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg03",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 3005
+	},
+	{
+		"dungeonName": {
+			"hash": -650164778
+		},
+		"dungeonType": 2,
+		"beginDungeonRoomID": 400101,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			4001
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 418181532
+			},
+			{
+				"hash": -761343990
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 0,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg01",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 4001
+	},
+	{
+		"dungeonName": {
+			"hash": -650164777
+		},
+		"dungeonType": 2,
+		"beginDungeonRoomID": 400201,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			4002
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 418181532
+			},
+			{
+				"hash": -761343989
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 0,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg01",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 4002
+	},
+	{
+		"dungeonName": {
+			"hash": -650164776
+		},
+		"dungeonType": 2,
+		"beginDungeonRoomID": 400301,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			4003
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 418181532
+			},
+			{
+				"hash": -761343988
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 0,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg01",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 4003
+	},
+	{
+		"dungeonName": {
+			"hash": -650164775
+		},
+		"dungeonType": 2,
+		"beginDungeonRoomID": 400401,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			4004
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 418181532
+			},
+			{
+				"hash": -761343987
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 0,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg03",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 4004
+	},
+	{
+		"dungeonName": {
+			"hash": -650164774
+		},
+		"dungeonType": 2,
+		"beginDungeonRoomID": 400501,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			4005
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 418181532
+			},
+			{
+				"hash": -761343986
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 0,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg03",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 4005
+	},
+	{
+		"dungeonName": {
+			"hash": -650134987
+		},
+		"dungeonType": 2,
+		"beginDungeonRoomID": 500101,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			5001
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 418181559
+			},
+			{
+				"hash": -761343990
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 0,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg01",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 5001
+	},
+	{
+		"dungeonName": {
+			"hash": -650134986
+		},
+		"dungeonType": 2,
+		"beginDungeonRoomID": 500201,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			5002
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 418181559
+			},
+			{
+				"hash": -761343989
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 0,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg01",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 5002
+	},
+	{
+		"dungeonName": {
+			"hash": -650134985
+		},
+		"dungeonType": 2,
+		"beginDungeonRoomID": 500301,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			5003
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 418181559
+			},
+			{
+				"hash": -761343988
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 0,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg01",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 5003
+	},
+	{
+		"dungeonName": {
+			"hash": -650134984
+		},
+		"dungeonType": 2,
+		"beginDungeonRoomID": 500401,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			5004
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 418181559
+			},
+			{
+				"hash": -761343987
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 0,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg03",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 5004
+	},
+	{
+		"dungeonName": {
+			"hash": -650134983
+		},
+		"dungeonType": 2,
+		"beginDungeonRoomID": 500501,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			5005
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 418181559
+			},
+			{
+				"hash": -761343986
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 0,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg03",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 5005
+	},
+	{
+		"dungeonName": {
+			"hash": -650134982
+		},
+		"dungeonType": 2,
+		"beginDungeonRoomID": 500601,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			5006
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 418181559
+			},
+			{
+				"hash": -761343985
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 0,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg02",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 5006
+	},
+	{
+		"dungeonName": {
+			"hash": -650134981
+		},
+		"dungeonType": 2,
+		"beginDungeonRoomID": 500701,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			5007
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 418181559
+			},
+			{
+				"hash": -761343984
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 0,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg02",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 5007
+	},
+	{
+		"dungeonName": {
+			"hash": -650105196
+		},
+		"dungeonType": 2,
+		"beginDungeonRoomID": 600101,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			6001
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 418181564
+			},
+			{
+				"hash": -761343990
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 0,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg01",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 6001
+	},
+	{
+		"dungeonName": {
+			"hash": -650105195
+		},
+		"dungeonType": 2,
+		"beginDungeonRoomID": 600201,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			6002
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 418181564
+			},
+			{
+				"hash": -761343989
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 0,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg01",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 6002
+	},
+	{
+		"dungeonName": {
+			"hash": -650105194
+		},
+		"dungeonType": 2,
+		"beginDungeonRoomID": 600301,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			6003
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 418181564
+			},
+			{
+				"hash": -761343988
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 0,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg01",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 6003
+	},
+	{
+		"dungeonName": {
+			"hash": -650105193
+		},
+		"dungeonType": 2,
+		"beginDungeonRoomID": 600401,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			6004
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 418181564
+			},
+			{
+				"hash": -761343987
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 0,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg03",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 6004
+	},
+	{
+		"dungeonName": {
+			"hash": -650105192
+		},
+		"dungeonType": 2,
+		"beginDungeonRoomID": 600501,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			6005
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 418181564
+			},
+			{
+				"hash": -761343986
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 0,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg03",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 6005
+	},
+	{
+		"dungeonName": {
+			"hash": -650105191
+		},
+		"dungeonType": 2,
+		"beginDungeonRoomID": 600601,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			6006
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 418181564
+			},
+			{
+				"hash": -761343985
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 0,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg02",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 6006
+	},
+	{
+		"dungeonName": {
+			"hash": -650105190
+		},
+		"dungeonType": 2,
+		"beginDungeonRoomID": 600701,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			6007
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 418181564
+			},
+			{
+				"hash": -761343984
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 0,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg02",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 6007
+	},
+	{
+		"dungeonName": {
+			"hash": -650075405
+		},
+		"dungeonType": 2,
+		"beginDungeonRoomID": 700101,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			7001
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 418181590
+			},
+			{
+				"hash": -761343990
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 0,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg01",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 7001
+	},
+	{
+		"dungeonName": {
+			"hash": -650075404
+		},
+		"dungeonType": 2,
+		"beginDungeonRoomID": 700201,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			7002
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 418181590
+			},
+			{
+				"hash": -761343989
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 0,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg01",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 7002
+	},
+	{
+		"dungeonName": {
+			"hash": -650075403
+		},
+		"dungeonType": 2,
+		"beginDungeonRoomID": 700301,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			7003
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 418181590
+			},
+			{
+				"hash": -761343988
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 0,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg01",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 7003
+	},
+	{
+		"dungeonName": {
+			"hash": -650075402
+		},
+		"dungeonType": 2,
+		"beginDungeonRoomID": 700401,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			7004
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 418181590
+			},
+			{
+				"hash": -761343987
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 0,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg03",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 7004
+	},
+	{
+		"dungeonName": {
+			"hash": -650075401
+		},
+		"dungeonType": 2,
+		"beginDungeonRoomID": 700501,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			7005
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 418181590
+			},
+			{
+				"hash": -761343986
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 0,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg03",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 7005
+	},
+	{
+		"dungeonName": {
+			"hash": -650075400
+		},
+		"dungeonType": 2,
+		"beginDungeonRoomID": 700601,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			7006
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 418181590
+			},
+			{
+				"hash": -761343985
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 0,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg02",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 7006
+	},
+	{
+		"dungeonName": {
+			"hash": -650075399
+		},
+		"dungeonType": 2,
+		"beginDungeonRoomID": 700701,
+		"roleRestrictList": [],
+		"roleRecommendList": [],
+		"enemyDisplayList": [
+			7007
+		],
+		"ornamentDisplayList": [],
+		"tipDisplayList": [
+			{
+				"hash": 418181590
+			},
+			{
+				"hash": -761343984
+			}
+		],
+		"ornamentPoolID": 10011,
+		"fristDropRewardDisplayList": 0,
+		"rewardDisplayList": 0,
+		"unlockRoleList": [],
+		"unlockWeaponList": [],
+		"recoveryRoomHP": 0.3,
+		"checkEventHP": 0.5,
+		"ornamentChoiceHP": 0.2,
+		"bgPath": "UI/Menus/Widget/DiceyDungeon/Scene/DiceyDungeonBg02",
+		"ornamentRefreshNum": 3,
+		"DataImpl": {},
+		"dungeonID": 7007
+	}
+]

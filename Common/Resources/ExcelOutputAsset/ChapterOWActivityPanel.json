@@ -1,0 +1,122 @@
+[
+	{
+		"MapID": 701,
+		"ItemType": 0,
+		"MaterialType": 1,
+		"MonitorMaterial": 0,
+		"NumberList": [
+			2000,
+			4000,
+			6000,
+			10000,
+			12000,
+			18000,
+			20000
+		],
+		"ItemTilte": {
+			"hash": -851229986
+		},
+		"ItemIconPath": "SpriteOutput/MaterialFigures/CrystalPack3",
+		"ScoreDisplay": {
+			"hash": 44035490
+		},
+		"LinkParam": "<type=\"1076|701;2\" text=\"GO\"/>",
+		"DataImpl": {},
+		"ItemID": 1
+	},
+	{
+		"MapID": 701,
+		"ItemType": 1,
+		"MaterialType": 0,
+		"MonitorMaterial": 21431,
+		"NumberList": [
+			8000
+		],
+		"ItemTilte": {
+			"hash": -851229985
+		},
+		"ItemIconPath": "SpriteOutput/WeaponIcons/Weapon_Cannon_B38_317_4",
+		"ScoreDisplay": {
+			"hash": 0
+		},
+		"LinkParam": "<type=\"1076|701;2\" text=\"GO\"/>",
+		"DataImpl": {},
+		"ItemID": 2
+	},
+	{
+		"MapID": 701,
+		"ItemType": 1,
+		"MaterialType": 2,
+		"MonitorMaterial": 33721,
+		"NumberList": [
+			14000
+		],
+		"ItemTilte": {
+			"hash": -851229984
+		},
+		"ItemIconPath": "",
+		"ScoreDisplay": {
+			"hash": 0
+		},
+		"LinkParam": "<type=\"1076|701;2\" text=\"GO\"/>",
+		"DataImpl": {},
+		"ItemID": 3
+	},
+	{
+		"MapID": 701,
+		"ItemType": 1,
+		"MaterialType": 3,
+		"MonitorMaterial": 50148,
+		"NumberList": [
+			16000
+		],
+		"ItemTilte": {
+			"hash": -851229983
+		},
+		"ItemIconPath": "",
+		"ScoreDisplay": {
+			"hash": 0
+		},
+		"LinkParam": "<type=\"1076|701;2\" text=\"GO\"/>",
+		"DataImpl": {},
+		"ItemID": 4
+	},
+	{
+		"MapID": 701,
+		"ItemType": 1,
+		"MaterialType": 2,
+		"MonitorMaterial": 33731,
+		"NumberList": [
+			22000
+		],
+		"ItemTilte": {
+			"hash": -851229982
+		},
+		"ItemIconPath": "",
+		"ScoreDisplay": {
+			"hash": 0
+		},
+		"LinkParam": "<type=\"1076|701;2\" text=\"GO\"/>",
+		"DataImpl": {},
+		"ItemID": 5
+	},
+	{
+		"MapID": 701,
+		"ItemType": 1,
+		"MaterialType": 3,
+		"MonitorMaterial": 50157,
+		"NumberList": [
+			24000
+		],
+		"ItemTilte": {
+			"hash": -851229981
+		},
+		"ItemIconPath": "",
+		"ScoreDisplay": {
+			"hash": 0
+		},
+		"LinkParam": "<type=\"1076|701;2\" text=\"GO\"/>",
+		"DataImpl": {},
+		"ItemID": 6
+	}
+]

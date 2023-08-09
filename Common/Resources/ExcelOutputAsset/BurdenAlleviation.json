@@ -1,0 +1,1368 @@
+[
+	{
+		"Type": 2,
+		"TypeParam": 0,
+		"TypeParamStrClient": [],
+		"MaxNum": 4,
+		"Priority": 101,
+		"EndTime": {
+			"TimeStampForBakedReader": 1607054399
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1605844800
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_4",
+		"DisplayInfo": "BurdenAlleviation_Display_201",
+		"RewardDisplay": 1454102,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_201",
+		"CloseInfoText": "BurdenAlleviation_Closed_201",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_201",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_201",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 201
+	},
+	{
+		"Type": 1,
+		"TypeParam": 3,
+		"TypeParamStrClient": [
+			10256
+		],
+		"MaxNum": 1,
+		"Priority": 102,
+		"EndTime": {
+			"TimeStampForBakedReader": 1658116799
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1657512000
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_2",
+		"DisplayInfo": "BurdenAlleviation_Display_100",
+		"RewardDisplay": 1454101,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_100",
+		"CloseInfoText": "BurdenAlleviation_Closed_100",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_100",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_100",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 801
+	},
+	{
+		"Type": 1,
+		"TypeParam": 3,
+		"TypeParamStrClient": [
+			10257
+		],
+		"MaxNum": 1,
+		"Priority": 102,
+		"EndTime": {
+			"TimeStampForBakedReader": 1658721599
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1658116800
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_2",
+		"DisplayInfo": "BurdenAlleviation_Display_100",
+		"RewardDisplay": 1454101,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_100",
+		"CloseInfoText": "BurdenAlleviation_Closed_100",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_100",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_100",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 802
+	},
+	{
+		"Type": 1,
+		"TypeParam": 3,
+		"TypeParamStrClient": [
+			10258
+		],
+		"MaxNum": 1,
+		"Priority": 102,
+		"EndTime": {
+			"TimeStampForBakedReader": 1659326399
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1658721600
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_2",
+		"DisplayInfo": "BurdenAlleviation_Display_100",
+		"RewardDisplay": 1454101,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_100",
+		"CloseInfoText": "BurdenAlleviation_Closed_100",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_100",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_100",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 803
+	},
+	{
+		"Type": 1,
+		"TypeParam": 3,
+		"TypeParamStrClient": [
+			10259
+		],
+		"MaxNum": 1,
+		"Priority": 102,
+		"EndTime": {
+			"TimeStampForBakedReader": 1659931199
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1659326400
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_2",
+		"DisplayInfo": "BurdenAlleviation_Display_100",
+		"RewardDisplay": 1454101,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_100",
+		"CloseInfoText": "BurdenAlleviation_Closed_100",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_100",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_100",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 804
+	},
+	{
+		"Type": 3,
+		"TypeParam": 3050,
+		"TypeParamStrClient": [
+			1454103
+		],
+		"MaxNum": 1,
+		"Priority": 99,
+		"EndTime": {
+			"TimeStampForBakedReader": 1658721599
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1658116800
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_1",
+		"DisplayInfo": "BurdenAlleviation_Display_300",
+		"RewardDisplay": 1454103,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_300",
+		"CloseInfoText": "BurdenAlleviation_Closed_300",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_300",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_300",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 805
+	},
+	{
+		"Type": 4,
+		"TypeParam": 36021,
+		"TypeParamStrClient": [
+			370021,
+			370022,
+			370023
+		],
+		"MaxNum": 1,
+		"Priority": 100,
+		"EndTime": {
+			"TimeStampForBakedReader": 1658116799
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1657512000
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_3",
+		"DisplayInfo": "BurdenAlleviation_Display_400",
+		"RewardDisplay": 1454104,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_400",
+		"CloseInfoText": "BurdenAlleviation_Closed_400",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_400",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_400",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 806
+	},
+	{
+		"Type": 4,
+		"TypeParam": 36020,
+		"TypeParamStrClient": [
+			370001,
+			370002,
+			370003
+		],
+		"MaxNum": 1,
+		"Priority": 100,
+		"EndTime": {
+			"TimeStampForBakedReader": 1658116799
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1657512000
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_3",
+		"DisplayInfo": "BurdenAlleviation_Display_400",
+		"RewardDisplay": 1454103,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_400",
+		"CloseInfoText": "BurdenAlleviation_Closed_400",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_400",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_400",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 807
+	},
+	{
+		"Type": 4,
+		"TypeParam": 36021,
+		"TypeParamStrClient": [
+			370021,
+			370022,
+			370023
+		],
+		"MaxNum": 1,
+		"Priority": 100,
+		"EndTime": {
+			"TimeStampForBakedReader": 1659326399
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1658721600
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_3",
+		"DisplayInfo": "BurdenAlleviation_Display_400",
+		"RewardDisplay": 1454104,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_400",
+		"CloseInfoText": "BurdenAlleviation_Closed_400",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_400",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_400",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 808
+	},
+	{
+		"Type": 4,
+		"TypeParam": 36019,
+		"TypeParamStrClient": [
+			369011,
+			369012,
+			369013
+		],
+		"MaxNum": 1,
+		"Priority": 100,
+		"EndTime": {
+			"TimeStampForBakedReader": 1659326399
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1658721600
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_3",
+		"DisplayInfo": "BurdenAlleviation_Display_400",
+		"RewardDisplay": 1454103,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_400",
+		"CloseInfoText": "BurdenAlleviation_Closed_400",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_400",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_400",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 809
+	},
+	{
+		"Type": 4,
+		"TypeParam": 36022,
+		"TypeParamStrClient": [
+			370031,
+			370032,
+			370033
+		],
+		"MaxNum": 1,
+		"Priority": 100,
+		"EndTime": {
+			"TimeStampForBakedReader": 1659931199
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1659326400
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_3",
+		"DisplayInfo": "BurdenAlleviation_Display_400",
+		"RewardDisplay": 1454104,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_400",
+		"CloseInfoText": "BurdenAlleviation_Closed_400",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_400",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_400",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 810
+	},
+	{
+		"Type": 4,
+		"TypeParam": 36020,
+		"TypeParamStrClient": [
+			370001,
+			370002,
+			370003
+		],
+		"MaxNum": 1,
+		"Priority": 100,
+		"EndTime": {
+			"TimeStampForBakedReader": 1659931199
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1659326400
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_3",
+		"DisplayInfo": "BurdenAlleviation_Display_400",
+		"RewardDisplay": 1454103,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_400",
+		"CloseInfoText": "BurdenAlleviation_Closed_400",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_400",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_400",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 811
+	},
+	{
+		"Type": 5,
+		"TypeParam": 42000004,
+		"TypeParamStrClient": [],
+		"MaxNum": 3,
+		"Priority": 101,
+		"EndTime": {
+			"TimeStampForBakedReader": 1658116799
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1657512000
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_5",
+		"DisplayInfo": "BurdenAlleviation_Display_500",
+		"RewardDisplay": 1454105,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_500",
+		"CloseInfoText": "BurdenAlleviation_Closed_500",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_500",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_500",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 812
+	},
+	{
+		"Type": 5,
+		"TypeParam": 42000005,
+		"TypeParamStrClient": [],
+		"MaxNum": 3,
+		"Priority": 101,
+		"EndTime": {
+			"TimeStampForBakedReader": 1658721599
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1658116800
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_5",
+		"DisplayInfo": "BurdenAlleviation_Display_500",
+		"RewardDisplay": 1454105,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_500",
+		"CloseInfoText": "BurdenAlleviation_Closed_500",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_500",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_500",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 813
+	},
+	{
+		"Type": 5,
+		"TypeParam": 42000006,
+		"TypeParamStrClient": [],
+		"MaxNum": 3,
+		"Priority": 101,
+		"EndTime": {
+			"TimeStampForBakedReader": 1659326399
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1658721600
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_5",
+		"DisplayInfo": "BurdenAlleviation_Display_500",
+		"RewardDisplay": 1454105,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_500",
+		"CloseInfoText": "BurdenAlleviation_Closed_500",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_500",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_500",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 814
+	},
+	{
+		"Type": 5,
+		"TypeParam": 42000007,
+		"TypeParamStrClient": [],
+		"MaxNum": 3,
+		"Priority": 101,
+		"EndTime": {
+			"TimeStampForBakedReader": 1659931199
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1659326400
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_5",
+		"DisplayInfo": "BurdenAlleviation_Display_500",
+		"RewardDisplay": 1454105,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_500",
+		"CloseInfoText": "BurdenAlleviation_Closed_500",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_500",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_500",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 815
+	},
+	{
+		"Type": 4,
+		"TypeParam": 36022,
+		"TypeParamStrClient": [
+			370031,
+			370032,
+			370033
+		],
+		"MaxNum": 1,
+		"Priority": 100,
+		"EndTime": {
+			"TimeStampForBakedReader": 1658721599
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1658116800
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_3",
+		"DisplayInfo": "BurdenAlleviation_Display_400",
+		"RewardDisplay": 1454104,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_400",
+		"CloseInfoText": "BurdenAlleviation_Closed_400",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_400",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_400",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 816
+	},
+	{
+		"Type": 1,
+		"TypeParam": 3,
+		"TypeParamStrClient": [
+			10262
+		],
+		"MaxNum": 1,
+		"Priority": 102,
+		"EndTime": {
+			"TimeStampForBakedReader": 1661745599
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1661140800
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_2",
+		"DisplayInfo": "BurdenAlleviation_Display_100",
+		"RewardDisplay": 1454101,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_100",
+		"CloseInfoText": "BurdenAlleviation_Closed_100",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_100",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_100",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 817
+	},
+	{
+		"Type": 1,
+		"TypeParam": 3,
+		"TypeParamStrClient": [
+			10263
+		],
+		"MaxNum": 1,
+		"Priority": 102,
+		"EndTime": {
+			"TimeStampForBakedReader": 1662350399
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1661745600
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_2",
+		"DisplayInfo": "BurdenAlleviation_Display_100",
+		"RewardDisplay": 1454101,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_100",
+		"CloseInfoText": "BurdenAlleviation_Closed_100",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_100",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_100",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 818
+	},
+	{
+		"Type": 1,
+		"TypeParam": 3,
+		"TypeParamStrClient": [
+			10264
+		],
+		"MaxNum": 1,
+		"Priority": 102,
+		"EndTime": {
+			"TimeStampForBakedReader": 1662955199
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1662350400
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_2",
+		"DisplayInfo": "BurdenAlleviation_Display_100",
+		"RewardDisplay": 1454101,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_100",
+		"CloseInfoText": "BurdenAlleviation_Closed_100",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_100",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_100",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 819
+	},
+	{
+		"Type": 3,
+		"TypeParam": 3040,
+		"TypeParamStrClient": [
+			1454103
+		],
+		"MaxNum": 1,
+		"Priority": 99,
+		"EndTime": {
+			"TimeStampForBakedReader": 1662350399
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1661745600
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_1",
+		"DisplayInfo": "BurdenAlleviation_Display_300",
+		"RewardDisplay": 1454103,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_300",
+		"CloseInfoText": "BurdenAlleviation_Closed_300",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_300",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_300",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 820
+	},
+	{
+		"Type": 4,
+		"TypeParam": 36021,
+		"TypeParamStrClient": [
+			370021,
+			370022,
+			370023
+		],
+		"MaxNum": 1,
+		"Priority": 100,
+		"EndTime": {
+			"TimeStampForBakedReader": 1661745599
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1661140800
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_3",
+		"DisplayInfo": "BurdenAlleviation_Display_400",
+		"RewardDisplay": 1454104,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_400",
+		"CloseInfoText": "BurdenAlleviation_Closed_400",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_400",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_400",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 821
+	},
+	{
+		"Type": 4,
+		"TypeParam": 36020,
+		"TypeParamStrClient": [
+			370001,
+			370002,
+			370003
+		],
+		"MaxNum": 1,
+		"Priority": 100,
+		"EndTime": {
+			"TimeStampForBakedReader": 1661745599
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1661140800
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_3",
+		"DisplayInfo": "BurdenAlleviation_Display_400",
+		"RewardDisplay": 1454104,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_400",
+		"CloseInfoText": "BurdenAlleviation_Closed_400",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_400",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_400",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 822
+	},
+	{
+		"Type": 4,
+		"TypeParam": 36022,
+		"TypeParamStrClient": [
+			370031,
+			370032,
+			370033
+		],
+		"MaxNum": 1,
+		"Priority": 100,
+		"EndTime": {
+			"TimeStampForBakedReader": 1662350399
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1661745600
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_3",
+		"DisplayInfo": "BurdenAlleviation_Display_400",
+		"RewardDisplay": 1454104,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_400",
+		"CloseInfoText": "BurdenAlleviation_Closed_400",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_400",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_400",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 823
+	},
+	{
+		"Type": 4,
+		"TypeParam": 36021,
+		"TypeParamStrClient": [
+			370021,
+			370022,
+			370023
+		],
+		"MaxNum": 1,
+		"Priority": 100,
+		"EndTime": {
+			"TimeStampForBakedReader": 1662955199
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1662350400
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_3",
+		"DisplayInfo": "BurdenAlleviation_Display_400",
+		"RewardDisplay": 1454104,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_400",
+		"CloseInfoText": "BurdenAlleviation_Closed_400",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_400",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_400",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 824
+	},
+	{
+		"Type": 4,
+		"TypeParam": 36019,
+		"TypeParamStrClient": [
+			369011,
+			369012,
+			369013
+		],
+		"MaxNum": 1,
+		"Priority": 100,
+		"EndTime": {
+			"TimeStampForBakedReader": 1662955199
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1662350400
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_3",
+		"DisplayInfo": "BurdenAlleviation_Display_400",
+		"RewardDisplay": 1454103,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_400",
+		"CloseInfoText": "BurdenAlleviation_Closed_400",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_400",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_400",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 825
+	},
+	{
+		"Type": 5,
+		"TypeParam": 42000003,
+		"TypeParamStrClient": [],
+		"MaxNum": 3,
+		"Priority": 101,
+		"EndTime": {
+			"TimeStampForBakedReader": 1661745599
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1661140800
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_5",
+		"DisplayInfo": "BurdenAlleviation_Display_500",
+		"RewardDisplay": 1454105,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_500",
+		"CloseInfoText": "BurdenAlleviation_Closed_500",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_500",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_500",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 826
+	},
+	{
+		"Type": 5,
+		"TypeParam": 42000004,
+		"TypeParamStrClient": [],
+		"MaxNum": 3,
+		"Priority": 101,
+		"EndTime": {
+			"TimeStampForBakedReader": 1662350399
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1661745600
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_5",
+		"DisplayInfo": "BurdenAlleviation_Display_500",
+		"RewardDisplay": 1454105,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_500",
+		"CloseInfoText": "BurdenAlleviation_Closed_500",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_500",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_500",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 827
+	},
+	{
+		"Type": 5,
+		"TypeParam": 42000005,
+		"TypeParamStrClient": [],
+		"MaxNum": 3,
+		"Priority": 101,
+		"EndTime": {
+			"TimeStampForBakedReader": 1662955199
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1662350400
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_5",
+		"DisplayInfo": "BurdenAlleviation_Display_500",
+		"RewardDisplay": 1454105,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_500",
+		"CloseInfoText": "BurdenAlleviation_Closed_500",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_500",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_500",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 828
+	},
+	{
+		"Type": 1,
+		"TypeParam": 3,
+		"TypeParamStrClient": [
+			10267
+		],
+		"MaxNum": 1,
+		"Priority": 102,
+		"EndTime": {
+			"TimeStampForBakedReader": 1664769599
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1664164800
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_2",
+		"DisplayInfo": "BurdenAlleviation_Display_100",
+		"RewardDisplay": 1454101,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_100",
+		"CloseInfoText": "BurdenAlleviation_Closed_100",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_100",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_100",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 829
+	},
+	{
+		"Type": 1,
+		"TypeParam": 3,
+		"TypeParamStrClient": [
+			10268
+		],
+		"MaxNum": 1,
+		"Priority": 102,
+		"EndTime": {
+			"TimeStampForBakedReader": 1665374399
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1664769600
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_2",
+		"DisplayInfo": "BurdenAlleviation_Display_100",
+		"RewardDisplay": 1454101,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_100",
+		"CloseInfoText": "BurdenAlleviation_Closed_100",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_100",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_100",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 830
+	},
+	{
+		"Type": 1,
+		"TypeParam": 3,
+		"TypeParamStrClient": [
+			10269
+		],
+		"MaxNum": 1,
+		"Priority": 102,
+		"EndTime": {
+			"TimeStampForBakedReader": 1665979199
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1665374400
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_2",
+		"DisplayInfo": "BurdenAlleviation_Display_100",
+		"RewardDisplay": 1454101,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_100",
+		"CloseInfoText": "BurdenAlleviation_Closed_100",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_100",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_100",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 831
+	},
+	{
+		"Type": 1,
+		"TypeParam": 3,
+		"TypeParamStrClient": [
+			10270
+		],
+		"MaxNum": 1,
+		"Priority": 102,
+		"EndTime": {
+			"TimeStampForBakedReader": 1666583999
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1665979200
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_2",
+		"DisplayInfo": "BurdenAlleviation_Display_100",
+		"RewardDisplay": 1454101,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_100",
+		"CloseInfoText": "BurdenAlleviation_Closed_100",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_100",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_100",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 832
+	},
+	{
+		"Type": 3,
+		"TypeParam": 3020,
+		"TypeParamStrClient": [
+			1454103
+		],
+		"MaxNum": 1,
+		"Priority": 99,
+		"EndTime": {
+			"TimeStampForBakedReader": 1665979199
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1665374400
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_1",
+		"DisplayInfo": "BurdenAlleviation_Display_300",
+		"RewardDisplay": 1454103,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_300",
+		"CloseInfoText": "BurdenAlleviation_Closed_300",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_300",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_300",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 833
+	},
+	{
+		"Type": 4,
+		"TypeParam": 36022,
+		"TypeParamStrClient": [
+			370031,
+			370032,
+			370033
+		],
+		"MaxNum": 1,
+		"Priority": 100,
+		"EndTime": {
+			"TimeStampForBakedReader": 1664769599
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1664164800
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_3",
+		"DisplayInfo": "BurdenAlleviation_Display_400",
+		"RewardDisplay": 1454104,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_400",
+		"CloseInfoText": "BurdenAlleviation_Closed_400",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_400",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_400",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 834
+	},
+	{
+		"Type": 4,
+		"TypeParam": 36019,
+		"TypeParamStrClient": [
+			369011,
+			369012,
+			369013
+		],
+		"MaxNum": 1,
+		"Priority": 100,
+		"EndTime": {
+			"TimeStampForBakedReader": 1664769599
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1664164800
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_3",
+		"DisplayInfo": "BurdenAlleviation_Display_400",
+		"RewardDisplay": 1454104,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_400",
+		"CloseInfoText": "BurdenAlleviation_Closed_400",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_400",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_400",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 835
+	},
+	{
+		"Type": 4,
+		"TypeParam": 36021,
+		"TypeParamStrClient": [
+			370021,
+			370022,
+			370023
+		],
+		"MaxNum": 1,
+		"Priority": 100,
+		"EndTime": {
+			"TimeStampForBakedReader": 1665374399
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1664769600
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_3",
+		"DisplayInfo": "BurdenAlleviation_Display_400",
+		"RewardDisplay": 1454104,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_400",
+		"CloseInfoText": "BurdenAlleviation_Closed_400",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_400",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_400",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 836
+	},
+	{
+		"Type": 4,
+		"TypeParam": 36020,
+		"TypeParamStrClient": [
+			370001,
+			370002,
+			370003
+		],
+		"MaxNum": 1,
+		"Priority": 100,
+		"EndTime": {
+			"TimeStampForBakedReader": 1665374399
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1664769600
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_3",
+		"DisplayInfo": "BurdenAlleviation_Display_400",
+		"RewardDisplay": 1454103,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_400",
+		"CloseInfoText": "BurdenAlleviation_Closed_400",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_400",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_400",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 837
+	},
+	{
+		"Type": 4,
+		"TypeParam": 36022,
+		"TypeParamStrClient": [
+			370031,
+			370032,
+			370033
+		],
+		"MaxNum": 1,
+		"Priority": 100,
+		"EndTime": {
+			"TimeStampForBakedReader": 1665979199
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1665374400
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_3",
+		"DisplayInfo": "BurdenAlleviation_Display_400",
+		"RewardDisplay": 1454104,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_400",
+		"CloseInfoText": "BurdenAlleviation_Closed_400",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_400",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_400",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 838
+	},
+	{
+		"Type": 4,
+		"TypeParam": 36021,
+		"TypeParamStrClient": [
+			370021,
+			370022,
+			370023
+		],
+		"MaxNum": 1,
+		"Priority": 100,
+		"EndTime": {
+			"TimeStampForBakedReader": 1666583999
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1665979200
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_3",
+		"DisplayInfo": "BurdenAlleviation_Display_400",
+		"RewardDisplay": 1454104,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_400",
+		"CloseInfoText": "BurdenAlleviation_Closed_400",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_400",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_400",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 839
+	},
+	{
+		"Type": 4,
+		"TypeParam": 36019,
+		"TypeParamStrClient": [
+			369011,
+			369012,
+			369013
+		],
+		"MaxNum": 1,
+		"Priority": 100,
+		"EndTime": {
+			"TimeStampForBakedReader": 1666583999
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1665979200
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_3",
+		"DisplayInfo": "BurdenAlleviation_Display_400",
+		"RewardDisplay": 1454103,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_400",
+		"CloseInfoText": "BurdenAlleviation_Closed_400",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_400",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_400",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 840
+	},
+	{
+		"Type": 5,
+		"TypeParam": 42000001,
+		"TypeParamStrClient": [],
+		"MaxNum": 3,
+		"Priority": 101,
+		"EndTime": {
+			"TimeStampForBakedReader": 1664769599
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1664164800
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_5",
+		"DisplayInfo": "BurdenAlleviation_Display_500",
+		"RewardDisplay": 1454105,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_500",
+		"CloseInfoText": "BurdenAlleviation_Closed_500",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_500",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_500",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 841
+	},
+	{
+		"Type": 5,
+		"TypeParam": 42000002,
+		"TypeParamStrClient": [],
+		"MaxNum": 3,
+		"Priority": 101,
+		"EndTime": {
+			"TimeStampForBakedReader": 1665374399
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1664769600
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_5",
+		"DisplayInfo": "BurdenAlleviation_Display_500",
+		"RewardDisplay": 1454105,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_500",
+		"CloseInfoText": "BurdenAlleviation_Closed_500",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_500",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_500",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 842
+	},
+	{
+		"Type": 5,
+		"TypeParam": 42000003,
+		"TypeParamStrClient": [],
+		"MaxNum": 3,
+		"Priority": 101,
+		"EndTime": {
+			"TimeStampForBakedReader": 1665979199
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1665374400
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_5",
+		"DisplayInfo": "BurdenAlleviation_Display_500",
+		"RewardDisplay": 1454105,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_500",
+		"CloseInfoText": "BurdenAlleviation_Closed_500",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_500",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_500",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 843
+	},
+	{
+		"Type": 5,
+		"TypeParam": 42000004,
+		"TypeParamStrClient": [],
+		"MaxNum": 3,
+		"Priority": 101,
+		"EndTime": {
+			"TimeStampForBakedReader": 1666583999
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1665979200
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_5",
+		"DisplayInfo": "BurdenAlleviation_Display_500",
+		"RewardDisplay": 1454105,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_500",
+		"CloseInfoText": "BurdenAlleviation_Closed_500",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_500",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_500",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 844
+	},
+	{
+		"Type": 1,
+		"TypeParam": 3,
+		"TypeParamStrClient": [
+			10252
+		],
+		"MaxNum": 1,
+		"Priority": 102,
+		"EndTime": {
+			"TimeStampForBakedReader": 1655697599
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1655092800
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_2",
+		"DisplayInfo": "BurdenAlleviation_Display_100",
+		"RewardDisplay": 1454101,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_100",
+		"CloseInfoText": "BurdenAlleviation_Closed_100",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_100",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_100",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 952
+	},
+	{
+		"Type": 1,
+		"TypeParam": 3,
+		"TypeParamStrClient": [
+			10253
+		],
+		"MaxNum": 1,
+		"Priority": 102,
+		"EndTime": {
+			"TimeStampForBakedReader": 1656302399
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1655697600
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_2",
+		"DisplayInfo": "BurdenAlleviation_Display_100",
+		"RewardDisplay": 1454101,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_100",
+		"CloseInfoText": "BurdenAlleviation_Closed_100",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_100",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_100",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 953
+	},
+	{
+		"Type": 2,
+		"TypeParam": 0,
+		"TypeParamStrClient": [],
+		"MaxNum": 4,
+		"Priority": 103,
+		"EndTime": {
+			"TimeStampForBakedReader": 1656302399
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1655092800
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_4",
+		"DisplayInfo": "BurdenAlleviation_Display_200",
+		"RewardDisplay": 1454102,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_200",
+		"CloseInfoText": "BurdenAlleviation_Closed_200",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_200",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_200",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 961
+	},
+	{
+		"Type": 4,
+		"TypeParam": 36021,
+		"TypeParamStrClient": [
+			370021,
+			370022,
+			370023
+		],
+		"MaxNum": 1,
+		"Priority": 100,
+		"EndTime": {
+			"TimeStampForBakedReader": 1655697599
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1655092800
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_3",
+		"DisplayInfo": "BurdenAlleviation_Display_400",
+		"RewardDisplay": 1454104,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_400",
+		"CloseInfoText": "BurdenAlleviation_Closed_400",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_400",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_400",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 981
+	},
+	{
+		"Type": 4,
+		"TypeParam": 36019,
+		"TypeParamStrClient": [
+			369011,
+			369012,
+			369013
+		],
+		"MaxNum": 1,
+		"Priority": 100,
+		"EndTime": {
+			"TimeStampForBakedReader": 1655697599
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1655092800
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_3",
+		"DisplayInfo": "BurdenAlleviation_Display_400",
+		"RewardDisplay": 1454103,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_400",
+		"CloseInfoText": "BurdenAlleviation_Closed_400",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_400",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_400",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 982
+	},
+	{
+		"Type": 4,
+		"TypeParam": 36022,
+		"TypeParamStrClient": [
+			370031,
+			370032,
+			370033
+		],
+		"MaxNum": 1,
+		"Priority": 100,
+		"EndTime": {
+			"TimeStampForBakedReader": 1656302399
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1655697600
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_3",
+		"DisplayInfo": "BurdenAlleviation_Display_400",
+		"RewardDisplay": 1454104,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_400",
+		"CloseInfoText": "BurdenAlleviation_Closed_400",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_400",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_400",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 983
+	},
+	{
+		"Type": 4,
+		"TypeParam": 36020,
+		"TypeParamStrClient": [
+			370001,
+			370002,
+			370003
+		],
+		"MaxNum": 1,
+		"Priority": 100,
+		"EndTime": {
+			"TimeStampForBakedReader": 1656302399
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1655697600
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_3",
+		"DisplayInfo": "BurdenAlleviation_Display_400",
+		"RewardDisplay": 1454103,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_400",
+		"CloseInfoText": "BurdenAlleviation_Closed_400",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_400",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_400",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 984
+	},
+	{
+		"Type": 5,
+		"TypeParam": 42000007,
+		"TypeParamStrClient": [],
+		"MaxNum": 3,
+		"Priority": 101,
+		"EndTime": {
+			"TimeStampForBakedReader": 1655697599
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1655092800
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_5",
+		"DisplayInfo": "BurdenAlleviation_Display_500",
+		"RewardDisplay": 1454105,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_500",
+		"CloseInfoText": "BurdenAlleviation_Closed_500",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_500",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_500",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 992
+	},
+	{
+		"Type": 5,
+		"TypeParam": 42000001,
+		"TypeParamStrClient": [],
+		"MaxNum": 3,
+		"Priority": 101,
+		"EndTime": {
+			"TimeStampForBakedReader": 1656302399
+		},
+		"BeginTime": {
+			"TimeStampForBakedReader": 1655697600
+		},
+		"BGPath": "SpriteOutput/ChapterCover/Event/BurdenAlleviation_Cover_5",
+		"DisplayInfo": "BurdenAlleviation_Display_500",
+		"RewardDisplay": 1454105,
+		"NotOpenInfoText": "BurdenAlleviation_NotOpen_500",
+		"CloseInfoText": "BurdenAlleviation_Closed_500",
+		"BurdenDialogTitle": "BurdenAlleviation_DialogTitle_500",
+		"BurdenDialogDesc": "BurdenAlleviation_DialogDesc_500",
+		"ShowPopup": 0,
+		"DataImpl": {},
+		"ID": 993
+	}
+]

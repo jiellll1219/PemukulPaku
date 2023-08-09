@@ -1,0 +1,968 @@
+[
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [
+			"E_VO_Rogue_Support_Ely_3",
+			"E_VO_Rogue_Support_Ely_4"
+		],
+		"StageSkillImage": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Elysia",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 1312555888
+		},
+		"StageSkillDesc": {
+			"hash": 1030135286
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 1
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [
+			"E_VO_Rogue_Support_Ede_1",
+			"E_VO_Rogue_Support_Ede_2",
+			"E_VO_Rogue_Support_Ede_3",
+			"E_VO_Rogue_Support_Ede_4",
+			"E_VO_Rogue_Support_Ede_5"
+		],
+		"StageSkillImage": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Eden",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 1312555889
+		},
+		"StageSkillDesc": {
+			"hash": 1030135287
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 2
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [
+			"E_VO_Rogue_Support_Kal_1",
+			"E_VO_Rogue_Support_Kal_2",
+			"E_VO_Rogue_Support_Kal_3",
+			"E_VO_Rogue_Support_Kal_4"
+		],
+		"StageSkillImage": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Kalpas",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 1312555890
+		},
+		"StageSkillDesc": {
+			"hash": 1030135288
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 3
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [
+			"E_VO_Rogue_Support_Kev_1",
+			"E_VO_Rogue_Support_Kev_2",
+			"E_VO_Rogue_Support_Kev_3"
+		],
+		"StageSkillImage": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Kevin",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 1312555891
+		},
+		"StageSkillDesc": {
+			"hash": 1030135289
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 4
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [
+			"E_VO_Rogue_Support_Sak_1",
+			"E_VO_Rogue_Support_Sak_2",
+			"E_VO_Rogue_Support_Sak_3"
+		],
+		"StageSkillImage": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Sakura",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 1312555892
+		},
+		"StageSkillDesc": {
+			"hash": 1030135290
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 5
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [
+			"E_VO_Rogue_Support_Fuk_1",
+			"E_VO_Rogue_Support_Fuk_2",
+			"E_VO_Rogue_Support_Fuk_3"
+		],
+		"StageSkillImage": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Hua",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 1312555893
+		},
+		"StageSkillDesc": {
+			"hash": 1030135291
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 6
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [
+			"E_VO_Rogue_Support_Su_1",
+			"E_VO_Rogue_Support_Su_2",
+			"E_VO_Rogue_Support_Su_3"
+		],
+		"StageSkillImage": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Su",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 1312555894
+		},
+		"StageSkillDesc": {
+			"hash": 1030135292
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 7
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [
+			"E_VO_Rogue_Support_Mob_1",
+			"E_VO_Rogue_Support_Mob_2",
+			"E_VO_Rogue_Support_Mob_3",
+			"E_VO_Rogue_Support_Mob_4"
+		],
+		"StageSkillImage": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Mobius",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 1312555895
+		},
+		"StageSkillDesc": {
+			"hash": 1030135293
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 8
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [],
+		"StageSkillImage": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Elf_12",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 1312555896
+		},
+		"StageSkillDesc": {
+			"hash": 1030135294
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 9
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [
+			"E_VO_Rogue_Support_Kev_1",
+			"E_VO_Rogue_Support_Kev_2",
+			"E_VO_Rogue_Support_Kev_3"
+		],
+		"StageSkillImage": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Kevin",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 970369219
+		},
+		"StageSkillDesc": {
+			"hash": 1219147901
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 5601
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [
+			"E_VO_Rogue_Support_Ely_3",
+			"E_VO_Rogue_Support_Ely_4"
+		],
+		"StageSkillImage": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Elysia",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 970369220
+		},
+		"StageSkillDesc": {
+			"hash": 1219147902
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 5602
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [
+			"E_VO_Rogue_Support_Apo_1",
+			"E_VO_Rogue_Support_Apo_2",
+			"E_VO_Rogue_Support_Apo_3"
+		],
+		"StageSkillImage": "SpriteOutput/Rogue/GodCloseUp/RougeGod_Aponia",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 970369221
+		},
+		"StageSkillDesc": {
+			"hash": 1219147903
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 5603
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [
+			"E_VO_Rogue_Support_Ede_1",
+			"E_VO_Rogue_Support_Ede_2",
+			"E_VO_Rogue_Support_Ede_3",
+			"E_VO_Rogue_Support_Ede_4",
+			"E_VO_Rogue_Support_Ede_5"
+		],
+		"StageSkillImage": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Eden",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 970369222
+		},
+		"StageSkillDesc": {
+			"hash": 1219147904
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 5604
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [
+			"E_VO_Rogue_Support_Vil_1",
+			"E_VO_Rogue_Support_Vil_2",
+			"E_VO_Rogue_Support_Vil_3"
+		],
+		"StageSkillImage": "SpriteOutput/Rogue/GodCloseUp/RougeGod_VillV01",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 970369223
+		},
+		"StageSkillDesc": {
+			"hash": 1219147905
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 5605
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [
+			"E_VO_Rogue_Support_Kal_1",
+			"E_VO_Rogue_Support_Kal_2",
+			"E_VO_Rogue_Support_Kal_3",
+			"E_VO_Rogue_Support_Kal_4"
+		],
+		"StageSkillImage": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Kalpas",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 970369224
+		},
+		"StageSkillDesc": {
+			"hash": 1219147906
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 5606
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [
+			"E_VO_Rogue_Support_Su_1",
+			"E_VO_Rogue_Support_Su_2",
+			"E_VO_Rogue_Support_Su_3"
+		],
+		"StageSkillImage": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Su",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 970369225
+		},
+		"StageSkillDesc": {
+			"hash": 1219147907
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 5607
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [
+			"E_VO_Rogue_Support_Sak_1",
+			"E_VO_Rogue_Support_Sak_2",
+			"E_VO_Rogue_Support_Sak_3"
+		],
+		"StageSkillImage": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Sakura",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 970369226
+		},
+		"StageSkillDesc": {
+			"hash": 1219147908
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 5608
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [
+			"E_VO_Rogue_Support_Kos_1",
+			"E_VO_Rogue_Support_Kos_2",
+			"E_VO_Rogue_Support_Kos_3"
+		],
+		"StageSkillImage": "SpriteOutput/Rogue/GodCloseUp/RougeGod_Kosma",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 970369227
+		},
+		"StageSkillDesc": {
+			"hash": 1219147909
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 5609
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [
+			"E_VO_Rogue_Support_Mob_1",
+			"E_VO_Rogue_Support_Mob_2",
+			"E_VO_Rogue_Support_Mob_3",
+			"E_VO_Rogue_Support_Mob_4"
+		],
+		"StageSkillImage": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Mobius",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 970369249
+		},
+		"StageSkillDesc": {
+			"hash": 1219147931
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 5610
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [
+			"E_VO_Rogue_Support_Gri_1",
+			"E_VO_Rogue_Support_Gri_2"
+		],
+		"StageSkillImage": "SpriteOutput/Rogue/GodCloseUp/RougeGod_Griseo1",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 970369250
+		},
+		"StageSkillDesc": {
+			"hash": 1219147932
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 5611
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [
+			"E_VO_Rogue_Support_Fuk_1",
+			"E_VO_Rogue_Support_Fuk_2",
+			"E_VO_Rogue_Support_Fuk_3"
+		],
+		"StageSkillImage": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Hua",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 970369251
+		},
+		"StageSkillDesc": {
+			"hash": 1219147933
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 5612
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [
+			"E_VO_Rogue_Support_Par_1",
+			"E_VO_Rogue_Support_Par_2",
+			"E_VO_Rogue_Support_Par_3"
+		],
+		"StageSkillImage": "SpriteOutput/Rogue/GodCloseUp/RougeGod_Pardofelis",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 970369252
+		},
+		"StageSkillDesc": {
+			"hash": 1219147934
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 5613
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [
+			"E_VO_Main_Dialog_30227_Vill-V"
+		],
+		"StageSkillImage": "SpriteOutput/Chapter29/Card/Su",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 1125503318
+		},
+		"StageSkillDesc": {
+			"hash": 1374282000
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 5701
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [
+			"E_VO_Main_Dialog_30228_Vill-V"
+		],
+		"StageSkillImage": "SpriteOutput/Chapter29/Card/Kevin",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 1125503319
+		},
+		"StageSkillDesc": {
+			"hash": 1374282001
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 5702
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [
+			"E_VO_Main_Dialog_30229_Vill-V"
+		],
+		"StageSkillImage": "SpriteOutput/Chapter29/Card/Aponia",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 1125503320
+		},
+		"StageSkillDesc": {
+			"hash": 1374282002
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 5703
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [
+			"E_VO_Main_Dialog_30230_Vill-V"
+		],
+		"StageSkillImage": "SpriteOutput/Chapter29/Card/AvatarKosma",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 1125503321
+		},
+		"StageSkillDesc": {
+			"hash": 1374282003
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 5704
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [
+			"E_VO_Main_Dialog_30231_Vill-V"
+		],
+		"StageSkillImage": "SpriteOutput/Chapter29/Card/Mobius",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 1125503322
+		},
+		"StageSkillDesc": {
+			"hash": 1374282004
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 5705
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [
+			"E_VO_Main_Dialog_32625_Vill-V",
+			"E_VO_Main_Dialog_31667_Vill-V"
+		],
+		"StageSkillImage": "SpriteOutput/Chapter29/Card/AvatarVillV01",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 1125503323
+		},
+		"StageSkillDesc": {
+			"hash": 1374282005
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 5706
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [],
+		"StageSkillImage": "SpriteOutput/Chapter29/Card/Su",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 1125503318
+		},
+		"StageSkillDesc": {
+			"hash": 1374282000
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 5711
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [],
+		"StageSkillImage": "SpriteOutput/Chapter29/Card/Kevin",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 1125503319
+		},
+		"StageSkillDesc": {
+			"hash": 1374282001
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 5712
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [],
+		"StageSkillImage": "SpriteOutput/Chapter29/Card/Aponia",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 1125503320
+		},
+		"StageSkillDesc": {
+			"hash": 1374282002
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 5713
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [],
+		"StageSkillImage": "SpriteOutput/Chapter29/Card/AvatarKosma",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 1125503321
+		},
+		"StageSkillDesc": {
+			"hash": 1374282003
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 5714
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [],
+		"StageSkillImage": "SpriteOutput/Chapter29/Card/Mobius",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 1125503322
+		},
+		"StageSkillDesc": {
+			"hash": 1374282004
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 5715
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [
+			"E_VO_Main_Dialog_32500_Vill-V"
+		],
+		"StageSkillImage": "SpriteOutput/Chapter29/Card/Su",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 1125504279
+		},
+		"StageSkillDesc": {
+			"hash": 1374282961
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 5801
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [
+			"E_VO_Main_Dialog_32504_Vill-V"
+		],
+		"StageSkillImage": "SpriteOutput/Chapter29/Card/Kevin",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 1125504280
+		},
+		"StageSkillDesc": {
+			"hash": 1374282962
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 5802
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [
+			"E_VO_Rogue_Support_Vil_1",
+			"E_VO_Rogue_Support_Vil_2",
+			"E_VO_Rogue_Support_Vil_3"
+		],
+		"StageSkillImage": "SpriteOutput/Chapter29/Card/Aponia_VillV",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 1125504281
+		},
+		"StageSkillDesc": {
+			"hash": 1374282963
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 5803
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [
+			"E_VO_Rogue_Support_Vil_1",
+			"E_VO_Rogue_Support_Vil_2",
+			"E_VO_Rogue_Support_Vil_3"
+		],
+		"StageSkillImage": "SpriteOutput/Chapter29/Card/Kosma_VillV",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 1125504282
+		},
+		"StageSkillDesc": {
+			"hash": 1374282964
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 5804
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [
+			"E_VO_Main_Dialog_32519_Vill-V"
+		],
+		"StageSkillImage": "SpriteOutput/Chapter29/Card/AvatarVillV01",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 1125504283
+		},
+		"StageSkillDesc": {
+			"hash": 1374282965
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 5805
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [],
+		"StageSkillImage": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Kevin",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 0
+		},
+		"StageSkillDesc": {
+			"hash": 0
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 5901
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [],
+		"StageSkillImage": "SpriteOutput/Rogue/GodCloseUp/RougeGod_Aponia",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 0
+		},
+		"StageSkillDesc": {
+			"hash": 0
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 5902
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [],
+		"StageSkillImage": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Eden",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 0
+		},
+		"StageSkillDesc": {
+			"hash": 0
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 5903
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [],
+		"StageSkillImage": "SpriteOutput/Rogue/GodCloseUp/RougeGod_VillV01",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 0
+		},
+		"StageSkillDesc": {
+			"hash": 0
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 5904
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [],
+		"StageSkillImage": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Kalpas",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 0
+		},
+		"StageSkillDesc": {
+			"hash": 0
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 5905
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [],
+		"StageSkillImage": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Su",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 0
+		},
+		"StageSkillDesc": {
+			"hash": 0
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 5906
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [],
+		"StageSkillImage": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Sakura",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 0
+		},
+		"StageSkillDesc": {
+			"hash": 0
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 5907
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [],
+		"StageSkillImage": "SpriteOutput/Rogue/GodCloseUp/RougeGod_Kosma",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 0
+		},
+		"StageSkillDesc": {
+			"hash": 0
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 5908
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [],
+		"StageSkillImage": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Mobius",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 0
+		},
+		"StageSkillDesc": {
+			"hash": 0
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 5909
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [],
+		"StageSkillImage": "SpriteOutput/Rogue/GodCloseUp/RougeGod_Griseo1",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 0
+		},
+		"StageSkillDesc": {
+			"hash": 0
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 5910
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [],
+		"StageSkillImage": "SpriteOutput/Rogue/GodCloseUp/RogueGod_Hua",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 0
+		},
+		"StageSkillDesc": {
+			"hash": 0
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 5911
+	},
+	{
+		"StageSkillType": 1,
+		"StageSkillRandomAudio": [],
+		"StageSkillImage": "SpriteOutput/Rogue/GodCloseUp/RougeGod_Pardofelis",
+		"StageSkillIcon": "SpriteOutput/Rogue/GeneralUI/Tatto",
+		"StageSkillName": {
+			"hash": 0
+		},
+		"StageSkillDesc": {
+			"hash": 0
+		},
+		"OffsetX": 200,
+		"OffsetY": -50,
+		"Scale": 1.1,
+		"DataImpl": {},
+		"StageSkillID": 5912
+	}
+]

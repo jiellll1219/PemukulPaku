@@ -1,0 +1,3340 @@
+[
+	{
+		"ChapterID": 1,
+		"NodeType": 3,
+		"PreNodeID": 0,
+		"NodeName": {
+			"hash": 180283091
+		},
+		"AssociatedMissionList": [
+			663100
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 101
+	},
+	{
+		"ChapterID": 1,
+		"NodeType": 2,
+		"PreNodeID": 101,
+		"NodeName": {
+			"hash": 180283092
+		},
+		"AssociatedMissionList": [
+			663101
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 102
+	},
+	{
+		"ChapterID": 1,
+		"NodeType": 1,
+		"PreNodeID": 102,
+		"NodeName": {
+			"hash": 180283093
+		},
+		"AssociatedMissionList": [
+			663102
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\StoryPoint",
+		"RewardPreview": 651571,
+		"DataImpl": {},
+		"NodeID": 103
+	},
+	{
+		"ChapterID": 1,
+		"NodeType": 2,
+		"PreNodeID": 103,
+		"NodeName": {
+			"hash": 180283094
+		},
+		"AssociatedMissionList": [
+			663103
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 104
+	},
+	{
+		"ChapterID": 1,
+		"NodeType": 2,
+		"PreNodeID": 104,
+		"NodeName": {
+			"hash": 180283095
+		},
+		"AssociatedMissionList": [
+			663104
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 105
+	},
+	{
+		"ChapterID": 1,
+		"NodeType": 3,
+		"PreNodeID": 105,
+		"NodeName": {
+			"hash": 180283096
+		},
+		"AssociatedMissionList": [
+			663105
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 106
+	},
+	{
+		"ChapterID": 1,
+		"NodeType": 1,
+		"PreNodeID": 106,
+		"NodeName": {
+			"hash": 180283098
+		},
+		"AssociatedMissionList": [
+			663107
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\StoryPoint",
+		"RewardPreview": 651568,
+		"DataImpl": {},
+		"NodeID": 108
+	},
+	{
+		"ChapterID": 1,
+		"NodeType": 3,
+		"PreNodeID": 108,
+		"NodeName": {
+			"hash": 180283099
+		},
+		"AssociatedMissionList": [
+			663108
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 109
+	},
+	{
+		"ChapterID": 1,
+		"NodeType": 2,
+		"PreNodeID": 109,
+		"NodeName": {
+			"hash": 180283121
+		},
+		"AssociatedMissionList": [
+			663109
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 110
+	},
+	{
+		"ChapterID": 1,
+		"NodeType": 2,
+		"PreNodeID": 110,
+		"NodeName": {
+			"hash": 180283122
+		},
+		"AssociatedMissionList": [
+			663110
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 111
+	},
+	{
+		"ChapterID": 1,
+		"NodeType": 2,
+		"PreNodeID": 111,
+		"NodeName": {
+			"hash": 180283123
+		},
+		"AssociatedMissionList": [
+			663111
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 112
+	},
+	{
+		"ChapterID": 1,
+		"NodeType": 1,
+		"PreNodeID": 112,
+		"NodeName": {
+			"hash": 180283124
+		},
+		"AssociatedMissionList": [
+			663112
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\StoryPoint",
+		"RewardPreview": 651571,
+		"DataImpl": {},
+		"NodeID": 113
+	},
+	{
+		"ChapterID": 1,
+		"NodeType": 2,
+		"PreNodeID": 113,
+		"NodeName": {
+			"hash": 180283125
+		},
+		"AssociatedMissionList": [
+			663113
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 114
+	},
+	{
+		"ChapterID": 1,
+		"NodeType": 1,
+		"PreNodeID": 114,
+		"NodeName": {
+			"hash": 180283126
+		},
+		"AssociatedMissionList": [
+			663114
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\StoryPoint",
+		"RewardPreview": 651571,
+		"DataImpl": {},
+		"NodeID": 115
+	},
+	{
+		"ChapterID": 1,
+		"NodeType": 2,
+		"PreNodeID": 115,
+		"NodeName": {
+			"hash": 180283127
+		},
+		"AssociatedMissionList": [
+			663115
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 116
+	},
+	{
+		"ChapterID": 1,
+		"NodeType": 1,
+		"PreNodeID": 116,
+		"NodeName": {
+			"hash": 180283128
+		},
+		"AssociatedMissionList": [
+			663116
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\StoryPoint",
+		"RewardPreview": 651571,
+		"DataImpl": {},
+		"NodeID": 117
+	},
+	{
+		"ChapterID": 1,
+		"NodeType": 2,
+		"PreNodeID": 117,
+		"NodeName": {
+			"hash": 180283129
+		},
+		"AssociatedMissionList": [
+			663117
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 118
+	},
+	{
+		"ChapterID": 1,
+		"NodeType": 3,
+		"PreNodeID": 118,
+		"NodeName": {
+			"hash": 180283130
+		},
+		"AssociatedMissionList": [
+			663118,
+			663119,
+			663120
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 119
+	},
+	{
+		"ChapterID": 1,
+		"NodeType": 2,
+		"PreNodeID": 119,
+		"NodeName": {
+			"hash": 180283152
+		},
+		"AssociatedMissionList": [
+			663121
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 120
+	},
+	{
+		"ChapterID": 1,
+		"NodeType": 3,
+		"PreNodeID": 120,
+		"NodeName": {
+			"hash": 180283153
+		},
+		"AssociatedMissionList": [
+			663122,
+			663123,
+			663124
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 121
+	},
+	{
+		"ChapterID": 1,
+		"NodeType": 2,
+		"PreNodeID": 121,
+		"NodeName": {
+			"hash": 180283154
+		},
+		"AssociatedMissionList": [
+			663125
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 122
+	},
+	{
+		"ChapterID": 1,
+		"NodeType": 3,
+		"PreNodeID": 122,
+		"NodeName": {
+			"hash": 180283155
+		},
+		"AssociatedMissionList": [
+			663126,
+			663127,
+			663128
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 123
+	},
+	{
+		"ChapterID": 1,
+		"NodeType": 2,
+		"PreNodeID": 123,
+		"NodeName": {
+			"hash": 180283156
+		},
+		"AssociatedMissionList": [
+			663129
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 124
+	},
+	{
+		"ChapterID": 1,
+		"NodeType": 3,
+		"PreNodeID": 124,
+		"NodeName": {
+			"hash": 180283157
+		},
+		"AssociatedMissionList": [
+			663130,
+			663131,
+			663132
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 125
+	},
+	{
+		"ChapterID": 1,
+		"NodeType": 2,
+		"PreNodeID": 125,
+		"NodeName": {
+			"hash": 180283158
+		},
+		"AssociatedMissionList": [
+			663133
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 126
+	},
+	{
+		"ChapterID": 1,
+		"NodeType": 3,
+		"PreNodeID": 126,
+		"NodeName": {
+			"hash": 180283159
+		},
+		"AssociatedMissionList": [
+			663134,
+			663135,
+			663136
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 127
+	},
+	{
+		"ChapterID": 1,
+		"NodeType": 2,
+		"PreNodeID": 127,
+		"NodeName": {
+			"hash": 180283160
+		},
+		"AssociatedMissionList": [
+			663137
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 128
+	},
+	{
+		"ChapterID": 1,
+		"NodeType": 3,
+		"PreNodeID": 128,
+		"NodeName": {
+			"hash": 180283161
+		},
+		"AssociatedMissionList": [
+			663138,
+			663139,
+			663140
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 129
+	},
+	{
+		"ChapterID": 1,
+		"NodeType": 2,
+		"PreNodeID": 129,
+		"NodeName": {
+			"hash": 180283183
+		},
+		"AssociatedMissionList": [
+			663141
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 130
+	},
+	{
+		"ChapterID": 1,
+		"NodeType": 3,
+		"PreNodeID": 130,
+		"NodeName": {
+			"hash": 180283184
+		},
+		"AssociatedMissionList": [
+			663142,
+			663143,
+			663144
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 131
+	},
+	{
+		"ChapterID": 1,
+		"NodeType": 2,
+		"PreNodeID": 131,
+		"NodeName": {
+			"hash": 180283185
+		},
+		"AssociatedMissionList": [
+			663145
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 132
+	},
+	{
+		"ChapterID": 1,
+		"NodeType": 3,
+		"PreNodeID": 132,
+		"NodeName": {
+			"hash": 180283186
+		},
+		"AssociatedMissionList": [
+			663146
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 133
+	},
+	{
+		"ChapterID": 1,
+		"NodeType": 2,
+		"PreNodeID": 133,
+		"NodeName": {
+			"hash": 180283187
+		},
+		"AssociatedMissionList": [
+			663147
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 134
+	},
+	{
+		"ChapterID": 1,
+		"NodeType": 3,
+		"PreNodeID": 134,
+		"NodeName": {
+			"hash": 180283188
+		},
+		"AssociatedMissionList": [
+			663148
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 135
+	},
+	{
+		"ChapterID": 1,
+		"NodeType": 1,
+		"PreNodeID": 135,
+		"NodeName": {
+			"hash": 180283189
+		},
+		"AssociatedMissionList": [
+			663149
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1898568000
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\StoryPoint",
+		"RewardPreview": 651574,
+		"DataImpl": {},
+		"NodeID": 136
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 3,
+		"PreNodeID": 0,
+		"NodeName": {
+			"hash": 180284052
+		},
+		"AssociatedMissionList": [
+			664000,
+			664001
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 201
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 2,
+		"PreNodeID": 201,
+		"NodeName": {
+			"hash": 180284053
+		},
+		"AssociatedMissionList": [
+			664002
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 202
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 3,
+		"PreNodeID": 202,
+		"NodeName": {
+			"hash": 180284054
+		},
+		"AssociatedMissionList": [
+			664003,
+			664004,
+			664005
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 203
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 2,
+		"PreNodeID": 203,
+		"NodeName": {
+			"hash": 180284055
+		},
+		"AssociatedMissionList": [
+			664006
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 204
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 3,
+		"PreNodeID": 204,
+		"NodeName": {
+			"hash": 180284056
+		},
+		"AssociatedMissionList": [
+			664007
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 205
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 2,
+		"PreNodeID": 205,
+		"NodeName": {
+			"hash": 180284057
+		},
+		"AssociatedMissionList": [
+			664008
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 206
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 3,
+		"PreNodeID": 206,
+		"NodeName": {
+			"hash": 180284058
+		},
+		"AssociatedMissionList": [
+			664009
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 207
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 1,
+		"PreNodeID": 207,
+		"NodeName": {
+			"hash": 180284059
+		},
+		"AssociatedMissionList": [
+			664010
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\StoryPoint",
+		"RewardPreview": 651571,
+		"DataImpl": {},
+		"NodeID": 208
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 1,
+		"PreNodeID": 208,
+		"NodeName": {
+			"hash": 180284060
+		},
+		"AssociatedMissionList": [
+			664011
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\StoryPoint",
+		"RewardPreview": 651571,
+		"DataImpl": {},
+		"NodeID": 209
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 3,
+		"PreNodeID": 209,
+		"NodeName": {
+			"hash": 180284082
+		},
+		"AssociatedMissionList": [
+			664012
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 210
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 1,
+		"PreNodeID": 210,
+		"NodeName": {
+			"hash": 180284083
+		},
+		"AssociatedMissionList": [
+			664013
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\StoryPoint",
+		"RewardPreview": 651571,
+		"DataImpl": {},
+		"NodeID": 211
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 3,
+		"PreNodeID": 211,
+		"NodeName": {
+			"hash": 180284084
+		},
+		"AssociatedMissionList": [
+			664014
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 212
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 2,
+		"PreNodeID": 212,
+		"NodeName": {
+			"hash": 180284085
+		},
+		"AssociatedMissionList": [
+			664015
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 213
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 3,
+		"PreNodeID": 213,
+		"NodeName": {
+			"hash": 180284086
+		},
+		"AssociatedMissionList": [
+			664016
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 214
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 1,
+		"PreNodeID": 214,
+		"NodeName": {
+			"hash": 180284087
+		},
+		"AssociatedMissionList": [
+			664017
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\StoryPoint",
+		"RewardPreview": 651573,
+		"DataImpl": {},
+		"NodeID": 215
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 2,
+		"PreNodeID": 215,
+		"NodeName": {
+			"hash": 180284088
+		},
+		"AssociatedMissionList": [
+			664018
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 216
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 3,
+		"PreNodeID": 216,
+		"NodeName": {
+			"hash": 180284089
+		},
+		"AssociatedMissionList": [
+			664019,
+			664020
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 217
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 2,
+		"PreNodeID": 217,
+		"NodeName": {
+			"hash": 180284090
+		},
+		"AssociatedMissionList": [
+			664021
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 218
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 3,
+		"PreNodeID": 218,
+		"NodeName": {
+			"hash": 180284091
+		},
+		"AssociatedMissionList": [
+			664022,
+			664023
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 219
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 2,
+		"PreNodeID": 219,
+		"NodeName": {
+			"hash": 180284113
+		},
+		"AssociatedMissionList": [
+			664024
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 220
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 3,
+		"PreNodeID": 220,
+		"NodeName": {
+			"hash": 180284114
+		},
+		"AssociatedMissionList": [
+			664025,
+			664026,
+			664027
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 221
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 2,
+		"PreNodeID": 221,
+		"NodeName": {
+			"hash": 180284115
+		},
+		"AssociatedMissionList": [
+			664028
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 222
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 3,
+		"PreNodeID": 222,
+		"NodeName": {
+			"hash": 180284116
+		},
+		"AssociatedMissionList": [
+			664029,
+			664030
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 223
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 2,
+		"PreNodeID": 223,
+		"NodeName": {
+			"hash": 180284117
+		},
+		"AssociatedMissionList": [
+			664031
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 224
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 3,
+		"PreNodeID": 224,
+		"NodeName": {
+			"hash": 180284118
+		},
+		"AssociatedMissionList": [
+			664032,
+			664033
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 225
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 2,
+		"PreNodeID": 225,
+		"NodeName": {
+			"hash": 180284119
+		},
+		"AssociatedMissionList": [
+			664034
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 226
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 3,
+		"PreNodeID": 226,
+		"NodeName": {
+			"hash": 180284120
+		},
+		"AssociatedMissionList": [
+			664035,
+			664036
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 227
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 2,
+		"PreNodeID": 227,
+		"NodeName": {
+			"hash": 180284121
+		},
+		"AssociatedMissionList": [
+			664037
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 228
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 3,
+		"PreNodeID": 228,
+		"NodeName": {
+			"hash": 180284122
+		},
+		"AssociatedMissionList": [
+			664038
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 229
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 2,
+		"PreNodeID": 229,
+		"NodeName": {
+			"hash": 180284144
+		},
+		"AssociatedMissionList": [
+			664039
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 230
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 3,
+		"PreNodeID": 230,
+		"NodeName": {
+			"hash": 180284145
+		},
+		"AssociatedMissionList": [
+			664040,
+			664041
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 231
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 2,
+		"PreNodeID": 231,
+		"NodeName": {
+			"hash": 180284146
+		},
+		"AssociatedMissionList": [
+			664042
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 232
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 3,
+		"PreNodeID": 232,
+		"NodeName": {
+			"hash": 180284147
+		},
+		"AssociatedMissionList": [
+			664043,
+			664044
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 233
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 2,
+		"PreNodeID": 233,
+		"NodeName": {
+			"hash": 180284148
+		},
+		"AssociatedMissionList": [
+			664045
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 234
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 3,
+		"PreNodeID": 234,
+		"NodeName": {
+			"hash": 180284149
+		},
+		"AssociatedMissionList": [
+			664046,
+			664047
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 235
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 2,
+		"PreNodeID": 235,
+		"NodeName": {
+			"hash": 180284150
+		},
+		"AssociatedMissionList": [
+			664048
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 236
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 3,
+		"PreNodeID": 236,
+		"NodeName": {
+			"hash": 180284151
+		},
+		"AssociatedMissionList": [
+			664049
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 237
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 2,
+		"PreNodeID": 237,
+		"NodeName": {
+			"hash": 180284152
+		},
+		"AssociatedMissionList": [
+			664050
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 238
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 3,
+		"PreNodeID": 238,
+		"NodeName": {
+			"hash": 180284153
+		},
+		"AssociatedMissionList": [
+			664051
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 239
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 2,
+		"PreNodeID": 239,
+		"NodeName": {
+			"hash": 180284175
+		},
+		"AssociatedMissionList": [
+			664052
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 240
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 3,
+		"PreNodeID": 240,
+		"NodeName": {
+			"hash": 180284176
+		},
+		"AssociatedMissionList": [
+			664053,
+			664054
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 241
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 2,
+		"PreNodeID": 241,
+		"NodeName": {
+			"hash": 180284177
+		},
+		"AssociatedMissionList": [
+			664055
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 242
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 3,
+		"PreNodeID": 242,
+		"NodeName": {
+			"hash": 180284178
+		},
+		"AssociatedMissionList": [
+			664056,
+			664057
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 243
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 2,
+		"PreNodeID": 243,
+		"NodeName": {
+			"hash": 180284179
+		},
+		"AssociatedMissionList": [
+			664058
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 244
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 3,
+		"PreNodeID": 244,
+		"NodeName": {
+			"hash": 180284180
+		},
+		"AssociatedMissionList": [
+			664059
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 245
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 2,
+		"PreNodeID": 245,
+		"NodeName": {
+			"hash": 180284181
+		},
+		"AssociatedMissionList": [
+			664060
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 246
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 3,
+		"PreNodeID": 246,
+		"NodeName": {
+			"hash": 180284182
+		},
+		"AssociatedMissionList": [
+			664061,
+			664062
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 247
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 2,
+		"PreNodeID": 247,
+		"NodeName": {
+			"hash": 180284183
+		},
+		"AssociatedMissionList": [
+			664063
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 248
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 3,
+		"PreNodeID": 248,
+		"NodeName": {
+			"hash": 180284184
+		},
+		"AssociatedMissionList": [
+			664064,
+			664065
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 249
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 2,
+		"PreNodeID": 249,
+		"NodeName": {
+			"hash": 180284206
+		},
+		"AssociatedMissionList": [
+			664066
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 250
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 3,
+		"PreNodeID": 250,
+		"NodeName": {
+			"hash": 180284207
+		},
+		"AssociatedMissionList": [
+			664067,
+			664068
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 251
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 2,
+		"PreNodeID": 251,
+		"NodeName": {
+			"hash": 180284208
+		},
+		"AssociatedMissionList": [
+			664069
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 252
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 3,
+		"PreNodeID": 252,
+		"NodeName": {
+			"hash": 180284209
+		},
+		"AssociatedMissionList": [
+			664070
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 253
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 2,
+		"PreNodeID": 253,
+		"NodeName": {
+			"hash": 180284210
+		},
+		"AssociatedMissionList": [
+			664071
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 254
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 3,
+		"PreNodeID": 254,
+		"NodeName": {
+			"hash": 180284211
+		},
+		"AssociatedMissionList": [
+			664072
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 255
+	},
+	{
+		"ChapterID": 2,
+		"NodeType": 1,
+		"PreNodeID": 255,
+		"NodeName": {
+			"hash": 180284212
+		},
+		"AssociatedMissionList": [
+			664073
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\StoryPoint",
+		"RewardPreview": 651574,
+		"DataImpl": {},
+		"NodeID": 256
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 2,
+		"PreNodeID": 0,
+		"NodeName": {
+			"hash": 180285013
+		},
+		"AssociatedMissionList": [
+			665001
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 301
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 3,
+		"PreNodeID": 301,
+		"NodeName": {
+			"hash": 180285014
+		},
+		"AssociatedMissionList": [
+			665003
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 302
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 1,
+		"PreNodeID": 302,
+		"NodeName": {
+			"hash": 180285015
+		},
+		"AssociatedMissionList": [
+			665004
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\StoryPoint",
+		"RewardPreview": 651571,
+		"DataImpl": {},
+		"NodeID": 303
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 3,
+		"PreNodeID": 303,
+		"NodeName": {
+			"hash": 180285016
+		},
+		"AssociatedMissionList": [
+			665005,
+			665006
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 304
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 2,
+		"PreNodeID": 304,
+		"NodeName": {
+			"hash": 180285017
+		},
+		"AssociatedMissionList": [
+			665007
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 305
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 3,
+		"PreNodeID": 305,
+		"NodeName": {
+			"hash": 180285018
+		},
+		"AssociatedMissionList": [
+			665008
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 306
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 1,
+		"PreNodeID": 306,
+		"NodeName": {
+			"hash": 180285019
+		},
+		"AssociatedMissionList": [
+			665009
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\StoryPoint",
+		"RewardPreview": 651571,
+		"DataImpl": {},
+		"NodeID": 307
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 2,
+		"PreNodeID": 307,
+		"NodeName": {
+			"hash": 180285020
+		},
+		"AssociatedMissionList": [
+			665010
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 308
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 3,
+		"PreNodeID": 308,
+		"NodeName": {
+			"hash": 180285021
+		},
+		"AssociatedMissionList": [
+			665011,
+			665012
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 309
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 1,
+		"PreNodeID": 309,
+		"NodeName": {
+			"hash": 180285043
+		},
+		"AssociatedMissionList": [
+			665013
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\StoryPoint",
+		"RewardPreview": 651570,
+		"DataImpl": {},
+		"NodeID": 310
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 2,
+		"PreNodeID": 310,
+		"NodeName": {
+			"hash": 180285044
+		},
+		"AssociatedMissionList": [
+			665014
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 311
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 3,
+		"PreNodeID": 311,
+		"NodeName": {
+			"hash": 180285045
+		},
+		"AssociatedMissionList": [
+			665015
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 312
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 1,
+		"PreNodeID": 312,
+		"NodeName": {
+			"hash": 180285046
+		},
+		"AssociatedMissionList": [
+			665016
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\StoryPoint",
+		"RewardPreview": 651569,
+		"DataImpl": {},
+		"NodeID": 313
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 2,
+		"PreNodeID": 313,
+		"NodeName": {
+			"hash": 180285047
+		},
+		"AssociatedMissionList": [
+			665017
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 314
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 3,
+		"PreNodeID": 314,
+		"NodeName": {
+			"hash": 180285048
+		},
+		"AssociatedMissionList": [
+			665018
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 315
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 2,
+		"PreNodeID": 315,
+		"NodeName": {
+			"hash": 180285049
+		},
+		"AssociatedMissionList": [
+			665019
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 316
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 3,
+		"PreNodeID": 316,
+		"NodeName": {
+			"hash": 180285050
+		},
+		"AssociatedMissionList": [
+			665020
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 317
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 2,
+		"PreNodeID": 317,
+		"NodeName": {
+			"hash": 180285051
+		},
+		"AssociatedMissionList": [
+			665021
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 318
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 3,
+		"PreNodeID": 318,
+		"NodeName": {
+			"hash": 180285052
+		},
+		"AssociatedMissionList": [
+			665022
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 319
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 1,
+		"PreNodeID": 319,
+		"NodeName": {
+			"hash": 180285074
+		},
+		"AssociatedMissionList": [
+			665023
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\StoryPoint",
+		"RewardPreview": 651570,
+		"DataImpl": {},
+		"NodeID": 320
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 3,
+		"PreNodeID": 320,
+		"NodeName": {
+			"hash": 180285075
+		},
+		"AssociatedMissionList": [
+			665024,
+			665025
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 321
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 2,
+		"PreNodeID": 321,
+		"NodeName": {
+			"hash": 180285076
+		},
+		"AssociatedMissionList": [
+			665026
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 322
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 3,
+		"PreNodeID": 322,
+		"NodeName": {
+			"hash": 180285077
+		},
+		"AssociatedMissionList": [
+			665027
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 323
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 2,
+		"PreNodeID": 323,
+		"NodeName": {
+			"hash": 180285078
+		},
+		"AssociatedMissionList": [
+			665028
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 324
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 3,
+		"PreNodeID": 324,
+		"NodeName": {
+			"hash": 180285079
+		},
+		"AssociatedMissionList": [
+			665029
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 325
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 1,
+		"PreNodeID": 325,
+		"NodeName": {
+			"hash": 180285080
+		},
+		"AssociatedMissionList": [
+			665030
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1583035200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\StoryPoint",
+		"RewardPreview": 651572,
+		"DataImpl": {},
+		"NodeID": 326
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 2,
+		"PreNodeID": 326,
+		"NodeName": {
+			"hash": 180285082
+		},
+		"AssociatedMissionList": [
+			665032
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": true,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1647511200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 328
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 1,
+		"PreNodeID": 328,
+		"NodeName": {
+			"hash": 180285105
+		},
+		"AssociatedMissionList": [
+			665034
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1647511200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\StoryPoint",
+		"RewardPreview": 651570,
+		"DataImpl": {},
+		"NodeID": 330
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 2,
+		"PreNodeID": 330,
+		"NodeName": {
+			"hash": 180285106
+		},
+		"AssociatedMissionList": [
+			665035
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1647511200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 331
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 3,
+		"PreNodeID": 331,
+		"NodeName": {
+			"hash": 180285107
+		},
+		"AssociatedMissionList": [
+			665036,
+			665037
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1647511200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 332
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 1,
+		"PreNodeID": 332,
+		"NodeName": {
+			"hash": 180285108
+		},
+		"AssociatedMissionList": [
+			665038
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1647511200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\StoryPoint",
+		"RewardPreview": 651572,
+		"DataImpl": {},
+		"NodeID": 333
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 3,
+		"PreNodeID": 333,
+		"NodeName": {
+			"hash": 180285109
+		},
+		"AssociatedMissionList": [
+			665039,
+			665040
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1647511200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 334
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 2,
+		"PreNodeID": 334,
+		"NodeName": {
+			"hash": 180285110
+		},
+		"AssociatedMissionList": [
+			665041
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1647511200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 335
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 3,
+		"PreNodeID": 335,
+		"NodeName": {
+			"hash": 180285111
+		},
+		"AssociatedMissionList": [
+			665043,
+			665044
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1647511200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 336
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 2,
+		"PreNodeID": 336,
+		"NodeName": {
+			"hash": 180285112
+		},
+		"AssociatedMissionList": [
+			665045
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1647511200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 337
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 3,
+		"PreNodeID": 337,
+		"NodeName": {
+			"hash": 180285113
+		},
+		"AssociatedMissionList": [
+			665046
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1647511200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 338
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 2,
+		"PreNodeID": 338,
+		"NodeName": {
+			"hash": 180285114
+		},
+		"AssociatedMissionList": [
+			665047
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1647511200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 339
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 3,
+		"PreNodeID": 339,
+		"NodeName": {
+			"hash": 180285136
+		},
+		"AssociatedMissionList": [
+			665048
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1647511200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 340
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 2,
+		"PreNodeID": 340,
+		"NodeName": {
+			"hash": 180285137
+		},
+		"AssociatedMissionList": [
+			665049
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1647511200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 341
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 3,
+		"PreNodeID": 341,
+		"NodeName": {
+			"hash": 180285138
+		},
+		"AssociatedMissionList": [
+			665050,
+			665051
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1647511200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 342
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 2,
+		"PreNodeID": 342,
+		"NodeName": {
+			"hash": 180285139
+		},
+		"AssociatedMissionList": [
+			665052
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1647511200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 343
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 3,
+		"PreNodeID": 343,
+		"NodeName": {
+			"hash": 180285140
+		},
+		"AssociatedMissionList": [
+			665053
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1647511200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 344
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 1,
+		"PreNodeID": 344,
+		"NodeName": {
+			"hash": 180285141
+		},
+		"AssociatedMissionList": [
+			665054
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1647511200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\StoryPoint",
+		"RewardPreview": 651569,
+		"DataImpl": {},
+		"NodeID": 345
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 3,
+		"PreNodeID": 345,
+		"NodeName": {
+			"hash": 180285142
+		},
+		"AssociatedMissionList": [
+			665055
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1647511200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 346
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 2,
+		"PreNodeID": 346,
+		"NodeName": {
+			"hash": 180285143
+		},
+		"AssociatedMissionList": [
+			665056
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1647511200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 347
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 3,
+		"PreNodeID": 347,
+		"NodeName": {
+			"hash": 180285144
+		},
+		"AssociatedMissionList": [
+			665057
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1647511200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 348
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 1,
+		"PreNodeID": 348,
+		"NodeName": {
+			"hash": 180285145
+		},
+		"AssociatedMissionList": [
+			665058
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1647511200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\StoryPoint",
+		"RewardPreview": 651574,
+		"DataImpl": {},
+		"NodeID": 349
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 3,
+		"PreNodeID": 349,
+		"NodeName": {
+			"hash": 180285167
+		},
+		"AssociatedMissionList": [
+			665059
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1647511200
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 350
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 2,
+		"PreNodeID": 350,
+		"NodeName": {
+			"hash": 180285168
+		},
+		"AssociatedMissionList": [
+			665060
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": true,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1647856800
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 351
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 3,
+		"PreNodeID": 351,
+		"NodeName": {
+			"hash": 180285169
+		},
+		"AssociatedMissionList": [
+			665061
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1647856800
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 352
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 2,
+		"PreNodeID": 352,
+		"NodeName": {
+			"hash": 180285170
+		},
+		"AssociatedMissionList": [
+			665062
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1647856800
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 353
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 3,
+		"PreNodeID": 353,
+		"NodeName": {
+			"hash": 180285171
+		},
+		"AssociatedMissionList": [
+			665063,
+			665064
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1647856800
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 354
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 2,
+		"PreNodeID": 354,
+		"NodeName": {
+			"hash": 180285172
+		},
+		"AssociatedMissionList": [
+			665065
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1647856800
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 355
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 3,
+		"PreNodeID": 355,
+		"NodeName": {
+			"hash": 180285173
+		},
+		"AssociatedMissionList": [
+			665066,
+			665067
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1647856800
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 356
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 2,
+		"PreNodeID": 356,
+		"NodeName": {
+			"hash": 180285174
+		},
+		"AssociatedMissionList": [
+			665068
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1647856800
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 357
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 3,
+		"PreNodeID": 357,
+		"NodeName": {
+			"hash": 180285175
+		},
+		"AssociatedMissionList": [
+			665069
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1647856800
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 358
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 2,
+		"PreNodeID": 358,
+		"NodeName": {
+			"hash": 180285176
+		},
+		"AssociatedMissionList": [
+			665070
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1647856800
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 359
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 3,
+		"PreNodeID": 359,
+		"NodeName": {
+			"hash": 180285198
+		},
+		"AssociatedMissionList": [
+			665071
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1647856800
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 360
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 2,
+		"PreNodeID": 360,
+		"NodeName": {
+			"hash": 180285199
+		},
+		"AssociatedMissionList": [
+			665072
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1647856800
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 361
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 3,
+		"PreNodeID": 361,
+		"NodeName": {
+			"hash": 180285200
+		},
+		"AssociatedMissionList": [
+			665073
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1647856800
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 362
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 2,
+		"PreNodeID": 362,
+		"NodeName": {
+			"hash": 180285201
+		},
+		"AssociatedMissionList": [
+			665074
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1647856800
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 363
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 3,
+		"PreNodeID": 363,
+		"NodeName": {
+			"hash": 180285202
+		},
+		"AssociatedMissionList": [
+			665075
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1647856800
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 364
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 2,
+		"PreNodeID": 364,
+		"NodeName": {
+			"hash": 180285203
+		},
+		"AssociatedMissionList": [
+			665076
+		],
+		"SkipCostMaterialID": 119999,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1647856800
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\MissionPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 365
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 3,
+		"PreNodeID": 365,
+		"NodeName": {
+			"hash": 180285204
+		},
+		"AssociatedMissionList": [
+			665077
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1647856800
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\NPCPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 366
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 1,
+		"PreNodeID": 366,
+		"NodeName": {
+			"hash": 180285205
+		},
+		"AssociatedMissionList": [
+			665078
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1647856800
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\StoryPoint",
+		"RewardPreview": 651574,
+		"DataImpl": {},
+		"NodeID": 367
+	},
+	{
+		"ChapterID": 3,
+		"NodeType": 4,
+		"PreNodeID": 367,
+		"NodeName": {
+			"hash": 180285206
+		},
+		"AssociatedMissionList": [
+			0
+		],
+		"SkipCostMaterialID": 0,
+		"SkipCostMaterialNum": 1,
+		"IsShowTime": false,
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1647856800
+		},
+		"Icon": "SpriteOutput\\Rogue\\MissionType\\StoryPoint",
+		"RewardPreview": 0,
+		"DataImpl": {},
+		"NodeID": 368
+	}
+]

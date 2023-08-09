@@ -1,0 +1,6520 @@
+[
+	{
+		"TalentDesc": {
+			"hash": 227885607
+		},
+		"NextLevelDesc": {
+			"hash": 227885608
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 901101,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 227885608
+		},
+		"NextLevelDesc": {
+			"hash": 227885609
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 834,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.2,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 901101,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 227885609
+		},
+		"NextLevelDesc": {
+			"hash": 227885610
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 3,
+		"LevelUpCost": [
+			{
+				"matID": 834,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.4,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 901101,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 227885610
+		},
+		"NextLevelDesc": {
+			"hash": 227885611
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 18,
+		"LevelUpCost": [
+			{
+				"matID": 834,
+				"num": 3
+			}
+		],
+		"AbilityParamBase_1": 0.65,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 901101,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 227885611
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 24,
+		"LevelUpCost": [
+			{
+				"matID": 834,
+				"num": 4
+			}
+		],
+		"AbilityParamBase_1": 0.9,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 901101,
+		"TalentLevel": 5
+	},
+	{
+		"TalentDesc": {
+			"hash": 227886568
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [
+			"TalentDesc901102_1",
+			"TalentDesc901102_2",
+			"TalentDesc901102_3",
+			"TalentDesc901102_4",
+			"TalentDesc901102_5"
+		],
+		"PreTalent": [
+			{
+				"level": 1,
+				"talentID": 901101
+			}
+		],
+		"FeverLevelLimit": 3,
+		"LevelUpCost": [
+			{
+				"matID": 834,
+				"num": 1
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 901102,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 227887529
+		},
+		"NextLevelDesc": {
+			"hash": 227887530
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 901103,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 227887530
+		},
+		"NextLevelDesc": {
+			"hash": 227887531
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 834,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.2,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 901103,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 227887531
+		},
+		"NextLevelDesc": {
+			"hash": 227887532
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 12,
+		"LevelUpCost": [
+			{
+				"matID": 834,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.4,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 901103,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 227887532
+		},
+		"NextLevelDesc": {
+			"hash": 227887533
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 18,
+		"LevelUpCost": [
+			{
+				"matID": 834,
+				"num": 3
+			}
+		],
+		"AbilityParamBase_1": 0.65,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 901103,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 227887533
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 24,
+		"LevelUpCost": [
+			{
+				"matID": 834,
+				"num": 4
+			}
+		],
+		"AbilityParamBase_1": 0.9,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 901103,
+		"TalentLevel": 5
+	},
+	{
+		"TalentDesc": {
+			"hash": 227888490
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [
+			"TalentDesc901104_1",
+			"TalentDesc901104_2",
+			"TalentDesc901104_3",
+			"TalentDesc901104_4",
+			"TalentDesc901104_5"
+		],
+		"PreTalent": [
+			{
+				"level": 1,
+				"talentID": 901103
+			}
+		],
+		"FeverLevelLimit": 8,
+		"LevelUpCost": [
+			{
+				"matID": 834,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 901104,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 227889451
+		},
+		"NextLevelDesc": {
+			"hash": 227889452
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 901105,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 227889452
+		},
+		"NextLevelDesc": {
+			"hash": 227889453
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 834,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.2,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 901105,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 227889453
+		},
+		"NextLevelDesc": {
+			"hash": 227889454
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 9,
+		"LevelUpCost": [
+			{
+				"matID": 834,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.4,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 901105,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 227889454
+		},
+		"NextLevelDesc": {
+			"hash": 227889455
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 18,
+		"LevelUpCost": [
+			{
+				"matID": 834,
+				"num": 3
+			}
+		],
+		"AbilityParamBase_1": 0.65,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 901105,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 227889455
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 24,
+		"LevelUpCost": [
+			{
+				"matID": 834,
+				"num": 4
+			}
+		],
+		"AbilityParamBase_1": 0.9,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 901105,
+		"TalentLevel": 5
+	},
+	{
+		"TalentDesc": {
+			"hash": 227890412
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [
+			"TalentDesc901106_1",
+			"TalentDesc901106_2",
+			"TalentDesc901106_3",
+			"TalentDesc901106_4",
+			"TalentDesc901106_5"
+		],
+		"PreTalent": [
+			{
+				"level": 1,
+				"talentID": 901105
+			}
+		],
+		"FeverLevelLimit": 7,
+		"LevelUpCost": [
+			{
+				"matID": 834,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 901106,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 227891373
+		},
+		"NextLevelDesc": {
+			"hash": 227891374
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 901107,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 227891374
+		},
+		"NextLevelDesc": {
+			"hash": 227891375
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 834,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.2,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 901107,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 227891375
+		},
+		"NextLevelDesc": {
+			"hash": 227891376
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 3,
+		"LevelUpCost": [
+			{
+				"matID": 834,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.4,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 901107,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 227891376
+		},
+		"NextLevelDesc": {
+			"hash": 227891377
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 18,
+		"LevelUpCost": [
+			{
+				"matID": 834,
+				"num": 3
+			}
+		],
+		"AbilityParamBase_1": 0.65,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 901107,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 227891377
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 24,
+		"LevelUpCost": [
+			{
+				"matID": 834,
+				"num": 4
+			}
+		],
+		"AbilityParamBase_1": 0.9,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 901107,
+		"TalentLevel": 5
+	},
+	{
+		"TalentDesc": {
+			"hash": 227892334
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [
+			"TalentDesc901108_1",
+			"TalentDesc901108_2",
+			"TalentDesc901108_3",
+			"TalentDesc901108_4",
+			"TalentDesc901108_5"
+		],
+		"PreTalent": [
+			{
+				"level": 1,
+				"talentID": 901107
+			}
+		],
+		"FeverLevelLimit": 3,
+		"LevelUpCost": [
+			{
+				"matID": 834,
+				"num": 1
+			}
+		],
+		"AbilityParamBase_1": 0.05,
+		"AbilityParamBase_2": 0.6,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 901108,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 227893295
+		},
+		"NextLevelDesc": {
+			"hash": 227893296
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 5,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 901109,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 227893296
+		},
+		"NextLevelDesc": {
+			"hash": 227893297
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 834,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.2,
+		"AbilityParamBase_2": 6,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 901109,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 227893297
+		},
+		"NextLevelDesc": {
+			"hash": 227893298
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 6,
+		"LevelUpCost": [
+			{
+				"matID": 834,
+				"num": 3
+			}
+		],
+		"AbilityParamBase_1": 0.4,
+		"AbilityParamBase_2": 7,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 901109,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 227893298
+		},
+		"NextLevelDesc": {
+			"hash": 227893299
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 18,
+		"LevelUpCost": [
+			{
+				"matID": 834,
+				"num": 3
+			}
+		],
+		"AbilityParamBase_1": 0.65,
+		"AbilityParamBase_2": 9,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 901109,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 227893299
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 24,
+		"LevelUpCost": [
+			{
+				"matID": 834,
+				"num": 4
+			}
+		],
+		"AbilityParamBase_1": 0.9,
+		"AbilityParamBase_2": 12,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 901109,
+		"TalentLevel": 5
+	},
+	{
+		"TalentDesc": {
+			"hash": 227914437
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [
+			"TalentDesc901110_1",
+			"TalentDesc901110_2",
+			"TalentDesc901110_3",
+			"TalentDesc901110_4",
+			"TalentDesc901110_5"
+		],
+		"PreTalent": [
+			{
+				"level": 1,
+				"talentID": 901109
+			}
+		],
+		"FeverLevelLimit": 6,
+		"LevelUpCost": [
+			{
+				"matID": 834,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 901110,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 227915398
+		},
+		"NextLevelDesc": {
+			"hash": 227915399
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 885,
+				"num": 1
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 901111,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 227915399
+		},
+		"NextLevelDesc": {
+			"hash": 227915400
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 834,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.2,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 901111,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 227915400
+		},
+		"NextLevelDesc": {
+			"hash": 227915401
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 3,
+		"LevelUpCost": [
+			{
+				"matID": 834,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.4,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 901111,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 227915401
+		},
+		"NextLevelDesc": {
+			"hash": 227915402
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 18,
+		"LevelUpCost": [
+			{
+				"matID": 834,
+				"num": 3
+			}
+		],
+		"AbilityParamBase_1": 0.65,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 901111,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 227915402
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 24,
+		"LevelUpCost": [
+			{
+				"matID": 834,
+				"num": 4
+			}
+		],
+		"AbilityParamBase_1": 0.9,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 901111,
+		"TalentLevel": 5
+	},
+	{
+		"TalentDesc": {
+			"hash": 227916359
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [
+			"TalentDesc901112_1",
+			"TalentDesc901112_2",
+			"TalentDesc901112_3",
+			"TalentDesc901112_4",
+			"TalentDesc901112_5"
+		],
+		"PreTalent": [
+			{
+				"level": 1,
+				"talentID": 901111
+			}
+		],
+		"FeverLevelLimit": 3,
+		"LevelUpCost": [
+			{
+				"matID": 834,
+				"num": 1
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 901112,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 227917320
+		},
+		"NextLevelDesc": {
+			"hash": 227917321
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 880,
+				"num": 1
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0.04,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 901113,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 227917321
+		},
+		"NextLevelDesc": {
+			"hash": 227917322
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 834,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.2,
+		"AbilityParamBase_2": 0.08,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 901113,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 227917322
+		},
+		"NextLevelDesc": {
+			"hash": 227917323
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 6,
+		"LevelUpCost": [
+			{
+				"matID": 834,
+				"num": 3
+			}
+		],
+		"AbilityParamBase_1": 0.4,
+		"AbilityParamBase_2": 0.12,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 901113,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 227917323
+		},
+		"NextLevelDesc": {
+			"hash": 227917324
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 18,
+		"LevelUpCost": [
+			{
+				"matID": 834,
+				"num": 3
+			}
+		],
+		"AbilityParamBase_1": 0.65,
+		"AbilityParamBase_2": 0.16,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 901113,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 227917324
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 24,
+		"LevelUpCost": [
+			{
+				"matID": 834,
+				"num": 4
+			}
+		],
+		"AbilityParamBase_1": 0.9,
+		"AbilityParamBase_2": 0.2,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 901113,
+		"TalentLevel": 5
+	},
+	{
+		"TalentDesc": {
+			"hash": 227918281
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [
+			"TalentDesc901114_1",
+			"TalentDesc901114_2",
+			"TalentDesc901114_3",
+			"TalentDesc901114_4",
+			"TalentDesc901114_5"
+		],
+		"PreTalent": [
+			{
+				"level": 1,
+				"talentID": 901113
+			}
+		],
+		"FeverLevelLimit": 6,
+		"LevelUpCost": [
+			{
+				"matID": 834,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.04,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 901114,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 227919242
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 901115,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 227922125
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 901118,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 256514758
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 902101,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 256514759
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 846,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.2,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 902101,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 256514760
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 3,
+		"LevelUpCost": [
+			{
+				"matID": 846,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.4,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 902101,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 256514761
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 18,
+		"LevelUpCost": [
+			{
+				"matID": 846,
+				"num": 3
+			}
+		],
+		"AbilityParamBase_1": 0.65,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 902101,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 256514762
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 24,
+		"LevelUpCost": [
+			{
+				"matID": 846,
+				"num": 4
+			}
+		],
+		"AbilityParamBase_1": 0.9,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 902101,
+		"TalentLevel": 5
+	},
+	{
+		"TalentDesc": {
+			"hash": 256515719
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [
+			"TalentDesc902102_1",
+			"TalentDesc902102_2",
+			"TalentDesc902102_3",
+			"TalentDesc902102_4",
+			"TalentDesc902102_5"
+		],
+		"PreTalent": [
+			{
+				"level": 1,
+				"talentID": 902101
+			}
+		],
+		"FeverLevelLimit": 3,
+		"LevelUpCost": [
+			{
+				"matID": 846,
+				"num": 1
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 902102,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 256516680
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 902103,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 256516681
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 846,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.2,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 902103,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 256516682
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 12,
+		"LevelUpCost": [
+			{
+				"matID": 846,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.4,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 902103,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 256516683
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 18,
+		"LevelUpCost": [
+			{
+				"matID": 846,
+				"num": 3
+			}
+		],
+		"AbilityParamBase_1": 0.65,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 902103,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 256516684
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 24,
+		"LevelUpCost": [
+			{
+				"matID": 846,
+				"num": 4
+			}
+		],
+		"AbilityParamBase_1": 0.9,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 902103,
+		"TalentLevel": 5
+	},
+	{
+		"TalentDesc": {
+			"hash": 256517641
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [
+			"TalentDesc902104_1",
+			"TalentDesc902104_2",
+			"TalentDesc902104_3",
+			"TalentDesc902104_4",
+			"TalentDesc902104_5"
+		],
+		"PreTalent": [
+			{
+				"level": 1,
+				"talentID": 902103
+			}
+		],
+		"FeverLevelLimit": 8,
+		"LevelUpCost": [
+			{
+				"matID": 846,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 902104,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 256518602
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 902105,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 256518603
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 846,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.2,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 902105,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 256518604
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 9,
+		"LevelUpCost": [
+			{
+				"matID": 846,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.4,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 902105,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 256518605
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 18,
+		"LevelUpCost": [
+			{
+				"matID": 846,
+				"num": 3
+			}
+		],
+		"AbilityParamBase_1": 0.65,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 902105,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 256518606
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 24,
+		"LevelUpCost": [
+			{
+				"matID": 846,
+				"num": 4
+			}
+		],
+		"AbilityParamBase_1": 0.9,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 902105,
+		"TalentLevel": 5
+	},
+	{
+		"TalentDesc": {
+			"hash": 256519563
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [
+			"TalentDesc902106_1",
+			"TalentDesc902106_2",
+			"TalentDesc902106_3",
+			"TalentDesc902106_4",
+			"TalentDesc902106_5"
+		],
+		"PreTalent": [
+			{
+				"level": 1,
+				"talentID": 902105
+			}
+		],
+		"FeverLevelLimit": 7,
+		"LevelUpCost": [
+			{
+				"matID": 846,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 902106,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 256520524
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 902107,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 256520525
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 846,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.2,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 902107,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 256520526
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 3,
+		"LevelUpCost": [
+			{
+				"matID": 846,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.4,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 902107,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 256520527
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 18,
+		"LevelUpCost": [
+			{
+				"matID": 846,
+				"num": 3
+			}
+		],
+		"AbilityParamBase_1": 0.65,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 902107,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 256520528
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 24,
+		"LevelUpCost": [
+			{
+				"matID": 846,
+				"num": 4
+			}
+		],
+		"AbilityParamBase_1": 0.9,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 902107,
+		"TalentLevel": 5
+	},
+	{
+		"TalentDesc": {
+			"hash": 256521485
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [
+			"TalentDesc902108_1",
+			"TalentDesc902108_2",
+			"TalentDesc902108_3",
+			"TalentDesc902108_4",
+			"TalentDesc902108_5"
+		],
+		"PreTalent": [
+			{
+				"level": 1,
+				"talentID": 902107
+			}
+		],
+		"FeverLevelLimit": 3,
+		"LevelUpCost": [
+			{
+				"matID": 846,
+				"num": 1
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 902108,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 256522446
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 902109,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 256522447
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 846,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.2,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 902109,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 256522448
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 6,
+		"LevelUpCost": [
+			{
+				"matID": 846,
+				"num": 3
+			}
+		],
+		"AbilityParamBase_1": 0.4,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 902109,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 256522449
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 18,
+		"LevelUpCost": [
+			{
+				"matID": 846,
+				"num": 3
+			}
+		],
+		"AbilityParamBase_1": 0.65,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 902109,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 256522450
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 24,
+		"LevelUpCost": [
+			{
+				"matID": 846,
+				"num": 4
+			}
+		],
+		"AbilityParamBase_1": 0.9,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 902109,
+		"TalentLevel": 5
+	},
+	{
+		"TalentDesc": {
+			"hash": 256543588
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [
+			"TalentDesc902110_1",
+			"TalentDesc902110_2",
+			"TalentDesc902110_3",
+			"TalentDesc902110_4",
+			"TalentDesc902110_5"
+		],
+		"PreTalent": [
+			{
+				"level": 1,
+				"talentID": 902109
+			}
+		],
+		"FeverLevelLimit": 6,
+		"LevelUpCost": [
+			{
+				"matID": 846,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 902110,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 256544549
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 889,
+				"num": 1
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 902111,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 256544550
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 846,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.2,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 902111,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 256544551
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 3,
+		"LevelUpCost": [
+			{
+				"matID": 846,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.4,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 902111,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 256544552
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 18,
+		"LevelUpCost": [
+			{
+				"matID": 846,
+				"num": 3
+			}
+		],
+		"AbilityParamBase_1": 0.65,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 902111,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 256544553
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 24,
+		"LevelUpCost": [
+			{
+				"matID": 846,
+				"num": 4
+			}
+		],
+		"AbilityParamBase_1": 0.9,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 902111,
+		"TalentLevel": 5
+	},
+	{
+		"TalentDesc": {
+			"hash": 256545510
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [
+			"TalentDesc902112_1",
+			"TalentDesc902112_2",
+			"TalentDesc902112_3",
+			"TalentDesc902112_4",
+			"TalentDesc902112_5"
+		],
+		"PreTalent": [
+			{
+				"level": 1,
+				"talentID": 902111
+			}
+		],
+		"FeverLevelLimit": 3,
+		"LevelUpCost": [
+			{
+				"matID": 846,
+				"num": 1
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 902112,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 256546471
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 884,
+				"num": 1
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 902113,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 256546472
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 846,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.2,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 902113,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 256546473
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 6,
+		"LevelUpCost": [
+			{
+				"matID": 846,
+				"num": 3
+			}
+		],
+		"AbilityParamBase_1": 0.4,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 902113,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 256546474
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 18,
+		"LevelUpCost": [
+			{
+				"matID": 846,
+				"num": 3
+			}
+		],
+		"AbilityParamBase_1": 0.65,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 902113,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 256546475
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 24,
+		"LevelUpCost": [
+			{
+				"matID": 846,
+				"num": 4
+			}
+		],
+		"AbilityParamBase_1": 0.9,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 902113,
+		"TalentLevel": 5
+	},
+	{
+		"TalentDesc": {
+			"hash": 256547432
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [
+			"TalentDesc902114_1",
+			"TalentDesc902114_2",
+			"TalentDesc902114_3",
+			"TalentDesc902114_4",
+			"TalentDesc902114_5"
+		],
+		"PreTalent": [
+			{
+				"level": 1,
+				"talentID": 902113
+			}
+		],
+		"FeverLevelLimit": 6,
+		"LevelUpCost": [
+			{
+				"matID": 846,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 902114,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 256548393
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 902115,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 256551276
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 846,
+				"num": 1
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 902118,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 285143909
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 903101,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 285143910
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 845,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.2,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 903101,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 285143911
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 3,
+		"LevelUpCost": [
+			{
+				"matID": 845,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.4,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 903101,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 285143912
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 18,
+		"LevelUpCost": [
+			{
+				"matID": 845,
+				"num": 3
+			}
+		],
+		"AbilityParamBase_1": 0.65,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 903101,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 285143913
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 24,
+		"LevelUpCost": [
+			{
+				"matID": 845,
+				"num": 4
+			}
+		],
+		"AbilityParamBase_1": 0.9,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 903101,
+		"TalentLevel": 5
+	},
+	{
+		"TalentDesc": {
+			"hash": 285144870
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [
+			"TalentDesc903102_1",
+			"TalentDesc903102_2",
+			"TalentDesc903102_3",
+			"TalentDesc903102_4",
+			"TalentDesc903102_5"
+		],
+		"PreTalent": [
+			{
+				"level": 1,
+				"talentID": 903101
+			}
+		],
+		"FeverLevelLimit": 3,
+		"LevelUpCost": [
+			{
+				"matID": 845,
+				"num": 1
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 903102,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 285145831
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 903103,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 285145832
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 845,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.2,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 903103,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 285145833
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 12,
+		"LevelUpCost": [
+			{
+				"matID": 845,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.4,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 903103,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 285145834
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 18,
+		"LevelUpCost": [
+			{
+				"matID": 845,
+				"num": 3
+			}
+		],
+		"AbilityParamBase_1": 0.65,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 903103,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 285145835
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 24,
+		"LevelUpCost": [
+			{
+				"matID": 845,
+				"num": 4
+			}
+		],
+		"AbilityParamBase_1": 0.9,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 903103,
+		"TalentLevel": 5
+	},
+	{
+		"TalentDesc": {
+			"hash": 285146792
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [
+			"TalentDesc903104_1",
+			"TalentDesc903104_2",
+			"TalentDesc903104_3",
+			"TalentDesc903104_4",
+			"TalentDesc903104_5"
+		],
+		"PreTalent": [
+			{
+				"level": 1,
+				"talentID": 903103
+			}
+		],
+		"FeverLevelLimit": 8,
+		"LevelUpCost": [
+			{
+				"matID": 845,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 903104,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 285147753
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 903105,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 285147754
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 845,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.2,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 903105,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 285147755
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 9,
+		"LevelUpCost": [
+			{
+				"matID": 845,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.4,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 903105,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 285147756
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 18,
+		"LevelUpCost": [
+			{
+				"matID": 845,
+				"num": 3
+			}
+		],
+		"AbilityParamBase_1": 0.65,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 903105,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 285147757
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 24,
+		"LevelUpCost": [
+			{
+				"matID": 845,
+				"num": 4
+			}
+		],
+		"AbilityParamBase_1": 0.9,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 903105,
+		"TalentLevel": 5
+	},
+	{
+		"TalentDesc": {
+			"hash": 285148714
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [
+			"TalentDesc903106_1",
+			"TalentDesc903106_2",
+			"TalentDesc903106_3",
+			"TalentDesc903106_4",
+			"TalentDesc903106_5"
+		],
+		"PreTalent": [
+			{
+				"level": 1,
+				"talentID": 903105
+			}
+		],
+		"FeverLevelLimit": 7,
+		"LevelUpCost": [
+			{
+				"matID": 845,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 903106,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 285149675
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 903107,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 285149676
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 845,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.2,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 903107,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 285149677
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 3,
+		"LevelUpCost": [
+			{
+				"matID": 845,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.4,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 903107,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 285149678
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 18,
+		"LevelUpCost": [
+			{
+				"matID": 845,
+				"num": 3
+			}
+		],
+		"AbilityParamBase_1": 0.65,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 903107,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 285149679
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 24,
+		"LevelUpCost": [
+			{
+				"matID": 845,
+				"num": 4
+			}
+		],
+		"AbilityParamBase_1": 0.9,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 903107,
+		"TalentLevel": 5
+	},
+	{
+		"TalentDesc": {
+			"hash": 285150636
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [
+			"TalentDesc903108_1",
+			"TalentDesc903108_2",
+			"TalentDesc903108_3",
+			"TalentDesc903108_4",
+			"TalentDesc903108_5"
+		],
+		"PreTalent": [
+			{
+				"level": 1,
+				"talentID": 903107
+			}
+		],
+		"FeverLevelLimit": 3,
+		"LevelUpCost": [
+			{
+				"matID": 845,
+				"num": 1
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 903108,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 285151597
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 903109,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 285151598
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 845,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.2,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 903109,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 285151599
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 6,
+		"LevelUpCost": [
+			{
+				"matID": 845,
+				"num": 3
+			}
+		],
+		"AbilityParamBase_1": 0.4,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 903109,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 285151600
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 18,
+		"LevelUpCost": [
+			{
+				"matID": 845,
+				"num": 3
+			}
+		],
+		"AbilityParamBase_1": 0.65,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 903109,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 285151601
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 24,
+		"LevelUpCost": [
+			{
+				"matID": 845,
+				"num": 4
+			}
+		],
+		"AbilityParamBase_1": 0.9,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 903109,
+		"TalentLevel": 5
+	},
+	{
+		"TalentDesc": {
+			"hash": 285172739
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [
+			"TalentDesc903110_1",
+			"TalentDesc903110_2",
+			"TalentDesc903110_3",
+			"TalentDesc903110_4",
+			"TalentDesc903110_5"
+		],
+		"PreTalent": [
+			{
+				"level": 1,
+				"talentID": 903109
+			}
+		],
+		"FeverLevelLimit": 6,
+		"LevelUpCost": [
+			{
+				"matID": 845,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 903110,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 285173700
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 888,
+				"num": 1
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 903111,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 285173701
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 845,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.2,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 903111,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 285173702
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 3,
+		"LevelUpCost": [
+			{
+				"matID": 845,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.4,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 903111,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 285173703
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 18,
+		"LevelUpCost": [
+			{
+				"matID": 845,
+				"num": 3
+			}
+		],
+		"AbilityParamBase_1": 0.65,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 903111,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 285173704
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 24,
+		"LevelUpCost": [
+			{
+				"matID": 845,
+				"num": 4
+			}
+		],
+		"AbilityParamBase_1": 0.9,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 903111,
+		"TalentLevel": 5
+	},
+	{
+		"TalentDesc": {
+			"hash": 285174661
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [
+			"TalentDesc903112_1",
+			"TalentDesc903112_2",
+			"TalentDesc903112_3",
+			"TalentDesc903112_4",
+			"TalentDesc903112_5"
+		],
+		"PreTalent": [
+			{
+				"level": 1,
+				"talentID": 903111
+			}
+		],
+		"FeverLevelLimit": 3,
+		"LevelUpCost": [
+			{
+				"matID": 845,
+				"num": 1
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 903112,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 285175622
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 883,
+				"num": 1
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 903113,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 285175623
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 845,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.2,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 903113,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 285175624
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 6,
+		"LevelUpCost": [
+			{
+				"matID": 845,
+				"num": 3
+			}
+		],
+		"AbilityParamBase_1": 0.4,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 903113,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 285175625
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 18,
+		"LevelUpCost": [
+			{
+				"matID": 845,
+				"num": 3
+			}
+		],
+		"AbilityParamBase_1": 0.65,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 903113,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 285175626
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 24,
+		"LevelUpCost": [
+			{
+				"matID": 845,
+				"num": 4
+			}
+		],
+		"AbilityParamBase_1": 0.9,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 903113,
+		"TalentLevel": 5
+	},
+	{
+		"TalentDesc": {
+			"hash": 285176583
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [
+			"TalentDesc903114_1",
+			"TalentDesc903114_2",
+			"TalentDesc903114_3",
+			"TalentDesc903114_4",
+			"TalentDesc903114_5"
+		],
+		"PreTalent": [
+			{
+				"level": 1,
+				"talentID": 903113
+			}
+		],
+		"FeverLevelLimit": 6,
+		"LevelUpCost": [
+			{
+				"matID": 845,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 903114,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 285177544
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 903115,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 285180427
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 845,
+				"num": 1
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 903118,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 313773060
+		},
+		"NextLevelDesc": {
+			"hash": 313773061
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 904101,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 313773061
+		},
+		"NextLevelDesc": {
+			"hash": 313773062
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 842,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.2,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 904101,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 313773062
+		},
+		"NextLevelDesc": {
+			"hash": 313773063
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 3,
+		"LevelUpCost": [
+			{
+				"matID": 842,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.4,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 904101,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 313773063
+		},
+		"NextLevelDesc": {
+			"hash": 313773064
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 18,
+		"LevelUpCost": [
+			{
+				"matID": 842,
+				"num": 3
+			}
+		],
+		"AbilityParamBase_1": 0.65,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 904101,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 313773064
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 24,
+		"LevelUpCost": [
+			{
+				"matID": 842,
+				"num": 4
+			}
+		],
+		"AbilityParamBase_1": 0.9,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 904101,
+		"TalentLevel": 5
+	},
+	{
+		"TalentDesc": {
+			"hash": 313774021
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [
+			"TalentDesc904102_1",
+			"TalentDesc904102_2",
+			"TalentDesc904102_3",
+			"TalentDesc904102_4",
+			"TalentDesc904102_5"
+		],
+		"PreTalent": [
+			{
+				"level": 1,
+				"talentID": 904101
+			}
+		],
+		"FeverLevelLimit": 3,
+		"LevelUpCost": [
+			{
+				"matID": 842,
+				"num": 1
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 904102,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 313774982
+		},
+		"NextLevelDesc": {
+			"hash": 313774983
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 904103,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 313774983
+		},
+		"NextLevelDesc": {
+			"hash": 313774984
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 842,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.2,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 904103,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 313774984
+		},
+		"NextLevelDesc": {
+			"hash": 313774985
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 12,
+		"LevelUpCost": [
+			{
+				"matID": 842,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.4,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 904103,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 313774985
+		},
+		"NextLevelDesc": {
+			"hash": 313774986
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 18,
+		"LevelUpCost": [
+			{
+				"matID": 842,
+				"num": 3
+			}
+		],
+		"AbilityParamBase_1": 0.65,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 904103,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 313774986
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 24,
+		"LevelUpCost": [
+			{
+				"matID": 842,
+				"num": 4
+			}
+		],
+		"AbilityParamBase_1": 0.9,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 904103,
+		"TalentLevel": 5
+	},
+	{
+		"TalentDesc": {
+			"hash": 313775943
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [
+			"TalentDesc904104_1",
+			"TalentDesc904104_2",
+			"TalentDesc904104_3",
+			"TalentDesc904104_4",
+			"TalentDesc904104_5"
+		],
+		"PreTalent": [
+			{
+				"level": 1,
+				"talentID": 904103
+			}
+		],
+		"FeverLevelLimit": 8,
+		"LevelUpCost": [
+			{
+				"matID": 842,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 904104,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 313776904
+		},
+		"NextLevelDesc": {
+			"hash": 313776905
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 904105,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 313776905
+		},
+		"NextLevelDesc": {
+			"hash": 313776906
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 842,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.2,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 904105,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 313776906
+		},
+		"NextLevelDesc": {
+			"hash": 313776907
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 9,
+		"LevelUpCost": [
+			{
+				"matID": 842,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.4,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 904105,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 313776907
+		},
+		"NextLevelDesc": {
+			"hash": 313776908
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 18,
+		"LevelUpCost": [
+			{
+				"matID": 842,
+				"num": 3
+			}
+		],
+		"AbilityParamBase_1": 0.65,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 904105,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 313776908
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 24,
+		"LevelUpCost": [
+			{
+				"matID": 842,
+				"num": 4
+			}
+		],
+		"AbilityParamBase_1": 0.9,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 904105,
+		"TalentLevel": 5
+	},
+	{
+		"TalentDesc": {
+			"hash": 313777865
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [
+			"TalentDesc904106_1",
+			"TalentDesc904106_2",
+			"TalentDesc904106_3",
+			"TalentDesc904106_4",
+			"TalentDesc904106_5"
+		],
+		"PreTalent": [
+			{
+				"level": 1,
+				"talentID": 904105
+			}
+		],
+		"FeverLevelLimit": 7,
+		"LevelUpCost": [
+			{
+				"matID": 842,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 904106,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 313778826
+		},
+		"NextLevelDesc": {
+			"hash": 313778827
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 904107,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 313778827
+		},
+		"NextLevelDesc": {
+			"hash": 313778828
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 842,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.2,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 904107,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 313778828
+		},
+		"NextLevelDesc": {
+			"hash": 313778829
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 3,
+		"LevelUpCost": [
+			{
+				"matID": 842,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.4,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 904107,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 313778829
+		},
+		"NextLevelDesc": {
+			"hash": 313778830
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 18,
+		"LevelUpCost": [
+			{
+				"matID": 842,
+				"num": 3
+			}
+		],
+		"AbilityParamBase_1": 0.65,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 904107,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 313778830
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 24,
+		"LevelUpCost": [
+			{
+				"matID": 842,
+				"num": 4
+			}
+		],
+		"AbilityParamBase_1": 0.9,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 904107,
+		"TalentLevel": 5
+	},
+	{
+		"TalentDesc": {
+			"hash": 313779787
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [
+			"TalentDesc904108_1",
+			"TalentDesc904108_2",
+			"TalentDesc904108_3",
+			"TalentDesc904108_4",
+			"TalentDesc904108_5"
+		],
+		"PreTalent": [
+			{
+				"level": 1,
+				"talentID": 904107
+			}
+		],
+		"FeverLevelLimit": 3,
+		"LevelUpCost": [
+			{
+				"matID": 842,
+				"num": 1
+			}
+		],
+		"AbilityParamBase_1": 0.1,
+		"AbilityParamBase_2": 2,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 904108,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 313780748
+		},
+		"NextLevelDesc": {
+			"hash": 313780749
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 5,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 904109,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 313780749
+		},
+		"NextLevelDesc": {
+			"hash": 313780750
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 842,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.2,
+		"AbilityParamBase_2": 6,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 904109,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 313780750
+		},
+		"NextLevelDesc": {
+			"hash": 313780751
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 6,
+		"LevelUpCost": [
+			{
+				"matID": 842,
+				"num": 3
+			}
+		],
+		"AbilityParamBase_1": 0.4,
+		"AbilityParamBase_2": 7,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 904109,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 313780751
+		},
+		"NextLevelDesc": {
+			"hash": 313780752
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 18,
+		"LevelUpCost": [
+			{
+				"matID": 842,
+				"num": 3
+			}
+		],
+		"AbilityParamBase_1": 0.65,
+		"AbilityParamBase_2": 9,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 904109,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 313780752
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 24,
+		"LevelUpCost": [
+			{
+				"matID": 842,
+				"num": 4
+			}
+		],
+		"AbilityParamBase_1": 0.9,
+		"AbilityParamBase_2": 12,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 904109,
+		"TalentLevel": 5
+	},
+	{
+		"TalentDesc": {
+			"hash": 313801890
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [
+			"TalentDesc904110_1",
+			"TalentDesc904110_2",
+			"TalentDesc904110_3",
+			"TalentDesc904110_4",
+			"TalentDesc904110_5"
+		],
+		"PreTalent": [
+			{
+				"level": 1,
+				"talentID": 904109
+			}
+		],
+		"FeverLevelLimit": 6,
+		"LevelUpCost": [
+			{
+				"matID": 842,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 904110,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 313802851
+		},
+		"NextLevelDesc": {
+			"hash": 313802852
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 886,
+				"num": 1
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 904111,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 313802852
+		},
+		"NextLevelDesc": {
+			"hash": 313802853
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 842,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.2,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 904111,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 313802853
+		},
+		"NextLevelDesc": {
+			"hash": 313802854
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 3,
+		"LevelUpCost": [
+			{
+				"matID": 842,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.4,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 904111,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 313802854
+		},
+		"NextLevelDesc": {
+			"hash": 313802855
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 18,
+		"LevelUpCost": [
+			{
+				"matID": 842,
+				"num": 3
+			}
+		],
+		"AbilityParamBase_1": 0.65,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 904111,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 313802855
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 24,
+		"LevelUpCost": [
+			{
+				"matID": 842,
+				"num": 4
+			}
+		],
+		"AbilityParamBase_1": 0.9,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 904111,
+		"TalentLevel": 5
+	},
+	{
+		"TalentDesc": {
+			"hash": 313803812
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [
+			"TalentDesc904112_1",
+			"TalentDesc904112_2",
+			"TalentDesc904112_3",
+			"TalentDesc904112_4",
+			"TalentDesc904112_5"
+		],
+		"PreTalent": [
+			{
+				"level": 1,
+				"talentID": 904111
+			}
+		],
+		"FeverLevelLimit": 3,
+		"LevelUpCost": [
+			{
+				"matID": 842,
+				"num": 1
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 904112,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 313804773
+		},
+		"NextLevelDesc": {
+			"hash": 313804774
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 881,
+				"num": 1
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0.05,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 904113,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 313804774
+		},
+		"NextLevelDesc": {
+			"hash": 313804775
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 842,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.2,
+		"AbilityParamBase_2": 0.1,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 904113,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 313804775
+		},
+		"NextLevelDesc": {
+			"hash": 313804776
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 6,
+		"LevelUpCost": [
+			{
+				"matID": 842,
+				"num": 3
+			}
+		],
+		"AbilityParamBase_1": 0.4,
+		"AbilityParamBase_2": 0.15,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 904113,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 313804776
+		},
+		"NextLevelDesc": {
+			"hash": 313804777
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 18,
+		"LevelUpCost": [
+			{
+				"matID": 842,
+				"num": 3
+			}
+		],
+		"AbilityParamBase_1": 0.65,
+		"AbilityParamBase_2": 0.2,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 904113,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 313804777
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 24,
+		"LevelUpCost": [
+			{
+				"matID": 842,
+				"num": 4
+			}
+		],
+		"AbilityParamBase_1": 0.9,
+		"AbilityParamBase_2": 0.3,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 904113,
+		"TalentLevel": 5
+	},
+	{
+		"TalentDesc": {
+			"hash": 313805734
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [
+			"TalentDesc904114_1",
+			"TalentDesc904114_2",
+			"TalentDesc904114_3",
+			"TalentDesc904114_4",
+			"TalentDesc904114_5"
+		],
+		"PreTalent": [
+			{
+				"level": 1,
+				"talentID": 904113
+			}
+		],
+		"FeverLevelLimit": 6,
+		"LevelUpCost": [
+			{
+				"matID": 842,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 904114,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 313806695
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 904115,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 313809578
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 904118,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 342402211
+		},
+		"NextLevelDesc": {
+			"hash": 342402212
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 905101,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 342402212
+		},
+		"NextLevelDesc": {
+			"hash": 342402213
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 843,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.2,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 905101,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 342402213
+		},
+		"NextLevelDesc": {
+			"hash": 342402214
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 3,
+		"LevelUpCost": [
+			{
+				"matID": 843,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.4,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 905101,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 342402214
+		},
+		"NextLevelDesc": {
+			"hash": 342402215
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 18,
+		"LevelUpCost": [
+			{
+				"matID": 843,
+				"num": 3
+			}
+		],
+		"AbilityParamBase_1": 0.65,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 905101,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 342402215
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 24,
+		"LevelUpCost": [
+			{
+				"matID": 843,
+				"num": 4
+			}
+		],
+		"AbilityParamBase_1": 0.9,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 905101,
+		"TalentLevel": 5
+	},
+	{
+		"TalentDesc": {
+			"hash": 342403172
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [
+			"TalentDesc905102_1",
+			"TalentDesc905102_2",
+			"TalentDesc905102_3",
+			"TalentDesc905102_4",
+			"TalentDesc905102_5"
+		],
+		"PreTalent": [
+			{
+				"level": 1,
+				"talentID": 905101
+			}
+		],
+		"FeverLevelLimit": 3,
+		"LevelUpCost": [
+			{
+				"matID": 843,
+				"num": 1
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 905102,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 342404133
+		},
+		"NextLevelDesc": {
+			"hash": 342404134
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 905103,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 342404134
+		},
+		"NextLevelDesc": {
+			"hash": 342404135
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 843,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.2,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 905103,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 342404135
+		},
+		"NextLevelDesc": {
+			"hash": 342404136
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 12,
+		"LevelUpCost": [
+			{
+				"matID": 843,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.4,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 905103,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 342404136
+		},
+		"NextLevelDesc": {
+			"hash": 342404137
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 18,
+		"LevelUpCost": [
+			{
+				"matID": 843,
+				"num": 3
+			}
+		],
+		"AbilityParamBase_1": 0.65,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 905103,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 342404137
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 24,
+		"LevelUpCost": [
+			{
+				"matID": 843,
+				"num": 4
+			}
+		],
+		"AbilityParamBase_1": 0.9,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 905103,
+		"TalentLevel": 5
+	},
+	{
+		"TalentDesc": {
+			"hash": 342405094
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [
+			"TalentDesc905104_1",
+			"TalentDesc905104_2",
+			"TalentDesc905104_3",
+			"TalentDesc905104_4",
+			"TalentDesc905104_5"
+		],
+		"PreTalent": [
+			{
+				"level": 1,
+				"talentID": 905103
+			}
+		],
+		"FeverLevelLimit": 8,
+		"LevelUpCost": [
+			{
+				"matID": 843,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 905104,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 342406055
+		},
+		"NextLevelDesc": {
+			"hash": 342406056
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 905105,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 342406056
+		},
+		"NextLevelDesc": {
+			"hash": 342406057
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 843,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.2,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 905105,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 342406057
+		},
+		"NextLevelDesc": {
+			"hash": 342406058
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 9,
+		"LevelUpCost": [
+			{
+				"matID": 843,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.4,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 905105,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 342406058
+		},
+		"NextLevelDesc": {
+			"hash": 342406059
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 18,
+		"LevelUpCost": [
+			{
+				"matID": 843,
+				"num": 3
+			}
+		],
+		"AbilityParamBase_1": 0.65,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 905105,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 342406059
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 24,
+		"LevelUpCost": [
+			{
+				"matID": 843,
+				"num": 4
+			}
+		],
+		"AbilityParamBase_1": 0.9,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 905105,
+		"TalentLevel": 5
+	},
+	{
+		"TalentDesc": {
+			"hash": 342407016
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [
+			"TalentDesc905106_1",
+			"TalentDesc905106_2",
+			"TalentDesc905106_3",
+			"TalentDesc905106_4",
+			"TalentDesc905106_5"
+		],
+		"PreTalent": [
+			{
+				"level": 1,
+				"talentID": 905105
+			}
+		],
+		"FeverLevelLimit": 7,
+		"LevelUpCost": [
+			{
+				"matID": 843,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 905106,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 342407977
+		},
+		"NextLevelDesc": {
+			"hash": 342407978
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 905107,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 342407978
+		},
+		"NextLevelDesc": {
+			"hash": 342407979
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 843,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.2,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 905107,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 342407979
+		},
+		"NextLevelDesc": {
+			"hash": 342407980
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 3,
+		"LevelUpCost": [
+			{
+				"matID": 843,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.4,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 905107,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 342407980
+		},
+		"NextLevelDesc": {
+			"hash": 342407981
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 18,
+		"LevelUpCost": [
+			{
+				"matID": 843,
+				"num": 3
+			}
+		],
+		"AbilityParamBase_1": 0.65,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 905107,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 342407981
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 24,
+		"LevelUpCost": [
+			{
+				"matID": 843,
+				"num": 4
+			}
+		],
+		"AbilityParamBase_1": 0.9,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 905107,
+		"TalentLevel": 5
+	},
+	{
+		"TalentDesc": {
+			"hash": 342408938
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [
+			"TalentDesc905108_1",
+			"TalentDesc905108_2",
+			"TalentDesc905108_3",
+			"TalentDesc905108_4",
+			"TalentDesc905108_5"
+		],
+		"PreTalent": [
+			{
+				"level": 1,
+				"talentID": 905107
+			}
+		],
+		"FeverLevelLimit": 3,
+		"LevelUpCost": [
+			{
+				"matID": 843,
+				"num": 1
+			}
+		],
+		"AbilityParamBase_1": 0.1,
+		"AbilityParamBase_2": 2,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 905108,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 342409899
+		},
+		"NextLevelDesc": {
+			"hash": 342409900
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 5,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 905109,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 342409900
+		},
+		"NextLevelDesc": {
+			"hash": 342409901
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 843,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.2,
+		"AbilityParamBase_2": 6,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 905109,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 342409901
+		},
+		"NextLevelDesc": {
+			"hash": 342409902
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 6,
+		"LevelUpCost": [
+			{
+				"matID": 843,
+				"num": 3
+			}
+		],
+		"AbilityParamBase_1": 0.4,
+		"AbilityParamBase_2": 7,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 905109,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 342409902
+		},
+		"NextLevelDesc": {
+			"hash": 342409903
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 18,
+		"LevelUpCost": [
+			{
+				"matID": 843,
+				"num": 3
+			}
+		],
+		"AbilityParamBase_1": 0.65,
+		"AbilityParamBase_2": 9,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 905109,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 342409903
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 24,
+		"LevelUpCost": [
+			{
+				"matID": 843,
+				"num": 4
+			}
+		],
+		"AbilityParamBase_1": 0.9,
+		"AbilityParamBase_2": 12,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 905109,
+		"TalentLevel": 5
+	},
+	{
+		"TalentDesc": {
+			"hash": 342431041
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [
+			"TalentDesc905110_1",
+			"TalentDesc905110_2",
+			"TalentDesc905110_3",
+			"TalentDesc905110_4",
+			"TalentDesc905110_5"
+		],
+		"PreTalent": [
+			{
+				"level": 1,
+				"talentID": 905109
+			}
+		],
+		"FeverLevelLimit": 6,
+		"LevelUpCost": [
+			{
+				"matID": 843,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 905110,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 342432002
+		},
+		"NextLevelDesc": {
+			"hash": 342432003
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 887,
+				"num": 1
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 905111,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 342432003
+		},
+		"NextLevelDesc": {
+			"hash": 342432004
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 843,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.2,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 905111,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 342432004
+		},
+		"NextLevelDesc": {
+			"hash": 342432005
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 3,
+		"LevelUpCost": [
+			{
+				"matID": 843,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.4,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 905111,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 342432005
+		},
+		"NextLevelDesc": {
+			"hash": 342432006
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 18,
+		"LevelUpCost": [
+			{
+				"matID": 843,
+				"num": 3
+			}
+		],
+		"AbilityParamBase_1": 0.65,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 905111,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 342432006
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 24,
+		"LevelUpCost": [
+			{
+				"matID": 843,
+				"num": 4
+			}
+		],
+		"AbilityParamBase_1": 0.9,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 905111,
+		"TalentLevel": 5
+	},
+	{
+		"TalentDesc": {
+			"hash": 342432963
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [
+			"TalentDesc905112_1",
+			"TalentDesc905112_2",
+			"TalentDesc905112_3",
+			"TalentDesc905112_4",
+			"TalentDesc905112_5"
+		],
+		"PreTalent": [
+			{
+				"level": 1,
+				"talentID": 905111
+			}
+		],
+		"FeverLevelLimit": 3,
+		"LevelUpCost": [
+			{
+				"matID": 843,
+				"num": 1
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 905112,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 342433924
+		},
+		"NextLevelDesc": {
+			"hash": 342433925
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 882,
+				"num": 1
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0.05,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 905113,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 342433925
+		},
+		"NextLevelDesc": {
+			"hash": 342433926
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 843,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.2,
+		"AbilityParamBase_2": 0.1,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 905113,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 342433926
+		},
+		"NextLevelDesc": {
+			"hash": 342433927
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 6,
+		"LevelUpCost": [
+			{
+				"matID": 843,
+				"num": 3
+			}
+		],
+		"AbilityParamBase_1": 0.4,
+		"AbilityParamBase_2": 0.15,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 905113,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 342433927
+		},
+		"NextLevelDesc": {
+			"hash": 342433928
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 18,
+		"LevelUpCost": [
+			{
+				"matID": 843,
+				"num": 3
+			}
+		],
+		"AbilityParamBase_1": 0.65,
+		"AbilityParamBase_2": 0.2,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 905113,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 342433928
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 24,
+		"LevelUpCost": [
+			{
+				"matID": 843,
+				"num": 4
+			}
+		],
+		"AbilityParamBase_1": 0.9,
+		"AbilityParamBase_2": 0.3,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 905113,
+		"TalentLevel": 5
+	},
+	{
+		"TalentDesc": {
+			"hash": 342434885
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [
+			"TalentDesc905114_1",
+			"TalentDesc905114_2",
+			"TalentDesc905114_3",
+			"TalentDesc905114_4",
+			"TalentDesc905114_5"
+		],
+		"PreTalent": [
+			{
+				"level": 1,
+				"talentID": 905113
+			}
+		],
+		"FeverLevelLimit": 6,
+		"LevelUpCost": [
+			{
+				"matID": 843,
+				"num": 2
+			}
+		],
+		"AbilityParamBase_1": 0.5,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 905114,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 342435846
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 905115,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 342438729
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": false,
+		"CoopAbilityName": "",
+		"CoopAbilityParam": [],
+		"DataImpl": {},
+		"TalentID": 905118,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 371031362
+		},
+		"NextLevelDesc": {
+			"hash": 371031363
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": true,
+		"CoopAbilityName": "AutoLyle1",
+		"CoopAbilityParam": [
+			"0.15"
+		],
+		"DataImpl": {},
+		"TalentID": 906101,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 371031363
+		},
+		"NextLevelDesc": {
+			"hash": 371031364
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 844,
+				"num": 5
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": true,
+		"CoopAbilityName": "AutoLyle1",
+		"CoopAbilityParam": [
+			"0.2"
+		],
+		"DataImpl": {},
+		"TalentID": 906101,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 371031364
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 844,
+				"num": 5
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": true,
+		"CoopAbilityName": "AutoLyle1",
+		"CoopAbilityParam": [
+			"0.25"
+		],
+		"DataImpl": {},
+		"TalentID": 906101,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 371032323
+		},
+		"NextLevelDesc": {
+			"hash": 371032324
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 10,
+		"LevelUpCost": [
+			{
+				"matID": 844,
+				"num": 5
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": true,
+		"CoopAbilityName": "AutoLyle2",
+		"CoopAbilityParam": [
+			"0.04"
+		],
+		"DataImpl": {},
+		"TalentID": 906102,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 371032324
+		},
+		"NextLevelDesc": {
+			"hash": 371032325
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 10,
+		"LevelUpCost": [
+			{
+				"matID": 844,
+				"num": 5
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": true,
+		"CoopAbilityName": "AutoLyle2",
+		"CoopAbilityParam": [
+			"0.08"
+		],
+		"DataImpl": {},
+		"TalentID": 906102,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 371032325
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 10,
+		"LevelUpCost": [
+			{
+				"matID": 844,
+				"num": 5
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": true,
+		"CoopAbilityName": "AutoLyle2",
+		"CoopAbilityParam": [
+			"0.12"
+		],
+		"DataImpl": {},
+		"TalentID": 906102,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 371033284
+		},
+		"NextLevelDesc": {
+			"hash": 371033285
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 20,
+		"LevelUpCost": [
+			{
+				"matID": 844,
+				"num": 5
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": true,
+		"CoopAbilityName": "AutoLyle3",
+		"CoopAbilityParam": [
+			"1"
+		],
+		"DataImpl": {},
+		"TalentID": 906103,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 371033285
+		},
+		"NextLevelDesc": {
+			"hash": 371033286
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 20,
+		"LevelUpCost": [
+			{
+				"matID": 844,
+				"num": 5
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": true,
+		"CoopAbilityName": "AutoLyle3",
+		"CoopAbilityParam": [
+			"2"
+		],
+		"DataImpl": {},
+		"TalentID": 906103,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 371033286
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 20,
+		"LevelUpCost": [
+			{
+				"matID": 844,
+				"num": 5
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": true,
+		"CoopAbilityName": "AutoLyle3",
+		"CoopAbilityParam": [
+			"3"
+		],
+		"DataImpl": {},
+		"TalentID": 906103,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 371034245
+		},
+		"NextLevelDesc": {
+			"hash": 371034246
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": true,
+		"CoopAbilityName": "SpawnFakeLyle1",
+		"CoopAbilityParam": [
+			"0.08"
+		],
+		"DataImpl": {},
+		"TalentID": 906104,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 371034246
+		},
+		"NextLevelDesc": {
+			"hash": 371034247
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 844,
+				"num": 5
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": true,
+		"CoopAbilityName": "SpawnFakeLyle1",
+		"CoopAbilityParam": [
+			"0.16"
+		],
+		"DataImpl": {},
+		"TalentID": 906104,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 371034247
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 844,
+				"num": 5
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": true,
+		"CoopAbilityName": "SpawnFakeLyle1",
+		"CoopAbilityParam": [
+			"0.24"
+		],
+		"DataImpl": {},
+		"TalentID": 906104,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 371035206
+		},
+		"NextLevelDesc": {
+			"hash": 371035207
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 844,
+				"num": 5
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": true,
+		"CoopAbilityName": "SpawnFakeLyle2",
+		"CoopAbilityParam": [
+			"0.08"
+		],
+		"DataImpl": {},
+		"TalentID": 906105,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 371035207
+		},
+		"NextLevelDesc": {
+			"hash": 371035208
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 844,
+				"num": 5
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": true,
+		"CoopAbilityName": "SpawnFakeLyle2",
+		"CoopAbilityParam": [
+			"0.16"
+		],
+		"DataImpl": {},
+		"TalentID": 906105,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 371035208
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 0,
+		"LevelUpCost": [
+			{
+				"matID": 844,
+				"num": 5
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": true,
+		"CoopAbilityName": "SpawnFakeLyle2",
+		"CoopAbilityParam": [
+			"0.24"
+		],
+		"DataImpl": {},
+		"TalentID": 906105,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 371036167
+		},
+		"NextLevelDesc": {
+			"hash": 371036168
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 15,
+		"LevelUpCost": [
+			{
+				"matID": 899,
+				"num": 1
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": true,
+		"CoopAbilityName": "SpawnFakeLyle3",
+		"CoopAbilityParam": [
+			"5.5"
+		],
+		"DataImpl": {},
+		"TalentID": 906106,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 371036168
+		},
+		"NextLevelDesc": {
+			"hash": 371036169
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 15,
+		"LevelUpCost": [
+			{
+				"matID": 844,
+				"num": 6
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": true,
+		"CoopAbilityName": "SpawnFakeLyle3",
+		"CoopAbilityParam": [
+			"6.8"
+		],
+		"DataImpl": {},
+		"TalentID": 906106,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 371036169
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 15,
+		"LevelUpCost": [
+			{
+				"matID": 844,
+				"num": 6
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": true,
+		"CoopAbilityName": "SpawnFakeLyle3",
+		"CoopAbilityParam": [
+			"10"
+		],
+		"DataImpl": {},
+		"TalentID": 906106,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 371037128
+		},
+		"NextLevelDesc": {
+			"hash": 371037129
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 25,
+		"LevelUpCost": [
+			{
+				"matID": 900,
+				"num": 1
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": true,
+		"CoopAbilityName": "SpawnFakeLyle4",
+		"CoopAbilityParam": [
+			"5.5"
+		],
+		"DataImpl": {},
+		"TalentID": 906107,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 371037129
+		},
+		"NextLevelDesc": {
+			"hash": 371037130
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 25,
+		"LevelUpCost": [
+			{
+				"matID": 844,
+				"num": 6
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": true,
+		"CoopAbilityName": "SpawnFakeLyle4",
+		"CoopAbilityParam": [
+			"6.8"
+		],
+		"DataImpl": {},
+		"TalentID": 906107,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 371037130
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"SubTalentLevelDesc": [],
+		"PreTalent": [],
+		"FeverLevelLimit": 25,
+		"LevelUpCost": [
+			{
+				"matID": 844,
+				"num": 7
+			}
+		],
+		"AbilityParamBase_1": 0,
+		"AbilityParamBase_2": 0,
+		"AbilityParamBase_3": 0,
+		"IsCoopTalent": true,
+		"CoopAbilityName": "SpawnFakeLyle4",
+		"CoopAbilityParam": [
+			"10"
+		],
+		"DataImpl": {},
+		"TalentID": 906107,
+		"TalentLevel": 3
+	}
+]

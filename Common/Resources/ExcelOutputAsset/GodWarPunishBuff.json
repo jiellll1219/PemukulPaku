@@ -1,0 +1,8279 @@
+[
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": 1361998149
+		},
+		"PunishBuffDesc": {
+			"hash": 538739275
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618475355
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 100
+	},
+	{
+		"PunishLevelCost": 10,
+		"PunishBuffName": {
+			"hash": 1361998150
+		},
+		"PunishBuffDesc": {
+			"hash": 538739276
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618475354
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 101
+	},
+	{
+		"PunishLevelCost": 10,
+		"PunishBuffName": {
+			"hash": 1361998151
+		},
+		"PunishBuffDesc": {
+			"hash": 538739277
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618475353
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 102
+	},
+	{
+		"PunishLevelCost": 10,
+		"PunishBuffName": {
+			"hash": 1361998152
+		},
+		"PunishBuffDesc": {
+			"hash": 538739278
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618475352
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 103
+	},
+	{
+		"PunishLevelCost": 5,
+		"PunishBuffName": {
+			"hash": 1361998153
+		},
+		"PunishBuffDesc": {
+			"hash": 538739279
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_PunishmentContract_HpUp1",
+		"PunishBuffParamList": [
+			"0.1",
+			"0.05"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618475351
+		},
+		"UnlockMissionID": 660183,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 104
+	},
+	{
+		"PunishLevelCost": 5,
+		"PunishBuffName": {
+			"hash": 1361998154
+		},
+		"PunishBuffDesc": {
+			"hash": 538739280
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_PunishmentContract_AtkUp1",
+		"PunishBuffParamList": [
+			"0.15",
+			"0.1"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618475350
+		},
+		"UnlockMissionID": 660183,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 105
+	},
+	{
+		"PunishLevelCost": 5,
+		"PunishBuffName": {
+			"hash": 1361998155
+		},
+		"PunishBuffDesc": {
+			"hash": 538739281
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_PunishmentContract_DamageDeduce",
+		"PunishBuffParamList": [
+			"-0.15"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618475349
+		},
+		"UnlockMissionID": 660183,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 106
+	},
+	{
+		"PunishLevelCost": 5,
+		"PunishBuffName": {
+			"hash": 1361998156
+		},
+		"PunishBuffDesc": {
+			"hash": 538739282
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_PunishmentContract_ElementDamageDeduce",
+		"PunishBuffParamList": [
+			"-0.15"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618475348
+		},
+		"UnlockMissionID": 660183,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 107
+	},
+	{
+		"PunishLevelCost": 10,
+		"PunishBuffName": {
+			"hash": 1361998157
+		},
+		"PunishBuffDesc": {
+			"hash": 538739283
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_PunishmentContract_HpUp2",
+		"PunishBuffParamList": [
+			"0.2",
+			"0.1"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618475347
+		},
+		"UnlockMissionID": 660680,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 108
+	},
+	{
+		"PunishLevelCost": 10,
+		"PunishBuffName": {
+			"hash": 1361998158
+		},
+		"PunishBuffDesc": {
+			"hash": 538739284
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_PunishmentContract_AtkUp2",
+		"PunishBuffParamList": [
+			"0.3",
+			"0.2"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618475346
+		},
+		"UnlockMissionID": 660680,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 109
+	},
+	{
+		"PunishLevelCost": 10,
+		"PunishBuffName": {
+			"hash": 1361998180
+		},
+		"PunishBuffDesc": {
+			"hash": 538739306
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_PunishmentContract_AnimRankDeduce",
+		"PunishBuffParamList": [
+			"-2"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618475324
+		},
+		"UnlockMissionID": 660680,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 110
+	},
+	{
+		"PunishLevelCost": 20,
+		"PunishBuffName": {
+			"hash": 1361998181
+		},
+		"PunishBuffDesc": {
+			"hash": 538739307
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_PunishmentContract_Fever",
+		"PunishBuffParamList": [
+			"0.8",
+			"0.4"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618475323
+		},
+		"UnlockMissionID": 660682,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 111
+	},
+	{
+		"PunishLevelCost": 20,
+		"PunishBuffName": {
+			"hash": 1361998182
+		},
+		"PunishBuffDesc": {
+			"hash": 538739308
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_PunishmentContract_Shield",
+		"PunishBuffParamList": [
+			"-999"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618475322
+		},
+		"UnlockMissionID": 660682,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 112
+	},
+	{
+		"PunishLevelCost": 30,
+		"PunishBuffName": {
+			"hash": 1361998183
+		},
+		"PunishBuffDesc": {
+			"hash": 538739309
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_PunishmentContract_Sp",
+		"PunishBuffParamList": [
+			"-999"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618475321
+		},
+		"UnlockMissionID": 660685,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 113
+	},
+	{
+		"PunishLevelCost": 5,
+		"PunishBuffName": {
+			"hash": 1361999114
+		},
+		"PunishBuffDesc": {
+			"hash": 538740240
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_PunishmentContract_HpUp1",
+		"PunishBuffParamList": [
+			"0.1",
+			"0.05"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 660183,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 204
+	},
+	{
+		"PunishLevelCost": 5,
+		"PunishBuffName": {
+			"hash": 1361999115
+		},
+		"PunishBuffDesc": {
+			"hash": 538740241
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_PunishmentContract_AtkUp1",
+		"PunishBuffParamList": [
+			"0.15",
+			"0.1"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474389
+		},
+		"UnlockMissionID": 660183,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 205
+	},
+	{
+		"PunishLevelCost": 5,
+		"PunishBuffName": {
+			"hash": 1361999116
+		},
+		"PunishBuffDesc": {
+			"hash": 538740242
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_PunishmentPhysical",
+		"PunishBuffParamList": [
+			"-0.1",
+			"3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474388
+		},
+		"UnlockMissionID": 660183,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 206
+	},
+	{
+		"PunishLevelCost": 5,
+		"PunishBuffName": {
+			"hash": 1361999117
+		},
+		"PunishBuffDesc": {
+			"hash": 538740243
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_PunishmentElemental",
+		"PunishBuffParamList": [
+			"-0.1",
+			"3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474387
+		},
+		"UnlockMissionID": 660183,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 207
+	},
+	{
+		"PunishLevelCost": 10,
+		"PunishBuffName": {
+			"hash": 1361999118
+		},
+		"PunishBuffDesc": {
+			"hash": 538740244
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_PunishmentContract_HpUp2",
+		"PunishBuffParamList": [
+			"0.2",
+			"0.1"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474386
+		},
+		"UnlockMissionID": 660680,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 208
+	},
+	{
+		"PunishLevelCost": 10,
+		"PunishBuffName": {
+			"hash": 1361999119
+		},
+		"PunishBuffDesc": {
+			"hash": 538740245
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_PunishmentContract_AtkUp2",
+		"PunishBuffParamList": [
+			"0.3",
+			"0.2"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474385
+		},
+		"UnlockMissionID": 660680,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 209
+	},
+	{
+		"PunishLevelCost": 10,
+		"PunishBuffName": {
+			"hash": 1361999141
+		},
+		"PunishBuffDesc": {
+			"hash": 538740267
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_PunishmentExcepthion",
+		"PunishBuffParamList": [
+			"80",
+			"-0.2",
+			"-0.4",
+			"100",
+			"3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474363
+		},
+		"UnlockMissionID": 660680,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 210
+	},
+	{
+		"PunishLevelCost": 20,
+		"PunishBuffName": {
+			"hash": 1361999142
+		},
+		"PunishBuffDesc": {
+			"hash": 538740268
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_PunishmentContract_Fever",
+		"PunishBuffParamList": [
+			"0.8",
+			"0.4"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474362
+		},
+		"UnlockMissionID": 660682,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 211
+	},
+	{
+		"PunishLevelCost": 20,
+		"PunishBuffName": {
+			"hash": 1361999143
+		},
+		"PunishBuffDesc": {
+			"hash": 538740269
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_PunishmentResist",
+		"PunishBuffParamList": [
+			"-0.15",
+			"3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474361
+		},
+		"UnlockMissionID": 660682,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 212
+	},
+	{
+		"PunishLevelCost": 30,
+		"PunishBuffName": {
+			"hash": 1361999144
+		},
+		"PunishBuffDesc": {
+			"hash": 538740270
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_PunishmentAll",
+		"PunishBuffParamList": [
+			"-0.2",
+			"3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474360
+		},
+		"UnlockMissionID": 660685,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 213
+	},
+	{
+		"PunishLevelCost": 5,
+		"PunishBuffName": {
+			"hash": 1362000071
+		},
+		"PunishBuffDesc": {
+			"hash": 538741197
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_PunishmentContract_HpUp1",
+		"PunishBuffParamList": [
+			"0.1",
+			"0.05"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 660183,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 300
+	},
+	{
+		"PunishLevelCost": 5,
+		"PunishBuffName": {
+			"hash": 1362000072
+		},
+		"PunishBuffDesc": {
+			"hash": 538741198
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_PunishmentContract_AtkUp1",
+		"PunishBuffParamList": [
+			"0.15",
+			"0.1"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474389
+		},
+		"UnlockMissionID": 660183,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 301
+	},
+	{
+		"PunishLevelCost": 5,
+		"PunishBuffName": {
+			"hash": 1362000073
+		},
+		"PunishBuffDesc": {
+			"hash": 538741199
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_Punishment_Set3_1",
+		"PunishBuffParamList": [
+			"0.2",
+			"-1"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474388
+		},
+		"UnlockMissionID": 660183,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 302
+	},
+	{
+		"PunishLevelCost": 5,
+		"PunishBuffName": {
+			"hash": 1362000074
+		},
+		"PunishBuffDesc": {
+			"hash": 538741200
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_Punishment_Set3_2",
+		"PunishBuffParamList": [
+			"0.2",
+			"-1"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474387
+		},
+		"UnlockMissionID": 660183,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 303
+	},
+	{
+		"PunishLevelCost": 10,
+		"PunishBuffName": {
+			"hash": 1362000075
+		},
+		"PunishBuffDesc": {
+			"hash": 538741201
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_PunishmentContract_HpUp2",
+		"PunishBuffParamList": [
+			"0.2",
+			"0.1"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474386
+		},
+		"UnlockMissionID": 660680,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 304
+	},
+	{
+		"PunishLevelCost": 10,
+		"PunishBuffName": {
+			"hash": 1362000076
+		},
+		"PunishBuffDesc": {
+			"hash": 538741202
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_PunishmentContract_AtkUp2",
+		"PunishBuffParamList": [
+			"0.3",
+			"0.2"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474385
+		},
+		"UnlockMissionID": 660680,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 305
+	},
+	{
+		"PunishLevelCost": 10,
+		"PunishBuffName": {
+			"hash": 1362000077
+		},
+		"PunishBuffDesc": {
+			"hash": 538741203
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_Punishment_Set3_3_New",
+		"PunishBuffParamList": [
+			"0.2",
+			"2"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474363
+		},
+		"UnlockMissionID": 660680,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 306
+	},
+	{
+		"PunishLevelCost": 20,
+		"PunishBuffName": {
+			"hash": 1362000078
+		},
+		"PunishBuffDesc": {
+			"hash": 538741204
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_PunishmentContract_Fever",
+		"PunishBuffParamList": [
+			"0.8",
+			"0.4"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474362
+		},
+		"UnlockMissionID": 660682,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 307
+	},
+	{
+		"PunishLevelCost": 20,
+		"PunishBuffName": {
+			"hash": 1362000079
+		},
+		"PunishBuffDesc": {
+			"hash": 538741205
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474361
+		},
+		"UnlockMissionID": 660682,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 308
+	},
+	{
+		"PunishLevelCost": 30,
+		"PunishBuffName": {
+			"hash": 1362000080
+		},
+		"PunishBuffDesc": {
+			"hash": 538741206
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_Punishment_Set3_4",
+		"PunishBuffParamList": [
+			"30"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474360
+		},
+		"UnlockMissionID": 660685,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 309
+	},
+	{
+		"PunishLevelCost": 5,
+		"PunishBuffName": {
+			"hash": 1362001032
+		},
+		"PunishBuffDesc": {
+			"hash": 538742158
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_PunishmentContract_HpUp1",
+		"PunishBuffParamList": [
+			"0.1",
+			"0.05"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 660183,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 400
+	},
+	{
+		"PunishLevelCost": 5,
+		"PunishBuffName": {
+			"hash": 1362001033
+		},
+		"PunishBuffDesc": {
+			"hash": 538742159
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_PunishmentContract_AtkUp1",
+		"PunishBuffParamList": [
+			"0.1",
+			"0.05"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474389
+		},
+		"UnlockMissionID": 660183,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 401
+	},
+	{
+		"PunishLevelCost": 5,
+		"PunishBuffName": {
+			"hash": 1362001034
+		},
+		"PunishBuffDesc": {
+			"hash": 538742160
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_Punishment_Set4_1",
+		"PunishBuffParamList": [
+			"3",
+			"-0.1"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474388
+		},
+		"UnlockMissionID": 660183,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 402
+	},
+	{
+		"PunishLevelCost": 5,
+		"PunishBuffName": {
+			"hash": 1362001035
+		},
+		"PunishBuffDesc": {
+			"hash": 538742161
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_Punishment_Set4_2",
+		"PunishBuffParamList": [
+			"3",
+			"-0.1"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474387
+		},
+		"UnlockMissionID": 660183,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 403
+	},
+	{
+		"PunishLevelCost": 10,
+		"PunishBuffName": {
+			"hash": 1362001036
+		},
+		"PunishBuffDesc": {
+			"hash": 538742162
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_PunishmentContract_HpUp2",
+		"PunishBuffParamList": [
+			"0.2",
+			"0.1"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474386
+		},
+		"UnlockMissionID": 660680,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 404
+	},
+	{
+		"PunishLevelCost": 10,
+		"PunishBuffName": {
+			"hash": 1362001037
+		},
+		"PunishBuffDesc": {
+			"hash": 538742163
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_PunishmentContract_AtkUp2",
+		"PunishBuffParamList": [
+			"0.15",
+			"0.1"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474385
+		},
+		"UnlockMissionID": 660680,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 405
+	},
+	{
+		"PunishLevelCost": 10,
+		"PunishBuffName": {
+			"hash": 1362001038
+		},
+		"PunishBuffDesc": {
+			"hash": 538742164
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_Punishment_Set4_3",
+		"PunishBuffParamList": [
+			"0.2"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474363
+		},
+		"UnlockMissionID": 660680,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 406
+	},
+	{
+		"PunishLevelCost": 20,
+		"PunishBuffName": {
+			"hash": 1362001039
+		},
+		"PunishBuffDesc": {
+			"hash": 538742165
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_PunishmentContract_Fever",
+		"PunishBuffParamList": [
+			"0.8",
+			"0.4"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474362
+		},
+		"UnlockMissionID": 660682,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 407
+	},
+	{
+		"PunishLevelCost": 20,
+		"PunishBuffName": {
+			"hash": 1362001040
+		},
+		"PunishBuffDesc": {
+			"hash": 538742166
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_Punishment_Set4_4",
+		"PunishBuffParamList": [
+			"0.07",
+			"-0.07",
+			"5"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474361
+		},
+		"UnlockMissionID": 660682,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 408
+	},
+	{
+		"PunishLevelCost": 30,
+		"PunishBuffName": {
+			"hash": 1362001041
+		},
+		"PunishBuffDesc": {
+			"hash": 538742167
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_Punishment_Set4_5",
+		"PunishBuffParamList": [
+			"-0.3",
+			"0.3",
+			"5"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474360
+		},
+		"UnlockMissionID": 660685,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 409
+	},
+	{
+		"PunishLevelCost": 5,
+		"PunishBuffName": {
+			"hash": 1362001993
+		},
+		"PunishBuffDesc": {
+			"hash": 538743119
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_PunishmentContract_HpUp1",
+		"PunishBuffParamList": [
+			"0.08",
+			"0.04"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 660183,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 500
+	},
+	{
+		"PunishLevelCost": 5,
+		"PunishBuffName": {
+			"hash": 1362001994
+		},
+		"PunishBuffDesc": {
+			"hash": 538743120
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_PunishmentContract_AtkUp1",
+		"PunishBuffParamList": [
+			"0.1",
+			"0.05"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474389
+		},
+		"UnlockMissionID": 660183,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 501
+	},
+	{
+		"PunishLevelCost": 5,
+		"PunishBuffName": {
+			"hash": 1362001995
+		},
+		"PunishBuffDesc": {
+			"hash": 538743121
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_Punishment_V5_4_1",
+		"PunishBuffParamList": [
+			"0.06",
+			"6"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474388
+		},
+		"UnlockMissionID": 660183,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 502
+	},
+	{
+		"PunishLevelCost": 5,
+		"PunishBuffName": {
+			"hash": 1362001996
+		},
+		"PunishBuffDesc": {
+			"hash": 538743122
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_Punishment_V5_4_2",
+		"PunishBuffParamList": [
+			"0.06",
+			"6"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474387
+		},
+		"UnlockMissionID": 660183,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 503
+	},
+	{
+		"PunishLevelCost": 10,
+		"PunishBuffName": {
+			"hash": 1362001997
+		},
+		"PunishBuffDesc": {
+			"hash": 538743123
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_PunishmentContract_HpUp2",
+		"PunishBuffParamList": [
+			"0.16",
+			"0.08"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474386
+		},
+		"UnlockMissionID": 660680,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 504
+	},
+	{
+		"PunishLevelCost": 10,
+		"PunishBuffName": {
+			"hash": 1362001998
+		},
+		"PunishBuffDesc": {
+			"hash": 538743124
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_PunishmentContract_AtkUp2",
+		"PunishBuffParamList": [
+			"0.15",
+			"0.1"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474385
+		},
+		"UnlockMissionID": 660680,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 505
+	},
+	{
+		"PunishLevelCost": 10,
+		"PunishBuffName": {
+			"hash": 1362001999
+		},
+		"PunishBuffDesc": {
+			"hash": 538743125
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_Punishment_V5_4_3",
+		"PunishBuffParamList": [
+			"0.1",
+			"40"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474363
+		},
+		"UnlockMissionID": 660680,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 506
+	},
+	{
+		"PunishLevelCost": 20,
+		"PunishBuffName": {
+			"hash": 1362002000
+		},
+		"PunishBuffDesc": {
+			"hash": 538743126
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_PunishmentContract_Fever",
+		"PunishBuffParamList": [
+			"0.8",
+			"0.4"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474362
+		},
+		"UnlockMissionID": 660682,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 507
+	},
+	{
+		"PunishLevelCost": 20,
+		"PunishBuffName": {
+			"hash": 1362002001
+		},
+		"PunishBuffDesc": {
+			"hash": 538743127
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474361
+		},
+		"UnlockMissionID": 660682,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 508
+	},
+	{
+		"PunishLevelCost": 30,
+		"PunishBuffName": {
+			"hash": 1362002002
+		},
+		"PunishBuffDesc": {
+			"hash": 538743128
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_Punishment_V5_4_4",
+		"PunishBuffParamList": [
+			"0.2"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474360
+		},
+		"UnlockMissionID": 660685,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 509
+	},
+	{
+		"PunishLevelCost": 5,
+		"PunishBuffName": {
+			"hash": 1362002954
+		},
+		"PunishBuffDesc": {
+			"hash": 538744080
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_PunishmentContract_HpUp1",
+		"PunishBuffParamList": [
+			"0.08",
+			"0.04"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 660183,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 600
+	},
+	{
+		"PunishLevelCost": 5,
+		"PunishBuffName": {
+			"hash": 1362002955
+		},
+		"PunishBuffDesc": {
+			"hash": 538744081
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_PunishmentContract_AtkUp1",
+		"PunishBuffParamList": [
+			"0.1",
+			"0.05"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474389
+		},
+		"UnlockMissionID": 660183,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 601
+	},
+	{
+		"PunishLevelCost": 5,
+		"PunishBuffName": {
+			"hash": 1362002956
+		},
+		"PunishBuffDesc": {
+			"hash": 538744082
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_Punishment_V5_5_1",
+		"PunishBuffParamList": [
+			"0.05",
+			"5"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474388
+		},
+		"UnlockMissionID": 660183,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 602
+	},
+	{
+		"PunishLevelCost": 5,
+		"PunishBuffName": {
+			"hash": 1362002957
+		},
+		"PunishBuffDesc": {
+			"hash": 538744083
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_Punishment_V5_5_2",
+		"PunishBuffParamList": [
+			"0.05",
+			"5"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474387
+		},
+		"UnlockMissionID": 660183,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 603
+	},
+	{
+		"PunishLevelCost": 10,
+		"PunishBuffName": {
+			"hash": 1362002958
+		},
+		"PunishBuffDesc": {
+			"hash": 538744084
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_PunishmentContract_HpUp2",
+		"PunishBuffParamList": [
+			"0.16",
+			"0.08"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474386
+		},
+		"UnlockMissionID": 660680,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 604
+	},
+	{
+		"PunishLevelCost": 10,
+		"PunishBuffName": {
+			"hash": 1362002959
+		},
+		"PunishBuffDesc": {
+			"hash": 538744085
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_PunishmentContract_AtkUp2",
+		"PunishBuffParamList": [
+			"0.15",
+			"0.1"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474385
+		},
+		"UnlockMissionID": 660680,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 605
+	},
+	{
+		"PunishLevelCost": 10,
+		"PunishBuffName": {
+			"hash": 1362002960
+		},
+		"PunishBuffDesc": {
+			"hash": 538744086
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474363
+		},
+		"UnlockMissionID": 660680,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 606
+	},
+	{
+		"PunishLevelCost": 20,
+		"PunishBuffName": {
+			"hash": 1362002961
+		},
+		"PunishBuffDesc": {
+			"hash": 538744087
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_PunishmentContract_Fever",
+		"PunishBuffParamList": [
+			"0.8",
+			"0.4"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474362
+		},
+		"UnlockMissionID": 660682,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 607
+	},
+	{
+		"PunishLevelCost": 20,
+		"PunishBuffName": {
+			"hash": 1362002962
+		},
+		"PunishBuffDesc": {
+			"hash": 538744088
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_Punishment_V5_5_3",
+		"PunishBuffParamList": [
+			"0.15",
+			"0.08",
+			"8"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474361
+		},
+		"UnlockMissionID": 660682,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 608
+	},
+	{
+		"PunishLevelCost": 30,
+		"PunishBuffName": {
+			"hash": 1362002963
+		},
+		"PunishBuffDesc": {
+			"hash": 538744089
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "Ability_RogueTower_Punishment_V5_5_4",
+		"PunishBuffParamList": [
+			"0.1",
+			"0.15",
+			"8"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474360
+		},
+		"UnlockMissionID": 660685,
+		"PunishBuffIcon": "",
+		"DataImpl": {},
+		"PunishBuffID": 609
+	},
+	{
+		"PunishLevelCost": 199,
+		"PunishBuffName": {
+			"hash": -727730293
+		},
+		"PunishBuffDesc": {
+			"hash": -478951611
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 660183,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 1000
+	},
+	{
+		"PunishLevelCost": 200,
+		"PunishBuffName": {
+			"hash": -727730292
+		},
+		"PunishBuffDesc": {
+			"hash": -478951610
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 660183,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 1001
+	},
+	{
+		"PunishLevelCost": 201,
+		"PunishBuffName": {
+			"hash": -727730291
+		},
+		"PunishBuffDesc": {
+			"hash": -478951609
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 660183,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 1002
+	},
+	{
+		"PunishLevelCost": 202,
+		"PunishBuffName": {
+			"hash": -727730290
+		},
+		"PunishBuffDesc": {
+			"hash": -478951608
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 660183,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 1003
+	},
+	{
+		"PunishLevelCost": 203,
+		"PunishBuffName": {
+			"hash": -727730289
+		},
+		"PunishBuffDesc": {
+			"hash": -478951607
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 660183,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 1004
+	},
+	{
+		"PunishLevelCost": 300,
+		"PunishBuffName": {
+			"hash": -727725487
+		},
+		"PunishBuffDesc": {
+			"hash": -478946805
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 1501
+	},
+	{
+		"PunishLevelCost": 301,
+		"PunishBuffName": {
+			"hash": -727725487
+		},
+		"PunishBuffDesc": {
+			"hash": -478946805
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 1502
+	},
+	{
+		"PunishLevelCost": 302,
+		"PunishBuffName": {
+			"hash": -727725487
+		},
+		"PunishBuffDesc": {
+			"hash": -478946805
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 1503
+	},
+	{
+		"PunishLevelCost": 303,
+		"PunishBuffName": {
+			"hash": -727725487
+		},
+		"PunishBuffDesc": {
+			"hash": -478946805
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 1504
+	},
+	{
+		"PunishLevelCost": 304,
+		"PunishBuffName": {
+			"hash": -727725487
+		},
+		"PunishBuffDesc": {
+			"hash": -478946805
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 1505
+	},
+	{
+		"PunishLevelCost": 305,
+		"PunishBuffName": {
+			"hash": -727725487
+		},
+		"PunishBuffDesc": {
+			"hash": -478946805
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 1506
+	},
+	{
+		"PunishLevelCost": 306,
+		"PunishBuffName": {
+			"hash": -727725487
+		},
+		"PunishBuffDesc": {
+			"hash": -478946805
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 1507
+	},
+	{
+		"PunishLevelCost": 300,
+		"PunishBuffName": {
+			"hash": -727724526
+		},
+		"PunishBuffDesc": {
+			"hash": -478945844
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 1601
+	},
+	{
+		"PunishLevelCost": 301,
+		"PunishBuffName": {
+			"hash": -727724526
+		},
+		"PunishBuffDesc": {
+			"hash": -478945844
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 1602
+	},
+	{
+		"PunishLevelCost": 302,
+		"PunishBuffName": {
+			"hash": -727724526
+		},
+		"PunishBuffDesc": {
+			"hash": -478945844
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 1603
+	},
+	{
+		"PunishLevelCost": 303,
+		"PunishBuffName": {
+			"hash": -727724526
+		},
+		"PunishBuffDesc": {
+			"hash": -478945844
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 1604
+	},
+	{
+		"PunishLevelCost": 304,
+		"PunishBuffName": {
+			"hash": -727724526
+		},
+		"PunishBuffDesc": {
+			"hash": -478945844
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 1605
+	},
+	{
+		"PunishLevelCost": 305,
+		"PunishBuffName": {
+			"hash": -727724526
+		},
+		"PunishBuffDesc": {
+			"hash": -478945844
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 1606
+	},
+	{
+		"PunishLevelCost": 306,
+		"PunishBuffName": {
+			"hash": -727724526
+		},
+		"PunishBuffDesc": {
+			"hash": -478945844
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 1607
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727730288
+		},
+		"PunishBuffDesc": {
+			"hash": -710989700
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_6_1",
+		"PunishBuffParamList": [
+			"-0.015",
+			"5",
+			"15",
+			"1"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2001
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727730288
+		},
+		"PunishBuffDesc": {
+			"hash": -710989700
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_6_1",
+		"PunishBuffParamList": [
+			"-0.015",
+			"5",
+			"15",
+			"1"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2002
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727730288
+		},
+		"PunishBuffDesc": {
+			"hash": -478951606
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_6_1",
+		"PunishBuffParamList": [
+			"-0.03",
+			"5",
+			"15",
+			"1"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2003
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727730288
+		},
+		"PunishBuffDesc": {
+			"hash": -478951606
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_6_1",
+		"PunishBuffParamList": [
+			"-0.03",
+			"5",
+			"15",
+			"1"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2004
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727730288
+		},
+		"PunishBuffDesc": {
+			"hash": -478951606
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_6_1",
+		"PunishBuffParamList": [
+			"-0.03",
+			"5",
+			"15",
+			"1"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2005
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727730288
+		},
+		"PunishBuffDesc": {
+			"hash": -478951606
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_6_1",
+		"PunishBuffParamList": [
+			"-0.03",
+			"5",
+			"15",
+			"1"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2006
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727730288
+		},
+		"PunishBuffDesc": {
+			"hash": -478951606
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_6_1",
+		"PunishBuffParamList": [
+			"-0.03",
+			"5",
+			"15",
+			"1"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2007
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727700494
+		},
+		"PunishBuffDesc": {
+			"hash": -478921812
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_6_4",
+		"PunishBuffParamList": [
+			"0.2"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2008
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727700493
+		},
+		"PunishBuffDesc": {
+			"hash": -478921811
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2009
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727700471
+		},
+		"PunishBuffDesc": {
+			"hash": -478921789
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_6_2",
+		"PunishBuffParamList": [
+			"0.4"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2010
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727700470
+		},
+		"PunishBuffDesc": {
+			"hash": -682334602
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_6_3",
+		"PunishBuffParamList": [
+			"-0.1",
+			"-0.2"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2011
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727700470
+		},
+		"PunishBuffDesc": {
+			"hash": -682334602
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_6_3",
+		"PunishBuffParamList": [
+			"-0.1",
+			"-0.2"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2012
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727700470
+		},
+		"PunishBuffDesc": {
+			"hash": -478921788
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_6_3",
+		"PunishBuffParamList": [
+			"-0.15",
+			"-0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2013
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727700470
+		},
+		"PunishBuffDesc": {
+			"hash": -478921788
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_6_3",
+		"PunishBuffParamList": [
+			"-0.15",
+			"-0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2014
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727700470
+		},
+		"PunishBuffDesc": {
+			"hash": -478921788
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_6_3",
+		"PunishBuffParamList": [
+			"-0.15",
+			"-0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2015
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727700470
+		},
+		"PunishBuffDesc": {
+			"hash": -478921788
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_6_3",
+		"PunishBuffParamList": [
+			"-0.15",
+			"-0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2016
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727700470
+		},
+		"PunishBuffDesc": {
+			"hash": -478921788
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_6_3",
+		"PunishBuffParamList": [
+			"-0.15",
+			"-0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2017
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727700463
+		},
+		"PunishBuffDesc": {
+			"hash": -478921781
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_6_5",
+		"PunishBuffParamList": [
+			"0.15"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2018
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727700462
+		},
+		"PunishBuffDesc": {
+			"hash": -478921780
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2019
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727700471
+		},
+		"PunishBuffDesc": {
+			"hash": -478921789
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_6_2",
+		"PunishBuffParamList": [
+			"0.4"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2020
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699540
+		},
+		"PunishBuffDesc": {
+			"hash": -681440872
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_7_1",
+		"PunishBuffParamList": [
+			"-0.08"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2101
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699540
+		},
+		"PunishBuffDesc": {
+			"hash": -681440872
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_7_1",
+		"PunishBuffParamList": [
+			"-0.08"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2102
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699540
+		},
+		"PunishBuffDesc": {
+			"hash": -478920858
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_7_1",
+		"PunishBuffParamList": [
+			"-0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2103
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699540
+		},
+		"PunishBuffDesc": {
+			"hash": -478920858
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_7_1",
+		"PunishBuffParamList": [
+			"-0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2104
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699540
+		},
+		"PunishBuffDesc": {
+			"hash": -478920858
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_7_1",
+		"PunishBuffParamList": [
+			"-0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2105
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699540
+		},
+		"PunishBuffDesc": {
+			"hash": -478920858
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_7_1",
+		"PunishBuffParamList": [
+			"-0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2106
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699540
+		},
+		"PunishBuffDesc": {
+			"hash": -478920858
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_7_1",
+		"PunishBuffParamList": [
+			"-0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2107
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699533
+		},
+		"PunishBuffDesc": {
+			"hash": -478920851
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_7_2",
+		"PunishBuffParamList": [
+			"0.2"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2108
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699532
+		},
+		"PunishBuffDesc": {
+			"hash": -478920850
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2109
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699510
+		},
+		"PunishBuffDesc": {
+			"hash": -478920828
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_7_3",
+		"PunishBuffParamList": [
+			"0.15"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2110
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699509
+		},
+		"PunishBuffDesc": {
+			"hash": -681411081
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_7_4",
+		"PunishBuffParamList": [
+			"-0.1",
+			"40",
+			"0.1"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2111
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699509
+		},
+		"PunishBuffDesc": {
+			"hash": -681411081
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_7_4",
+		"PunishBuffParamList": [
+			"-0.1",
+			"40",
+			"0.1"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2112
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699509
+		},
+		"PunishBuffDesc": {
+			"hash": -478920827
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_7_4",
+		"PunishBuffParamList": [
+			"-0.35",
+			"40",
+			"0.06"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2113
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699509
+		},
+		"PunishBuffDesc": {
+			"hash": -478920827
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_7_4",
+		"PunishBuffParamList": [
+			"-0.35",
+			"40",
+			"0.06"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2114
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699509
+		},
+		"PunishBuffDesc": {
+			"hash": -478920827
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_7_4",
+		"PunishBuffParamList": [
+			"-0.35",
+			"40",
+			"0.06"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2115
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699509
+		},
+		"PunishBuffDesc": {
+			"hash": -478920827
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_7_4",
+		"PunishBuffParamList": [
+			"-0.35",
+			"40",
+			"0.06"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2116
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699509
+		},
+		"PunishBuffDesc": {
+			"hash": -478920827
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_7_4",
+		"PunishBuffParamList": [
+			"-0.35",
+			"40",
+			"0.06"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2117
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699533
+		},
+		"PunishBuffDesc": {
+			"hash": -478920851
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_7_2",
+		"PunishBuffParamList": [
+			"0.2"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2118
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699501
+		},
+		"PunishBuffDesc": {
+			"hash": -478920819
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2119
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699510
+		},
+		"PunishBuffDesc": {
+			"hash": -478920828
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_7_3",
+		"PunishBuffParamList": [
+			"0.15"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2120
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699478
+		},
+		"PunishBuffDesc": {
+			"hash": -478920796
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_8_1",
+		"PunishBuffParamList": [
+			"0.01",
+			"0.1"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2121
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699477
+		},
+		"PunishBuffDesc": {
+			"hash": -478920796
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_8_1",
+		"PunishBuffParamList": [
+			"0.01",
+			"0.1"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2122
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699476
+		},
+		"PunishBuffDesc": {
+			"hash": -478920794
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_8_1",
+		"PunishBuffParamList": [
+			"0.02",
+			"0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2123
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699475
+		},
+		"PunishBuffDesc": {
+			"hash": -478920794
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_8_1",
+		"PunishBuffParamList": [
+			"0.02",
+			"0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2124
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699474
+		},
+		"PunishBuffDesc": {
+			"hash": -478920794
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_8_1",
+		"PunishBuffParamList": [
+			"0.02",
+			"0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2125
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699473
+		},
+		"PunishBuffDesc": {
+			"hash": -478920794
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_8_1",
+		"PunishBuffParamList": [
+			"0.02",
+			"0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2126
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699472
+		},
+		"PunishBuffDesc": {
+			"hash": -478920794
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_8_1",
+		"PunishBuffParamList": [
+			"0.02",
+			"0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2127
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699471
+		},
+		"PunishBuffDesc": {
+			"hash": -478920789
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_8_2",
+		"PunishBuffParamList": [
+			"0.1",
+			"8"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2128
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699470
+		},
+		"PunishBuffDesc": {
+			"hash": -478920788
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2129
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699448
+		},
+		"PunishBuffDesc": {
+			"hash": -478920766
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_8_3",
+		"PunishBuffParamList": [
+			"0.003",
+			"0.1"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2130
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699447
+		},
+		"PunishBuffDesc": {
+			"hash": -478920765
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_8_4",
+		"PunishBuffParamList": [
+			"0.01",
+			"0.02",
+			"10"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2131
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699446
+		},
+		"PunishBuffDesc": {
+			"hash": -478920765
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_8_4",
+		"PunishBuffParamList": [
+			"0.01",
+			"0.02",
+			"10"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2132
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699445
+		},
+		"PunishBuffDesc": {
+			"hash": -478920763
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_8_4",
+		"PunishBuffParamList": [
+			"0.06",
+			"0.08",
+			"10"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2133
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699444
+		},
+		"PunishBuffDesc": {
+			"hash": -478920763
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_8_4",
+		"PunishBuffParamList": [
+			"0.06",
+			"0.08",
+			"10"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2134
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699443
+		},
+		"PunishBuffDesc": {
+			"hash": -478920763
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_8_4",
+		"PunishBuffParamList": [
+			"0.06",
+			"0.08",
+			"10"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2135
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699442
+		},
+		"PunishBuffDesc": {
+			"hash": -478920763
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_8_4",
+		"PunishBuffParamList": [
+			"0.06",
+			"0.08",
+			"10"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2136
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699441
+		},
+		"PunishBuffDesc": {
+			"hash": -478920763
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_8_4",
+		"PunishBuffParamList": [
+			"0.06",
+			"0.08",
+			"10"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2137
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699440
+		},
+		"PunishBuffDesc": {
+			"hash": -478920758
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_8_5",
+		"PunishBuffParamList": [
+			"0.1",
+			"8"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2138
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699439
+		},
+		"PunishBuffDesc": {
+			"hash": -478920757
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2139
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699417
+		},
+		"PunishBuffDesc": {
+			"hash": -478920735
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_8_3",
+		"PunishBuffParamList": [
+			"0.003",
+			"0.1"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2140
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699416
+		},
+		"PunishBuffDesc": {
+			"hash": -478920734
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_9_1",
+		"PunishBuffParamList": [
+			"-0.05"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2141
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699416
+		},
+		"PunishBuffDesc": {
+			"hash": -478920734
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_9_1",
+		"PunishBuffParamList": [
+			"-0.05"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2142
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699414
+		},
+		"PunishBuffDesc": {
+			"hash": -478920732
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_9_1",
+		"PunishBuffParamList": [
+			"-0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2143
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699413
+		},
+		"PunishBuffDesc": {
+			"hash": -478920732
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_9_1",
+		"PunishBuffParamList": [
+			"-0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2144
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699412
+		},
+		"PunishBuffDesc": {
+			"hash": -478920732
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_9_1",
+		"PunishBuffParamList": [
+			"-0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2145
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699411
+		},
+		"PunishBuffDesc": {
+			"hash": -478920732
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_9_1",
+		"PunishBuffParamList": [
+			"-0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2146
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699410
+		},
+		"PunishBuffDesc": {
+			"hash": -478920732
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_9_1",
+		"PunishBuffParamList": [
+			"-0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2147
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699409
+		},
+		"PunishBuffDesc": {
+			"hash": -478920727
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_7_2",
+		"PunishBuffParamList": [
+			"0.5"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2148
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699408
+		},
+		"PunishBuffDesc": {
+			"hash": -478920726
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2149
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699386
+		},
+		"PunishBuffDesc": {
+			"hash": -478920704
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_9_2",
+		"PunishBuffParamList": [
+			"0.2"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2150
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699385
+		},
+		"PunishBuffDesc": {
+			"hash": -478920703
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_9_3",
+		"PunishBuffParamList": [
+			"-0.05"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2151
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699384
+		},
+		"PunishBuffDesc": {
+			"hash": -478920703
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_9_3",
+		"PunishBuffParamList": [
+			"-0.05"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2152
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699383
+		},
+		"PunishBuffDesc": {
+			"hash": -478920701
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_9_3",
+		"PunishBuffParamList": [
+			"-0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2153
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699382
+		},
+		"PunishBuffDesc": {
+			"hash": -478920701
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_9_3",
+		"PunishBuffParamList": [
+			"-0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2154
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699381
+		},
+		"PunishBuffDesc": {
+			"hash": -478920701
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_9_3",
+		"PunishBuffParamList": [
+			"-0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2155
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699380
+		},
+		"PunishBuffDesc": {
+			"hash": -478920701
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_9_3",
+		"PunishBuffParamList": [
+			"-0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2156
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699379
+		},
+		"PunishBuffDesc": {
+			"hash": -478920701
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_9_3",
+		"PunishBuffParamList": [
+			"-0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2157
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699378
+		},
+		"PunishBuffDesc": {
+			"hash": -478920696
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_7_2",
+		"PunishBuffParamList": [
+			"0.5"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2158
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699377
+		},
+		"PunishBuffDesc": {
+			"hash": -478920695
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2159
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699355
+		},
+		"PunishBuffDesc": {
+			"hash": -478920673
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_9_7",
+		"PunishBuffParamList": [
+			"0.1",
+			"8"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2160
+	},
+	{
+		"PunishLevelCost": 300,
+		"PunishBuffName": {
+			"hash": -727699354
+		},
+		"PunishBuffDesc": {
+			"hash": -478920672
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_9_5",
+		"PunishBuffParamList": [
+			"-0.05",
+			"10"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2161
+	},
+	{
+		"PunishLevelCost": 301,
+		"PunishBuffName": {
+			"hash": -727699353
+		},
+		"PunishBuffDesc": {
+			"hash": -478920671
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_9_5",
+		"PunishBuffParamList": [
+			"-0.05",
+			"10"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2162
+	},
+	{
+		"PunishLevelCost": 302,
+		"PunishBuffName": {
+			"hash": -727699352
+		},
+		"PunishBuffDesc": {
+			"hash": -478920670
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_9_5",
+		"PunishBuffParamList": [
+			"-0.3",
+			"10"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2163
+	},
+	{
+		"PunishLevelCost": 303,
+		"PunishBuffName": {
+			"hash": -727699351
+		},
+		"PunishBuffDesc": {
+			"hash": -478920669
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_9_5",
+		"PunishBuffParamList": [
+			"-0.3",
+			"10"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2164
+	},
+	{
+		"PunishLevelCost": 304,
+		"PunishBuffName": {
+			"hash": -727699350
+		},
+		"PunishBuffDesc": {
+			"hash": -478920668
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_9_5",
+		"PunishBuffParamList": [
+			"-0.3",
+			"10"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2165
+	},
+	{
+		"PunishLevelCost": 305,
+		"PunishBuffName": {
+			"hash": -727699349
+		},
+		"PunishBuffDesc": {
+			"hash": -478920667
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_9_5",
+		"PunishBuffParamList": [
+			"-0.3",
+			"10"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2166
+	},
+	{
+		"PunishLevelCost": 306,
+		"PunishBuffName": {
+			"hash": -727699348
+		},
+		"PunishBuffDesc": {
+			"hash": -478920666
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_9_5",
+		"PunishBuffParamList": [
+			"-0.3",
+			"10"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2167
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699478
+		},
+		"PunishBuffDesc": {
+			"hash": -478920665
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_0_1",
+		"PunishBuffParamList": [
+			"-0.05",
+			"20"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2168
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699477
+		},
+		"PunishBuffDesc": {
+			"hash": -478920665
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_0_1",
+		"PunishBuffParamList": [
+			"-0.05",
+			"20"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2169
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699476
+		},
+		"PunishBuffDesc": {
+			"hash": -478920642
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_0_1",
+		"PunishBuffParamList": [
+			"-0.3",
+			"20"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2170
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699475
+		},
+		"PunishBuffDesc": {
+			"hash": -478920642
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_0_1",
+		"PunishBuffParamList": [
+			"-0.3",
+			"20"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2171
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699474
+		},
+		"PunishBuffDesc": {
+			"hash": -478920642
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_0_1",
+		"PunishBuffParamList": [
+			"-0.3",
+			"20"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2172
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699473
+		},
+		"PunishBuffDesc": {
+			"hash": -478920642
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_0_1",
+		"PunishBuffParamList": [
+			"-0.3",
+			"20"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2173
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699472
+		},
+		"PunishBuffDesc": {
+			"hash": -478920642
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_0_1",
+		"PunishBuffParamList": [
+			"-0.3",
+			"20"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2174
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699471
+		},
+		"PunishBuffDesc": {
+			"hash": -478920637
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_9_7",
+		"PunishBuffParamList": [
+			"0.1",
+			"8"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2175
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699470
+		},
+		"PunishBuffDesc": {
+			"hash": -478920636
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2176
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699448
+		},
+		"PunishBuffDesc": {
+			"hash": -478920635
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_0_2",
+		"PunishBuffParamList": [
+			"0.003",
+			"0.18",
+			"0.1"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2177
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699447
+		},
+		"PunishBuffDesc": {
+			"hash": -478920634
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_0_3",
+		"PunishBuffParamList": [
+			"-0.05",
+			"20"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2178
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699446
+		},
+		"PunishBuffDesc": {
+			"hash": -478920634
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_0_3",
+		"PunishBuffParamList": [
+			"-0.05",
+			"20"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2179
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699445
+		},
+		"PunishBuffDesc": {
+			"hash": -478920611
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_0_3",
+		"PunishBuffParamList": [
+			"-0.3",
+			"20"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2180
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699444
+		},
+		"PunishBuffDesc": {
+			"hash": -478920611
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_0_3",
+		"PunishBuffParamList": [
+			"-0.3",
+			"20"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2181
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699443
+		},
+		"PunishBuffDesc": {
+			"hash": -478920611
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_0_3",
+		"PunishBuffParamList": [
+			"-0.3",
+			"20"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2182
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699442
+		},
+		"PunishBuffDesc": {
+			"hash": -478920611
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_0_3",
+		"PunishBuffParamList": [
+			"-0.3",
+			"20"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2183
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699441
+		},
+		"PunishBuffDesc": {
+			"hash": -478920611
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_0_3",
+		"PunishBuffParamList": [
+			"-0.3",
+			"20"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2184
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699471
+		},
+		"PunishBuffDesc": {
+			"hash": -478920606
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_9_7",
+		"PunishBuffParamList": [
+			"0.1",
+			"8"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2185
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699439
+		},
+		"PunishBuffDesc": {
+			"hash": -478920605
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2186
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699448
+		},
+		"PunishBuffDesc": {
+			"hash": -478920604
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_0_2",
+		"PunishBuffParamList": [
+			"0.003",
+			"0.18",
+			"0.1"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2187
+	},
+	{
+		"PunishLevelCost": 300,
+		"PunishBuffName": {
+			"hash": -727699354
+		},
+		"PunishBuffDesc": {
+			"hash": -478920603
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_0_4",
+		"PunishBuffParamList": [
+			"0.02",
+			"0.002"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2188
+	},
+	{
+		"PunishLevelCost": 301,
+		"PunishBuffName": {
+			"hash": -727699353
+		},
+		"PunishBuffDesc": {
+			"hash": -478920603
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_0_4",
+		"PunishBuffParamList": [
+			"0.02",
+			"0.002"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2189
+	},
+	{
+		"PunishLevelCost": 302,
+		"PunishBuffName": {
+			"hash": -727699352
+		},
+		"PunishBuffDesc": {
+			"hash": -478920580
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_0_4",
+		"PunishBuffParamList": [
+			"0.1",
+			"0.01"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2190
+	},
+	{
+		"PunishLevelCost": 303,
+		"PunishBuffName": {
+			"hash": -727699351
+		},
+		"PunishBuffDesc": {
+			"hash": -478920580
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_0_4",
+		"PunishBuffParamList": [
+			"0.1",
+			"0.01"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2191
+	},
+	{
+		"PunishLevelCost": 304,
+		"PunishBuffName": {
+			"hash": -727699350
+		},
+		"PunishBuffDesc": {
+			"hash": -478920580
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_0_4",
+		"PunishBuffParamList": [
+			"0.1",
+			"0.01"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2192
+	},
+	{
+		"PunishLevelCost": 305,
+		"PunishBuffName": {
+			"hash": -727699349
+		},
+		"PunishBuffDesc": {
+			"hash": -478920580
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_0_4",
+		"PunishBuffParamList": [
+			"0.1",
+			"0.01"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2193
+	},
+	{
+		"PunishLevelCost": 306,
+		"PunishBuffName": {
+			"hash": -727699348
+		},
+		"PunishBuffDesc": {
+			"hash": -478920580
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_0_4",
+		"PunishBuffParamList": [
+			"0.1",
+			"0.01"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2194
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699478
+		},
+		"PunishBuffDesc": {
+			"hash": -478920575
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_1_2",
+		"PunishBuffParamList": [
+			"-0.1",
+			"10",
+			"0.012"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2195
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699477
+		},
+		"PunishBuffDesc": {
+			"hash": -478920575
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_1_2",
+		"PunishBuffParamList": [
+			"-0.1",
+			"10",
+			"0.012"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2196
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699476
+		},
+		"PunishBuffDesc": {
+			"hash": -478920573
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_1_2",
+		"PunishBuffParamList": [
+			"-0.3",
+			"10",
+			"0.012"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2197
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699475
+		},
+		"PunishBuffDesc": {
+			"hash": -478920573
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_1_2",
+		"PunishBuffParamList": [
+			"-0.3",
+			"10",
+			"0.012"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2198
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699474
+		},
+		"PunishBuffDesc": {
+			"hash": -478920573
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_1_2",
+		"PunishBuffParamList": [
+			"-0.3",
+			"10",
+			"0.012"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2199
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699473
+		},
+		"PunishBuffDesc": {
+			"hash": -478920573
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_1_2",
+		"PunishBuffParamList": [
+			"-0.3",
+			"10",
+			"0.012"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2200
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699472
+		},
+		"PunishBuffDesc": {
+			"hash": -478920573
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_1_2",
+		"PunishBuffParamList": [
+			"-0.3",
+			"10",
+			"0.012"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2201
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699471
+		},
+		"PunishBuffDesc": {
+			"hash": -478919896
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_1_3",
+		"PunishBuffParamList": [
+			"0.15",
+			"10"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2202
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699470
+		},
+		"PunishBuffDesc": {
+			"hash": -478919895
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2203
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699448
+		},
+		"PunishBuffDesc": {
+			"hash": -478919894
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_8_3",
+		"PunishBuffParamList": [
+			"0.003",
+			"0.1",
+			"0.1"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2204
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699447
+		},
+		"PunishBuffDesc": {
+			"hash": -478919893
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_1_4",
+		"PunishBuffParamList": [
+			"0.02",
+			"0.04",
+			"0.06",
+			"0.08"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2205
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699446
+		},
+		"PunishBuffDesc": {
+			"hash": -478919893
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_1_4",
+		"PunishBuffParamList": [
+			"0.02",
+			"0.04",
+			"0.06",
+			"0.08"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2206
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699445
+		},
+		"PunishBuffDesc": {
+			"hash": -478919891
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_1_4",
+		"PunishBuffParamList": [
+			"0.1",
+			"0.2",
+			"0.3",
+			"0.4"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2207
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699444
+		},
+		"PunishBuffDesc": {
+			"hash": -478919891
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_1_4",
+		"PunishBuffParamList": [
+			"0.1",
+			"0.2",
+			"0.3",
+			"0.4"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2208
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699443
+		},
+		"PunishBuffDesc": {
+			"hash": -478919891
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_1_4",
+		"PunishBuffParamList": [
+			"0.1",
+			"0.2",
+			"0.3",
+			"0.4"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2209
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699442
+		},
+		"PunishBuffDesc": {
+			"hash": -478919891
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_1_4",
+		"PunishBuffParamList": [
+			"0.1",
+			"0.2",
+			"0.3",
+			"0.4"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2210
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699441
+		},
+		"PunishBuffDesc": {
+			"hash": -478919891
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_1_4",
+		"PunishBuffParamList": [
+			"0.1",
+			"0.2",
+			"0.3",
+			"0.4"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2211
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699471
+		},
+		"PunishBuffDesc": {
+			"hash": -478919896
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_1_3",
+		"PunishBuffParamList": [
+			"0.15",
+			"10"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2212
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699439
+		},
+		"PunishBuffDesc": {
+			"hash": -478919864
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2213
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699448
+		},
+		"PunishBuffDesc": {
+			"hash": -478919894
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_8_3",
+		"PunishBuffParamList": [
+			"0.003",
+			"0.1",
+			"0.1"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2214
+	},
+	{
+		"PunishLevelCost": 300,
+		"PunishBuffName": {
+			"hash": -727699354
+		},
+		"PunishBuffDesc": {
+			"hash": -478919862
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_1_1",
+		"PunishBuffParamList": [
+			"0.01",
+			"0.05"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2215
+	},
+	{
+		"PunishLevelCost": 301,
+		"PunishBuffName": {
+			"hash": -727699353
+		},
+		"PunishBuffDesc": {
+			"hash": -478919862
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_1_1",
+		"PunishBuffParamList": [
+			"0.01",
+			"0.05"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2216
+	},
+	{
+		"PunishLevelCost": 302,
+		"PunishBuffName": {
+			"hash": -727699352
+		},
+		"PunishBuffDesc": {
+			"hash": -478919860
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_1_1",
+		"PunishBuffParamList": [
+			"0.01",
+			"0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2217
+	},
+	{
+		"PunishLevelCost": 303,
+		"PunishBuffName": {
+			"hash": -727699351
+		},
+		"PunishBuffDesc": {
+			"hash": -478919860
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_1_1",
+		"PunishBuffParamList": [
+			"0.01",
+			"0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2218
+	},
+	{
+		"PunishLevelCost": 304,
+		"PunishBuffName": {
+			"hash": -727699350
+		},
+		"PunishBuffDesc": {
+			"hash": -478919860
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_1_1",
+		"PunishBuffParamList": [
+			"0.01",
+			"0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2219
+	},
+	{
+		"PunishLevelCost": 305,
+		"PunishBuffName": {
+			"hash": -727699349
+		},
+		"PunishBuffDesc": {
+			"hash": -478919860
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_1_1",
+		"PunishBuffParamList": [
+			"0.01",
+			"0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2220
+	},
+	{
+		"PunishLevelCost": 306,
+		"PunishBuffName": {
+			"hash": -727699348
+		},
+		"PunishBuffDesc": {
+			"hash": -478919860
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_1_1",
+		"PunishBuffParamList": [
+			"0.01",
+			"0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2221
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699478
+		},
+		"PunishBuffDesc": {
+			"hash": -478919834
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_2_2",
+		"PunishBuffParamList": [
+			"20",
+			"-0.04",
+			"-0.08",
+			"-0.08"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2222
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699477
+		},
+		"PunishBuffDesc": {
+			"hash": -478919834
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_2_2",
+		"PunishBuffParamList": [
+			"20",
+			"-0.04",
+			"-0.08",
+			"-0.08"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2223
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699476
+		},
+		"PunishBuffDesc": {
+			"hash": -478919832
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_2_2",
+		"PunishBuffParamList": [
+			"20",
+			"-0.2",
+			"-0.3",
+			"-0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2224
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699475
+		},
+		"PunishBuffDesc": {
+			"hash": -478919832
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_2_2",
+		"PunishBuffParamList": [
+			"20",
+			"-0.2",
+			"-0.3",
+			"-0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2225
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699474
+		},
+		"PunishBuffDesc": {
+			"hash": -478919832
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_2_2",
+		"PunishBuffParamList": [
+			"20",
+			"-0.2",
+			"-0.3",
+			"-0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2226
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699473
+		},
+		"PunishBuffDesc": {
+			"hash": -478919832
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_2_2",
+		"PunishBuffParamList": [
+			"20",
+			"-0.2",
+			"-0.3",
+			"-0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2227
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699472
+		},
+		"PunishBuffDesc": {
+			"hash": -478919832
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_2_2",
+		"PunishBuffParamList": [
+			"20",
+			"-0.2",
+			"-0.3",
+			"-0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2228
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699471
+		},
+		"PunishBuffDesc": {
+			"hash": -478919827
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_2_3",
+		"PunishBuffParamList": [
+			"0.15",
+			"10"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2229
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699470
+		},
+		"PunishBuffDesc": {
+			"hash": -478919805
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2230
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699448
+		},
+		"PunishBuffDesc": {
+			"hash": -478919804
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_2_4",
+		"PunishBuffParamList": [
+			"0.5",
+			"10"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2231
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699447
+		},
+		"PunishBuffDesc": {
+			"hash": -478919803
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_2_5",
+		"PunishBuffParamList": [
+			"-0.05"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2232
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699446
+		},
+		"PunishBuffDesc": {
+			"hash": -478919803
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_2_5",
+		"PunishBuffParamList": [
+			"-0.05"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2233
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699445
+		},
+		"PunishBuffDesc": {
+			"hash": -478919801
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_2_5",
+		"PunishBuffParamList": [
+			"-0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2234
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699444
+		},
+		"PunishBuffDesc": {
+			"hash": -478919801
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_2_5",
+		"PunishBuffParamList": [
+			"-0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2235
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699443
+		},
+		"PunishBuffDesc": {
+			"hash": -478919801
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_2_5",
+		"PunishBuffParamList": [
+			"-0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2236
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699442
+		},
+		"PunishBuffDesc": {
+			"hash": -478919801
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_2_5",
+		"PunishBuffParamList": [
+			"-0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2237
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699441
+		},
+		"PunishBuffDesc": {
+			"hash": -478919801
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_2_5",
+		"PunishBuffParamList": [
+			"-0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2238
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699471
+		},
+		"PunishBuffDesc": {
+			"hash": -478919827
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_2_3",
+		"PunishBuffParamList": [
+			"0.15",
+			"10"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2239
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699417
+		},
+		"PunishBuffDesc": {
+			"hash": -478919774
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2240
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699448
+		},
+		"PunishBuffDesc": {
+			"hash": -478919773
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_2_6",
+		"PunishBuffParamList": [
+			"60",
+			"0.1",
+			"15"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2241
+	},
+	{
+		"PunishLevelCost": 300,
+		"PunishBuffName": {
+			"hash": -727699354
+		},
+		"PunishBuffDesc": {
+			"hash": -478919772
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_2_1",
+		"PunishBuffParamList": [
+			"2",
+			"0",
+			"50"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2242
+	},
+	{
+		"PunishLevelCost": 301,
+		"PunishBuffName": {
+			"hash": -727699353
+		},
+		"PunishBuffDesc": {
+			"hash": -478919772
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_2_1",
+		"PunishBuffParamList": [
+			"2",
+			"0",
+			"50"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2243
+	},
+	{
+		"PunishLevelCost": 302,
+		"PunishBuffName": {
+			"hash": -727699352
+		},
+		"PunishBuffDesc": {
+			"hash": -478919770
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_2_1",
+		"PunishBuffParamList": [
+			"10",
+			"0",
+			"300"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2244
+	},
+	{
+		"PunishLevelCost": 303,
+		"PunishBuffName": {
+			"hash": -727699351
+		},
+		"PunishBuffDesc": {
+			"hash": -478919770
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_2_1",
+		"PunishBuffParamList": [
+			"10",
+			"0",
+			"300"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2245
+	},
+	{
+		"PunishLevelCost": 304,
+		"PunishBuffName": {
+			"hash": -727699350
+		},
+		"PunishBuffDesc": {
+			"hash": -478919770
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_2_1",
+		"PunishBuffParamList": [
+			"10",
+			"0",
+			"300"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2246
+	},
+	{
+		"PunishLevelCost": 305,
+		"PunishBuffName": {
+			"hash": -727699349
+		},
+		"PunishBuffDesc": {
+			"hash": -478919770
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_2_1",
+		"PunishBuffParamList": [
+			"10",
+			"0",
+			"300"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2247
+	},
+	{
+		"PunishLevelCost": 306,
+		"PunishBuffName": {
+			"hash": -727699348
+		},
+		"PunishBuffDesc": {
+			"hash": -478919770
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_2_1",
+		"PunishBuffParamList": [
+			"10",
+			"0",
+			"300"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2248
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699347
+		},
+		"PunishBuffDesc": {
+			"hash": -478919769
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_3_2",
+		"PunishBuffParamList": [
+			"-0.06",
+			"-0.04",
+			"-0.02",
+			"5",
+			"8"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2249
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699346
+		},
+		"PunishBuffDesc": {
+			"hash": -478919769
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_3_2",
+		"PunishBuffParamList": [
+			"-0.06",
+			"-0.04",
+			"-0.02",
+			"5",
+			"8"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2250
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699324
+		},
+		"PunishBuffDesc": {
+			"hash": -478919768
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_3_2",
+		"PunishBuffParamList": [
+			"-0.3",
+			"-0.2",
+			"-0.1",
+			"5",
+			"8"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2251
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699323
+		},
+		"PunishBuffDesc": {
+			"hash": -478919768
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_3_2",
+		"PunishBuffParamList": [
+			"-0.3",
+			"-0.2",
+			"-0.1",
+			"5",
+			"8"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2252
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699322
+		},
+		"PunishBuffDesc": {
+			"hash": -478919768
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_3_2",
+		"PunishBuffParamList": [
+			"-0.3",
+			"-0.2",
+			"-0.1",
+			"5",
+			"8"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2253
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699321
+		},
+		"PunishBuffDesc": {
+			"hash": -478919768
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_3_2",
+		"PunishBuffParamList": [
+			"-0.3",
+			"-0.2",
+			"-0.1",
+			"5",
+			"8"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2254
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699320
+		},
+		"PunishBuffDesc": {
+			"hash": -478919768
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_3_2",
+		"PunishBuffParamList": [
+			"-0.3",
+			"-0.2",
+			"-0.1",
+			"5",
+			"8"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2255
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699319
+		},
+		"PunishBuffDesc": {
+			"hash": -478919767
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_3_3",
+		"PunishBuffParamList": [
+			"0.5",
+			"10"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2256
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699318
+		},
+		"PunishBuffDesc": {
+			"hash": -478919766
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2257
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699317
+		},
+		"PunishBuffDesc": {
+			"hash": -478919765
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_3_4",
+		"PunishBuffParamList": [
+			"0.15",
+			"10"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2258
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699316
+		},
+		"PunishBuffDesc": {
+			"hash": -478919743
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_3_5",
+		"PunishBuffParamList": [
+			"-0.05",
+			"10"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2259
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699315
+		},
+		"PunishBuffDesc": {
+			"hash": -478919743
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_3_5",
+		"PunishBuffParamList": [
+			"-0.05",
+			"10"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2260
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699293
+		},
+		"PunishBuffDesc": {
+			"hash": -478919742
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_3_5",
+		"PunishBuffParamList": [
+			"-0.3",
+			"10"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2261
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699292
+		},
+		"PunishBuffDesc": {
+			"hash": -478919742
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_3_5",
+		"PunishBuffParamList": [
+			"-0.3",
+			"10"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2262
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699291
+		},
+		"PunishBuffDesc": {
+			"hash": -478919742
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_3_5",
+		"PunishBuffParamList": [
+			"-0.3",
+			"10"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2263
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699290
+		},
+		"PunishBuffDesc": {
+			"hash": -478919742
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_3_5",
+		"PunishBuffParamList": [
+			"-0.3",
+			"10"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2264
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699289
+		},
+		"PunishBuffDesc": {
+			"hash": -478919742
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_3_5",
+		"PunishBuffParamList": [
+			"-0.3",
+			"10"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2265
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699288
+		},
+		"PunishBuffDesc": {
+			"hash": -478919741
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_5_8_3",
+		"PunishBuffParamList": [
+			"0.003",
+			"0.1"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2266
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699287
+		},
+		"PunishBuffDesc": {
+			"hash": -478919740
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2267
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699286
+		},
+		"PunishBuffDesc": {
+			"hash": -478919739
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_3_4",
+		"PunishBuffParamList": [
+			"0.15",
+			"10"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2268
+	},
+	{
+		"PunishLevelCost": 300,
+		"PunishBuffName": {
+			"hash": -727699285
+		},
+		"PunishBuffDesc": {
+			"hash": -478919738
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_3_1",
+		"PunishBuffParamList": [
+			"0.02",
+			"0"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2269
+	},
+	{
+		"PunishLevelCost": 301,
+		"PunishBuffName": {
+			"hash": -727699284
+		},
+		"PunishBuffDesc": {
+			"hash": -478919738
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_3_1",
+		"PunishBuffParamList": [
+			"0.02",
+			"0"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2270
+	},
+	{
+		"PunishLevelCost": 302,
+		"PunishBuffName": {
+			"hash": -727699262
+		},
+		"PunishBuffDesc": {
+			"hash": -478919737
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_3_1",
+		"PunishBuffParamList": [
+			"0.08",
+			"0"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2271
+	},
+	{
+		"PunishLevelCost": 303,
+		"PunishBuffName": {
+			"hash": -727699261
+		},
+		"PunishBuffDesc": {
+			"hash": -478919737
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_3_1",
+		"PunishBuffParamList": [
+			"0.08",
+			"0"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2272
+	},
+	{
+		"PunishLevelCost": 304,
+		"PunishBuffName": {
+			"hash": -727699260
+		},
+		"PunishBuffDesc": {
+			"hash": -478919737
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_3_1",
+		"PunishBuffParamList": [
+			"0.08",
+			"0"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2273
+	},
+	{
+		"PunishLevelCost": 305,
+		"PunishBuffName": {
+			"hash": -727699259
+		},
+		"PunishBuffDesc": {
+			"hash": -478919737
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_3_1",
+		"PunishBuffParamList": [
+			"0.08",
+			"0"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2274
+	},
+	{
+		"PunishLevelCost": 306,
+		"PunishBuffName": {
+			"hash": -727699258
+		},
+		"PunishBuffDesc": {
+			"hash": -478919737
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_3_1",
+		"PunishBuffParamList": [
+			"0.08",
+			"0"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2275
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699347
+		},
+		"PunishBuffDesc": {
+			"hash": -478919675
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_0_1",
+		"PunishBuffParamList": [
+			"-0.1"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2276
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699346
+		},
+		"PunishBuffDesc": {
+			"hash": -478919675
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_0_1",
+		"PunishBuffParamList": [
+			"-0.1"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2277
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699324
+		},
+		"PunishBuffDesc": {
+			"hash": -478919673
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_0_1",
+		"PunishBuffParamList": [
+			"-0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2278
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699323
+		},
+		"PunishBuffDesc": {
+			"hash": -478919673
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_0_1",
+		"PunishBuffParamList": [
+			"-0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2279
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699322
+		},
+		"PunishBuffDesc": {
+			"hash": -478919673
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_0_1",
+		"PunishBuffParamList": [
+			"-0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2280
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699321
+		},
+		"PunishBuffDesc": {
+			"hash": -478919673
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_0_1",
+		"PunishBuffParamList": [
+			"-0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2281
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699320
+		},
+		"PunishBuffDesc": {
+			"hash": -478919673
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_0_1",
+		"PunishBuffParamList": [
+			"-0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2282
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699319
+		},
+		"PunishBuffDesc": {
+			"hash": -478919647
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_4_2",
+		"PunishBuffParamList": [
+			"0.15",
+			"10"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2283
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699318
+		},
+		"PunishBuffDesc": {
+			"hash": -478919646
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2284
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699317
+		},
+		"PunishBuffDesc": {
+			"hash": -478919645
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_4_3",
+		"PunishBuffParamList": [
+			"0.15",
+			"10"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2285
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699316
+		},
+		"PunishBuffDesc": {
+			"hash": -478919644
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_4_4",
+		"PunishBuffParamList": [
+			"-0.05"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2286
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699315
+		},
+		"PunishBuffDesc": {
+			"hash": -478919644
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_4_4",
+		"PunishBuffParamList": [
+			"-0.05"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2287
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699293
+		},
+		"PunishBuffDesc": {
+			"hash": -478919642
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_4_4",
+		"PunishBuffParamList": [
+			"-0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2288
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699292
+		},
+		"PunishBuffDesc": {
+			"hash": -478919642
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_4_4",
+		"PunishBuffParamList": [
+			"-0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2289
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699291
+		},
+		"PunishBuffDesc": {
+			"hash": -478919642
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_4_4",
+		"PunishBuffParamList": [
+			"-0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2290
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699290
+		},
+		"PunishBuffDesc": {
+			"hash": -478919642
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_4_4",
+		"PunishBuffParamList": [
+			"-0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2291
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699289
+		},
+		"PunishBuffDesc": {
+			"hash": -478919642
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_4_4",
+		"PunishBuffParamList": [
+			"-0.3"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2292
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699288
+		},
+		"PunishBuffDesc": {
+			"hash": -478919647
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_4_2",
+		"PunishBuffParamList": [
+			"0.15",
+			"10"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2293
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699287
+		},
+		"PunishBuffDesc": {
+			"hash": -478919615
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2294
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699286
+		},
+		"PunishBuffDesc": {
+			"hash": -478919614
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_4_5",
+		"PunishBuffParamList": [
+			"0.15",
+			"0.15",
+			"10"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2295
+	},
+	{
+		"PunishLevelCost": 300,
+		"PunishBuffName": {
+			"hash": -727699285
+		},
+		"PunishBuffDesc": {
+			"hash": -478919613
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_4_1",
+		"PunishBuffParamList": [
+			"0.002",
+			"0.001"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2296
+	},
+	{
+		"PunishLevelCost": 301,
+		"PunishBuffName": {
+			"hash": -727699284
+		},
+		"PunishBuffDesc": {
+			"hash": -478919613
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_4_1",
+		"PunishBuffParamList": [
+			"0.002",
+			"0.001"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2297
+	},
+	{
+		"PunishLevelCost": 302,
+		"PunishBuffName": {
+			"hash": -727699262
+		},
+		"PunishBuffDesc": {
+			"hash": -478919611
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_4_1",
+		"PunishBuffParamList": [
+			"0.025",
+			"0.01"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2298
+	},
+	{
+		"PunishLevelCost": 303,
+		"PunishBuffName": {
+			"hash": -727699261
+		},
+		"PunishBuffDesc": {
+			"hash": -478919611
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_4_1",
+		"PunishBuffParamList": [
+			"0.025",
+			"0.01"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2299
+	},
+	{
+		"PunishLevelCost": 304,
+		"PunishBuffName": {
+			"hash": -727699260
+		},
+		"PunishBuffDesc": {
+			"hash": -478919611
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_4_1",
+		"PunishBuffParamList": [
+			"0.025",
+			"0.01"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2300
+	},
+	{
+		"PunishLevelCost": 305,
+		"PunishBuffName": {
+			"hash": -727699259
+		},
+		"PunishBuffDesc": {
+			"hash": -478919611
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_4_1",
+		"PunishBuffParamList": [
+			"0.025",
+			"0.01"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2301
+	},
+	{
+		"PunishLevelCost": 306,
+		"PunishBuffName": {
+			"hash": -727699258
+		},
+		"PunishBuffDesc": {
+			"hash": -478919611
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_4_1",
+		"PunishBuffParamList": [
+			"0.025",
+			"0.01"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2302
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699257
+		},
+		"PunishBuffDesc": {
+			"hash": -478919610
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_5_2",
+		"PunishBuffParamList": [
+			"-0.1",
+			"0.05",
+			"0.02"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2303
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699256
+		},
+		"PunishBuffDesc": {
+			"hash": -478918937
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_5_2",
+		"PunishBuffParamList": [
+			"-0.1",
+			"0.05",
+			"0.02"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2304
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699255
+		},
+		"PunishBuffDesc": {
+			"hash": -478918936
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_5_2",
+		"PunishBuffParamList": [
+			"-0.3",
+			"0.03",
+			"0.015"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2305
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699254
+		},
+		"PunishBuffDesc": {
+			"hash": -478918935
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_5_2",
+		"PunishBuffParamList": [
+			"-0.3",
+			"0.03",
+			"0.015"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2306
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727699253
+		},
+		"PunishBuffDesc": {
+			"hash": -478918934
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_5_2",
+		"PunishBuffParamList": [
+			"-0.3",
+			"0.03",
+			"0.015"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2307
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727698580
+		},
+		"PunishBuffDesc": {
+			"hash": -478918933
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_5_2",
+		"PunishBuffParamList": [
+			"-0.3",
+			"0.03",
+			"0.015"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2308
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727698579
+		},
+		"PunishBuffDesc": {
+			"hash": -478918932
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_5_2",
+		"PunishBuffParamList": [
+			"-0.3",
+			"0.03",
+			"0.015"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2309
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727698578
+		},
+		"PunishBuffDesc": {
+			"hash": -478918931
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_5_3",
+		"PunishBuffParamList": [
+			"0.02",
+			"10"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2310
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727698577
+		},
+		"PunishBuffDesc": {
+			"hash": -478918930
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2311
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727698576
+		},
+		"PunishBuffDesc": {
+			"hash": -478918929
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_5_4",
+		"PunishBuffParamList": [
+			"0.5",
+			"0",
+			"10"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2312
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727697585
+		},
+		"PunishBuffDesc": {
+			"hash": -478918903
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_5_5",
+		"PunishBuffParamList": [
+			"-0.05",
+			"0.01"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2313
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727697584
+		},
+		"PunishBuffDesc": {
+			"hash": -478918902
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_5_5",
+		"PunishBuffParamList": [
+			"-0.05",
+			"0.01"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2314
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727697583
+		},
+		"PunishBuffDesc": {
+			"hash": -478918901
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_5_5",
+		"PunishBuffParamList": [
+			"-0.3",
+			"0.06"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2315
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727697582
+		},
+		"PunishBuffDesc": {
+			"hash": -478918900
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_5_5",
+		"PunishBuffParamList": [
+			"-0.3",
+			"0.06"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2316
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727697581
+		},
+		"PunishBuffDesc": {
+			"hash": -478918899
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_5_5",
+		"PunishBuffParamList": [
+			"-0.3",
+			"0.06"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2317
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727697580
+		},
+		"PunishBuffDesc": {
+			"hash": -478918898
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_5_5",
+		"PunishBuffParamList": [
+			"-0.3",
+			"0.06"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2318
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727697579
+		},
+		"PunishBuffDesc": {
+			"hash": -478918897
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_5_5",
+		"PunishBuffParamList": [
+			"-0.3",
+			"0.06"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2319
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727697557
+		},
+		"PunishBuffDesc": {
+			"hash": -478918875
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_5_6",
+		"PunishBuffParamList": [
+			"0.15",
+			"10"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2320
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727697556
+		},
+		"PunishBuffDesc": {
+			"hash": -478918874
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2321
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727697555
+		},
+		"PunishBuffDesc": {
+			"hash": -478918873
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_5_4",
+		"PunishBuffParamList": [
+			"0.5",
+			"0",
+			"10"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2322
+	},
+	{
+		"PunishLevelCost": 300,
+		"PunishBuffName": {
+			"hash": -727698544
+		},
+		"PunishBuffDesc": {
+			"hash": -478918872
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_5_1",
+		"PunishBuffParamList": [
+			"0.002",
+			"0.001",
+			"0.05"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2323
+	},
+	{
+		"PunishLevelCost": 301,
+		"PunishBuffName": {
+			"hash": -727698543
+		},
+		"PunishBuffDesc": {
+			"hash": -478918871
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_5_1",
+		"PunishBuffParamList": [
+			"0.002",
+			"0.001",
+			"0.05"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2324
+	},
+	{
+		"PunishLevelCost": 302,
+		"PunishBuffName": {
+			"hash": -727698542
+		},
+		"PunishBuffDesc": {
+			"hash": -478918870
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_5_1",
+		"PunishBuffParamList": [
+			"0.02",
+			"0.008",
+			"0.05"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2325
+	},
+	{
+		"PunishLevelCost": 303,
+		"PunishBuffName": {
+			"hash": -727698541
+		},
+		"PunishBuffDesc": {
+			"hash": -478918869
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_5_1",
+		"PunishBuffParamList": [
+			"0.02",
+			"0.008",
+			"0.05"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2326
+	},
+	{
+		"PunishLevelCost": 304,
+		"PunishBuffName": {
+			"hash": -727698540
+		},
+		"PunishBuffDesc": {
+			"hash": -478918868
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_5_1",
+		"PunishBuffParamList": [
+			"0.02",
+			"0.008",
+			"0.05"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2327
+	},
+	{
+		"PunishLevelCost": 305,
+		"PunishBuffName": {
+			"hash": -727698518
+		},
+		"PunishBuffDesc": {
+			"hash": -478918867
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_5_1",
+		"PunishBuffParamList": [
+			"0.02",
+			"0.008",
+			"0.05"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2328
+	},
+	{
+		"PunishLevelCost": 306,
+		"PunishBuffName": {
+			"hash": -727698517
+		},
+		"PunishBuffDesc": {
+			"hash": -478918866
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_5_1",
+		"PunishBuffParamList": [
+			"0.02",
+			"0.008",
+			"0.05"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2329
+	},
+	{
+		"PunishLevelCost": 300,
+		"PunishBuffName": {
+			"hash": -727697526
+		},
+		"PunishBuffDesc": {
+			"hash": -478918844
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_5_1",
+		"PunishBuffParamList": [
+			"0.002",
+			"0.001",
+			"0.05"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2330
+	},
+	{
+		"PunishLevelCost": 301,
+		"PunishBuffName": {
+			"hash": -727697525
+		},
+		"PunishBuffDesc": {
+			"hash": -478918843
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_5_1",
+		"PunishBuffParamList": [
+			"0.002",
+			"0.001",
+			"0.05"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2331
+	},
+	{
+		"PunishLevelCost": 302,
+		"PunishBuffName": {
+			"hash": -727697524
+		},
+		"PunishBuffDesc": {
+			"hash": -478918842
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_5_1",
+		"PunishBuffParamList": [
+			"0.02",
+			"0.008",
+			"0.05"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2332
+	},
+	{
+		"PunishLevelCost": 303,
+		"PunishBuffName": {
+			"hash": -727697523
+		},
+		"PunishBuffDesc": {
+			"hash": -478918841
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_5_1",
+		"PunishBuffParamList": [
+			"0.02",
+			"0.008",
+			"0.05"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2333
+	},
+	{
+		"PunishLevelCost": 304,
+		"PunishBuffName": {
+			"hash": -727697522
+		},
+		"PunishBuffDesc": {
+			"hash": -478918840
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_5_1",
+		"PunishBuffParamList": [
+			"0.02",
+			"0.008",
+			"0.05"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2334
+	},
+	{
+		"PunishLevelCost": 305,
+		"PunishBuffName": {
+			"hash": -727697521
+		},
+		"PunishBuffDesc": {
+			"hash": -478918839
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_5_1",
+		"PunishBuffParamList": [
+			"0.02",
+			"0.008",
+			"0.05"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2335
+	},
+	{
+		"PunishLevelCost": 306,
+		"PunishBuffName": {
+			"hash": -727697520
+		},
+		"PunishBuffDesc": {
+			"hash": -478918838
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_5_1",
+		"PunishBuffParamList": [
+			"0.02",
+			"0.008",
+			"0.05"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2336
+	},
+	{
+		"PunishLevelCost": 300,
+		"PunishBuffName": {
+			"hash": -727697519
+		},
+		"PunishBuffDesc": {
+			"hash": -478918837
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_6_1",
+		"PunishBuffParamList": [
+			"0.002",
+			"0.001",
+			"0.05",
+			"3",
+			"0.3",
+			"0",
+			"0",
+			"1",
+			"1",
+			"0.1",
+			"5",
+			"0.8",
+			"0",
+			"0",
+			"1",
+			"1"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2337
+	},
+	{
+		"PunishLevelCost": 301,
+		"PunishBuffName": {
+			"hash": -727697518
+		},
+		"PunishBuffDesc": {
+			"hash": -478918836
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_6_1",
+		"PunishBuffParamList": [
+			"0.002",
+			"0.001",
+			"0.05",
+			"3",
+			"0.3",
+			"0",
+			"0",
+			"1",
+			"1",
+			"0.1",
+			"5",
+			"0.8",
+			"0",
+			"0",
+			"1",
+			"1"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2338
+	},
+	{
+		"PunishLevelCost": 302,
+		"PunishBuffName": {
+			"hash": -727697517
+		},
+		"PunishBuffDesc": {
+			"hash": -478918835
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_6_1",
+		"PunishBuffParamList": [
+			"0.02",
+			"0.008",
+			"0.05",
+			"3",
+			"0.3",
+			"0",
+			"0",
+			"1",
+			"1",
+			"0.1",
+			"5",
+			"0.8",
+			"0",
+			"0",
+			"1",
+			"1"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2339
+	},
+	{
+		"PunishLevelCost": 303,
+		"PunishBuffName": {
+			"hash": -727697495
+		},
+		"PunishBuffDesc": {
+			"hash": -478918813
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_6_1",
+		"PunishBuffParamList": [
+			"0.02",
+			"0.008",
+			"0.05",
+			"3",
+			"0.3",
+			"0",
+			"0",
+			"1",
+			"1",
+			"0.1",
+			"5",
+			"0.8",
+			"0",
+			"0",
+			"1",
+			"1"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2340
+	},
+	{
+		"PunishLevelCost": 304,
+		"PunishBuffName": {
+			"hash": -727697494
+		},
+		"PunishBuffDesc": {
+			"hash": -478918812
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_6_1",
+		"PunishBuffParamList": [
+			"0.02",
+			"0.008",
+			"0.05",
+			"3",
+			"0.3",
+			"0",
+			"0",
+			"1",
+			"1",
+			"0.1",
+			"5",
+			"0.8",
+			"0",
+			"0",
+			"1",
+			"1"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2341
+	},
+	{
+		"PunishLevelCost": 305,
+		"PunishBuffName": {
+			"hash": -727697493
+		},
+		"PunishBuffDesc": {
+			"hash": -478918811
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_6_1",
+		"PunishBuffParamList": [
+			"0.02",
+			"0.008",
+			"0.05",
+			"3",
+			"0.3",
+			"0",
+			"0",
+			"1",
+			"1",
+			"0.1",
+			"5",
+			"0.8",
+			"0",
+			"0",
+			"1",
+			"1"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2342
+	},
+	{
+		"PunishLevelCost": 306,
+		"PunishBuffName": {
+			"hash": -727697492
+		},
+		"PunishBuffDesc": {
+			"hash": -478918810
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_6_1",
+		"PunishBuffParamList": [
+			"0.02",
+			"0.008",
+			"0.05",
+			"3",
+			"0.3",
+			"0",
+			"0",
+			"1",
+			"1",
+			"0.1",
+			"5",
+			"0.8",
+			"0",
+			"0",
+			"1",
+			"1"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2343
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727697491
+		},
+		"PunishBuffDesc": {
+			"hash": -478918809
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_6_2",
+		"PunishBuffParamList": [
+			"-0.05",
+			"5"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2344
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727697490
+		},
+		"PunishBuffDesc": {
+			"hash": -478918808
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_6_2",
+		"PunishBuffParamList": [
+			"-0.05",
+			"5"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2345
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727697489
+		},
+		"PunishBuffDesc": {
+			"hash": -478918807
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_6_2",
+		"PunishBuffParamList": [
+			"-0.3",
+			"5"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2346
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727697488
+		},
+		"PunishBuffDesc": {
+			"hash": -478918806
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_6_2",
+		"PunishBuffParamList": [
+			"-0.3",
+			"5"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2347
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727697487
+		},
+		"PunishBuffDesc": {
+			"hash": -478918805
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_6_2",
+		"PunishBuffParamList": [
+			"-0.3",
+			"5"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2348
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727697486
+		},
+		"PunishBuffDesc": {
+			"hash": -478918804
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_6_2",
+		"PunishBuffParamList": [
+			"-0.3",
+			"5"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2349
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727697464
+		},
+		"PunishBuffDesc": {
+			"hash": -478918782
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_6_2",
+		"PunishBuffParamList": [
+			"-0.3",
+			"5"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2350
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727697463
+		},
+		"PunishBuffDesc": {
+			"hash": -478918781
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_6_3",
+		"PunishBuffParamList": [
+			"0.003",
+			" 0.12",
+			"0"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2351
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727697462
+		},
+		"PunishBuffDesc": {
+			"hash": -478918780
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_6_4",
+		"PunishBuffParamList": [
+			"0.2",
+			"10"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2352
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727697461
+		},
+		"PunishBuffDesc": {
+			"hash": -478918779
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2353
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727697460
+		},
+		"PunishBuffDesc": {
+			"hash": -478918778
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "GodWar_Weather_6_6_5",
+		"PunishBuffParamList": [
+			"0.1",
+			"0.2",
+			"0.3",
+			"0.4"
+		],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2354
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727697459
+		},
+		"PunishBuffDesc": {
+			"hash": -478918777
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint1",
+		"DataImpl": {},
+		"PunishBuffID": 2355
+	},
+	{
+		"PunishLevelCost": 0,
+		"PunishBuffName": {
+			"hash": -727697460
+		},
+		"PunishBuffDesc": {
+			"hash": -478918778
+		},
+		"PunishBuffType": 1,
+		"PunishBuffAbility": "",
+		"PunishBuffParamList": [],
+		"UnlockPunishLevel": 0,
+		"UnlockHint": {
+			"hash": -618474390
+		},
+		"UnlockMissionID": 10001,
+		"PunishBuffIcon": "SpriteOutput/Rogue/GeneralUI/IconPoint2",
+		"DataImpl": {},
+		"PunishBuffID": 2356
+	}
+]

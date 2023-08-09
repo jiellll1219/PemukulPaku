@@ -1,0 +1,4646 @@
+[
+	{
+		"skillName": {
+			"hash": -1523696523
+		},
+		"skillDes": {
+			"hash": -1859377332
+		},
+		"skillIcon": "",
+		"isNormalAttack": true,
+		"resultOnExecute": [
+			"Heal:100*(&PConfigHP)"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 1
+	},
+	{
+		"skillName": {
+			"hash": -1523696522
+		},
+		"skillDes": {
+			"hash": -1859377331
+		},
+		"skillIcon": "",
+		"isNormalAttack": true,
+		"resultOnExecute": [
+			"Energy:100*(&PConfigEng)"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 2
+	},
+	{
+		"skillName": {
+			"hash": -1523696521
+		},
+		"skillDes": {
+			"hash": -1859377330
+		},
+		"skillIcon": "",
+		"isNormalAttack": true,
+		"resultOnExecute": [
+			"Damage:2:100*(&PhyAtk)"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 3
+	},
+	{
+		"skillName": {
+			"hash": -1523696520
+		},
+		"skillDes": {
+			"hash": -1859377329
+		},
+		"skillIcon": "",
+		"isNormalAttack": true,
+		"resultOnExecute": [
+			"Damage:3:100*(&MagAtk)"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 4
+	},
+	{
+		"skillName": {
+			"hash": -1523696519
+		},
+		"skillDes": {
+			"hash": -1859377328
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Skill_OW_StoryMutual",
+		"isNormalAttack": false,
+		"resultOnExecute": [],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 5
+	},
+	{
+		"skillName": {
+			"hash": -1523696518
+		},
+		"skillDes": {
+			"hash": -1859377327
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/QTEndless_Meele",
+		"isNormalAttack": true,
+		"resultOnExecute": [
+			"Damage:1:100*(&EneAtk)"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 6
+	},
+	{
+		"skillName": {
+			"hash": -1523696517
+		},
+		"skillDes": {
+			"hash": -1859377326
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Skill_Theresa_Weapon_01",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:250*(&EneAtk)"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 7
+	},
+	{
+		"skillName": {
+			"hash": -1523696516
+		},
+		"skillDes": {
+			"hash": -1859377325
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Step1",
+		"isNormalAttack": true,
+		"resultOnExecute": [],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 8
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AddBuff:MuteLethalDamage:1:0:0"
+		],
+		"displayType": 0,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 9
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"PolishSkillGem:0:1:1",
+			"PolishSkillGem:0:1:2",
+			"PolishSkillGem:0:1:3",
+			"PolishSkillGem:0:1:4"
+		],
+		"displayType": 0,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 10
+	},
+	{
+		"skillName": {
+			"hash": -1602101175
+		},
+		"skillDes": {
+			"hash": -1806122395
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Heal:400*(&PConfigHP)"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 11
+	},
+	{
+		"skillName": {
+			"hash": -1602101174
+		},
+		"skillDes": {
+			"hash": -1806122394
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"DestroyGem"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 12
+	},
+	{
+		"skillName": {
+			"hash": -1602101173
+		},
+		"skillDes": {
+			"hash": -1806122393
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:130*(&PhyAtk+&MagAtk)"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 13
+	},
+	{
+		"skillName": {
+			"hash": -1602101172
+		},
+		"skillDes": {
+			"hash": -1806122392
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"PolishSkillGem:1"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 14
+	},
+	{
+		"skillName": {
+			"hash": -1602101171
+		},
+		"skillDes": {
+			"hash": -1806122391
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"DissolveGem:4"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 15
+	},
+	{
+		"skillName": {
+			"hash": -1602101170
+		},
+		"skillDes": {
+			"hash": -1806122390
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"PolishSkillGem:0:3"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 16
+	},
+	{
+		"skillName": {
+			"hash": -1602101169
+		},
+		"skillDes": {
+			"hash": -1806122389
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Silence:2"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 17
+	},
+	{
+		"skillName": {
+			"hash": -1602101168
+		},
+		"skillDes": {
+			"hash": -1806122388
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"ChangeGemType:5"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 18
+	},
+	{
+		"skillName": {
+			"hash": -1602101167
+		},
+		"skillDes": {
+			"hash": -1806122387
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Shuffle"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 19
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": true,
+		"resultOnExecute": [
+			"Heal:125*(&PConfigHP)"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 21
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": true,
+		"resultOnExecute": [
+			"Energy:125*(&PConfigEng)"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 22
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": true,
+		"resultOnExecute": [
+			"Damage:2:125*(&PhyAtk)"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 23
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": true,
+		"resultOnExecute": [
+			"Damage:3:125*(&MagAtk)"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 24
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": true,
+		"resultOnExecute": [
+			"Heal:150*(&PConfigHP)"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 31
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": true,
+		"resultOnExecute": [
+			"Energy:150*(&PConfigEng)"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 32
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": true,
+		"resultOnExecute": [
+			"Damage:2:150*(&PhyAtk)"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 33
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": true,
+		"resultOnExecute": [
+			"Damage:3:150*(&MagAtk)"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 34
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:20*(&EneAtk)"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 51
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:50*(&EneAtk)",
+			"AttachStateNeighbour:3"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 52
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:500*(&EneAtk)",
+			"DestroySelf"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 53
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AttachStateNeighbour:1:1",
+			"DestroySelf"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 54
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AttachStateNeighbour:2:1",
+			"DestroySelf"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 55
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AddBuff:ReduceTakeDamage:50:0:1"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 56
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"RemoveBuff:ReduceTakeDamage:1"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 57
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Heal:5*(&EMaxHP)"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 58
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:100*(&EneAtk)",
+			"Heal:100*(&EneAtk)"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 59
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"ChangeGemTypeSelf:1:10"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 60
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"ChangeGemTypeSelf:5"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 61
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"DestroyObstacle:19",
+			"SelfDamage:100*(&ECurHP)"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 62
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"DestroyObstacle:18"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 63
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AddBuff:IncreaseTakeDamage:20:0:1"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 64
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"RemoveBuff:IncreaseTakeDamage:1"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 65
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"DissolveSelf"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 66
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:200*(&EneAtk)"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 67
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:100*(&EneAtk)",
+			"AttachGemObstacleNeighbour:9:5"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 68
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:100*(&EneAtk)",
+			"AttachClosestObstacle:9:1"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 69
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:100*(&EneAtk)",
+			"EvilEyeMove:9"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 70
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"RandomSkill:16:61:72"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 71
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"ChangeGemTypeSelf:1:21"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 72
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"DestroyObstacle:26",
+			"SelfDamage:100*(&ECurHP)"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 73
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"DestroyObstacle:25"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 74
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"ChangeGemTypeSelf:5"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 75
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"ChangeGemTypeSelf:1:10"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 76
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AddBuff:EnemyWaveChange:1:0:1:91",
+			"AttachGemState:1:8"
+		],
+		"displayType": 0,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 77
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AddBuff:EnemyWaveChange:1:0:1:92",
+			"AttachGemObstacle:15:0:5"
+		],
+		"displayType": 0,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 78
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AddBuff:EnemyWaveChange:1:0:1:93",
+			"AttachGemState:2:10"
+		],
+		"displayType": 0,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 79
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AddBuff:EnemyWaveChange:1:0:1:94",
+			"AttachGemObstacle:10:0:2"
+		],
+		"displayType": 0,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 80
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"PolishSkillGem:0:5"
+		],
+		"displayType": 0,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 81
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"ChangeGemType:5:1"
+		],
+		"displayType": 0,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 82
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AddBuff:RandomPolishGem:1:0:1",
+			"PolishSkillGem:0:1"
+		],
+		"displayType": 0,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 83
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AddBuff:IncreasePhyAtk:20:0:1"
+		],
+		"displayType": 0,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 84
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AddBuff:IncreaseMagicAtk:20:0:1"
+		],
+		"displayType": 0,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 85
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"ChangeEnergy:1:10000"
+		],
+		"displayType": 0,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 86
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AddBuff:IncreaseConfigHP:50:0:1"
+		],
+		"displayType": 0,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 87
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AttachGemObstacle:21:0:1"
+		],
+		"displayType": 0,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 88
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AddBuff:IncreaseConfigEnergy:20:0:1"
+		],
+		"displayType": 0,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 89
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AttachGemObstacle:13:0:1"
+		],
+		"displayType": 0,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 90
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AttachGemState:1:8"
+		],
+		"displayType": 0,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 91
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AttachGemObstacle:15:0:5"
+		],
+		"displayType": 0,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 92
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AttachGemState:2:10"
+		],
+		"displayType": 0,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 93
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AttachGemObstacle:10:0:2"
+		],
+		"displayType": 0,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 94
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AddBuff:ReducePhyAtk:20:0:1"
+		],
+		"displayType": 0,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 95
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AddBuff:ReduceMagicAtk:20:0:1"
+		],
+		"displayType": 0,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 96
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AddBuff:EnemyWaveChange:1:0:1:99",
+			"AddBuff:DotDamage:50:0:1:1:(&EneAtk)",
+			"AttachGemState:1:4",
+			"AttachGemState:2:4",
+			"AttachGemObstacle:15:0:3"
+		],
+		"displayType": 0,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 97
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AttachGemState:1:4",
+			"AttachGemState:2:4",
+			"AttachGemObstacle:15:0:3"
+		],
+		"displayType": 0,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 98
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AddBuff:DotDamage:50:0:0:1:(&EneAtk)",
+			"AttachGemState:1:4",
+			"AttachGemState:2:4",
+			"AttachGemObstacle:15:0:3"
+		],
+		"displayType": 0,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 99
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AddBuff:BronyaPassive:0:0:0"
+		],
+		"displayType": 0,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 100
+	},
+	{
+		"skillName": {
+			"hash": 311490870
+		},
+		"skillDes": {
+			"hash": -155219379
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Heal:200*(&PConfigHP)"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 101
+	},
+	{
+		"skillName": {
+			"hash": 311490871
+		},
+		"skillDes": {
+			"hash": -155219378
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Heal:250*(&PConfigHP)"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 102
+	},
+	{
+		"skillName": {
+			"hash": 311490872
+		},
+		"skillDes": {
+			"hash": -155219377
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Heal:300*(&PConfigHP)"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 103
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AddBuff:DotDamage:50:0:0:1:(&EneAtk)"
+		],
+		"displayType": 0,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 111
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AddBuff:EnemyWaveChange:1:0:1:111",
+			"AddBuff:DotDamage:50:0:1:1:(&EneAtk)"
+		],
+		"displayType": 0,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 112
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Heal:100*(&EneAtk)",
+			"EvilEyeMove:9"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 113
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AddBuff:MuteLethalDamage:1:0:1"
+		],
+		"displayType": 0,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 114
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AddBuff:IncreaseConfigHP:30:0:1"
+		],
+		"displayType": 0,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 115
+	},
+	{
+		"skillName": {
+			"hash": 311491831
+		},
+		"skillDes": {
+			"hash": -155218418
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Energy:200*(&PConfigEng)",
+			"AddBuff:BronyaPassive:2:0:0"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 201
+	},
+	{
+		"skillName": {
+			"hash": 311491832
+		},
+		"skillDes": {
+			"hash": -155218417
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Energy:200*(&PConfigEng)",
+			"AddBuff:BronyaPassive:3:0:0"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 202
+	},
+	{
+		"skillName": {
+			"hash": 311491833
+		},
+		"skillDes": {
+			"hash": -155218416
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Energy:200*(&PConfigEng)",
+			"AddBuff:BronyaPassive:4:0:0"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 203
+	},
+	{
+		"skillName": {
+			"hash": 311492792
+		},
+		"skillDes": {
+			"hash": -155217457
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:2:150*(&PhyAtk)"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 301
+	},
+	{
+		"skillName": {
+			"hash": 311492793
+		},
+		"skillDes": {
+			"hash": -155217456
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:2:175*(&PhyAtk)",
+			"Damage:2:3*(%BronyaPassive)*(&PhyAtk)",
+			"Damage:2:3*(%BronyaPassive)*(&PhyAtk)"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 302
+	},
+	{
+		"skillName": {
+			"hash": 311492794
+		},
+		"skillDes": {
+			"hash": -155217455
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:2:200*(&PhyAtk)",
+			"Damage:2:3*(%BronyaPassive)*(&PhyAtk)",
+			"Damage:2:3*(%BronyaPassive)*(&PhyAtk)",
+			"Damage:2:3*(%BronyaPassive)*(&PhyAtk)"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 303
+	},
+	{
+		"skillName": {
+			"hash": 311493753
+		},
+		"skillDes": {
+			"hash": -155216496
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:3:150*(&MagAtk)",
+			"AddBuff:ReduceDefence:20:3:1"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 401
+	},
+	{
+		"skillName": {
+			"hash": 311493754
+		},
+		"skillDes": {
+			"hash": -155216495
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:3:175*(&MagAtk)",
+			"AddBuff:ReduceDefence:25:3:1"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 402
+	},
+	{
+		"skillName": {
+			"hash": 311493755
+		},
+		"skillDes": {
+			"hash": -155216494
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:3:200*(&MagAtk)",
+			"AddBuff:ReduceDefence:30:3:1"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 403
+	},
+	{
+		"skillName": {
+			"hash": 311494714
+		},
+		"skillDes": {
+			"hash": -155215535
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:2:100*(&PhyAtk):3",
+			"PolishSkillGem:0:2:3"
+		],
+		"displayType": 2,
+		"actionTrigger": "Ultra",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 501
+	},
+	{
+		"skillName": {
+			"hash": 311494715
+		},
+		"skillDes": {
+			"hash": -155215534
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:2:100*(&PhyAtk):4",
+			"PolishSkillGem:0:3:3"
+		],
+		"displayType": 2,
+		"actionTrigger": "Ultra",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 502
+	},
+	{
+		"skillName": {
+			"hash": 311494716
+		},
+		"skillDes": {
+			"hash": -155215533
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:2:125*(&PhyAtk):4",
+			"PolishSkillGem:0:4:3"
+		],
+		"displayType": 2,
+		"actionTrigger": "Ultra",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 503
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AddBuff:TeririPassive:0:0:0:900",
+			"AddBuff:AddableDotDamage:70:3:1:3:(&MagAtk)",
+			"AddBuff:ReduceResist:20:3:1"
+		],
+		"displayType": 0,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 600
+	},
+	{
+		"skillName": {
+			"hash": 311495675
+		},
+		"skillDes": {
+			"hash": -155214574
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Heal:150*(&PConfigHP)",
+			"DissolveGem:1"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 601
+	},
+	{
+		"skillName": {
+			"hash": 311495676
+		},
+		"skillDes": {
+			"hash": -155214573
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Heal:200*(&PConfigHP)",
+			"DissolveGem:2"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 602
+	},
+	{
+		"skillName": {
+			"hash": 311495677
+		},
+		"skillDes": {
+			"hash": -155214572
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Heal:250*(&PConfigHP)",
+			"DissolveGem:3"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 603
+	},
+	{
+		"skillName": {
+			"hash": 311496636
+		},
+		"skillDes": {
+			"hash": -155213613
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Energy:200*(&PConfigEng)",
+			"PolishSkillGem:0:1:4"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 701
+	},
+	{
+		"skillName": {
+			"hash": 311496637
+		},
+		"skillDes": {
+			"hash": -155213612
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Energy:200*(&PConfigEng)",
+			"PolishSkillGem:0:2:4"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 702
+	},
+	{
+		"skillName": {
+			"hash": 311496638
+		},
+		"skillDes": {
+			"hash": -155213611
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Energy:200*(&PConfigEng)",
+			"PolishSkillGem:0:3:4"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 703
+	},
+	{
+		"skillName": {
+			"hash": 311497597
+		},
+		"skillDes": {
+			"hash": -155212652
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:2:200*(&PhyAtk)"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 801
+	},
+	{
+		"skillName": {
+			"hash": 311497598
+		},
+		"skillDes": {
+			"hash": -155212651
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:2:250*(&PhyAtk)"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 802
+	},
+	{
+		"skillName": {
+			"hash": 311497599
+		},
+		"skillDes": {
+			"hash": -155212650
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:2:300*(&PhyAtk)"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 803
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AddBuff:AddableDotDamage:70:3:1:3:(&MagAtk)",
+			"AddBuff:ReduceResist:20:3:1"
+		],
+		"displayType": 0,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 900
+	},
+	{
+		"skillName": {
+			"hash": 311498558
+		},
+		"skillDes": {
+			"hash": -155211691
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:3:150*(&MagAtk)",
+			"AddBuff:AddableDotDamage:70:3:1:3:(&MagAtk)",
+			"AddBuff:ReduceResist:20:3:1"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 901
+	},
+	{
+		"skillName": {
+			"hash": 311498559
+		},
+		"skillDes": {
+			"hash": -155211690
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:3:200*(&MagAtk)",
+			"AddBuff:AddableDotDamage:70:3:1:3:(&MagAtk)",
+			"AddBuff:ReduceResist:20:3:1"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 902
+	},
+	{
+		"skillName": {
+			"hash": 311498560
+		},
+		"skillDes": {
+			"hash": -155211689
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:3:250*(&MagAtk)",
+			"AddBuff:AddableDotDamage:70:3:1:3:(&MagAtk)",
+			"AddBuff:ReduceResist:20:3:1"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 903
+	},
+	{
+		"skillName": {
+			"hash": 1066282396
+		},
+		"skillDes": {
+			"hash": -516833435
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:3:250*(&MagAtk)",
+			"AddBuff:AddableDotDamage:100:3:1:3:(&MagAtk)",
+			"AddBuff:ReduceResist:20:3:1"
+		],
+		"displayType": 1,
+		"actionTrigger": "Ultra",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 1001
+	},
+	{
+		"skillName": {
+			"hash": 1066282397
+		},
+		"skillDes": {
+			"hash": -516833434
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:3:350*(&MagAtk)",
+			"AddBuff:AddableDotDamage:100:3:1:3:(&MagAtk)",
+			"AddBuff:ReduceResist:20:3:1"
+		],
+		"displayType": 1,
+		"actionTrigger": "Ultra",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 1002
+	},
+	{
+		"skillName": {
+			"hash": 1066282398
+		},
+		"skillDes": {
+			"hash": -516833433
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:3:450*(&MagAtk)",
+			"AddBuff:AddableDotDamage:100:3:1:3:(&MagAtk)",
+			"AddBuff:ReduceResist:20:3:1"
+		],
+		"displayType": 1,
+		"actionTrigger": "Ultra",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 1003
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AddBuff:RitaPassive:0:0:0:1110"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 1100
+	},
+	{
+		"skillName": {
+			"hash": 1066283357
+		},
+		"skillDes": {
+			"hash": -516832474
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Heal:150*(&PConfigHP)",
+			"Damage:1:270*(&PConfigHP)"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 1101
+	},
+	{
+		"skillName": {
+			"hash": 1066283358
+		},
+		"skillDes": {
+			"hash": -516832473
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Heal:200*(&PConfigHP)",
+			"Damage:1:360*(&PConfigHP)"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 1102
+	},
+	{
+		"skillName": {
+			"hash": 1066283359
+		},
+		"skillDes": {
+			"hash": -516832472
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Heal:250*(&PConfigHP)",
+			"Damage:1:450*(&PConfigHP)"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 1103
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"PolishSkillGem:0:1:1"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 1110
+	},
+	{
+		"skillName": {
+			"hash": 1066284318
+		},
+		"skillDes": {
+			"hash": -516831513
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Energy:200*(&PConfigEng)"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 1201
+	},
+	{
+		"skillName": {
+			"hash": 1066284319
+		},
+		"skillDes": {
+			"hash": -516831512
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Energy:250*(&PConfigEng)"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 1202
+	},
+	{
+		"skillName": {
+			"hash": 1066284320
+		},
+		"skillDes": {
+			"hash": -516831511
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Energy:300*(&PConfigEng)"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 1203
+	},
+	{
+		"skillName": {
+			"hash": 1066285279
+		},
+		"skillDes": {
+			"hash": -516830552
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:3:150*(&PhyAtk)+20*(&PCurHP)",
+			"SelfDamage:10*(&PCurHP)"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 1301
+	},
+	{
+		"skillName": {
+			"hash": 1066285280
+		},
+		"skillDes": {
+			"hash": -516830551
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:3:150*(&PhyAtk)+40*(&PCurHP)",
+			"SelfDamage:10*(&PCurHP)"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 1302
+	},
+	{
+		"skillName": {
+			"hash": 1066285281
+		},
+		"skillDes": {
+			"hash": -516830550
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:3:150*(&PhyAtk)+60*(&PCurHP)",
+			"SelfDamage:10*(&PCurHP)"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 1303
+	},
+	{
+		"skillName": {
+			"hash": 1066286240
+		},
+		"skillDes": {
+			"hash": -516829591
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:3:150*(&MagAtk)+20*(&PCurHP)",
+			"SelfDamage:10*(&PCurHP)"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 1401
+	},
+	{
+		"skillName": {
+			"hash": 1066286241
+		},
+		"skillDes": {
+			"hash": -516829590
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:3:150*(&MagAtk)+40*(&PCurHP)",
+			"SelfDamage:10*(&PCurHP)"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 1402
+	},
+	{
+		"skillName": {
+			"hash": 1066286242
+		},
+		"skillDes": {
+			"hash": -516829589
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:3:150*(&MagAtk)+60*(&PCurHP)",
+			"SelfDamage:10*(&PCurHP)"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 1403
+	},
+	{
+		"skillName": {
+			"hash": 1066287201
+		},
+		"skillDes": {
+			"hash": -516828630
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Heal:400*(&PConfigHP)",
+			"Damage:1:480*(&PConfigHP)"
+		],
+		"displayType": 1,
+		"actionTrigger": "Ultra",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 1501
+	},
+	{
+		"skillName": {
+			"hash": 1066287202
+		},
+		"skillDes": {
+			"hash": -516828629
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Heal:500*(&PConfigHP)",
+			"Damage:1:600*(&PConfigHP)"
+		],
+		"displayType": 1,
+		"actionTrigger": "Ultra",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 1502
+	},
+	{
+		"skillName": {
+			"hash": 1066287203
+		},
+		"skillDes": {
+			"hash": -516828628
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Heal:600*(&PConfigHP)",
+			"Damage:1:720*(&PConfigHP)"
+		],
+		"displayType": 1,
+		"actionTrigger": "Ultra",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 1503
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AddBuff:SakuraPassive:1:3:0"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 1600
+	},
+	{
+		"skillName": {
+			"hash": 1066288162
+		},
+		"skillDes": {
+			"hash": -516827669
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Heal:200*(&PConfigHP)",
+			"AddBuff:SakuraPassive:1:3:0"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 1601
+	},
+	{
+		"skillName": {
+			"hash": 1066288163
+		},
+		"skillDes": {
+			"hash": -516827668
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Heal:250*(&PConfigHP)",
+			"AddBuff:SakuraPassive:1:3:0"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 1602
+	},
+	{
+		"skillName": {
+			"hash": 1066288164
+		},
+		"skillDes": {
+			"hash": -516827667
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Heal:300*(&PConfigHP)",
+			"AddBuff:SakuraPassive:1:3:0"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 1603
+	},
+	{
+		"skillName": {
+			"hash": 1066289123
+		},
+		"skillDes": {
+			"hash": -516826708
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Energy:200*(&PConfigEng)",
+			"PolishSkillGem:0:1",
+			"AddBuff:SakuraPassive:1:3:0"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 1701
+	},
+	{
+		"skillName": {
+			"hash": 1066289124
+		},
+		"skillDes": {
+			"hash": -516826707
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Energy:200*(&PConfigEng)",
+			"PolishSkillGem:0:2",
+			"AddBuff:SakuraPassive:1:3:0"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 1702
+	},
+	{
+		"skillName": {
+			"hash": 1066289125
+		},
+		"skillDes": {
+			"hash": -516826706
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Energy:200*(&PConfigEng)",
+			"PolishSkillGem:0:3",
+			"AddBuff:SakuraPassive:1:3:0"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 1703
+	},
+	{
+		"skillName": {
+			"hash": 1066290084
+		},
+		"skillDes": {
+			"hash": -516825747
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:2:150*(&PhyAtk)+10*(%SakuraPassive)*(&PhyAtk)",
+			"AddBuff:SakuraPassive:1:3:0"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 1801
+	},
+	{
+		"skillName": {
+			"hash": 1066290085
+		},
+		"skillDes": {
+			"hash": -516825746
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:2:200*(&PhyAtk)+10*(%SakuraPassive)*(&PhyAtk)",
+			"AddBuff:SakuraPassive:1:3:0"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 1802
+	},
+	{
+		"skillName": {
+			"hash": 1066290086
+		},
+		"skillDes": {
+			"hash": -516825745
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:2:250*(&PhyAtk)+10*(%SakuraPassive)*(&PhyAtk)",
+			"AddBuff:SakuraPassive:1:3:0"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 1803
+	},
+	{
+		"skillName": {
+			"hash": 1066291045
+		},
+		"skillDes": {
+			"hash": -516824786
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:2:150*(&MagAtk)+10*(%SakuraPassive)*(&MagAtk)",
+			"AddBuff:SakuraPassive:1:3:0"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 1901
+	},
+	{
+		"skillName": {
+			"hash": 1066291046
+		},
+		"skillDes": {
+			"hash": -516824785
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:2:200*(&MagAtk)+10*(%SakuraPassive)*(&MagAtk)",
+			"AddBuff:SakuraPassive:1:3:0"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 1902
+	},
+	{
+		"skillName": {
+			"hash": 1066291047
+		},
+		"skillDes": {
+			"hash": -516824784
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:2:250*(&MagAtk)+10*(%SakuraPassive)*(&MagAtk)",
+			"AddBuff:SakuraPassive:1:3:0"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 1903
+	},
+	{
+		"skillName": {
+			"hash": 1066312187
+		},
+		"skillDes": {
+			"hash": -516803644
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"SakuraFinalGem",
+			"AddBuff:SakuraPassive:2:3:0"
+		],
+		"displayType": 1,
+		"actionTrigger": "Ultra",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 2001
+	},
+	{
+		"skillName": {
+			"hash": 1066312188
+		},
+		"skillDes": {
+			"hash": -516803643
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"SakuraFinalGem",
+			"AddBuff:SakuraPassive:4:3:0"
+		],
+		"displayType": 1,
+		"actionTrigger": "Ultra",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 2002
+	},
+	{
+		"skillName": {
+			"hash": 1066312189
+		},
+		"skillDes": {
+			"hash": -516803642
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"SakuraFinalGem",
+			"AddBuff:SakuraPassive:6:3:0"
+		],
+		"displayType": 1,
+		"actionTrigger": "Ultra",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 2003
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AddBuff:DeltaPassive:0:0:0:2110"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 2100
+	},
+	{
+		"skillName": {
+			"hash": 1066313148
+		},
+		"skillDes": {
+			"hash": -516802683
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Heal:150*(&PConfigHP)",
+			"AddBuff:CountableShield:1:0:0"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 2101
+	},
+	{
+		"skillName": {
+			"hash": 1066313149
+		},
+		"skillDes": {
+			"hash": -516802682
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Heal:200*(&PConfigHP)",
+			"AddBuff:CountableShield:1:0:0"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 2102
+	},
+	{
+		"skillName": {
+			"hash": 1066313150
+		},
+		"skillDes": {
+			"hash": -516802681
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Heal:250*(&PConfigHP)",
+			"AddBuff:CountableShield:1:0:0"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 2103
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"DissolveGemType:2"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 2110
+	},
+	{
+		"skillName": {
+			"hash": 1066314109
+		},
+		"skillDes": {
+			"hash": -516801722
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Energy:200*(&PConfigEng)"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 2201
+	},
+	{
+		"skillName": {
+			"hash": 1066314110
+		},
+		"skillDes": {
+			"hash": -516801721
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Energy:250*(&PConfigEng)"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 2202
+	},
+	{
+		"skillName": {
+			"hash": 1066314111
+		},
+		"skillDes": {
+			"hash": -516801720
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Energy:300*(&PConfigEng)"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 2203
+	},
+	{
+		"skillName": {
+			"hash": 1066315070
+		},
+		"skillDes": {
+			"hash": -516800761
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:2:150*(&PhyAtk)+(&PCurEng)*(&PhyAtk)/2"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 2301
+	},
+	{
+		"skillName": {
+			"hash": 1066315071
+		},
+		"skillDes": {
+			"hash": -516800760
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:2:200*(&PhyAtk)+(&PCurEng)*(&PhyAtk)/2"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 2302
+	},
+	{
+		"skillName": {
+			"hash": 1066315072
+		},
+		"skillDes": {
+			"hash": -516800759
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:2:250*(&PhyAtk)+(&PCurEng)*(&PhyAtk)/2"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 2303
+	},
+	{
+		"skillName": {
+			"hash": 1066316031
+		},
+		"skillDes": {
+			"hash": -516799800
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:3:150*(&MagAtk)+(&PCurEng)*(&MagAtk)/2"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 2401
+	},
+	{
+		"skillName": {
+			"hash": 1066316032
+		},
+		"skillDes": {
+			"hash": -516799799
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:3:200*(&MagAtk)+(&PCurEng)*(&MagAtk)/2"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 2402
+	},
+	{
+		"skillName": {
+			"hash": 1066316033
+		},
+		"skillDes": {
+			"hash": -516799798
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:3:250*(&MagAtk)+(&PCurEng)*(&MagAtk)/2"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 2403
+	},
+	{
+		"skillName": {
+			"hash": 1066316992
+		},
+		"skillDes": {
+			"hash": -516798839
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AddBuff:AddableIncreaseTakeDamage:20:3:0",
+			"PolishSkillGem:0:1:3",
+			"PolishSkillGem:0:1:4"
+		],
+		"displayType": 1,
+		"actionTrigger": "Ultra",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 2501
+	},
+	{
+		"skillName": {
+			"hash": 1066316993
+		},
+		"skillDes": {
+			"hash": -516798838
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AddBuff:AddableIncreaseTakeDamage:25:3:0",
+			"PolishSkillGem:0:2:3",
+			"PolishSkillGem:0:2:4"
+		],
+		"displayType": 1,
+		"actionTrigger": "Ultra",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 2502
+	},
+	{
+		"skillName": {
+			"hash": 1066316994
+		},
+		"skillDes": {
+			"hash": -516798837
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AddBuff:AddableIncreaseTakeDamage:30:3:0",
+			"PolishSkillGem:0:3:3",
+			"PolishSkillGem:0:3:4"
+		],
+		"displayType": 1,
+		"actionTrigger": "Ultra",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 2503
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"TutorialSetDrop:1",
+			"TutorialObstacleBoard",
+			"TutorialSetGemBoard:1:4:3",
+			"TutorialSetGemBoard:2:4:4",
+			"TutorialSetGemBoard:3:4:5",
+			"TutorialSetGemBoard:4:4:6",
+			"TutorialSetGemBoard:3:3:6",
+			"TutorialSetGemBoard:3:5:6"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 5001
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"TutorialSetGemBoard:1:4:3",
+			"TutorialSetGemBoard:2:4:4",
+			"TutorialSetGemBoard:4:4:5",
+			"TutorialSetGemBoard:4:4:6",
+			"TutorialSetGemBoard:4:3:4"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 5002
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"TutorialSetGemBoard:1:4:3",
+			"TutorialSetGemBoard:2:4:4",
+			"TutorialSetGemBoard:1:3:4",
+			"TutorialSetGemBoard:1:4:5",
+			"SelfDamage:20000"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 5003
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"TutorialSetGemBoard:2:4:3",
+			"TutorialSetGemBoard:2:4:4",
+			"TutorialSetGemBoard:1:4:5",
+			"TutorialSetGemBoard:2:3:5"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 5004
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Energy:600*(&PConfigEng)",
+			"TutorialSetGemBoard:3:4:4",
+			"TutorialSetGemBoard:3:1:5",
+			"TutorialSetGemBoard:3:2:5",
+			"TutorialSetGemBoard:1:3:5",
+			"TutorialSetGemBoard:3:5:5",
+			"TutorialPinGemOnBoard:1:5:False",
+			"TutorialPinGemOnBoard:2:5:False",
+			"TutorialPinGemOnBoard:4:4:True",
+			"TutorialPinGemOnBoard:5:5:False"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 5005
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"TutorialSetGemBoard:3:4:4",
+			"TutorialSetGemBoard:4:4:5",
+			"TutorialSetGemBoard:3:3:5"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 5006
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"TutorialSetGemBoard:4:4:3",
+			"TutorialSetGemBoard:4:2:5",
+			"TutorialSetGemBoard:4:3:5",
+			"TutorialSetGemBoard:2:4:5",
+			"TutorialSetGemBoard:4:4:6",
+			"TutorialPinGemOnBoard:3:5:False",
+			"TutorialPinGemOnBoard:4:4:False"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 5007
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"TutorialSetGemBoard:4:4:3",
+			"TutorialSetGemBoard:4:3:4",
+			"TutorialSetGemBoard:2:4:4",
+			"TutorialSetGemBoard:4:5:4",
+			"TutorialSetGemBoard:4:4:6",
+			"TutorialPinGemOnBoard:3:4:False",
+			"TutorialPinGemOnBoard:5:4:False",
+			"TutorialPinGemOnBoard:4:5:False"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 5008
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"TutorialObstacleBoard",
+			"TutorialSetGemBoard:3:4:2",
+			"TutorialSetGemBoard:3:4:3",
+			"TutorialSetGemBoard:1:4:4",
+			"TutorialSetGemBoard:3:4:5",
+			"TutorialSetGemBoard:3:4:6",
+			"TutorialSetGemBoard:3:3:4",
+			"TutorialPinGemOnBoard:4:3:False",
+			"TutorialPinGemOnBoard:4:5:False"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 5009
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"TutorialSetGemBoard:4:4:5",
+			"TutorialSetGemBoard:1:5:5",
+			"TutorialSetGemBoard:5:3:5",
+			"TutorialSetGemBoard:1:4:6"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 5010
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"TutorialSetDrop:0",
+			"TutorialSetGemBoard:4:1:1",
+			"TutorialSetGemBoard:1:1:2",
+			"TutorialSetGemBoard:3:1:3",
+			"TutorialSetGemBoard:1:1:4",
+			"TutorialSetGemBoard:2:1:5",
+			"TutorialSetGemBoard:1:1:6",
+			"TutorialSetGemBoard:2:1:7",
+			"TutorialSetGemBoard:4:1:8",
+			"TutorialSetGemBoard:2:2:1",
+			"TutorialSetGemBoard:2:2:2",
+			"TutorialSetGemBoard:1:2:3",
+			"TutorialSetGemBoard:2:2:4",
+			"TutorialSetGemBoard:1:2:5",
+			"TutorialSetGemBoard:2:2:6",
+			"TutorialSetGemBoard:3:2:7",
+			"TutorialSetGemBoard:4:2:8",
+			"TutorialSetGemBoard:1:3:1",
+			"TutorialSetGemBoard:4:3:2",
+			"TutorialSetGemBoard:4:3:3",
+			"TutorialSetGemBoard:1:3:4",
+			"TutorialSetGemBoard:4:3:5",
+			"TutorialSetGemBoard:1:3:6",
+			"TutorialSetGemBoard:2:3:7",
+			"TutorialSetGemBoard:3:3:8",
+			"TutorialSetGemBoard:2:4:1",
+			"TutorialSetGemBoard:2:4:2",
+			"TutorialSetGemBoard:1:4:3",
+			"TutorialSetGemBoard:4:4:4",
+			"TutorialSetGemBoard:3:4:5",
+			"TutorialSetGemBoard:3:4:6",
+			"TutorialSetGemBoard:4:4:7",
+			"TutorialSetGemBoard:3:4:8",
+			"TutorialSetGemBoard:3:5:1",
+			"TutorialSetGemBoard:1:5:2",
+			"TutorialSetGemBoard:2:5:3",
+			"TutorialSetGemBoard:1:5:4",
+			"TutorialSetGemBoard:3:5:5",
+			"TutorialSetGemBoard:1:5:6",
+			"TutorialSetGemBoard:2:5:7",
+			"TutorialSetGemBoard:4:5:8",
+			"TutorialSetGemBoard:2:6:1",
+			"TutorialSetGemBoard:4:6:2",
+			"TutorialSetGemBoard:1:6:3",
+			"TutorialSetGemBoard:4:6:4",
+			"TutorialSetGemBoard:2:6:5",
+			"TutorialSetGemBoard:4:6:6",
+			"TutorialSetGemBoard:4:6:7",
+			"TutorialSetGemBoard:3:6:8",
+			"TutorialSetGemBoard:4:7:1",
+			"TutorialSetGemBoard:2:7:2",
+			"TutorialSetGemBoard:4:7:3",
+			"TutorialSetGemBoard:2:7:4",
+			"TutorialSetGemBoard:3:7:5",
+			"TutorialSetGemBoard:1:7:6",
+			"TutorialSetGemBoard:3:7:7",
+			"TutorialSetGemBoard:2:7:8",
+			"PolishSkillGem:0:1:1",
+			"PolishSkillGem:0:1:2",
+			"PolishSkillGem:0:1:3",
+			"PolishSkillGem:0:1:3"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 5011
+	},
+	{
+		"skillName": {
+			"hash": -1304982152
+		},
+		"skillDes": {
+			"hash": 1158034639
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit2",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AddBuff:IncreaseDirAtk:50:3:0",
+			"Damage:1:150*(&EneAtk)"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 10201
+	},
+	{
+		"skillName": {
+			"hash": -1304981191
+		},
+		"skillDes": {
+			"hash": 1158035600
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Skill_OpenWorld_SoulAbsorb",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:200*(&EneAtk)",
+			"AttachGemState:2:4"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 10301
+	},
+	{
+		"skillName": {
+			"hash": -1304980230
+		},
+		"skillDes": {
+			"hash": 1158036561
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/EVA_Skill_Shield",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:150*(&EneAtk)",
+			"AddBuff:CountableShield:2:0:0"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 10401
+	},
+	{
+		"skillName": {
+			"hash": -1304978308
+		},
+		"skillDes": {
+			"hash": 1158038483
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/QTEndless_Ice",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:200*(&EneAtk)",
+			"AttachGemState:1:4"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 10601
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AttachGridState:103:3:3",
+			"AttachGridState:103:3:4",
+			"AttachGridState:103:3:5",
+			"AttachGridState:103:3:6",
+			"AttachGridState:103:4:3",
+			"AttachGridState:103:4:6",
+			"AttachGridState:103:5:3",
+			"AttachGridState:103:5:4",
+			"AttachGridState:103:5:5",
+			"AttachGridState:103:5:6"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 10701
+	},
+	{
+		"skillName": {
+			"hash": -1304976386
+		},
+		"skillDes": {
+			"hash": 1158040405
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Skill_Theresa_Weapon_02",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:200*(&EneAtk)",
+			"AttachGemState:1:1:3"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 10801
+	},
+	{
+		"skillName": {
+			"hash": -1304975425
+		},
+		"skillDes": {
+			"hash": 1158041366
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/QTEndless_Element",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:200*(&EneAtk)",
+			"AttachGemObstacle:14:0:4"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 10901
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AttachObstacleTopRow:6:1"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 11001
+	},
+	{
+		"skillName": {
+			"hash": -1304953322
+		},
+		"skillDes": {
+			"hash": 1158063469
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Skill_Infinite_Flame",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:200*(&EneAtk)",
+			"AttachGemState:2:1:5"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 11101
+	},
+	{
+		"skillName": {
+			"hash": -1304952361
+		},
+		"skillDes": {
+			"hash": 1158064430
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Skill_MK2_Branch_10",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:300*(&EneAtk)",
+			"AttachGemObstacle:15:0:0:4"
+		],
+		"displayType": 1,
+		"actionTrigger": "Ultra",
+		"shakeLevel": 2,
+		"DataImpl": {},
+		"skillID": 11201
+	},
+	{
+		"skillName": {
+			"hash": -1304952360
+		},
+		"skillDes": {
+			"hash": 1158064431
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_Weapon_16",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:200*(&EneAtk)",
+			"AttachGemState:2:6"
+		],
+		"displayType": 1,
+		"actionTrigger": "Ultra",
+		"shakeLevel": 2,
+		"DataImpl": {},
+		"skillID": 11202
+	},
+	{
+		"skillName": {
+			"hash": -1304952359
+		},
+		"skillDes": {
+			"hash": 1158064432
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Skill_Rita_Weapon_04",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:300*(&EneAtk)",
+			"AddBuff:CountableShield:4:0:0"
+		],
+		"displayType": 1,
+		"actionTrigger": "Ultra",
+		"shakeLevel": 2,
+		"DataImpl": {},
+		"skillID": 11203
+	},
+	{
+		"skillName": {
+			"hash": -1304951400
+		},
+		"skillDes": {
+			"hash": 1158065391
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Skill_MK2_Branch_10",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:200*(&EneAtk)",
+			"AttachGemObstacle:14:0:0:2",
+			"Heal:5*(&EMaxHP)"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 11301
+	},
+	{
+		"skillName": {
+			"hash": -1304951399
+		},
+		"skillDes": {
+			"hash": 1158065392
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Skill_Sakura_YS_001",
+		"isNormalAttack": true,
+		"resultOnExecute": [
+			"Damage:1:100*(&EneAtk)",
+			"Heal:5*(&EMaxHP)"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 11302
+	},
+	{
+		"skillName": {
+			"hash": -1304951398
+		},
+		"skillDes": {
+			"hash": 1158065393
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Skill_Sakura_C4_NJ_503_2",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:300*(&EneAtk)",
+			"ChangeEnergy:0:50*(&PCurEng)",
+			"Heal:5*(&EMaxHP)"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 11303
+	},
+	{
+		"skillName": {
+			"hash": -1304951397
+		},
+		"skillDes": {
+			"hash": 1158065394
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Skill_Theresa_Weapon_02",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:200*(&EneAtk)",
+			"AttachGemState:1:1:3",
+			"Heal:5*(&EMaxHP)"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 11304
+	},
+	{
+		"skillName": {
+			"hash": -1304951396
+		},
+		"skillDes": {
+			"hash": 1158065395
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/HealHP",
+		"isNormalAttack": false,
+		"resultOnExecute": [],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 11305
+	},
+	{
+		"skillName": {
+			"hash": -1304059592
+		},
+		"skillDes": {
+			"hash": 1158957199
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Skill_Theresa_Weapon_09",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:200*(&EneAtk)",
+			"AttachGemState:2:1:2"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 20101
+	},
+	{
+		"skillName": {
+			"hash": -1304058631
+		},
+		"skillDes": {
+			"hash": 1158958160
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Skill_QBattle_Bomb",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:200*(&EneAtk)",
+			"AttachGemObstacle:10:0:1"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 20201
+	},
+	{
+		"skillName": {
+			"hash": -1304058630
+		},
+		"skillDes": {
+			"hash": 1158958161
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Skill_QBattle_Bomb",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:200*(&EneAtk)",
+			"AttachGemObstacle:10:0:2"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 20202
+	},
+	{
+		"skillName": {
+			"hash": -1304057670
+		},
+		"skillDes": {
+			"hash": 1158959121
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Skill_QBattle_Bomb",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:200*(&EneAtk)",
+			"AttachGemObstacle:12:0:1"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 20301
+	},
+	{
+		"skillName": {
+			"hash": -1304057669
+		},
+		"skillDes": {
+			"hash": 1158959122
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Skill_QBattle_Bomb",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:200*(&EneAtk)",
+			"AttachGemObstacle:12:0:2"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 20302
+	},
+	{
+		"skillName": {
+			"hash": -1304056709
+		},
+		"skillDes": {
+			"hash": 1158960082
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Skill_MK2_Branch_07",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:200*(&EneAtk)",
+			"AttachGemObstacle:22:0:1"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 20401
+	},
+	{
+		"skillName": {
+			"hash": -1304056708
+		},
+		"skillDes": {
+			"hash": 1158960083
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Skill_Infinite_Flame",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:200*(&EneAtk)",
+			"AttachGemState:2:1:4"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 20402
+	},
+	{
+		"skillName": {
+			"hash": -1304054787
+		},
+		"skillDes": {
+			"hash": 1158962004
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Skill_QBattle_Bomb",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:200*(&EneAtk)",
+			"AttachGemObstacle:11:0:1"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 20601
+	},
+	{
+		"skillName": {
+			"hash": -1304054786
+		},
+		"skillDes": {
+			"hash": 1158962005
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Skill_QBattle_Bomb",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:200*(&EneAtk)",
+			"AttachGemObstacle:11:0:2"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 20602
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AttachGemObstacle:17:1:3:3",
+			"AttachGemObstacle:17:1:3:6",
+			"AttachGemObstacle:17:1:5:3",
+			"AttachGemObstacle:17:1:5:6"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 20701
+	},
+	{
+		"skillName": {
+			"hash": -1304052865
+		},
+		"skillDes": {
+			"hash": 1158963926
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Chat_Lobby_Heal",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:200*(&EneAtk)",
+			"AttachGemObstacle:20:0:1"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 20801
+	},
+	{
+		"skillName": {
+			"hash": -1304052864
+		},
+		"skillDes": {
+			"hash": 1158963927
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Skill_MK2_Branch_10",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:200*(&EneAtk)",
+			"AttachGemObstacle:14:0:0:5"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 20802
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AttachObstacleTopRow:6:2"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 21001
+	},
+	{
+		"skillName": {
+			"hash": -1304029801
+		},
+		"skillDes": {
+			"hash": 1158986990
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Skill_Mei_Weapon_17",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:200*(&EneAtk)",
+			"AttachGemState:3:2"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 21101
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AttachGemObstacle:18:1:4:3",
+			"AttachGemObstacle:19:1:4:6"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 21200
+	},
+	{
+		"skillName": {
+			"hash": -1304028840
+		},
+		"skillDes": {
+			"hash": 1158987951
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Step1",
+		"isNormalAttack": false,
+		"resultOnExecute": [],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 21201
+	},
+	{
+		"skillName": {
+			"hash": -1304028839
+		},
+		"skillDes": {
+			"hash": 1158987952
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Chat_Lobby_Item",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"DestroyObstacle:18",
+			"DestroyObstacle:19"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 21202
+	},
+	{
+		"skillName": {
+			"hash": -1304027879
+		},
+		"skillDes": {
+			"hash": 1158988912
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Skill_Infinite_Gluttony",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:300*(&EneAtk)",
+			"AddBuff:AddableIncreaseTakeDamage:10:0:0"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 21301
+	},
+	{
+		"skillName": {
+			"hash": -1304027878
+		},
+		"skillDes": {
+			"hash": 1158988913
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Skill_Mei_Weapon_17",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:200*(&EneAtk)",
+			"AttachGemState:3:2"
+		],
+		"displayType": 1,
+		"actionTrigger": "Ultra",
+		"shakeLevel": 2,
+		"DataImpl": {},
+		"skillID": 21302
+	},
+	{
+		"skillName": {
+			"hash": -1304027877
+		},
+		"skillDes": {
+			"hash": 1158988914
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Skill_OW_QuestMutual",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:200*(&EneAtk)",
+			"AttachObstacleTopRow:7:1"
+		],
+		"displayType": 1,
+		"actionTrigger": "Ultra",
+		"shakeLevel": 2,
+		"DataImpl": {},
+		"skillID": 21303
+	},
+	{
+		"skillName": {
+			"hash": -1303134149
+		},
+		"skillDes": {
+			"hash": 1159882642
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_Weapon_30",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:200*(&EneAtk)",
+			"AttachGemState:5:1:4"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 30301
+	},
+	{
+		"skillName": {
+			"hash": -1303132227
+		},
+		"skillDes": {
+			"hash": 1159884564
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Skill_Raven_DC_003",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:200*(&EneAtk)",
+			"AttachGemObstacle:9:0:0:2"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 30501
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AttachGridState:103:3:3",
+			"AttachGridState:103:3:4",
+			"AttachGridState:103:3:5",
+			"AttachGridState:103:3:6",
+			"AttachGridState:103:4:3",
+			"AttachGridState:103:4:6",
+			"AttachGridState:103:5:3",
+			"AttachGridState:103:5:4",
+			"AttachGridState:103:5:5",
+			"AttachGridState:103:5:6",
+			"AttachGridState:103:2:2",
+			"AttachGridState:103:2:4",
+			"AttachGridState:103:2:5",
+			"AttachGridState:103:2:7",
+			"AttachGridState:103:6:2",
+			"AttachGridState:103:6:4",
+			"AttachGridState:103:6:5",
+			"AttachGridState:103:6:7"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 30701
+	},
+	{
+		"skillName": {
+			"hash": -1303129344
+		},
+		"skillDes": {
+			"hash": 1159887447
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Skill_Theresa_Weapon_16",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:200*(&EneAtk)",
+			"AttachGemObstacle:23:0:1"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 30801
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AttachGemObstacle:17:1:2:2",
+			"AttachGemObstacle:17:1:2:7",
+			"AttachGemObstacle:17:1:4:3",
+			"AttachGemObstacle:17:1:4:6",
+			"AttachGemObstacle:17:1:6:2",
+			"AttachGemObstacle:17:1:6:7"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 31001
+	},
+	{
+		"skillName": {
+			"hash": 0
+		},
+		"skillDes": {
+			"hash": 0
+		},
+		"skillIcon": "",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AttachGemObstacle:25:1:4:3",
+			"AttachGemObstacle:26:1:4:6"
+		],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 31100
+	},
+	{
+		"skillName": {
+			"hash": -1303106280
+		},
+		"skillDes": {
+			"hash": 1159910511
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Step1",
+		"isNormalAttack": false,
+		"resultOnExecute": [],
+		"displayType": 1,
+		"actionTrigger": "",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 31101
+	},
+	{
+		"skillName": {
+			"hash": -1303106279
+		},
+		"skillDes": {
+			"hash": 1159910512
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Chat_Lobby_Item",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"DestroyObstacle:25",
+			"DestroyObstacle:26"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 31102
+	},
+	{
+		"skillName": {
+			"hash": -1303105319
+		},
+		"skillDes": {
+			"hash": 1159911472
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Skill_Infinite_Gluttony",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:300*(&EneAtk)",
+			"Heal:300*(&EneAtk)"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 31201
+	},
+	{
+		"skillName": {
+			"hash": -1303105318
+		},
+		"skillDes": {
+			"hash": 1159911473
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Skill_Theresa_Weapon_18",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:200*(&EneAtk)",
+			"AttachGemState:5:1:5"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 2,
+		"DataImpl": {},
+		"skillID": 31202
+	},
+	{
+		"skillName": {
+			"hash": -1303105317
+		},
+		"skillDes": {
+			"hash": 1159911474
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/ChapterOW_CoreSkill02_1",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:200*(&EneAtk)",
+			"AddBuff:DotDamage:150:3:1:1:(&EneAtk)"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 31203
+	},
+	{
+		"skillName": {
+			"hash": -1303105316
+		},
+		"skillDes": {
+			"hash": 1159911475
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/SusannaTrial_Bleed",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:400*(&EneAtk)",
+			"Heal:400*(&EneAtk)",
+			"AddBuff:MuteNormalAtk:1:3:0"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 2,
+		"DataImpl": {},
+		"skillID": 31204
+	},
+	{
+		"skillName": {
+			"hash": -1303105315
+		},
+		"skillDes": {
+			"hash": 1159911476
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Skill_Common_Weapon_01",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:200*(&EneAtk)",
+			"AttachGemObstacle:8:0:1"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 2,
+		"DataImpl": {},
+		"skillID": 31205
+	},
+	{
+		"skillName": {
+			"hash": -1302183720
+		},
+		"skillDes": {
+			"hash": 1160833071
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Skill_Theresa_Weapon_13",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:200*(&EneAtk)",
+			"AttachGemObstacle:21:0:1"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 41001
+	},
+	{
+		"skillName": {
+			"hash": -1302183719
+		},
+		"skillDes": {
+			"hash": 1160833072
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Skill_Mei_Weapon_12",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:200*(&EneAtk)",
+			"AttachGemState:1:1:4"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 41002
+	},
+	{
+		"skillName": {
+			"hash": -1302179875
+		},
+		"skillDes": {
+			"hash": 1160836916
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/QTEndless_Element",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:200*(&EneAtk)",
+			"AttachGemObstacle:14:0:1:1"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 41402
+	},
+	{
+		"skillName": {
+			"hash": -1302176992
+		},
+		"skillDes": {
+			"hash": 1160839799
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Skill_Theresa_Weapon_16",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:200*(&EneAtk)",
+			"AttachGemObstacle:23:0:1",
+			"AttachGemObstacle:24:0:1"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 41702
+	},
+	{
+		"skillName": {
+			"hash": -1302175070
+		},
+		"skillDes": {
+			"hash": 1160841721
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_Weapon_30",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:200*(&EneAtk)",
+			"AttachGemState:5:1:1"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 41902
+	},
+	{
+		"skillName": {
+			"hash": -1302153928
+		},
+		"skillDes": {
+			"hash": 1160862863
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Skill_MK2_Branch_10",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:300*(&EneAtk)",
+			"AttachGemObstacle:15:0:1:3"
+		],
+		"displayType": 1,
+		"actionTrigger": "Ultra",
+		"shakeLevel": 2,
+		"DataImpl": {},
+		"skillID": 42002
+	},
+	{
+		"skillName": {
+			"hash": -1302152967
+		},
+		"skillDes": {
+			"hash": 1160863824
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Skill_Raven_DC_003",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:200*(&EneAtk)",
+			"AttachGemObstacle:9:0:0:2",
+			"AttachGemObstacle:9:0:0:3"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 42102
+	},
+	{
+		"skillName": {
+			"hash": -1302152006
+		},
+		"skillDes": {
+			"hash": 1160864785
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Skill_QBattle_Bomb",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:200*(&EneAtk)",
+			"AttachGemObstacle:11:0:3"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 42202
+	},
+	{
+		"skillName": {
+			"hash": -1302151046
+		},
+		"skillDes": {
+			"hash": 1160865745
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/EVA_Skill_Shield",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:200*(&EneAtk)",
+			"AddBuff:CountableShield:3:0:0"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 42301
+	},
+	{
+		"skillName": {
+			"hash": -1302149122
+		},
+		"skillDes": {
+			"hash": 1160867669
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Skill_Infinite_Gluttony",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"AddBuff:Vampire:20:3:0",
+			"Damage:1:150*(&EneAtk)"
+		],
+		"displayType": 1,
+		"actionTrigger": "Ultra",
+		"shakeLevel": 2,
+		"DataImpl": {},
+		"skillID": 42503
+	},
+	{
+		"skillName": {
+			"hash": -1302148163
+		},
+		"skillDes": {
+			"hash": 1160868628
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Skill_Theresa_Weapon_02",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:200*(&EneAtk)",
+			"AttachGemState:1:1:3",
+			"AttachGemState:1:1:2"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 42601
+	},
+	{
+		"skillName": {
+			"hash": -1302148162
+		},
+		"skillDes": {
+			"hash": 1160868629
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Skill_QBattle_Bomb",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:200*(&EneAtk)",
+			"AttachGemObstacle:12:0:3"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 42602
+	},
+	{
+		"skillName": {
+			"hash": -1302146241
+		},
+		"skillDes": {
+			"hash": 1160870550
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Skill_QBattle_Bomb",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:200*(&EneAtk)",
+			"AttachGemObstacle:10:0:3"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 42801
+	},
+	{
+		"skillName": {
+			"hash": -1302124138
+		},
+		"skillDes": {
+			"hash": 1160892653
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Skill_Mei_Weapon_12",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:200*(&EneAtk)",
+			"AttachGemState:1:1:1"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 1,
+		"DataImpl": {},
+		"skillID": 43001
+	},
+	{
+		"skillName": {
+			"hash": -1302124137
+		},
+		"skillDes": {
+			"hash": 1160892654
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/ChapterOW_CoreSkill02_1",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:200*(&EneAtk)",
+			"AddBuff:DotDamage:150:3:1:1:(&EneAtk)",
+			"ChangeEnergy:0:50*(&PCurEng)"
+		],
+		"displayType": 1,
+		"actionTrigger": "Attack",
+		"shakeLevel": 0,
+		"DataImpl": {},
+		"skillID": 43002
+	},
+	{
+		"skillName": {
+			"hash": -1302124136
+		},
+		"skillDes": {
+			"hash": 1160892655
+		},
+		"skillIcon": "SpriteOutput/SkillIconsInLevel/Skill_Theresa_Weapon_18",
+		"isNormalAttack": false,
+		"resultOnExecute": [
+			"Damage:1:200*(&EneAtk)",
+			"AttachGemState:5:1:5",
+			"AttachGemState:5:1:4"
+		],
+		"displayType": 1,
+		"actionTrigger": "Ultra",
+		"shakeLevel": 2,
+		"DataImpl": {},
+		"skillID": 43003
+	}
+]

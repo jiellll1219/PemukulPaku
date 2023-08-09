@@ -1,0 +1,65 @@
+[
+	{
+		"itemDisplay": [
+			{
+				"itemID": 1001,
+				"itemNum": 2
+			},
+			{
+				"itemID": 1002,
+				"itemNum": 1
+			}
+		],
+		"beginTime": "2018-05-28 12:00:00",
+		"endTime": "2018-09-01 12:00:00",
+		"imagePath": "SpriteOutput/ActivityRegression/ActivityScheduleDisplayTest02",
+		"text": {
+			"hash": -326470024
+		},
+		"link": "<type=\"1|10101\" text=\"点我参与活动\"/>",
+		"DataImpl": {},
+		"ID": 10001
+	},
+	{
+		"itemDisplay": [
+			{
+				"itemID": 1001,
+				"itemNum": 2
+			},
+			{
+				"itemID": 1002,
+				"itemNum": 1
+			}
+		],
+		"beginTime": "2018-06-07 12:00:00",
+		"endTime": "2018-08-12 12:00:00",
+		"imagePath": "SpriteOutput/ActivityRegression/ActivityScheduleDisplayTest02",
+		"text": {
+			"hash": -326470023
+		},
+		"link": "<type=\"browser\" text=\"点击观看教学视频\" href=\"https://www.bilibili.com/video/av28417238\"/>",
+		"DataImpl": {},
+		"ID": 10002
+	},
+	{
+		"itemDisplay": [
+			{
+				"itemID": 1001,
+				"itemNum": 2
+			},
+			{
+				"itemID": 1002,
+				"itemNum": 1
+			}
+		],
+		"beginTime": "2018-03-27 04:00:00",
+		"endTime": "2018-09-09 04:00:00",
+		"imagePath": "SpriteOutput/ActivityRegression/ActivityScheduleDisplayTest02",
+		"text": {
+			"hash": -326470022
+		},
+		"link": "<type=\"webview\" text=\"点我参与活动\" href=\"https://webstatic.mihoyo.com/bh3/event/e20180709levelup/index.html?_uid=1&_nickname=1&_level=1&_event=bh3_2018beginner\"/>",
+		"DataImpl": {},
+		"ID": 10003
+	}
+]

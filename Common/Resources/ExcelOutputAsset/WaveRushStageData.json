@@ -1,0 +1,3994 @@
+[
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000001,
+			1100,
+			999
+		],
+		"SimpleStageDetail": "",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			1,
+			2,
+			3,
+			5
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4001,
+		"DataImpl": {},
+		"StageID": 10302001
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000002,
+			1100,
+			999
+		],
+		"SimpleStageDetail": "",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			6,
+			7,
+			8,
+			10
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4002,
+		"DataImpl": {},
+		"StageID": 10302002
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 90,
+		"WeatherIDList": [
+			1000003,
+			1000004,
+			1100,
+			999
+		],
+		"SimpleStageDetail": "",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			11,
+			12,
+			13,
+			15,
+			16
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4003,
+		"DataImpl": {},
+		"StageID": 10302003
+	},
+	{
+		"Type": 2,
+		"MaxScore": 2000,
+		"IsInRewardLine": true,
+		"StageTime": 30,
+		"WeatherIDList": [
+			1100,
+			999
+		],
+		"SimpleStageDetail": "",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			17,
+			18,
+			19,
+			20,
+			23,
+			22,
+			21,
+			25,
+			26,
+			27,
+			28,
+			29
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4004,
+		"DataImpl": {},
+		"StageID": 10302004
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000005,
+			2100,
+			999
+		],
+		"SimpleStageDetail": "",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Beach",
+		"WaveIDList": [
+			30,
+			31,
+			32,
+			34
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4005,
+		"DataImpl": {},
+		"StageID": 10302005
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000006,
+			2100,
+			999
+		],
+		"SimpleStageDetail": "",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Beach",
+		"WaveIDList": [
+			35,
+			36,
+			37,
+			39
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4006,
+		"DataImpl": {},
+		"StageID": 10302006
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 90,
+		"WeatherIDList": [
+			1000007,
+			1000008,
+			2100,
+			999
+		],
+		"SimpleStageDetail": "",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Beach",
+		"WaveIDList": [
+			40,
+			41,
+			42,
+			44,
+			45
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4007,
+		"DataImpl": {},
+		"StageID": 10302007
+	},
+	{
+		"Type": 2,
+		"MaxScore": 2000,
+		"IsInRewardLine": true,
+		"StageTime": 30,
+		"WeatherIDList": [
+			2100,
+			999
+		],
+		"SimpleStageDetail": "",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Beach",
+		"WaveIDList": [
+			46,
+			47,
+			48,
+			49,
+			52,
+			51,
+			50,
+			54,
+			55,
+			56,
+			57,
+			58
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4008,
+		"DataImpl": {},
+		"StageID": 10302008
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000009,
+			3100,
+			999
+		],
+		"SimpleStageDetail": "",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			59,
+			60,
+			61,
+			63
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4009,
+		"DataImpl": {},
+		"StageID": 10302009
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000010,
+			1000011,
+			3100,
+			999
+		],
+		"SimpleStageDetail": "",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			64,
+			65,
+			66,
+			68
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4010,
+		"DataImpl": {},
+		"StageID": 10302010
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 90,
+		"WeatherIDList": [
+			1000012,
+			3100,
+			999
+		],
+		"SimpleStageDetail": "",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			69,
+			70,
+			71,
+			73,
+			74
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4011,
+		"DataImpl": {},
+		"StageID": 10302011
+	},
+	{
+		"Type": 2,
+		"MaxScore": 2000,
+		"IsInRewardLine": true,
+		"StageTime": 30,
+		"WeatherIDList": [
+			3100,
+			999
+		],
+		"SimpleStageDetail": "",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			75,
+			76,
+			77,
+			78,
+			81,
+			80,
+			79,
+			83,
+			84,
+			85,
+			86,
+			87
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4012,
+		"DataImpl": {},
+		"StageID": 10302012
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000013,
+			4100,
+			999,
+			5011,
+			5012
+		],
+		"SimpleStageDetail": "",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Snow",
+		"WaveIDList": [
+			88,
+			89,
+			90,
+			92
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4013,
+		"DataImpl": {},
+		"StageID": 10302013
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000014,
+			1000015,
+			4100,
+			999,
+			5011,
+			5012
+		],
+		"SimpleStageDetail": "",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Snow",
+		"WaveIDList": [
+			93,
+			94,
+			95,
+			97
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4014,
+		"DataImpl": {},
+		"StageID": 10302014
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 90,
+		"WeatherIDList": [
+			1000016,
+			4100,
+			999,
+			5011,
+			5012
+		],
+		"SimpleStageDetail": "",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Snow",
+		"WaveIDList": [
+			98,
+			99,
+			100,
+			102,
+			103
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4015,
+		"DataImpl": {},
+		"StageID": 10302015
+	},
+	{
+		"Type": 2,
+		"MaxScore": 2000,
+		"IsInRewardLine": true,
+		"StageTime": 30,
+		"WeatherIDList": [
+			4100,
+			999,
+			5011,
+			5012
+		],
+		"SimpleStageDetail": "",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Snow",
+		"WaveIDList": [
+			104,
+			105,
+			106,
+			107,
+			110,
+			109,
+			108,
+			112,
+			113,
+			114,
+			115,
+			116
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4016,
+		"DataImpl": {},
+		"StageID": 10302016
+	},
+	{
+		"Type": 3,
+		"MaxScore": 10000,
+		"IsInRewardLine": false,
+		"StageTime": 60,
+		"WeatherIDList": [
+			501,
+			1102,
+			999
+		],
+		"SimpleStageDetail": "",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			156
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4020,
+		"DataImpl": {},
+		"StageID": 10302017
+	},
+	{
+		"Type": 3,
+		"MaxScore": 10000,
+		"IsInRewardLine": false,
+		"StageTime": 60,
+		"WeatherIDList": [
+			501,
+			2102,
+			999
+		],
+		"SimpleStageDetail": "",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Beach",
+		"WaveIDList": [
+			157
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4021,
+		"DataImpl": {},
+		"StageID": 10302018
+	},
+	{
+		"Type": 3,
+		"MaxScore": 10000,
+		"IsInRewardLine": false,
+		"StageTime": 60,
+		"WeatherIDList": [
+			501,
+			3102,
+			999
+		],
+		"SimpleStageDetail": "",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			158
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4022,
+		"DataImpl": {},
+		"StageID": 10302019
+	},
+	{
+		"Type": 3,
+		"MaxScore": 10000,
+		"IsInRewardLine": false,
+		"StageTime": 60,
+		"WeatherIDList": [
+			501,
+			4102,
+			999,
+			5011,
+			5012
+		],
+		"SimpleStageDetail": "",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Snow",
+		"WaveIDList": [
+			159
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4023,
+		"DataImpl": {},
+		"StageID": 10302020
+	},
+	{
+		"Type": 2,
+		"MaxScore": 3000,
+		"IsInRewardLine": true,
+		"StageTime": 30,
+		"WeatherIDList": [
+			1100,
+			2100,
+			999
+		],
+		"SimpleStageDetail": "",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			117,
+			118,
+			119,
+			120,
+			123,
+			122,
+			121,
+			125,
+			126,
+			127,
+			128,
+			129
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4017,
+		"DataImpl": {},
+		"StageID": 10302021
+	},
+	{
+		"Type": 2,
+		"MaxScore": 3000,
+		"IsInRewardLine": true,
+		"StageTime": 30,
+		"WeatherIDList": [
+			1100,
+			3100,
+			999
+		],
+		"SimpleStageDetail": "",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Beach",
+		"WaveIDList": [
+			130,
+			131,
+			132,
+			133,
+			136,
+			135,
+			134,
+			138,
+			139,
+			140,
+			141,
+			142
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4018,
+		"DataImpl": {},
+		"StageID": 10302022
+	},
+	{
+		"Type": 2,
+		"MaxScore": 3000,
+		"IsInRewardLine": true,
+		"StageTime": 30,
+		"WeatherIDList": [
+			3100,
+			4100,
+			999,
+			5011,
+			5012
+		],
+		"SimpleStageDetail": "",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			143,
+			144,
+			145,
+			146,
+			149,
+			148,
+			147,
+			151,
+			152,
+			153,
+			154,
+			155
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4019,
+		"DataImpl": {},
+		"StageID": 10302023
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000101,
+			6100,
+			999
+		],
+		"SimpleStageDetail": "",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			1,
+			2,
+			3,
+			5
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4001,
+		"DataImpl": {},
+		"StageID": 10302101
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000102,
+			6100,
+			999
+		],
+		"SimpleStageDetail": "",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			6,
+			7,
+			8,
+			10
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4002,
+		"DataImpl": {},
+		"StageID": 10302102
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 120,
+		"WeatherIDList": [
+			1000103,
+			1000104,
+			6100,
+			999
+		],
+		"SimpleStageDetail": "",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			11,
+			12,
+			13,
+			15,
+			16
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4003,
+		"DataImpl": {},
+		"StageID": 10302103
+	},
+	{
+		"Type": 2,
+		"MaxScore": 3000,
+		"IsInRewardLine": true,
+		"StageTime": 30,
+		"WeatherIDList": [
+			6100,
+			999
+		],
+		"SimpleStageDetail": "",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			17,
+			18,
+			19,
+			20,
+			23,
+			22,
+			21,
+			25,
+			26,
+			27,
+			28,
+			29
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4004,
+		"DataImpl": {},
+		"StageID": 10302104
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000005,
+			2100,
+			999
+		],
+		"SimpleStageDetail": "",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Beach",
+		"WaveIDList": [
+			30,
+			31,
+			32,
+			34
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4005,
+		"DataImpl": {},
+		"StageID": 10302105
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000006,
+			2100,
+			999
+		],
+		"SimpleStageDetail": "",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Beach",
+		"WaveIDList": [
+			35,
+			36,
+			37,
+			39
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4006,
+		"DataImpl": {},
+		"StageID": 10302106
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 90,
+		"WeatherIDList": [
+			1000301,
+			1000008,
+			2100,
+			999
+		],
+		"SimpleStageDetail": "",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Beach",
+		"WaveIDList": [
+			40,
+			41,
+			42,
+			44,
+			45
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4007,
+		"DataImpl": {},
+		"StageID": 10302107
+	},
+	{
+		"Type": 2,
+		"MaxScore": 3000,
+		"IsInRewardLine": true,
+		"StageTime": 30,
+		"WeatherIDList": [
+			2100,
+			999
+		],
+		"SimpleStageDetail": "",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Beach",
+		"WaveIDList": [
+			46,
+			47,
+			48,
+			49,
+			52,
+			51,
+			50,
+			54,
+			55,
+			56,
+			57,
+			58
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4008,
+		"DataImpl": {},
+		"StageID": 10302108
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000201,
+			7100,
+			999
+		],
+		"SimpleStageDetail": "",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			59,
+			60,
+			61,
+			63
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4009,
+		"DataImpl": {},
+		"StageID": 10302109
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000202,
+			1000203,
+			7100,
+			999
+		],
+		"SimpleStageDetail": "",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			64,
+			65,
+			66,
+			68
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4010,
+		"DataImpl": {},
+		"StageID": 10302110
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 120,
+		"WeatherIDList": [
+			1000204,
+			7100,
+			999
+		],
+		"SimpleStageDetail": "",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			69,
+			70,
+			71,
+			73,
+			74
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4011,
+		"DataImpl": {},
+		"StageID": 10302111
+	},
+	{
+		"Type": 2,
+		"MaxScore": 3000,
+		"IsInRewardLine": true,
+		"StageTime": 30,
+		"WeatherIDList": [
+			7100,
+			999
+		],
+		"SimpleStageDetail": "",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			75,
+			76,
+			77,
+			78,
+			81,
+			80,
+			79,
+			83,
+			84,
+			85,
+			86,
+			87
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4012,
+		"DataImpl": {},
+		"StageID": 10302112
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000001,
+			1100,
+			999
+		],
+		"SimpleStageDetail": "",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			88,
+			89,
+			90,
+			92
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4013,
+		"DataImpl": {},
+		"StageID": 10302113
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000002,
+			1000401,
+			1100,
+			999
+		],
+		"SimpleStageDetail": "",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			93,
+			94,
+			95,
+			97
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4014,
+		"DataImpl": {},
+		"StageID": 10302114
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 120,
+		"WeatherIDList": [
+			1000004,
+			1100,
+			999
+		],
+		"SimpleStageDetail": "",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			98,
+			99,
+			100,
+			102,
+			103
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4015,
+		"DataImpl": {},
+		"StageID": 10302115
+	},
+	{
+		"Type": 2,
+		"MaxScore": 3000,
+		"IsInRewardLine": true,
+		"StageTime": 30,
+		"WeatherIDList": [
+			1100,
+			999
+		],
+		"SimpleStageDetail": "",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			104,
+			105,
+			106,
+			107,
+			110,
+			109,
+			108,
+			112,
+			113,
+			114,
+			115,
+			116
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4016,
+		"DataImpl": {},
+		"StageID": 10302116
+	},
+	{
+		"Type": 3,
+		"MaxScore": 10000,
+		"IsInRewardLine": false,
+		"StageTime": 60,
+		"WeatherIDList": [
+			501,
+			6102,
+			999
+		],
+		"SimpleStageDetail": "",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			156
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4020,
+		"DataImpl": {},
+		"StageID": 10302117
+	},
+	{
+		"Type": 3,
+		"MaxScore": 10000,
+		"IsInRewardLine": false,
+		"StageTime": 60,
+		"WeatherIDList": [
+			501,
+			2102,
+			999
+		],
+		"SimpleStageDetail": "",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Beach",
+		"WaveIDList": [
+			157
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4021,
+		"DataImpl": {},
+		"StageID": 10302118
+	},
+	{
+		"Type": 3,
+		"MaxScore": 10000,
+		"IsInRewardLine": false,
+		"StageTime": 60,
+		"WeatherIDList": [
+			501,
+			7102,
+			999
+		],
+		"SimpleStageDetail": "",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			158
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4022,
+		"DataImpl": {},
+		"StageID": 10302119
+	},
+	{
+		"Type": 3,
+		"MaxScore": 10000,
+		"IsInRewardLine": false,
+		"StageTime": 60,
+		"WeatherIDList": [
+			501,
+			1102,
+			999
+		],
+		"SimpleStageDetail": "",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			159
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4023,
+		"DataImpl": {},
+		"StageID": 10302120
+	},
+	{
+		"Type": 2,
+		"MaxScore": 5000,
+		"IsInRewardLine": true,
+		"StageTime": 30,
+		"WeatherIDList": [
+			6100,
+			2100,
+			999
+		],
+		"SimpleStageDetail": "",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			117,
+			118,
+			119,
+			120,
+			123,
+			122,
+			121,
+			125,
+			126,
+			127,
+			128,
+			129
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4017,
+		"DataImpl": {},
+		"StageID": 10302121
+	},
+	{
+		"Type": 2,
+		"MaxScore": 5000,
+		"IsInRewardLine": true,
+		"StageTime": 30,
+		"WeatherIDList": [
+			6100,
+			7100,
+			999
+		],
+		"SimpleStageDetail": "",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Beach",
+		"WaveIDList": [
+			130,
+			131,
+			132,
+			133,
+			136,
+			135,
+			134,
+			138,
+			139,
+			140,
+			141,
+			142
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4018,
+		"DataImpl": {},
+		"StageID": 10302122
+	},
+	{
+		"Type": 2,
+		"MaxScore": 5000,
+		"IsInRewardLine": true,
+		"StageTime": 30,
+		"WeatherIDList": [
+			7100,
+			1100,
+			999
+		],
+		"SimpleStageDetail": "",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			143,
+			144,
+			145,
+			146,
+			149,
+			148,
+			147,
+			151,
+			152,
+			153,
+			154,
+			155
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4019,
+		"DataImpl": {},
+		"StageID": 10302123
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000601,
+			9100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Colorful:SimpleDescriptionColorful1_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			1,
+			2,
+			3,
+			5
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4001,
+		"DataImpl": {},
+		"StageID": 10302201
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000602,
+			1000603,
+			9100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Colorful:SimpleDescriptionColorful2_1:SimpleDescriptionColorful3_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			6,
+			7,
+			8,
+			10
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4002,
+		"DataImpl": {},
+		"StageID": 10302202
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 120,
+		"WeatherIDList": [
+			1000604,
+			9100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Colorful:SimpleDescriptionColorful4_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			11,
+			12,
+			13,
+			15,
+			16
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4003,
+		"DataImpl": {},
+		"StageID": 10302203
+	},
+	{
+		"Type": 2,
+		"MaxScore": 3000,
+		"IsInRewardLine": true,
+		"StageTime": 30,
+		"WeatherIDList": [
+			9100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Colorful",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			17,
+			18,
+			19,
+			20,
+			23,
+			22,
+			21,
+			25,
+			26,
+			27,
+			28,
+			29
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4004,
+		"DataImpl": {},
+		"StageID": 10302204
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000501,
+			8100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Versatile:SimpleDescriptionVersatile1_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Beach",
+		"WaveIDList": [
+			160,
+			161,
+			162,
+			164
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4005,
+		"DataImpl": {},
+		"StageID": 10302205
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000502,
+			1000503,
+			8100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Versatile:SimpleDescriptionVersatile2_1:SimpleDescriptionVersatile3_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Beach",
+		"WaveIDList": [
+			165,
+			166,
+			167,
+			169
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4006,
+		"DataImpl": {},
+		"StageID": 10302206
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 120,
+		"WeatherIDList": [
+			1000504,
+			8100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Versatile:SimpleDescriptionVersatile4_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Beach",
+		"WaveIDList": [
+			170,
+			171,
+			172,
+			174,
+			175
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4007,
+		"DataImpl": {},
+		"StageID": 10302207
+	},
+	{
+		"Type": 2,
+		"MaxScore": 3000,
+		"IsInRewardLine": true,
+		"StageTime": 30,
+		"WeatherIDList": [
+			8100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Versatile",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Beach",
+		"WaveIDList": [
+			176,
+			177,
+			178,
+			179,
+			182,
+			181,
+			180,
+			184,
+			185,
+			186,
+			187,
+			188
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4008,
+		"DataImpl": {},
+		"StageID": 10302208
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000001,
+			1100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_QTE:SimpleDescriptionQTE1_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			59,
+			60,
+			61,
+			63
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4009,
+		"DataImpl": {},
+		"StageID": 10302209
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000002,
+			1000003,
+			1100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_QTE:SimpleDescriptionQTE2_1:SimpleDescriptionQTE3_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			64,
+			65,
+			66,
+			68
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4010,
+		"DataImpl": {},
+		"StageID": 10302210
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 120,
+		"WeatherIDList": [
+			1000004,
+			1100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_QTE:SimpleDescriptionQTE4_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			69,
+			70,
+			71,
+			73,
+			74
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4011,
+		"DataImpl": {},
+		"StageID": 10302211
+	},
+	{
+		"Type": 2,
+		"MaxScore": 3000,
+		"IsInRewardLine": true,
+		"StageTime": 30,
+		"WeatherIDList": [
+			1100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_QTE",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			75,
+			76,
+			77,
+			78,
+			81,
+			80,
+			79,
+			83,
+			84,
+			85,
+			86,
+			87
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4012,
+		"DataImpl": {},
+		"StageID": 10302212
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000009,
+			3100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Ultra:SimpleDescriptionUltra1_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			88,
+			89,
+			90,
+			92
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4013,
+		"DataImpl": {},
+		"StageID": 10302213
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000010,
+			1000011,
+			3100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Ultra:SimpleDescriptionUltra2_1:SimpleDescriptionUltra3_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			93,
+			94,
+			95,
+			97
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4014,
+		"DataImpl": {},
+		"StageID": 10302214
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 120,
+		"WeatherIDList": [
+			1000012,
+			3100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Ultra:SimpleDescriptionUltra4_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			98,
+			99,
+			100,
+			102,
+			103
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4015,
+		"DataImpl": {},
+		"StageID": 10302215
+	},
+	{
+		"Type": 2,
+		"MaxScore": 3000,
+		"IsInRewardLine": true,
+		"StageTime": 30,
+		"WeatherIDList": [
+			3100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Ultra",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			104,
+			105,
+			106,
+			107,
+			110,
+			109,
+			108,
+			112,
+			113,
+			114,
+			115,
+			116
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4016,
+		"DataImpl": {},
+		"StageID": 10302216
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": false,
+		"StageTime": 120,
+		"WeatherIDList": [
+			9100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Colorful",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			202,
+			203,
+			204,
+			206,
+			207
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4024,
+		"DataImpl": {},
+		"StageID": 10302217
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": false,
+		"StageTime": 120,
+		"WeatherIDList": [
+			8100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Versatile",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Beach",
+		"WaveIDList": [
+			208,
+			209,
+			210,
+			212,
+			213
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4025,
+		"DataImpl": {},
+		"StageID": 10302218
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": false,
+		"StageTime": 120,
+		"WeatherIDList": [
+			1100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_QTE",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			214,
+			215,
+			216,
+			218,
+			219
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4026,
+		"DataImpl": {},
+		"StageID": 10302219
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": false,
+		"StageTime": 120,
+		"WeatherIDList": [
+			3100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Ultra",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			220,
+			221,
+			222,
+			224,
+			225
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4027,
+		"DataImpl": {},
+		"StageID": 10302220
+	},
+	{
+		"Type": 3,
+		"MaxScore": 10000,
+		"IsInRewardLine": false,
+		"StageTime": 60,
+		"WeatherIDList": [
+			501,
+			9102,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Full:SimpleDetail_Colorful",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			156
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4020,
+		"DataImpl": {},
+		"StageID": 10302221
+	},
+	{
+		"Type": 3,
+		"MaxScore": 10000,
+		"IsInRewardLine": false,
+		"StageTime": 60,
+		"WeatherIDList": [
+			501,
+			8102,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Full:SimpleDetail_Versatile",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Beach",
+		"WaveIDList": [
+			157
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4021,
+		"DataImpl": {},
+		"StageID": 10302222
+	},
+	{
+		"Type": 3,
+		"MaxScore": 10000,
+		"IsInRewardLine": false,
+		"StageTime": 60,
+		"WeatherIDList": [
+			501,
+			1102,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Full:SimpleDetail_QTE",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			158
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4022,
+		"DataImpl": {},
+		"StageID": 10302223
+	},
+	{
+		"Type": 3,
+		"MaxScore": 10000,
+		"IsInRewardLine": false,
+		"StageTime": 60,
+		"WeatherIDList": [
+			501,
+			3102,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Full:SimpleDetail_Ultra",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			159
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4023,
+		"DataImpl": {},
+		"StageID": 10302224
+	},
+	{
+		"Type": 2,
+		"MaxScore": 5000,
+		"IsInRewardLine": true,
+		"StageTime": 30,
+		"WeatherIDList": [
+			9100,
+			8100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Colorful:SimpleDetail_Versatile",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			189,
+			190,
+			191,
+			192,
+			195,
+			194,
+			193,
+			197,
+			198,
+			199,
+			200,
+			201
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4017,
+		"DataImpl": {},
+		"StageID": 10302225
+	},
+	{
+		"Type": 2,
+		"MaxScore": 5000,
+		"IsInRewardLine": true,
+		"StageTime": 30,
+		"WeatherIDList": [
+			9100,
+			1100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Colorful:SimpleDetail_QTE",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Beach",
+		"WaveIDList": [
+			130,
+			131,
+			132,
+			133,
+			136,
+			135,
+			134,
+			138,
+			139,
+			140,
+			141,
+			142
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4018,
+		"DataImpl": {},
+		"StageID": 10302226
+	},
+	{
+		"Type": 2,
+		"MaxScore": 5000,
+		"IsInRewardLine": true,
+		"StageTime": 30,
+		"WeatherIDList": [
+			1100,
+			3100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_QTE:SimpleDetail_Ultra",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			143,
+			144,
+			145,
+			146,
+			149,
+			148,
+			147,
+			151,
+			152,
+			153,
+			154,
+			155
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4019,
+		"DataImpl": {},
+		"StageID": 10302227
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000701,
+			10100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Armory:SimpleDescriptionArmory1_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			1,
+			2,
+			3,
+			5
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4001,
+		"DataImpl": {},
+		"StageID": 10302301
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000702,
+			1000703,
+			10100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Armory:SimpleDescriptionArmory2_1:SimpleDescriptionArmory3_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			6,
+			7,
+			8,
+			10
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4002,
+		"DataImpl": {},
+		"StageID": 10302302
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 120,
+		"WeatherIDList": [
+			1000704,
+			10100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Armory:SimpleDescriptionArmory4_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			11,
+			12,
+			13,
+			15,
+			16
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4003,
+		"DataImpl": {},
+		"StageID": 10302303
+	},
+	{
+		"Type": 2,
+		"MaxScore": 3000,
+		"IsInRewardLine": true,
+		"StageTime": 30,
+		"WeatherIDList": [
+			10100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Armory",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			17,
+			18,
+			19,
+			20,
+			23,
+			22,
+			21,
+			25,
+			26,
+			27,
+			28,
+			29
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4004,
+		"DataImpl": {},
+		"StageID": 10302304
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000013,
+			4100,
+			5011,
+			5012,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Frozen:SimpleDescriptionFrozenNew1_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Snow",
+		"WaveIDList": [
+			160,
+			161,
+			162,
+			164
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4005,
+		"DataImpl": {},
+		"StageID": 10302305
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000014,
+			1000015,
+			4100,
+			5011,
+			5012,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Frozen:SimpleDescriptionFrozenNew2_1:SimpleDescriptionFrozenNew3_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Snow",
+		"WaveIDList": [
+			165,
+			166,
+			167,
+			169
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4006,
+		"DataImpl": {},
+		"StageID": 10302306
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 120,
+		"WeatherIDList": [
+			1000016,
+			4100,
+			5011,
+			5012,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Frozen:SimpleDescriptionFrozenNew4_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Snow",
+		"WaveIDList": [
+			170,
+			171,
+			172,
+			174,
+			175
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4007,
+		"DataImpl": {},
+		"StageID": 10302307
+	},
+	{
+		"Type": 2,
+		"MaxScore": 3000,
+		"IsInRewardLine": true,
+		"StageTime": 30,
+		"WeatherIDList": [
+			4100,
+			5011,
+			5012,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Frozen",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Snow",
+		"WaveIDList": [
+			176,
+			177,
+			178,
+			179,
+			182,
+			181,
+			180,
+			184,
+			185,
+			186,
+			187,
+			226
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4008,
+		"DataImpl": {},
+		"StageID": 10302308
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000801,
+			11100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Opulence:SimpleDescriptionOpulence1_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Beach",
+		"WaveIDList": [
+			59,
+			60,
+			61,
+			63
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4009,
+		"DataImpl": {},
+		"StageID": 10302309
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000802,
+			1000803,
+			11100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Opulence:SimpleDescriptionOpulence2_1:SimpleDescriptionOpulence3_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Beach",
+		"WaveIDList": [
+			64,
+			65,
+			66,
+			68
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4010,
+		"DataImpl": {},
+		"StageID": 10302310
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 120,
+		"WeatherIDList": [
+			1000804,
+			11100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Opulence:SimpleDescriptionOpulence4_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Beach",
+		"WaveIDList": [
+			69,
+			70,
+			71,
+			73,
+			74
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4011,
+		"DataImpl": {},
+		"StageID": 10302311
+	},
+	{
+		"Type": 2,
+		"MaxScore": 3000,
+		"IsInRewardLine": true,
+		"StageTime": 30,
+		"WeatherIDList": [
+			11100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Opulence",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Beach",
+		"WaveIDList": [
+			75,
+			76,
+			77,
+			78,
+			81,
+			80,
+			79,
+			83,
+			84,
+			85,
+			86,
+			87
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4012,
+		"DataImpl": {},
+		"StageID": 10302312
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000009,
+			3100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Ultra:SimpleDescriptionUltra1_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			88,
+			89,
+			90,
+			92
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4013,
+		"DataImpl": {},
+		"StageID": 10302313
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000010,
+			1000011,
+			3100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Ultra:SimpleDescriptionUltra2_1:SimpleDescriptionUltra3_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			93,
+			94,
+			95,
+			97
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4014,
+		"DataImpl": {},
+		"StageID": 10302314
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 120,
+		"WeatherIDList": [
+			1000012,
+			3100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Ultra:SimpleDescriptionUltra4_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			98,
+			99,
+			100,
+			102,
+			103
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4015,
+		"DataImpl": {},
+		"StageID": 10302315
+	},
+	{
+		"Type": 2,
+		"MaxScore": 3000,
+		"IsInRewardLine": true,
+		"StageTime": 30,
+		"WeatherIDList": [
+			3100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Ultra",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			104,
+			105,
+			106,
+			107,
+			110,
+			109,
+			108,
+			112,
+			113,
+			114,
+			115,
+			227
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4016,
+		"DataImpl": {},
+		"StageID": 10302316
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": false,
+		"StageTime": 120,
+		"WeatherIDList": [
+			10100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Armory",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			202,
+			203,
+			204,
+			206,
+			207
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4024,
+		"DataImpl": {},
+		"StageID": 10302317
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": false,
+		"StageTime": 120,
+		"WeatherIDList": [
+			4100,
+			5011,
+			5012,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Frozen",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Snow",
+		"WaveIDList": [
+			208,
+			209,
+			210,
+			212,
+			228
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4025,
+		"DataImpl": {},
+		"StageID": 10302318
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": false,
+		"StageTime": 120,
+		"WeatherIDList": [
+			11100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Opulence",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Beach",
+		"WaveIDList": [
+			214,
+			215,
+			216,
+			218,
+			219
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4026,
+		"DataImpl": {},
+		"StageID": 10302319
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": false,
+		"StageTime": 120,
+		"WeatherIDList": [
+			3100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Ultra",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			220,
+			221,
+			222,
+			224,
+			225
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4027,
+		"DataImpl": {},
+		"StageID": 10302320
+	},
+	{
+		"Type": 3,
+		"MaxScore": 10000,
+		"IsInRewardLine": false,
+		"StageTime": 60,
+		"WeatherIDList": [
+			501,
+			10102,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Full:SimpleDetail_Armory",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			156
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4020,
+		"DataImpl": {},
+		"StageID": 10302321
+	},
+	{
+		"Type": 3,
+		"MaxScore": 10000,
+		"IsInRewardLine": false,
+		"StageTime": 60,
+		"WeatherIDList": [
+			501,
+			4102,
+			5011,
+			5012,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Full:SimpleDetail_Frozen",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Snow",
+		"WaveIDList": [
+			157
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4021,
+		"DataImpl": {},
+		"StageID": 10302322
+	},
+	{
+		"Type": 3,
+		"MaxScore": 10000,
+		"IsInRewardLine": false,
+		"StageTime": 60,
+		"WeatherIDList": [
+			501,
+			11102,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Full:SimpleDetail_Opulence",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Beach",
+		"WaveIDList": [
+			158
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4022,
+		"DataImpl": {},
+		"StageID": 10302323
+	},
+	{
+		"Type": 3,
+		"MaxScore": 10000,
+		"IsInRewardLine": false,
+		"StageTime": 60,
+		"WeatherIDList": [
+			501,
+			3102,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Full:SimpleDetail_Ultra",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			159
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4023,
+		"DataImpl": {},
+		"StageID": 10302324
+	},
+	{
+		"Type": 2,
+		"MaxScore": 5000,
+		"IsInRewardLine": true,
+		"StageTime": 30,
+		"WeatherIDList": [
+			10100,
+			4100,
+			5011,
+			5012,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Armory:SimpleDetail_Frozen",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Snow",
+		"WaveIDList": [
+			189,
+			190,
+			191,
+			192,
+			195,
+			194,
+			193,
+			197,
+			198,
+			199,
+			200,
+			201
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4017,
+		"DataImpl": {},
+		"StageID": 10302325
+	},
+	{
+		"Type": 2,
+		"MaxScore": 5000,
+		"IsInRewardLine": true,
+		"StageTime": 30,
+		"WeatherIDList": [
+			10100,
+			11100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Armory:SimpleDetail_Opulence",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Beach",
+		"WaveIDList": [
+			130,
+			131,
+			132,
+			133,
+			136,
+			135,
+			134,
+			138,
+			139,
+			140,
+			141,
+			142
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4018,
+		"DataImpl": {},
+		"StageID": 10302326
+	},
+	{
+		"Type": 2,
+		"MaxScore": 5000,
+		"IsInRewardLine": true,
+		"StageTime": 30,
+		"WeatherIDList": [
+			11100,
+			3100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Opulence:SimpleDetail_Ultra",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			143,
+			144,
+			145,
+			146,
+			149,
+			148,
+			147,
+			151,
+			152,
+			153,
+			154,
+			155
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4019,
+		"DataImpl": {},
+		"StageID": 10302327
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000001,
+			1100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_QTE:SimpleDescriptionQTE1_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			1,
+			2,
+			3,
+			5
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4001,
+		"DataImpl": {},
+		"StageID": 10302401
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000002,
+			1000003,
+			1100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_QTE:SimpleDescriptionQTE2_1:SimpleDescriptionQTE3_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			6,
+			7,
+			8,
+			10
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4002,
+		"DataImpl": {},
+		"StageID": 10302402
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 120,
+		"WeatherIDList": [
+			1000004,
+			1100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_QTE:SimpleDescriptionQTE4_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			11,
+			12,
+			13,
+			15,
+			16
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4003,
+		"DataImpl": {},
+		"StageID": 10302403
+	},
+	{
+		"Type": 2,
+		"MaxScore": 3000,
+		"IsInRewardLine": true,
+		"StageTime": 30,
+		"WeatherIDList": [
+			1100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_QTE",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			17,
+			18,
+			19,
+			20,
+			23,
+			22,
+			21,
+			25,
+			26,
+			27,
+			28,
+			29
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4004,
+		"DataImpl": {},
+		"StageID": 10302404
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000009,
+			3100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Ultra:SimpleDescriptionUltra1_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			160,
+			161,
+			162,
+			164
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4005,
+		"DataImpl": {},
+		"StageID": 10302405
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000010,
+			1000011,
+			3100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Ultra:SimpleDescriptionUltra2_1:SimpleDescriptionUltra3_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			165,
+			166,
+			167,
+			169
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4006,
+		"DataImpl": {},
+		"StageID": 10302406
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 120,
+		"WeatherIDList": [
+			1000012,
+			3100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Ultra:SimpleDescriptionUltra4_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			170,
+			171,
+			172,
+			174,
+			175
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4007,
+		"DataImpl": {},
+		"StageID": 10302407
+	},
+	{
+		"Type": 2,
+		"MaxScore": 3000,
+		"IsInRewardLine": true,
+		"StageTime": 30,
+		"WeatherIDList": [
+			3100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Ultra",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			176,
+			177,
+			178,
+			179,
+			182,
+			181,
+			180,
+			184,
+			185,
+			186,
+			187,
+			226
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4008,
+		"DataImpl": {},
+		"StageID": 10302408
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000101,
+			6100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Fever:SimpleDescriptionFever1_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			59,
+			60,
+			61,
+			63
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4009,
+		"DataImpl": {},
+		"StageID": 10302409
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000102,
+			1000103,
+			6100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Fever:SimpleDescriptionFever2_1:SimpleDescriptionFever3_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			64,
+			65,
+			66,
+			68
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4010,
+		"DataImpl": {},
+		"StageID": 10302410
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 120,
+		"WeatherIDList": [
+			1000104,
+			6100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Fever:SimpleDescriptionFever4_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			69,
+			70,
+			71,
+			73,
+			74
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4011,
+		"DataImpl": {},
+		"StageID": 10302411
+	},
+	{
+		"Type": 2,
+		"MaxScore": 3000,
+		"IsInRewardLine": true,
+		"StageTime": 30,
+		"WeatherIDList": [
+			6100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Fever",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			75,
+			76,
+			77,
+			78,
+			81,
+			80,
+			79,
+			83,
+			84,
+			85,
+			86,
+			87
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4012,
+		"DataImpl": {},
+		"StageID": 10302412
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000701,
+			10100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Armory:SimpleDescriptionArmory1_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			88,
+			89,
+			90,
+			92
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4013,
+		"DataImpl": {},
+		"StageID": 10302413
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000702,
+			1000703,
+			10100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Armory:SimpleDescriptionArmory2_1:SimpleDescriptionArmory3_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			93,
+			94,
+			95,
+			97
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4014,
+		"DataImpl": {},
+		"StageID": 10302414
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 120,
+		"WeatherIDList": [
+			1000704,
+			10100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Armory:SimpleDescriptionArmory4_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			98,
+			99,
+			100,
+			102,
+			103
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4015,
+		"DataImpl": {},
+		"StageID": 10302415
+	},
+	{
+		"Type": 2,
+		"MaxScore": 3000,
+		"IsInRewardLine": true,
+		"StageTime": 30,
+		"WeatherIDList": [
+			10100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Armory",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			104,
+			105,
+			106,
+			107,
+			110,
+			109,
+			108,
+			112,
+			113,
+			114,
+			115,
+			227
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4016,
+		"DataImpl": {},
+		"StageID": 10302416
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": false,
+		"StageTime": 120,
+		"WeatherIDList": [
+			1100,
+			999,
+			5021
+		],
+		"SimpleStageDetail": "SimpleDetail_QTE",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			268
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4024,
+		"DataImpl": {},
+		"StageID": 10302417
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": false,
+		"StageTime": 120,
+		"WeatherIDList": [
+			3100,
+			999,
+			5021
+		],
+		"SimpleStageDetail": "SimpleDetail_Ultra",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			269
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4025,
+		"DataImpl": {},
+		"StageID": 10302418
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": false,
+		"StageTime": 120,
+		"WeatherIDList": [
+			6100,
+			999,
+			5021
+		],
+		"SimpleStageDetail": "SimpleDetail_Fever",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			270
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4026,
+		"DataImpl": {},
+		"StageID": 10302419
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": false,
+		"StageTime": 120,
+		"WeatherIDList": [
+			10100,
+			999,
+			5021
+		],
+		"SimpleStageDetail": "SimpleDetail_Armory",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			271
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4027,
+		"DataImpl": {},
+		"StageID": 10302420
+	},
+	{
+		"Type": 3,
+		"MaxScore": 10000,
+		"IsInRewardLine": false,
+		"StageTime": 60,
+		"WeatherIDList": [
+			501,
+			1102,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Full:SimpleDetail_QTE",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			156
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4020,
+		"DataImpl": {},
+		"StageID": 10302421
+	},
+	{
+		"Type": 3,
+		"MaxScore": 10000,
+		"IsInRewardLine": false,
+		"StageTime": 60,
+		"WeatherIDList": [
+			501,
+			3102,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Full:SimpleDetail_Ultra",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			157
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4021,
+		"DataImpl": {},
+		"StageID": 10302422
+	},
+	{
+		"Type": 3,
+		"MaxScore": 10000,
+		"IsInRewardLine": false,
+		"StageTime": 60,
+		"WeatherIDList": [
+			501,
+			6102,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Full:SimpleDetail_Fever",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			158
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4022,
+		"DataImpl": {},
+		"StageID": 10302423
+	},
+	{
+		"Type": 3,
+		"MaxScore": 10000,
+		"IsInRewardLine": false,
+		"StageTime": 60,
+		"WeatherIDList": [
+			501,
+			10102,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Full:SimpleDetail_Armory",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			159
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4023,
+		"DataImpl": {},
+		"StageID": 10302424
+	},
+	{
+		"Type": 2,
+		"MaxScore": 5000,
+		"IsInRewardLine": true,
+		"StageTime": 30,
+		"WeatherIDList": [
+			1100,
+			3100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_QTE:SimpleDetail_Ultra",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			229,
+			230,
+			231,
+			232,
+			233,
+			234,
+			235,
+			236,
+			237,
+			238,
+			239,
+			240,
+			241
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4017,
+		"DataImpl": {},
+		"StageID": 10302425
+	},
+	{
+		"Type": 2,
+		"MaxScore": 5000,
+		"IsInRewardLine": true,
+		"StageTime": 30,
+		"WeatherIDList": [
+			1100,
+			6100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_QTE:SimpleDetail_Fever",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Beach",
+		"WaveIDList": [
+			242,
+			243,
+			244,
+			245,
+			246,
+			247,
+			248,
+			249,
+			250,
+			251,
+			252,
+			253,
+			254
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4018,
+		"DataImpl": {},
+		"StageID": 10302426
+	},
+	{
+		"Type": 2,
+		"MaxScore": 5000,
+		"IsInRewardLine": true,
+		"StageTime": 30,
+		"WeatherIDList": [
+			6100,
+			10100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Fever:SimpleDetail_Armory",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			255,
+			256,
+			257,
+			258,
+			259,
+			260,
+			261,
+			262,
+			263,
+			264,
+			265,
+			266,
+			267
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4019,
+		"DataImpl": {},
+		"StageID": 10302427
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000005,
+			2100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Hits:SimpleDescriptionHits1_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			1,
+			2,
+			3,
+			5
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4001,
+		"DataImpl": {},
+		"StageID": 10306601
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000006,
+			1000007,
+			2100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Hits:SimpleDescriptionHits2_1:SimpleDescriptionHits3_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			6,
+			7,
+			8,
+			10
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4002,
+		"DataImpl": {},
+		"StageID": 10306602
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 120,
+		"WeatherIDList": [
+			1000008,
+			2100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Hits:SimpleDescriptionHits4_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			11,
+			12,
+			13,
+			15,
+			16
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4003,
+		"DataImpl": {},
+		"StageID": 10306603
+	},
+	{
+		"Type": 2,
+		"MaxScore": 3000,
+		"IsInRewardLine": true,
+		"StageTime": 30,
+		"WeatherIDList": [
+			2100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Hits",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			17,
+			18,
+			19,
+			20,
+			23,
+			22,
+			21,
+			25,
+			26,
+			27,
+			28,
+			29
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4004,
+		"DataImpl": {},
+		"StageID": 10306604
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000601,
+			9100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Colorful:SimpleDescriptionColorful1_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			160,
+			161,
+			162,
+			164
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4005,
+		"DataImpl": {},
+		"StageID": 10306605
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000602,
+			1000603,
+			9100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Colorful:SimpleDescriptionColorful2_1:SimpleDescriptionColorful3_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			165,
+			166,
+			167,
+			169
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4006,
+		"DataImpl": {},
+		"StageID": 10306606
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 120,
+		"WeatherIDList": [
+			1000604,
+			9100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Colorful:SimpleDescriptionColorful4_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			170,
+			171,
+			172,
+			174,
+			175
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4007,
+		"DataImpl": {},
+		"StageID": 10306607
+	},
+	{
+		"Type": 2,
+		"MaxScore": 3000,
+		"IsInRewardLine": true,
+		"StageTime": 30,
+		"WeatherIDList": [
+			9100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Colorful",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			176,
+			177,
+			178,
+			179,
+			182,
+			181,
+			180,
+			184,
+			185,
+			186,
+			187,
+			226
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4108,
+		"DataImpl": {},
+		"StageID": 10306608
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000101,
+			6100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Fever:SimpleDescriptionFever1_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			59,
+			60,
+			61,
+			63
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4009,
+		"DataImpl": {},
+		"StageID": 10306609
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000102,
+			1000103,
+			6100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Fever:SimpleDescriptionFever2_1:SimpleDescriptionFever3_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			64,
+			65,
+			66,
+			68
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4010,
+		"DataImpl": {},
+		"StageID": 10306610
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 120,
+		"WeatherIDList": [
+			1000104,
+			6100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Fever:SimpleDescriptionFever4_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			69,
+			70,
+			71,
+			73,
+			74
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4011,
+		"DataImpl": {},
+		"StageID": 10306611
+	},
+	{
+		"Type": 2,
+		"MaxScore": 3000,
+		"IsInRewardLine": true,
+		"StageTime": 30,
+		"WeatherIDList": [
+			6100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Fever",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			75,
+			76,
+			77,
+			78,
+			81,
+			80,
+			79,
+			83,
+			84,
+			85,
+			86,
+			87
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4112,
+		"DataImpl": {},
+		"StageID": 10306612
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000501,
+			8100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Versatile:SimpleDescriptionVersatile1_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			88,
+			89,
+			90,
+			92
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4013,
+		"DataImpl": {},
+		"StageID": 10306613
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 180,
+		"WeatherIDList": [
+			1000502,
+			1000503,
+			8100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Versatile:SimpleDescriptionVersatile2_1:SimpleDescriptionVersatile3_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			93,
+			94,
+			95,
+			97
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4014,
+		"DataImpl": {},
+		"StageID": 10306614
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": true,
+		"StageTime": 120,
+		"WeatherIDList": [
+			1000504,
+			8100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Versatile:SimpleDescriptionVersatile4_1",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			98,
+			99,
+			100,
+			102,
+			103
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4015,
+		"DataImpl": {},
+		"StageID": 10306615
+	},
+	{
+		"Type": 2,
+		"MaxScore": 3000,
+		"IsInRewardLine": true,
+		"StageTime": 30,
+		"WeatherIDList": [
+			8100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Versatile",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			104,
+			105,
+			106,
+			107,
+			110,
+			109,
+			108,
+			112,
+			113,
+			114,
+			115,
+			227
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4016,
+		"DataImpl": {},
+		"StageID": 10306616
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": false,
+		"StageTime": 120,
+		"WeatherIDList": [
+			2100,
+			999,
+			5021
+		],
+		"SimpleStageDetail": "SimpleDetail_Hits",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			268
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4024,
+		"DataImpl": {},
+		"StageID": 10306617
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": false,
+		"StageTime": 120,
+		"WeatherIDList": [
+			9100,
+			999,
+			5021
+		],
+		"SimpleStageDetail": "SimpleDetail_Colorful",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			269
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4025,
+		"DataImpl": {},
+		"StageID": 10306618
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": false,
+		"StageTime": 120,
+		"WeatherIDList": [
+			6100,
+			999,
+			5021
+		],
+		"SimpleStageDetail": "SimpleDetail_Fever",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			270
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4026,
+		"DataImpl": {},
+		"StageID": 10306619
+	},
+	{
+		"Type": 1,
+		"MaxScore": 1000,
+		"IsInRewardLine": false,
+		"StageTime": 120,
+		"WeatherIDList": [
+			8100,
+			999,
+			5021
+		],
+		"SimpleStageDetail": "SimpleDetail_Versatile",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			271
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4027,
+		"DataImpl": {},
+		"StageID": 10306620
+	},
+	{
+		"Type": 3,
+		"MaxScore": 10000,
+		"IsInRewardLine": false,
+		"StageTime": 60,
+		"WeatherIDList": [
+			501,
+			2102,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Full:SimpleDetail_Hits",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			156
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4020,
+		"DataImpl": {},
+		"StageID": 10306621
+	},
+	{
+		"Type": 3,
+		"MaxScore": 10000,
+		"IsInRewardLine": false,
+		"StageTime": 60,
+		"WeatherIDList": [
+			501,
+			9102,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Full:SimpleDetail_Colorful",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			157
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4021,
+		"DataImpl": {},
+		"StageID": 10306622
+	},
+	{
+		"Type": 3,
+		"MaxScore": 10000,
+		"IsInRewardLine": false,
+		"StageTime": 60,
+		"WeatherIDList": [
+			501,
+			6102,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Full:SimpleDetail_Fever",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			158
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4022,
+		"DataImpl": {},
+		"StageID": 10306623
+	},
+	{
+		"Type": 3,
+		"MaxScore": 10000,
+		"IsInRewardLine": false,
+		"StageTime": 60,
+		"WeatherIDList": [
+			501,
+			8102,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Full:SimpleDetail_Versatile",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			159
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4023,
+		"DataImpl": {},
+		"StageID": 10306624
+	},
+	{
+		"Type": 2,
+		"MaxScore": 5000,
+		"IsInRewardLine": true,
+		"StageTime": 30,
+		"WeatherIDList": [
+			2100,
+			9100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Hits:SimpleDetail_Colorful",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"WaveIDList": [
+			229,
+			230,
+			231,
+			232,
+			233,
+			234,
+			235,
+			236,
+			237,
+			238,
+			239,
+			240,
+			241
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4117,
+		"DataImpl": {},
+		"StageID": 10306625
+	},
+	{
+		"Type": 2,
+		"MaxScore": 5000,
+		"IsInRewardLine": true,
+		"StageTime": 30,
+		"WeatherIDList": [
+			2100,
+			6100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Hits:SimpleDetail_Fever",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Beach",
+		"WaveIDList": [
+			242,
+			243,
+			244,
+			245,
+			246,
+			247,
+			248,
+			249,
+			250,
+			251,
+			252,
+			253,
+			254
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4118,
+		"DataImpl": {},
+		"StageID": 10306626
+	},
+	{
+		"Type": 2,
+		"MaxScore": 5000,
+		"IsInRewardLine": true,
+		"StageTime": 30,
+		"WeatherIDList": [
+			6100,
+			8100,
+			999
+		],
+		"SimpleStageDetail": "SimpleDetail_Fever:SimpleDetail_Versatile",
+		"IsOnlySimple": false,
+		"StageScene": "Stage_Battle_Castal_Ruins",
+		"WaveIDList": [
+			255,
+			256,
+			257,
+			258,
+			259,
+			260,
+			261,
+			262,
+			263,
+			264,
+			265,
+			266,
+			267
+		],
+		"HardlevelGroupID": 388,
+		"Hardlevel": 4019,
+		"DataImpl": {},
+		"StageID": 10306627
+	}
+]

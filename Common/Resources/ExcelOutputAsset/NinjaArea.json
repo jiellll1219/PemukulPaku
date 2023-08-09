@@ -1,0 +1,170 @@
+[
+	{
+		"PreArea": 0,
+		"UIIndex": "MapLayer02/MapArea01",
+		"TextUIIndex": "MapLayer03/Area01/Text",
+		"UnlockTime": "2021-09-02 10:00:00",
+		"AreaName": {
+			"hash": -1657264879
+		},
+		"AreaDesc": {
+			"hash": 0
+		},
+		"BossIcon": "SpriteOutput/Ninja/IconRune/IconRune01",
+		"BossImg": "SpriteOutput/OpenWorld/QuestBossIcon/RO_12",
+		"SlotID": 1,
+		"UICameraID": [
+			-5.7,
+			0,
+			-4
+		],
+		"RecommendSlotID": 1,
+		"RecommendLv": 4,
+		"DataImpl": {},
+		"AreaID": 8
+	},
+	{
+		"PreArea": 8,
+		"UIIndex": "MapLayer02/MapArea02",
+		"TextUIIndex": "MapLayer03/Area02/Text",
+		"UnlockTime": "2021-09-03 10:00:00",
+		"AreaName": {
+			"hash": -1657264878
+		},
+		"AreaDesc": {
+			"hash": 0
+		},
+		"BossIcon": "SpriteOutput/Ninja/IconRune/IconRune02",
+		"BossImg": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_070",
+		"SlotID": 2,
+		"UICameraID": [
+			-6.68,
+			0,
+			-4
+		],
+		"RecommendSlotID": 2,
+		"RecommendLv": 6,
+		"DataImpl": {},
+		"AreaID": 9
+	},
+	{
+		"PreArea": 9,
+		"UIIndex": "MapLayer02/MapArea03",
+		"TextUIIndex": "MapLayer03/Area03/Text",
+		"UnlockTime": "2021-09-04 10:00:00",
+		"AreaName": {
+			"hash": -1657264877
+		},
+		"AreaDesc": {
+			"hash": 0
+		},
+		"BossIcon": "SpriteOutput/Ninja/IconRune/IconRune03",
+		"BossImg": "SpriteOutput/OpenWorld/QuestBossIcon/Boss_Rita_C3",
+		"SlotID": 3,
+		"UICameraID": [
+			-3.82,
+			0,
+			-4
+		],
+		"RecommendSlotID": 3,
+		"RecommendLv": 6,
+		"DataImpl": {},
+		"AreaID": 10
+	},
+	{
+		"PreArea": 10,
+		"UIIndex": "MapLayer02/MapArea04",
+		"TextUIIndex": "MapLayer03/Area04/Text",
+		"UnlockTime": "2021-09-05 10:00:00",
+		"AreaName": {
+			"hash": -1657264876
+		},
+		"AreaDesc": {
+			"hash": 0
+		},
+		"BossIcon": "SpriteOutput/Ninja/IconRune/IconRune04",
+		"BossImg": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_160",
+		"SlotID": 4,
+		"UICameraID": [
+			0.66,
+			0,
+			-4
+		],
+		"RecommendSlotID": 4,
+		"RecommendLv": 6,
+		"DataImpl": {},
+		"AreaID": 11
+	},
+	{
+		"PreArea": 11,
+		"UIIndex": "MapLayer02/MapArea05",
+		"TextUIIndex": "MapLayer03/Area05/Text",
+		"UnlockTime": "2021-09-06 10:00:00",
+		"AreaName": {
+			"hash": -1657264875
+		},
+		"AreaDesc": {
+			"hash": 0
+		},
+		"BossIcon": "SpriteOutput/Ninja/IconRune/IconRune05",
+		"BossImg": "SpriteOutput/OpenWorld/QuestBossIcon/QT_050",
+		"SlotID": 5,
+		"UICameraID": [
+			1.9,
+			0,
+			-4
+		],
+		"RecommendSlotID": 5,
+		"RecommendLv": 6,
+		"DataImpl": {},
+		"AreaID": 12
+	},
+	{
+		"PreArea": 12,
+		"UIIndex": "MapLayer02/MapArea06",
+		"TextUIIndex": "MapLayer03/Area06/Text",
+		"UnlockTime": "2021-09-07 10:00:00",
+		"AreaName": {
+			"hash": -1657264874
+		},
+		"AreaDesc": {
+			"hash": 0
+		},
+		"BossIcon": "SpriteOutput/Ninja/IconRune/IconRune06",
+		"BossImg": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_080",
+		"SlotID": 6,
+		"UICameraID": [
+			4.1,
+			0,
+			-4
+		],
+		"RecommendSlotID": 6,
+		"RecommendLv": 6,
+		"DataImpl": {},
+		"AreaID": 13
+	},
+	{
+		"PreArea": 13,
+		"UIIndex": "MapLayer02/MapArea07",
+		"TextUIIndex": "MapLayer03/Area07/Text",
+		"UnlockTime": "2021-09-08 10:00:00",
+		"AreaName": {
+			"hash": -1657264873
+		},
+		"AreaDesc": {
+			"hash": 0
+		},
+		"BossIcon": "SpriteOutput/Ninja/IconRune/IconRune07",
+		"BossImg": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_100",
+		"SlotID": 0,
+		"UICameraID": [
+			4.4,
+			0,
+			-4
+		],
+		"RecommendSlotID": 0,
+		"RecommendLv": 35,
+		"DataImpl": {},
+		"AreaID": 14
+	}
+]

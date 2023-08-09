@@ -1,0 +1,104 @@
+[
+	{
+		"NormalStageRowPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter30OWFinalChapter/Chapter30OWActivityDevelopPointRow01",
+		"ChallengeStageRowPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter30OWFinalChapter/Chapter30OWActivityChallengePoint01",
+		"AvatarType": 1,
+		"PassiveTalentIDList": [
+			14102,
+			14103,
+			14104
+		],
+		"InitiativeTalentID": 14101,
+		"ChallengeSiteTyle": 4,
+		"AvatarImgPath": "SpriteOutput/ChapterActivity/Chapter30OWFinalChapter/Avatar/Durandal",
+		"AvatarThumbnail": "SpriteOutput/AvatarCardIcons/60804",
+		"EntryAvatarBGPath": "SpriteOutput/ChapterActivity/Chapter30OWFinalChapter/DurandalEntry",
+		"AvatarName": {
+			"hash": 703891285
+		},
+		"AvatarRestrictDisplayList": [
+			804,
+			612,
+			2901,
+			302,
+			506
+		],
+		"ThemeAvatarID": 804,
+		"CurrencyDisplay": [
+			122702
+		],
+		"AvatarTutorialID": 40000155,
+		"WebLink": "https://bh3.mihoyo.com/gl/activity/detail/24854?fullscreen=1&winmode=fullscreen&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+		"SweepLevelDropLimit": 1000,
+		"DataImpl": {},
+		"RpgAreaID": 20931
+	},
+	{
+		"NormalStageRowPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter30OWFinalChapter/Chapter30OWActivityDevelopPointRow02",
+		"ChallengeStageRowPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter30OWFinalChapter/Chapter30OWActivityChallengePoint02",
+		"AvatarType": 2,
+		"PassiveTalentIDList": [
+			14202,
+			14203,
+			14204
+		],
+		"InitiativeTalentID": 14201,
+		"ChallengeSiteTyle": 4,
+		"AvatarImgPath": "ChapterActivity/Chapter30OWFinalChapter/Avatar/Lisushuang",
+		"AvatarThumbnail": "SpriteOutput/AvatarCardIcons/63101",
+		"EntryAvatarBGPath": "SpriteOutput/ChapterActivity/Chapter30OWFinalChapter/LisushangEntry",
+		"AvatarName": {
+			"hash": 703891286
+		},
+		"AvatarRestrictDisplayList": [
+			3101,
+			611,
+			314,
+			2601,
+			317
+		],
+		"ThemeAvatarID": 3101,
+		"CurrencyDisplay": [
+			122703
+		],
+		"AvatarTutorialID": 40000174,
+		"WebLink": "https://bh3.mihoyo.com/gl/activity/detail/24853?fullscreen=1&winmode=fullscreen&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+		"SweepLevelDropLimit": 1000,
+		"DataImpl": {},
+		"RpgAreaID": 20932
+	},
+	{
+		"NormalStageRowPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter30OWFinalChapter/Chapter30OWActivityDevelopPointRow03",
+		"ChallengeStageRowPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter30OWFinalChapter/Chapter30OWActivityChallengePoint03",
+		"AvatarType": 3,
+		"PassiveTalentIDList": [
+			14302,
+			14303,
+			14304
+		],
+		"InitiativeTalentID": 14301,
+		"ChallengeSiteTyle": 4,
+		"AvatarImgPath": "",
+		"AvatarThumbnail": "SpriteOutput/AvatarCardIcons/60317",
+		"EntryAvatarBGPath": "SpriteOutput/ChapterActivity/Chapter30OWFinalChapter/BronyaEntry",
+		"AvatarName": {
+			"hash": 703891287
+		},
+		"AvatarRestrictDisplayList": [
+			317,
+			3101,
+			611,
+			314,
+			2601
+		],
+		"ThemeAvatarID": 317,
+		"CurrencyDisplay": [
+			122704
+		],
+		"AvatarTutorialID": 40000176,
+		"WebLink": "https://bh3.mihoyo.com/gl/activity/detail/24855?fullscreen=1&winmode=fullscreen&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+		"SweepLevelDropLimit": 800,
+		"DataImpl": {},
+		"RpgAreaID": 20933
+	}
+]

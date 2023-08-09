@@ -1,0 +1,172 @@
+[
+	{
+		"PhaseEndTime": "2019-05-07 03:59:59",
+		"ChangeTime": "2019-05-03 03:59:59",
+		"TagChangeNum": 0,
+		"PhaseType": 1,
+		"ServerRefreshCD": 0,
+		"StepNum": 5,
+		"MinScore": 100,
+		"RewardList": "1443301",
+		"VoteGroup": 101,
+		"VoteAddScore": 100,
+		"RedPiontRenown": 7,
+		"ShowPlayerNumMin": 100,
+		"EnterTims": 0,
+		"AddBelief": [],
+		"DataImpl": {},
+		"PhaseID": 101
+	},
+	{
+		"PhaseEndTime": "2019-05-10 03:59:59",
+		"ChangeTime": "2019-05-10 03:59:59",
+		"TagChangeNum": 0,
+		"PhaseType": 2,
+		"ServerRefreshCD": 0,
+		"StepNum": 0,
+		"MinScore": 100,
+		"RewardList": "1443302,1443305:1443304,1443303",
+		"VoteGroup": 0,
+		"VoteAddScore": 0,
+		"RedPiontRenown": 0,
+		"ShowPlayerNumMin": 100,
+		"EnterTims": 0,
+		"AddBelief": [],
+		"DataImpl": {},
+		"PhaseID": 102
+	},
+	{
+		"PhaseEndTime": "2019-05-20 03:59:59",
+		"ChangeTime": "2019-05-16 03:59:59",
+		"TagChangeNum": 0,
+		"PhaseType": 1,
+		"ServerRefreshCD": 0,
+		"StepNum": 5,
+		"MinScore": 100,
+		"RewardList": "1443301",
+		"VoteGroup": 101,
+		"VoteAddScore": 100,
+		"RedPiontRenown": 7,
+		"ShowPlayerNumMin": 100,
+		"EnterTims": 0,
+		"AddBelief": [],
+		"DataImpl": {},
+		"PhaseID": 103
+	},
+	{
+		"PhaseEndTime": "2019-05-23 03:59:59",
+		"ChangeTime": "2019-05-23 03:59:59",
+		"TagChangeNum": 0,
+		"PhaseType": 2,
+		"ServerRefreshCD": 0,
+		"StepNum": 0,
+		"MinScore": 100,
+		"RewardList": "1443302,1443305:1443304,1443303",
+		"VoteGroup": 0,
+		"VoteAddScore": 0,
+		"RedPiontRenown": 0,
+		"ShowPlayerNumMin": 100,
+		"EnterTims": 0,
+		"AddBelief": [],
+		"DataImpl": {},
+		"PhaseID": 104
+	},
+	{
+		"PhaseEndTime": "2019-11-20 03:59:59",
+		"ChangeTime": "2019-11-16 03:59:59",
+		"TagChangeNum": 0,
+		"PhaseType": 1,
+		"ServerRefreshCD": 0,
+		"StepNum": 5,
+		"MinScore": 100,
+		"RewardList": "1443301",
+		"VoteGroup": 101,
+		"VoteAddScore": 100,
+		"RedPiontRenown": 7,
+		"ShowPlayerNumMin": 100,
+		"EnterTims": 0,
+		"AddBelief": [],
+		"DataImpl": {},
+		"PhaseID": 105
+	},
+	{
+		"PhaseEndTime": "2019-11-23 03:59:59",
+		"ChangeTime": "2019-11-23 03:59:59",
+		"TagChangeNum": 0,
+		"PhaseType": 2,
+		"ServerRefreshCD": 0,
+		"StepNum": 0,
+		"MinScore": 100,
+		"RewardList": "1443302,1443305:1443304,1443303",
+		"VoteGroup": 0,
+		"VoteAddScore": 0,
+		"RedPiontRenown": 0,
+		"ShowPlayerNumMin": 100,
+		"EnterTims": 0,
+		"AddBelief": [],
+		"DataImpl": {},
+		"PhaseID": 106
+	},
+	{
+		"PhaseEndTime": "2020-05-11 03:59:59",
+		"ChangeTime": "2020-01-23 03:59:59",
+		"TagChangeNum": 3,
+		"PhaseType": 3,
+		"ServerRefreshCD": 300,
+		"StepNum": 0,
+		"MinScore": 100,
+		"RewardList": "1452101,1452102,1452103",
+		"VoteGroup": 0,
+		"VoteAddScore": 100,
+		"RedPiontRenown": 7,
+		"ShowPlayerNumMin": 0,
+		"EnterTims": 0,
+		"AddBelief": [
+			{
+				"BeliefAddon": 4,
+				"Rank": 1
+			},
+			{
+				"BeliefAddon": 3,
+				"Rank": 2
+			},
+			{
+				"BeliefAddon": 2,
+				"Rank": 3
+			}
+		],
+		"DataImpl": {},
+		"PhaseID": 107
+	},
+	{
+		"PhaseEndTime": "2021-12-02 03:59:59",
+		"ChangeTime": "2020-01-23 03:59:59",
+		"TagChangeNum": 3,
+		"PhaseType": 3,
+		"ServerRefreshCD": 300,
+		"StepNum": 0,
+		"MinScore": 100,
+		"RewardList": "1452153,1452154,1452155",
+		"VoteGroup": 0,
+		"VoteAddScore": 100,
+		"RedPiontRenown": 7,
+		"ShowPlayerNumMin": 100,
+		"EnterTims": 0,
+		"AddBelief": [
+			{
+				"BeliefAddon": 4,
+				"Rank": 1
+			},
+			{
+				"BeliefAddon": 3,
+				"Rank": 2
+			},
+			{
+				"BeliefAddon": 2,
+				"Rank": 3
+			}
+		],
+		"DataImpl": {},
+		"PhaseID": 108
+	}
+]

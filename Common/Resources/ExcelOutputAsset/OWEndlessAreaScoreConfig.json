@@ -1,0 +1,3747 @@
+[
+	{
+		"MonsterScoreConfig": [
+			"101:102:103:104",
+			"106:107:108:109",
+			"111:112:113:114",
+			"116:117:118:119"
+		],
+		"BossScoreConfig": [
+			121,
+			122,
+			123,
+			124
+		],
+		"Type": 2,
+		"SplitBattles": [
+			{
+				"groupScoreId": 101,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 102,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 103,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 104,
+				"isBoss": true,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 106,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 107,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 108,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 109,
+				"isBoss": true,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 111,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 112,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 113,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 114,
+				"isBoss": true,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 116,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 117,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 118,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 119,
+				"isBoss": true,
+				"layerId": 3
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 1001
+	},
+	{
+		"MonsterScoreConfig": [
+			"101:102:103:104",
+			"106:107:108:109",
+			"111:112:113:114",
+			"116:117:118:119"
+		],
+		"BossScoreConfig": [
+			121,
+			122,
+			123,
+			124
+		],
+		"Type": 2,
+		"SplitBattles": [
+			{
+				"groupScoreId": 101,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 102,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 103,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 104,
+				"isBoss": true,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 106,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 107,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 108,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 109,
+				"isBoss": true,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 111,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 112,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 113,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 114,
+				"isBoss": true,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 116,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 117,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 118,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 119,
+				"isBoss": true,
+				"layerId": 3
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 1002
+	},
+	{
+		"MonsterScoreConfig": [
+			"101:102:2303:104:105",
+			"106:107:108:109:2310",
+			"111:112:2313:114:115",
+			"116:117:118:2319"
+		],
+		"BossScoreConfig": [
+			121,
+			122,
+			123,
+			124
+		],
+		"Type": 2,
+		"SplitBattles": [
+			{
+				"groupScoreId": 101,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 102,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 2303,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 104,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 105,
+				"isBoss": true,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 106,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 107,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 108,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 109,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 2310,
+				"isBoss": true,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 111,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 112,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 2313,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 114,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 115,
+				"isBoss": true,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 116,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 117,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 118,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 2319,
+				"isBoss": true,
+				"layerId": 3
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 1003
+	},
+	{
+		"MonsterScoreConfig": [
+			"101:102:2403:104:3405",
+			"106:107:3408:109:2410",
+			"111:112:2413:114:3415",
+			"116:2417:118:3419"
+		],
+		"BossScoreConfig": [
+			121,
+			122,
+			123,
+			124
+		],
+		"Type": 2,
+		"SplitBattles": [
+			{
+				"groupScoreId": 101,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 102,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 2403,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 104,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 3405,
+				"isBoss": true,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 106,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 107,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 3408,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 109,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 2410,
+				"isBoss": true,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 111,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 112,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 2413,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 114,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 3415,
+				"isBoss": true,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 116,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 2417,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 118,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 3419,
+				"isBoss": true,
+				"layerId": 3
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 1004
+	},
+	{
+		"MonsterScoreConfig": [
+			"101:102:2503:104:3505",
+			"106:107:3508:109:2510",
+			"111:112:2513:114:3515",
+			"116:2517:118:3519"
+		],
+		"BossScoreConfig": [
+			121,
+			122,
+			123,
+			124
+		],
+		"Type": 2,
+		"SplitBattles": [
+			{
+				"groupScoreId": 101,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 102,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 2503,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 104,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 3505,
+				"isBoss": true,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 106,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 107,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 3508,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 109,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 2510,
+				"isBoss": true,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 111,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 112,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 2513,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 114,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 3515,
+				"isBoss": true,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 116,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 2517,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 118,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 3519,
+				"isBoss": true,
+				"layerId": 3
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 1005
+	},
+	{
+		"MonsterScoreConfig": [
+			"101:102:2603:104:3605",
+			"106:107:3608:109:2610",
+			"111:112:2613:114:3615",
+			"116:2617:118:3619"
+		],
+		"BossScoreConfig": [
+			131,
+			132,
+			133,
+			134
+		],
+		"Type": 2,
+		"SplitBattles": [
+			{
+				"groupScoreId": 101,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 102,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 2603,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 104,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 3605,
+				"isBoss": true,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 106,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 107,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 3608,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 109,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 2610,
+				"isBoss": true,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 111,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 112,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 2613,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 114,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 3615,
+				"isBoss": true,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 116,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 2617,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 118,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 3619,
+				"isBoss": true,
+				"layerId": 3
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 1006
+	},
+	{
+		"MonsterScoreConfig": [
+			"101:102:2703:104:3705",
+			"106:107:3708:109:2710",
+			"111:112:2713:114:3715",
+			"116:2717:118:3719"
+		],
+		"BossScoreConfig": [
+			131,
+			132,
+			133,
+			134
+		],
+		"Type": 2,
+		"SplitBattles": [
+			{
+				"groupScoreId": 101,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 102,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 2703,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 104,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 3705,
+				"isBoss": true,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 106,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 107,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 3708,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 109,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 2710,
+				"isBoss": true,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 111,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 112,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 2713,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 114,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 3715,
+				"isBoss": true,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 116,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 2717,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 118,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 3719,
+				"isBoss": true,
+				"layerId": 3
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 1007
+	},
+	{
+		"MonsterScoreConfig": [
+			"101:102:2303:104:105",
+			"106:107:108:109:2310",
+			"111:112:2313:114:115",
+			"116:117:118:2319"
+		],
+		"BossScoreConfig": [
+			121,
+			122,
+			123,
+			124
+		],
+		"Type": 2,
+		"SplitBattles": [
+			{
+				"groupScoreId": 101,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 102,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 2303,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 104,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 105,
+				"isBoss": true,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 106,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 107,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 108,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 109,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 2310,
+				"isBoss": true,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 111,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 112,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 2313,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 114,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 115,
+				"isBoss": true,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 116,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 117,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 118,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 2319,
+				"isBoss": true,
+				"layerId": 3
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 1008
+	},
+	{
+		"MonsterScoreConfig": [
+			"101:102:2403:104:3405",
+			"106:107:3408:109:2410",
+			"111:112:2413:114:3415",
+			"116:2417:118:3419"
+		],
+		"BossScoreConfig": [
+			121,
+			122,
+			123,
+			124
+		],
+		"Type": 2,
+		"SplitBattles": [
+			{
+				"groupScoreId": 101,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 102,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 2403,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 104,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 3405,
+				"isBoss": true,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 106,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 107,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 3408,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 109,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 2410,
+				"isBoss": true,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 111,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 112,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 2413,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 114,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 3415,
+				"isBoss": true,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 116,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 2417,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 118,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 3419,
+				"isBoss": true,
+				"layerId": 3
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 1009
+	},
+	{
+		"MonsterScoreConfig": [
+			"101:102:2503:104:3505",
+			"106:107:3508:109:2510",
+			"111:112:2513:114:3515",
+			"116:2517:118:3519"
+		],
+		"BossScoreConfig": [
+			121,
+			122,
+			123,
+			124
+		],
+		"Type": 2,
+		"SplitBattles": [
+			{
+				"groupScoreId": 101,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 102,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 2503,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 104,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 3505,
+				"isBoss": true,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 106,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 107,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 3508,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 109,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 2510,
+				"isBoss": true,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 111,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 112,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 2513,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 114,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 3515,
+				"isBoss": true,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 116,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 2517,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 118,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 3519,
+				"isBoss": true,
+				"layerId": 3
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 1010
+	},
+	{
+		"MonsterScoreConfig": [
+			"101:102:2603:104:3605",
+			"106:107:3608:109:2610",
+			"111:112:2613:114:3615",
+			"116:2617:118:3619"
+		],
+		"BossScoreConfig": [
+			131,
+			132,
+			133,
+			134
+		],
+		"Type": 2,
+		"SplitBattles": [
+			{
+				"groupScoreId": 101,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 102,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 2603,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 104,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 3605,
+				"isBoss": true,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 106,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 107,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 3608,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 109,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 2610,
+				"isBoss": true,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 111,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 112,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 2613,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 114,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 3615,
+				"isBoss": true,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 116,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 2617,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 118,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 3619,
+				"isBoss": true,
+				"layerId": 3
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 1011
+	},
+	{
+		"MonsterScoreConfig": [
+			"101:102:2703:104:3705",
+			"106:107:3708:109:2710",
+			"111:112:2713:114:3715",
+			"116:2717:118:3719"
+		],
+		"BossScoreConfig": [
+			131,
+			132,
+			133,
+			134
+		],
+		"Type": 2,
+		"SplitBattles": [
+			{
+				"groupScoreId": 101,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 102,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 2703,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 104,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 3705,
+				"isBoss": true,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 106,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 107,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 3708,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 109,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 2710,
+				"isBoss": true,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 111,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 112,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 2713,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 114,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 3715,
+				"isBoss": true,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 116,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 2717,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 118,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 3719,
+				"isBoss": true,
+				"layerId": 3
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 1012
+	},
+	{
+		"MonsterScoreConfig": [
+			"116:2517:118:3519"
+		],
+		"BossScoreConfig": [
+			124
+		],
+		"Type": 2,
+		"SplitBattles": [
+			{
+				"groupScoreId": 116,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 2517,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 118,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 3519,
+				"isBoss": true,
+				"layerId": 0
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 1101
+	},
+	{
+		"MonsterScoreConfig": [
+			"116:2617:118:3619"
+		],
+		"BossScoreConfig": [
+			134
+		],
+		"Type": 2,
+		"SplitBattles": [
+			{
+				"groupScoreId": 116,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 2617,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 118,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 3619,
+				"isBoss": true,
+				"layerId": 0
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 1102
+	},
+	{
+		"MonsterScoreConfig": [
+			"116:2717:118:3719"
+		],
+		"BossScoreConfig": [
+			134
+		],
+		"Type": 2,
+		"SplitBattles": [
+			{
+				"groupScoreId": 116,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 2717,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 118,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 3719,
+				"isBoss": true,
+				"layerId": 0
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 1103
+	},
+	{
+		"MonsterScoreConfig": [
+			"10000:10100:10200:10300:10",
+			"10400:10500:10600:10700:11",
+			"10800:10900:11000:11100:12",
+			"11200:11300:11400:11500:13"
+		],
+		"BossScoreConfig": [],
+		"Type": 3,
+		"SplitBattles": [
+			{
+				"groupScoreId": 10000,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 10100,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 10200,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 10300,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 10,
+				"isBoss": true,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 10400,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 10500,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 10600,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 10700,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 11,
+				"isBoss": true,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 10800,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 10900,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 11000,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 11100,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 12,
+				"isBoss": true,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 11200,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 11300,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 11400,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 11500,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 13,
+				"isBoss": true,
+				"layerId": 3
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 2001
+	},
+	{
+		"MonsterScoreConfig": [
+			"20000:20100:20200:20300:20",
+			"20400:20500:20600:20700:21",
+			"20800:20900:21000:21100:22",
+			"21200:21300:21400:21500:23"
+		],
+		"BossScoreConfig": [],
+		"Type": 3,
+		"SplitBattles": [
+			{
+				"groupScoreId": 20000,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 20100,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 20200,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 20300,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 20,
+				"isBoss": true,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 20400,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 20500,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 20600,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 20700,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 21,
+				"isBoss": true,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 20800,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 20900,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 21000,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 21100,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 22,
+				"isBoss": true,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 21200,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 21300,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 21400,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 21500,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 23,
+				"isBoss": true,
+				"layerId": 3
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 2002
+	},
+	{
+		"MonsterScoreConfig": [
+			"30000:30100:30200:30300:30",
+			"30400:30500:30600:30700:31",
+			"30800:30900:31000:31100:32",
+			"31200:31300:31400:31500:33"
+		],
+		"BossScoreConfig": [],
+		"Type": 3,
+		"SplitBattles": [
+			{
+				"groupScoreId": 30000,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 30100,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 30200,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 30300,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 30,
+				"isBoss": true,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 30400,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 30500,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 30600,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 30700,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 31,
+				"isBoss": true,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 30800,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 30900,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 31000,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 31100,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 32,
+				"isBoss": true,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 31200,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 31300,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 31400,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 31500,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 33,
+				"isBoss": true,
+				"layerId": 3
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 2003
+	},
+	{
+		"MonsterScoreConfig": [
+			"40000:40100:40200:40300:40",
+			"40400:40500:40600:40700:41",
+			"40800:40900:41000:41100:42",
+			"41200:41300:41400:41500:43"
+		],
+		"BossScoreConfig": [],
+		"Type": 3,
+		"SplitBattles": [
+			{
+				"groupScoreId": 40000,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 40100,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 40200,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 40300,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 40,
+				"isBoss": true,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 40400,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 40500,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 40600,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 40700,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 41,
+				"isBoss": true,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 40800,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 40900,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 41000,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 41100,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 42,
+				"isBoss": true,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 41200,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 41300,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 41400,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 41500,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 43,
+				"isBoss": true,
+				"layerId": 3
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 2004
+	},
+	{
+		"MonsterScoreConfig": [
+			"50000:50100:50200:50300:50",
+			"50400:50500:50600:50700:51",
+			"50800:50900:51000:51100:52"
+		],
+		"BossScoreConfig": [],
+		"Type": 3,
+		"SplitBattles": [
+			{
+				"groupScoreId": 50000,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 50100,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 50200,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 50300,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 50,
+				"isBoss": true,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 50400,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 50500,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 50600,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 50700,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 51,
+				"isBoss": true,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 50800,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 50900,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 51000,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 51100,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 52,
+				"isBoss": true,
+				"layerId": 2
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 2005
+	},
+	{
+		"MonsterScoreConfig": [
+			"60000:60100:60200:60300:60",
+			"60400:60500:60600:60700:61",
+			"60800:60900:61000:61100:62"
+		],
+		"BossScoreConfig": [],
+		"Type": 3,
+		"SplitBattles": [
+			{
+				"groupScoreId": 60000,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 60100,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 60200,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 60300,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 60,
+				"isBoss": true,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 60400,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 60500,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 60600,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 60700,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 61,
+				"isBoss": true,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 60800,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 60900,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 61000,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 61100,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 62,
+				"isBoss": true,
+				"layerId": 2
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 2006
+	},
+	{
+		"MonsterScoreConfig": [
+			"70000:70100:70200:70300:70",
+			"70400:70500:70600:70700:71",
+			"70800:70900:71000:71100:72"
+		],
+		"BossScoreConfig": [],
+		"Type": 3,
+		"SplitBattles": [
+			{
+				"groupScoreId": 70000,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 70100,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 70200,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 70300,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 70,
+				"isBoss": true,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 70400,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 70500,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 70600,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 70700,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 71,
+				"isBoss": true,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 70800,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 70900,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 71000,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 71100,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 72,
+				"isBoss": true,
+				"layerId": 2
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 2007
+	},
+	{
+		"MonsterScoreConfig": [
+			"80000:80100:80200:80300:80",
+			"80400:80500:80600:80700:81",
+			"60800:80900:81000:81100:82"
+		],
+		"BossScoreConfig": [],
+		"Type": 3,
+		"SplitBattles": [
+			{
+				"groupScoreId": 80000,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 80100,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 80200,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 80300,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 80,
+				"isBoss": true,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 80400,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 80500,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 80600,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 80700,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 81,
+				"isBoss": true,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 60800,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 80900,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 81000,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 81100,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 82,
+				"isBoss": true,
+				"layerId": 2
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 2008
+	},
+	{
+		"MonsterScoreConfig": [
+			"110000:110100:110200:110300:1110",
+			"110400:110500:110600:110700:1111",
+			"110800:110900:111000:111100:1112",
+			"111200:111300:111400:111500:1113"
+		],
+		"BossScoreConfig": [],
+		"Type": 3,
+		"SplitBattles": [
+			{
+				"groupScoreId": 110000,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 110100,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 110200,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 110300,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 1110,
+				"isBoss": true,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 110400,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 110500,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 110600,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 110700,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 1111,
+				"isBoss": true,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 110800,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 110900,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 111000,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 111100,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 1112,
+				"isBoss": true,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 111200,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 111300,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 111400,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 111500,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 1113,
+				"isBoss": true,
+				"layerId": 3
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 2011
+	},
+	{
+		"MonsterScoreConfig": [
+			"120000:120100:120200:120300:1120",
+			"120400:120500:120600:120700:1121",
+			"120800:120900:121000:121100:1122",
+			"121200:121300:121400:121500:1123"
+		],
+		"BossScoreConfig": [],
+		"Type": 3,
+		"SplitBattles": [
+			{
+				"groupScoreId": 120000,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 120100,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 120200,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 120300,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 1120,
+				"isBoss": true,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 120400,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 120500,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 120600,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 120700,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 1121,
+				"isBoss": true,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 120800,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 120900,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 121000,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 121100,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 1122,
+				"isBoss": true,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 121200,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 121300,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 121400,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 121500,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 1123,
+				"isBoss": true,
+				"layerId": 3
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 2012
+	},
+	{
+		"MonsterScoreConfig": [
+			"130000:130100:130200:130300:1130",
+			"130400:130500:130600:130700:1131",
+			"130800:130900:131000:131100:1132",
+			"131200:131300:131400:131500:1133"
+		],
+		"BossScoreConfig": [],
+		"Type": 3,
+		"SplitBattles": [
+			{
+				"groupScoreId": 130000,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 130100,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 130200,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 130300,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 1130,
+				"isBoss": true,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 130400,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 130500,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 130600,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 130700,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 1131,
+				"isBoss": true,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 130800,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 130900,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 131000,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 131100,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 1132,
+				"isBoss": true,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 131200,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 131300,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 131400,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 131500,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 1133,
+				"isBoss": true,
+				"layerId": 3
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 2013
+	},
+	{
+		"MonsterScoreConfig": [
+			"140000:140100:140200:140300:1140",
+			"140400:140500:140600:140700:1141",
+			"140800:140900:141000:141100:1142",
+			"141200:141300:141400:141500:1143"
+		],
+		"BossScoreConfig": [],
+		"Type": 3,
+		"SplitBattles": [
+			{
+				"groupScoreId": 140000,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 140100,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 140200,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 140300,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 1140,
+				"isBoss": true,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 140400,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 140500,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 140600,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 140700,
+				"isBoss": false,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 1141,
+				"isBoss": true,
+				"layerId": 1
+			},
+			{
+				"groupScoreId": 140800,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 140900,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 141000,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 141100,
+				"isBoss": false,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 1142,
+				"isBoss": true,
+				"layerId": 2
+			},
+			{
+				"groupScoreId": 141200,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 141300,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 141400,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 141500,
+				"isBoss": false,
+				"layerId": 3
+			},
+			{
+				"groupScoreId": 1143,
+				"isBoss": true,
+				"layerId": 3
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 2014
+	},
+	{
+		"MonsterScoreConfig": [
+			"11200:11300:11400:11500:13"
+		],
+		"BossScoreConfig": [],
+		"Type": 3,
+		"SplitBattles": [
+			{
+				"groupScoreId": 11200,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 11300,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 11400,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 11500,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 13,
+				"isBoss": true,
+				"layerId": 0
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 2100
+	},
+	{
+		"MonsterScoreConfig": [
+			"21200:21300:21400:21500:23"
+		],
+		"BossScoreConfig": [],
+		"Type": 3,
+		"SplitBattles": [
+			{
+				"groupScoreId": 21200,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 21300,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 21400,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 21500,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 23,
+				"isBoss": true,
+				"layerId": 0
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 2101
+	},
+	{
+		"MonsterScoreConfig": [
+			"31200:31300:31400:31500:33"
+		],
+		"BossScoreConfig": [],
+		"Type": 3,
+		"SplitBattles": [
+			{
+				"groupScoreId": 31200,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 31300,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 31400,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 31500,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 33,
+				"isBoss": true,
+				"layerId": 0
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 2102
+	},
+	{
+		"MonsterScoreConfig": [
+			"41200:41300:41400:41500:43"
+		],
+		"BossScoreConfig": [],
+		"Type": 3,
+		"SplitBattles": [
+			{
+				"groupScoreId": 41200,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 41300,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 41400,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 41500,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 43,
+				"isBoss": true,
+				"layerId": 0
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 2103
+	},
+	{
+		"MonsterScoreConfig": [
+			"50800:50900:51000:51100:52"
+		],
+		"BossScoreConfig": [],
+		"Type": 3,
+		"SplitBattles": [
+			{
+				"groupScoreId": 50800,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 50900,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 51000,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 51100,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 52,
+				"isBoss": true,
+				"layerId": 0
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 2104
+	},
+	{
+		"MonsterScoreConfig": [
+			"60800:60900:61000:61100:62"
+		],
+		"BossScoreConfig": [],
+		"Type": 3,
+		"SplitBattles": [
+			{
+				"groupScoreId": 60800,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 60900,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 61000,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 61100,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 62,
+				"isBoss": true,
+				"layerId": 0
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 2105
+	},
+	{
+		"MonsterScoreConfig": [
+			"70800:70900:71000:71100:72"
+		],
+		"BossScoreConfig": [],
+		"Type": 3,
+		"SplitBattles": [
+			{
+				"groupScoreId": 70800,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 70900,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 71000,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 71100,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 72,
+				"isBoss": true,
+				"layerId": 0
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 2106
+	},
+	{
+		"MonsterScoreConfig": [
+			"60800:80900:81000:81100:82"
+		],
+		"BossScoreConfig": [],
+		"Type": 3,
+		"SplitBattles": [
+			{
+				"groupScoreId": 60800,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 80900,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 81000,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 81100,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 82,
+				"isBoss": true,
+				"layerId": 0
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 2107
+	},
+	{
+		"MonsterScoreConfig": [
+			"111200:111300:111400:111500:1113"
+		],
+		"BossScoreConfig": [],
+		"Type": 3,
+		"SplitBattles": [
+			{
+				"groupScoreId": 111200,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 111300,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 111400,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 111500,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 1113,
+				"isBoss": true,
+				"layerId": 0
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 2110
+	},
+	{
+		"MonsterScoreConfig": [
+			"121200:121300:121400:121500:1123"
+		],
+		"BossScoreConfig": [],
+		"Type": 3,
+		"SplitBattles": [
+			{
+				"groupScoreId": 121200,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 121300,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 121400,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 121500,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 1123,
+				"isBoss": true,
+				"layerId": 0
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 2111
+	},
+	{
+		"MonsterScoreConfig": [
+			"131200:131300:131400:131500:1133"
+		],
+		"BossScoreConfig": [],
+		"Type": 3,
+		"SplitBattles": [
+			{
+				"groupScoreId": 131200,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 131300,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 131400,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 131500,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 1133,
+				"isBoss": true,
+				"layerId": 0
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 2112
+	},
+	{
+		"MonsterScoreConfig": [
+			"141200:141300:141400:141500:1143"
+		],
+		"BossScoreConfig": [],
+		"Type": 3,
+		"SplitBattles": [
+			{
+				"groupScoreId": 141200,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 141300,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 141400,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 141500,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 1143,
+				"isBoss": true,
+				"layerId": 0
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 2113
+	},
+	{
+		"MonsterScoreConfig": [
+			"21200:21300:21400:21500:2041"
+		],
+		"BossScoreConfig": [],
+		"Type": 3,
+		"SplitBattles": [
+			{
+				"groupScoreId": 21200,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 21300,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 21400,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 21500,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 2041,
+				"isBoss": true,
+				"layerId": 0
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 4095
+	},
+	{
+		"MonsterScoreConfig": [
+			"21200:21300:21400:21500:2050"
+		],
+		"BossScoreConfig": [],
+		"Type": 3,
+		"SplitBattles": [
+			{
+				"groupScoreId": 21200,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 21300,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 21400,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 21500,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 2050,
+				"isBoss": true,
+				"layerId": 0
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 4096
+	},
+	{
+		"MonsterScoreConfig": [
+			"31200:31300:31400:31500:2060"
+		],
+		"BossScoreConfig": [],
+		"Type": 3,
+		"SplitBattles": [
+			{
+				"groupScoreId": 31200,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 31300,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 31400,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 31500,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 2060,
+				"isBoss": true,
+				"layerId": 0
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 4097
+	},
+	{
+		"MonsterScoreConfig": [
+			"21200:21300:21400:21500:2070"
+		],
+		"BossScoreConfig": [],
+		"Type": 3,
+		"SplitBattles": [
+			{
+				"groupScoreId": 21200,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 21300,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 21400,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 21500,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 2070,
+				"isBoss": true,
+				"layerId": 0
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 4098
+	},
+	{
+		"MonsterScoreConfig": [
+			"21200:21300:21400:21500:2080"
+		],
+		"BossScoreConfig": [],
+		"Type": 3,
+		"SplitBattles": [
+			{
+				"groupScoreId": 21200,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 21300,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 21400,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 21500,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 2080,
+				"isBoss": true,
+				"layerId": 0
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 4099
+	},
+	{
+		"MonsterScoreConfig": [
+			"11200:11300:11400:11500:2083"
+		],
+		"BossScoreConfig": [],
+		"Type": 3,
+		"SplitBattles": [
+			{
+				"groupScoreId": 11200,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 11300,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 11400,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 11500,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 2083,
+				"isBoss": true,
+				"layerId": 0
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 4100
+	},
+	{
+		"MonsterScoreConfig": [
+			"21200:21300:21400:21500:2081"
+		],
+		"BossScoreConfig": [],
+		"Type": 3,
+		"SplitBattles": [
+			{
+				"groupScoreId": 21200,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 21300,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 21400,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 21500,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 2081,
+				"isBoss": true,
+				"layerId": 0
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 4101
+	},
+	{
+		"MonsterScoreConfig": [
+			"31200:31300:31400:31500:2082"
+		],
+		"BossScoreConfig": [],
+		"Type": 3,
+		"SplitBattles": [
+			{
+				"groupScoreId": 31200,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 31300,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 31400,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 31500,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 2082,
+				"isBoss": true,
+				"layerId": 0
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 4102
+	},
+	{
+		"MonsterScoreConfig": [
+			"21200:21300:21400:21500:2084"
+		],
+		"BossScoreConfig": [],
+		"Type": 3,
+		"SplitBattles": [
+			{
+				"groupScoreId": 21200,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 21300,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 21400,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 21500,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 2084,
+				"isBoss": true,
+				"layerId": 0
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 4103
+	},
+	{
+		"MonsterScoreConfig": [
+			"21200:21300:21400:21500:2085"
+		],
+		"BossScoreConfig": [],
+		"Type": 3,
+		"SplitBattles": [
+			{
+				"groupScoreId": 21200,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 21300,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 21400,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 21500,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 2085,
+				"isBoss": true,
+				"layerId": 0
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 4104
+	},
+	{
+		"MonsterScoreConfig": [
+			"21200:21300:21400:21500:2086"
+		],
+		"BossScoreConfig": [],
+		"Type": 3,
+		"SplitBattles": [
+			{
+				"groupScoreId": 21200,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 21300,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 21400,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 21500,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 2086,
+				"isBoss": true,
+				"layerId": 0
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 4105
+	},
+	{
+		"MonsterScoreConfig": [
+			"21200:21300:21400:21500:2087"
+		],
+		"BossScoreConfig": [],
+		"Type": 3,
+		"SplitBattles": [
+			{
+				"groupScoreId": 21200,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 21300,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 21400,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 21500,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 2087,
+				"isBoss": true,
+				"layerId": 0
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 4106
+	},
+	{
+		"MonsterScoreConfig": [
+			"21200:21300:21400:21500:2088"
+		],
+		"BossScoreConfig": [],
+		"Type": 3,
+		"SplitBattles": [
+			{
+				"groupScoreId": 21200,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 21300,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 21400,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 21500,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 2088,
+				"isBoss": true,
+				"layerId": 0
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 4107
+	},
+	{
+		"MonsterScoreConfig": [
+			"21200:21300:21400:21500:2089"
+		],
+		"BossScoreConfig": [],
+		"Type": 3,
+		"SplitBattles": [
+			{
+				"groupScoreId": 21200,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 21300,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 21400,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 21500,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 2089,
+				"isBoss": true,
+				"layerId": 0
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 4108
+	},
+	{
+		"MonsterScoreConfig": [
+			"21200:21300:21400:21500:2090"
+		],
+		"BossScoreConfig": [],
+		"Type": 3,
+		"SplitBattles": [
+			{
+				"groupScoreId": 21200,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 21300,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 21400,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 21500,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 2090,
+				"isBoss": true,
+				"layerId": 0
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 4109
+	},
+	{
+		"MonsterScoreConfig": [
+			"21200:21300:21400:21500:2091"
+		],
+		"BossScoreConfig": [],
+		"Type": 3,
+		"SplitBattles": [
+			{
+				"groupScoreId": 21200,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 21300,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 21400,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 21500,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 2091,
+				"isBoss": true,
+				"layerId": 0
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 4110
+	},
+	{
+		"MonsterScoreConfig": [
+			"21200:21300:21400:21500:2092"
+		],
+		"BossScoreConfig": [],
+		"Type": 3,
+		"SplitBattles": [
+			{
+				"groupScoreId": 21200,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 21300,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 21400,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 21500,
+				"isBoss": false,
+				"layerId": 0
+			},
+			{
+				"groupScoreId": 2092,
+				"isBoss": true,
+				"layerId": 0
+			}
+		],
+		"DataImpl": {},
+		"AreaScoreConfigID": 4111
+	}
+]

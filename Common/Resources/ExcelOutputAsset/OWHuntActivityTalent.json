@@ -1,0 +1,822 @@
+[
+	{
+		"TalentIconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Physics",
+		"PreTalent": [],
+		"MapID": 901,
+		"TalentUpgradeCost": [
+			{
+				"TalentUpgradeCostMaterial": 118941,
+				"TalentUpgradeCostNum": 1
+			}
+		],
+		"TalentUpgradePremise": 0,
+		"TalentName": {
+			"hash": -1828047809
+		},
+		"TalentDes": {
+			"hash": -501330010
+		},
+		"NextLevelDes": {
+			"hash": 1013013811
+		},
+		"AbilityName": "OWHunt_World1_Skill1_Lv1",
+		"AbilityParams": [],
+		"DataImpl": {},
+		"TalentID": 1001,
+		"TalentLevel": 1
+	},
+	{
+		"TalentIconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Physics",
+		"PreTalent": [],
+		"MapID": 901,
+		"TalentUpgradeCost": [
+			{
+				"TalentUpgradeCostMaterial": 118941,
+				"TalentUpgradeCostNum": 6
+			}
+		],
+		"TalentUpgradePremise": 0,
+		"TalentName": {
+			"hash": -1828046848
+		},
+		"TalentDes": {
+			"hash": -501329049
+		},
+		"NextLevelDes": {
+			"hash": 1013014772
+		},
+		"AbilityName": "OWHunt_World1_Skill1_Lv2",
+		"AbilityParams": [],
+		"DataImpl": {},
+		"TalentID": 1001,
+		"TalentLevel": 2
+	},
+	{
+		"TalentIconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Physics",
+		"PreTalent": [],
+		"MapID": 901,
+		"TalentUpgradeCost": [
+			{
+				"TalentUpgradeCostMaterial": 118941,
+				"TalentUpgradeCostNum": 10
+			}
+		],
+		"TalentUpgradePremise": 0,
+		"TalentName": {
+			"hash": -1828045887
+		},
+		"TalentDes": {
+			"hash": -501328088
+		},
+		"NextLevelDes": {
+			"hash": 1013015733
+		},
+		"AbilityName": "OWHunt_World1_Skill1_Lv3",
+		"AbilityParams": [],
+		"DataImpl": {},
+		"TalentID": 1001,
+		"TalentLevel": 3
+	},
+	{
+		"TalentIconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Kill",
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 1001
+			}
+		],
+		"MapID": 901,
+		"TalentUpgradeCost": [
+			{
+				"TalentUpgradeCostMaterial": 118941,
+				"TalentUpgradeCostNum": 4
+			}
+		],
+		"TalentUpgradePremise": 0,
+		"TalentName": {
+			"hash": -1828047808
+		},
+		"TalentDes": {
+			"hash": -501330009
+		},
+		"NextLevelDes": {
+			"hash": 1013013812
+		},
+		"AbilityName": "OWHunt_World1_Skill2_AttackUp_Lv1",
+		"AbilityParams": [],
+		"DataImpl": {},
+		"TalentID": 1002,
+		"TalentLevel": 1
+	},
+	{
+		"TalentIconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Kill",
+		"PreTalent": [],
+		"MapID": 901,
+		"TalentUpgradeCost": [
+			{
+				"TalentUpgradeCostMaterial": 118941,
+				"TalentUpgradeCostNum": 4
+			}
+		],
+		"TalentUpgradePremise": 0,
+		"TalentName": {
+			"hash": -1828046847
+		},
+		"TalentDes": {
+			"hash": -501329048
+		},
+		"NextLevelDes": {
+			"hash": 1013014773
+		},
+		"AbilityName": "OWHunt_World1_Skill2_AttackUp_Lv2",
+		"AbilityParams": [],
+		"DataImpl": {},
+		"TalentID": 1002,
+		"TalentLevel": 2
+	},
+	{
+		"TalentIconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Kill",
+		"PreTalent": [],
+		"MapID": 901,
+		"TalentUpgradeCost": [
+			{
+				"TalentUpgradeCostMaterial": 118941,
+				"TalentUpgradeCostNum": 8
+			}
+		],
+		"TalentUpgradePremise": 0,
+		"TalentName": {
+			"hash": -1828045886
+		},
+		"TalentDes": {
+			"hash": -501328087
+		},
+		"NextLevelDes": {
+			"hash": 1013015734
+		},
+		"AbilityName": "OWHunt_World1_Skill2_AttackUp_Lv3",
+		"AbilityParams": [],
+		"DataImpl": {},
+		"TalentID": 1002,
+		"TalentLevel": 3
+	},
+	{
+		"TalentIconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_ShieldUp",
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 1002
+			}
+		],
+		"MapID": 901,
+		"TalentUpgradeCost": [
+			{
+				"TalentUpgradeCostMaterial": 118941,
+				"TalentUpgradeCostNum": 4
+			}
+		],
+		"TalentUpgradePremise": 0,
+		"TalentName": {
+			"hash": -1828047807
+		},
+		"TalentDes": {
+			"hash": -501330008
+		},
+		"NextLevelDes": {
+			"hash": 1013013813
+		},
+		"AbilityName": "OWHunt_World1_Skill3_DefendUp_Lv1",
+		"AbilityParams": [],
+		"DataImpl": {},
+		"TalentID": 1003,
+		"TalentLevel": 1
+	},
+	{
+		"TalentIconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_ShieldUp",
+		"PreTalent": [],
+		"MapID": 901,
+		"TalentUpgradeCost": [
+			{
+				"TalentUpgradeCostMaterial": 118941,
+				"TalentUpgradeCostNum": 4
+			}
+		],
+		"TalentUpgradePremise": 0,
+		"TalentName": {
+			"hash": -1828046846
+		},
+		"TalentDes": {
+			"hash": -501329047
+		},
+		"NextLevelDes": {
+			"hash": 1013014774
+		},
+		"AbilityName": "OWHunt_World1_Skill3_DefendUp_Lv2",
+		"AbilityParams": [],
+		"DataImpl": {},
+		"TalentID": 1003,
+		"TalentLevel": 2
+	},
+	{
+		"TalentIconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_ShieldUp",
+		"PreTalent": [],
+		"MapID": 901,
+		"TalentUpgradeCost": [
+			{
+				"TalentUpgradeCostMaterial": 118941,
+				"TalentUpgradeCostNum": 8
+			}
+		],
+		"TalentUpgradePremise": 0,
+		"TalentName": {
+			"hash": -1828045885
+		},
+		"TalentDes": {
+			"hash": -501328086
+		},
+		"NextLevelDes": {
+			"hash": 1013015735
+		},
+		"AbilityName": "OWHunt_World1_Skill3_DefendUp_Lv3",
+		"AbilityParams": [],
+		"DataImpl": {},
+		"TalentID": 1003,
+		"TalentLevel": 3
+	},
+	{
+		"TalentIconPath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit2",
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 1003
+			}
+		],
+		"MapID": 901,
+		"TalentUpgradeCost": [
+			{
+				"TalentUpgradeCostMaterial": 118941,
+				"TalentUpgradeCostNum": 4
+			}
+		],
+		"TalentUpgradePremise": 0,
+		"TalentName": {
+			"hash": -1828047806
+		},
+		"TalentDes": {
+			"hash": -501330007
+		},
+		"NextLevelDes": {
+			"hash": 1013013814
+		},
+		"AbilityName": "OWHunt_World1_Skill4_AfterKill_Lv1",
+		"AbilityParams": [],
+		"DataImpl": {},
+		"TalentID": 1004,
+		"TalentLevel": 1
+	},
+	{
+		"TalentIconPath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit2",
+		"PreTalent": [],
+		"MapID": 901,
+		"TalentUpgradeCost": [
+			{
+				"TalentUpgradeCostMaterial": 118941,
+				"TalentUpgradeCostNum": 4
+			}
+		],
+		"TalentUpgradePremise": 0,
+		"TalentName": {
+			"hash": -1828046845
+		},
+		"TalentDes": {
+			"hash": -501329046
+		},
+		"NextLevelDes": {
+			"hash": 1013014775
+		},
+		"AbilityName": "OWHunt_World1_Skill4_AfterKill_Lv2",
+		"AbilityParams": [],
+		"DataImpl": {},
+		"TalentID": 1004,
+		"TalentLevel": 2
+	},
+	{
+		"TalentIconPath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit2",
+		"PreTalent": [],
+		"MapID": 901,
+		"TalentUpgradeCost": [
+			{
+				"TalentUpgradeCostMaterial": 118941,
+				"TalentUpgradeCostNum": 8
+			}
+		],
+		"TalentUpgradePremise": 0,
+		"TalentName": {
+			"hash": -1828045884
+		},
+		"TalentDes": {
+			"hash": -501328085
+		},
+		"NextLevelDes": {
+			"hash": 1013015736
+		},
+		"AbilityName": "OWHunt_World1_Skill4_AfterKill_Lv3",
+		"AbilityParams": [],
+		"DataImpl": {},
+		"TalentID": 1004,
+		"TalentLevel": 3
+	},
+	{
+		"TalentIconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Ice",
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 1004
+			}
+		],
+		"MapID": 901,
+		"TalentUpgradeCost": [
+			{
+				"TalentUpgradeCostMaterial": 118941,
+				"TalentUpgradeCostNum": 4
+			}
+		],
+		"TalentUpgradePremise": 0,
+		"TalentName": {
+			"hash": -1828047805
+		},
+		"TalentDes": {
+			"hash": -501330006
+		},
+		"NextLevelDes": {
+			"hash": 1013013815
+		},
+		"AbilityName": "OWHunt_World1_Skill5_FrozenUp_Lv1",
+		"AbilityParams": [],
+		"DataImpl": {},
+		"TalentID": 1005,
+		"TalentLevel": 1
+	},
+	{
+		"TalentIconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Ice",
+		"PreTalent": [],
+		"MapID": 901,
+		"TalentUpgradeCost": [
+			{
+				"TalentUpgradeCostMaterial": 118941,
+				"TalentUpgradeCostNum": 4
+			}
+		],
+		"TalentUpgradePremise": 0,
+		"TalentName": {
+			"hash": -1828046844
+		},
+		"TalentDes": {
+			"hash": -501329045
+		},
+		"NextLevelDes": {
+			"hash": 1013014776
+		},
+		"AbilityName": "OWHunt_World1_Skill5_FrozenUp_Lv2",
+		"AbilityParams": [],
+		"DataImpl": {},
+		"TalentID": 1005,
+		"TalentLevel": 2
+	},
+	{
+		"TalentIconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Ice",
+		"PreTalent": [],
+		"MapID": 901,
+		"TalentUpgradeCost": [
+			{
+				"TalentUpgradeCostMaterial": 118941,
+				"TalentUpgradeCostNum": 8
+			}
+		],
+		"TalentUpgradePremise": 0,
+		"TalentName": {
+			"hash": -1828045883
+		},
+		"TalentDes": {
+			"hash": -501328084
+		},
+		"NextLevelDes": {
+			"hash": 1013015737
+		},
+		"AbilityName": "OWHunt_World1_Skill5_FrozenUp_Lv3",
+		"AbilityParams": [],
+		"DataImpl": {},
+		"TalentID": 1005,
+		"TalentLevel": 3
+	},
+	{
+		"TalentIconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Mei_20328",
+		"PreTalent": [],
+		"MapID": 903,
+		"TalentUpgradeCost": [
+			{
+				"TalentUpgradeCostMaterial": 118941,
+				"TalentUpgradeCostNum": 1
+			}
+		],
+		"TalentUpgradePremise": 0,
+		"TalentName": {
+			"hash": -834907182
+		},
+		"TalentDes": {
+			"hash": 1638638923
+		},
+		"NextLevelDes": {
+			"hash": 1338657118
+		},
+		"AbilityName": "OWHunt_World3_Skill1_Lv1",
+		"AbilityParams": [],
+		"DataImpl": {},
+		"TalentID": 1006,
+		"TalentLevel": 1
+	},
+	{
+		"TalentIconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Mei_20328",
+		"PreTalent": [],
+		"MapID": 903,
+		"TalentUpgradeCost": [
+			{
+				"TalentUpgradeCostMaterial": 118941,
+				"TalentUpgradeCostNum": 18
+			}
+		],
+		"TalentUpgradePremise": 0,
+		"TalentName": {
+			"hash": -834877391
+		},
+		"TalentDes": {
+			"hash": 1638668714
+		},
+		"NextLevelDes": {
+			"hash": 1338686909
+		},
+		"AbilityName": "OWHunt_World3_Skill1_Lv2",
+		"AbilityParams": [],
+		"DataImpl": {},
+		"TalentID": 1006,
+		"TalentLevel": 2
+	},
+	{
+		"TalentIconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Mei_20328",
+		"PreTalent": [],
+		"MapID": 903,
+		"TalentUpgradeCost": [
+			{
+				"TalentUpgradeCostMaterial": 118941,
+				"TalentUpgradeCostNum": 30
+			}
+		],
+		"TalentUpgradePremise": 0,
+		"TalentName": {
+			"hash": -834847600
+		},
+		"TalentDes": {
+			"hash": 1638698505
+		},
+		"NextLevelDes": {
+			"hash": 1338716700
+		},
+		"AbilityName": "OWHunt_World3_Skill1_Lv3",
+		"AbilityParams": [],
+		"DataImpl": {},
+		"TalentID": 1006,
+		"TalentLevel": 3
+	},
+	{
+		"TalentIconPath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit1",
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 1006
+			}
+		],
+		"MapID": 903,
+		"TalentUpgradeCost": [
+			{
+				"TalentUpgradeCostMaterial": 118941,
+				"TalentUpgradeCostNum": 12
+			}
+		],
+		"TalentUpgradePremise": 0,
+		"TalentName": {
+			"hash": -834907181
+		},
+		"TalentDes": {
+			"hash": 1638638924
+		},
+		"NextLevelDes": {
+			"hash": 1338657119
+		},
+		"AbilityName": "OWHunt_World3_Skill2_DMGUp_Lv1",
+		"AbilityParams": [],
+		"DataImpl": {},
+		"TalentID": 1007,
+		"TalentLevel": 1
+	},
+	{
+		"TalentIconPath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit1",
+		"PreTalent": [],
+		"MapID": 903,
+		"TalentUpgradeCost": [
+			{
+				"TalentUpgradeCostMaterial": 118941,
+				"TalentUpgradeCostNum": 12
+			}
+		],
+		"TalentUpgradePremise": 0,
+		"TalentName": {
+			"hash": -834877390
+		},
+		"TalentDes": {
+			"hash": 1638668715
+		},
+		"NextLevelDes": {
+			"hash": 1338686910
+		},
+		"AbilityName": "OWHunt_World3_Skill2_DMGUp_Lv2",
+		"AbilityParams": [],
+		"DataImpl": {},
+		"TalentID": 1007,
+		"TalentLevel": 2
+	},
+	{
+		"TalentIconPath": "SpriteOutput/SkillIconsInLevel/ChapterOW_UniqueSkill_Suit1",
+		"PreTalent": [],
+		"MapID": 903,
+		"TalentUpgradeCost": [
+			{
+				"TalentUpgradeCostMaterial": 118941,
+				"TalentUpgradeCostNum": 24
+			}
+		],
+		"TalentUpgradePremise": 0,
+		"TalentName": {
+			"hash": -834847599
+		},
+		"TalentDes": {
+			"hash": 1638698506
+		},
+		"NextLevelDes": {
+			"hash": 1338716701
+		},
+		"AbilityName": "OWHunt_World3_Skill2_DMGUp_Lv3",
+		"AbilityParams": [],
+		"DataImpl": {},
+		"TalentID": 1007,
+		"TalentLevel": 3
+	},
+	{
+		"TalentIconPath": "SpriteOutput/SkillIconsInLevel/EVA_Skill_Shield",
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 1007
+			}
+		],
+		"MapID": 903,
+		"TalentUpgradeCost": [
+			{
+				"TalentUpgradeCostMaterial": 118941,
+				"TalentUpgradeCostNum": 12
+			}
+		],
+		"TalentUpgradePremise": 0,
+		"TalentName": {
+			"hash": -834907180
+		},
+		"TalentDes": {
+			"hash": 1638638925
+		},
+		"NextLevelDes": {
+			"hash": 1338657120
+		},
+		"AbilityName": "OWHunt_World3_Skill3_SolidShield_Lv1",
+		"AbilityParams": [],
+		"DataImpl": {},
+		"TalentID": 1008,
+		"TalentLevel": 1
+	},
+	{
+		"TalentIconPath": "SpriteOutput/SkillIconsInLevel/EVA_Skill_Shield",
+		"PreTalent": [],
+		"MapID": 903,
+		"TalentUpgradeCost": [
+			{
+				"TalentUpgradeCostMaterial": 118941,
+				"TalentUpgradeCostNum": 12
+			}
+		],
+		"TalentUpgradePremise": 0,
+		"TalentName": {
+			"hash": -834877389
+		},
+		"TalentDes": {
+			"hash": 1638668716
+		},
+		"NextLevelDes": {
+			"hash": 1338686911
+		},
+		"AbilityName": "OWHunt_World3_Skill3_SolidShield_Lv2",
+		"AbilityParams": [],
+		"DataImpl": {},
+		"TalentID": 1008,
+		"TalentLevel": 2
+	},
+	{
+		"TalentIconPath": "SpriteOutput/SkillIconsInLevel/EVA_Skill_Shield",
+		"PreTalent": [],
+		"MapID": 903,
+		"TalentUpgradeCost": [
+			{
+				"TalentUpgradeCostMaterial": 118941,
+				"TalentUpgradeCostNum": 24
+			}
+		],
+		"TalentUpgradePremise": 0,
+		"TalentName": {
+			"hash": -834847598
+		},
+		"TalentDes": {
+			"hash": 1638698507
+		},
+		"NextLevelDes": {
+			"hash": 1338716702
+		},
+		"AbilityName": "OWHunt_World3_Skill3_SolidShield_Lv3",
+		"AbilityParams": [],
+		"DataImpl": {},
+		"TalentID": 1008,
+		"TalentLevel": 3
+	},
+	{
+		"TalentIconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Mei_Special_1",
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 1008
+			}
+		],
+		"MapID": 903,
+		"TalentUpgradeCost": [
+			{
+				"TalentUpgradeCostMaterial": 118941,
+				"TalentUpgradeCostNum": 12
+			}
+		],
+		"TalentUpgradePremise": 0,
+		"TalentName": {
+			"hash": -834907179
+		},
+		"TalentDes": {
+			"hash": 1638638926
+		},
+		"NextLevelDes": {
+			"hash": 1338657121
+		},
+		"AbilityName": "OWHunt_World3_Skill4_SSBreak_Lv1",
+		"AbilityParams": [],
+		"DataImpl": {},
+		"TalentID": 1009,
+		"TalentLevel": 1
+	},
+	{
+		"TalentIconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Mei_Special_1",
+		"PreTalent": [],
+		"MapID": 903,
+		"TalentUpgradeCost": [
+			{
+				"TalentUpgradeCostMaterial": 118941,
+				"TalentUpgradeCostNum": 12
+			}
+		],
+		"TalentUpgradePremise": 0,
+		"TalentName": {
+			"hash": -834877388
+		},
+		"TalentDes": {
+			"hash": 1638668717
+		},
+		"NextLevelDes": {
+			"hash": 1338686912
+		},
+		"AbilityName": "OWHunt_World3_Skill4_SSBreak_Lv2",
+		"AbilityParams": [],
+		"DataImpl": {},
+		"TalentID": 1009,
+		"TalentLevel": 2
+	},
+	{
+		"TalentIconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Mei_Special_1",
+		"PreTalent": [],
+		"MapID": 903,
+		"TalentUpgradeCost": [
+			{
+				"TalentUpgradeCostMaterial": 118941,
+				"TalentUpgradeCostNum": 24
+			}
+		],
+		"TalentUpgradePremise": 0,
+		"TalentName": {
+			"hash": -834847597
+		},
+		"TalentDes": {
+			"hash": 1638698508
+		},
+		"NextLevelDes": {
+			"hash": 1338716703
+		},
+		"AbilityName": "OWHunt_World3_Skill4_SSBreak_Lv3",
+		"AbilityParams": [],
+		"DataImpl": {},
+		"TalentID": 1009,
+		"TalentLevel": 3
+	},
+	{
+		"TalentIconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Paralyze",
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 1009
+			}
+		],
+		"MapID": 903,
+		"TalentUpgradeCost": [
+			{
+				"TalentUpgradeCostMaterial": 118941,
+				"TalentUpgradeCostNum": 12
+			}
+		],
+		"TalentUpgradePremise": 0,
+		"TalentName": {
+			"hash": -834907178
+		},
+		"TalentDes": {
+			"hash": 1638638927
+		},
+		"NextLevelDes": {
+			"hash": 1338657122
+		},
+		"AbilityName": "OWHunt_World3_Skill5_ParalyzeUp_Lv1",
+		"AbilityParams": [],
+		"DataImpl": {},
+		"TalentID": 1010,
+		"TalentLevel": 1
+	},
+	{
+		"TalentIconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Paralyze",
+		"PreTalent": [],
+		"MapID": 903,
+		"TalentUpgradeCost": [
+			{
+				"TalentUpgradeCostMaterial": 118941,
+				"TalentUpgradeCostNum": 12
+			}
+		],
+		"TalentUpgradePremise": 0,
+		"TalentName": {
+			"hash": -834877387
+		},
+		"TalentDes": {
+			"hash": 1638668718
+		},
+		"NextLevelDes": {
+			"hash": 1338686913
+		},
+		"AbilityName": "OWHunt_World3_Skill5_ParalyzeUp_Lv2",
+		"AbilityParams": [],
+		"DataImpl": {},
+		"TalentID": 1010,
+		"TalentLevel": 2
+	},
+	{
+		"TalentIconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Paralyze",
+		"PreTalent": [],
+		"MapID": 903,
+		"TalentUpgradeCost": [
+			{
+				"TalentUpgradeCostMaterial": 118941,
+				"TalentUpgradeCostNum": 24
+			}
+		],
+		"TalentUpgradePremise": 0,
+		"TalentName": {
+			"hash": -834847596
+		},
+		"TalentDes": {
+			"hash": 1638698509
+		},
+		"NextLevelDes": {
+			"hash": 1338716704
+		},
+		"AbilityName": "OWHunt_World3_Skill5_ParalyzeUp_Lv3",
+		"AbilityParams": [],
+		"DataImpl": {},
+		"TalentID": 1010,
+		"TalentLevel": 3
+	}
+]

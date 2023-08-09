@@ -1,0 +1,591 @@
+[
+	{
+		"MapType": 1,
+		"UnlockLv": 16,
+		"UnlockStoryId": 0,
+		"ShowTime": "",
+		"UnlockTime": "2017-04-09 04:00:00",
+		"QuestSlotNum": 5,
+		"QuestSettleType": 0,
+		"MapNameText": {
+			"hash": -1711583326
+		},
+		"MapContentText": {
+			"hash": -1566009434
+		},
+		"HpRecoverInterval": 0,
+		"HpRecoverPercent": 0,
+		"QuestMapUIManager": "SpriteOutput/OpenWorld/Map/Floor/OW_Map03_OutSide",
+		"SelectDailyQuestPage": "SpriteOutput/ChapterBg/BgPicJinjyamura01",
+		"SettlementPage": "SpriteOutput/ChapterBg/BgPicJinjyamura01",
+		"ShopOpenWorldPage": "SpriteOutput/ChapterBg/BgPicJinjyamura01",
+		"ShopTypeList": [],
+		"MapInfoText": {
+			"hash": 1470147985
+		},
+		"QuestInfoText": {
+			"hash": 1533661663
+		},
+		"MapSelectPath": "SpriteOutput/OpenWorld/PicMap/PicMapOW01",
+		"DataImpl": {},
+		"MapId": 1
+	},
+	{
+		"MapType": 1,
+		"UnlockLv": 50,
+		"UnlockStoryId": 308,
+		"ShowTime": "",
+		"UnlockTime": "2018-05-09 04:00:00",
+		"QuestSlotNum": 5,
+		"QuestSettleType": 1,
+		"MapNameText": {
+			"hash": -1711583325
+		},
+		"MapContentText": {
+			"hash": -1566009433
+		},
+		"HpRecoverInterval": 0,
+		"HpRecoverPercent": 0,
+		"QuestMapUIManager": "SpriteOutput/OpenWorld/Map/Floor/OW_Map04_OutSide",
+		"SelectDailyQuestPage": "SpriteOutput/ChapterBg/BgPicArsenal01",
+		"SettlementPage": "SpriteOutput/ChapterBg/BgPicArsenal01",
+		"ShopOpenWorldPage": "SpriteOutput/ChapterBg/BgPicArsenal01",
+		"ShopTypeList": [],
+		"MapInfoText": {
+			"hash": -1670052671
+		},
+		"QuestInfoText": {
+			"hash": 298871347
+		},
+		"MapSelectPath": "SpriteOutput/OpenWorld/PicMap/PicMapOW02",
+		"DataImpl": {},
+		"MapId": 2
+	},
+	{
+		"MapType": 2,
+		"UnlockLv": 35,
+		"UnlockStoryId": 0,
+		"ShowTime": "",
+		"UnlockTime": "2018-05-09 04:00:00",
+		"QuestSlotNum": 5,
+		"QuestSettleType": 0,
+		"MapNameText": {
+			"hash": -1711583325
+		},
+		"MapContentText": {
+			"hash": -1566009433
+		},
+		"HpRecoverInterval": 0,
+		"HpRecoverPercent": 0,
+		"QuestMapUIManager": "SpriteOutput/OpenWorld/Map/Floor/OW_Map04_OutSide",
+		"SelectDailyQuestPage": "SpriteOutput/ChapterBg/BgPicArsenal01",
+		"SettlementPage": "SpriteOutput/ChapterBg/BgPicArsenal01",
+		"ShopOpenWorldPage": "SpriteOutput/ChapterBg/BgPicArsenal01",
+		"ShopTypeList": [],
+		"MapInfoText": {
+			"hash": -1670052671
+		},
+		"QuestInfoText": {
+			"hash": 298871347
+		},
+		"MapSelectPath": "SpriteOutput/OpenWorld/PicMap/PicMapOW02",
+		"DataImpl": {},
+		"MapId": 111
+	},
+	{
+		"MapType": 2,
+		"UnlockLv": 55,
+		"UnlockStoryId": 0,
+		"ShowTime": "",
+		"UnlockTime": "2018-05-09 04:00:00",
+		"QuestSlotNum": 5,
+		"QuestSettleType": 0,
+		"MapNameText": {
+			"hash": -1711583325
+		},
+		"MapContentText": {
+			"hash": -1566009433
+		},
+		"HpRecoverInterval": 0,
+		"HpRecoverPercent": 0,
+		"QuestMapUIManager": "SpriteOutput/OpenWorld/Map/Floor/OW_Map04_OutSide",
+		"SelectDailyQuestPage": "SpriteOutput/ChapterBg/BgPicArsenal01",
+		"SettlementPage": "SpriteOutput/ChapterBg/BgPicArsenal01",
+		"ShopOpenWorldPage": "SpriteOutput/ChapterBg/BgPicArsenal01",
+		"ShopTypeList": [],
+		"MapInfoText": {
+			"hash": -1670052671
+		},
+		"QuestInfoText": {
+			"hash": 298871347
+		},
+		"MapSelectPath": "SpriteOutput/OpenWorld/PicMap/PicMapOW02",
+		"DataImpl": {},
+		"MapId": 112
+	},
+	{
+		"MapType": 2,
+		"UnlockLv": 71,
+		"UnlockStoryId": 0,
+		"ShowTime": "",
+		"UnlockTime": "2018-05-09 04:00:00",
+		"QuestSlotNum": 5,
+		"QuestSettleType": 0,
+		"MapNameText": {
+			"hash": -1711583325
+		},
+		"MapContentText": {
+			"hash": -1566009433
+		},
+		"HpRecoverInterval": 0,
+		"HpRecoverPercent": 0,
+		"QuestMapUIManager": "SpriteOutput/OpenWorld/Map/Floor/OW_Map04_OutSide",
+		"SelectDailyQuestPage": "SpriteOutput/ChapterBg/BgPicArsenal01",
+		"SettlementPage": "SpriteOutput/ChapterBg/BgPicArsenal01",
+		"ShopOpenWorldPage": "SpriteOutput/ChapterBg/BgPicArsenal01",
+		"ShopTypeList": [],
+		"MapInfoText": {
+			"hash": -1670052671
+		},
+		"QuestInfoText": {
+			"hash": 298871347
+		},
+		"MapSelectPath": "SpriteOutput/OpenWorld/PicMap/PicMapOW02",
+		"DataImpl": {},
+		"MapId": 113
+	},
+	{
+		"MapType": 2,
+		"UnlockLv": 80,
+		"UnlockStoryId": 0,
+		"ShowTime": "",
+		"UnlockTime": "2018-05-09 04:00:00",
+		"QuestSlotNum": 5,
+		"QuestSettleType": 0,
+		"MapNameText": {
+			"hash": -1711583325
+		},
+		"MapContentText": {
+			"hash": -1566009433
+		},
+		"HpRecoverInterval": 0,
+		"HpRecoverPercent": 0,
+		"QuestMapUIManager": "SpriteOutput/OpenWorld/Map/Floor/OW_Map04_OutSide",
+		"SelectDailyQuestPage": "SpriteOutput/ChapterBg/BgPicArsenal01",
+		"SettlementPage": "SpriteOutput/ChapterBg/BgPicArsenal01",
+		"ShopOpenWorldPage": "SpriteOutput/ChapterBg/BgPicArsenal01",
+		"ShopTypeList": [],
+		"MapInfoText": {
+			"hash": -1670052671
+		},
+		"QuestInfoText": {
+			"hash": 298871347
+		},
+		"MapSelectPath": "SpriteOutput/OpenWorld/PicMap/PicMapOW02",
+		"DataImpl": {},
+		"MapId": 114
+	},
+	{
+		"MapType": 3,
+		"UnlockLv": 30,
+		"UnlockStoryId": 0,
+		"ShowTime": "",
+		"UnlockTime": "2018-05-09 04:00:00",
+		"QuestSlotNum": 5,
+		"QuestSettleType": 0,
+		"MapNameText": {
+			"hash": -1711583325
+		},
+		"MapContentText": {
+			"hash": -1566009433
+		},
+		"HpRecoverInterval": 0,
+		"HpRecoverPercent": 0,
+		"QuestMapUIManager": "SpriteOutput/OpenWorld/Map/Floor/OW_Map04_OutSide",
+		"SelectDailyQuestPage": "SpriteOutput/ChapterBg/BgPicArsenal01",
+		"SettlementPage": "SpriteOutput/ChapterBg/BgPicArsenal01",
+		"ShopOpenWorldPage": "SpriteOutput/ChapterBg/BgPicArsenal01",
+		"ShopTypeList": [],
+		"MapInfoText": {
+			"hash": -1670052671
+		},
+		"QuestInfoText": {
+			"hash": 298871347
+		},
+		"MapSelectPath": "SpriteOutput/OpenWorld/PicMap/PicMapOW02",
+		"DataImpl": {},
+		"MapId": 301
+	},
+	{
+		"MapType": 3,
+		"UnlockLv": 30,
+		"UnlockStoryId": 0,
+		"ShowTime": "",
+		"UnlockTime": "2018-05-09 04:00:00",
+		"QuestSlotNum": 5,
+		"QuestSettleType": 0,
+		"MapNameText": {
+			"hash": -1711583325
+		},
+		"MapContentText": {
+			"hash": -1566009433
+		},
+		"HpRecoverInterval": 0,
+		"HpRecoverPercent": 0,
+		"QuestMapUIManager": "SpriteOutput/OpenWorld/Map/Floor/OW_Map04_OutSide",
+		"SelectDailyQuestPage": "SpriteOutput/ChapterBg/BgPicArsenal01",
+		"SettlementPage": "SpriteOutput/ChapterBg/BgPicArsenal01",
+		"ShopOpenWorldPage": "SpriteOutput/ChapterBg/BgPicArsenal01",
+		"ShopTypeList": [],
+		"MapInfoText": {
+			"hash": -1670052671
+		},
+		"QuestInfoText": {
+			"hash": 298871347
+		},
+		"MapSelectPath": "SpriteOutput/OpenWorld/PicMap/PicMapOW02",
+		"DataImpl": {},
+		"MapId": 302
+	},
+	{
+		"MapType": 5,
+		"UnlockLv": 30,
+		"UnlockStoryId": 0,
+		"ShowTime": "",
+		"UnlockTime": "2018-05-09 04:00:00",
+		"QuestSlotNum": 5,
+		"QuestSettleType": 0,
+		"MapNameText": {
+			"hash": -1711583325
+		},
+		"MapContentText": {
+			"hash": -1566009433
+		},
+		"HpRecoverInterval": 0,
+		"HpRecoverPercent": 0,
+		"QuestMapUIManager": "SpriteOutput/OpenWorld/Map/Floor/OW_Map04_OutSide",
+		"SelectDailyQuestPage": "SpriteOutput/ChapterBg/BgPicArsenal01",
+		"SettlementPage": "SpriteOutput/ChapterBg/BgPicArsenal01",
+		"ShopOpenWorldPage": "SpriteOutput/ChapterBg/BgPicArsenal01",
+		"ShopTypeList": [],
+		"MapInfoText": {
+			"hash": -1670052671
+		},
+		"QuestInfoText": {
+			"hash": 298871347
+		},
+		"MapSelectPath": "SpriteOutput/OpenWorld/PicMap/PicMapOW02",
+		"DataImpl": {},
+		"MapId": 303
+	},
+	{
+		"MapType": 4,
+		"UnlockLv": 30,
+		"UnlockStoryId": 0,
+		"ShowTime": "2020-03-05 04:00:00",
+		"UnlockTime": "2020-03-09 10:00:00",
+		"QuestSlotNum": 5,
+		"QuestSettleType": 0,
+		"MapNameText": {
+			"hash": -1711583324
+		},
+		"MapContentText": {
+			"hash": -1566009432
+		},
+		"HpRecoverInterval": 180,
+		"HpRecoverPercent": 5,
+		"QuestMapUIManager": "SpriteOutput/DLC/Map/DLCMap01",
+		"SelectDailyQuestPage": "SpriteOutput/DLC/DLCSelectDailyQuestPage",
+		"SettlementPage": "SpriteOutput/ChapterBg/BgPicArsenal01",
+		"ShopOpenWorldPage": "SpriteOutput/ChapterBg/BgPicArsenal01",
+		"ShopTypeList": [],
+		"MapInfoText": {
+			"hash": -1670052670
+		},
+		"QuestInfoText": {
+			"hash": 298871348
+		},
+		"MapSelectPath": "SpriteOutput/OpenWorld/PicMap/PicMapOW03",
+		"DataImpl": {},
+		"MapId": 401
+	},
+	{
+		"MapType": 6,
+		"UnlockLv": 25,
+		"UnlockStoryId": 0,
+		"ShowTime": "2020-03-05 04:00:00",
+		"UnlockTime": "2020-03-09 10:00:00",
+		"QuestSlotNum": 4,
+		"QuestSettleType": 0,
+		"MapNameText": {
+			"hash": 140903463
+		},
+		"MapContentText": {
+			"hash": -1696507093
+		},
+		"HpRecoverInterval": 5,
+		"HpRecoverPercent": 5,
+		"QuestMapUIManager": "SpriteOutput/DLC/Map/DLCMap01",
+		"SelectDailyQuestPage": "SpriteOutput/DLC/DLCSelectDailyQuestPage",
+		"SettlementPage": "SpriteOutput/ChapterBg/BgPicArsenal01",
+		"ShopOpenWorldPage": "SpriteOutput/ChapterBg/BgPicArsenal01",
+		"ShopTypeList": [],
+		"MapInfoText": {
+			"hash": 1397156293
+		},
+		"QuestInfoText": {
+			"hash": 298871348
+		},
+		"MapSelectPath": "SpriteOutput/OpenWorld/PicMap/PicMapOW03",
+		"DataImpl": {},
+		"MapId": 501
+	},
+	{
+		"MapType": 8,
+		"UnlockLv": 30,
+		"UnlockStoryId": 0,
+		"ShowTime": "2021-12-16 04:00:00",
+		"UnlockTime": "2021-12-16 04:00:00",
+		"QuestSlotNum": 5,
+		"QuestSettleType": 0,
+		"MapNameText": {
+			"hash": 140904424
+		},
+		"MapContentText": {
+			"hash": -1696506132
+		},
+		"HpRecoverInterval": 3,
+		"HpRecoverPercent": 5,
+		"QuestMapUIManager": "SpriteOutput/DLC/Map/DLCMap01",
+		"SelectDailyQuestPage": "SpriteOutput/DLC/DLCSelectDailyQuestPage",
+		"SettlementPage": "SpriteOutput/ChapterBg/BgPicArsenal01",
+		"ShopOpenWorldPage": "SpriteOutput/ChapterBg/BgPicArsenal01",
+		"ShopTypeList": [],
+		"MapInfoText": {
+			"hash": -1670052670
+		},
+		"QuestInfoText": {
+			"hash": 298871348
+		},
+		"MapSelectPath": "SpriteOutput/OpenWorld/PicMap/PicMapOW04",
+		"DataImpl": {},
+		"MapId": 601
+	},
+	{
+		"MapType": 7,
+		"UnlockLv": 1,
+		"UnlockStoryId": 0,
+		"ShowTime": "2021-09-03 04:00:00",
+		"UnlockTime": "2021-09-03 04:00:00",
+		"QuestSlotNum": 4,
+		"QuestSettleType": 0,
+		"MapNameText": {
+			"hash": 140905385
+		},
+		"MapContentText": {
+			"hash": -1696505171
+		},
+		"HpRecoverInterval": 5,
+		"HpRecoverPercent": 5,
+		"QuestMapUIManager": "SpriteOutput/DLC/Map/DLCMap01",
+		"SelectDailyQuestPage": "SpriteOutput/DLC/DLCSelectDailyQuestPage",
+		"SettlementPage": "SpriteOutput/ChapterBg/BgPicArsenal01",
+		"ShopOpenWorldPage": "SpriteOutput/ChapterBg/BgPicArsenal01",
+		"ShopTypeList": [],
+		"MapInfoText": {
+			"hash": 1397158215
+		},
+		"QuestInfoText": {
+			"hash": 298871348
+		},
+		"MapSelectPath": "SpriteOutput/OpenWorld/PicMap/PicMapOW03",
+		"DataImpl": {},
+		"MapId": 701
+	},
+	{
+		"MapType": 7,
+		"UnlockLv": 1,
+		"UnlockStoryId": 0,
+		"ShowTime": "2021-09-03 04:00:00",
+		"UnlockTime": "2021-09-03 04:00:00",
+		"QuestSlotNum": 4,
+		"QuestSettleType": 0,
+		"MapNameText": {
+			"hash": 140906346
+		},
+		"MapContentText": {
+			"hash": -1696504210
+		},
+		"HpRecoverInterval": 5,
+		"HpRecoverPercent": 5,
+		"QuestMapUIManager": "SpriteOutput/DLC/Map/DLCMap01",
+		"SelectDailyQuestPage": "SpriteOutput/DLC/DLCSelectDailyQuestPage",
+		"SettlementPage": "SpriteOutput/ChapterBg/BgPicArsenal01",
+		"ShopOpenWorldPage": "SpriteOutput/ChapterBg/BgPicArsenal01",
+		"ShopTypeList": [],
+		"MapInfoText": {
+			"hash": 1397159176
+		},
+		"QuestInfoText": {
+			"hash": 298871348
+		},
+		"MapSelectPath": "SpriteOutput/OpenWorld/PicMap/PicMapOW03",
+		"DataImpl": {},
+		"MapId": 801
+	},
+	{
+		"MapType": 9,
+		"UnlockLv": 25,
+		"UnlockStoryId": 0,
+		"ShowTime": "2022-06-02 04:00:00",
+		"UnlockTime": "2022-06-02 04:00:00",
+		"QuestSlotNum": 3,
+		"QuestSettleType": 0,
+		"MapNameText": {
+			"hash": 1622628810
+		},
+		"MapContentText": {
+			"hash": 1622628810
+		},
+		"HpRecoverInterval": 10,
+		"HpRecoverPercent": 1,
+		"QuestMapUIManager": "SpriteOutput/DLC/Map/DLCMap01",
+		"SelectDailyQuestPage": "SpriteOutput/DLC/DLCSelectDailyQuestPage",
+		"SettlementPage": "SpriteOutput/ChapterBg/BgPicArsenal01",
+		"ShopOpenWorldPage": "SpriteOutput/ChapterBg/BgPicArsenal01",
+		"ShopTypeList": [],
+		"MapInfoText": {
+			"hash": 1397158215
+		},
+		"QuestInfoText": {
+			"hash": 298871348
+		},
+		"MapSelectPath": "SpriteOutput/OpenWorld/PicMap/PicMapOW03",
+		"DataImpl": {},
+		"MapId": 901
+	},
+	{
+		"MapType": 9,
+		"UnlockLv": 25,
+		"UnlockStoryId": 0,
+		"ShowTime": "2022-04-07 04:00:00",
+		"UnlockTime": "2022-04-23 04:00:00",
+		"QuestSlotNum": 3,
+		"QuestSettleType": 0,
+		"MapNameText": {
+			"hash": -1784834805
+		},
+		"MapContentText": {
+			"hash": -1784834805
+		},
+		"HpRecoverInterval": 10,
+		"HpRecoverPercent": 1,
+		"QuestMapUIManager": "SpriteOutput/DLC/Map/DLCMap01",
+		"SelectDailyQuestPage": "SpriteOutput/DLC/DLCSelectDailyQuestPage",
+		"SettlementPage": "SpriteOutput/ChapterBg/BgPicArsenal01",
+		"ShopOpenWorldPage": "SpriteOutput/ChapterBg/BgPicArsenal01",
+		"ShopTypeList": [],
+		"MapInfoText": {
+			"hash": 1397158215
+		},
+		"QuestInfoText": {
+			"hash": 298871348
+		},
+		"MapSelectPath": "SpriteOutput/OpenWorld/PicMap/PicMapOW03",
+		"DataImpl": {},
+		"MapId": 902
+	},
+	{
+		"MapType": 9,
+		"UnlockLv": 25,
+		"UnlockStoryId": 0,
+		"ShowTime": "2022-06-02 04:00:00",
+		"UnlockTime": "2022-06-07 04:00:00",
+		"QuestSlotNum": 3,
+		"QuestSettleType": 0,
+		"MapNameText": {
+			"hash": -897331124
+		},
+		"MapContentText": {
+			"hash": -897331124
+		},
+		"HpRecoverInterval": 10,
+		"HpRecoverPercent": 1,
+		"QuestMapUIManager": "SpriteOutput/DLC/Map/DLCMap01",
+		"SelectDailyQuestPage": "SpriteOutput/DLC/DLCSelectDailyQuestPage",
+		"SettlementPage": "SpriteOutput/ChapterBg/BgPicArsenal01",
+		"ShopOpenWorldPage": "SpriteOutput/ChapterBg/BgPicArsenal01",
+		"ShopTypeList": [],
+		"MapInfoText": {
+			"hash": 1397158215
+		},
+		"QuestInfoText": {
+			"hash": 298871348
+		},
+		"MapSelectPath": "SpriteOutput/OpenWorld/PicMap/PicMapOW03",
+		"DataImpl": {},
+		"MapId": 903
+	},
+	{
+		"MapType": 7,
+		"UnlockLv": 1,
+		"UnlockStoryId": 0,
+		"ShowTime": "2021-09-03 04:00:00",
+		"UnlockTime": "2021-09-03 04:00:00",
+		"QuestSlotNum": 4,
+		"QuestSettleType": 0,
+		"MapNameText": {
+			"hash": 72920911
+		},
+		"MapContentText": {
+			"hash": -1052231477
+		},
+		"HpRecoverInterval": 5,
+		"HpRecoverPercent": 5,
+		"QuestMapUIManager": "SpriteOutput/DLC/Map/DLCMap01",
+		"SelectDailyQuestPage": "SpriteOutput/DLC/DLCSelectDailyQuestPage",
+		"SettlementPage": "SpriteOutput/ChapterBg/BgPicArsenal01",
+		"ShopOpenWorldPage": "SpriteOutput/ChapterBg/BgPicArsenal01",
+		"ShopTypeList": [],
+		"MapInfoText": {
+			"hash": 362052977
+		},
+		"QuestInfoText": {
+			"hash": 298871348
+		},
+		"MapSelectPath": "SpriteOutput/OpenWorld/PicMap/PicMapOW03",
+		"DataImpl": {},
+		"MapId": 1001
+	},
+	{
+		"MapType": 10,
+		"UnlockLv": 1,
+		"UnlockStoryId": 0,
+		"ShowTime": "2021-09-03 04:00:00",
+		"UnlockTime": "2021-09-03 04:00:00",
+		"QuestSlotNum": 4,
+		"QuestSettleType": 0,
+		"MapNameText": {
+			"hash": 72950702
+		},
+		"MapContentText": {
+			"hash": -1052201686
+		},
+		"HpRecoverInterval": 1,
+		"HpRecoverPercent": 5,
+		"QuestMapUIManager": "SpriteOutput/DLC/Map/DLCMap01",
+		"SelectDailyQuestPage": "SpriteOutput/DLC/DLCSelectDailyQuestPage",
+		"SettlementPage": "SpriteOutput/ChapterBg/BgPicArsenal01",
+		"ShopOpenWorldPage": "SpriteOutput/ChapterBg/BgPicArsenal01",
+		"ShopTypeList": [],
+		"MapInfoText": {
+			"hash": 362082768
+		},
+		"QuestInfoText": {
+			"hash": 298871348
+		},
+		"MapSelectPath": "SpriteOutput/OpenWorld/PicMap/PicMapOW03",
+		"DataImpl": {},
+		"MapId": 2001
+	}
+]

@@ -1,0 +1,66 @@
+[
+	{
+		"MapID": 903,
+		"TextmapName": {
+			"hash": -1103511963
+		},
+		"TextmapDesc": {
+			"hash": -1385932565
+		},
+		"SpawnPointName": "Born_01",
+		"FuncParam": [
+			"Teleport",
+			"Born_01"
+		],
+		"DataImpl": {},
+		"TeleportID": 1
+	},
+	{
+		"MapID": 903,
+		"TextmapName": {
+			"hash": -1103511962
+		},
+		"TextmapDesc": {
+			"hash": -1385932564
+		},
+		"SpawnPointName": "Born_02",
+		"FuncParam": [
+			"Teleport",
+			"Born_02"
+		],
+		"DataImpl": {},
+		"TeleportID": 2
+	},
+	{
+		"MapID": 903,
+		"TextmapName": {
+			"hash": -1103511961
+		},
+		"TextmapDesc": {
+			"hash": -1385932563
+		},
+		"SpawnPointName": "Born_03",
+		"FuncParam": [
+			"Teleport",
+			"Born_03"
+		],
+		"DataImpl": {},
+		"TeleportID": 3
+	},
+	{
+		"MapID": 901,
+		"TextmapName": {
+			"hash": -1103511960
+		},
+		"TextmapDesc": {
+			"hash": -1385932562
+		},
+		"SpawnPointName": "Born",
+		"FuncParam": [
+			"Teleport",
+			"Born"
+		],
+		"DataImpl": {},
+		"TeleportID": 4
+	}
+]

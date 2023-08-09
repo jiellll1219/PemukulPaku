@@ -1,0 +1,72 @@
+[
+	{
+		"grids": 10,
+		"officerNum": 2,
+		"ContactNum": 4,
+		"HangarNum": 1,
+		"BossNum": 1,
+		"workshopNum": 1,
+		"exchequerNum": 2,
+		"costFund": 0,
+		"requirePopl": 0,
+		"costTime": 0,
+		"DataImpl": {},
+		"level": 1
+	},
+	{
+		"grids": 16,
+		"officerNum": 3,
+		"ContactNum": 6,
+		"HangarNum": 1,
+		"BossNum": 1,
+		"workshopNum": 1,
+		"exchequerNum": 4,
+		"costFund": 12000,
+		"requirePopl": 6000,
+		"costTime": 10800,
+		"DataImpl": {},
+		"level": 2
+	},
+	{
+		"grids": 22,
+		"officerNum": 4,
+		"ContactNum": 9,
+		"HangarNum": 1,
+		"BossNum": 1,
+		"workshopNum": 1,
+		"exchequerNum": 6,
+		"costFund": 90000,
+		"requirePopl": 50000,
+		"costTime": 21600,
+		"DataImpl": {},
+		"level": 3
+	},
+	{
+		"grids": 28,
+		"officerNum": 5,
+		"ContactNum": 12,
+		"HangarNum": 1,
+		"BossNum": 1,
+		"workshopNum": 1,
+		"exchequerNum": 8,
+		"costFund": 350000,
+		"requirePopl": 210000,
+		"costTime": 43200,
+		"DataImpl": {},
+		"level": 4
+	},
+	{
+		"grids": 34,
+		"officerNum": 6,
+		"ContactNum": 15,
+		"HangarNum": 1,
+		"BossNum": 1,
+		"workshopNum": 1,
+		"exchequerNum": 10,
+		"costFund": 750000,
+		"requirePopl": 450000,
+		"costTime": 43200,
+		"DataImpl": {},
+		"level": 5
+	}
+]

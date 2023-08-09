@@ -1,0 +1,91 @@
+[
+	{
+		"DisplayTextID": {
+			"hash": -1301277503
+		},
+		"DeviceWhiteList": [
+			"PASSALL"
+		],
+		"GraphicsDeviceWhiteList": [
+			"PASSALL"
+		],
+		"DeviceBlackList": [],
+		"DataImpl": {},
+		"TargetFPS": 30
+	},
+	{
+		"DisplayTextID": {
+			"hash": -1301277410
+		},
+		"DeviceWhiteList": [
+			"PASSALL"
+		],
+		"GraphicsDeviceWhiteList": [
+			"PASSALL"
+		],
+		"DeviceBlackList": [],
+		"DataImpl": {},
+		"TargetFPS": 60
+	},
+	{
+		"DisplayTextID": {
+			"hash": -1301277317
+		},
+		"DeviceWhiteList": [
+			"PC",
+			"XIAOMIM2012K10C_MALI-G77MC9",
+			"IPHONE14@2_APPLEA15GPU",
+			"IPHONE14@3_APPLEA15GPU",
+			"LENOVOLENOVOL71061_ADRENO(TM)730",
+			"ASUSASUS_I005D_ADRENO(TM)660",
+			"ASUSASUS_I005DA_ADRENO(TM)660",
+			"ASUSASUS_I005DB_ADRENO(TM)660",
+			"ASUSASUS_I005DC_ADRENO(TM)660",
+			"ASUSZS673KS_ADRENO(TM)660",
+			"LENOVOLENOVOL70081_ADRENO(TM)660",
+			"XIAOMI21121210G_ADRENO(TM)730",
+			"ASUS_AI2203_A_MALI-G710MC10",
+			"ASUS_AI2203_B_MALI-G710MC10",
+			"ASUS_AI2203_C_MALI-G710MC10",
+			"ASUS_AI2203_D_MALI-G710MC10",
+			"ASUSASUS_AI2201_A_ADRENO(TM)730",
+			"ASUSASUS_AI2201_B_ADRENO(TM)730",
+			"ASUSASUS_AI2201_C_ADRENO(TM)730",
+			"ASUSASUS_AI2201_D_ADRENO(TM)730",
+			"ASUSASUS_AI2201_F_ADRENO(TM)730",
+			"ASUSASUS_AI2201_ADRENO(TM)730"
+		],
+		"GraphicsDeviceWhiteList": [
+			"ADRENO(TM)640",
+			"ADRENO(TM)650",
+			"ADRENO(TM)660",
+			"ADRENO(TM)730",
+			"APPLEA15GPU",
+			"APPLEM1GPU",
+			"MALI-G710MC10",
+			"ADRENO(TM)740",
+			"MALI-G710MC10",
+			"MALI-G610MC6",
+			"MALI-G715-IMMORTALISMC11"
+		],
+		"DeviceBlackList": [],
+		"DataImpl": {},
+		"TargetFPS": 90
+	},
+	{
+		"DisplayTextID": {
+			"hash": -1684898741
+		},
+		"DeviceWhiteList": [
+			"PC",
+			"IPHONE14@2_APPLEA15GPU",
+			"IPHONE14@3_APPLEA15GPU"
+		],
+		"GraphicsDeviceWhiteList": [
+			"APPLEM1GPU"
+		],
+		"DeviceBlackList": [],
+		"DataImpl": {},
+		"TargetFPS": 120
+	}
+]

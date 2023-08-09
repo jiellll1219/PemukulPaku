@@ -1,0 +1,3044 @@
+[
+	{
+		"MailSender": "${Mail_Sen_Name_AI}",
+		"MailTitle": "${Mail_Invite_Title}",
+		"MailContent": "${Mail_Invite_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 1001
+	},
+	{
+		"MailSender": "${Mail_Sen_Name_AI}",
+		"MailTitle": "${Mail_Invitee_Title}",
+		"MailContent": "${Mail_Invitee_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 1002
+	},
+	{
+		"MailSender": "${Mail_Sen_Name_AI}",
+		"MailTitle": "${Mail_Invite_Activity_Title}",
+		"MailContent": "${Mail_Invite_Activity_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 1003
+	},
+	{
+		"MailSender": "${ArmadaMail_BeKicked_Sender}",
+		"MailTitle": "${ArmadaMail_BeKicked_Title}",
+		"MailContent": "${ArmadaMail_BeKicked_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 2001
+	},
+	{
+		"MailSender": "${ArmadaMail_Disband_Sender}",
+		"MailTitle": "${ArmadaMail_Disband_Title}",
+		"MailContent": "${ArmadaMail_Disband_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 2002
+	},
+	{
+		"MailSender": "${MAIL_RECLAIM_RANKING_REWARD_Sender}",
+		"MailTitle": "${MAIL_RECLAIM_RANKING_REWARD_Title}",
+		"MailContent": "${MAIL_RECLAIM_RANKING_REWARD_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 2017
+	},
+	{
+		"MailSender": "${Season_Rank_Reward_Sender}",
+		"MailTitle": "${Season_Rank_Reward_Title}",
+		"MailContent": "${Season_Rank_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 2018
+	},
+	{
+		"MailSender": "${MAIL_MainStory_Compensate_Sender}",
+		"MailTitle": "${MAIL_MainStory_Compensate_Title}",
+		"MailContent": "${MAIL_MainStory_Compensate_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 2021
+	},
+	{
+		"MailSender": "${MAIL_MainStory_Compensate_Avatar_Sender}",
+		"MailTitle": "${MAIL_MainStory_Compensate_Avatar_Title}",
+		"MailContent": "${MAIL_MainStory_Compensate_Avatar_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 2022
+	},
+	{
+		"MailSender": "${MAIL_Raid_Compensate_Sender}",
+		"MailTitle": "${MAIL_Raid_Compensate_Title}",
+		"MailContent": "${MAIL_Raid_Compensate_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 2023
+	},
+	{
+		"MailSender": "${MAIL_Raid_Compensate_Sender}",
+		"MailTitle": "${MAIL_Raid_Compensate_Title_1}",
+		"MailContent": "${MAIL_Raid_Compensate_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 2024
+	},
+	{
+		"MailSender": "${MAIL_Raid_Compensate_Sender}",
+		"MailTitle": "${MAIL_Raid_Compensate_Title_2}",
+		"MailContent": "${MAIL_Raid_Compensate_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 2025
+	},
+	{
+		"MailSender": "${MAIL_Raid_Compensate_Sender}",
+		"MailTitle": "${MAIL_Raid_Compensate_Title_3}",
+		"MailContent": "${MAIL_Raid_Compensate_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 2026
+	},
+	{
+		"MailSender": "${MAIL_Raid_Compensate_Sender}",
+		"MailTitle": "${MAIL_Raid_Compensate_Title_4}",
+		"MailContent": "${MAIL_Raid_Compensate_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 2027
+	},
+	{
+		"MailSender": "${MAIL_Raid_Compensate_Sender}",
+		"MailTitle": "${MAIL_Raid_Compensate_Title}",
+		"MailContent": "${MAIL_Raid_Compensate_Content_1}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 2028
+	},
+	{
+		"MailSender": "${MAIL_RECLAIM_RANKING_REWARD_Sender02}",
+		"MailTitle": "${MAIL_RECLAIM_RANKING_REWARD_Title02}",
+		"MailContent": "${MAIL_RECLAIM_RANKING_REWARD_Content02}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 2029
+	},
+	{
+		"MailSender": "${MAIL_ARMADA_CHANGE_NAME_Sender}",
+		"MailTitle": "${MAIL_ARMADA_CHANGE_NAME_Title}",
+		"MailContent": "${MAIL_ARMADA_CHANGE_NAME_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 2101
+	},
+	{
+		"MailSender": "${MAIL_ARMADA_LEADER_OFFLINE_NOTICE_Sender}",
+		"MailTitle": "${MAIL_ARMADA_LEADER_OFFLINE_NOTICE_Title}",
+		"MailContent": "${MAIL_ARMADA_LEADER_OFFLINE_NOTICE_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 2102
+	},
+	{
+		"MailSender": "${MAIL_ARMADA_IMPEACH_LEADER_START_Sender}",
+		"MailTitle": "${MAIL_ARMADA_IMPEACH_LEADER_START_Title}",
+		"MailContent": "${MAIL_ARMADA_IMPEACH_LEADER_START_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 2103
+	},
+	{
+		"MailSender": "${MAIL_ARMADA_IMPEACH_LEADER_SUCCESS_Sender}",
+		"MailTitle": "${MAIL_ARMADA_IMPEACH_LEADER_SUCCESS_Title}",
+		"MailContent": "${MAIL_ARMADA_IMPEACH_LEADER_SUCCESS_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 2104
+	},
+	{
+		"MailSender": "${MAIL_ARMADA_IMPEACH_LEADER_FAIL_Sender}",
+		"MailTitle": "${MAIL_ARMADA_IMPEACH_LEADER_FAIL_Title}",
+		"MailContent": "${MAIL_ARMADA_IMPEACH_LEADER_FAIL_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 2105
+	},
+	{
+		"MailSender": "${MAIL_ARMADA_IMPEACH_LEADER_CANCEL_Sender}",
+		"MailTitle": "${MAIL_ARMADA_IMPEACH_LEADER_CANCEL_Title}",
+		"MailContent": "${MAIL_ARMADA_IMPEACH_LEADER_CANCEL_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 2106
+	},
+	{
+		"MailSender": "${MP_Newbie_Sender}",
+		"MailTitle": "${MP_Newbie_Title}",
+		"MailContent": "${MP_Newbie_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 3001
+	},
+	{
+		"MailSender": "${MP_Report_Sender}",
+		"MailTitle": "${MP_Report_Title}",
+		"MailContent": "${MP_Report_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 3002
+	},
+	{
+		"MailSender": "${Gratuity_Battle_Reward_Sender}",
+		"MailTitle": "${Gratuity_Battle_Reward_Title}",
+		"MailContent": "${Gratuity_Battle_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 3011
+	},
+	{
+		"MailSender": "${Gratuity_Finder_Reward_Sender}",
+		"MailTitle": "${Gratuity_Finder_Reward_Title}",
+		"MailContent": "${Gratuity_Finder_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 3012
+	},
+	{
+		"MailSender": "${Mail_Sen_Name_AI}",
+		"MailTitle": "${Mail_Card_Title}",
+		"MailContent": "${Mail_Card_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 4001
+	},
+	{
+		"MailSender": "${Mail_Subs_Sender}",
+		"MailTitle": "${Mail_Subs_Reward_Title}",
+		"MailContent": "${MAIL_Subs_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 4002
+	},
+	{
+		"MailSender": "${Mail_SecurityLock_Reset_Sender}",
+		"MailTitle": "${Mail_SecurityLock_Reset_Title}",
+		"MailContent": "${Mail_SecurityLock_Reset_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 4101
+	},
+	{
+		"MailSender": "${OpenWorld_QuestWeekly_Sender}",
+		"MailTitle": "${OpenWorld_QuestWeekly_Title}",
+		"MailContent": "${OpenWorld_QuestWeekly_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 5001
+	},
+	{
+		"MailSender": "${Mail_CampWar_Reward_Sender}",
+		"MailTitle": "${CampWar_Score_Reward_Title}",
+		"MailContent": "${CampWar_Score_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6001
+	},
+	{
+		"MailSender": "${Mail_CampWar_Reward_Sender}",
+		"MailTitle": "${CampWar_Rank_Reward_Title}",
+		"MailContent": "${CampWar_Rank_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6002
+	},
+	{
+		"MailSender": "${Mail_CampWar_Reward_Sender}",
+		"MailTitle": "${CampWar_Win_Reward_Title}",
+		"MailContent": "${CampWar_Win_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6003
+	},
+	{
+		"MailSender": "${Multi_Simulation_Reward_Sender}",
+		"MailTitle": "${Multi_Simulation_Reward_Title}",
+		"MailContent": "${Multi_Simulation_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6004
+	},
+	{
+		"MailSender": "${Mail_CampWar_Reward_Sender}",
+		"MailTitle": "${CampWar_Win_Reward2_Title}",
+		"MailContent": "${CampWar_Win_Reward2_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6005
+	},
+	{
+		"MailSender": "${Mail_CampWar_Reward_Sender}",
+		"MailTitle": "${CampWar_Win_Reward3_Title}",
+		"MailContent": "${CampWar_Win_Reward3_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6006
+	},
+	{
+		"MailSender": "${Mail_CampWar_Reward_Sender}",
+		"MailTitle": "${CampWar_Rank_Reward_Title}",
+		"MailContent": "${CampWar_Rank_Per_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6007
+	},
+	{
+		"MailSender": "${Mail_Goback_Redenvelope_Reward_Sender}",
+		"MailTitle": "${Mail_Goback_Redenvelope_Reward_Title}",
+		"MailContent": "${Mail_Goback_Redenvelope_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6010
+	},
+	{
+		"MailSender": "${Mail_Goback_Redenvelope_Reward_Sender}",
+		"MailTitle": "${Mail_Goback_Redenvelope_Reward_Title}",
+		"MailContent": "${Mail_Goback_Redenvelope_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6011
+	},
+	{
+		"MailSender": "${Mail_Goback_Redenvelope_Reward_Sender}",
+		"MailTitle": "${Mail_Goback_Redenvelope_Reward_Title}",
+		"MailContent": "${Mail_Goback_Redenvelope_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6012
+	},
+	{
+		"MailSender": "${Mail_Goback_Redenvelope_Reward_Sender}",
+		"MailTitle": "${Mail_Goback_Redenvelope_Reward_Title}",
+		"MailContent": "${Mail_Goback_Redenvelope_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6013
+	},
+	{
+		"MailSender": "${Mail_Goback_Redenvelope_Reward_Sender}",
+		"MailTitle": "${Mail_Goback_Redenvelope_Reward_Title}",
+		"MailContent": "${Mail_Goback_Redenvelope_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6014
+	},
+	{
+		"MailSender": "${Mail_Goback_Redenvelope_Reward_Sender}",
+		"MailTitle": "${Mail_Goback_Redenvelope_Reward_Title}",
+		"MailContent": "${Mail_Goback_Redenvelope_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6015
+	},
+	{
+		"MailSender": "${Mail_Goback_Redenvelope_Reward_Sender}",
+		"MailTitle": "${Mail_Goback_Redenvelope_Reward_Title}",
+		"MailContent": "${Mail_Goback_Redenvelope_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6016
+	},
+	{
+		"MailSender": "${Mail_Goback_Redenvelope_Reward_Sender}",
+		"MailTitle": "${Mail_Goback_Redenvelope_Reward_Title}",
+		"MailContent": "${Mail_Goback_Redenvelope_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6017
+	},
+	{
+		"MailSender": "${Mail_ArmadaActivity_Redenvelope_Reward_Sender}",
+		"MailTitle": "${Mail_ArmadaActivity_Redenvelope_Reward_Title}",
+		"MailContent": "${Mail_ArmadaActivity_Redenvelope_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6018
+	},
+	{
+		"MailSender": "${Mail_Battle_Pass_Reward_Sender}",
+		"MailTitle": "${Mail_Battle_Pass_Reward_Title}",
+		"MailContent": "${Mail_Battle_Pass_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6020
+	},
+	{
+		"MailSender": "${Mail_Subs_Sender}",
+		"MailTitle": "${Mail_Subs_Reward_Title}",
+		"MailContent": "${MAIL_Subs_Reward_Content1}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6021
+	},
+	{
+		"MailSender": "${Mail_Subs_Sender}",
+		"MailTitle": "${Mail_Subs_Reward_Title}",
+		"MailContent": "${MAIL_Subs_Reward_Content2}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6022
+	},
+	{
+		"MailSender": "${Mail_Armada_Aichan}",
+		"MailTitle": "${Mail_Trading_Card_Activity_Return_Service_Charge_Title}",
+		"MailContent": "${Mail_Trading_Card_Activity_Return_Service_Charge_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6023
+	},
+	{
+		"MailSender": "${Mail_GlobalArmadaReunion_Compensate_Sender}",
+		"MailTitle": "${Mail_GlobalArmadaReunion_Compensate_Title}",
+		"MailContent": "${Mail_GlobalArmadaReunion_Compensate_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6024
+	},
+	{
+		"MailSender": "${Raffle_MissMail_Sender}",
+		"MailTitle": "${Raffle_MissMail_Tilte}",
+		"MailContent": "${Raffle_MissMail_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6025
+	},
+	{
+		"MailSender": "${Mail_MassiveWar_Rank_Reward_Sender}",
+		"MailTitle": "${Mail_MassiveWar_Rank_Reward_Title}",
+		"MailContent": "${Mail_MassiveWar_Rank_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6026
+	},
+	{
+		"MailSender": "${Mail_MassiveWar_Damage_Reward_Sender}",
+		"MailTitle": "${Mail_MassiveWar_Damage_Reward_Title}",
+		"MailContent": "${Mail_MassiveWar_Damage_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6027
+	},
+	{
+		"MailSender": "${Mail_Mission_Forget_Reward_Sender}",
+		"MailTitle": "${Mail_Mission_Forget_Reward_Title}",
+		"MailContent": "${Mail_Mission_Forget_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6028
+	},
+	{
+		"MailSender": "${Mail_MassiveWar_Reward_Sender}",
+		"MailTitle": "${Mail_MassiveWar_Reward_Title}",
+		"MailContent": "${Mail_MassiveWar_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6029
+	},
+	{
+		"MailSender": "${Mail_Goback_Redenvelope_Reward_Sender}",
+		"MailTitle": "${Mail_Goback_Redenvelope_Reward_Title}",
+		"MailContent": "${Mail_Goback_Redenvelope_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6030
+	},
+	{
+		"MailSender": "${Mail_Goback_Redenvelope_Reward_Sender}",
+		"MailTitle": "${Mail_Goback_Redenvelope_Reward_Title}",
+		"MailContent": "${Mail_Goback_Redenvelope_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6031
+	},
+	{
+		"MailSender": "${Mail_Goback_Redenvelope_Reward_Sender}",
+		"MailTitle": "${Mail_Goback_Redenvelope_Reward_Title}",
+		"MailContent": "${Mail_Goback_Redenvelope_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6032
+	},
+	{
+		"MailSender": "${Mail_Theme_Battle_Pass_Reward_Sender}",
+		"MailTitle": "${Mail_Theme_Battle_Pass_Reward_Title}",
+		"MailContent": "${Mail_Theme_Battle_Pass_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6033
+	},
+	{
+		"MailSender": "${Mail_UltraEndless_FirstJoin_Sender}",
+		"MailTitle": "${Mail_UltraEndless_FirstJoin_Title}",
+		"MailContent": "${Mail_UltraEndless_FirstJoin_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6034
+	},
+	{
+		"MailSender": "${Mail_LoginWishActivity_RewardForget_Sender}",
+		"MailTitle": "${Mail_LoginWishActivity_RewardForget_Title}",
+		"MailContent": "${Mail_LoginWishActivity_RewardForget_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6035
+	},
+	{
+		"MailSender": "${Mail_UltraEndless_FirstJoin_Lower_Sender}",
+		"MailTitle": "${Mail_UltraEndless_FirstJoin_Lower_Title}",
+		"MailContent": "${Mail_UltraEndless_FirstJoin_Lower_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6036
+	},
+	{
+		"MailSender": "${Mail_UltraEndless_FirstJoin_Higher_Sender}",
+		"MailTitle": "${Mail_UltraEndless_FirstJoin_Higher_Title}",
+		"MailContent": "${Mail_UltraEndless_FirstJoin_Higher_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6037
+	},
+	{
+		"MailSender": "${MAIL_RECLAIM_MSF_REWARD_Sender}",
+		"MailTitle": "${MAIL_RECLAIM_MSF_REWARD_Title}",
+		"MailContent": "${MAIL_RECLAIM_MSF_REWARD_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6038
+	},
+	{
+		"MailSender": "${Mail_Durandal_Activity_Reward_Sender}",
+		"MailTitle": "${Mail_Durandal_Activity_Reward_Title}",
+		"MailContent": "${Mail_Durandal_Activity_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6039
+	},
+	{
+		"MailSender": "${Mail_Beast_Beat_Sender}",
+		"MailTitle": "${Mail_Beast_Beat_Title}",
+		"MailContent": "${Mail_Beast_Beat_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6040
+	},
+	{
+		"MailSender": "${Mail_Birthday_Reward_Sender}",
+		"MailTitle": "${Birthday_Reward_Title}",
+		"MailContent": "${Birthday_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 1,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6101
+	},
+	{
+		"MailSender": "${Mail_GrandKeyRaid_Reward_Sender}",
+		"MailTitle": "${GrandKeyRaid_Rank_Reward_Title}",
+		"MailContent": "${GrandKeyRaid_Rank_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6201
+	},
+	{
+		"MailSender": "${Mail_GrandKeyRaid_Reward_Sender}",
+		"MailTitle": "${GrandKeyRaid_Score_Reward_Title}",
+		"MailContent": "${GrandKeyRaid_Score_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6202
+	},
+	{
+		"MailSender": "${Mail_GrandKeyRaid_Reward_Sender}",
+		"MailTitle": "${GrandKeyRaid_Special_Reward_Title}",
+		"MailContent": "${GrandKeyRaid_Special_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6203
+	},
+	{
+		"MailSender": "${Season_Rank_Reward_Sender}",
+		"MailTitle": "${Season_WeekEvent_Rank_Reward_Title}",
+		"MailContent": "${Season_WeekEvent_Rank_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6301
+	},
+	{
+		"MailSender": "${Season_Rank_Reward_Sender}",
+		"MailTitle": "${Season_Rank_Reward_Title}",
+		"MailContent": "${Season_Rank_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6302
+	},
+	{
+		"MailSender": "${Mail_Season_Score_Reward_Sender}",
+		"MailTitle": "${Mail_Season_Score_Reward_Title}",
+		"MailContent": "${MailSeason_Score_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6303
+	},
+	{
+		"MailSender": "${Mail_Sen_Name_AI}",
+		"MailTitle": "${ExtraStory_CL_Reward_Title}",
+		"MailContent": "${ExtraStory_CL_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6401
+	},
+	{
+		"MailSender": "${WorldBoss_Rank_Reward_Sender}",
+		"MailTitle": "${WorldBoss_Score_Reward_Tilte}",
+		"MailContent": "${WorldBoss_Score_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6501
+	},
+	{
+		"MailSender": "${WorldBoss_Rank_Reward_Sender}",
+		"MailTitle": "${WorldBoss_Rank_Reward_Tilte}",
+		"MailContent": "${WorldBoss_Rank_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6502
+	},
+	{
+		"MailSender": "${WorldBoss_Rank_Reward_Sender}",
+		"MailTitle": "${WorldBoss_Kill_Reward_Tilte}",
+		"MailContent": "${WorldBoss_Kill_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6503
+	},
+	{
+		"MailSender": "${HcoinGacha_Reset_Notice_Sender}",
+		"MailTitle": "${HcoinGacha_Reset_Notice_Tilte}",
+		"MailContent": "${HcoinGacha_Reset_Notice_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6601
+	},
+	{
+		"MailSender": "${MAIL_Custom_Gacha_EX_Reward_Sender}",
+		"MailTitle": "${MAIL_Custom_Gacha_EX_Reward_Title}",
+		"MailContent": "${MAIL_Custom_Gacha_EX_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6602
+	},
+	{
+		"MailSender": "${CityEvent_Sender}",
+		"MailTitle": "${CityEvent_Tilte}",
+		"MailContent": "${CityEvent_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6701
+	},
+	{
+		"MailSender": "${CoupleTower_Sender}",
+		"MailTitle": "${CoupleTower_Tilte}",
+		"MailContent": "${CoupleTower_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6801
+	},
+	{
+		"MailSender": "${weekly_report_Sender}",
+		"MailTitle": "${weekly_report_Tilte}",
+		"MailContent": "${weekly_report_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 6901
+	},
+	{
+		"MailSender": "${Mail_MentorSystem_Reward_Mentor_Sender}",
+		"MailTitle": "${Mail_MentorSystem_Reward_Mentor_Title}",
+		"MailContent": "${Mail_MentorSystem_Reward_Mentor_Content_1}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7001
+	},
+	{
+		"MailSender": "${Mail_MentorSystem_Reward_Mentor_Sender}",
+		"MailTitle": "${Mail_MentorSystem_Reward_Mentor_Title}",
+		"MailContent": "${Mail_MentorSystem_Reward_Mentor_Content_2}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7002
+	},
+	{
+		"MailSender": "${Mail_MentorSystem_Reward_Mentor_Sender}",
+		"MailTitle": "${Mail_MentorSystem_Reward_Mentor_Title}",
+		"MailContent": "${Mail_MentorSystem_Reward_Mentor_Content_3}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7003
+	},
+	{
+		"MailSender": "${Mail_MentorSystem_Reward_Mentor_Sender}",
+		"MailTitle": "${Mail_MentorSystem_Reward_Mentor_Title}",
+		"MailContent": "${Mail_MentorSystem_Reward_Mentor_Content_4}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7004
+	},
+	{
+		"MailSender": "${Mail_MentorSystem_Reward_Student_Sender}",
+		"MailTitle": "${Mail_MentorSystem_Reward_Student_Title}",
+		"MailContent": "${Mail_MentorSystem_Reward_Student_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7005
+	},
+	{
+		"MailSender": "${Mail_MentorSystem_Dismiss_Sender}",
+		"MailTitle": "${Mail_MentorSystem_Dismiss_Title}",
+		"MailContent": "${Mail_MentorSystem_Dismiss_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7006
+	},
+	{
+		"MailSender": "${Mail_Dungeons_Unlock_Sender}",
+		"MailTitle": "${Mail_Dungeons_Unlock_Title}",
+		"MailContent": "${Mail_Dungeons_Unlock_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7011
+	},
+	{
+		"MailSender": "${Mail_ChatReport_Forbid_Sender}",
+		"MailTitle": "${Mail_ChatReport_Forbid_Title}",
+		"MailContent": "${Mail_ChatReport_Forbid_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7021
+	},
+	{
+		"MailSender": "${Mail_LevelMatrix_GetItem_Sender}",
+		"MailTitle": "${Mail_LevelMatrix_GetItem_Title}",
+		"MailContent": "${Mail_LevelMatrix_GetItem_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7101
+	},
+	{
+		"MailSender": "${Mail_ArmadaWar_GetItem_Sender}",
+		"MailTitle": "${Mail_ArmadaWar_GetItem_Title_1}",
+		"MailContent": "${Mail_ArmadaWar_GetItem_Content_1}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7102
+	},
+	{
+		"MailSender": "${Mail_ArmadaWar_GetItem_Sender}",
+		"MailTitle": "${Mail_ArmadaWar_GetItem_Title_2}",
+		"MailContent": "${Mail_ArmadaWar_GetItem_Content_2}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7103
+	},
+	{
+		"MailSender": "${Mail_ArmadaWar_GetItem_Sender}",
+		"MailTitle": "${Mail_ArmadaWar_GetItem_Title_3}",
+		"MailContent": "${Mail_ArmadaWar_GetItem_Content_3}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7104
+	},
+	{
+		"MailSender": "${Mail_ArmadaWar_GetItem_Sender}",
+		"MailTitle": "${Mail_ArmadaWar_GetItem_Title_4}",
+		"MailContent": "${Mail_ArmadaWar_GetItem_Content_4}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7105
+	},
+	{
+		"MailSender": "${Mail_ArmadaWar_GetItem_Sender}",
+		"MailTitle": "${Mail_ArmadaWar_GetItem_Title_5}",
+		"MailContent": "${Mail_ArmadaWar_GetItem_Content_5}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7106
+	},
+	{
+		"MailSender": "${Mail_ArmadaWar_GetItem_Sender}",
+		"MailTitle": "${Mail_ArmadaWar_GetItem_Title_6}",
+		"MailContent": "${Mail_ArmadaWar_GetItem_Content_6}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7107
+	},
+	{
+		"MailSender": "${Mail_ArmadaWar_GetItem_Sender}",
+		"MailTitle": "${Mail_ArmadaWar_GetItem_Title_7}",
+		"MailContent": "${Mail_ArmadaWar_GetItem_Content_7}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7108
+	},
+	{
+		"MailSender": "${Mail_ArmadaWar_GetItem_Sender}",
+		"MailTitle": "${Mail_Armada_Enter_Armada_At_First_Time_Title}",
+		"MailContent": "${Mail_Armada_Enter_Armada_At_First_Time_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7109
+	},
+	{
+		"MailSender": "${Mail_LimitedRecharge_Reward_Sender}",
+		"MailTitle": "${Mail_LimitedRecharge_Reward_Tilte}",
+		"MailContent": "${Mail_LimitedRecharge_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7201
+	},
+	{
+		"MailSender": "${MAIL_TVT_Rank_Up_Reward_Sender}",
+		"MailTitle": "${MAIL_TVT_Rank_Up_Reward_Title}",
+		"MailContent": "${MAIL_TVT_Rank_Up_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7202
+	},
+	{
+		"MailSender": "${MAIL_TVT_Seasonoff_Reward_Sender}",
+		"MailTitle": "${MAIL_TVT_Seasonoff_Reward_Title}",
+		"MailContent": "${MAIL_TVT_Seasonoff_Reward_Content2}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7203
+	},
+	{
+		"MailSender": "${MAIL_TVT_Seasonoff_Reward_Sender}",
+		"MailTitle": "${MAIL_TVT_Seasonoff_Reward_Title}",
+		"MailContent": "${MAIL_TVT_Seasonoff_Reward_Content3}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7204
+	},
+	{
+		"MailSender": "${MAIL_TVT_Seasonoff_Reward_Sender}",
+		"MailTitle": "${MAIL_TVT_Seasonoff_Reward_Title}",
+		"MailContent": "${MAIL_TVT_Seasonoff_Reward_Content4}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7205
+	},
+	{
+		"MailSender": "${MAIL_TVT_Seasonoff_Reward_Sender}",
+		"MailTitle": "${MAIL_TVT_Seasonoff_Reward_Title}",
+		"MailContent": "${MAIL_TVT_Seasonoff_Reward_Content5}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7206
+	},
+	{
+		"MailSender": "${MAIL_TVT_Seasonoff_Reward_Sender}",
+		"MailTitle": "${MAIL_TVT_Seasonoff_Reward_Title}",
+		"MailContent": "${MAIL_TVT_Seasonoff_Reward_Content6}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7207
+	},
+	{
+		"MailSender": "${MAIL_TVT_Seasonoff_Reward_Sender}",
+		"MailTitle": "${MAIL_TVT_Seasonoff_Reward_Title}",
+		"MailContent": "${MAIL_TVT_Seasonoff_Reward_Content7}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7208
+	},
+	{
+		"MailSender": "${MAIL_CreditScore_Sender}",
+		"MailTitle": "${MAIL_CreditScore_Title_1}",
+		"MailContent": "${MAIL_CreditScore_Content_1}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7209
+	},
+	{
+		"MailSender": "${MAIL_CreditScore_Sender}",
+		"MailTitle": "${MAIL_CreditScore_Title_2}",
+		"MailContent": "${MAIL_CreditScore_Content_2}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7210
+	},
+	{
+		"MailSender": "${MAIL_CreditScore_Sender}",
+		"MailTitle": "${MAIL_CreditScore_Title_3}",
+		"MailContent": "${MAIL_CreditScore_Content_3}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7211
+	},
+	{
+		"MailSender": "${MAIL_CreditScore_Sender}",
+		"MailTitle": "${MAIL_CreditScore_Title_4}",
+		"MailContent": "${MAIL_CreditScore_Content_4}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7212
+	},
+	{
+		"MailSender": "${MAIL_KingdomsWar_Sender}",
+		"MailTitle": "${MAIL_KingdomsWar_Rank_Reward_Title}",
+		"MailContent": "${MAIL_KingdomsWar_Rank_Reward_Content",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7301
+	},
+	{
+		"MailSender": "${MAIL_KingdomsWar_Sender}",
+		"MailTitle": "${MAIL_KingdomsWar_Percent_Rank_Reward_Title}",
+		"MailContent": "${MAIL_KingdomsWar_Percent_Rank_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7302
+	},
+	{
+		"MailSender": "${MAIL_KingdomsWar_Sender}",
+		"MailTitle": "${MAIL_KingdomsWa_Score_Reward_Title}",
+		"MailContent": "${MAIL_KingdomsWar_Score_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7303
+	},
+	{
+		"MailSender": "${MAIL_KingdomsWar_Sender}",
+		"MailTitle": "${MAIL_KingdomsWa_Phase_Reward_Title}",
+		"MailContent": "${MAIL_KingdomsWar_Phase_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7304
+	},
+	{
+		"MailSender": "${Mail_LevelMatrix_Discovery_GetItem_Sender}",
+		"MailTitle": "${Mail_LevelMatrix_Discovery_GetItem_Title}",
+		"MailContent": "${Mail_LevelMatrix_Discovery_GetItem_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7305
+	},
+	{
+		"MailSender": "${Mail_WantedStage_OverdueReward_Sender}",
+		"MailTitle": "${Mail_WantedStage_OverdueReward_Title}",
+		"MailContent": "${Mail_WantedStage_OverdueReward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7401
+	},
+	{
+		"MailSender": "${Mail_MP_Raid_Reset_Mission_Reward_Sender}",
+		"MailTitle": "${Mail_MP_Raid_Reset_Mission_Reward_Title}",
+		"MailContent": "${Mail_MP_Raid_Reset_Mission_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7402
+	},
+	{
+		"MailSender": "${Mail_Goback_Redenvelope_Reward_Sender}",
+		"MailTitle": "${Mail_Goback_ChallengeWar_Reward_Title}",
+		"MailContent": "${Mail_Goback_ChallengeWar_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7403
+	},
+	{
+		"MailSender": "${Mail_CompetitionSeason_LevelReward_Sender}",
+		"MailTitle": "${Mail_CompetitionSeason_LevelReward_Title}",
+		"MailContent": "${Mail_CompetitionSeason_LevelReward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7404
+	},
+	{
+		"MailSender": "${Mail_CompetitionSeason_ActiveReward_Sender}",
+		"MailTitle": "${Mail_CompetitionSeason_ActiveReward_Title}",
+		"MailContent": "${Mail_CompetitionSeason_ActiveReward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7405
+	},
+	{
+		"MailSender": "${Mail_CompanyMissionReward_Mentor_Sender}",
+		"MailTitle": "${Mail_CompanyMissionReward_Mentor_Title}",
+		"MailContent": "${Mail_CompanyMissionReward_Mentor_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7501
+	},
+	{
+		"MailSender": "${Mail_CompanyMissionReward_Student_Sender}",
+		"MailTitle": "${Mail_CompanyMissionReward_Student_Title}",
+		"MailContent": "${Mail_CompanyMissionReward_Student_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7502
+	},
+	{
+		"MailSender": "${Mail_avatar_starup_return_Sender}",
+		"MailTitle": "${Mail_Avatar_Starup_Return_Title}",
+		"MailContent": "${Mail_Avatar_Starup_Return_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7601
+	},
+	{
+		"MailSender": "${Mail_RogueTower_ScoreReward_Sender}",
+		"MailTitle": "${Mail_RogueTower_ScoreReward_Title}",
+		"MailContent": "${Mail_RogueTower_ScoreReward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7602
+	},
+	{
+		"MailSender": "${Mail_MissionTheme_Sender}",
+		"MailTitle": "${Mail_MissionTheme_Reward_Title}",
+		"MailContent": "${Mail_MissionTheme_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7603
+	},
+	{
+		"MailSender": "${Mail_Dream_Forget_Reward_Sender}",
+		"MailTitle": "${Mail_Dream_Forget_Reward_Title}",
+		"MailContent": "${Mail_Dream_Forget_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7604
+	},
+	{
+		"MailSender": "${Mail_CaptainMatch_DailyReward_Sender}",
+		"MailTitle": "${Mail_CaptainMatch_DailyReward_Title}",
+		"MailContent": "${Mail_CaptainMatch_DailyReward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7605
+	},
+	{
+		"MailSender": "${Mail_CaptainMatch_WeeklyReward_Sender}",
+		"MailTitle": "${Mail_CaptainMatch_WeeklyReward_Title}",
+		"MailContent": "${Mail_CaptainMatch_WeeklyReward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7606
+	},
+	{
+		"MailSender": "${Mail_CaptainMatch_WeeklyReward_Sender}",
+		"MailTitle": "${Mail_CaptainMatch_WeeklyReward_Title}",
+		"MailContent": "${Mail_CaptainMatch_WeeklyReward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7607
+	},
+	{
+		"MailSender": "${Mail_SingleWanted_WeeklyReward_Sender}",
+		"MailTitle": "${Mail_SingleWanted_WeeklyReward_Title}",
+		"MailContent": "${Mail_SingleWanted_WeeklyReward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7608
+	},
+	{
+		"MailSender": "${Mail_SingleWanted_EXReward_Sender}",
+		"MailTitle": "${Mail_SingleWanted_EXReward_Title}",
+		"MailContent": "${Mail_SingleWanted_EXReward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7609
+	},
+	{
+		"MailSender": "${Mail_SingleWanted_EXRReward_Sender}",
+		"MailTitle": "${Mail_SingleWanted_EXRReward_Title}",
+		"MailContent": "${Mail_SingleWanted_EXRReward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7610
+	},
+	{
+		"MailSender": "${MAIL_SLG_SingleScoreReward_Sender}",
+		"MailTitle": "${MAIL_SLG_SingleScoreReward_Title}",
+		"MailContent": "${MAIL_SLG_SingleScoreReward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7611
+	},
+	{
+		"MailSender": "${MAIL_SLG_CountryScoreReward_Sender}",
+		"MailTitle": "${MAIL_SLG_CountryScoreReward_Title}",
+		"MailContent": "${MAIL_SLG_CountryScoreReward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7612
+	},
+	{
+		"MailSender": "${Mail_SingleWanted_ReturnReward_Sender}",
+		"MailTitle": "${Mail_SingleWanted_ReturnReward_Title}",
+		"MailContent": "${Mail_SingleWanted_ReturnReward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7613
+	},
+	{
+		"MailSender": "${Mail_TwoPVE_ScoreReward_Sender}",
+		"MailTitle": "${Mail_TwoPVE_ScoreReward_Title}",
+		"MailContent": "${Mai_TwoPVE_ScoreReward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7614
+	},
+	{
+		"MailSender": "${Mail_Genshin_ScoreReward_Sender}",
+		"MailTitle": "${Mail_Genshin_ScoreReward_Title}",
+		"MailContent": "${Mai_Genshin_ScoreReward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7615
+	},
+	{
+		"MailSender": "${Mail_GobackFund_Forget_Reward_Sender}",
+		"MailTitle": "${Mail_GobackFund_Forget_Reward_Title}",
+		"MailContent": "${Mail_GobackFund_Forget_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7616
+	},
+	{
+		"MailSender": "${MAIL_OW_ExploreScoreReward_Sender}",
+		"MailTitle": "${MAIL_OW_ExploreScoreReward_Title}",
+		"MailContent": "${MAIL_OW_ExploreScoreReward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7617
+	},
+	{
+		"MailSender": "${MAIL_Birthday_GetItem_Sender}",
+		"MailTitle": "${MAIL_Birthday_GetItem_Title}",
+		"MailContent": "${MAIL_Birthday_GetItem_Content}",
+		"ImgPath": "",
+		"MailStyle": 3,
+		"MailLabelPic": "SpriteOutput\\AvatarChibiIcons\\711",
+		"MailLabelText": {
+			"hash": 530228045
+		},
+		"DataImpl": {},
+		"MailID": 7618
+	},
+	{
+		"MailSender": "${MAIL_DLC2_Quest_7619_Sender}",
+		"MailTitle": "${MAIL_DLC2_Quest_7619_Title}",
+		"MailContent": "${MAIL_DLC2_Quest_7619_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7619
+	},
+	{
+		"MailSender": "${MAIL_Newbie_LevelRush_Sender}",
+		"MailTitle": "${MAIL_Newbie_LevelRush_Title}",
+		"MailContent": "${MAIL_Newbie_LevelRush_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7620
+	},
+	{
+		"MailSender": "${MAIL_DLC2_Quest_7621_Sender}",
+		"MailTitle": "${MAIL_DLC2_Quest_7621_Title}",
+		"MailContent": "${MAIL_DLC2_Quest_7621_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7621
+	},
+	{
+		"MailSender": "${MAIL_Apple_Event_7622_Sender}",
+		"MailTitle": "${MAIL_Apple_Event_7622_Title}",
+		"MailContent": "${MAIL_Apple_Event_7622_Content}",
+		"ImgPath": "",
+		"MailStyle": 1,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7622
+	},
+	{
+		"MailSender": "${MAIL_Apple_Event_7623_Sender}",
+		"MailTitle": "${MAIL_Apple_Event_7623_Title}",
+		"MailContent": "${MAIL_Apple_Event_7623_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7623
+	},
+	{
+		"MailSender": "${MAIL_GodWar_Sender}",
+		"MailTitle": "${MAIL_GodWar_Title}",
+		"MailContent": "${MAIL_GodWar_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7624
+	},
+	{
+		"MailSender": "${MAIL_Newbie_LevelExchange_Sender}",
+		"MailTitle": "${MAIL_Newbie_LevelExchange_Title}",
+		"MailContent": "${MAIL_Newbie_LevelExchange_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 7625
+	},
+	{
+		"MailSender": "${MAIL_ContinuousGift_GetItem_Sender}",
+		"MailTitle": "${MAIL_ContinuousGift_GetItem_Title}",
+		"MailContent": "${MAIL_ContinuousGift_GetItem_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8001
+	},
+	{
+		"MailSender": "${MAIL_ContinuousGift_GetItem_Sender}",
+		"MailTitle": "${MAIL_ContinuousGift_GetItem_Title02}",
+		"MailContent": "${MAIL_ContinuousGift_GetItem_Content02}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8002
+	},
+	{
+		"MailSender": "${MAIL_ContinuousGift_GetItem_Sender}",
+		"MailTitle": "${MAIL_MissionRecharge_GetItem_Title}",
+		"MailContent": "${MAIL_MissionRecharge_GetItem_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8003
+	},
+	{
+		"MailSender": "${MAIL_ContinuousGift_GetItem_Sender}",
+		"MailTitle": "${MAIL_MissionRecharge_GetItem_Title}",
+		"MailContent": "${MAIL_MissionRecharge_GetItem_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8004
+	},
+	{
+		"MailSender": "${MAIL_fifthanniversary_GetItem_Sender}",
+		"MailTitle": "${MAIL_fifthanniversary_GetItem_Title}",
+		"MailContent": "${MAIL_fifthanniversary_GetItem_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8005
+	},
+	{
+		"MailSender": "${MAIL_Bronya_GetItem_Sender}",
+		"MailTitle": "${MAIL_Bronya_GetItem_Title}",
+		"MailContent": "${MAIL_Bronya_GetItem_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8006
+	},
+	{
+		"MailSender": "${MAIL_Birthday_GetItem_8007_Sender}",
+		"MailTitle": "${MAIL_Birthday_GetItem_8007_Title}",
+		"MailContent": "${MAIL_Birthday_GetItem_8007_Content}",
+		"ImgPath": "",
+		"MailStyle": 3,
+		"MailLabelPic": "SpriteOutput\\AvatarChibiIcons\\2201",
+		"MailLabelText": {
+			"hash": 530228045
+		},
+		"DataImpl": {},
+		"MailID": 8007
+	},
+	{
+		"MailSender": "${MAIL_MainOW27_GetItem_Sender}",
+		"MailTitle": "${MAIL_MainOW27_GetItem_Title}",
+		"MailContent": "${MAIL_MainOW27_GetItem_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8008
+	},
+	{
+		"MailSender": "${MAIL_Birthday_GetItem_8009_Sender}",
+		"MailTitle": "${MAIL_Birthday_GetItem_8009_Title}",
+		"MailContent": "${MAIL_Birthday_GetItem_8009_Content}",
+		"ImgPath": "",
+		"MailStyle": 3,
+		"MailLabelPic": "SpriteOutput\\AvatarChibiIcons\\105",
+		"MailLabelText": {
+			"hash": 530228045
+		},
+		"DataImpl": {},
+		"MailID": 8009
+	},
+	{
+		"MailSender": "${MAIL_Birthday_GetItem_8011_Sender}",
+		"MailTitle": "${MAIL_Birthday_GetItem_8011_Title}",
+		"MailContent": "${MAIL_Birthday_GetItem_8011_Content}",
+		"ImgPath": "",
+		"MailStyle": 3,
+		"MailLabelPic": "SpriteOutput\\AvatarChibiIcons\\803",
+		"MailLabelText": {
+			"hash": 530228045
+		},
+		"DataImpl": {},
+		"MailID": 8011
+	},
+	{
+		"MailSender": "${MAIL_Consume_GetItem_Sender}",
+		"MailTitle": "${MAIL_Consume_GetItem_Title}",
+		"MailContent": "${MAIL_Consume_GetItem_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8012
+	},
+	{
+		"MailSender": "${MAIL_ScDLCMP_Sender}",
+		"MailTitle": "${MAIL_ScDLCMP_Title}",
+		"MailContent": "${MAIL_ScDLCMP_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8013
+	},
+	{
+		"MailSender": "${MAIL_Birthday_GetItem_8014_Sender}",
+		"MailTitle": "${MAIL_Birthday_GetItem_8014_Title}",
+		"MailContent": "${MAIL_Birthday_GetItem_8014_Content}",
+		"ImgPath": "",
+		"MailStyle": 3,
+		"MailLabelPic": "SpriteOutput\\AvatarChibiIcons\\603_04_01",
+		"MailLabelText": {
+			"hash": 530228045
+		},
+		"DataImpl": {},
+		"MailID": 8014
+	},
+	{
+		"MailSender": "${MAIL_GodWar_Sender_8015}",
+		"MailTitle": "${MAIL_GodWar_Title_8015}",
+		"MailContent": "${MAIL_GodWar_Content_8015}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8015
+	},
+	{
+		"MailSender": "${MAIL_GodWar_Sender_8015}",
+		"MailTitle": "${MAIL_GodWar_Title_8015}",
+		"MailContent": "${MAIL_GodWar_Content_8016}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8016
+	},
+	{
+		"MailSender": "${MAIL_GodWar_Sender_8015}",
+		"MailTitle": "${MAIL_GodWar_Title_8015}",
+		"MailContent": "${MAIL_GodWar_Content_8017}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8017
+	},
+	{
+		"MailSender": "${MAIL_GodWar_Sender_8015}",
+		"MailTitle": "${MAIL_GodWar_Title_8015}",
+		"MailContent": "${MAIL_GodWar_Content_8018}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8018
+	},
+	{
+		"MailSender": "${MAIL_GodWar_Sender_8015}",
+		"MailTitle": "${MAIL_GodWar_Title_8015}",
+		"MailContent": "${MAIL_GodWar_Content_8019}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8019
+	},
+	{
+		"MailSender": "${MAIL_GodWar_Sender_8015}",
+		"MailTitle": "${MAIL_GodWar_Title_8015}",
+		"MailContent": "${MAIL_GodWar_Content_8020}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8020
+	},
+	{
+		"MailSender": "${MAIL_GodWar_Sender_8015}",
+		"MailTitle": "${MAIL_GodWar_Title_8015}",
+		"MailContent": "${MAIL_GodWar_Content_8021}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8021
+	},
+	{
+		"MailSender": "${MAIL_GodWar_Sender_8015}",
+		"MailTitle": "${MAIL_GodWar_Title_8015}",
+		"MailContent": "${MAIL_GodWar_Content_8022}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8022
+	},
+	{
+		"MailSender": "${MAIL_GodWar_Sender_8015}",
+		"MailTitle": "${MAIL_GodWar_Title_8015}",
+		"MailContent": "${MAIL_GodWar_Content_8023}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8023
+	},
+	{
+		"MailSender": "${MAIL_GodWar_Sender_8015}",
+		"MailTitle": "${MAIL_GodWar_Title_8015}",
+		"MailContent": "${MAIL_GodWar_Content_8024}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8024
+	},
+	{
+		"MailSender": "${MAIL_GodWar_Sender_8015}",
+		"MailTitle": "${MAIL_GodWar_Title_8015}",
+		"MailContent": "${MAIL_GodWar_Content_8025}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8025
+	},
+	{
+		"MailSender": "${MAIL_GodWar_Sender_8015}",
+		"MailTitle": "${MAIL_GodWar_Title_8015}",
+		"MailContent": "${MAIL_GodWar_Content_8026}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8026
+	},
+	{
+		"MailSender": "${MAIL_GodWar_Sender_8015}",
+		"MailTitle": "${MAIL_GodWar_Title_8015}",
+		"MailContent": "${MAIL_GodWar_Content_8027}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8027
+	},
+	{
+		"MailSender": "${MAIL_GodWar_Sender_8015}",
+		"MailTitle": "${MAIL_GodWar_Title_8015}",
+		"MailContent": "${MAIL_GodWar_Content_8028}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8028
+	},
+	{
+		"MailSender": "${MAIL_GodWar_Sender_8015}",
+		"MailTitle": "${MAIL_GodWar_Title_8015}",
+		"MailContent": "${MAIL_GodWar_Content_8029}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8029
+	},
+	{
+		"MailSender": "${MAIL_GodWar_Sender_8015}",
+		"MailTitle": "${MAIL_GodWar_Title_8015}",
+		"MailContent": "${MAIL_GodWar_Content_8030}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8030
+	},
+	{
+		"MailSender": "${MAIL_GodWar_Sender_8015}",
+		"MailTitle": "${MAIL_GodWar_Title_8015}",
+		"MailContent": "${MAIL_GodWar_Content_8031}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8031
+	},
+	{
+		"MailSender": "${MAIL_GodWar_Sender_8015}",
+		"MailTitle": "${MAIL_GodWar_Title_8015}",
+		"MailContent": "${MAIL_GodWar_Content_8032}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8032
+	},
+	{
+		"MailSender": "${MAIL_GodWar_Sender_8015}",
+		"MailTitle": "${MAIL_GodWar_Title_8015}",
+		"MailContent": "${MAIL_GodWar_Content_8033}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8033
+	},
+	{
+		"MailSender": "${MAIL_GodWar_Sender_8015}",
+		"MailTitle": "${MAIL_GodWar_Title_8015}",
+		"MailContent": "${MAIL_GodWar_Content_8034}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8034
+	},
+	{
+		"MailSender": "${MAIL_GodWar_Sender_8015}",
+		"MailTitle": "${MAIL_GodWar_Title_8015}",
+		"MailContent": "${MAIL_GodWar_Content_8035}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8035
+	},
+	{
+		"MailSender": "${MAIL_GodWar_Sender_8015}",
+		"MailTitle": "${MAIL_GodWar_Title_8015}",
+		"MailContent": "${MAIL_GodWar_Content_8036}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8036
+	},
+	{
+		"MailSender": "${MAIL_Birthday_GetItem_8037_Sender}",
+		"MailTitle": "${MAIL_Birthday_GetItem_8037_Title}",
+		"MailContent": "${MAIL_Birthday_GetItem_8037_Content}",
+		"ImgPath": "",
+		"MailStyle": 3,
+		"MailLabelPic": "SpriteOutput\\AvatarChibiIcons\\704_04_01",
+		"MailLabelText": {
+			"hash": 530228045
+		},
+		"DataImpl": {},
+		"MailID": 8037
+	},
+	{
+		"MailSender": "${MAIL_Birthday_GetItem_8038_Sender}",
+		"MailTitle": "${MAIL_Birthday_GetItem_8038_Title}",
+		"MailContent": "${MAIL_Birthday_GetItem_8038_Content}",
+		"ImgPath": "",
+		"MailStyle": 3,
+		"MailLabelPic": "SpriteOutput\\AvatarChibiIcons\\504",
+		"MailLabelText": {
+			"hash": 530228045
+		},
+		"DataImpl": {},
+		"MailID": 8038
+	},
+	{
+		"MailSender": "${MAIL_Compassion_TeachingStage_Sender}",
+		"MailTitle": "${MAIL_Compassion_TeachingStage_Title}",
+		"MailContent": "${MAIL_Compassion_TeachingStage_Content}",
+		"ImgPath": "",
+		"MailStyle": 1,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8039
+	},
+	{
+		"MailSender": "${MAIL_Birthday_GetItem_8040_Sender}",
+		"MailTitle": "${MAIL_Birthday_GetItem_8040_Title}",
+		"MailContent": "${MAIL_Birthday_GetItem_8040_Content}",
+		"ImgPath": "",
+		"MailStyle": 3,
+		"MailLabelPic": "SpriteOutput\\AvatarChibiIcons\\205",
+		"MailLabelText": {
+			"hash": 530228045
+		},
+		"DataImpl": {},
+		"MailID": 8040
+	},
+	{
+		"MailSender": "${Mail_Goback_GrowUpActivity_Reward_Sender}",
+		"MailTitle": "${Mail_Goback_GrowUpActivity_Reward_Title}",
+		"MailContent": "${Mail_Goback_GrowUpActivity_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8041
+	},
+	{
+		"MailSender": "${MAIL_Birthday_GetItem_8042_Sender}",
+		"MailTitle": "${MAIL_Birthday_GetItem_8042_Title}",
+		"MailContent": "${MAIL_Birthday_GetItem_8042_Content}",
+		"ImgPath": "",
+		"MailStyle": 3,
+		"MailLabelPic": "SpriteOutput\\AvatarChibiIcons\\Elf_10012",
+		"MailLabelText": {
+			"hash": 530228045
+		},
+		"DataImpl": {},
+		"MailID": 8042
+	},
+	{
+		"MailSender": "${Mail_Newbie_CumulativeLottery_Reward_Sender}",
+		"MailTitle": "${Mail_Goback_CumulativeLottery_Reward_Title}",
+		"MailContent": "${Mail_Goback_CumulativeLottery_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8043
+	},
+	{
+		"MailSender": "${Mail_Newbie_FirstPaymentReward_Reward_Sender}",
+		"MailTitle": "${Mail_Goback_FirstPaymentReward_Reward_Title}",
+		"MailContent": "${Mail_Goback_FirstPaymentReward_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8044
+	},
+	{
+		"MailSender": "${Mail_Newbie_StageCompensate_Reward_Sender}",
+		"MailTitle": "${Mail_Newbie_StageCompensate_Reward__Title}",
+		"MailContent": "${Mail_Newbie_StageCompensate_Reward__Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8045
+	},
+	{
+		"MailSender": "${MAIL_Birthday_GetItem_8046_Sender}",
+		"MailTitle": "${MAIL_Birthday_GetItem_8046_Title}",
+		"MailContent": "${MAIL_Birthday_GetItem_8046_Content}",
+		"ImgPath": "",
+		"MailStyle": 3,
+		"MailLabelPic": "SpriteOutput\\AvatarChibiIcons\\2701",
+		"MailLabelText": {
+			"hash": 530228045
+		},
+		"DataImpl": {},
+		"MailID": 8046
+	},
+	{
+		"MailSender": "${MAIL_Newbie_Compensate_Sender}",
+		"MailTitle": "${MAIL_Newbie_Compensate_Title}",
+		"MailContent": "${MAIL_Newbie_Compensate_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8047
+	},
+	{
+		"MailSender": "${MAIL_GodWar_Sender_8048}",
+		"MailTitle": "${MAIL_GodWar_Title_8048}",
+		"MailContent": "${MAIL_GodWar_Content_8048}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8048
+	},
+	{
+		"MailSender": "${MAIL_GodWar_Sender_8049}",
+		"MailTitle": "${MAIL_GodWar_Title_8049}",
+		"MailContent": "${MAIL_GodWar_Content_8049}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8049
+	},
+	{
+		"MailSender": "${MAIL_GodWar_Sender_8050}",
+		"MailTitle": "${MAIL_GodWar_Title_8050}",
+		"MailContent": "${MAIL_GodWar_Content_8050}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8050
+	},
+	{
+		"MailSender": "${MAIL_GodWar_Sender_8051}",
+		"MailTitle": "${MAIL_GodWar_Title_8051}",
+		"MailContent": "${MAIL_GodWar_Content_8051}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8051
+	},
+	{
+		"MailSender": "${MAIL_GodWar_Sender_8052}",
+		"MailTitle": "${MAIL_GodWar_Title_8052}",
+		"MailContent": "${MAIL_GodWar_Content_8052}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8052
+	},
+	{
+		"MailSender": "${MAIL_GodWar_Sender_8053}",
+		"MailTitle": "${MAIL_GodWar_Title_8053}",
+		"MailContent": "${MAIL_GodWar_Content_8053}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8053
+	},
+	{
+		"MailSender": "${MAIL_GodWar_Sender_8054}",
+		"MailTitle": "${MAIL_GodWar_Title_8054}",
+		"MailContent": "${MAIL_GodWar_Content_8054}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8054
+	},
+	{
+		"MailSender": "${MAIL_GodWar_Sender_8055}",
+		"MailTitle": "${MAIL_GodWar_Title_8055}",
+		"MailContent": "${MAIL_GodWar_Content_8055}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8055
+	},
+	{
+		"MailSender": "${MAIL_GodWar_Sender_8056}",
+		"MailTitle": "${MAIL_GodWar_Title_8056}",
+		"MailContent": "${MAIL_GodWar_Content_8056}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8056
+	},
+	{
+		"MailSender": "${MAIL_Birthday_GetItem_8057_Sender}",
+		"MailTitle": "${MAIL_Birthday_GetItem_8057_Title}",
+		"MailContent": "${MAIL_Birthday_GetItem_8057_Content}",
+		"ImgPath": "",
+		"MailStyle": 3,
+		"MailLabelPic": "SpriteOutput\\AvatarChibiIcons\\2401_03_01",
+		"MailLabelText": {
+			"hash": 530228045
+		},
+		"DataImpl": {},
+		"MailID": 8057
+	},
+	{
+		"MailSender": "${Mail_Newbie_FirstPaymentReward_Reward_Sender}",
+		"MailTitle": "${Mail_Goback_FirstPaymentReward_Reward_Title}",
+		"MailContent": "${Mail_Goback_FirstPaymentReward_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8058
+	},
+	{
+		"MailSender": "${MAIL_Birthday_GetItem_8059_Sender}",
+		"MailTitle": "${MAIL_Birthday_GetItem_8059_Title}",
+		"MailContent": "${MAIL_Birthday_GetItem_8059_Content}",
+		"ImgPath": "",
+		"MailStyle": 3,
+		"MailLabelPic": "SpriteOutput\\AvatarChibiIcons\\2601",
+		"MailLabelText": {
+			"hash": 530228045
+		},
+		"DataImpl": {},
+		"MailID": 8059
+	},
+	{
+		"MailSender": "${Mail_Invite_Activity_Sender}",
+		"MailTitle": "${Mail_Invite_Activity_Title}",
+		"MailContent": "${Mail_Invite_Activity_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8060
+	},
+	{
+		"MailSender": "${Mail_Inviter_Activity_Sender}",
+		"MailTitle": "${Mail_Inviter_Activity_Title}",
+		"MailContent": "${Mail_Inviter_Activity_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8061
+	},
+	{
+		"MailSender": "${Mail_Invitee_Activity_Sender}",
+		"MailTitle": "${Mail_Invitee_Activity_Title}",
+		"MailContent": "${Mail_Invitee_Activity_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8062
+	},
+	{
+		"MailSender": "${MAIL_Birthday_GetItem_8063_Sender}",
+		"MailTitle": "${MAIL_Birthday_GetItem_8063_Title}",
+		"MailContent": "${MAIL_Birthday_GetItem_8063_Content}",
+		"ImgPath": "",
+		"MailStyle": 3,
+		"MailLabelPic": "SpriteOutput\\AvatarChibiIcons\\211",
+		"MailLabelText": {
+			"hash": 530228045
+		},
+		"DataImpl": {},
+		"MailID": 8063
+	},
+	{
+		"MailSender": "${MAIL_Birthday_GetItem_8064_Sender}",
+		"MailTitle": "${MAIL_Birthday_GetItem_8064_Title}",
+		"MailContent": "${MAIL_Birthday_GetItem_8064_Content}",
+		"ImgPath": "",
+		"MailStyle": 3,
+		"MailLabelPic": "SpriteOutput\\AvatarChibiIcons\\315",
+		"MailLabelText": {
+			"hash": 530228045
+		},
+		"DataImpl": {},
+		"MailID": 8064
+	},
+	{
+		"MailSender": "${Mail_WaveRush_Sender}",
+		"MailTitle": "${Mail_WaveRush_Title}",
+		"MailContent": "${Mail_WaveRush_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8065
+	},
+	{
+		"MailSender": "${MAIL_Birthday_GetItem_8066_Sender}",
+		"MailTitle": "${MAIL_Birthday_GetItem_8066_Title}",
+		"MailContent": "${MAIL_Birthday_GetItem_8066_Content}",
+		"ImgPath": "",
+		"MailStyle": 3,
+		"MailLabelPic": "SpriteOutput\\AvatarChibiIcons\\2501",
+		"MailLabelText": {
+			"hash": 530228045
+		},
+		"DataImpl": {},
+		"MailID": 8066
+	},
+	{
+		"MailSender": "${Mail_AiCyber_Sender}",
+		"MailTitle": "${Mail_AiCyber_Title}",
+		"MailContent": "${Mail_AiCyber_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8067
+	},
+	{
+		"MailSender": "${Mail_MiniMonopoly_Sender}",
+		"MailTitle": "${Mail_MiniMonopoly_Title}",
+		"MailContent": "${Mail_MiniMonopoly_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8068
+	},
+	{
+		"MailSender": "${MAIL_Birthday_GetItem_8069_Sender}",
+		"MailTitle": "${MAIL_Birthday_GetItem_8069_Title}",
+		"MailContent": "${MAIL_Birthday_GetItem_8069_Content}",
+		"ImgPath": "",
+		"MailStyle": 3,
+		"MailLabelPic": "SpriteOutput\\AvatarChibiIcons\\712",
+		"MailLabelText": {
+			"hash": 530228045
+		},
+		"DataImpl": {},
+		"MailID": 8069
+	},
+	{
+		"MailSender": "${MAIL_GlobalExplor_8070_Sender}",
+		"MailTitle": "${MAIL_GlobalExplor_8070_Title}",
+		"MailContent": "${MAIL_GlobalExplor_8070_Content}",
+		"ImgPath": "",
+		"MailStyle": 1,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8070
+	},
+	{
+		"MailSender": "${MAIL_GlobalExplor_8071_Sender}",
+		"MailTitle": "${MAIL_GlobalExplor_8071_Title}",
+		"MailContent": "${MAIL_GlobalExplor_8071_Content}",
+		"ImgPath": "",
+		"MailStyle": 1,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8071
+	},
+	{
+		"MailSender": "${MAIL_Birthday_GetItem_8072_Sender}",
+		"MailTitle": "${MAIL_Birthday_GetItem_8072_Title}",
+		"MailContent": "${MAIL_Birthday_GetItem_8072_Content}",
+		"ImgPath": "",
+		"MailStyle": 3,
+		"MailLabelPic": "SpriteOutput\\AvatarChibiIcons\\105",
+		"MailLabelText": {
+			"hash": 530228045
+		},
+		"DataImpl": {},
+		"MailID": 8072
+	},
+	{
+		"MailSender": "${Mail_Mirage_Sender}",
+		"MailTitle": "${Mail_Mirage_Title}",
+		"MailContent": "${Mail_Mirage_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 530228045
+		},
+		"DataImpl": {},
+		"MailID": 8073
+	},
+	{
+		"MailSender": "${MAIL_Birthday_GetItem_8074_Sender}",
+		"MailTitle": "${MAIL_Birthday_GetItem_8074_Title}",
+		"MailContent": "${MAIL_Birthday_GetItem_8074_Content}",
+		"ImgPath": "",
+		"MailStyle": 3,
+		"MailLabelPic": "SpriteOutput\\AvatarChibiIcons\\801",
+		"MailLabelText": {
+			"hash": 530228045
+		},
+		"DataImpl": {},
+		"MailID": 8074
+	},
+	{
+		"MailSender": "${Mail_Chapter35_MainReward_Reward_Sender}",
+		"MailTitle": "${Mail_Chapter35_MainReward_Reward_Title}",
+		"MailContent": "${Mail_Chapter35_MainReward_Reward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8075
+	},
+	{
+		"MailSender": "${Mail_SusannaTrial_Sender}",
+		"MailTitle": "${Mail_SusannaTrial_Title}",
+		"MailContent": "${Mail_SusannaTrial_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8076
+	},
+	{
+		"MailSender": "${Mail_PlatformShoot_ScoreReward_Sender}",
+		"MailTitle": "${Mail_PlatformShoot_ScoreReward_Title}",
+		"MailContent": "${Mail_PlatformShoot_ScoreReward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8077
+	},
+	{
+		"MailSender": "${Mail_MeiGift_Sender}",
+		"MailTitle": "${Mail_MeiGift_Title}",
+		"MailContent": "${Mail_MeiGift_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8078
+	},
+	{
+		"MailSender": "${MAIL_Birthday_GetItem_8079_Sender}",
+		"MailTitle": "${MAIL_Birthday_GetItem_8079_Title}",
+		"MailContent": "${MAIL_Birthday_GetItem_8079_Content}",
+		"ImgPath": "",
+		"MailStyle": 3,
+		"MailLabelPic": "SpriteOutput\\AvatarChibiIcons\\611",
+		"MailLabelText": {
+			"hash": 530228045
+		},
+		"DataImpl": {},
+		"MailID": 8079
+	},
+	{
+		"MailSender": "${MAIL_Birthday_GetItem_8080_Sender}",
+		"MailTitle": "${MAIL_Birthday_GetItem_8080_Title}",
+		"MailContent": "${MAIL_Birthday_GetItem_8080_Content}",
+		"ImgPath": "",
+		"MailStyle": 3,
+		"MailLabelPic": "SpriteOutput\\AvatarChibiIcons\\703",
+		"MailLabelText": {
+			"hash": 530228045
+		},
+		"DataImpl": {},
+		"MailID": 8080
+	},
+	{
+		"MailSender": "${MAIL_Birthday_GetItem_8081_Sender}",
+		"MailTitle": "${MAIL_Birthday_GetItem_8081_Title}",
+		"MailContent": "${MAIL_Birthday_GetItem_8081_Content}",
+		"ImgPath": "",
+		"MailStyle": 3,
+		"MailLabelPic": "SpriteOutput\\AvatarChibiIcons\\501_03_01",
+		"MailLabelText": {
+			"hash": 530228045
+		},
+		"DataImpl": {},
+		"MailID": 8081
+	},
+	{
+		"MailSender": "${MAIL_Birthday_GetItem_8082_Sender}",
+		"MailTitle": "${MAIL_Birthday_GetItem_8082_Title}",
+		"MailContent": "${MAIL_Birthday_GetItem_8082_Content}",
+		"ImgPath": "",
+		"MailStyle": 3,
+		"MailLabelPic": "SpriteOutput\\AvatarChibiIcons\\3101",
+		"MailLabelText": {
+			"hash": 530228045
+		},
+		"DataImpl": {},
+		"MailID": 8082
+	},
+	{
+		"MailSender": "${MAIL_Birthday_GetItem_8083_Sender}",
+		"MailTitle": "${MAIL_Birthday_GetItem_8083_Title}",
+		"MailContent": "${MAIL_Birthday_GetItem_8083_Content}",
+		"ImgPath": "",
+		"MailStyle": 3,
+		"MailLabelPic": "SpriteOutput\\AvatarChibiIcons\\206",
+		"MailLabelText": {
+			"hash": 530228045
+		},
+		"DataImpl": {},
+		"MailID": 8083
+	},
+	{
+		"MailSender": "${Mail_Chapter37_LimitedReward_Sender}",
+		"MailTitle": "${Mail_Chapter37_LimitedReward_Title}",
+		"MailContent": "${Mail_Chapter37_LimitedReward_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 8084
+	},
+	{
+		"MailSender": "${MAIL_CasualFishing_GetItem_Sender}",
+		"MailTitle": "${MAIL_CasualFishing_GetItem_Title}",
+		"MailContent": "${MAIL_CasualFishing_GetItem_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 1600001
+	},
+	{
+		"MailSender": "${MAIL_GiftStigmata_GetItem_Sender}",
+		"MailTitle": "${MAIL_GiftStigmata_GetItem_Title}",
+		"MailContent": "${MAIL_GiftStigmata_GetItem_Content}",
+		"ImgPath": "",
+		"MailStyle": 0,
+		"MailLabelPic": "",
+		"MailLabelText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"MailID": 1600002
+	}
+]

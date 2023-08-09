@@ -1,0 +1,1820 @@
+[
+	{
+		"AvatarID": 9011,
+		"TalentType": 1,
+		"ParentTalent": 0,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_1_1",
+		"UILineName": [],
+		"TalentName": {
+			"hash": 1396467759
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Carol_Skill_B3",
+		"CGID": [],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 901101
+	},
+	{
+		"AvatarID": 9011,
+		"TalentType": 1,
+		"ParentTalent": 901101,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_1_2",
+		"UILineName": [
+			"ScDLC_TalentLine_1_1"
+		],
+		"TalentName": {
+			"hash": 1396467760
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Carol_Skill_A3",
+		"CGID": [],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 901102
+	},
+	{
+		"AvatarID": 9011,
+		"TalentType": 1,
+		"ParentTalent": 0,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_2_1",
+		"UILineName": [],
+		"TalentName": {
+			"hash": 1396467761
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_41109",
+		"CGID": [],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 901103
+	},
+	{
+		"AvatarID": 9011,
+		"TalentType": 1,
+		"ParentTalent": 901103,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_2_2",
+		"UILineName": [
+			"ScDLC_TalentLine_2_1"
+		],
+		"TalentName": {
+			"hash": 1396467762
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_41115",
+		"CGID": [],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 901104
+	},
+	{
+		"AvatarID": 9011,
+		"TalentType": 1,
+		"ParentTalent": 0,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_3_1",
+		"UILineName": [],
+		"TalentName": {
+			"hash": 1396467763
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_41126",
+		"CGID": [],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 901105
+	},
+	{
+		"AvatarID": 9011,
+		"TalentType": 1,
+		"ParentTalent": 901105,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_3_2",
+		"UILineName": [
+			"ScDLC_TalentLine_3_1"
+		],
+		"TalentName": {
+			"hash": 1396467764
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_41127",
+		"CGID": [],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 901106
+	},
+	{
+		"AvatarID": 9011,
+		"TalentType": 3,
+		"ParentTalent": 0,
+		"UniqueTag": 901107,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_4_2",
+		"UILineName": [],
+		"TalentName": {
+			"hash": 1396467765
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_Special_1",
+		"CGID": [
+			44686
+		],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 901107
+	},
+	{
+		"AvatarID": 9011,
+		"TalentType": 1,
+		"ParentTalent": 901107,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_4_3",
+		"UILineName": [
+			"ScDLC_TalentLine_4_2"
+		],
+		"TalentName": {
+			"hash": 1396467766
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_41122",
+		"CGID": [],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 901108
+	},
+	{
+		"AvatarID": 9011,
+		"TalentType": 2,
+		"ParentTalent": 0,
+		"UniqueTag": 901109,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_4_6",
+		"UILineName": [],
+		"TalentName": {
+			"hash": 1396467767
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_Ultra_1",
+		"CGID": [
+			44688
+		],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 901109
+	},
+	{
+		"AvatarID": 9011,
+		"TalentType": 1,
+		"ParentTalent": 901109,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_4_7",
+		"UILineName": [
+			"ScDLC_TalentLine_4_6"
+		],
+		"TalentName": {
+			"hash": 1396467789
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Mei_20321",
+		"CGID": [
+			44689
+		],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 901110
+	},
+	{
+		"AvatarID": 9011,
+		"TalentType": 3,
+		"ParentTalent": 0,
+		"UniqueTag": 901107,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_4_4",
+		"UILineName": [],
+		"TalentName": {
+			"hash": 1396467790
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_Special_2",
+		"CGID": [
+			44687
+		],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 901111
+	},
+	{
+		"AvatarID": 9011,
+		"TalentType": 1,
+		"ParentTalent": 901111,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_4_5",
+		"UILineName": [
+			"ScDLC_TalentLine_4_4"
+		],
+		"TalentName": {
+			"hash": 1396467791
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_41122",
+		"CGID": [],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 901112
+	},
+	{
+		"AvatarID": 9011,
+		"TalentType": 2,
+		"ParentTalent": 0,
+		"UniqueTag": 901109,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_4_8",
+		"UILineName": [],
+		"TalentName": {
+			"hash": 1396467792
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_Ultra_2",
+		"CGID": [
+			44690
+		],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 901113
+	},
+	{
+		"AvatarID": 9011,
+		"TalentType": 1,
+		"ParentTalent": 901113,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_4_9",
+		"UILineName": [
+			"ScDLC_TalentLine_4_8"
+		],
+		"TalentName": {
+			"hash": 1396467793
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Mei_20321",
+		"CGID": [
+			44691
+		],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 901114
+	},
+	{
+		"AvatarID": 9011,
+		"TalentType": 1,
+		"ParentTalent": 0,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 202105,
+		"UIPointName": "ScDLC_TalentPoint_5_1",
+		"UILineName": [],
+		"TalentName": {
+			"hash": 1396467794
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Fever",
+		"CGID": [
+			44724
+		],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 901115
+	},
+	{
+		"AvatarID": 9011,
+		"TalentType": 4,
+		"ParentTalent": 0,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_4_1",
+		"UILineName": [
+			"ScDLC_TalentLine_4_1",
+			"ScDLC_TalentLine_4_3",
+			"ScDLC_TalentLine_4_5",
+			"ScDLC_TalentLine_4_7"
+		],
+		"TalentName": {
+			"hash": 1396467797
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_Attack",
+		"CGID": [],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 901118
+	},
+	{
+		"AvatarID": 9021,
+		"TalentType": 1,
+		"ParentTalent": 0,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_1_1",
+		"UILineName": [],
+		"TalentName": {
+			"hash": 1396497550
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Carol_Skill_B3",
+		"CGID": [],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 902101
+	},
+	{
+		"AvatarID": 9021,
+		"TalentType": 1,
+		"ParentTalent": 902101,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_1_2",
+		"UILineName": [
+			"ScDLC_TalentLine_1_1"
+		],
+		"TalentName": {
+			"hash": 1396497551
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Carol_Skill_A3",
+		"CGID": [],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 902102
+	},
+	{
+		"AvatarID": 9021,
+		"TalentType": 1,
+		"ParentTalent": 0,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_2_1",
+		"UILineName": [],
+		"TalentName": {
+			"hash": 1396497552
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_41109",
+		"CGID": [],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 902103
+	},
+	{
+		"AvatarID": 9021,
+		"TalentType": 1,
+		"ParentTalent": 902103,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_2_2",
+		"UILineName": [
+			"ScDLC_TalentLine_2_1"
+		],
+		"TalentName": {
+			"hash": 1396497553
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_41115",
+		"CGID": [],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 902104
+	},
+	{
+		"AvatarID": 9021,
+		"TalentType": 1,
+		"ParentTalent": 0,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_3_1",
+		"UILineName": [],
+		"TalentName": {
+			"hash": 1396497554
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_41126",
+		"CGID": [],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 902105
+	},
+	{
+		"AvatarID": 9021,
+		"TalentType": 1,
+		"ParentTalent": 902105,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_3_2",
+		"UILineName": [
+			"ScDLC_TalentLine_3_1"
+		],
+		"TalentName": {
+			"hash": 1396497555
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_41127",
+		"CGID": [],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 902106
+	},
+	{
+		"AvatarID": 9021,
+		"TalentType": 3,
+		"ParentTalent": 0,
+		"UniqueTag": 902107,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_4_2",
+		"UILineName": [],
+		"TalentName": {
+			"hash": 1396497556
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Mei_Special_1",
+		"CGID": [
+			44732
+		],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 902107
+	},
+	{
+		"AvatarID": 9021,
+		"TalentType": 1,
+		"ParentTalent": 902107,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_4_3",
+		"UILineName": [
+			"ScDLC_TalentLine_4_2"
+		],
+		"TalentName": {
+			"hash": 1396497557
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_41122",
+		"CGID": [],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 902108
+	},
+	{
+		"AvatarID": 9021,
+		"TalentType": 2,
+		"ParentTalent": 0,
+		"UniqueTag": 902109,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_4_6",
+		"UILineName": [],
+		"TalentName": {
+			"hash": 1396497558
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Mei_Ultra_2",
+		"CGID": [
+			44734
+		],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 902109
+	},
+	{
+		"AvatarID": 9021,
+		"TalentType": 1,
+		"ParentTalent": 902109,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_4_7",
+		"UILineName": [
+			"ScDLC_TalentLine_4_6"
+		],
+		"TalentName": {
+			"hash": 1396497580
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Mei_20321",
+		"CGID": [
+			44735
+		],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 902110
+	},
+	{
+		"AvatarID": 9021,
+		"TalentType": 3,
+		"ParentTalent": 0,
+		"UniqueTag": 902107,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_4_4",
+		"UILineName": [],
+		"TalentName": {
+			"hash": 1396497581
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Mei_Special_2",
+		"CGID": [
+			44733
+		],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 902111
+	},
+	{
+		"AvatarID": 9021,
+		"TalentType": 1,
+		"ParentTalent": 902111,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_4_5",
+		"UILineName": [
+			"ScDLC_TalentLine_4_4"
+		],
+		"TalentName": {
+			"hash": 1396497582
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_41122",
+		"CGID": [],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 902112
+	},
+	{
+		"AvatarID": 9021,
+		"TalentType": 2,
+		"ParentTalent": 0,
+		"UniqueTag": 902109,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_4_8",
+		"UILineName": [],
+		"TalentName": {
+			"hash": 1396497583
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Mei_Ultra_1",
+		"CGID": [
+			44736
+		],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 902113
+	},
+	{
+		"AvatarID": 9021,
+		"TalentType": 1,
+		"ParentTalent": 902113,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_4_9",
+		"UILineName": [
+			"ScDLC_TalentLine_4_8"
+		],
+		"TalentName": {
+			"hash": 1396497584
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Mei_20321",
+		"CGID": [
+			44737
+		],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 902114
+	},
+	{
+		"AvatarID": 9021,
+		"TalentType": 1,
+		"ParentTalent": 0,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 202105,
+		"UIPointName": "ScDLC_TalentPoint_5_1",
+		"UILineName": [],
+		"TalentName": {
+			"hash": 1396497585
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Fever",
+		"CGID": [
+			44725
+		],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 902115
+	},
+	{
+		"AvatarID": 9021,
+		"TalentType": 4,
+		"ParentTalent": 0,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_4_1",
+		"UILineName": [
+			"ScDLC_TalentLine_4_1",
+			"ScDLC_TalentLine_4_3",
+			"ScDLC_TalentLine_4_5",
+			"ScDLC_TalentLine_4_7"
+		],
+		"TalentName": {
+			"hash": 1396497588
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Mei_Attack",
+		"CGID": [],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 902118
+	},
+	{
+		"AvatarID": 9031,
+		"TalentType": 1,
+		"ParentTalent": 0,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_1_1",
+		"UILineName": [],
+		"TalentName": {
+			"hash": 1396527341
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Carol_Skill_B3",
+		"CGID": [],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 903101
+	},
+	{
+		"AvatarID": 9031,
+		"TalentType": 1,
+		"ParentTalent": 903101,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_1_2",
+		"UILineName": [
+			"ScDLC_TalentLine_1_1"
+		],
+		"TalentName": {
+			"hash": 1396527342
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Carol_Skill_A3",
+		"CGID": [],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 903102
+	},
+	{
+		"AvatarID": 9031,
+		"TalentType": 1,
+		"ParentTalent": 0,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_2_1",
+		"UILineName": [],
+		"TalentName": {
+			"hash": 1396527343
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_41109",
+		"CGID": [],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 903103
+	},
+	{
+		"AvatarID": 9031,
+		"TalentType": 1,
+		"ParentTalent": 903103,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_2_2",
+		"UILineName": [
+			"ScDLC_TalentLine_2_1"
+		],
+		"TalentName": {
+			"hash": 1396527344
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_41115",
+		"CGID": [],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 903104
+	},
+	{
+		"AvatarID": 9031,
+		"TalentType": 1,
+		"ParentTalent": 0,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_3_1",
+		"UILineName": [],
+		"TalentName": {
+			"hash": 1396527345
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_41126",
+		"CGID": [],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 903105
+	},
+	{
+		"AvatarID": 9031,
+		"TalentType": 1,
+		"ParentTalent": 903105,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_3_2",
+		"UILineName": [
+			"ScDLC_TalentLine_3_1"
+		],
+		"TalentName": {
+			"hash": 1396527346
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_41127",
+		"CGID": [],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 903106
+	},
+	{
+		"AvatarID": 9031,
+		"TalentType": 3,
+		"ParentTalent": 0,
+		"UniqueTag": 903107,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_4_2",
+		"UILineName": [],
+		"TalentName": {
+			"hash": 1396527347
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Carol_Special_1",
+		"CGID": [
+			44726
+		],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 903107
+	},
+	{
+		"AvatarID": 9031,
+		"TalentType": 1,
+		"ParentTalent": 903107,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_4_3",
+		"UILineName": [
+			"ScDLC_TalentLine_4_2"
+		],
+		"TalentName": {
+			"hash": 1396527348
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_41122",
+		"CGID": [],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 903108
+	},
+	{
+		"AvatarID": 9031,
+		"TalentType": 2,
+		"ParentTalent": 0,
+		"UniqueTag": 903109,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_4_6",
+		"UILineName": [],
+		"TalentName": {
+			"hash": 1396527349
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Carol_Ultra_2",
+		"CGID": [
+			44728
+		],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 903109
+	},
+	{
+		"AvatarID": 9031,
+		"TalentType": 1,
+		"ParentTalent": 903109,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_4_7",
+		"UILineName": [
+			"ScDLC_TalentLine_4_6"
+		],
+		"TalentName": {
+			"hash": 1396527371
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Mei_20321",
+		"CGID": [
+			44729
+		],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 903110
+	},
+	{
+		"AvatarID": 9031,
+		"TalentType": 3,
+		"ParentTalent": 0,
+		"UniqueTag": 903107,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_4_4",
+		"UILineName": [],
+		"TalentName": {
+			"hash": 1396527372
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Carol_Special_2",
+		"CGID": [
+			44727
+		],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 903111
+	},
+	{
+		"AvatarID": 9031,
+		"TalentType": 1,
+		"ParentTalent": 903111,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_4_5",
+		"UILineName": [
+			"ScDLC_TalentLine_4_4"
+		],
+		"TalentName": {
+			"hash": 1396527373
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_41122",
+		"CGID": [],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 903112
+	},
+	{
+		"AvatarID": 9031,
+		"TalentType": 2,
+		"ParentTalent": 0,
+		"UniqueTag": 903109,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_4_8",
+		"UILineName": [],
+		"TalentName": {
+			"hash": 1396527374
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Carol_Ultra_1",
+		"CGID": [
+			44730
+		],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 903113
+	},
+	{
+		"AvatarID": 9031,
+		"TalentType": 1,
+		"ParentTalent": 903113,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_4_9",
+		"UILineName": [
+			"ScDLC_TalentLine_4_8"
+		],
+		"TalentName": {
+			"hash": 1396527375
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Mei_20321",
+		"CGID": [
+			44731
+		],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 903114
+	},
+	{
+		"AvatarID": 9031,
+		"TalentType": 1,
+		"ParentTalent": 0,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 202105,
+		"UIPointName": "ScDLC_TalentPoint_5_1",
+		"UILineName": [],
+		"TalentName": {
+			"hash": 1396527376
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Fever",
+		"CGID": [
+			44724
+		],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 903115
+	},
+	{
+		"AvatarID": 9031,
+		"TalentType": 4,
+		"ParentTalent": 0,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_4_1",
+		"UILineName": [
+			"ScDLC_TalentLine_4_1",
+			"ScDLC_TalentLine_4_3",
+			"ScDLC_TalentLine_4_5",
+			"ScDLC_TalentLine_4_7"
+		],
+		"TalentName": {
+			"hash": 1396527379
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Carol_Attack",
+		"CGID": [],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 903118
+	},
+	{
+		"AvatarID": 9041,
+		"TalentType": 1,
+		"ParentTalent": 0,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_1_1",
+		"UILineName": [],
+		"TalentName": {
+			"hash": 1396557132
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Carol_Skill_B3",
+		"CGID": [],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 904101
+	},
+	{
+		"AvatarID": 9041,
+		"TalentType": 1,
+		"ParentTalent": 904101,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_1_2",
+		"UILineName": [
+			"ScDLC_TalentLine_1_1"
+		],
+		"TalentName": {
+			"hash": 1396557133
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Carol_Skill_A3",
+		"CGID": [],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 904102
+	},
+	{
+		"AvatarID": 9041,
+		"TalentType": 1,
+		"ParentTalent": 0,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_2_1",
+		"UILineName": [],
+		"TalentName": {
+			"hash": 1396557134
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_41109",
+		"CGID": [],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 904103
+	},
+	{
+		"AvatarID": 9041,
+		"TalentType": 1,
+		"ParentTalent": 904103,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_2_2",
+		"UILineName": [
+			"ScDLC_TalentLine_2_1"
+		],
+		"TalentName": {
+			"hash": 1396557135
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_41115",
+		"CGID": [],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 904104
+	},
+	{
+		"AvatarID": 9041,
+		"TalentType": 1,
+		"ParentTalent": 0,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_3_1",
+		"UILineName": [],
+		"TalentName": {
+			"hash": 1396557136
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_41126",
+		"CGID": [],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 904105
+	},
+	{
+		"AvatarID": 9041,
+		"TalentType": 1,
+		"ParentTalent": 904105,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_3_2",
+		"UILineName": [
+			"ScDLC_TalentLine_3_1"
+		],
+		"TalentName": {
+			"hash": 1396557137
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_41127",
+		"CGID": [],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 904106
+	},
+	{
+		"AvatarID": 9041,
+		"TalentType": 3,
+		"ParentTalent": 0,
+		"UniqueTag": 904107,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_4_2",
+		"UILineName": [],
+		"TalentName": {
+			"hash": 1396557138
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Bronya_Special_1",
+		"CGID": [
+			44692
+		],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 904107
+	},
+	{
+		"AvatarID": 9041,
+		"TalentType": 1,
+		"ParentTalent": 904107,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_4_3",
+		"UILineName": [
+			"ScDLC_TalentLine_4_2"
+		],
+		"TalentName": {
+			"hash": 1396557139
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_41122",
+		"CGID": [],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 904108
+	},
+	{
+		"AvatarID": 9041,
+		"TalentType": 2,
+		"ParentTalent": 0,
+		"UniqueTag": 904109,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_4_6",
+		"UILineName": [],
+		"TalentName": {
+			"hash": 1396557140
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Bronya_Ultra_1",
+		"CGID": [
+			44694
+		],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 904109
+	},
+	{
+		"AvatarID": 9041,
+		"TalentType": 1,
+		"ParentTalent": 904109,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_4_7",
+		"UILineName": [
+			"ScDLC_TalentLine_4_6"
+		],
+		"TalentName": {
+			"hash": 1396557162
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Mei_20321",
+		"CGID": [
+			44695
+		],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 904110
+	},
+	{
+		"AvatarID": 9041,
+		"TalentType": 3,
+		"ParentTalent": 0,
+		"UniqueTag": 904107,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_4_4",
+		"UILineName": [],
+		"TalentName": {
+			"hash": 1396557163
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Bronya_Special_2",
+		"CGID": [
+			44693
+		],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 904111
+	},
+	{
+		"AvatarID": 9041,
+		"TalentType": 1,
+		"ParentTalent": 904111,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_4_5",
+		"UILineName": [
+			"ScDLC_TalentLine_4_4"
+		],
+		"TalentName": {
+			"hash": 1396557164
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_41122",
+		"CGID": [],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 904112
+	},
+	{
+		"AvatarID": 9041,
+		"TalentType": 2,
+		"ParentTalent": 0,
+		"UniqueTag": 904109,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_4_8",
+		"UILineName": [],
+		"TalentName": {
+			"hash": 1396557165
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Bronya_Ultra_2",
+		"CGID": [
+			44696
+		],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 904113
+	},
+	{
+		"AvatarID": 9041,
+		"TalentType": 1,
+		"ParentTalent": 904113,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_4_9",
+		"UILineName": [
+			"ScDLC_TalentLine_4_8"
+		],
+		"TalentName": {
+			"hash": 1396557166
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Mei_20321",
+		"CGID": [
+			44697
+		],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 904114
+	},
+	{
+		"AvatarID": 9041,
+		"TalentType": 1,
+		"ParentTalent": 0,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 202105,
+		"UIPointName": "ScDLC_TalentPoint_5_1",
+		"UILineName": [],
+		"TalentName": {
+			"hash": 1396557167
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Fever",
+		"CGID": [
+			44725
+		],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 904115
+	},
+	{
+		"AvatarID": 9041,
+		"TalentType": 4,
+		"ParentTalent": 0,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_4_1",
+		"UILineName": [
+			"ScDLC_TalentLine_4_1",
+			"ScDLC_TalentLine_4_3",
+			"ScDLC_TalentLine_4_5",
+			"ScDLC_TalentLine_4_7"
+		],
+		"TalentName": {
+			"hash": 1396557170
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Bronya_Attack",
+		"CGID": [],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 904118
+	},
+	{
+		"AvatarID": 9051,
+		"TalentType": 1,
+		"ParentTalent": 0,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_1_1",
+		"UILineName": [],
+		"TalentName": {
+			"hash": 1396586923
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Carol_Skill_B3",
+		"CGID": [],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 905101
+	},
+	{
+		"AvatarID": 9051,
+		"TalentType": 1,
+		"ParentTalent": 905101,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_1_2",
+		"UILineName": [
+			"ScDLC_TalentLine_1_1"
+		],
+		"TalentName": {
+			"hash": 1396586924
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Carol_Skill_A3",
+		"CGID": [],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 905102
+	},
+	{
+		"AvatarID": 9051,
+		"TalentType": 1,
+		"ParentTalent": 0,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_2_1",
+		"UILineName": [],
+		"TalentName": {
+			"hash": 1396586925
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_41109",
+		"CGID": [],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 905103
+	},
+	{
+		"AvatarID": 9051,
+		"TalentType": 1,
+		"ParentTalent": 905103,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_2_2",
+		"UILineName": [
+			"ScDLC_TalentLine_2_1"
+		],
+		"TalentName": {
+			"hash": 1396586926
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_41115",
+		"CGID": [],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 905104
+	},
+	{
+		"AvatarID": 9051,
+		"TalentType": 1,
+		"ParentTalent": 0,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_3_1",
+		"UILineName": [],
+		"TalentName": {
+			"hash": 1396586927
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_41126",
+		"CGID": [],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 905105
+	},
+	{
+		"AvatarID": 9051,
+		"TalentType": 1,
+		"ParentTalent": 905105,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_3_2",
+		"UILineName": [
+			"ScDLC_TalentLine_3_1"
+		],
+		"TalentName": {
+			"hash": 1396586928
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_41127",
+		"CGID": [],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 905106
+	},
+	{
+		"AvatarID": 9051,
+		"TalentType": 3,
+		"ParentTalent": 0,
+		"UniqueTag": 905107,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_4_2",
+		"UILineName": [],
+		"TalentName": {
+			"hash": 1396586929
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Timido_Special_1",
+		"CGID": [
+			44698
+		],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 905107
+	},
+	{
+		"AvatarID": 9051,
+		"TalentType": 1,
+		"ParentTalent": 905107,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_4_3",
+		"UILineName": [
+			"ScDLC_TalentLine_4_2"
+		],
+		"TalentName": {
+			"hash": 1396586930
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_41122",
+		"CGID": [],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 905108
+	},
+	{
+		"AvatarID": 9051,
+		"TalentType": 2,
+		"ParentTalent": 0,
+		"UniqueTag": 905109,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_4_6",
+		"UILineName": [],
+		"TalentName": {
+			"hash": 1396586931
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Timido_Ultra_1",
+		"CGID": [
+			44701
+		],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 905109
+	},
+	{
+		"AvatarID": 9051,
+		"TalentType": 1,
+		"ParentTalent": 905109,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_4_7",
+		"UILineName": [
+			"ScDLC_TalentLine_4_6"
+		],
+		"TalentName": {
+			"hash": 1396586953
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Mei_20321",
+		"CGID": [
+			44702
+		],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 905110
+	},
+	{
+		"AvatarID": 9051,
+		"TalentType": 3,
+		"ParentTalent": 0,
+		"UniqueTag": 905107,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_4_4",
+		"UILineName": [],
+		"TalentName": {
+			"hash": 1396586954
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Timido_Special_2",
+		"CGID": [
+			44699
+		],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 905111
+	},
+	{
+		"AvatarID": 9051,
+		"TalentType": 1,
+		"ParentTalent": 905111,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_4_5",
+		"UILineName": [
+			"ScDLC_TalentLine_4_4"
+		],
+		"TalentName": {
+			"hash": 1396586955
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_41122",
+		"CGID": [],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 905112
+	},
+	{
+		"AvatarID": 9051,
+		"TalentType": 2,
+		"ParentTalent": 0,
+		"UniqueTag": 905109,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_4_8",
+		"UILineName": [],
+		"TalentName": {
+			"hash": 1396586956
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Timido_Ultra_2",
+		"CGID": [
+			44703
+		],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 905113
+	},
+	{
+		"AvatarID": 9051,
+		"TalentType": 1,
+		"ParentTalent": 905113,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_4_9",
+		"UILineName": [
+			"ScDLC_TalentLine_4_8"
+		],
+		"TalentName": {
+			"hash": 1396586957
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Mei_20321",
+		"CGID": [
+			44700
+		],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 905114
+	},
+	{
+		"AvatarID": 9051,
+		"TalentType": 1,
+		"ParentTalent": 0,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 202105,
+		"UIPointName": "ScDLC_TalentPoint_5_1",
+		"UILineName": [],
+		"TalentName": {
+			"hash": 1396586958
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Fever",
+		"CGID": [
+			44738
+		],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 905115
+	},
+	{
+		"AvatarID": 9051,
+		"TalentType": 4,
+		"ParentTalent": 0,
+		"UniqueTag": 0,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_4_1",
+		"UILineName": [
+			"ScDLC_TalentLine_4_1",
+			"ScDLC_TalentLine_4_3",
+			"ScDLC_TalentLine_4_5",
+			"ScDLC_TalentLine_4_7"
+		],
+		"TalentName": {
+			"hash": 1396586961
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Timido_Attack",
+		"CGID": [],
+		"IsSupport": false,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 905118
+	},
+	{
+		"AvatarID": 9061,
+		"TalentType": 5,
+		"ParentTalent": 0,
+		"UniqueTag": 906101,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_8_1",
+		"UILineName": [],
+		"TalentName": {
+			"hash": 1396616714
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_Skill_A1",
+		"CGID": [],
+		"IsSupport": true,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 906101
+	},
+	{
+		"AvatarID": 9061,
+		"TalentType": 5,
+		"ParentTalent": 0,
+		"UniqueTag": 906102,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_8_2",
+		"UILineName": [],
+		"TalentName": {
+			"hash": 1396616715
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Carol_30420",
+		"CGID": [],
+		"IsSupport": true,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 906102
+	},
+	{
+		"AvatarID": 9061,
+		"TalentType": 5,
+		"ParentTalent": 0,
+		"UniqueTag": 906103,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_8_3",
+		"UILineName": [],
+		"TalentName": {
+			"hash": 1396616716
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Mei_Skill_B1",
+		"CGID": [],
+		"IsSupport": true,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 906103
+	},
+	{
+		"AvatarID": 9061,
+		"TalentType": 5,
+		"ParentTalent": 0,
+		"UniqueTag": 906104,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_7_1",
+		"UILineName": [],
+		"TalentName": {
+			"hash": 1396616717
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Lyle_Support_1",
+		"CGID": [],
+		"IsSupport": true,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 906104
+	},
+	{
+		"AvatarID": 9061,
+		"TalentType": 5,
+		"ParentTalent": 0,
+		"UniqueTag": 906104,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_7_2",
+		"UILineName": [],
+		"TalentName": {
+			"hash": 1396616718
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Lyle_Support_2",
+		"CGID": [],
+		"IsSupport": true,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 906105
+	},
+	{
+		"AvatarID": 9061,
+		"TalentType": 5,
+		"ParentTalent": 0,
+		"UniqueTag": 906104,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_7_3",
+		"UILineName": [],
+		"TalentName": {
+			"hash": 1396616719
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Lyle_Support_3",
+		"CGID": [],
+		"IsSupport": true,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 906106
+	},
+	{
+		"AvatarID": 9061,
+		"TalentType": 5,
+		"ParentTalent": 0,
+		"UniqueTag": 906104,
+		"ForceLock": false,
+		"OWStoryID": 0,
+		"UIPointName": "ScDLC_TalentPoint_7_4",
+		"UILineName": [],
+		"TalentName": {
+			"hash": 1396616720
+		},
+		"IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Lyle_Support_4",
+		"CGID": [],
+		"IsSupport": true,
+		"SupportDerived": [],
+		"DataImpl": {},
+		"TalentID": 906107
+	}
+]

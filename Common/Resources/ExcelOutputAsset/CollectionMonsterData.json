@@ -1,0 +1,2304 @@
+[
+	{
+		"UniqueMonsterID": [
+			10001
+		],
+		"AllowNormal": true,
+		"Name": {
+			"hash": 2116900523
+		},
+		"TypeName": {
+			"hash": 949054211
+		},
+		"Desc": {
+			"hash": 2116606641
+		},
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/DLC_AL_010",
+		"PrefabPath": "Entities/Monster/DLC/DLC_AL_010/DLC_AL_010",
+		"Scale": 1,
+		"Position": [
+			0.2,
+			0.2,
+			1
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"Health": 2,
+		"Attack": 1,
+		"AbilitiesList": [
+			2326,
+			2327,
+			2328,
+			2329
+		],
+		"DetailInfoIDs": [],
+		"HideContentWhenLocked": false,
+		"LockedText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"CollectionMonsterID": 1001
+	},
+	{
+		"UniqueMonsterID": [
+			10023
+		],
+		"AllowNormal": true,
+		"Name": {
+			"hash": -403059411
+		},
+		"TypeName": {
+			"hash": 949054211
+		},
+		"Desc": {
+			"hash": -403353293
+		},
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/DLC_AL_030",
+		"PrefabPath": "Entities/Monster/DLC/DLC_AL_030/DLC_AL_030",
+		"Scale": 1,
+		"Position": [
+			0,
+			0,
+			0
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"Health": 2,
+		"Attack": 2,
+		"AbilitiesList": [
+			2339,
+			2340,
+			2341,
+			2408,
+			2409
+		],
+		"DetailInfoIDs": [],
+		"HideContentWhenLocked": false,
+		"LockedText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"CollectionMonsterID": 1002
+	},
+	{
+		"UniqueMonsterID": [
+			10029,
+			10009,
+			10010,
+			10109,
+			10110,
+			10209,
+			10210,
+			10409,
+			10410,
+			10419
+		],
+		"AllowNormal": true,
+		"Name": {
+			"hash": 1371947951
+		},
+		"TypeName": {
+			"hash": 576394487
+		},
+		"Desc": {
+			"hash": 1371654069
+		},
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/DLC_AL_050",
+		"PrefabPath": "Entities/Monster/DLC/DLC_AL_050/DLC_AL_050",
+		"Scale": 0.55,
+		"Position": [
+			0.2,
+			0.8,
+			-3
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"Health": 5,
+		"Attack": 5,
+		"AbilitiesList": [
+			2345,
+			2410,
+			2411,
+			2412,
+			2346,
+			2347,
+			2348,
+			2349
+		],
+		"DetailInfoIDs": [],
+		"HideContentWhenLocked": false,
+		"LockedText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"CollectionMonsterID": 1003
+	},
+	{
+		"UniqueMonsterID": [
+			10007
+		],
+		"AllowNormal": true,
+		"Name": {
+			"hash": 484444270
+		},
+		"TypeName": {
+			"hash": 949054211
+		},
+		"Desc": {
+			"hash": 484150388
+		},
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/DLC_AL_040",
+		"PrefabPath": "Entities/Monster/DLC/DLC_AL_040/DLC_AL_040",
+		"Scale": 1,
+		"Position": [
+			0,
+			-1,
+			5
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"Health": 1,
+		"Attack": 1,
+		"AbilitiesList": [
+			2342,
+			2343,
+			2344
+		],
+		"DetailInfoIDs": [],
+		"HideContentWhenLocked": false,
+		"LockedText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"CollectionMonsterID": 1004
+	},
+	{
+		"UniqueMonsterID": [
+			10012
+		],
+		"AllowNormal": true,
+		"Name": {
+			"hash": -1148011983
+		},
+		"TypeName": {
+			"hash": 576394487
+		},
+		"Desc": {
+			"hash": -1148305865
+		},
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/DLC_AL_070",
+		"PrefabPath": "Entities/Monster/DLC/DLC_AL_070/DLC_AL_070",
+		"Scale": 1,
+		"Position": [
+			0.2,
+			-0.4,
+			2
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"Health": 3,
+		"Attack": 4,
+		"AbilitiesList": [
+			2368,
+			2369,
+			2370,
+			2371
+		],
+		"DetailInfoIDs": [],
+		"HideContentWhenLocked": false,
+		"LockedText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"CollectionMonsterID": 1005
+	},
+	{
+		"UniqueMonsterID": [
+			10003
+		],
+		"AllowNormal": true,
+		"Name": {
+			"hash": -1290563092
+		},
+		"TypeName": {
+			"hash": 949054211
+		},
+		"Desc": {
+			"hash": -1290856974
+		},
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/DLC_AL_020",
+		"PrefabPath": "Entities/Monster/DLC/DLC_AL_020/DLC_AL_020",
+		"Scale": 1,
+		"Position": [
+			0.2,
+			0.2,
+			1
+		],
+		"Rotation": [
+			0,
+			210,
+			0
+		],
+		"Health": 3,
+		"Attack": 3,
+		"AbilitiesList": [
+			2330,
+			2331,
+			2332,
+			2333,
+			2334,
+			2335,
+			2336,
+			2337,
+			2338
+		],
+		"DetailInfoIDs": [],
+		"HideContentWhenLocked": false,
+		"LockedText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"CollectionMonsterID": 1006
+	},
+	{
+		"UniqueMonsterID": [
+			10011
+		],
+		"AllowNormal": true,
+		"Name": {
+			"hash": -2035515664
+		},
+		"TypeName": {
+			"hash": 576394487
+		},
+		"Desc": {
+			"hash": -2035809546
+		},
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/DLC_AL_060",
+		"PrefabPath": "Entities/Monster/DLC/DLC_AL_060/DLC_AL_060",
+		"Scale": 1,
+		"Position": [
+			0.2,
+			-0.2,
+			0
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"Health": 3,
+		"Attack": 4,
+		"AbilitiesList": [
+			2350,
+			2351,
+			2352,
+			2353,
+			2354,
+			2355
+		],
+		"DetailInfoIDs": [],
+		"HideContentWhenLocked": false,
+		"LockedText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"CollectionMonsterID": 1007
+	},
+	{
+		"UniqueMonsterID": [
+			10017
+		],
+		"AllowNormal": true,
+		"Name": {
+			"hash": -2006886513
+		},
+		"TypeName": {
+			"hash": 576394487
+		},
+		"Desc": {
+			"hash": -2007180395
+		},
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/DLC_AL_061",
+		"PrefabPath": "Entities/Monster/DLC/DLC_AL_061/DLC_AL_061",
+		"Scale": 1,
+		"Position": [
+			0.2,
+			-0.2,
+			0
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"Health": 3,
+		"Attack": 4,
+		"AbilitiesList": [
+			2364,
+			2365,
+			2366,
+			2367
+		],
+		"DetailInfoIDs": [],
+		"HideContentWhenLocked": false,
+		"LockedText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"CollectionMonsterID": 1008
+	},
+	{
+		"UniqueMonsterID": [
+			10013
+		],
+		"AllowNormal": true,
+		"Name": {
+			"hash": 1992391416
+		},
+		"TypeName": {
+			"hash": -1366966135
+		},
+		"Desc": {
+			"hash": 1992097534
+		},
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/DLC_AL_060_Boss",
+		"PrefabPath": "Entities/Monster/DLC/DLC_AL_060_Boss/DLC_AL_060_Boss",
+		"Scale": 1,
+		"Position": [
+			0.2,
+			-0.2,
+			0
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"Health": 10,
+		"Attack": 5,
+		"AbilitiesList": [
+			2372,
+			2373,
+			2374,
+			2375,
+			2376,
+			2377,
+			2378,
+			2379,
+			2380,
+			2381
+		],
+		"DetailInfoIDs": [],
+		"HideContentWhenLocked": false,
+		"LockedText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"CollectionMonsterID": 1009
+	},
+	{
+		"UniqueMonsterID": [
+			10002
+		],
+		"AllowNormal": true,
+		"Name": {
+			"hash": 2145529674
+		},
+		"TypeName": {
+			"hash": 576394487
+		},
+		"Desc": {
+			"hash": 2145235792
+		},
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/DLC_AL_011",
+		"PrefabPath": "Entities/Monster/DLC/DLC_AL_011/DLC_AL_011",
+		"Scale": 1,
+		"Position": [
+			0.2,
+			0.2,
+			1
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"Health": 2,
+		"Attack": 1,
+		"AbilitiesList": [
+			2436,
+			2437,
+			2438,
+			2439,
+			2440
+		],
+		"DetailInfoIDs": [],
+		"HideContentWhenLocked": false,
+		"LockedText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"CollectionMonsterID": 1010
+	},
+	{
+		"UniqueMonsterID": [
+			10006
+		],
+		"AllowNormal": true,
+		"Name": {
+			"hash": -374430260
+		},
+		"TypeName": {
+			"hash": 576394487
+		},
+		"Desc": {
+			"hash": -374724142
+		},
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/DLC_AL_031",
+		"PrefabPath": "Entities/Monster/DLC/DLC_AL_031/DLC_AL_031",
+		"Scale": 1,
+		"Position": [
+			0,
+			0,
+			0
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"Health": 2,
+		"Attack": 1,
+		"AbilitiesList": [
+			2426,
+			2427,
+			2428,
+			2429,
+			2430
+		],
+		"DetailInfoIDs": [],
+		"HideContentWhenLocked": false,
+		"LockedText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"CollectionMonsterID": 1011
+	},
+	{
+		"UniqueMonsterID": [
+			10004
+		],
+		"AllowNormal": true,
+		"Name": {
+			"hash": -1261933941
+		},
+		"TypeName": {
+			"hash": 576394487
+		},
+		"Desc": {
+			"hash": -1262227823
+		},
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/DLC_AL_021",
+		"PrefabPath": "Entities/Monster/DLC/DLC_AL_021/DLC_AL_021",
+		"Scale": 1,
+		"Position": [
+			0.2,
+			0.2,
+			1
+		],
+		"Rotation": [
+			0,
+			210,
+			0
+		],
+		"Health": 3,
+		"Attack": 3,
+		"AbilitiesList": [
+			2431,
+			2432,
+			2433,
+			2434,
+			2435
+		],
+		"DetailInfoIDs": [],
+		"HideContentWhenLocked": false,
+		"LockedText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"CollectionMonsterID": 1012
+	},
+	{
+		"UniqueMonsterID": [
+			10014
+		],
+		"AllowNormal": true,
+		"Name": {
+			"hash": 2121474135
+		},
+		"TypeName": {
+			"hash": -1366966135
+		},
+		"Desc": {
+			"hash": 2121180253
+		},
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/DLC_AL_070_Boss",
+		"PrefabPath": "Entities/Monster/DLC/DLC_AL_070_Boss/DLC_AL_070_Boss",
+		"Scale": 1,
+		"Position": [
+			0.2,
+			-0.6,
+			0
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"Health": 10,
+		"Attack": 5,
+		"AbilitiesList": [
+			2356,
+			2357,
+			2358,
+			2359,
+			2360,
+			2361,
+			2362,
+			2363,
+			2413
+		],
+		"DetailInfoIDs": [],
+		"HideContentWhenLocked": false,
+		"LockedText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"CollectionMonsterID": 1013
+	},
+	{
+		"UniqueMonsterID": [
+			10015
+		],
+		"AllowNormal": true,
+		"Name": {
+			"hash": -2044410442
+		},
+		"TypeName": {
+			"hash": -1366966135
+		},
+		"Desc": {
+			"hash": -2044704324
+		},
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/DLC_AL_080_Boss",
+		"PrefabPath": "Entities/Monster/DLC/DLC_AL_080_Boss/DLC_AL_080_Boss",
+		"Scale": 0.5,
+		"Position": [
+			0.2,
+			-0.4,
+			1
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"Health": 16,
+		"Attack": 5,
+		"AbilitiesList": [
+			2414,
+			2415,
+			2416,
+			2417,
+			2418,
+			2419,
+			2420,
+			2421,
+			2422,
+			2423,
+			2424,
+			2425
+		],
+		"DetailInfoIDs": [],
+		"HideContentWhenLocked": false,
+		"LockedText": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"CollectionMonsterID": 1014
+	},
+	{
+		"UniqueMonsterID": [
+			20001,
+			20510,
+			20805,
+			20810,
+			20953,
+			215101,
+			21001,
+			216001,
+			216016,
+			216023,
+			216049,
+			216052,
+			217001
+		],
+		"AllowNormal": true,
+		"Name": {
+			"hash": 2116900523
+		},
+		"TypeName": {
+			"hash": 949054211
+		},
+		"Desc": {
+			"hash": 1883477709
+		},
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/DLC_AL_010",
+		"PrefabPath": "Entities/Monster/DLC/DLC_AL_010/DLC_AL_010",
+		"Scale": 1,
+		"Position": [
+			0.2,
+			0.2,
+			1
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"Health": 2,
+		"Attack": 1,
+		"AbilitiesList": [
+			2326,
+			2327,
+			2328,
+			2329
+		],
+		"DetailInfoIDs": [
+			652001,
+			652002,
+			652003
+		],
+		"HideContentWhenLocked": true,
+		"LockedText": {
+			"hash": -970266443
+		},
+		"DataImpl": {},
+		"CollectionMonsterID": 1640001
+	},
+	{
+		"UniqueMonsterID": [
+			20002,
+			20511,
+			20954,
+			21002,
+			216011,
+			216018,
+			216024,
+			216054,
+			216056
+		],
+		"AllowNormal": true,
+		"Name": {
+			"hash": 2145529674
+		},
+		"TypeName": {
+			"hash": 949054211
+		},
+		"Desc": {
+			"hash": 1912106860
+		},
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/DLC_AL_011",
+		"PrefabPath": "Entities/Monster/DLC/DLC_AL_011/DLC_AL_011",
+		"Scale": 1,
+		"Position": [
+			0.2,
+			0.2,
+			1
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"Health": 2,
+		"Attack": 2,
+		"AbilitiesList": [
+			2436,
+			2437,
+			2438,
+			2439,
+			2440
+		],
+		"DetailInfoIDs": [
+			652006,
+			652007,
+			652008
+		],
+		"HideContentWhenLocked": true,
+		"LockedText": {
+			"hash": -970266443
+		},
+		"DataImpl": {},
+		"CollectionMonsterID": 1640002
+	},
+	{
+		"UniqueMonsterID": [
+			20003,
+			20502,
+			20512,
+			20811,
+			20955,
+			21003,
+			216002,
+			216025,
+			216036,
+			216053
+		],
+		"AllowNormal": true,
+		"Name": {
+			"hash": -1290563092
+		},
+		"TypeName": {
+			"hash": 949054211
+		},
+		"Desc": {
+			"hash": -1523985906
+		},
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/DLC_AL_020",
+		"PrefabPath": "Entities/Monster/DLC/DLC_AL_020/DLC_AL_020",
+		"Scale": 1,
+		"Position": [
+			0.2,
+			0.2,
+			1
+		],
+		"Rotation": [
+			0,
+			210,
+			0
+		],
+		"Health": 2,
+		"Attack": 2,
+		"AbilitiesList": [
+			2330,
+			2331,
+			2332,
+			2333,
+			2334,
+			2335,
+			2336,
+			2337,
+			2338
+		],
+		"DetailInfoIDs": [
+			652011,
+			652012,
+			652013
+		],
+		"HideContentWhenLocked": true,
+		"LockedText": {
+			"hash": -970266443
+		},
+		"DataImpl": {},
+		"CollectionMonsterID": 1640003
+	},
+	{
+		"UniqueMonsterID": [
+			20004,
+			20513,
+			20806,
+			20812,
+			21004,
+			216012,
+			216020,
+			216026,
+			216058
+		],
+		"AllowNormal": true,
+		"Name": {
+			"hash": -1261933941
+		},
+		"TypeName": {
+			"hash": 949054211
+		},
+		"Desc": {
+			"hash": -1495356755
+		},
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/DLC_AL_021",
+		"PrefabPath": "Entities/Monster/DLC/DLC_AL_021/DLC_AL_021",
+		"Scale": 1,
+		"Position": [
+			0.2,
+			0.2,
+			1
+		],
+		"Rotation": [
+			0,
+			210,
+			0
+		],
+		"Health": 2,
+		"Attack": 3,
+		"AbilitiesList": [
+			2431,
+			2432,
+			2433,
+			2434,
+			2435
+		],
+		"DetailInfoIDs": [
+			652016,
+			652017,
+			652018
+		],
+		"HideContentWhenLocked": true,
+		"LockedText": {
+			"hash": -970266443
+		},
+		"DataImpl": {},
+		"CollectionMonsterID": 1640004
+	},
+	{
+		"UniqueMonsterID": [
+			20005,
+			20507,
+			21005,
+			216004,
+			216005,
+			216013,
+			216014,
+			216027,
+			216051,
+			20301,
+			21301
+		],
+		"AllowNormal": true,
+		"Name": {
+			"hash": -403059411
+		},
+		"TypeName": {
+			"hash": 949054211
+		},
+		"Desc": {
+			"hash": -636482225
+		},
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/DLC_AL_030",
+		"PrefabPath": "Entities/Monster/DLC/DLC_AL_030/DLC_AL_030",
+		"Scale": 1,
+		"Position": [
+			0,
+			0,
+			0
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"Health": 2,
+		"Attack": 2,
+		"AbilitiesList": [
+			2339,
+			2340,
+			2341,
+			2408,
+			2409
+		],
+		"DetailInfoIDs": [
+			652021,
+			652022,
+			652023
+		],
+		"HideContentWhenLocked": true,
+		"LockedText": {
+			"hash": -970266443
+		},
+		"DataImpl": {},
+		"CollectionMonsterID": 1640005
+	},
+	{
+		"UniqueMonsterID": [
+			20006,
+			21006,
+			216019,
+			216028,
+			216057
+		],
+		"AllowNormal": true,
+		"Name": {
+			"hash": -374430260
+		},
+		"TypeName": {
+			"hash": 949054211
+		},
+		"Desc": {
+			"hash": -607853074
+		},
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/DLC_AL_031",
+		"PrefabPath": "Entities/Monster/DLC/DLC_AL_031/DLC_AL_031",
+		"Scale": 1,
+		"Position": [
+			0,
+			0,
+			0
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"Health": 2,
+		"Attack": 3,
+		"AbilitiesList": [
+			2426,
+			2427,
+			2428,
+			2429,
+			2430
+		],
+		"DetailInfoIDs": [
+			652026,
+			652027,
+			652028
+		],
+		"HideContentWhenLocked": true,
+		"LockedText": {
+			"hash": -970266443
+		},
+		"DataImpl": {},
+		"CollectionMonsterID": 1640006
+	},
+	{
+		"UniqueMonsterID": [
+			20007,
+			20813,
+			21007,
+			216015,
+			216029,
+			216050
+		],
+		"AllowNormal": true,
+		"Name": {
+			"hash": 484444270
+		},
+		"TypeName": {
+			"hash": 949054211
+		},
+		"Desc": {
+			"hash": 251021456
+		},
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/DLC_AL_040",
+		"PrefabPath": "Entities/Monster/DLC/DLC_AL_040/DLC_AL_040",
+		"Scale": 1,
+		"Position": [
+			0,
+			-1,
+			5
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"Health": 2,
+		"Attack": 1,
+		"AbilitiesList": [
+			2342,
+			2343,
+			2344
+		],
+		"DetailInfoIDs": [
+			652031,
+			652032,
+			652033
+		],
+		"HideContentWhenLocked": true,
+		"LockedText": {
+			"hash": -970266443
+		},
+		"DataImpl": {},
+		"CollectionMonsterID": 1640007
+	},
+	{
+		"UniqueMonsterID": [
+			20008,
+			20503,
+			20504,
+			20801,
+			20808,
+			20956,
+			21008,
+			21124,
+			216034,
+			22001
+		],
+		"AllowNormal": true,
+		"Name": {
+			"hash": 1371947951
+		},
+		"TypeName": {
+			"hash": 576394487
+		},
+		"Desc": {
+			"hash": 1138525137
+		},
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/DLC_AL_050",
+		"PrefabPath": "Entities/Monster/DLC/DLC_AL_050/DLC_AL_050",
+		"Scale": 0.55,
+		"Position": [
+			0.2,
+			0.8,
+			-3
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"Health": 3,
+		"Attack": 4,
+		"AbilitiesList": [
+			2345,
+			2410,
+			2411,
+			2412,
+			2346,
+			2347,
+			2348,
+			2349
+		],
+		"DetailInfoIDs": [
+			652036,
+			652037,
+			652038
+		],
+		"HideContentWhenLocked": true,
+		"LockedText": {
+			"hash": -970266443
+		},
+		"DataImpl": {},
+		"CollectionMonsterID": 1640008
+	},
+	{
+		"UniqueMonsterID": [
+			20009,
+			20650,
+			20807,
+			21009,
+			21121,
+			216035,
+			216044,
+			216061,
+			22002
+		],
+		"AllowNormal": true,
+		"Name": {
+			"hash": -2035515664
+		},
+		"TypeName": {
+			"hash": 576394487
+		},
+		"Desc": {
+			"hash": 2026028818
+		},
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/DLC_AL_060",
+		"PrefabPath": "Entities/Monster/DLC/DLC_AL_060/DLC_AL_060",
+		"Scale": 1,
+		"Position": [
+			0.2,
+			-0.2,
+			0
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"Health": 3,
+		"Attack": 3,
+		"AbilitiesList": [
+			2350,
+			2351,
+			2352,
+			2353,
+			2354,
+			2355
+		],
+		"DetailInfoIDs": [
+			652041,
+			652042,
+			652043
+		],
+		"HideContentWhenLocked": true,
+		"LockedText": {
+			"hash": -970266443
+		},
+		"DataImpl": {},
+		"CollectionMonsterID": 1640009
+	},
+	{
+		"UniqueMonsterID": [
+			20010,
+			20651,
+			21010,
+			21122,
+			22003
+		],
+		"AllowNormal": true,
+		"Name": {
+			"hash": -2006886513
+		},
+		"TypeName": {
+			"hash": 576394487
+		},
+		"Desc": {
+			"hash": 2054657969
+		},
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/DLC_AL_061",
+		"PrefabPath": "Entities/Monster/DLC/DLC_AL_061/DLC_AL_061",
+		"Scale": 0.7,
+		"Position": [
+			-1.9,
+			0.2,
+			1
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"Health": 3,
+		"Attack": 3,
+		"AbilitiesList": [
+			2364,
+			2365,
+			2366,
+			2367
+		],
+		"DetailInfoIDs": [
+			652046,
+			652047,
+			652048
+		],
+		"HideContentWhenLocked": true,
+		"LockedText": {
+			"hash": -970266443
+		},
+		"DataImpl": {},
+		"CollectionMonsterID": 1640010
+	},
+	{
+		"UniqueMonsterID": [
+			20011,
+			20701,
+			20709,
+			21011,
+			20012,
+			20707,
+			20715,
+			21012
+		],
+		"AllowNormal": true,
+		"Name": {
+			"hash": 1992391416
+		},
+		"TypeName": {
+			"hash": -1366966135
+		},
+		"Desc": {
+			"hash": -1010863006
+		},
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/DLC_AL_060_Boss",
+		"PrefabPath": "Entities/Monster/DLC/DLC_AL_060_Boss/DLC_AL_060_Boss",
+		"Scale": 1,
+		"Position": [
+			0.2,
+			-0.2,
+			0
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"Health": 3,
+		"Attack": 4,
+		"AbilitiesList": [
+			2372,
+			2373,
+			2374,
+			2375,
+			2376,
+			2377,
+			2378,
+			2379,
+			2380,
+			2381
+		],
+		"DetailInfoIDs": [
+			652051,
+			652052,
+			652053
+		],
+		"HideContentWhenLocked": true,
+		"LockedText": {
+			"hash": -970266443
+		},
+		"DataImpl": {},
+		"CollectionMonsterID": 1640011
+	},
+	{
+		"UniqueMonsterID": [
+			20013,
+			20501,
+			20514,
+			20814,
+			20957,
+			21013,
+			21123,
+			216030,
+			22004,
+			20413,
+			21413,
+			217002
+		],
+		"AllowNormal": true,
+		"Name": {
+			"hash": -1148011983
+		},
+		"TypeName": {
+			"hash": 949054211
+		},
+		"Desc": {
+			"hash": -1381434797
+		},
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/DLC_AL_070",
+		"PrefabPath": "Entities/Monster/DLC/DLC_AL_070/DLC_AL_070",
+		"Scale": 1,
+		"Position": [
+			0.2,
+			-0.4,
+			2
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"Health": 2,
+		"Attack": 3,
+		"AbilitiesList": [
+			2368,
+			2369,
+			2370,
+			2371
+		],
+		"DetailInfoIDs": [
+			652061,
+			652062,
+			652063
+		],
+		"HideContentWhenLocked": true,
+		"LockedText": {
+			"hash": -970266443
+		},
+		"DataImpl": {},
+		"CollectionMonsterID": 1640013
+	},
+	{
+		"UniqueMonsterID": [
+			20014,
+			20702,
+			20710,
+			21014
+		],
+		"AllowNormal": true,
+		"Name": {
+			"hash": 2121474135
+		},
+		"TypeName": {
+			"hash": -1366966135
+		},
+		"Desc": {
+			"hash": -881780287
+		},
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/DLC_AL_070_Boss",
+		"PrefabPath": "Entities/Monster/DLC/DLC_AL_070_Boss/DLC_AL_070_Boss",
+		"Scale": 1,
+		"Position": [
+			0.2,
+			-0.6,
+			0
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"Health": 4,
+		"Attack": 4,
+		"AbilitiesList": [
+			2356,
+			2357,
+			2358,
+			2359,
+			2360,
+			2361,
+			2362,
+			2363,
+			2413
+		],
+		"DetailInfoIDs": [
+			652066,
+			652067,
+			652068
+		],
+		"HideContentWhenLocked": true,
+		"LockedText": {
+			"hash": -970266443
+		},
+		"DataImpl": {},
+		"CollectionMonsterID": 1640014
+	},
+	{
+		"UniqueMonsterID": [
+			20015,
+			20706,
+			20714,
+			21015
+		],
+		"AllowNormal": true,
+		"Name": {
+			"hash": -2044410442
+		},
+		"TypeName": {
+			"hash": -1366966135
+		},
+		"Desc": {
+			"hash": -752697568
+		},
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/DLC_AL_080_Boss",
+		"PrefabPath": "Entities/Monster/DLC/DLC_AL_080_Boss/DLC_AL_080_Boss",
+		"Scale": 0.5,
+		"Position": [
+			0.2,
+			-0.4,
+			1
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"Health": 4,
+		"Attack": 5,
+		"AbilitiesList": [
+			2414,
+			2415,
+			2416,
+			2417,
+			2418,
+			2419,
+			2420,
+			2421,
+			2422,
+			2423,
+			2424,
+			2425
+		],
+		"DetailInfoIDs": [
+			652071,
+			652072,
+			652073
+		],
+		"HideContentWhenLocked": true,
+		"LockedText": {
+			"hash": -970266443
+		},
+		"DataImpl": {},
+		"CollectionMonsterID": 1640015
+	},
+	{
+		"UniqueMonsterID": [
+			20101,
+			20505,
+			21101,
+			216017,
+			216059,
+			217003
+		],
+		"AllowNormal": true,
+		"Name": {
+			"hash": 626995379
+		},
+		"TypeName": {
+			"hash": 949054211
+		},
+		"Desc": {
+			"hash": 393572565
+		},
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/DLC_AL_090",
+		"PrefabPath": "Entities/Monster/DLC/DLC_AL_090/DLC_AL_090",
+		"Scale": 1,
+		"Position": [
+			0.2,
+			0.2,
+			1
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"Health": 1,
+		"Attack": 3,
+		"AbilitiesList": [
+			2829
+		],
+		"DetailInfoIDs": [
+			652076,
+			652077,
+			652078
+		],
+		"HideContentWhenLocked": true,
+		"LockedText": {
+			"hash": -970266443
+		},
+		"DataImpl": {},
+		"CollectionMonsterID": 1640016
+	},
+	{
+		"UniqueMonsterID": [
+			20102,
+			21102,
+			217004
+		],
+		"AllowNormal": true,
+		"Name": {
+			"hash": 655624530
+		},
+		"TypeName": {
+			"hash": 949054211
+		},
+		"Desc": {
+			"hash": 422201716
+		},
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/DLC_AL_091",
+		"PrefabPath": "Entities/Monster/DLC/DLC_AL_091/DLC_AL_091",
+		"Scale": 1,
+		"Position": [
+			0.2,
+			0.2,
+			1
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"Health": 1,
+		"Attack": 3,
+		"AbilitiesList": [
+			2830
+		],
+		"DetailInfoIDs": [
+			652081
+		],
+		"HideContentWhenLocked": true,
+		"LockedText": {
+			"hash": -970266443
+		},
+		"DataImpl": {},
+		"CollectionMonsterID": 1640017
+	},
+	{
+		"UniqueMonsterID": [
+			20103,
+			21103,
+			217005
+		],
+		"AllowNormal": true,
+		"Name": {
+			"hash": 684253681
+		},
+		"TypeName": {
+			"hash": 949054211
+		},
+		"Desc": {
+			"hash": 450830867
+		},
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/DLC_AL_092",
+		"PrefabPath": "Entities/Monster/DLC/DLC_AL_092/DLC_AL_092",
+		"Scale": 1,
+		"Position": [
+			0.2,
+			0.2,
+			1
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"Health": 1,
+		"Attack": 3,
+		"AbilitiesList": [
+			2831
+		],
+		"DetailInfoIDs": [
+			652086,
+			652087,
+			652088
+		],
+		"HideContentWhenLocked": true,
+		"LockedText": {
+			"hash": -970266443
+		},
+		"DataImpl": {},
+		"CollectionMonsterID": 1640018
+	},
+	{
+		"UniqueMonsterID": [
+			20104,
+			21104,
+			216031
+		],
+		"AllowNormal": true,
+		"Name": {
+			"hash": 712882832
+		},
+		"TypeName": {
+			"hash": 949054211
+		},
+		"Desc": {
+			"hash": 479460018
+		},
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/DLC_AL_093",
+		"PrefabPath": "Entities/Monster/DLC/DLC_AL_093/DLC_AL_093",
+		"Scale": 1,
+		"Position": [
+			0.2,
+			0.2,
+			1
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"Health": 1,
+		"Attack": 3,
+		"AbilitiesList": [
+			2832
+		],
+		"DetailInfoIDs": [
+			652091,
+			652092,
+			652093
+		],
+		"HideContentWhenLocked": true,
+		"LockedText": {
+			"hash": -970266443
+		},
+		"DataImpl": {},
+		"CollectionMonsterID": 1640019
+	},
+	{
+		"UniqueMonsterID": [
+			20105,
+			20506,
+			20804,
+			20815,
+			21105,
+			216021,
+			216022,
+			216033,
+			216037
+		],
+		"AllowNormal": true,
+		"Name": {
+			"hash": -1204675639
+		},
+		"TypeName": {
+			"hash": 949054211
+		},
+		"Desc": {
+			"hash": -1438098453
+		},
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/DLC_AL_023",
+		"PrefabPath": "Entities/Monster/DLC/DLC_AL_023/DLC_AL_023",
+		"Scale": 0.5,
+		"Position": [
+			1.5,
+			1.7,
+			-2
+		],
+		"Rotation": [
+			0,
+			210,
+			0
+		],
+		"Health": 2,
+		"Attack": 2,
+		"AbilitiesList": [
+			2824,
+			2825,
+			2826,
+			2827,
+			2828
+		],
+		"DetailInfoIDs": [
+			652096,
+			652097,
+			652098
+		],
+		"HideContentWhenLocked": true,
+		"LockedText": {
+			"hash": -970266443
+		},
+		"DataImpl": {},
+		"CollectionMonsterID": 1640020
+	},
+	{
+		"UniqueMonsterID": [
+			20106,
+			20120,
+			20508,
+			20509,
+			20802,
+			998186,
+			21106,
+			216040,
+			216043,
+			22005
+		],
+		"AllowNormal": true,
+		"Name": {
+			"hash": -1322760119
+		},
+		"TypeName": {
+			"hash": 576394487
+		},
+		"Desc": {
+			"hash": -1556182933
+		},
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/DLC_AL_100",
+		"PrefabPath": "Entities/Monster/DLC/DLC_AL_100/DLC_AL_100",
+		"Scale": 1.5,
+		"Position": [
+			0.2,
+			0.2,
+			1
+		],
+		"Rotation": [
+			0,
+			210,
+			0
+		],
+		"Health": 3,
+		"Attack": 4,
+		"AbilitiesList": [
+			2833,
+			2834,
+			2835,
+			2836,
+			2837
+		],
+		"DetailInfoIDs": [
+			652101,
+			652102,
+			652103
+		],
+		"HideContentWhenLocked": true,
+		"LockedText": {
+			"hash": -970266443
+		},
+		"DataImpl": {},
+		"CollectionMonsterID": 1640021
+	},
+	{
+		"UniqueMonsterID": [
+			20116,
+			20704,
+			20712,
+			20809,
+			998100,
+			216003,
+			216039,
+			216047,
+			216063,
+			22006,
+			22010,
+			21116,
+			21119
+		],
+		"AllowNormal": true,
+		"Name": {
+			"hash": 66357338
+		},
+		"TypeName": {
+			"hash": -1366966135
+		},
+		"Desc": {
+			"hash": 1358070212
+		},
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/DLC_AL_051_Boss",
+		"PrefabPath": "Entities/Monster/DLC/DLC_AL_051_Boss/DLC_AL_051_Boss",
+		"Scale": 0.4,
+		"Position": [
+			0.2,
+			0.8,
+			-3
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"Health": 4,
+		"Attack": 4,
+		"AbilitiesList": [
+			2838,
+			2839,
+			2840,
+			2841,
+			2842,
+			2843,
+			2844,
+			2845,
+			2846
+		],
+		"DetailInfoIDs": [
+			652106,
+			652107,
+			652108
+		],
+		"HideContentWhenLocked": true,
+		"LockedText": {
+			"hash": -970266443
+		},
+		"DataImpl": {},
+		"CollectionMonsterID": 1640022
+	},
+	{
+		"UniqueMonsterID": [
+			20117,
+			20703,
+			20711,
+			21117,
+			21120,
+			216038,
+			216041,
+			216045,
+			22007
+		],
+		"AllowNormal": true,
+		"Name": {
+			"hash": 1053574814
+		},
+		"TypeName": {
+			"hash": -1366966135
+		},
+		"Desc": {
+			"hash": -1949679608
+		},
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/DLC_AL_110_Boss",
+		"PrefabPath": "Entities/Monster/DLC/DLC_AL_110_Boss/DLC_AL_110_Boss",
+		"Scale": 1,
+		"Position": [
+			0,
+			0,
+			0
+		],
+		"Rotation": [
+			0,
+			210,
+			0
+		],
+		"Health": 4,
+		"Attack": 4,
+		"AbilitiesList": [
+			2847,
+			2848,
+			2849,
+			2850,
+			2851,
+			2852,
+			2853,
+			2854,
+			2855,
+			2856
+		],
+		"DetailInfoIDs": [
+			652111,
+			652112,
+			652113
+		],
+		"HideContentWhenLocked": true,
+		"LockedText": {
+			"hash": -970266443
+		},
+		"DataImpl": {},
+		"CollectionMonsterID": 1640023
+	},
+	{
+		"UniqueMonsterID": [
+			20213,
+			20952,
+			215102,
+			21213,
+			216032,
+			216060,
+			22008
+		],
+		"AllowNormal": true,
+		"Name": {
+			"hash": -1119382832
+		},
+		"TypeName": {
+			"hash": 576394487
+		},
+		"Desc": {
+			"hash": -1352805646
+		},
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/DLC_AL_071",
+		"PrefabPath": "Entities/Monster/DLC/DLC_AL_071/DLC_AL_071",
+		"Scale": 1,
+		"Position": [
+			0.2,
+			-0.4,
+			2
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"Health": 2,
+		"Attack": 3,
+		"AbilitiesList": [
+			2368,
+			2369,
+			2370,
+			2371
+		],
+		"DetailInfoIDs": [
+			652116,
+			652117,
+			652118
+		],
+		"HideContentWhenLocked": true,
+		"LockedText": {
+			"hash": -970266443
+		},
+		"DataImpl": {},
+		"CollectionMonsterID": 1640024
+	},
+	{
+		"UniqueMonsterID": [
+			20108,
+			20960,
+			998201,
+			21107,
+			216046,
+			216062,
+			22009
+		],
+		"AllowNormal": true,
+		"Name": {
+			"hash": 1339750924
+		},
+		"TypeName": {
+			"hash": 576394487
+		},
+		"Desc": {
+			"hash": 1106328110
+		},
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/DLC_AL_130",
+		"PrefabPath": "Entities/Monster/DLC/DLC_AL_130/DLC_AL_130",
+		"Scale": 1.5,
+		"Position": [
+			0,
+			0,
+			0
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"Health": 3,
+		"Attack": 3,
+		"AbilitiesList": [
+			2866,
+			2867,
+			2868,
+			2869,
+			2870,
+			2871,
+			2872,
+			2873,
+			2874
+		],
+		"DetailInfoIDs": [
+			652121,
+			652122,
+			652123
+		],
+		"HideContentWhenLocked": true,
+		"LockedText": {
+			"hash": -970266443
+		},
+		"DataImpl": {},
+		"CollectionMonsterID": 1640025
+	},
+	{
+		"UniqueMonsterID": [
+			20119,
+			20901,
+			20959,
+			21125
+		],
+		"AllowNormal": true,
+		"Name": {
+			"hash": 1400577102
+		},
+		"TypeName": {
+			"hash": 576394487
+		},
+		"Desc": {
+			"hash": 1167154288
+		},
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/DLC_AL_051",
+		"PrefabPath": "Entities/Monster/DLC/DLC_AL_051/DLC_AL_051",
+		"Scale": 0.4,
+		"Position": [
+			0.2,
+			0.8,
+			-3
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"Health": 3,
+		"Attack": 3,
+		"AbilitiesList": [
+			2857,
+			2858,
+			2859,
+			2860,
+			2861
+		],
+		"DetailInfoIDs": [
+			652126,
+			652127,
+			652128
+		],
+		"HideContentWhenLocked": true,
+		"LockedText": {
+			"hash": -970266443
+		},
+		"DataImpl": {},
+		"CollectionMonsterID": 1640026
+	},
+	{
+		"UniqueMonsterID": [
+			20121,
+			20902,
+			20958,
+			21126
+		],
+		"AllowNormal": true,
+		"Name": {
+			"hash": -435256438
+		},
+		"TypeName": {
+			"hash": 576394487
+		},
+		"Desc": {
+			"hash": -668679252
+		},
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/DLC_AL_110",
+		"PrefabPath": "Entities/Monster/DLC/DLC_AL_110/DLC_AL_110",
+		"Scale": 1,
+		"Position": [
+			0,
+			0,
+			0
+		],
+		"Rotation": [
+			0,
+			210,
+			0
+		],
+		"Health": 3,
+		"Attack": 2,
+		"AbilitiesList": [
+			2862,
+			2863,
+			2864,
+			2865
+		],
+		"DetailInfoIDs": [
+			652131,
+			652132,
+			652133
+		],
+		"HideContentWhenLocked": true,
+		"LockedText": {
+			"hash": -970266443
+		},
+		"DataImpl": {},
+		"CollectionMonsterID": 1640027
+	},
+	{
+		"UniqueMonsterID": [
+			20208,
+			20950,
+			21208
+		],
+		"AllowNormal": true,
+		"Name": {
+			"hash": 1429206253
+		},
+		"TypeName": {
+			"hash": 576394487
+		},
+		"Desc": {
+			"hash": 1195783439
+		},
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/DLC_AL_052",
+		"PrefabPath": "Entities/Monster/DLC/DLC_AL_052/DLC_AL_052",
+		"Scale": 0.55,
+		"Position": [
+			0,
+			0,
+			0
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"Health": 2,
+		"Attack": 4,
+		"AbilitiesList": [
+			2345,
+			2410,
+			2411,
+			2412,
+			2346,
+			2347,
+			2348,
+			2349
+		],
+		"DetailInfoIDs": [
+			652136,
+			652137,
+			652138
+		],
+		"HideContentWhenLocked": true,
+		"LockedText": {
+			"hash": -970266443
+		},
+		"DataImpl": {},
+		"CollectionMonsterID": 1640028
+	},
+	{
+		"UniqueMonsterID": [
+			20210,
+			20951,
+			21210,
+			216055
+		],
+		"AllowNormal": true,
+		"Name": {
+			"hash": -1978257362
+		},
+		"TypeName": {
+			"hash": 576394487
+		},
+		"Desc": {
+			"hash": 2083287120
+		},
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/DLC_AL_062",
+		"PrefabPath": "Entities/Monster/DLC/DLC_AL_062/DLC_AL_062",
+		"Scale": 0.7,
+		"Position": [
+			-1.9,
+			0.2,
+			1
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"Health": 2,
+		"Attack": 3,
+		"AbilitiesList": [
+			2364,
+			2365,
+			2366,
+			2367
+		],
+		"DetailInfoIDs": [
+			652141,
+			652142,
+			652143
+		],
+		"HideContentWhenLocked": true,
+		"LockedText": {
+			"hash": -970266443
+		},
+		"DataImpl": {},
+		"CollectionMonsterID": 1640029
+	},
+	{
+		"UniqueMonsterID": [
+			20118,
+			20705,
+			20713,
+			21118,
+			216042,
+			216048,
+			216064,
+			22011
+		],
+		"AllowNormal": true,
+		"Name": {
+			"hash": 100290770
+		},
+		"TypeName": {
+			"hash": -1366966135
+		},
+		"Desc": {
+			"hash": -27802624
+		},
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/DLC_Void_Archives",
+		"PrefabPath": "Entities/Monster/DLC/DLC_Void_Archives/DLC_Void_Archives",
+		"Scale": 1.5,
+		"Position": [
+			0,
+			0,
+			0
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"Health": 4,
+		"Attack": 4,
+		"AbilitiesList": [
+			2875,
+			2876,
+			2877,
+			2878,
+			2879,
+			2880,
+			2881,
+			2882,
+			2883
+		],
+		"DetailInfoIDs": [
+			652146,
+			652147,
+			652148
+		],
+		"HideContentWhenLocked": true,
+		"LockedText": {
+			"hash": -970266443
+		},
+		"DataImpl": {},
+		"CollectionMonsterID": 1640030
+	},
+	{
+		"UniqueMonsterID": [
+			20515,
+			20516,
+			20517
+		],
+		"AllowNormal": true,
+		"Name": {
+			"hash": 1182657533
+		},
+		"TypeName": {
+			"hash": -1366966135
+		},
+		"Desc": {
+			"hash": 907342757
+		},
+		"Icon": "SpriteOutput/OpenWorld/QuestBossIcon/DLC_AL_120_Boss",
+		"PrefabPath": "Entities/Monster/DLC/DLC_AL_120_Boss/DLC_AL_120_Boss",
+		"Scale": 0.02,
+		"Position": [
+			0,
+			1.5,
+			0
+		],
+		"Rotation": [
+			0,
+			150,
+			0
+		],
+		"Health": 5,
+		"Attack": 4,
+		"AbilitiesList": [
+			2889,
+			2890,
+			2891,
+			2892,
+			2893,
+			2894,
+			2895,
+			2896,
+			2897,
+			2898,
+			2899,
+			2900,
+			2901,
+			2902,
+			2903,
+			2904,
+			2905,
+			2906,
+			2907,
+			2908,
+			2909,
+			2910,
+			2911,
+			2912
+		],
+		"DetailInfoIDs": [
+			652151,
+			652152,
+			652153
+		],
+		"HideContentWhenLocked": true,
+		"LockedText": {
+			"hash": -970266443
+		},
+		"DataImpl": {},
+		"CollectionMonsterID": 1640031
+	}
+]

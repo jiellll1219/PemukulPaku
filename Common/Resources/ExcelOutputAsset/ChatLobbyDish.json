@@ -1,0 +1,34 @@
+[
+	{
+		"RewardIDList": [
+			{
+				"RewardID1st": 1509018,
+				"RewardID2nd": 0
+			},
+			{
+				"RewardID1st": 1509020,
+				"RewardID2nd": 0
+			},
+			{
+				"RewardID1st": 1509022,
+				"RewardID2nd": 0
+			}
+		],
+		"RewardGetLimit": 1,
+		"RewardGetColdDown": 300,
+		"DataImpl": {},
+		"ActivityID": 113
+	},
+	{
+		"RewardIDList": [
+			{
+				"RewardID1st": 1483626,
+				"RewardID2nd": 1483619
+			}
+		],
+		"RewardGetLimit": 1,
+		"RewardGetColdDown": 300,
+		"DataImpl": {},
+		"ActivityID": 124
+	}
+]

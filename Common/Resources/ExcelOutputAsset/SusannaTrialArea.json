@@ -1,0 +1,123 @@
+[
+	{
+		"ProgressMaterialId": 126506,
+		"HiddenStageNum": 1,
+		"AreaTopCurrency": [
+			126501,
+			126502,
+			126503
+		],
+		"AreaOutput": 1500,
+		"MissionSkillID": [
+			15101
+		],
+		"SkillUISIte": "Tutor2",
+		"TutorIcon": "SpriteOutput/SusannaTrial/Avater/CharaHeadTutorLisushang",
+		"HardLevelHint": [
+			{
+				"Level": 2,
+				"RpgSkillID": 15101
+			}
+		],
+		"HintTextMap": {
+			"hash": -98402494
+		},
+		"PlotID": 57179,
+		"TimeLimit": {
+			"TimeStampForBakedReader": 1676887200
+		},
+		"ProcessLimit": [],
+		"TimeLimitHint": {
+			"hash": 0
+		},
+		"ProcessLimitHint": {
+			"hash": 0
+		},
+		"DataImpl": {},
+		"ID": 21002
+	},
+	{
+		"ProgressMaterialId": 126507,
+		"HiddenStageNum": 1,
+		"AreaTopCurrency": [
+			126501,
+			126502,
+			126504
+		],
+		"AreaOutput": 1500,
+		"MissionSkillID": [
+			15111
+		],
+		"SkillUISIte": "Tutor1",
+		"TutorIcon": "SpriteOutput/SusannaTrial/Avater/CharaHeadTutorOrlandaleg",
+		"HardLevelHint": [
+			{
+				"Level": 2,
+				"RpgSkillID": 15111
+			}
+		],
+		"HintTextMap": {
+			"hash": 196861237
+		},
+		"PlotID": 57173,
+		"TimeLimit": {
+			"TimeStampForBakedReader": 1681120800
+		},
+		"ProcessLimit": [
+			{
+				"AreaID": 21002,
+				"Number": 100
+			}
+		],
+		"TimeLimitHint": {
+			"hash": -913831191
+		},
+		"ProcessLimitHint": {
+			"hash": -433281698
+		},
+		"DataImpl": {},
+		"ID": 21003
+	},
+	{
+		"ProgressMaterialId": 126508,
+		"HiddenStageNum": 1,
+		"AreaTopCurrency": [
+			126501,
+			126502,
+			126505
+		],
+		"AreaOutput": 1500,
+		"MissionSkillID": [
+			15121
+		],
+		"SkillUISIte": "Tutor3",
+		"TutorIcon": "SpriteOutput/SusannaTrial/Avater/CharaHeadTutorLita",
+		"HardLevelHint": [
+			{
+				"Level": 2,
+				"RpgSkillID": 15121
+			}
+		],
+		"HintTextMap": {
+			"hash": 318800105
+		},
+		"PlotID": 57176,
+		"TimeLimit": {
+			"TimeStampForBakedReader": 1681466400
+		},
+		"ProcessLimit": [
+			{
+				"AreaID": 21003,
+				"Number": 100
+			}
+		],
+		"TimeLimitHint": {
+			"hash": -771350347
+		},
+		"ProcessLimitHint": {
+			"hash": -1294797526
+		},
+		"DataImpl": {},
+		"ID": 21004
+	}
+]

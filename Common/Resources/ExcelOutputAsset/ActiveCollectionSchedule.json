@@ -1,0 +1,52 @@
+[
+	{
+		"BGPath": "event/Immediately/ActivityPage/5.4_test1",
+		"TitleTextMap": "CL_OVERSEAS_ACTIVE_COLLECTION",
+		"TitleIconImagePath": "SpriteOutput/Activity/ActivityTabIcons/IconStar",
+		"CurrencyIDList": [
+			1061400
+		],
+		"ActiveItemList": [
+			1,
+			2,
+			3,
+			4,
+			5
+		],
+		"StartTime": {
+			"TimeStampForBakedReader": 1643364000
+		},
+		"EndTime": {
+			"TimeStampForBakedReader": 1643947199
+		},
+		"MinLevel": 14,
+		"MaxLevel": 99,
+		"DataImpl": {},
+		"ID": 1
+	},
+	{
+		"BGPath": "event/Immediately/ActivityPage/5.9_test1",
+		"TitleTextMap": "CL_OVERSEAS_ACTIVE_COLLECTION",
+		"TitleIconImagePath": "SpriteOutput/Activity/ActivityTabIcons/IconActivityOthers",
+		"CurrencyIDList": [
+			1061670
+		],
+		"ActiveItemList": [
+			6,
+			7,
+			8,
+			9,
+			10
+		],
+		"StartTime": {
+			"TimeStampForBakedReader": 1629626400
+		},
+		"EndTime": {
+			"TimeStampForBakedReader": 1631678399
+		},
+		"MinLevel": 25,
+		"MaxLevel": 99,
+		"DataImpl": {},
+		"ID": 2
+	}
+]

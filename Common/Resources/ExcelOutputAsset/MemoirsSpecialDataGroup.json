@@ -1,0 +1,1851 @@
+[
+	{
+		"SpecialDataIDList": [
+			101,
+			102
+		],
+		"ConditionType": 1,
+		"Condition": "1,2",
+		"Desc": {
+			"hash": -1117230267
+		},
+		"DataImpl": {},
+		"GroupID": 111,
+		"ID": 1
+	},
+	{
+		"SpecialDataIDList": [
+			101,
+			102
+		],
+		"ConditionType": 1,
+		"Condition": "2,3",
+		"Desc": {
+			"hash": -1117230266
+		},
+		"DataImpl": {},
+		"GroupID": 111,
+		"ID": 2
+	},
+	{
+		"SpecialDataIDList": [
+			101,
+			102
+		],
+		"ConditionType": 1,
+		"Condition": "3,4",
+		"Desc": {
+			"hash": -1117230265
+		},
+		"DataImpl": {},
+		"GroupID": 111,
+		"ID": 3
+	},
+	{
+		"SpecialDataIDList": [
+			101,
+			102
+		],
+		"ConditionType": 1,
+		"Condition": "4,5",
+		"Desc": {
+			"hash": -1117230264
+		},
+		"DataImpl": {},
+		"GroupID": 111,
+		"ID": 4
+	},
+	{
+		"SpecialDataIDList": [
+			101,
+			102
+		],
+		"ConditionType": 1,
+		"Condition": "5,6",
+		"Desc": {
+			"hash": -1117230263
+		},
+		"DataImpl": {},
+		"GroupID": 111,
+		"ID": 5
+	},
+	{
+		"SpecialDataIDList": [
+			101,
+			102
+		],
+		"ConditionType": 1,
+		"Condition": "6,7",
+		"Desc": {
+			"hash": -1117230262
+		},
+		"DataImpl": {},
+		"GroupID": 111,
+		"ID": 6
+	},
+	{
+		"SpecialDataIDList": [
+			101,
+			102
+		],
+		"ConditionType": 1,
+		"Condition": "7,8",
+		"Desc": {
+			"hash": -1117230261
+		},
+		"DataImpl": {},
+		"GroupID": 111,
+		"ID": 7
+	},
+	{
+		"SpecialDataIDList": [
+			103,
+			105
+		],
+		"ConditionType": 1,
+		"Condition": "0,1;1,3",
+		"Desc": {
+			"hash": -1117200476
+		},
+		"DataImpl": {},
+		"GroupID": 121,
+		"ID": 1
+	},
+	{
+		"SpecialDataIDList": [
+			103,
+			105
+		],
+		"ConditionType": 1,
+		"Condition": "0,1;3,10",
+		"Desc": {
+			"hash": -1117200475
+		},
+		"DataImpl": {},
+		"GroupID": 121,
+		"ID": 2
+	},
+	{
+		"SpecialDataIDList": [
+			103,
+			105
+		],
+		"ConditionType": 1,
+		"Condition": "0,1;10,2147483647",
+		"Desc": {
+			"hash": -1117200474
+		},
+		"DataImpl": {},
+		"GroupID": 121,
+		"ID": 3
+	},
+	{
+		"SpecialDataIDList": [
+			103,
+			105,
+			104
+		],
+		"ConditionType": 1,
+		"Condition": "1,2;0,3;1,2147483647",
+		"Desc": {
+			"hash": -1117199515
+		},
+		"DataImpl": {},
+		"GroupID": 122,
+		"ID": 1
+	},
+	{
+		"SpecialDataIDList": [
+			103,
+			105,
+			104
+		],
+		"ConditionType": 1,
+		"Condition": "1,2;3,10;1,2147483647",
+		"Desc": {
+			"hash": -1117199514
+		},
+		"DataImpl": {},
+		"GroupID": 122,
+		"ID": 2
+	},
+	{
+		"SpecialDataIDList": [
+			103,
+			105,
+			104
+		],
+		"ConditionType": 1,
+		"Condition": "1,2;10,2147483647;1,2147483647",
+		"Desc": {
+			"hash": -1117199513
+		},
+		"DataImpl": {},
+		"GroupID": 122,
+		"ID": 3
+	},
+	{
+		"SpecialDataIDList": [
+			106
+		],
+		"ConditionType": 1,
+		"Condition": "1,2147483647",
+		"Desc": {
+			"hash": -1117198554
+		},
+		"DataImpl": {},
+		"GroupID": 123,
+		"ID": 1
+	},
+	{
+		"SpecialDataIDList": [
+			201
+		],
+		"ConditionType": 1,
+		"Condition": "0,111",
+		"Desc": {
+			"hash": -1116306746
+		},
+		"DataImpl": {},
+		"GroupID": 211,
+		"ID": 1
+	},
+	{
+		"SpecialDataIDList": [
+			201
+		],
+		"ConditionType": 1,
+		"Condition": "111,207",
+		"Desc": {
+			"hash": -1116306745
+		},
+		"DataImpl": {},
+		"GroupID": 211,
+		"ID": 2
+	},
+	{
+		"SpecialDataIDList": [
+			201
+		],
+		"ConditionType": 1,
+		"Condition": "207,308",
+		"Desc": {
+			"hash": -1116306744
+		},
+		"DataImpl": {},
+		"GroupID": 211,
+		"ID": 3
+	},
+	{
+		"SpecialDataIDList": [
+			201
+		],
+		"ConditionType": 1,
+		"Condition": "308,412",
+		"Desc": {
+			"hash": -1116306743
+		},
+		"DataImpl": {},
+		"GroupID": 211,
+		"ID": 4
+	},
+	{
+		"SpecialDataIDList": [
+			302,
+			301
+		],
+		"ConditionType": 1,
+		"Condition": "1,1000;0,102401",
+		"Desc": {
+			"hash": -1115383225
+		},
+		"DataImpl": {},
+		"GroupID": 311,
+		"ID": 1
+	},
+	{
+		"SpecialDataIDList": [
+			302,
+			301
+		],
+		"ConditionType": 1,
+		"Condition": "1000,5000;0,102401",
+		"Desc": {
+			"hash": -1115383224
+		},
+		"DataImpl": {},
+		"GroupID": 311,
+		"ID": 2
+	},
+	{
+		"SpecialDataIDList": [
+			302,
+			301
+		],
+		"ConditionType": 1,
+		"Condition": "5000,10000;0,102401",
+		"Desc": {
+			"hash": -1115383223
+		},
+		"DataImpl": {},
+		"GroupID": 311,
+		"ID": 3
+	},
+	{
+		"SpecialDataIDList": [
+			302,
+			301
+		],
+		"ConditionType": 1,
+		"Condition": "10000,20000;0,102401",
+		"Desc": {
+			"hash": -1115383222
+		},
+		"DataImpl": {},
+		"GroupID": 311,
+		"ID": 4
+	},
+	{
+		"SpecialDataIDList": [
+			302,
+			301
+		],
+		"ConditionType": 1,
+		"Condition": "20000,50000;0,102401",
+		"Desc": {
+			"hash": -1115383221
+		},
+		"DataImpl": {},
+		"GroupID": 311,
+		"ID": 5
+	},
+	{
+		"SpecialDataIDList": [
+			302,
+			301
+		],
+		"ConditionType": 1,
+		"Condition": "50000,2147483647;0,102401",
+		"Desc": {
+			"hash": -1115383220
+		},
+		"DataImpl": {},
+		"GroupID": 311,
+		"ID": 6
+	},
+	{
+		"SpecialDataIDList": [
+			303,
+			304
+		],
+		"ConditionType": 1,
+		"Condition": "101,102",
+		"Desc": {
+			"hash": -1115353434
+		},
+		"DataImpl": {},
+		"GroupID": 321,
+		"ID": 1
+	},
+	{
+		"SpecialDataIDList": [
+			303,
+			304
+		],
+		"ConditionType": 1,
+		"Condition": "102,103",
+		"Desc": {
+			"hash": -1115353433
+		},
+		"DataImpl": {},
+		"GroupID": 321,
+		"ID": 2
+	},
+	{
+		"SpecialDataIDList": [
+			303,
+			304
+		],
+		"ConditionType": 1,
+		"Condition": "103,104",
+		"Desc": {
+			"hash": -1115353432
+		},
+		"DataImpl": {},
+		"GroupID": 321,
+		"ID": 3
+	},
+	{
+		"SpecialDataIDList": [
+			401
+		],
+		"ConditionType": 1,
+		"Condition": "1,5",
+		"Desc": {
+			"hash": -1114459704
+		},
+		"DataImpl": {},
+		"GroupID": 411,
+		"ID": 1
+	},
+	{
+		"SpecialDataIDList": [
+			401
+		],
+		"ConditionType": 1,
+		"Condition": "5,20",
+		"Desc": {
+			"hash": -1114459703
+		},
+		"DataImpl": {},
+		"GroupID": 411,
+		"ID": 2
+	},
+	{
+		"SpecialDataIDList": [
+			401
+		],
+		"ConditionType": 1,
+		"Condition": "20,2147483647",
+		"Desc": {
+			"hash": -1114459702
+		},
+		"DataImpl": {},
+		"GroupID": 411,
+		"ID": 3
+	},
+	{
+		"SpecialDataIDList": [
+			402
+		],
+		"ConditionType": 1,
+		"Condition": "1,3",
+		"Desc": {
+			"hash": -1114429913
+		},
+		"DataImpl": {},
+		"GroupID": 421,
+		"ID": 1
+	},
+	{
+		"SpecialDataIDList": [
+			402
+		],
+		"ConditionType": 1,
+		"Condition": "3,6",
+		"Desc": {
+			"hash": -1114429912
+		},
+		"DataImpl": {},
+		"GroupID": 421,
+		"ID": 2
+	},
+	{
+		"SpecialDataIDList": [
+			402
+		],
+		"ConditionType": 1,
+		"Condition": "6,100000",
+		"Desc": {
+			"hash": -1114429911
+		},
+		"DataImpl": {},
+		"GroupID": 421,
+		"ID": 3
+	},
+	{
+		"SpecialDataIDList": [
+			501
+		],
+		"ConditionType": 1,
+		"Condition": "1,10",
+		"Desc": {
+			"hash": -1113536183
+		},
+		"DataImpl": {},
+		"GroupID": 511,
+		"ID": 1
+	},
+	{
+		"SpecialDataIDList": [
+			501
+		],
+		"ConditionType": 1,
+		"Condition": "10,20",
+		"Desc": {
+			"hash": -1113536182
+		},
+		"DataImpl": {},
+		"GroupID": 511,
+		"ID": 2
+	},
+	{
+		"SpecialDataIDList": [
+			501
+		],
+		"ConditionType": 1,
+		"Condition": "20,30",
+		"Desc": {
+			"hash": -1113536181
+		},
+		"DataImpl": {},
+		"GroupID": 511,
+		"ID": 3
+	},
+	{
+		"SpecialDataIDList": [
+			501
+		],
+		"ConditionType": 1,
+		"Condition": "30,2147483647",
+		"Desc": {
+			"hash": -1113536180
+		},
+		"DataImpl": {},
+		"GroupID": 511,
+		"ID": 4
+	},
+	{
+		"SpecialDataIDList": [
+			601
+		],
+		"ConditionType": 1,
+		"Condition": "0,1533196800",
+		"Desc": {
+			"hash": -1112612662
+		},
+		"DataImpl": {},
+		"GroupID": 611,
+		"ID": 1
+	},
+	{
+		"SpecialDataIDList": [
+			601
+		],
+		"ConditionType": 1,
+		"Condition": "1533196800,2147483647",
+		"Desc": {
+			"hash": -1112612661
+		},
+		"DataImpl": {},
+		"GroupID": 611,
+		"ID": 2
+	},
+	{
+		"SpecialDataIDList": [
+			702,
+			701
+		],
+		"ConditionType": 1,
+		"Condition": "1,10;0,1",
+		"Desc": {
+			"hash": -1111689141
+		},
+		"DataImpl": {},
+		"GroupID": 711,
+		"ID": 1
+	},
+	{
+		"SpecialDataIDList": [
+			702,
+			701
+		],
+		"ConditionType": 1,
+		"Condition": "10,30;0,1",
+		"Desc": {
+			"hash": -1111689140
+		},
+		"DataImpl": {},
+		"GroupID": 711,
+		"ID": 2
+	},
+	{
+		"SpecialDataIDList": [
+			702,
+			701
+		],
+		"ConditionType": 1,
+		"Condition": "30,2147483647;0,1",
+		"Desc": {
+			"hash": -1111689139
+		},
+		"DataImpl": {},
+		"GroupID": 711,
+		"ID": 3
+	},
+	{
+		"SpecialDataIDList": [
+			702,
+			701
+		],
+		"ConditionType": 1,
+		"Condition": "1,2;1,2",
+		"Desc": {
+			"hash": -1111689138
+		},
+		"DataImpl": {},
+		"GroupID": 711,
+		"ID": 4
+	},
+	{
+		"SpecialDataIDList": [
+			702,
+			701
+		],
+		"ConditionType": 1,
+		"Condition": "2,20;1,2",
+		"Desc": {
+			"hash": -1111689137
+		},
+		"DataImpl": {},
+		"GroupID": 711,
+		"ID": 5
+	},
+	{
+		"SpecialDataIDList": [
+			702,
+			701
+		],
+		"ConditionType": 1,
+		"Condition": "20,50;1,2",
+		"Desc": {
+			"hash": -1111689136
+		},
+		"DataImpl": {},
+		"GroupID": 711,
+		"ID": 6
+	},
+	{
+		"SpecialDataIDList": [
+			702,
+			701
+		],
+		"ConditionType": 1,
+		"Condition": "50,2147483647;1,2",
+		"Desc": {
+			"hash": -1111689135
+		},
+		"DataImpl": {},
+		"GroupID": 711,
+		"ID": 7
+	},
+	{
+		"SpecialDataIDList": [
+			802
+		],
+		"ConditionType": 1,
+		"Condition": "1,2",
+		"Desc": {
+			"hash": -1110765620
+		},
+		"DataImpl": {},
+		"GroupID": 811,
+		"ID": 1
+	},
+	{
+		"SpecialDataIDList": [
+			802
+		],
+		"ConditionType": 1,
+		"Condition": "2,3",
+		"Desc": {
+			"hash": -1110765619
+		},
+		"DataImpl": {},
+		"GroupID": 811,
+		"ID": 2
+	},
+	{
+		"SpecialDataIDList": [
+			802
+		],
+		"ConditionType": 1,
+		"Condition": "3,4",
+		"Desc": {
+			"hash": -1110765618
+		},
+		"DataImpl": {},
+		"GroupID": 811,
+		"ID": 3
+	},
+	{
+		"SpecialDataIDList": [
+			802
+		],
+		"ConditionType": 1,
+		"Condition": "4,5",
+		"Desc": {
+			"hash": -1110765617
+		},
+		"DataImpl": {},
+		"GroupID": 811,
+		"ID": 4
+	},
+	{
+		"SpecialDataIDList": [
+			802
+		],
+		"ConditionType": 1,
+		"Condition": "5,6",
+		"Desc": {
+			"hash": -1110765616
+		},
+		"DataImpl": {},
+		"GroupID": 811,
+		"ID": 5
+	},
+	{
+		"SpecialDataIDList": [
+			804
+		],
+		"ConditionType": 1,
+		"Condition": "10001,10002",
+		"Desc": {
+			"hash": -1110735829
+		},
+		"DataImpl": {},
+		"GroupID": 821,
+		"ID": 1
+	},
+	{
+		"SpecialDataIDList": [
+			804
+		],
+		"ConditionType": 1,
+		"Condition": "10002,10003",
+		"Desc": {
+			"hash": -1110735828
+		},
+		"DataImpl": {},
+		"GroupID": 821,
+		"ID": 2
+	},
+	{
+		"SpecialDataIDList": [
+			804
+		],
+		"ConditionType": 1,
+		"Condition": "10003,10005",
+		"Desc": {
+			"hash": -1110735827
+		},
+		"DataImpl": {},
+		"GroupID": 821,
+		"ID": 3
+	},
+	{
+		"SpecialDataIDList": [
+			804
+		],
+		"ConditionType": 1,
+		"Condition": "10005,10006",
+		"Desc": {
+			"hash": -1110735826
+		},
+		"DataImpl": {},
+		"GroupID": 821,
+		"ID": 4
+	},
+	{
+		"SpecialDataIDList": [
+			804
+		],
+		"ConditionType": 1,
+		"Condition": "10006,10008",
+		"Desc": {
+			"hash": -1110735825
+		},
+		"DataImpl": {},
+		"GroupID": 821,
+		"ID": 5
+	},
+	{
+		"SpecialDataIDList": [
+			804
+		],
+		"ConditionType": 1,
+		"Condition": "10008,10009",
+		"Desc": {
+			"hash": -1110735824
+		},
+		"DataImpl": {},
+		"GroupID": 821,
+		"ID": 6
+	},
+	{
+		"SpecialDataIDList": [
+			804
+		],
+		"ConditionType": 1,
+		"Condition": "10009,10010",
+		"Desc": {
+			"hash": -1110735823
+		},
+		"DataImpl": {},
+		"GroupID": 821,
+		"ID": 7
+	},
+	{
+		"SpecialDataIDList": [
+			804
+		],
+		"ConditionType": 1,
+		"Condition": "10010,10011",
+		"Desc": {
+			"hash": -1110735822
+		},
+		"DataImpl": {},
+		"GroupID": 821,
+		"ID": 8
+	},
+	{
+		"SpecialDataIDList": [
+			804
+		],
+		"ConditionType": 1,
+		"Condition": "10011,10012",
+		"Desc": {
+			"hash": -1110735821
+		},
+		"DataImpl": {},
+		"GroupID": 821,
+		"ID": 9
+	},
+	{
+		"SpecialDataIDList": [
+			804
+		],
+		"ConditionType": 1,
+		"Condition": "10012,10013",
+		"Desc": {
+			"hash": -73072283
+		},
+		"DataImpl": {},
+		"GroupID": 821,
+		"ID": 10
+	},
+	{
+		"SpecialDataIDList": [
+			804
+		],
+		"ConditionType": 1,
+		"Condition": "10013,10014",
+		"Desc": {
+			"hash": -73072282
+		},
+		"DataImpl": {},
+		"GroupID": 821,
+		"ID": 11
+	},
+	{
+		"SpecialDataIDList": [
+			804
+		],
+		"ConditionType": 1,
+		"Condition": "10014,10015",
+		"Desc": {
+			"hash": -73072281
+		},
+		"DataImpl": {},
+		"GroupID": 821,
+		"ID": 12
+	},
+	{
+		"SpecialDataIDList": [
+			804
+		],
+		"ConditionType": 1,
+		"Condition": "10015,2147483647",
+		"Desc": {
+			"hash": -73072280
+		},
+		"DataImpl": {},
+		"GroupID": 821,
+		"ID": 13
+	},
+	{
+		"SpecialDataIDList": [
+			901
+		],
+		"ConditionType": 1,
+		"Condition": "1,3",
+		"Desc": {
+			"hash": -1109842099
+		},
+		"DataImpl": {},
+		"GroupID": 911,
+		"ID": 1
+	},
+	{
+		"SpecialDataIDList": [
+			901
+		],
+		"ConditionType": 1,
+		"Condition": "3,6",
+		"Desc": {
+			"hash": -1109842098
+		},
+		"DataImpl": {},
+		"GroupID": 911,
+		"ID": 2
+	},
+	{
+		"SpecialDataIDList": [
+			901
+		],
+		"ConditionType": 1,
+		"Condition": "6,2147483647",
+		"Desc": {
+			"hash": -1109842097
+		},
+		"DataImpl": {},
+		"GroupID": 911,
+		"ID": 3
+	},
+	{
+		"SpecialDataIDList": [
+			1001,
+			1002
+		],
+		"ConditionType": 1,
+		"Condition": "1,2",
+		"Desc": {
+			"hash": -275366161
+		},
+		"DataImpl": {},
+		"GroupID": 1011,
+		"ID": 1
+	},
+	{
+		"SpecialDataIDList": [
+			1001,
+			1002
+		],
+		"ConditionType": 1,
+		"Condition": "2,3",
+		"Desc": {
+			"hash": -275366160
+		},
+		"DataImpl": {},
+		"GroupID": 1011,
+		"ID": 2
+	},
+	{
+		"SpecialDataIDList": [
+			1001,
+			1002
+		],
+		"ConditionType": 1,
+		"Condition": "3,4",
+		"Desc": {
+			"hash": -275366159
+		},
+		"DataImpl": {},
+		"GroupID": 1011,
+		"ID": 3
+	},
+	{
+		"SpecialDataIDList": [
+			1003,
+			1004
+		],
+		"ConditionType": 1,
+		"Condition": "1,2",
+		"Desc": {
+			"hash": -275365200
+		},
+		"DataImpl": {},
+		"GroupID": 1012,
+		"ID": 1
+	},
+	{
+		"SpecialDataIDList": [
+			1003,
+			1004
+		],
+		"ConditionType": 1,
+		"Condition": "2,3",
+		"Desc": {
+			"hash": -275365199
+		},
+		"DataImpl": {},
+		"GroupID": 1012,
+		"ID": 2
+	},
+	{
+		"SpecialDataIDList": [
+			1003,
+			1004
+		],
+		"ConditionType": 1,
+		"Condition": "3,4",
+		"Desc": {
+			"hash": -275365198
+		},
+		"DataImpl": {},
+		"GroupID": 1012,
+		"ID": 3
+	},
+	{
+		"SpecialDataIDList": [
+			1009,
+			1007,
+			1008
+		],
+		"ConditionType": 1,
+		"Condition": "1,2",
+		"Desc": {
+			"hash": -275336370
+		},
+		"DataImpl": {},
+		"GroupID": 1021,
+		"ID": 1
+	},
+	{
+		"SpecialDataIDList": [
+			1009,
+			1007,
+			1008
+		],
+		"ConditionType": 1,
+		"Condition": "2,3",
+		"Desc": {
+			"hash": -275336369
+		},
+		"DataImpl": {},
+		"GroupID": 1021,
+		"ID": 2
+	},
+	{
+		"SpecialDataIDList": [
+			1009,
+			1007,
+			1008
+		],
+		"ConditionType": 1,
+		"Condition": "3,4",
+		"Desc": {
+			"hash": -275336368
+		},
+		"DataImpl": {},
+		"GroupID": 1021,
+		"ID": 3
+	},
+	{
+		"SpecialDataIDList": [
+			1009,
+			1007,
+			1008
+		],
+		"ConditionType": 1,
+		"Condition": "4,5",
+		"Desc": {
+			"hash": -275336367
+		},
+		"DataImpl": {},
+		"GroupID": 1021,
+		"ID": 4
+	},
+	{
+		"SpecialDataIDList": [
+			1009,
+			1007,
+			1008
+		],
+		"ConditionType": 1,
+		"Condition": "5,6",
+		"Desc": {
+			"hash": -275336366
+		},
+		"DataImpl": {},
+		"GroupID": 1021,
+		"ID": 5
+	},
+	{
+		"SpecialDataIDList": [
+			1101
+		],
+		"ConditionType": 1,
+		"Condition": "",
+		"Desc": {
+			"hash": -274442640
+		},
+		"DataImpl": {},
+		"GroupID": 1111,
+		"ID": 1
+	},
+	{
+		"SpecialDataIDList": [
+			1201
+		],
+		"ConditionType": 1,
+		"Condition": "",
+		"Desc": {
+			"hash": -273519119
+		},
+		"DataImpl": {},
+		"GroupID": 1211,
+		"ID": 1
+	},
+	{
+		"SpecialDataIDList": [
+			1202
+		],
+		"ConditionType": 1,
+		"Condition": "24011,24012",
+		"Desc": {
+			"hash": -273489328
+		},
+		"DataImpl": {},
+		"GroupID": 1221,
+		"ID": 1
+	},
+	{
+		"SpecialDataIDList": [
+			1202
+		],
+		"ConditionType": 1,
+		"Condition": "24021,24022",
+		"Desc": {
+			"hash": -273489327
+		},
+		"DataImpl": {},
+		"GroupID": 1221,
+		"ID": 2
+	},
+	{
+		"SpecialDataIDList": [
+			1202
+		],
+		"ConditionType": 1,
+		"Condition": "24031,24032",
+		"Desc": {
+			"hash": -273489326
+		},
+		"DataImpl": {},
+		"GroupID": 1221,
+		"ID": 3
+	},
+	{
+		"SpecialDataIDList": [
+			1202
+		],
+		"ConditionType": 1,
+		"Condition": "24041,24042",
+		"Desc": {
+			"hash": -273489325
+		},
+		"DataImpl": {},
+		"GroupID": 1221,
+		"ID": 4
+	},
+	{
+		"SpecialDataIDList": [
+			1301
+		],
+		"ConditionType": 1,
+		"Condition": "15200001,15200011",
+		"Desc": {
+			"hash": -272595598
+		},
+		"DataImpl": {},
+		"GroupID": 1311,
+		"ID": 1
+	},
+	{
+		"SpecialDataIDList": [
+			1301
+		],
+		"ConditionType": 1,
+		"Condition": "15200011,15200021",
+		"Desc": {
+			"hash": -272595597
+		},
+		"DataImpl": {},
+		"GroupID": 1311,
+		"ID": 2
+	},
+	{
+		"SpecialDataIDList": [
+			1301
+		],
+		"ConditionType": 1,
+		"Condition": "15200021,15200031",
+		"Desc": {
+			"hash": -272595596
+		},
+		"DataImpl": {},
+		"GroupID": 1311,
+		"ID": 3
+	},
+	{
+		"SpecialDataIDList": [
+			1301
+		],
+		"ConditionType": 1,
+		"Condition": "15200031,15200041",
+		"Desc": {
+			"hash": -272595595
+		},
+		"DataImpl": {},
+		"GroupID": 1311,
+		"ID": 4
+	},
+	{
+		"SpecialDataIDList": [
+			1301
+		],
+		"ConditionType": 1,
+		"Condition": "15200041,15200051",
+		"Desc": {
+			"hash": -272595594
+		},
+		"DataImpl": {},
+		"GroupID": 1311,
+		"ID": 5
+	},
+	{
+		"SpecialDataIDList": [
+			1301
+		],
+		"ConditionType": 1,
+		"Condition": "15200051,15200063",
+		"Desc": {
+			"hash": -272595593
+		},
+		"DataImpl": {},
+		"GroupID": 1311,
+		"ID": 6
+	},
+	{
+		"SpecialDataIDList": [
+			1301
+		],
+		"ConditionType": 1,
+		"Condition": "15200063,2147483647",
+		"Desc": {
+			"hash": -272595592
+		},
+		"DataImpl": {},
+		"GroupID": 1311,
+		"ID": 7
+	},
+	{
+		"SpecialDataIDList": [
+			1302
+		],
+		"ConditionType": 1,
+		"Condition": "13001,13101",
+		"Desc": {
+			"hash": -272565807
+		},
+		"DataImpl": {},
+		"GroupID": 1321,
+		"ID": 1
+	},
+	{
+		"SpecialDataIDList": [
+			1302
+		],
+		"ConditionType": 1,
+		"Condition": "13101,13201",
+		"Desc": {
+			"hash": -272565806
+		},
+		"DataImpl": {},
+		"GroupID": 1321,
+		"ID": 2
+	},
+	{
+		"SpecialDataIDList": [
+			1302
+		],
+		"ConditionType": 1,
+		"Condition": "13201,13301",
+		"Desc": {
+			"hash": -272565805
+		},
+		"DataImpl": {},
+		"GroupID": 1321,
+		"ID": 3
+	},
+	{
+		"SpecialDataIDList": [
+			1302
+		],
+		"ConditionType": 1,
+		"Condition": "13301,2147483647",
+		"Desc": {
+			"hash": -272565804
+		},
+		"DataImpl": {},
+		"GroupID": 1321,
+		"ID": 4
+	},
+	{
+		"SpecialDataIDList": [
+			1501,
+			1502
+		],
+		"ConditionType": 1,
+		"Condition": "1,2",
+		"Desc": {
+			"hash": -270748556
+		},
+		"DataImpl": {},
+		"GroupID": 1511,
+		"ID": 1
+	},
+	{
+		"SpecialDataIDList": [
+			1501,
+			1502
+		],
+		"ConditionType": 1,
+		"Condition": "2,3",
+		"Desc": {
+			"hash": -270748555
+		},
+		"DataImpl": {},
+		"GroupID": 1511,
+		"ID": 2
+	},
+	{
+		"SpecialDataIDList": [
+			1501,
+			1502
+		],
+		"ConditionType": 1,
+		"Condition": "3,4",
+		"Desc": {
+			"hash": -270748554
+		},
+		"DataImpl": {},
+		"GroupID": 1511,
+		"ID": 3
+	},
+	{
+		"SpecialDataIDList": [
+			1503
+		],
+		"ConditionType": 1,
+		"Condition": "130601,130604",
+		"Desc": {
+			"hash": -270718765
+		},
+		"DataImpl": {},
+		"GroupID": 1521,
+		"ID": 1
+	},
+	{
+		"SpecialDataIDList": [
+			1503
+		],
+		"ConditionType": 1,
+		"Condition": "130604,130621",
+		"Desc": {
+			"hash": -270718764
+		},
+		"DataImpl": {},
+		"GroupID": 1521,
+		"ID": 2
+	},
+	{
+		"SpecialDataIDList": [
+			1503
+		],
+		"ConditionType": 1,
+		"Condition": "130621,130671",
+		"Desc": {
+			"hash": -270718763
+		},
+		"DataImpl": {},
+		"GroupID": 1521,
+		"ID": 3
+	},
+	{
+		"SpecialDataIDList": [
+			1503
+		],
+		"ConditionType": 1,
+		"Condition": "130671,130681",
+		"Desc": {
+			"hash": -270718762
+		},
+		"DataImpl": {},
+		"GroupID": 1521,
+		"ID": 4
+	},
+	{
+		"SpecialDataIDList": [
+			1503
+		],
+		"ConditionType": 1,
+		"Condition": "130681,130684",
+		"Desc": {
+			"hash": -270718761
+		},
+		"DataImpl": {},
+		"GroupID": 1521,
+		"ID": 5
+	},
+	{
+		"SpecialDataIDList": [
+			1503
+		],
+		"ConditionType": 1,
+		"Condition": "130684,2147483647",
+		"Desc": {
+			"hash": -270718760
+		},
+		"DataImpl": {},
+		"GroupID": 1521,
+		"ID": 6
+	},
+	{
+		"SpecialDataIDList": [
+			1601
+		],
+		"ConditionType": 1,
+		"Condition": "",
+		"Desc": {
+			"hash": -269825035
+		},
+		"DataImpl": {},
+		"GroupID": 1611,
+		"ID": 1
+	},
+	{
+		"SpecialDataIDList": [
+			1701,
+			1702,
+			1703
+		],
+		"ConditionType": 1,
+		"Condition": "0,700",
+		"Desc": {
+			"hash": -268901514
+		},
+		"DataImpl": {},
+		"GroupID": 1711,
+		"ID": 1
+	},
+	{
+		"SpecialDataIDList": [
+			1701,
+			1702,
+			1703
+		],
+		"ConditionType": 1,
+		"Condition": "700,1500",
+		"Desc": {
+			"hash": -268901513
+		},
+		"DataImpl": {},
+		"GroupID": 1711,
+		"ID": 2
+	},
+	{
+		"SpecialDataIDList": [
+			1701,
+			1702,
+			1703
+		],
+		"ConditionType": 1,
+		"Condition": "1500,2000",
+		"Desc": {
+			"hash": -268901512
+		},
+		"DataImpl": {},
+		"GroupID": 1711,
+		"ID": 3
+	},
+	{
+		"SpecialDataIDList": [
+			1701,
+			1702,
+			1703
+		],
+		"ConditionType": 1,
+		"Condition": "2000,2147483647",
+		"Desc": {
+			"hash": -268901511
+		},
+		"DataImpl": {},
+		"GroupID": 1711,
+		"ID": 4
+	},
+	{
+		"SpecialDataIDList": [
+			1801
+		],
+		"ConditionType": 1,
+		"Condition": "",
+		"Desc": {
+			"hash": -267977993
+		},
+		"DataImpl": {},
+		"GroupID": 1811,
+		"ID": 1
+	},
+	{
+		"SpecialDataIDList": [
+			1901
+		],
+		"ConditionType": 1,
+		"Condition": "",
+		"Desc": {
+			"hash": -267054472
+		},
+		"DataImpl": {},
+		"GroupID": 1911,
+		"ID": 1
+	},
+	{
+		"SpecialDataIDList": [
+			2001
+		],
+		"ConditionType": 1,
+		"Condition": "0,1626318000",
+		"Desc": {
+			"hash": -246737010
+		},
+		"DataImpl": {},
+		"GroupID": 2011,
+		"ID": 1
+	},
+	{
+		"SpecialDataIDList": [
+			2001
+		],
+		"ConditionType": 1,
+		"Condition": "1626318000,2147483647",
+		"Desc": {
+			"hash": -246737009
+		},
+		"DataImpl": {},
+		"GroupID": 2011,
+		"ID": 2
+	},
+	{
+		"SpecialDataIDList": [
+			2101,
+			2102
+		],
+		"ConditionType": 1,
+		"Condition": "0,90",
+		"Desc": {
+			"hash": -245813489
+		},
+		"DataImpl": {},
+		"GroupID": 2111,
+		"ID": 1
+	},
+	{
+		"SpecialDataIDList": [
+			2101,
+			2102
+		],
+		"ConditionType": 1,
+		"Condition": "90,120",
+		"Desc": {
+			"hash": -245813488
+		},
+		"DataImpl": {},
+		"GroupID": 2111,
+		"ID": 2
+	},
+	{
+		"SpecialDataIDList": [
+			2101,
+			2102
+		],
+		"ConditionType": 1,
+		"Condition": "120,150",
+		"Desc": {
+			"hash": -245813487
+		},
+		"DataImpl": {},
+		"GroupID": 2111,
+		"ID": 3
+	},
+	{
+		"SpecialDataIDList": [
+			2101,
+			2102
+		],
+		"ConditionType": 1,
+		"Condition": "150,2147483647",
+		"Desc": {
+			"hash": -245813486
+		},
+		"DataImpl": {},
+		"GroupID": 2111,
+		"ID": 4
+	},
+	{
+		"SpecialDataIDList": [
+			2201
+		],
+		"ConditionType": 1,
+		"Condition": "0,1643252400",
+		"Desc": {
+			"hash": -244889968
+		},
+		"DataImpl": {},
+		"GroupID": 2211,
+		"ID": 1
+	},
+	{
+		"SpecialDataIDList": [
+			2201
+		],
+		"ConditionType": 1,
+		"Condition": "1643252400,2147483647",
+		"Desc": {
+			"hash": -244889967
+		},
+		"DataImpl": {},
+		"GroupID": 2211,
+		"ID": 2
+	},
+	{
+		"SpecialDataIDList": [
+			2301
+		],
+		"ConditionType": 1,
+		"Condition": "301001,301404",
+		"Desc": {
+			"hash": -243966447
+		},
+		"DataImpl": {},
+		"GroupID": 2311,
+		"ID": 1
+	},
+	{
+		"SpecialDataIDList": [
+			2301
+		],
+		"ConditionType": 1,
+		"Condition": "302001,302610",
+		"Desc": {
+			"hash": -243966446
+		},
+		"DataImpl": {},
+		"GroupID": 2311,
+		"ID": 2
+	},
+	{
+		"SpecialDataIDList": [
+			2301
+		],
+		"ConditionType": 1,
+		"Condition": "303001,303402",
+		"Desc": {
+			"hash": -243966445
+		},
+		"DataImpl": {},
+		"GroupID": 2311,
+		"ID": 3
+	},
+	{
+		"SpecialDataIDList": [
+			2301
+		],
+		"ConditionType": 1,
+		"Condition": "311001,311602",
+		"Desc": {
+			"hash": -243966444
+		},
+		"DataImpl": {},
+		"GroupID": 2311,
+		"ID": 4
+	},
+	{
+		"SpecialDataIDList": [
+			2301
+		],
+		"ConditionType": 1,
+		"Condition": "312101,312603",
+		"Desc": {
+			"hash": -243966443
+		},
+		"DataImpl": {},
+		"GroupID": 2311,
+		"ID": 5
+	},
+	{
+		"SpecialDataIDList": [
+			2301
+		],
+		"ConditionType": 1,
+		"Condition": "313101,313506",
+		"Desc": {
+			"hash": -243966442
+		},
+		"DataImpl": {},
+		"GroupID": 2311,
+		"ID": 6
+	},
+	{
+		"SpecialDataIDList": [
+			2301
+		],
+		"ConditionType": 1,
+		"Condition": "321101,321305",
+		"Desc": {
+			"hash": -243966441
+		},
+		"DataImpl": {},
+		"GroupID": 2311,
+		"ID": 7
+	},
+	{
+		"SpecialDataIDList": [
+			2301
+		],
+		"ConditionType": 1,
+		"Condition": "322001,322604",
+		"Desc": {
+			"hash": -243966440
+		},
+		"DataImpl": {},
+		"GroupID": 2311,
+		"ID": 8
+	},
+	{
+		"SpecialDataIDList": [
+			2301
+		],
+		"ConditionType": 1,
+		"Condition": "323001,2147483647",
+		"Desc": {
+			"hash": -243966439
+		},
+		"DataImpl": {},
+		"GroupID": 2311,
+		"ID": 9
+	},
+	{
+		"SpecialDataIDList": [
+			2302,
+			2303
+		],
+		"ConditionType": 1,
+		"Condition": "1,2147483647;0,1",
+		"Desc": {
+			"hash": -243936656
+		},
+		"DataImpl": {},
+		"GroupID": 2321,
+		"ID": 1
+	},
+	{
+		"SpecialDataIDList": [
+			2302,
+			2303
+		],
+		"ConditionType": 1,
+		"Condition": "0,1;1,2147483647",
+		"Desc": {
+			"hash": -243936655
+		},
+		"DataImpl": {},
+		"GroupID": 2321,
+		"ID": 2
+	},
+	{
+		"SpecialDataIDList": [
+			2302,
+			2303
+		],
+		"ConditionType": 1,
+		"Condition": "1,2147483647;1,2147483647",
+		"Desc": {
+			"hash": -243936654
+		},
+		"DataImpl": {},
+		"GroupID": 2321,
+		"ID": 3
+	},
+	{
+		"SpecialDataIDList": [
+			2302,
+			2303,
+			2304
+		],
+		"ConditionType": 1,
+		"Condition": "0,1;0,1;1,2147483647",
+		"Desc": {
+			"hash": -243936653
+		},
+		"DataImpl": {},
+		"GroupID": 2321,
+		"ID": 4
+	},
+	{
+		"SpecialDataIDList": [
+			2401
+		],
+		"ConditionType": 1,
+		"Condition": "0,1660791600",
+		"Desc": {
+			"hash": -243042926
+		},
+		"DataImpl": {},
+		"GroupID": 2411,
+		"ID": 1
+	},
+	{
+		"SpecialDataIDList": [
+			2401
+		],
+		"ConditionType": 1,
+		"Condition": "1660791600,2147483647",
+		"Desc": {
+			"hash": -243042925
+		},
+		"DataImpl": {},
+		"GroupID": 2411,
+		"ID": 2
+	},
+	{
+		"SpecialDataIDList": [
+			2501
+		],
+		"ConditionType": 1,
+		"Condition": "0,33",
+		"Desc": {
+			"hash": -242119405
+		},
+		"DataImpl": {},
+		"GroupID": 2511,
+		"ID": 1
+	},
+	{
+		"SpecialDataIDList": [
+			2501
+		],
+		"ConditionType": 1,
+		"Condition": "33,66",
+		"Desc": {
+			"hash": -242119404
+		},
+		"DataImpl": {},
+		"GroupID": 2511,
+		"ID": 2
+	},
+	{
+		"SpecialDataIDList": [
+			2501
+		],
+		"ConditionType": 1,
+		"Condition": "66,2147483647",
+		"Desc": {
+			"hash": -242119403
+		},
+		"DataImpl": {},
+		"GroupID": 2511,
+		"ID": 3
+	}
+]

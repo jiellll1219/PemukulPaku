@@ -1,0 +1,338 @@
+[
+	{
+		"SkillFunctionName": "",
+		"AbilityName": "AvatarAssistant_TimeSLowNotHeal_EX",
+		"ParamList": [
+			"12",
+			"0",
+			"5",
+			"1",
+			"-0.45"
+		],
+		"CD": 40,
+		"SkillName": {
+			"hash": -214928073
+		},
+		"SkillDesc": {
+			"hash": -497348675
+		},
+		"SkillIcon": "SpriteOutput/AvatarIconSide/104",
+		"UnlockSupportAvatarHint": {
+			"hash": 115752437
+		},
+		"IsSkillChange": false,
+		"DataImpl": {},
+		"GodWarID": 1,
+		"SupportAvatarID": 104
+	},
+	{
+		"SkillFunctionName": "",
+		"AbilityName": "AvatarAssistant_HealSP",
+		"ParamList": [
+			"50",
+			"40"
+		],
+		"CD": 40,
+		"SkillName": {
+			"hash": -214928066
+		},
+		"SkillDesc": {
+			"hash": -497348668
+		},
+		"SkillIcon": "SpriteOutput/AvatarIconSide/204",
+		"UnlockSupportAvatarHint": {
+			"hash": 115752439
+		},
+		"IsSkillChange": false,
+		"DataImpl": {},
+		"GodWarID": 1,
+		"SupportAvatarID": 204
+	},
+	{
+		"SkillFunctionName": "AvatarAssistant_BronyaBlackHole",
+		"AbilityName": "AvatarAssistant_BronyaBlackHole",
+		"ParamList": [
+			"30"
+		],
+		"CD": 30,
+		"SkillName": {
+			"hash": -214928072
+		},
+		"SkillDesc": {
+			"hash": -497348674
+		},
+		"SkillIcon": "SpriteOutput/AvatarIconSide/301",
+		"UnlockSupportAvatarHint": {
+			"hash": 115752436
+		},
+		"IsSkillChange": false,
+		"DataImpl": {},
+		"GodWarID": 1,
+		"SupportAvatarID": 301
+	},
+	{
+		"SkillFunctionName": "AvatarAssistant_BronyaC3Ultra",
+		"AbilityName": "AvatarAssistant_BronyaC3Ultra",
+		"ParamList": [
+			"50"
+		],
+		"CD": 60,
+		"SkillName": {
+			"hash": -214928071
+		},
+		"SkillDesc": {
+			"hash": -497348673
+		},
+		"SkillIcon": "SpriteOutput/AvatarIconSide/303",
+		"UnlockSupportAvatarHint": {
+			"hash": 115752438
+		},
+		"IsSkillChange": false,
+		"DataImpl": {},
+		"GodWarID": 1,
+		"SupportAvatarID": 303
+	},
+	{
+		"SkillFunctionName": "AvatarAssistant_BronyaC8Ultra_V2",
+		"AbilityName": "AvatarAssistant_BronyaC8Ultra_V2",
+		"ParamList": [
+			"0.9",
+			"20",
+			"0.15",
+			"15"
+		],
+		"CD": 40,
+		"SkillName": {
+			"hash": 1927164384
+		},
+		"SkillDesc": {
+			"hash": 1762060314
+		},
+		"SkillIcon": "SpriteOutput/AvatarIconSide/314",
+		"UnlockSupportAvatarHint": {
+			"hash": 115752444
+		},
+		"IsSkillChange": false,
+		"DataImpl": {},
+		"GodWarID": 1,
+		"SupportAvatarID": 314
+	},
+	{
+		"SkillFunctionName": "",
+		"AbilityName": "AvatarAssistant_AddDamage",
+		"ParamList": [
+			"10",
+			"-0.3",
+			"0.6",
+			"40"
+		],
+		"CD": 40,
+		"SkillName": {
+			"hash": -214928067
+		},
+		"SkillDesc": {
+			"hash": -497348669
+		},
+		"SkillIcon": "SpriteOutput/AvatarIconSide/404",
+		"UnlockSupportAvatarHint": {
+			"hash": 115752443
+		},
+		"IsSkillChange": false,
+		"DataImpl": {},
+		"GodWarID": 1,
+		"SupportAvatarID": 404
+	},
+	{
+		"SkillFunctionName": "AvatarAssistant_HimekoC6Ultra_V2",
+		"AbilityName": "AvatarAssistant_HimekoC6Ultra_V2",
+		"ParamList": [
+			"25",
+			"6",
+			"0.3",
+			"15"
+		],
+		"CD": 60,
+		"SkillName": {
+			"hash": 1927164386
+		},
+		"SkillDesc": {
+			"hash": 1762060316
+		},
+		"SkillIcon": "SpriteOutput/AvatarIconSide/412",
+		"UnlockSupportAvatarHint": {
+			"hash": 115752440
+		},
+		"IsSkillChange": false,
+		"DataImpl": {},
+		"GodWarID": 1,
+		"SupportAvatarID": 412
+	},
+	{
+		"SkillFunctionName": "AvatarAssistant_TheresaC6Ultra_V2",
+		"AbilityName": "AvatarAssistant_TheresaC6Ultra_V2",
+		"ParamList": [
+			"32",
+			"-0.2",
+			"15",
+			"0.4",
+			"18"
+		],
+		"CD": 50,
+		"SkillName": {
+			"hash": 1927164409
+		},
+		"SkillDesc": {
+			"hash": 1762060339
+		},
+		"SkillIcon": "SpriteOutput/AvatarIconSide/506",
+		"UnlockSupportAvatarHint": {
+			"hash": -706641730
+		},
+		"IsSkillChange": false,
+		"DataImpl": {},
+		"GodWarID": 1,
+		"SupportAvatarID": 506
+	},
+	{
+		"SkillFunctionName": "AvatarAssistant_FukaC5Ultra_V2",
+		"AbilityName": "AvatarAssistant_FukaC5Ultra_V2",
+		"ParamList": [
+			"15",
+			"0.3",
+			"0.16",
+			"15"
+		],
+		"CD": 50,
+		"SkillName": {
+			"hash": 1927164383
+		},
+		"SkillDesc": {
+			"hash": 1762060313
+		},
+		"SkillIcon": "SpriteOutput/AvatarIconSide/611",
+		"UnlockSupportAvatarHint": {
+			"hash": 115752442
+		},
+		"IsSkillChange": false,
+		"DataImpl": {},
+		"GodWarID": 1,
+		"SupportAvatarID": 611
+	},
+	{
+		"SkillFunctionName": "AvatarAssistant_RitaC5Branch",
+		"AbilityName": "AvatarAssistant_RitaC5Branch",
+		"ParamList": [
+			"1300"
+		],
+		"CD": 45,
+		"SkillName": {
+			"hash": 1927164381
+		},
+		"SkillDesc": {
+			"hash": 1762060311
+		},
+		"SkillIcon": "SpriteOutput/AvatarIconSide/705",
+		"UnlockSupportAvatarHint": {
+			"hash": -706641728
+		},
+		"IsSkillChange": false,
+		"DataImpl": {},
+		"GodWarID": 1,
+		"SupportAvatarID": 705
+	},
+	{
+		"SkillFunctionName": "AvatarAssistant_SeeleC2HYUltra_V2",
+		"AbilityName": "AvatarAssistant_SeeleC2HYUltra_V2",
+		"ParamList": [
+			"17",
+			"0.15",
+			"15"
+		],
+		"CD": 30,
+		"SkillName": {
+			"hash": 1927164410
+		},
+		"SkillDesc": {
+			"hash": 1762060340
+		},
+		"SkillIcon": "SpriteOutput/AvatarIconSide/712",
+		"UnlockSupportAvatarHint": {
+			"hash": -706641729
+		},
+		"IsSkillChange": false,
+		"DataImpl": {},
+		"GodWarID": 1,
+		"SupportAvatarID": 712
+	},
+	{
+		"SkillFunctionName": "AvatarAssistant_DurandalC2Ultra_V2",
+		"AbilityName": "AvatarAssistant_DurandalC2Ultra_V2",
+		"ParamList": [
+			"3",
+			"6.3",
+			"6"
+		],
+		"CD": 30,
+		"SkillName": {
+			"hash": 1927164385
+		},
+		"SkillDesc": {
+			"hash": 1762060315
+		},
+		"SkillIcon": "SpriteOutput/AvatarIconSide/802",
+		"UnlockSupportAvatarHint": {
+			"hash": 115752441
+		},
+		"IsSkillChange": false,
+		"DataImpl": {},
+		"GodWarID": 1,
+		"SupportAvatarID": 802
+	},
+	{
+		"SkillFunctionName": "AvatarAssistant_RavenC1Ultra",
+		"AbilityName": "AvatarAssistant_RavenC1Ultra",
+		"ParamList": [
+			"1300"
+		],
+		"CD": 60,
+		"SkillName": {
+			"hash": 1927164377
+		},
+		"SkillDesc": {
+			"hash": 1762060307
+		},
+		"SkillIcon": "SpriteOutput/AvatarIconSide/2401",
+		"UnlockSupportAvatarHint": {
+			"hash": -706641732
+		},
+		"IsSkillChange": false,
+		"DataImpl": {},
+		"GodWarID": 1,
+		"SupportAvatarID": 2401
+	},
+	{
+		"SkillFunctionName": "AvatarAssistant_PardofelisC1QTE_V2",
+		"AbilityName": "AvatarAssistant_PardofelisC1QTE_V2",
+		"ParamList": [
+			"0.62",
+			"3",
+			"0.3",
+			"15"
+		],
+		"CD": 50,
+		"SkillName": {
+			"hash": 1927164408
+		},
+		"SkillDesc": {
+			"hash": 1762060338
+		},
+		"SkillIcon": "SpriteOutput/AvatarIconSide/2601",
+		"UnlockSupportAvatarHint": {
+			"hash": -706641731
+		},
+		"IsSkillChange": false,
+		"DataImpl": {},
+		"GodWarID": 1,
+		"SupportAvatarID": 2601
+	}
+]

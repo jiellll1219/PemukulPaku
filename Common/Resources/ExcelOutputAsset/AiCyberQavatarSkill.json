@@ -1,0 +1,197 @@
+[
+	{
+		"SkillType": 0,
+		"SkillName": {
+			"hash": 152572284
+		},
+		"SkillDec": {
+			"hash": -1281469035
+		},
+		"SkillIcon": "SpriteOutput/Activity/AiCyber/AIExplore_Green",
+		"SkillAbility": "ACS_GreenAichanExplore_TAG",
+		"DataImpl": {},
+		"QAvatarSkillID": 1001
+	},
+	{
+		"SkillType": 1,
+		"SkillName": {
+			"hash": 152572315
+		},
+		"SkillDec": {
+			"hash": -1281469004
+		},
+		"SkillIcon": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_ZP_004",
+		"SkillAbility": "ACS_GreenAichanBattle_LV0_TAG",
+		"DataImpl": {},
+		"QAvatarSkillID": 1011
+	},
+	{
+		"SkillType": 1,
+		"SkillName": {
+			"hash": 152572316
+		},
+		"SkillDec": {
+			"hash": -1281469003
+		},
+		"SkillIcon": "SpriteOutput/OpenWorld/ServantSkill/Skill_Servant_AI_Light",
+		"SkillAbility": "ACS_GreenAichanBattle_LV1_TAG",
+		"DataImpl": {},
+		"QAvatarSkillID": 1012
+	},
+	{
+		"SkillType": 1,
+		"SkillName": {
+			"hash": 152572317
+		},
+		"SkillDec": {
+			"hash": -1281469002
+		},
+		"SkillIcon": "SpriteOutput/OpenWorld/ServantSkill/Skill_Servant_AI_Execution",
+		"SkillAbility": "ACS_GreenAichanBattle_LV2_TAG",
+		"DataImpl": {},
+		"QAvatarSkillID": 1013
+	},
+	{
+		"SkillType": 1,
+		"SkillName": {
+			"hash": 152572318
+		},
+		"SkillDec": {
+			"hash": -1281469001
+		},
+		"SkillIcon": "SpriteOutput/OpenWorld/ServantSkill/Skill_Servant_AI_PowerUp",
+		"SkillAbility": "ACS_GreenAichanBattle_LV3_TAG",
+		"DataImpl": {},
+		"QAvatarSkillID": 1014
+	},
+	{
+		"SkillType": 0,
+		"SkillName": {
+			"hash": 152602075
+		},
+		"SkillDec": {
+			"hash": -1281439244
+		},
+		"SkillIcon": "SpriteOutput/Activity/AiCyber/AIExplore_Red",
+		"SkillAbility": "ACS_RedAichanExplore_TAG",
+		"DataImpl": {},
+		"QAvatarSkillID": 2001
+	},
+	{
+		"SkillType": 1,
+		"SkillName": {
+			"hash": 152602106
+		},
+		"SkillDec": {
+			"hash": -1281439213
+		},
+		"SkillIcon": "SpriteOutput/SkillIconsInLevel/Skill_Servant_AI_Laser",
+		"SkillAbility": "ACS_RedAichanBattle_LV0_TAG",
+		"DataImpl": {},
+		"QAvatarSkillID": 2011
+	},
+	{
+		"SkillType": 1,
+		"SkillName": {
+			"hash": 152602107
+		},
+		"SkillDec": {
+			"hash": -1281439212
+		},
+		"SkillIcon": "SpriteOutput/OpenWorld/ServantSkill/Skill_Servant_Fox_Explode",
+		"SkillAbility": "ACS_RedAichanBattle_LV1_TAG",
+		"DataImpl": {},
+		"QAvatarSkillID": 2012
+	},
+	{
+		"SkillType": 1,
+		"SkillName": {
+			"hash": 152602108
+		},
+		"SkillDec": {
+			"hash": -1281439211
+		},
+		"SkillIcon": "SpriteOutput/OpenWorld/ServantSkill/Skill_Servant_Fox_Cannon",
+		"SkillAbility": "ACS_RedAichanBattle_LV2_TAG",
+		"DataImpl": {},
+		"QAvatarSkillID": 2013
+	},
+	{
+		"SkillType": 1,
+		"SkillName": {
+			"hash": 152602109
+		},
+		"SkillDec": {
+			"hash": -1281439210
+		},
+		"SkillIcon": "SpriteOutput/OpenWorld/ServantSkill/Skill_Servant_AI_Electric",
+		"SkillAbility": "ACS_RedAichanBattle_LV3_TAG",
+		"DataImpl": {},
+		"QAvatarSkillID": 2014
+	},
+	{
+		"SkillType": 0,
+		"SkillName": {
+			"hash": 152631866
+		},
+		"SkillDec": {
+			"hash": -1281409453
+		},
+		"SkillIcon": "SpriteOutput/Activity/AiCyber/AIExplore_Grey",
+		"SkillAbility": "ACS_GreyAichanExplore_TAG",
+		"DataImpl": {},
+		"QAvatarSkillID": 3001
+	},
+	{
+		"SkillType": 1,
+		"SkillName": {
+			"hash": 152631897
+		},
+		"SkillDec": {
+			"hash": -1281409422
+		},
+		"SkillIcon": "SpriteOutput/SkillIconsInLevel/Skill_Stage29_Su",
+		"SkillAbility": "ACS_GreyAichanBattle_LV0_TAG",
+		"DataImpl": {},
+		"QAvatarSkillID": 3011
+	},
+	{
+		"SkillType": 1,
+		"SkillName": {
+			"hash": 152631898
+		},
+		"SkillDec": {
+			"hash": -1281409421
+		},
+		"SkillIcon": "SpriteOutput/OpenWorld/ServantSkill/Skill_Servant_Fox_Fireball",
+		"SkillAbility": "ACS_GreyAichanBattle_LV1_TAG",
+		"DataImpl": {},
+		"QAvatarSkillID": 3012
+	},
+	{
+		"SkillType": 1,
+		"SkillName": {
+			"hash": 152631899
+		},
+		"SkillDec": {
+			"hash": -1281409420
+		},
+		"SkillIcon": "SpriteOutput/OpenWorld/ServantSkill/Skill_Servant_Fox_Attack",
+		"SkillAbility": "ACS_GreyAichanBattle_LV2_TAG",
+		"DataImpl": {},
+		"QAvatarSkillID": 3013
+	},
+	{
+		"SkillType": 1,
+		"SkillName": {
+			"hash": 152631900
+		},
+		"SkillDec": {
+			"hash": -1281409419
+		},
+		"SkillIcon": "SpriteOutput/OpenWorld/ServantSkill/Skill_Servant_AI_Energy",
+		"SkillAbility": "ACS_GreyAichanBattle_LV3_TAG",
+		"DataImpl": {},
+		"QAvatarSkillID": 3014
+	}
+]

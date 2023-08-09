@@ -1,0 +1,4506 @@
+[
+	{
+		"TalentDesc": {
+			"hash": -1446595866
+		},
+		"NextLevelDesc": {
+			"hash": -1446595865
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 1,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 100
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Ultra_Upgrade_0_1",
+		"AbilityParamList": [
+			300000,
+			500000,
+			1
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 1,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": -1446595865
+		},
+		"NextLevelDesc": {
+			"hash": -1446595864
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 2,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 200
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Ultra_Upgrade_0_1",
+		"AbilityParamList": [
+			375000,
+			625000,
+			1
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 1,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": -1446595864
+		},
+		"NextLevelDesc": {
+			"hash": -1446595863
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 6,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 300
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Ultra_Upgrade_0_1",
+		"AbilityParamList": [
+			450000,
+			750000,
+			2
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 1,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": -1446595863
+		},
+		"NextLevelDesc": {
+			"hash": -1446595862
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 8,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 400
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Ultra_Upgrade_0_1",
+		"AbilityParamList": [
+			525000,
+			875000,
+			2
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 1,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": -1446595862
+		},
+		"NextLevelDesc": {
+			"hash": -1446595861
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 10,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 500
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Ultra_Upgrade_0_1",
+		"AbilityParamList": [
+			600000,
+			1000000,
+			3
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 1,
+		"TalentLevel": 5
+	},
+	{
+		"TalentDesc": {
+			"hash": -1446595861
+		},
+		"NextLevelDesc": {
+			"hash": -1446595860
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 14,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 600
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Ultra_Upgrade_0_1",
+		"AbilityParamList": [
+			675000,
+			1125000,
+			3
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 1,
+		"TalentLevel": 6
+	},
+	{
+		"TalentDesc": {
+			"hash": -1446595860
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 15,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 700
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Ultra_Upgrade_0_1",
+		"AbilityParamList": [
+			750000,
+			1250000,
+			3
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 1,
+		"TalentLevel": 7
+	},
+	{
+		"TalentDesc": {
+			"hash": 1040916967
+		},
+		"NextLevelDesc": {
+			"hash": 1040916968
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 1
+			}
+		],
+		"NeedWorkShopLevel": 1,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 100
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Ultra_Upgrade_0_2",
+		"AbilityParamList": [
+			0.1
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 2,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 1040916968
+		},
+		"NextLevelDesc": {
+			"hash": 1040916969
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 1
+			}
+		],
+		"NeedWorkShopLevel": 4,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 300
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Ultra_Upgrade_0_2",
+		"AbilityParamList": [
+			0.15
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 2,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 1040916969
+		},
+		"NextLevelDesc": {
+			"hash": 1040916970
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 1
+			}
+		],
+		"NeedWorkShopLevel": 8,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 500
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Ultra_Upgrade_0_2",
+		"AbilityParamList": [
+			0.2
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 2,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 1040916970
+		},
+		"NextLevelDesc": {
+			"hash": 1040916971
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 1
+			}
+		],
+		"NeedWorkShopLevel": 13,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 700
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Ultra_Upgrade_0_2",
+		"AbilityParamList": [
+			0.3
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 2,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": -766537496
+		},
+		"NextLevelDesc": {
+			"hash": -766537495
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 1
+			}
+		],
+		"NeedWorkShopLevel": 1,
+		"CostMaterialList": [],
+		"AbilityName": "ABL_Select_Robot_001_Ultra_Upgrade_1_1",
+		"AbilityParamList": [
+			20,
+			1
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 3,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": -766537495
+		},
+		"NextLevelDesc": {
+			"hash": -766537494
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 1
+			}
+		],
+		"NeedWorkShopLevel": 4,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 300
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Ultra_Upgrade_1_1",
+		"AbilityParamList": [
+			25,
+			2
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 3,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": -766537494
+		},
+		"NextLevelDesc": {
+			"hash": -766537493
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 1
+			}
+		],
+		"NeedWorkShopLevel": 9,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 500
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Ultra_Upgrade_1_1",
+		"AbilityParamList": [
+			30,
+			3
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 3,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": -766537493
+		},
+		"NextLevelDesc": {
+			"hash": -766537492
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 1
+			}
+		],
+		"NeedWorkShopLevel": 11,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 700
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Ultra_Upgrade_1_1",
+		"AbilityParamList": [
+			40,
+			3
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 3,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 1720975337
+		},
+		"NextLevelDesc": {
+			"hash": 1720975338
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 3
+			}
+		],
+		"NeedWorkShopLevel": 1,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 100
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Ultra_Upgrade_1_2",
+		"AbilityParamList": [
+			3,
+			0.1
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 4,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 1720975338
+		},
+		"NextLevelDesc": {
+			"hash": 1720975339
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 3
+			}
+		],
+		"NeedWorkShopLevel": 4,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 300
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Ultra_Upgrade_1_2",
+		"AbilityParamList": [
+			4,
+			0.15
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 4,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 1720975339
+		},
+		"NextLevelDesc": {
+			"hash": 1720975340
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 3
+			}
+		],
+		"NeedWorkShopLevel": 9,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 500
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Ultra_Upgrade_1_2",
+		"AbilityParamList": [
+			5,
+			0.2
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 4,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 1720975340
+		},
+		"NextLevelDesc": {
+			"hash": 1720975341
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 3
+			}
+		],
+		"NeedWorkShopLevel": 11,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 700
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Ultra_Upgrade_1_2",
+		"AbilityParamList": [
+			7,
+			0.3
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 4,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": -86479126
+		},
+		"NextLevelDesc": {
+			"hash": -86479125
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 4
+			}
+		],
+		"NeedWorkShopLevel": 5,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122323,
+				"Num": 100
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Ultra_Upgrade_1_3",
+		"AbilityParamList": [
+			5,
+			1
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 5,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": -86479125
+		},
+		"NextLevelDesc": {
+			"hash": -86479124
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 4
+			}
+		],
+		"NeedWorkShopLevel": 7,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122323,
+				"Num": 200
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Ultra_Upgrade_1_3",
+		"AbilityParamList": [
+			6,
+			1
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 5,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": -86479124
+		},
+		"NextLevelDesc": {
+			"hash": -86479123
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 4
+			}
+		],
+		"NeedWorkShopLevel": 9,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122323,
+				"Num": 300
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Ultra_Upgrade_1_3",
+		"AbilityParamList": [
+			8,
+			2
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 5,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": -86479123
+		},
+		"NextLevelDesc": {
+			"hash": -86479122
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 4
+			}
+		],
+		"NeedWorkShopLevel": 11,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122323,
+				"Num": 400
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Ultra_Upgrade_1_3",
+		"AbilityParamList": [
+			12,
+			2
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 5,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": -1893933589
+		},
+		"NextLevelDesc": {
+			"hash": -1893933588
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 1,
+		"CostMaterialList": [],
+		"AbilityName": "ABL_Select_Robot_001_ATK",
+		"AbilityParamList": [
+			0.23,
+			2,
+			0.67
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 6,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": -1893933588
+		},
+		"NextLevelDesc": {
+			"hash": -1893933587
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 4,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 200
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_ATK",
+		"AbilityParamList": [
+			0.27,
+			2.4,
+			0.8
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 6,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": -1893933587
+		},
+		"NextLevelDesc": {
+			"hash": -1893933586
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 6,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 300
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_ATK",
+		"AbilityParamList": [
+			0.32,
+			2.8,
+			0.93
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 6,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": -1893933586
+		},
+		"NextLevelDesc": {
+			"hash": -1893933585
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 9,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 400
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_ATK",
+		"AbilityParamList": [
+			0.36,
+			3.2,
+			1.07
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 6,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": -1893933585
+		},
+		"NextLevelDesc": {
+			"hash": -1893933584
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 10,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 500
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_ATK",
+		"AbilityParamList": [
+			0.4,
+			3.6,
+			1.2
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 6,
+		"TalentLevel": 5
+	},
+	{
+		"TalentDesc": {
+			"hash": -1893933584
+		},
+		"NextLevelDesc": {
+			"hash": -1893933583
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 14,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 600
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_ATK",
+		"AbilityParamList": [
+			0.45,
+			4,
+			1.33
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 6,
+		"TalentLevel": 6
+	},
+	{
+		"TalentDesc": {
+			"hash": -1893933583
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 15,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 700
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_ATK",
+		"AbilityParamList": [
+			0.5,
+			4.5,
+			1.5
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 6,
+		"TalentLevel": 7
+	},
+	{
+		"TalentDesc": {
+			"hash": 593579244
+		},
+		"NextLevelDesc": {
+			"hash": 593579245
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 6
+			}
+		],
+		"NeedWorkShopLevel": 1,
+		"CostMaterialList": [],
+		"AbilityName": "ABL_Select_Robot_001_ATK01_1",
+		"AbilityParamList": [
+			0.2
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 7,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 593579245
+		},
+		"NextLevelDesc": {
+			"hash": 593579246
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 6
+			}
+		],
+		"NeedWorkShopLevel": 5,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 300
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_ATK01_1",
+		"AbilityParamList": [
+			0.25
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 7,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 593579246
+		},
+		"NextLevelDesc": {
+			"hash": 593579247
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 6
+			}
+		],
+		"NeedWorkShopLevel": 6,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 500
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_ATK01_1",
+		"AbilityParamList": [
+			0.3
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 7,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 593579247
+		},
+		"NextLevelDesc": {
+			"hash": 593579248
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 6
+			}
+		],
+		"NeedWorkShopLevel": 15,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 700
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_ATK01_1",
+		"AbilityParamList": [
+			0.4
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 7,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": -1213875219
+		},
+		"NextLevelDesc": {
+			"hash": -1213875218
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 7
+			}
+		],
+		"NeedWorkShopLevel": 3,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 100
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_ATK01_2",
+		"AbilityParamList": [
+			4
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 8,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": -1213875218
+		},
+		"NextLevelDesc": {
+			"hash": -1213875217
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 7
+			}
+		],
+		"NeedWorkShopLevel": 5,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 300
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_ATK01_2",
+		"AbilityParamList": [
+			6
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 8,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": -1213875217
+		},
+		"NextLevelDesc": {
+			"hash": -1213875216
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 7
+			}
+		],
+		"NeedWorkShopLevel": 6,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 500
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_ATK01_2",
+		"AbilityParamList": [
+			8
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 8,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": -1213875216
+		},
+		"NextLevelDesc": {
+			"hash": -1213875215
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 7
+			}
+		],
+		"NeedWorkShopLevel": 15,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 700
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_ATK01_2",
+		"AbilityParamList": [
+			12
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 8,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 1273637614
+		},
+		"NextLevelDesc": {
+			"hash": 1273637615
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 6
+			}
+		],
+		"NeedWorkShopLevel": 2,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 100
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_ATK02_1",
+		"AbilityParamList": [
+			4
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 9,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 1273637615
+		},
+		"NextLevelDesc": {
+			"hash": 1273637616
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 6
+			}
+		],
+		"NeedWorkShopLevel": 3,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 300
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_ATK02_1",
+		"AbilityParamList": [
+			4.5
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 9,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 1273637616
+		},
+		"NextLevelDesc": {
+			"hash": 1273637617
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 6
+			}
+		],
+		"NeedWorkShopLevel": 6,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 500
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_ATK02_1",
+		"AbilityParamList": [
+			5
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 9,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 1273637617
+		},
+		"NextLevelDesc": {
+			"hash": 1273637618
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 6
+			}
+		],
+		"NeedWorkShopLevel": 15,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 700
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_ATK02_1",
+		"AbilityParamList": [
+			6
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 9,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 164345092
+		},
+		"NextLevelDesc": {
+			"hash": 164345093
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 9
+			}
+		],
+		"NeedWorkShopLevel": 2,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122391,
+				"Num": 1
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_ATK02_2",
+		"AbilityParamList": [
+			2,
+			1,
+			1.2
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 10,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 164345093
+		},
+		"NextLevelDesc": {
+			"hash": 164345094
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 9
+			}
+		],
+		"NeedWorkShopLevel": 3,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 300
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_ATK02_2",
+		"AbilityParamList": [
+			3,
+			2,
+			1.4
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 10,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 164345094
+		},
+		"NextLevelDesc": {
+			"hash": 164345095
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 9
+			}
+		],
+		"NeedWorkShopLevel": 6,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 500
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_ATK02_2",
+		"AbilityParamList": [
+			4,
+			2,
+			1.6
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 10,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 164345095
+		},
+		"NextLevelDesc": {
+			"hash": 164345096
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 9
+			}
+		],
+		"NeedWorkShopLevel": 15,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 700
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_ATK02_2",
+		"AbilityParamList": [
+			6,
+			3,
+			2
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 10,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": -1643109371
+		},
+		"NextLevelDesc": {
+			"hash": -1643109370
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 6
+			}
+		],
+		"NeedWorkShopLevel": 7,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 100
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_ATK03_1",
+		"AbilityParamList": [
+			0.7
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 11,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": -1643109370
+		},
+		"NextLevelDesc": {
+			"hash": -1643109369
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 6
+			}
+		],
+		"NeedWorkShopLevel": 9,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 300
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_ATK03_1",
+		"AbilityParamList": [
+			0.9
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 11,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": -1643109369
+		},
+		"NextLevelDesc": {
+			"hash": -1643109368
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 6
+			}
+		],
+		"NeedWorkShopLevel": 10,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 500
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_ATK03_1",
+		"AbilityParamList": [
+			1.1
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 11,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": -1643109368
+		},
+		"NextLevelDesc": {
+			"hash": -1643109367
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 6
+			}
+		],
+		"NeedWorkShopLevel": 15,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 700
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_ATK03_1",
+		"AbilityParamList": [
+			1.5
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 11,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 844403462
+		},
+		"NextLevelDesc": {
+			"hash": 844403463
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 11
+			}
+		],
+		"NeedWorkShopLevel": 7,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 100
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_ATK03_2",
+		"AbilityParamList": [
+			0.5
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 12,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 844403463
+		},
+		"NextLevelDesc": {
+			"hash": 844403464
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 11
+			}
+		],
+		"NeedWorkShopLevel": 9,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 300
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_ATK03_2",
+		"AbilityParamList": [
+			1
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 12,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 844403464
+		},
+		"NextLevelDesc": {
+			"hash": 844403465
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 11
+			}
+		],
+		"NeedWorkShopLevel": 10,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 500
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_ATK03_2",
+		"AbilityParamList": [
+			1.5
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 12,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 844403465
+		},
+		"NextLevelDesc": {
+			"hash": 844403466
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 11
+			}
+		],
+		"NeedWorkShopLevel": 15,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 700
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_ATK03_2",
+		"AbilityParamList": [
+			2.5
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 12,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": -963051001
+		},
+		"NextLevelDesc": {
+			"hash": -963051000
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 1,
+		"CostMaterialList": [],
+		"AbilityName": "ABL_Select_Robot_001_Catch",
+		"AbilityParamList": [
+			200000,
+			2
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 13,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": -963051000
+		},
+		"NextLevelDesc": {
+			"hash": -963050999
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 2,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 200
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Catch",
+		"AbilityParamList": [
+			250000,
+			3
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 13,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": -963050999
+		},
+		"NextLevelDesc": {
+			"hash": -963050998
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 5,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 300
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Catch",
+		"AbilityParamList": [
+			300000,
+			4
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 13,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": -963050998
+		},
+		"NextLevelDesc": {
+			"hash": -963050997
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 8,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 400
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Catch",
+		"AbilityParamList": [
+			350000,
+			6
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 13,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": -963050997
+		},
+		"NextLevelDesc": {
+			"hash": -963050996
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 10,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 500
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Catch",
+		"AbilityParamList": [
+			400000,
+			8
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 13,
+		"TalentLevel": 5
+	},
+	{
+		"TalentDesc": {
+			"hash": -963050996
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 14,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 600
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Catch",
+		"AbilityParamList": [
+			500000,
+			10
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 13,
+		"TalentLevel": 6
+	},
+	{
+		"TalentDesc": {
+			"hash": 1524461832
+		},
+		"NextLevelDesc": {
+			"hash": 1524461833
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 13
+			}
+		],
+		"NeedWorkShopLevel": 1,
+		"CostMaterialList": [],
+		"AbilityName": "ABL_Select_Robot_001_Catch01_1",
+		"AbilityParamList": [
+			0.25
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 14,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 1524461833
+		},
+		"NextLevelDesc": {
+			"hash": 1524461834
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 13
+			}
+		],
+		"NeedWorkShopLevel": 2,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 300
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Catch01_1",
+		"AbilityParamList": [
+			0.3
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 14,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 1524461834
+		},
+		"NextLevelDesc": {
+			"hash": 1524461835
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 13
+			}
+		],
+		"NeedWorkShopLevel": 4,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 500
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Catch01_1",
+		"AbilityParamList": [
+			0.35
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 14,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 1524461835
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 13
+			}
+		],
+		"NeedWorkShopLevel": 14,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 700
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Catch01_1",
+		"AbilityParamList": [
+			0.4
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 14,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": -282992631
+		},
+		"NextLevelDesc": {
+			"hash": -282992630
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 14
+			}
+		],
+		"NeedWorkShopLevel": 1,
+		"CostMaterialList": [],
+		"AbilityName": "ABL_Select_Robot_001_Catch01_2",
+		"AbilityParamList": [
+			1,
+			200000
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 15,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": -282992630
+		},
+		"NextLevelDesc": {
+			"hash": -282992629
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 14
+			}
+		],
+		"NeedWorkShopLevel": 2,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 300
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Catch01_2",
+		"AbilityParamList": [
+			2,
+			250000
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 15,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": -282992629
+		},
+		"NextLevelDesc": {
+			"hash": -282992628
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 14
+			}
+		],
+		"NeedWorkShopLevel": 4,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 500
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Catch01_2",
+		"AbilityParamList": [
+			2,
+			300000
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 15,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": -282992628
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 14
+			}
+		],
+		"NeedWorkShopLevel": 14,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 700
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Catch01_2",
+		"AbilityParamList": [
+			3,
+			350000
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 15,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": -2090447094
+		},
+		"NextLevelDesc": {
+			"hash": -2090447093
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 15
+			}
+		],
+		"NeedWorkShopLevel": 2,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122324,
+				"Num": 100
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Catch01_3",
+		"AbilityParamList": [
+			0.2
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 16,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": -2090447093
+		},
+		"NextLevelDesc": {
+			"hash": -2090447092
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 15
+			}
+		],
+		"NeedWorkShopLevel": 3,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122324,
+				"Num": 200
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Catch01_3",
+		"AbilityParamList": [
+			0.3
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 16,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": -2090447092
+		},
+		"NextLevelDesc": {
+			"hash": -2090447091
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 15
+			}
+		],
+		"NeedWorkShopLevel": 4,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122324,
+				"Num": 300
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Catch01_3",
+		"AbilityParamList": [
+			0.4
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 16,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": -2090447091
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 15
+			}
+		],
+		"NeedWorkShopLevel": 14,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122324,
+				"Num": 400
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Catch01_3",
+		"AbilityParamList": [
+			0.5
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 16,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 397065739
+		},
+		"NextLevelDesc": {
+			"hash": 397065740
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 13
+			}
+		],
+		"NeedWorkShopLevel": 3,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 100
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Catch02_1",
+		"AbilityParamList": [
+			0.15
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 17,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 397065740
+		},
+		"NextLevelDesc": {
+			"hash": 397065741
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 13
+			}
+		],
+		"NeedWorkShopLevel": 5,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 300
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Catch02_1",
+		"AbilityParamList": [
+			0.2
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 17,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 397065741
+		},
+		"NextLevelDesc": {
+			"hash": 397065742
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 13
+			}
+		],
+		"NeedWorkShopLevel": 7,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 500
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Catch02_1",
+		"AbilityParamList": [
+			0.25
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 17,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 397065742
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 13
+			}
+		],
+		"NeedWorkShopLevel": 12,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 700
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Catch02_1",
+		"AbilityParamList": [
+			0.3
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 17,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": -1410388724
+		},
+		"NextLevelDesc": {
+			"hash": -1410388723
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 17
+			}
+		],
+		"NeedWorkShopLevel": 3,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 100
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Catch02_2",
+		"AbilityParamList": [
+			4,
+			3
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 18,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": -1410388723
+		},
+		"NextLevelDesc": {
+			"hash": -1410388722
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 17
+			}
+		],
+		"NeedWorkShopLevel": 5,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 300
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Catch02_2",
+		"AbilityParamList": [
+			5,
+			4
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 18,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": -1410388722
+		},
+		"NextLevelDesc": {
+			"hash": -1410388721
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 17
+			}
+		],
+		"NeedWorkShopLevel": 7,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 500
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Catch02_2",
+		"AbilityParamList": [
+			6,
+			5
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 18,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": -1410388721
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 17
+			}
+		],
+		"NeedWorkShopLevel": 12,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 700
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Catch02_2",
+		"AbilityParamList": [
+			7,
+			6
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 18,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 1077124109
+		},
+		"NextLevelDesc": {
+			"hash": 1077124110
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 18
+			}
+		],
+		"NeedWorkShopLevel": 3,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122322,
+				"Num": 100
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Catch02_3",
+		"AbilityParamList": [
+			0.15,
+			0.25
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 19,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 1077124110
+		},
+		"NextLevelDesc": {
+			"hash": 1077124111
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 18
+			}
+		],
+		"NeedWorkShopLevel": 5,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122322,
+				"Num": 200
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Catch02_3",
+		"AbilityParamList": [
+			0.18,
+			0.32
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 19,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 1077124111
+		},
+		"NextLevelDesc": {
+			"hash": 1077124112
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 18
+			}
+		],
+		"NeedWorkShopLevel": 7,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122322,
+				"Num": 300
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Catch02_3",
+		"AbilityParamList": [
+			0.21,
+			0.39
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 19,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 1077124112
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 18
+			}
+		],
+		"NeedWorkShopLevel": 12,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122322,
+				"Num": 400
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Catch02_3",
+		"AbilityParamList": [
+			0.25,
+			0.45
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 19,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": -32168413
+		},
+		"NextLevelDesc": {
+			"hash": -32168412
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 2
+			}
+		],
+		"NeedWorkShopLevel": 11,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 100
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Ultra_Upgrade_0_3",
+		"AbilityParamList": [
+			20
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 20,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": -32168412
+		},
+		"NextLevelDesc": {
+			"hash": -32168411
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 2
+			}
+		],
+		"NeedWorkShopLevel": 12,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 300
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Ultra_Upgrade_0_3",
+		"AbilityParamList": [
+			30
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 20,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": -32168411
+		},
+		"NextLevelDesc": {
+			"hash": -32168410
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 2
+			}
+		],
+		"NeedWorkShopLevel": 13,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 500
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Ultra_Upgrade_0_3",
+		"AbilityParamList": [
+			40
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 20,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": -32168410
+		},
+		"NextLevelDesc": {
+			"hash": -32168409
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 2
+			}
+		],
+		"NeedWorkShopLevel": 14,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 700
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Ultra_Upgrade_0_3",
+		"AbilityParamList": [
+			60
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 20,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": -1839622876
+		},
+		"NextLevelDesc": {
+			"hash": -1839622875
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 20
+			}
+		],
+		"NeedWorkShopLevel": 11,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 100
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Ultra_Upgrade_0_4",
+		"AbilityParamList": [
+			8
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 21,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": -1839622875
+		},
+		"NextLevelDesc": {
+			"hash": -1839622874
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 20
+			}
+		],
+		"NeedWorkShopLevel": 12,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 300
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Ultra_Upgrade_0_4",
+		"AbilityParamList": [
+			10
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 21,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": -1839622874
+		},
+		"NextLevelDesc": {
+			"hash": -1839622873
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 20
+			}
+		],
+		"NeedWorkShopLevel": 13,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 500
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Ultra_Upgrade_0_4",
+		"AbilityParamList": [
+			12
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 21,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": -1839622873
+		},
+		"NextLevelDesc": {
+			"hash": -1839622872
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 20
+			}
+		],
+		"NeedWorkShopLevel": 14,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 700
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Ultra_Upgrade_0_4",
+		"AbilityParamList": [
+			16
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 21,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 647889957
+		},
+		"NextLevelDesc": {
+			"hash": 647889958
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 20
+			}
+		],
+		"NeedWorkShopLevel": 12,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 100
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Ultra_Upgrade_2_1",
+		"AbilityParamList": [
+			0.1
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 22,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 647889958
+		},
+		"NextLevelDesc": {
+			"hash": 647889959
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 20
+			}
+		],
+		"NeedWorkShopLevel": 13,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 300
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Ultra_Upgrade_2_1",
+		"AbilityParamList": [
+			0.12
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 22,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 647889959
+		},
+		"NextLevelDesc": {
+			"hash": 647889960
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 20
+			}
+		],
+		"NeedWorkShopLevel": 14,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 500
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Ultra_Upgrade_2_1",
+		"AbilityParamList": [
+			0.14
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 22,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 647889960
+		},
+		"NextLevelDesc": {
+			"hash": 647889961
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 20
+			}
+		],
+		"NeedWorkShopLevel": 15,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 700
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Ultra_Upgrade_2_1",
+		"AbilityParamList": [
+			0.2
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 22,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": -1159564506
+		},
+		"NextLevelDesc": {
+			"hash": -1159564505
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 22
+			}
+		],
+		"NeedWorkShopLevel": 12,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 100
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Ultra_Upgrade_2_2",
+		"AbilityParamList": [
+			0.5,
+			8
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 23,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": -1159564505
+		},
+		"NextLevelDesc": {
+			"hash": -1159564504
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 22
+			}
+		],
+		"NeedWorkShopLevel": 13,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 300
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Ultra_Upgrade_2_2",
+		"AbilityParamList": [
+			1,
+			10
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 23,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": -1159564504
+		},
+		"NextLevelDesc": {
+			"hash": -1159564503
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 22
+			}
+		],
+		"NeedWorkShopLevel": 14,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 500
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Ultra_Upgrade_2_2",
+		"AbilityParamList": [
+			1.5,
+			12
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 23,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": -1159564503
+		},
+		"NextLevelDesc": {
+			"hash": -1159564502
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 22
+			}
+		],
+		"NeedWorkShopLevel": 15,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 700
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Ultra_Upgrade_2_2",
+		"AbilityParamList": [
+			2,
+			16
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 23,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 1327948327
+		},
+		"NextLevelDesc": {
+			"hash": 1327948328
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 23
+			}
+		],
+		"NeedWorkShopLevel": 12,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 100
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Ultra_Upgrade_2_3",
+		"AbilityParamList": [
+			8
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 24,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 1327948328
+		},
+		"NextLevelDesc": {
+			"hash": 1327948329
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 23
+			}
+		],
+		"NeedWorkShopLevel": 13,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 300
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Ultra_Upgrade_2_3",
+		"AbilityParamList": [
+			10,
+			1
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 24,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 1327948329
+		},
+		"NextLevelDesc": {
+			"hash": 1327948330
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 23
+			}
+		],
+		"NeedWorkShopLevel": 14,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 500
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Ultra_Upgrade_2_3",
+		"AbilityParamList": [
+			12,
+			1
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 24,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 1327948330
+		},
+		"NextLevelDesc": {
+			"hash": 1327948331
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 23
+			}
+		],
+		"NeedWorkShopLevel": 15,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 700
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Ultra_Upgrade_2_3",
+		"AbilityParamList": [
+			16,
+			1
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 24,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": -479506136
+		},
+		"NextLevelDesc": {
+			"hash": -479506135
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 8
+			}
+		],
+		"NeedWorkShopLevel": 11,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 100
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_ATK01_3",
+		"AbilityParamList": [
+			0.5,
+			0.15
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 25,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": -479506135
+		},
+		"NextLevelDesc": {
+			"hash": -479506134
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 8
+			}
+		],
+		"NeedWorkShopLevel": 12,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 300
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_ATK01_3",
+		"AbilityParamList": [
+			0.6,
+			0.2
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 25,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": -479506134
+		},
+		"NextLevelDesc": {
+			"hash": -479506133
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 8
+			}
+		],
+		"NeedWorkShopLevel": 14,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 500
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_ATK01_3",
+		"AbilityParamList": [
+			0.7,
+			0.25
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 25,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": -479506133
+		},
+		"NextLevelDesc": {
+			"hash": -479506132
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 8
+			}
+		],
+		"NeedWorkShopLevel": 15,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 700
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_ATK01_3",
+		"AbilityParamList": [
+			1,
+			0.35
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 25,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 2008006697
+		},
+		"NextLevelDesc": {
+			"hash": 2008006698
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 10
+			}
+		],
+		"NeedWorkShopLevel": 11,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 100
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_ATK02_3",
+		"AbilityParamList": [
+			20000
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 26,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 2008006698
+		},
+		"NextLevelDesc": {
+			"hash": 2008006699
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 10
+			}
+		],
+		"NeedWorkShopLevel": 12,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 300
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_ATK02_3",
+		"AbilityParamList": [
+			30000
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 26,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 2008006699
+		},
+		"NextLevelDesc": {
+			"hash": 2008006700
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 10
+			}
+		],
+		"NeedWorkShopLevel": 13,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 500
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_ATK02_3",
+		"AbilityParamList": [
+			40000
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 26,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 2008006700
+		},
+		"NextLevelDesc": {
+			"hash": 2008006701
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 10
+			}
+		],
+		"NeedWorkShopLevel": 15,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 700
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_ATK02_3",
+		"AbilityParamList": [
+			50000
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 26,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 200552234
+		},
+		"NextLevelDesc": {
+			"hash": 200552235
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 12
+			}
+		],
+		"NeedWorkShopLevel": 11,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 100
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_ATK03_3",
+		"AbilityParamList": [
+			0.16
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 27,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 200552235
+		},
+		"NextLevelDesc": {
+			"hash": 200552236
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 12
+			}
+		],
+		"NeedWorkShopLevel": 12,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 300
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_ATK03_3",
+		"AbilityParamList": [
+			0.18
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 27,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 200552236
+		},
+		"NextLevelDesc": {
+			"hash": 200552237
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 12
+			}
+		],
+		"NeedWorkShopLevel": 14,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 500
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_ATK03_3",
+		"AbilityParamList": [
+			0.2
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 27,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 200552237
+		},
+		"NextLevelDesc": {
+			"hash": 200552238
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 12
+			}
+		],
+		"NeedWorkShopLevel": 15,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 700
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_ATK03_3",
+		"AbilityParamList": [
+			0.25
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 27,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": -1606902229
+		},
+		"NextLevelDesc": {
+			"hash": -1606902228
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 13
+			}
+		],
+		"NeedWorkShopLevel": 11,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 100
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Catch03_1",
+		"AbilityParamList": [
+			6
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 28,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": -1606902228
+		},
+		"NextLevelDesc": {
+			"hash": -1606902227
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 13
+			}
+		],
+		"NeedWorkShopLevel": 11,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 300
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Catch03_1",
+		"AbilityParamList": [
+			8
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 28,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": -1606902227
+		},
+		"NextLevelDesc": {
+			"hash": -1606902226
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 13
+			}
+		],
+		"NeedWorkShopLevel": 12,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 500
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Catch03_1",
+		"AbilityParamList": [
+			10
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 28,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": -1606902226
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 13
+			}
+		],
+		"NeedWorkShopLevel": 13,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 700
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Catch03_1",
+		"AbilityParamList": [
+			12
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 28,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 880610604
+		},
+		"NextLevelDesc": {
+			"hash": 880610605
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 28
+			}
+		],
+		"NeedWorkShopLevel": 11,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 100
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Catch03_2",
+		"AbilityParamList": [
+			0.15
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 29,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 880610605
+		},
+		"NextLevelDesc": {
+			"hash": 880610606
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 28
+			}
+		],
+		"NeedWorkShopLevel": 11,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 300
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Catch03_2",
+		"AbilityParamList": [
+			0.2
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 29,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 880610606
+		},
+		"NextLevelDesc": {
+			"hash": 880610607
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 28
+			}
+		],
+		"NeedWorkShopLevel": 12,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 500
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Catch03_2",
+		"AbilityParamList": [
+			0.25
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 29,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 880610607
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 28
+			}
+		],
+		"NeedWorkShopLevel": 13,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 700
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Catch03_2",
+		"AbilityParamList": [
+			0.3
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 29,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": -228681918
+		},
+		"NextLevelDesc": {
+			"hash": -228681917
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 29
+			}
+		],
+		"NeedWorkShopLevel": 11,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 100
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Catch03_3",
+		"AbilityParamList": [
+			3
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 30,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": -228681917
+		},
+		"NextLevelDesc": {
+			"hash": -228681916
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 29
+			}
+		],
+		"NeedWorkShopLevel": 11,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 300
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Catch03_3",
+		"AbilityParamList": [
+			4
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 30,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": -228681916
+		},
+		"NextLevelDesc": {
+			"hash": -228681915
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 29
+			}
+		],
+		"NeedWorkShopLevel": 12,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 500
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Catch03_3",
+		"AbilityParamList": [
+			5
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 30,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": -228681915
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"PreTalent": [
+			{
+				"TalentLevel": 1,
+				"TalentID": 29
+			}
+		],
+		"NeedWorkShopLevel": 13,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 700
+			}
+		],
+		"AbilityName": "ABL_Select_Robot_001_Catch03_3",
+		"AbilityParamList": [
+			6
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 30,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": -745531288
+		},
+		"NextLevelDesc": {
+			"hash": -745531287
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 1,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 30
+			}
+		],
+		"AbilityName": "EnergyLimit",
+		"AbilityParamList": [
+			20
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 201,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": -745531287
+		},
+		"NextLevelDesc": {
+			"hash": -745531286
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 2,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 60
+			}
+		],
+		"AbilityName": "EnergyLimit",
+		"AbilityParamList": [
+			40
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 201,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": -745531286
+		},
+		"NextLevelDesc": {
+			"hash": -745531285
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 3,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 90
+			}
+		],
+		"AbilityName": "EnergyLimit",
+		"AbilityParamList": [
+			60
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 201,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": -745531285
+		},
+		"NextLevelDesc": {
+			"hash": -745531284
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 4,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 120
+			}
+		],
+		"AbilityName": "EnergyLimit",
+		"AbilityParamList": [
+			80
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 201,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": -745531284
+		},
+		"NextLevelDesc": {
+			"hash": -745531283
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 5,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 150
+			}
+		],
+		"AbilityName": "EnergyLimit",
+		"AbilityParamList": [
+			100
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 201,
+		"TalentLevel": 5
+	},
+	{
+		"TalentDesc": {
+			"hash": -745531283
+		},
+		"NextLevelDesc": {
+			"hash": -745531282
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 6,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 180
+			}
+		],
+		"AbilityName": "EnergyLimit",
+		"AbilityParamList": [
+			120
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 201,
+		"TalentLevel": 6
+	},
+	{
+		"TalentDesc": {
+			"hash": -745531282
+		},
+		"NextLevelDesc": {
+			"hash": -745531281
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 7,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 210
+			}
+		],
+		"AbilityName": "EnergyLimit",
+		"AbilityParamList": [
+			140
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 201,
+		"TalentLevel": 7
+	},
+	{
+		"TalentDesc": {
+			"hash": -745531281
+		},
+		"NextLevelDesc": {
+			"hash": -745531280
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 8,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 240
+			}
+		],
+		"AbilityName": "EnergyLimit",
+		"AbilityParamList": [
+			160
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 201,
+		"TalentLevel": 8
+	},
+	{
+		"TalentDesc": {
+			"hash": -745531280
+		},
+		"NextLevelDesc": {
+			"hash": -745531258
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 9,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 270
+			}
+		],
+		"AbilityName": "EnergyLimit",
+		"AbilityParamList": [
+			180
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 201,
+		"TalentLevel": 9
+	},
+	{
+		"TalentDesc": {
+			"hash": -745531258
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 10,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 300
+			}
+		],
+		"AbilityName": "EnergyLimit",
+		"AbilityParamList": [
+			200
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 201,
+		"TalentLevel": 10
+	},
+	{
+		"TalentDesc": {
+			"hash": 1741981545
+		},
+		"NextLevelDesc": {
+			"hash": 1741981546
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 2,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 100
+			}
+		],
+		"AbilityName": "PerfectExtraPercent",
+		"AbilityParamList": [
+			0.1
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 202,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 1741981546
+		},
+		"NextLevelDesc": {
+			"hash": 1741981547
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 4,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 150
+			}
+		],
+		"AbilityName": "PerfectExtraPercent",
+		"AbilityParamList": [
+			0.2
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 202,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 1741981547
+		},
+		"NextLevelDesc": {
+			"hash": 1741981548
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 6,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 200
+			}
+		],
+		"AbilityName": "PerfectExtraPercent",
+		"AbilityParamList": [
+			0.3
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 202,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 1741981548
+		},
+		"NextLevelDesc": {
+			"hash": 1741981549
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 8,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 250
+			}
+		],
+		"AbilityName": "PerfectExtraPercent",
+		"AbilityParamList": [
+			0.4
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 202,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 1741981549
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 10,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 300
+			}
+		],
+		"AbilityName": "PerfectExtraPercent",
+		"AbilityParamList": [
+			0.5
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 202,
+		"TalentLevel": 5
+	},
+	{
+		"TalentDesc": {
+			"hash": -65472918
+		},
+		"NextLevelDesc": {
+			"hash": -65472917
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 2,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 100
+			}
+		],
+		"AbilityName": "ReduceTime",
+		"AbilityParamList": [
+			0.05
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 203,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": -65472917
+		},
+		"NextLevelDesc": {
+			"hash": -65472916
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 3,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 150
+			}
+		],
+		"AbilityName": "ReduceTime",
+		"AbilityParamList": [
+			0.1
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 203,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": -65472916
+		},
+		"NextLevelDesc": {
+			"hash": -65472915
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 5,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 200
+			}
+		],
+		"AbilityName": "ReduceTime",
+		"AbilityParamList": [
+			0.15
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 203,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": -65472915
+		},
+		"NextLevelDesc": {
+			"hash": -65472914
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 7,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 250
+			}
+		],
+		"AbilityName": "ReduceTime",
+		"AbilityParamList": [
+			0.2
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 203,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": -65472914
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 10,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 300
+			}
+		],
+		"AbilityName": "ReduceTime",
+		"AbilityParamList": [
+			0.25
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 203,
+		"TalentLevel": 5
+	},
+	{
+		"TalentDesc": {
+			"hash": -1872927381
+		},
+		"NextLevelDesc": {
+			"hash": -1872927380
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 3,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 100
+			}
+		],
+		"AbilityName": "FastResolution",
+		"AbilityParamList": [
+			1,
+			0
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 204,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": -1872927380
+		},
+		"NextLevelDesc": {
+			"hash": -1872927379
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 5,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 150
+			}
+		],
+		"AbilityName": "FastResolution",
+		"AbilityParamList": [
+			2,
+			0
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 204,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": -1872927379
+		},
+		"NextLevelDesc": {
+			"hash": -1872927378
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 7,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 200
+			}
+		],
+		"AbilityName": "FastResolution",
+		"AbilityParamList": [
+			2,
+			5
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 204,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": -1872927378
+		},
+		"NextLevelDesc": {
+			"hash": -1872927377
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 9,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 250
+			}
+		],
+		"AbilityName": "FastResolution",
+		"AbilityParamList": [
+			3,
+			5
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 204,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": -1872927377
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 10,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 300
+			}
+		],
+		"AbilityName": "FastResolution",
+		"AbilityParamList": [
+			4,
+			10
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 204,
+		"TalentLevel": 5
+	},
+	{
+		"TalentDesc": {
+			"hash": 614585452
+		},
+		"NextLevelDesc": {
+			"hash": 614585453
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 2,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 100
+			}
+		],
+		"AbilityName": "ABL_Fake_Robot_001_PassiveSkill01",
+		"AbilityParamList": [
+			1
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 205,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": 614585453
+		},
+		"NextLevelDesc": {
+			"hash": 614585454
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 5,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 150
+			}
+		],
+		"AbilityName": "ABL_Fake_Robot_001_PassiveSkill01",
+		"AbilityParamList": [
+			2
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 205,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": 614585454
+		},
+		"NextLevelDesc": {
+			"hash": 614585455
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 8,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 200
+			}
+		],
+		"AbilityName": "ABL_Fake_Robot_001_PassiveSkill01",
+		"AbilityParamList": [
+			3
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 205,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": 614585455
+		},
+		"NextLevelDesc": {
+			"hash": 614585456
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 11,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 250
+			}
+		],
+		"AbilityName": "ABL_Fake_Robot_001_PassiveSkill01",
+		"AbilityParamList": [
+			4
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 205,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": 614585456
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 13,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 300
+			}
+		],
+		"AbilityName": "ABL_Fake_Robot_001_PassiveSkill01",
+		"AbilityParamList": [
+			5
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 205,
+		"TalentLevel": 5
+	},
+	{
+		"TalentDesc": {
+			"hash": -1192869011
+		},
+		"NextLevelDesc": {
+			"hash": -1192869010
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 3,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 100
+			}
+		],
+		"AbilityName": "ABL_Fake_Robot_001_PassiveSkill02",
+		"AbilityParamList": [
+			1
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 206,
+		"TalentLevel": 1
+	},
+	{
+		"TalentDesc": {
+			"hash": -1192869010
+		},
+		"NextLevelDesc": {
+			"hash": -1192869009
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 6,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 150
+			}
+		],
+		"AbilityName": "ABL_Fake_Robot_001_PassiveSkill02",
+		"AbilityParamList": [
+			2
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 206,
+		"TalentLevel": 2
+	},
+	{
+		"TalentDesc": {
+			"hash": -1192869009
+		},
+		"NextLevelDesc": {
+			"hash": -1192869008
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 9,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 200
+			}
+		],
+		"AbilityName": "ABL_Fake_Robot_001_PassiveSkill02",
+		"AbilityParamList": [
+			3
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 206,
+		"TalentLevel": 3
+	},
+	{
+		"TalentDesc": {
+			"hash": -1192869008
+		},
+		"NextLevelDesc": {
+			"hash": -1192869007
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 12,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 250
+			}
+		],
+		"AbilityName": "ABL_Fake_Robot_001_PassiveSkill02",
+		"AbilityParamList": [
+			4
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 206,
+		"TalentLevel": 4
+	},
+	{
+		"TalentDesc": {
+			"hash": -1192869007
+		},
+		"NextLevelDesc": {
+			"hash": 0
+		},
+		"PreTalent": [],
+		"NeedWorkShopLevel": 14,
+		"CostMaterialList": [
+			{
+				"MaterialID": 122321,
+				"Num": 300
+			}
+		],
+		"AbilityName": "ABL_Fake_Robot_001_PassiveSkill02",
+		"AbilityParamList": [
+			5
+		],
+		"AbilityParamDisplayList": [],
+		"DataImpl": {},
+		"TalentID": 206,
+		"TalentLevel": 5
+	}
+]

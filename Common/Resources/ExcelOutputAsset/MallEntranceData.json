@@ -1,0 +1,252 @@
+[
+	{
+		"MallType": 1,
+		"MallTabBGPath": "SpriteOutput/MallTabIcon/IconHot",
+		"Name": {
+			"hash": 588642810
+		},
+		"SortID": 100,
+		"CurrencyBarList": [
+			5,
+			3,
+			6
+		],
+		"MallTypeGroup": 1,
+		"BeginTime": "2020-01-01 12:00:00",
+		"EndTime": "2035-01-01 12:00:00",
+		"DataImpl": {},
+		"ID": 1
+	},
+	{
+		"MallType": 2,
+		"MallTabBGPath": "SpriteOutput/MallTabIcon/IconRecharge",
+		"Name": {
+			"hash": 617271961
+		},
+		"SortID": 1,
+		"CurrencyBarList": [
+			3,
+			6
+		],
+		"MallTypeGroup": 1,
+		"BeginTime": "2020-01-01 12:00:00",
+		"EndTime": "2035-01-01 12:00:00",
+		"DataImpl": {},
+		"ID": 2
+	},
+	{
+		"MallType": 3,
+		"MallTabBGPath": "SpriteOutput/MallTabIcon/IconDress",
+		"Name": {
+			"hash": 645901112
+		},
+		"SortID": 2,
+		"CurrencyBarList": [
+			6,
+			7,
+			8
+		],
+		"MallTypeGroup": 1,
+		"BeginTime": "2020-01-01 12:00:00",
+		"EndTime": "2035-01-01 12:00:00",
+		"DataImpl": {},
+		"ID": 3
+	},
+	{
+		"MallType": 4,
+		"MallTabBGPath": "SpriteOutput/MallTabIcon/IconGift",
+		"Name": {
+			"hash": 674530263
+		},
+		"SortID": 10,
+		"CurrencyBarList": [
+			5,
+			3,
+			6
+		],
+		"MallTypeGroup": 1,
+		"BeginTime": "2020-01-01 12:00:00",
+		"EndTime": "2035-01-01 12:00:00",
+		"DataImpl": {},
+		"ID": 4
+	},
+	{
+		"MallType": 6,
+		"MallTabBGPath": "SpriteOutput/MallTabIcon/IconGift",
+		"Name": {
+			"hash": 731788565
+		},
+		"SortID": 4,
+		"CurrencyBarList": [
+			973
+		],
+		"MallTypeGroup": 2,
+		"BeginTime": "2020-01-01 12:00:00",
+		"EndTime": "2035-01-01 12:00:00",
+		"DataImpl": {},
+		"ID": 6
+	},
+	{
+		"MallType": 4,
+		"MallTabBGPath": "SpriteOutput/MallTabIcon/IconGift",
+		"Name": {
+			"hash": 789046867
+		},
+		"SortID": 3,
+		"CurrencyBarList": [
+			970
+		],
+		"MallTypeGroup": 2,
+		"BeginTime": "2020-01-01 12:00:00",
+		"EndTime": "2035-01-01 12:00:00",
+		"DataImpl": {},
+		"ID": 8
+	},
+	{
+		"MallType": 4,
+		"MallTabBGPath": "SpriteOutput/MallTabIcon/IconGift",
+		"Name": {
+			"hash": -176502073
+		},
+		"SortID": 3,
+		"CurrencyBarList": [
+			6
+		],
+		"MallTypeGroup": 3,
+		"BeginTime": "2023-05-18 04:00:00",
+		"EndTime": "2023-06-23 12:00:00",
+		"DataImpl": {},
+		"ID": 13
+	},
+	{
+		"MallType": 8,
+		"MallTabBGPath": "SpriteOutput/MallTabIcon/IconGift",
+		"Name": {
+			"hash": -147872922
+		},
+		"SortID": 1,
+		"CurrencyBarList": [
+			6
+		],
+		"MallTypeGroup": 4,
+		"BeginTime": "2020-07-09 04:00:00",
+		"EndTime": "2035-01-01 12:00:00",
+		"DataImpl": {},
+		"ID": 14
+	},
+	{
+		"MallType": 4,
+		"MallTabBGPath": "SpriteOutput/MallTabIcon/IconGift",
+		"Name": {
+			"hash": -119243771
+		},
+		"SortID": 8,
+		"CurrencyBarList": [
+			950,
+			963
+		],
+		"MallTypeGroup": 2,
+		"BeginTime": "2020-07-20 12:00:00",
+		"EndTime": "2021-04-29 04:00:00",
+		"DataImpl": {},
+		"ID": 15
+	},
+	{
+		"MallType": 4,
+		"MallTabBGPath": "SpriteOutput/MallTabIcon/IconGift",
+		"Name": {
+			"hash": -90614620
+		},
+		"SortID": 14,
+		"CurrencyBarList": [
+			8004,
+			8008
+		],
+		"MallTypeGroup": 2,
+		"BeginTime": "2020-07-20 12:00:00",
+		"EndTime": "2021-02-04 12:00:00",
+		"DataImpl": {},
+		"ID": 16
+	},
+	{
+		"MallType": 4,
+		"MallTabBGPath": "SpriteOutput/MallTabIcon/IconGift",
+		"Name": {
+			"hash": -33356318
+		},
+		"SortID": 11,
+		"CurrencyBarList": [
+			6
+		],
+		"MallTypeGroup": 5,
+		"BeginTime": "2021-04-26 04:00:00",
+		"EndTime": "2035-01-01 12:00:00",
+		"DataImpl": {},
+		"ID": 18
+	},
+	{
+		"MallType": 9,
+		"MallTabBGPath": "SpriteOutput/MallTabIcon/IconGift",
+		"Name": {
+			"hash": -4727167
+		},
+		"SortID": 1,
+		"CurrencyBarList": [
+			6
+		],
+		"MallTypeGroup": 4,
+		"BeginTime": "2020-07-09 04:00:00",
+		"EndTime": "2035-01-01 12:00:00",
+		"DataImpl": {},
+		"ID": 19
+	},
+	{
+		"MallType": 10,
+		"MallTabBGPath": "SpriteOutput/MallTabIcon/IconGift",
+		"Name": {
+			"hash": 625114155
+		},
+		"SortID": 1,
+		"CurrencyBarList": [
+			6
+		],
+		"MallTypeGroup": 4,
+		"BeginTime": "2020-07-09 04:00:00",
+		"EndTime": "2035-01-01 12:00:00",
+		"DataImpl": {},
+		"ID": 20
+	},
+	{
+		"MallType": 4,
+		"MallTabBGPath": "SpriteOutput/MallTabIcon/IconGift",
+		"Name": {
+			"hash": -33356318
+		},
+		"SortID": 11,
+		"CurrencyBarList": [
+			6
+		],
+		"MallTypeGroup": 1,
+		"BeginTime": "2021-04-26 04:00:00",
+		"EndTime": "2035-01-01 12:00:00",
+		"DataImpl": {},
+		"ID": 21
+	},
+	{
+		"MallType": 4,
+		"MallTabBGPath": "SpriteOutput/MallTabIcon/IconGift",
+		"Name": {
+			"hash": 682372457
+		},
+		"SortID": 2,
+		"CurrencyBarList": [
+			968,
+			973
+		],
+		"MallTypeGroup": 2,
+		"BeginTime": "2021-11-09 04:00:00",
+		"EndTime": "2022-01-27 04:00:00",
+		"DataImpl": {},
+		"ID": 22
+	}
+]

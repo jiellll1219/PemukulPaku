@@ -1,0 +1,1299 @@
+[
+	{
+		"ActiveSkill": 1002,
+		"MonsterName": {
+			"hash": 246786008
+		},
+		"MaxLevel": 5,
+		"BattlePicPath": "SpriteOutput/OpenWorld/QuestBossIcon/DG_60",
+		"BattleStagePicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/DG_060",
+		"HeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/BossIcon/DG_060",
+		"RanchHeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/DG_060",
+		"CanUpgrade": true,
+		"CanBeConsumed": true,
+		"EasterEggSite": [],
+		"BasicExp": 10,
+		"MonsterDesc": {
+			"hash": -35634594
+		},
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627120800
+		},
+		"GrazingEfficiency": 72000,
+		"IsAvatar": false,
+		"UniqueID": 195006,
+		"ActiveSkillCD": [
+			{
+				"MinLevel": 1,
+				"CoolDown": 15
+			},
+			{
+				"MinLevel": 20,
+				"CoolDown": 15
+			}
+		],
+		"SkillTypeMapDisplay": [
+			2060,
+			2064,
+			2068,
+			2072,
+			2080
+		],
+		"ObtainType": 1,
+		"DropParam": 12300105,
+		"CollectOrder": 4,
+		"DataImpl": {},
+		"MonsterID": 4402
+	},
+	{
+		"ActiveSkill": 1003,
+		"MonsterName": {
+			"hash": 246786009
+		},
+		"MaxLevel": 5,
+		"BattlePicPath": "SpriteOutput/OpenWorld/QuestBossIcon/UL_10",
+		"BattleStagePicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/UL_010",
+		"HeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/BossIcon/UL_010",
+		"RanchHeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/UL_010",
+		"CanUpgrade": true,
+		"CanBeConsumed": true,
+		"EasterEggSite": [],
+		"BasicExp": 10,
+		"MonsterDesc": {
+			"hash": -35634593
+		},
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627120800
+		},
+		"GrazingEfficiency": 72000,
+		"IsAvatar": false,
+		"UniqueID": 195007,
+		"ActiveSkillCD": [
+			{
+				"MinLevel": 1,
+				"CoolDown": 15
+			},
+			{
+				"MinLevel": 20,
+				"CoolDown": 15
+			}
+		],
+		"SkillTypeMapDisplay": [
+			2172
+		],
+		"ObtainType": 1,
+		"DropParam": 12200106,
+		"CollectOrder": 1,
+		"DataImpl": {},
+		"MonsterID": 4403
+	},
+	{
+		"ActiveSkill": 1004,
+		"MonsterName": {
+			"hash": 246786010
+		},
+		"MaxLevel": 10,
+		"BattlePicPath": "SpriteOutput/OpenWorld/QuestBossIcon/UL_30",
+		"BattleStagePicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/UL_030",
+		"HeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/BossIcon/UL_030",
+		"RanchHeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/UL_030",
+		"CanUpgrade": true,
+		"CanBeConsumed": true,
+		"EasterEggSite": [],
+		"BasicExp": 10,
+		"MonsterDesc": {
+			"hash": -35634592
+		},
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627552800
+		},
+		"GrazingEfficiency": 72000,
+		"IsAvatar": false,
+		"UniqueID": 195008,
+		"ActiveSkillCD": [
+			{
+				"MinLevel": 1,
+				"CoolDown": 15
+			},
+			{
+				"MinLevel": 10,
+				"CoolDown": 15
+			}
+		],
+		"SkillTypeMapDisplay": [
+			2008,
+			2060,
+			2064,
+			2068,
+			2072,
+			2080
+		],
+		"ObtainType": 1,
+		"DropParam": 13000111,
+		"CollectOrder": 13,
+		"DataImpl": {},
+		"MonsterID": 4404
+	},
+	{
+		"ActiveSkill": 1005,
+		"MonsterName": {
+			"hash": 246786011
+		},
+		"MaxLevel": 5,
+		"BattlePicPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_10",
+		"BattleStagePicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/RO_010",
+		"HeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/BossIcon/RO_010",
+		"RanchHeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/RO_010",
+		"CanUpgrade": true,
+		"CanBeConsumed": true,
+		"EasterEggSite": [],
+		"BasicExp": 10,
+		"MonsterDesc": {
+			"hash": -35634591
+		},
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627120800
+		},
+		"GrazingEfficiency": 72000,
+		"IsAvatar": false,
+		"UniqueID": 195009,
+		"ActiveSkillCD": [
+			{
+				"MinLevel": 1,
+				"CoolDown": 15
+			},
+			{
+				"MinLevel": 10,
+				"CoolDown": 15
+			}
+		],
+		"SkillTypeMapDisplay": [
+			2055,
+			2083,
+			2091,
+			2135,
+			2143,
+			2147,
+			2155,
+			2159,
+			2163,
+			2167
+		],
+		"ObtainType": 1,
+		"DropParam": 12100104,
+		"CollectOrder": 2,
+		"DataImpl": {},
+		"MonsterID": 4405
+	},
+	{
+		"ActiveSkill": 1006,
+		"MonsterName": {
+			"hash": 246786012
+		},
+		"MaxLevel": 10,
+		"BattlePicPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_20",
+		"BattleStagePicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/RO_020",
+		"HeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/BossIcon/RO_020",
+		"RanchHeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/RO_020",
+		"CanUpgrade": true,
+		"CanBeConsumed": true,
+		"EasterEggSite": [],
+		"BasicExp": 10,
+		"MonsterDesc": {
+			"hash": -35634590
+		},
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627293600
+		},
+		"GrazingEfficiency": 72000,
+		"IsAvatar": false,
+		"UniqueID": 195010,
+		"ActiveSkillCD": [
+			{
+				"MinLevel": 1,
+				"CoolDown": 10
+			},
+			{
+				"MinLevel": 20,
+				"CoolDown": 10
+			}
+		],
+		"SkillTypeMapDisplay": [
+			2004,
+			2080,
+			2100,
+			2172
+		],
+		"ObtainType": 1,
+		"DropParam": 12700117,
+		"CollectOrder": 9,
+		"DataImpl": {},
+		"MonsterID": 4406
+	},
+	{
+		"ActiveSkill": 1007,
+		"MonsterName": {
+			"hash": 246786013
+		},
+		"MaxLevel": 20,
+		"BattlePicPath": "SpriteOutput/OpenWorld/QuestBossIcon/DG_120",
+		"BattleStagePicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/DG_120",
+		"HeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/BossIcon/DG_120",
+		"RanchHeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/DG_120",
+		"CanUpgrade": true,
+		"CanBeConsumed": true,
+		"EasterEggSite": [],
+		"BasicExp": 10,
+		"MonsterDesc": {
+			"hash": -35634589
+		},
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627812000
+		},
+		"GrazingEfficiency": 72000,
+		"IsAvatar": false,
+		"UniqueID": 195011,
+		"ActiveSkillCD": [
+			{
+				"MinLevel": 1,
+				"CoolDown": 15
+			},
+			{
+				"MinLevel": 20,
+				"CoolDown": 15
+			}
+		],
+		"SkillTypeMapDisplay": [
+			2012,
+			2016,
+			2020,
+			2024,
+			2032,
+			2052,
+			2060,
+			2064,
+			2068,
+			2072,
+			2080,
+			2172
+		],
+		"ObtainType": 1,
+		"DropParam": 13400112,
+		"CollectOrder": 16,
+		"DataImpl": {},
+		"MonsterID": 4407
+	},
+	{
+		"ActiveSkill": 1008,
+		"MonsterName": {
+			"hash": 246786014
+		},
+		"MaxLevel": 15,
+		"BattlePicPath": "SpriteOutput/OpenWorld/QuestBossIcon/DG_063",
+		"BattleStagePicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/DG_063",
+		"HeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/BossIcon/DG_063",
+		"RanchHeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/DG_063",
+		"CanUpgrade": true,
+		"CanBeConsumed": true,
+		"EasterEggSite": [],
+		"BasicExp": 10,
+		"MonsterDesc": {
+			"hash": -35634588
+		},
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627293600
+		},
+		"GrazingEfficiency": 72000,
+		"IsAvatar": false,
+		"UniqueID": 195012,
+		"ActiveSkillCD": [
+			{
+				"MinLevel": 1,
+				"CoolDown": 15
+			},
+			{
+				"MinLevel": 10,
+				"CoolDown": 15
+			}
+		],
+		"SkillTypeMapDisplay": [
+			2008,
+			2012,
+			2020,
+			2060,
+			2064,
+			2068,
+			2072
+		],
+		"ObtainType": 1,
+		"DropParam": 12600102,
+		"CollectOrder": 7,
+		"DataImpl": {},
+		"MonsterID": 4408
+	},
+	{
+		"ActiveSkill": 1009,
+		"MonsterName": {
+			"hash": 246786015
+		},
+		"MaxLevel": 20,
+		"BattlePicPath": "SpriteOutput/OpenWorld/QuestBossIcon/UL_072",
+		"BattleStagePicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/UL_072",
+		"HeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/BossIcon/UL_072",
+		"RanchHeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/UL_072",
+		"CanUpgrade": true,
+		"CanBeConsumed": true,
+		"EasterEggSite": [],
+		"BasicExp": 20,
+		"MonsterDesc": {
+			"hash": -35634587
+		},
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627552800
+		},
+		"GrazingEfficiency": 72000,
+		"IsAvatar": false,
+		"UniqueID": 195013,
+		"ActiveSkillCD": [
+			{
+				"MinLevel": 1,
+				"CoolDown": 15
+			},
+			{
+				"MinLevel": 20,
+				"CoolDown": 15
+			}
+		],
+		"SkillTypeMapDisplay": [
+			2004,
+			2008,
+			2012,
+			2016,
+			2060,
+			2064,
+			2068,
+			2072,
+			2076,
+			2088,
+			2172
+		],
+		"ObtainType": 2,
+		"DropParam": 5,
+		"CollectOrder": 15,
+		"DataImpl": {},
+		"MonsterID": 4409
+	},
+	{
+		"ActiveSkill": 1011,
+		"MonsterName": {
+			"hash": -939568326
+		},
+		"MaxLevel": 10,
+		"BattlePicPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_40",
+		"BattleStagePicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/RO_040",
+		"HeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/BossIcon/RO_040",
+		"RanchHeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/RO_040",
+		"CanUpgrade": true,
+		"CanBeConsumed": true,
+		"EasterEggSite": [],
+		"BasicExp": 10,
+		"MonsterDesc": {
+			"hash": -1104672397
+		},
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627120800
+		},
+		"GrazingEfficiency": 72000,
+		"IsAvatar": false,
+		"UniqueID": 195014,
+		"ActiveSkillCD": [
+			{
+				"MinLevel": 1,
+				"CoolDown": 15
+			},
+			{
+				"MinLevel": 20,
+				"CoolDown": 15
+			}
+		],
+		"SkillTypeMapDisplay": [
+			2060,
+			2064,
+			2068,
+			2072,
+			2172
+		],
+		"ObtainType": 1,
+		"DropParam": 12400104,
+		"CollectOrder": 5,
+		"DataImpl": {},
+		"MonsterID": 4410
+	},
+	{
+		"ActiveSkill": 1012,
+		"MonsterName": {
+			"hash": -939568325
+		},
+		"MaxLevel": 15,
+		"BattlePicPath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_160",
+		"BattleStagePicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/BOSS_160",
+		"HeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/BossIcon/BOSS_160",
+		"RanchHeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/BOSS_160",
+		"CanUpgrade": true,
+		"CanBeConsumed": true,
+		"EasterEggSite": [],
+		"BasicExp": 20,
+		"MonsterDesc": {
+			"hash": -1104672396
+		},
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627293600
+		},
+		"GrazingEfficiency": 72000,
+		"IsAvatar": false,
+		"UniqueID": 195015,
+		"ActiveSkillCD": [
+			{
+				"MinLevel": 1,
+				"CoolDown": 15
+			},
+			{
+				"MinLevel": 20,
+				"CoolDown": 15
+			}
+		],
+		"SkillTypeMapDisplay": [
+			2004,
+			2008,
+			2012,
+			2020,
+			2036,
+			2040,
+			2044,
+			2076,
+			2100,
+			2108,
+			2172
+		],
+		"ObtainType": 2,
+		"DropParam": 3,
+		"CollectOrder": 11,
+		"DataImpl": {},
+		"MonsterID": 4411
+	},
+	{
+		"ActiveSkill": 1010,
+		"MonsterName": {
+			"hash": -939568327
+		},
+		"MaxLevel": 20,
+		"BattlePicPath": "SpriteOutput/OpenWorld/QuestBossIcon/QT_030",
+		"BattleStagePicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/QT_030",
+		"HeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/BossIcon/QT_030",
+		"RanchHeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/QT_030",
+		"CanUpgrade": true,
+		"CanBeConsumed": true,
+		"EasterEggSite": [],
+		"BasicExp": 10,
+		"MonsterDesc": {
+			"hash": -1104672395
+		},
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627552800
+		},
+		"GrazingEfficiency": 72000,
+		"IsAvatar": false,
+		"UniqueID": 195017,
+		"ActiveSkillCD": [
+			{
+				"MinLevel": 1,
+				"CoolDown": 15
+			},
+			{
+				"MinLevel": 10,
+				"CoolDown": 15
+			}
+		],
+		"SkillTypeMapDisplay": [
+			2004,
+			2060,
+			2064,
+			2068,
+			2072,
+			2100,
+			2172
+		],
+		"ObtainType": 1,
+		"DropParam": 13100105,
+		"CollectOrder": 14,
+		"DataImpl": {},
+		"MonsterID": 4412
+	},
+	{
+		"ActiveSkill": 1013,
+		"MonsterName": {
+			"hash": -939568324
+		},
+		"MaxLevel": 15,
+		"BattlePicPath": "SpriteOutput/OpenWorld/QuestBossIcon/QT_020",
+		"BattleStagePicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/QT_020",
+		"HeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/BossIcon/QT_020",
+		"RanchHeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/QT_020",
+		"CanUpgrade": true,
+		"CanBeConsumed": true,
+		"EasterEggSite": [],
+		"BasicExp": 10,
+		"MonsterDesc": {
+			"hash": -1104672394
+		},
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627293600
+		},
+		"GrazingEfficiency": 72000,
+		"IsAvatar": false,
+		"UniqueID": 195016,
+		"ActiveSkillCD": [
+			{
+				"MinLevel": 1,
+				"CoolDown": 15
+			},
+			{
+				"MinLevel": 20,
+				"CoolDown": 15
+			}
+		],
+		"SkillTypeMapDisplay": [
+			2060,
+			2064,
+			2068,
+			2072,
+			2100,
+			2172
+		],
+		"ObtainType": 1,
+		"DropParam": 12800115,
+		"CollectOrder": 10,
+		"DataImpl": {},
+		"MonsterID": 4413
+	},
+	{
+		"ActiveSkill": 1014,
+		"MonsterName": {
+			"hash": -939568323
+		},
+		"MaxLevel": 10,
+		"BattlePicPath": "SpriteOutput/OpenWorld/QuestBossIcon/QT_060",
+		"BattleStagePicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/QT_060",
+		"HeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/BossIcon/QT_060",
+		"RanchHeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/QT_060",
+		"CanUpgrade": true,
+		"CanBeConsumed": true,
+		"EasterEggSite": [],
+		"BasicExp": 10,
+		"MonsterDesc": {
+			"hash": -1104672393
+		},
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627120800
+		},
+		"GrazingEfficiency": 72000,
+		"IsAvatar": false,
+		"UniqueID": 195018,
+		"ActiveSkillCD": [
+			{
+				"MinLevel": 1,
+				"CoolDown": 15
+			},
+			{
+				"MinLevel": 10,
+				"CoolDown": 10
+			}
+		],
+		"SkillTypeMapDisplay": [
+			2008,
+			2012,
+			2016,
+			2020,
+			2024
+		],
+		"ObtainType": 1,
+		"DropParam": 12200108,
+		"CollectOrder": 3,
+		"DataImpl": {},
+		"MonsterID": 4414
+	},
+	{
+		"ActiveSkill": 1015,
+		"MonsterName": {
+			"hash": -939568322
+		},
+		"MaxLevel": 15,
+		"BattlePicPath": "SpriteOutput/OpenWorld/QuestBossIcon/QT_070",
+		"BattleStagePicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/QT_070",
+		"HeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/BossIcon/QT_070",
+		"RanchHeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/QT_070",
+		"CanUpgrade": true,
+		"CanBeConsumed": true,
+		"EasterEggSite": [],
+		"BasicExp": 10,
+		"MonsterDesc": {
+			"hash": -1104672392
+		},
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627293600
+		},
+		"GrazingEfficiency": 72000,
+		"IsAvatar": false,
+		"UniqueID": 195019,
+		"ActiveSkillCD": [
+			{
+				"MinLevel": 1,
+				"CoolDown": 15
+			},
+			{
+				"MinLevel": 20,
+				"CoolDown": 15
+			}
+		],
+		"SkillTypeMapDisplay": [
+			2008,
+			2012,
+			2016,
+			2020,
+			2024,
+			2100
+		],
+		"ObtainType": 1,
+		"DropParam": 12600112,
+		"CollectOrder": 8,
+		"DataImpl": {},
+		"MonsterID": 4415
+	},
+	{
+		"ActiveSkill": 1016,
+		"MonsterName": {
+			"hash": -939568321
+		},
+		"MaxLevel": 15,
+		"BattlePicPath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_180",
+		"BattleStagePicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/BOSS_180",
+		"HeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/BossIcon/BOSS_180",
+		"RanchHeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/BOSS_180",
+		"CanUpgrade": true,
+		"CanBeConsumed": true,
+		"EasterEggSite": [],
+		"BasicExp": 20,
+		"MonsterDesc": {
+			"hash": -1104672391
+		},
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627120800
+		},
+		"GrazingEfficiency": 72000,
+		"IsAvatar": false,
+		"UniqueID": 195020,
+		"ActiveSkillCD": [
+			{
+				"MinLevel": 1,
+				"CoolDown": 15
+			},
+			{
+				"MinLevel": 20,
+				"CoolDown": 15
+			}
+		],
+		"SkillTypeMapDisplay": [
+			2008,
+			2012,
+			2016,
+			2020,
+			2024,
+			2048,
+			2080,
+			2100
+		],
+		"ObtainType": 2,
+		"DropParam": 1,
+		"CollectOrder": 6,
+		"DataImpl": {},
+		"MonsterID": 4416
+	},
+	{
+		"ActiveSkill": 1017,
+		"MonsterName": {
+			"hash": -939568320
+		},
+		"MaxLevel": 20,
+		"BattlePicPath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_220",
+		"BattleStagePicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/BOSS_220",
+		"HeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/BossIcon/BOSS_220",
+		"RanchHeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/BOSS_220",
+		"CanUpgrade": true,
+		"CanBeConsumed": true,
+		"EasterEggSite": [],
+		"BasicExp": 30,
+		"MonsterDesc": {
+			"hash": -1104672390
+		},
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627812000
+		},
+		"GrazingEfficiency": 72000,
+		"IsAvatar": false,
+		"UniqueID": 195003,
+		"ActiveSkillCD": [
+			{
+				"MinLevel": 1,
+				"CoolDown": 20
+			},
+			{
+				"MinLevel": 20,
+				"CoolDown": 20
+			}
+		],
+		"SkillTypeMapDisplay": [
+			2004,
+			2028,
+			2036,
+			2040,
+			2044,
+			2100,
+			2108,
+			2128
+		],
+		"ObtainType": 2,
+		"DropParam": 7,
+		"CollectOrder": 24,
+		"DataImpl": {},
+		"MonsterID": 4417
+	},
+	{
+		"ActiveSkill": 1018,
+		"MonsterName": {
+			"hash": -939568319
+		},
+		"MaxLevel": 20,
+		"BattlePicPath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_110",
+		"BattleStagePicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/BOSS_110",
+		"HeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/BossIcon/BOSS_110",
+		"RanchHeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/BOSS_110",
+		"CanUpgrade": true,
+		"CanBeConsumed": true,
+		"EasterEggSite": [],
+		"BasicExp": 30,
+		"MonsterDesc": {
+			"hash": -1104672389
+		},
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627552800
+		},
+		"GrazingEfficiency": 72000,
+		"IsAvatar": false,
+		"UniqueID": 195001,
+		"ActiveSkillCD": [
+			{
+				"MinLevel": 1,
+				"CoolDown": 20
+			},
+			{
+				"MinLevel": 20,
+				"CoolDown": 20
+			}
+		],
+		"SkillTypeMapDisplay": [
+			2004,
+			2008,
+			2012,
+			2016,
+			2028,
+			2052
+		],
+		"ObtainType": 2,
+		"DropParam": 6,
+		"CollectOrder": 23,
+		"DataImpl": {},
+		"MonsterID": 4418
+	},
+	{
+		"ActiveSkill": 1019,
+		"MonsterName": {
+			"hash": -939568318
+		},
+		"MaxLevel": 20,
+		"BattlePicPath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_091_M01",
+		"BattleStagePicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/BOSS_091_M01",
+		"HeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/BossIcon/BOSS_091_M01",
+		"RanchHeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/BOSS_091_M01",
+		"CanUpgrade": true,
+		"CanBeConsumed": true,
+		"EasterEggSite": [],
+		"BasicExp": 30,
+		"MonsterDesc": {
+			"hash": -1104672388
+		},
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627120800
+		},
+		"GrazingEfficiency": 72000,
+		"IsAvatar": false,
+		"UniqueID": 195004,
+		"ActiveSkillCD": [
+			{
+				"MinLevel": 1,
+				"CoolDown": 20
+			},
+			{
+				"MinLevel": 20,
+				"CoolDown": 20
+			}
+		],
+		"SkillTypeMapDisplay": [
+			2004,
+			2012,
+			2016,
+			2020,
+			2024,
+			2060,
+			2064,
+			2068,
+			2072,
+			2088,
+			2172
+		],
+		"ObtainType": 2,
+		"DropParam": 2,
+		"CollectOrder": 21,
+		"DataImpl": {},
+		"MonsterID": 4419
+	},
+	{
+		"ActiveSkill": 1020,
+		"MonsterName": {
+			"hash": -939568296
+		},
+		"MaxLevel": 20,
+		"BattlePicPath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_240",
+		"BattleStagePicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/BOSS_240",
+		"HeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/BossIcon/BOSS_240",
+		"RanchHeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/BOSS_240",
+		"CanUpgrade": true,
+		"CanBeConsumed": true,
+		"EasterEggSite": [],
+		"BasicExp": 30,
+		"MonsterDesc": {
+			"hash": -1104672366
+		},
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627293600
+		},
+		"GrazingEfficiency": 72000,
+		"IsAvatar": false,
+		"UniqueID": 195002,
+		"ActiveSkillCD": [
+			{
+				"MinLevel": 1,
+				"CoolDown": 15
+			},
+			{
+				"MinLevel": 20,
+				"CoolDown": 15
+			}
+		],
+		"SkillTypeMapDisplay": [
+			2032,
+			2048,
+			2128
+		],
+		"ObtainType": 2,
+		"DropParam": 4,
+		"CollectOrder": 22,
+		"DataImpl": {},
+		"MonsterID": 4420
+	},
+	{
+		"ActiveSkill": 1021,
+		"MonsterName": {
+			"hash": -939568295
+		},
+		"MaxLevel": 20,
+		"BattlePicPath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_Partner_3",
+		"BattleStagePicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/BOSS_Partner_3",
+		"HeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/BossIcon/BOSS_Partner_3",
+		"RanchHeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/BOSS_Partner_3",
+		"CanUpgrade": true,
+		"CanBeConsumed": false,
+		"EasterEggSite": [
+			13900101,
+			13900102,
+			13900103
+		],
+		"BasicExp": 0,
+		"MonsterDesc": {
+			"hash": -1104672365
+		},
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627120800
+		},
+		"GrazingEfficiency": 72000,
+		"IsAvatar": true,
+		"UniqueID": 2185,
+		"ActiveSkillCD": [
+			{
+				"MinLevel": 1,
+				"CoolDown": 20
+			},
+			{
+				"MinLevel": 20,
+				"CoolDown": 20
+			}
+		],
+		"SkillTypeMapDisplay": [
+			2008
+		],
+		"ObtainType": 2,
+		"DropParam": 10,
+		"CollectOrder": 25,
+		"DataImpl": {},
+		"MonsterID": 4421
+	},
+	{
+		"ActiveSkill": 1022,
+		"MonsterName": {
+			"hash": -939568294
+		},
+		"MaxLevel": 20,
+		"BattlePicPath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_Partner_1",
+		"BattleStagePicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/BOSS_Partner_1",
+		"HeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/BossIcon/BOSS_Partner_1",
+		"RanchHeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/BOSS_Partner_1",
+		"CanUpgrade": true,
+		"CanBeConsumed": false,
+		"EasterEggSite": [],
+		"BasicExp": 0,
+		"MonsterDesc": {
+			"hash": -1104672364
+		},
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627812000
+		},
+		"GrazingEfficiency": 72000,
+		"IsAvatar": true,
+		"UniqueID": 2184,
+		"ActiveSkillCD": [
+			{
+				"MinLevel": 1,
+				"CoolDown": 15
+			},
+			{
+				"MinLevel": 20,
+				"CoolDown": 15
+			}
+		],
+		"SkillTypeMapDisplay": [
+			2128
+		],
+		"ObtainType": 2,
+		"DropParam": 10,
+		"CollectOrder": 28,
+		"DataImpl": {},
+		"MonsterID": 4422
+	},
+	{
+		"ActiveSkill": 1023,
+		"MonsterName": {
+			"hash": -939568293
+		},
+		"MaxLevel": 20,
+		"BattlePicPath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_Partner_2",
+		"BattleStagePicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/BOSS_Partner_2",
+		"HeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/BossIcon/BOSS_Partner_2",
+		"RanchHeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/BOSS_Partner_2",
+		"CanUpgrade": true,
+		"CanBeConsumed": false,
+		"EasterEggSite": [],
+		"BasicExp": 0,
+		"MonsterDesc": {
+			"hash": -1104672363
+		},
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627293600
+		},
+		"GrazingEfficiency": 72000,
+		"IsAvatar": true,
+		"UniqueID": 2187,
+		"ActiveSkillCD": [
+			{
+				"MinLevel": 1,
+				"CoolDown": 15
+			},
+			{
+				"MinLevel": 20,
+				"CoolDown": 15
+			}
+		],
+		"SkillTypeMapDisplay": [
+			2020
+		],
+		"ObtainType": 2,
+		"DropParam": 10,
+		"CollectOrder": 26,
+		"DataImpl": {},
+		"MonsterID": 4423
+	},
+	{
+		"ActiveSkill": 1024,
+		"MonsterName": {
+			"hash": -939568292
+		},
+		"MaxLevel": 20,
+		"BattlePicPath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_Partner_4",
+		"BattleStagePicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/BOSS_Partner_4",
+		"HeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/BossIcon/BOSS_Partner_4",
+		"RanchHeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/BOSS_Partner_4",
+		"CanUpgrade": true,
+		"CanBeConsumed": false,
+		"EasterEggSite": [],
+		"BasicExp": 0,
+		"MonsterDesc": {
+			"hash": -1104672362
+		},
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627552800
+		},
+		"GrazingEfficiency": 72000,
+		"IsAvatar": true,
+		"UniqueID": 2186,
+		"ActiveSkillCD": [
+			{
+				"MinLevel": 1,
+				"CoolDown": 15
+			},
+			{
+				"MinLevel": 20,
+				"CoolDown": 15
+			}
+		],
+		"SkillTypeMapDisplay": [
+			2016
+		],
+		"ObtainType": 2,
+		"DropParam": 10,
+		"CollectOrder": 27,
+		"DataImpl": {},
+		"MonsterID": 4424
+	},
+	{
+		"ActiveSkill": 1025,
+		"MonsterName": {
+			"hash": -939568291
+		},
+		"MaxLevel": 1,
+		"BattlePicPath": "SpriteOutput/OpenWorld/QuestBossIcon/SP_014",
+		"BattleStagePicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/SP_014",
+		"HeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/BossIcon/SP_014",
+		"RanchHeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/SP_014",
+		"CanUpgrade": false,
+		"CanBeConsumed": true,
+		"EasterEggSite": [],
+		"BasicExp": 100,
+		"MonsterDesc": {
+			"hash": -1104672361
+		},
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627120800
+		},
+		"GrazingEfficiency": 72000,
+		"IsAvatar": false,
+		"UniqueID": 2186,
+		"ActiveSkillCD": [
+			{
+				"MinLevel": 1,
+				"CoolDown": 15
+			},
+			{
+				"MinLevel": 20,
+				"CoolDown": 15
+			}
+		],
+		"SkillTypeMapDisplay": [
+			3009
+		],
+		"ObtainType": 1,
+		"DropParam": 12300113,
+		"CollectOrder": 17,
+		"DataImpl": {},
+		"MonsterID": 4425
+	},
+	{
+		"ActiveSkill": 1026,
+		"MonsterName": {
+			"hash": -939568290
+		},
+		"MaxLevel": 1,
+		"BattlePicPath": "SpriteOutput/OpenWorld/QuestBossIcon/SP_010",
+		"BattleStagePicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/SP_010",
+		"HeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/BossIcon/SP_010",
+		"RanchHeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/SP_010",
+		"CanUpgrade": false,
+		"CanBeConsumed": true,
+		"EasterEggSite": [],
+		"BasicExp": 500,
+		"MonsterDesc": {
+			"hash": -1104672360
+		},
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627293600
+		},
+		"GrazingEfficiency": 72000,
+		"IsAvatar": false,
+		"UniqueID": 2186,
+		"ActiveSkillCD": [
+			{
+				"MinLevel": 1,
+				"CoolDown": 15
+			},
+			{
+				"MinLevel": 20,
+				"CoolDown": 15
+			}
+		],
+		"SkillTypeMapDisplay": [
+			3010
+		],
+		"ObtainType": 1,
+		"DropParam": 12600107,
+		"CollectOrder": 18,
+		"DataImpl": {},
+		"MonsterID": 4426
+	},
+	{
+		"ActiveSkill": 1027,
+		"MonsterName": {
+			"hash": -939568289
+		},
+		"MaxLevel": 1,
+		"BattlePicPath": "SpriteOutput/OpenWorld/QuestBossIcon/SP_013",
+		"BattleStagePicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/SP_013",
+		"HeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/BossIcon/SP_013",
+		"RanchHeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/SP_013",
+		"CanUpgrade": false,
+		"CanBeConsumed": true,
+		"EasterEggSite": [],
+		"BasicExp": 2000,
+		"MonsterDesc": {
+			"hash": -1104672359
+		},
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627552800
+		},
+		"GrazingEfficiency": 72000,
+		"IsAvatar": false,
+		"UniqueID": 2186,
+		"ActiveSkillCD": [
+			{
+				"MinLevel": 1,
+				"CoolDown": 15
+			},
+			{
+				"MinLevel": 20,
+				"CoolDown": 15
+			}
+		],
+		"SkillTypeMapDisplay": [
+			3011
+		],
+		"ObtainType": 1,
+		"DropParam": 13000109,
+		"CollectOrder": 19,
+		"DataImpl": {},
+		"MonsterID": 4427
+	},
+	{
+		"ActiveSkill": 1028,
+		"MonsterName": {
+			"hash": -939568288
+		},
+		"MaxLevel": 1,
+		"BattlePicPath": "SpriteOutput/OpenWorld/QuestBossIcon/Boss_SP_011",
+		"BattleStagePicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/Boss_SP_011",
+		"HeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/BossIcon/Boss_SP_011",
+		"RanchHeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/Boss_SP_011",
+		"CanUpgrade": false,
+		"CanBeConsumed": true,
+		"EasterEggSite": [],
+		"BasicExp": 6000,
+		"MonsterDesc": {
+			"hash": -1104672358
+		},
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627812000
+		},
+		"GrazingEfficiency": 72000,
+		"IsAvatar": false,
+		"UniqueID": 2186,
+		"ActiveSkillCD": [
+			{
+				"MinLevel": 1,
+				"CoolDown": 15
+			},
+			{
+				"MinLevel": 20,
+				"CoolDown": 15
+			}
+		],
+		"SkillTypeMapDisplay": [
+			3012
+		],
+		"ObtainType": 1,
+		"DropParam": 13400106,
+		"CollectOrder": 20,
+		"DataImpl": {},
+		"MonsterID": 4428
+	},
+	{
+		"ActiveSkill": 1001,
+		"MonsterName": {
+			"hash": 246786007
+		},
+		"MaxLevel": 10,
+		"BattlePicPath": "SpriteOutput/OpenWorld/QuestBossIcon/DG_20",
+		"BattleStagePicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/DG_020",
+		"HeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/BossIcon/DG_020",
+		"RanchHeadPicPath": "SpriteOutput/Activity/ActivityCollectMonster/InBattleBoss/DG_020",
+		"CanUpgrade": true,
+		"CanBeConsumed": true,
+		"EasterEggSite": [],
+		"BasicExp": 10,
+		"MonsterDesc": {
+			"hash": -35634595
+		},
+		"UnlockTime": {
+			"TimeStampForBakedReader": 1627552800
+		},
+		"GrazingEfficiency": 72000,
+		"IsAvatar": false,
+		"UniqueID": 195005,
+		"ActiveSkillCD": [
+			{
+				"MinLevel": 1,
+				"CoolDown": 15
+			},
+			{
+				"MinLevel": 10,
+				"CoolDown": 15
+			}
+		],
+		"SkillTypeMapDisplay": [
+			2008,
+			2012,
+			2016,
+			2020,
+			2024
+		],
+		"ObtainType": 1,
+		"DropParam": 13000106,
+		"CollectOrder": 12,
+		"DataImpl": {},
+		"MonsterID": 4431
+	}
+]

@@ -1,0 +1,5153 @@
+[
+	{
+		"monsterName": {
+			"hash": 1950697064
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/Lance3",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/MonsterSpear03",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster_LanceV2V03",
+		"monsterLevel": 1,
+		"hp": 3000,
+		"attack": 19,
+		"defence": 0,
+		"resist": 20,
+		"stars": [
+			2,
+			1,
+			0,
+			1
+		],
+		"skillList": [
+			6,
+			7
+		],
+		"skillSequence": [
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 10101
+	},
+	{
+		"monsterName": {
+			"hash": 574086395
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/Axe3",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/MonsterAxe03",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster_AxeV2V02",
+		"monsterLevel": 1,
+		"hp": 1150,
+		"attack": 25,
+		"defence": 20,
+		"resist": 20,
+		"stars": [
+			1,
+			1,
+			1,
+			1
+		],
+		"skillList": [
+			6,
+			7,
+			10201
+		],
+		"skillSequence": [
+			6,
+			6,
+			10201,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 10201
+	},
+	{
+		"monsterName": {
+			"hash": 574092077
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/Gun2",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/MonsterGun02",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster_GunV2V03",
+		"monsterLevel": 2,
+		"hp": 2200,
+		"attack": 28,
+		"defence": 21,
+		"resist": 21,
+		"stars": [
+			2,
+			1,
+			1,
+			1
+		],
+		"skillList": [
+			6,
+			7,
+			10301
+		],
+		"skillSequence": [
+			6,
+			6,
+			10301,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 10301
+	},
+	{
+		"monsterName": {
+			"hash": 1957729042
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/Stone",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/Stone",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_Stone",
+		"monsterLevel": 2,
+		"hp": 2400,
+		"attack": 28,
+		"defence": 32,
+		"resist": 0,
+		"stars": [
+			2,
+			1,
+			2,
+			0
+		],
+		"skillList": [
+			6,
+			7,
+			10401
+		],
+		"skillSequence": [
+			6,
+			6,
+			10401,
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 10401
+	},
+	{
+		"monsterName": {
+			"hash": 574086395
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/Axe3",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/MonsterAxe03",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster_AxeV2V02",
+		"monsterLevel": 2,
+		"hp": 1300,
+		"attack": 28,
+		"defence": 21,
+		"resist": 21,
+		"stars": [
+			1,
+			1,
+			1,
+			1
+		],
+		"skillList": [
+			6,
+			7,
+			10201
+		],
+		"skillSequence": [
+			6,
+			6,
+			10201,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 10501
+	},
+	{
+		"monsterName": {
+			"hash": 574092077
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/Gun2",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/MonsterGun02",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster_GunV2V03",
+		"monsterLevel": 3,
+		"hp": 3050,
+		"attack": 33,
+		"defence": 22,
+		"resist": 22,
+		"stars": [
+			2,
+			1,
+			1,
+			1
+		],
+		"skillList": [
+			6,
+			7,
+			10301
+		],
+		"skillSequence": [
+			6,
+			6,
+			10301,
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 10502
+	},
+	{
+		"monsterName": {
+			"hash": 325298560
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/knight",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/Monsterknight01",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster_Knight01",
+		"monsterLevel": 3,
+		"hp": 2100,
+		"attack": 33,
+		"defence": 22,
+		"resist": 22,
+		"stars": [
+			2,
+			1,
+			1,
+			1
+		],
+		"skillList": [
+			6,
+			7,
+			10601
+		],
+		"skillSequence": [
+			6,
+			6,
+			10601,
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 10601
+	},
+	{
+		"monsterName": {
+			"hash": 1942585774
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/Chest",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/Chest",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_Chest",
+		"monsterLevel": 3,
+		"hp": 99999,
+		"attack": 16,
+		"defence": 100,
+		"resist": 100,
+		"stars": [
+			5,
+			1,
+			5,
+			5
+		],
+		"skillList": [
+			8,
+			5
+		],
+		"skillSequence": [
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			5
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 10701
+	},
+	{
+		"monsterName": {
+			"hash": 574087617
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/Car",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/Monster01",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster01",
+		"monsterLevel": 3,
+		"hp": 1250,
+		"attack": 24,
+		"defence": 0,
+		"resist": 22,
+		"stars": [
+			1,
+			1,
+			0,
+			1
+		],
+		"skillList": [
+			6,
+			7
+		],
+		"skillSequence": [
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 10801
+	},
+	{
+		"monsterName": {
+			"hash": 1523254507
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/knight4",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/Monsterknight04",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster_Knight03",
+		"monsterLevel": 4,
+		"hp": 3900,
+		"attack": 85,
+		"defence": 22,
+		"resist": 22,
+		"stars": [
+			3,
+			3,
+			1,
+			1
+		],
+		"skillList": [
+			6,
+			7,
+			10801
+		],
+		"skillSequence": [
+			6,
+			6,
+			10801,
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 10802
+	},
+	{
+		"monsterName": {
+			"hash": -194727848
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/YStone",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/YStone",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_YStone",
+		"monsterLevel": 4,
+		"hp": 4550,
+		"attack": 66,
+		"defence": 33,
+		"resist": 0,
+		"stars": [
+			3,
+			2,
+			2,
+			0
+		],
+		"skillList": [
+			6,
+			7,
+			10901
+		],
+		"skillSequence": [
+			6,
+			6,
+			10901,
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 10901
+	},
+	{
+		"monsterName": {
+			"hash": 1957729042
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/Stone",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/Stone",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_Stone",
+		"monsterLevel": 3,
+		"hp": 1700,
+		"attack": 33,
+		"defence": 33,
+		"resist": 0,
+		"stars": [
+			2,
+			1,
+			2,
+			0
+		],
+		"skillList": [
+			6,
+			7,
+			10401
+		],
+		"skillSequence": [
+			6,
+			6,
+			10401,
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 10902
+	},
+	{
+		"monsterName": {
+			"hash": 1942585774
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/Chest",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/Chest",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_Chest",
+		"monsterLevel": 4,
+		"hp": 99999,
+		"attack": 20,
+		"defence": 100,
+		"resist": 100,
+		"stars": [
+			5,
+			1,
+			5,
+			5
+		],
+		"skillList": [
+			8,
+			5
+		],
+		"skillSequence": [
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			5
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 11001
+	},
+	{
+		"monsterName": {
+			"hash": 574087617
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/Car",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/Monster01",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster01",
+		"monsterLevel": 4,
+		"hp": 1700,
+		"attack": 30,
+		"defence": 0,
+		"resist": 22,
+		"stars": [
+			1,
+			1,
+			0,
+			1
+		],
+		"skillList": [
+			6,
+			7
+		],
+		"skillSequence": [
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 11101
+	},
+	{
+		"monsterName": {
+			"hash": -1675590761
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/Car3",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/Monster03",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster03",
+		"monsterLevel": 5,
+		"hp": 5400,
+		"attack": 74,
+		"defence": 0,
+		"resist": 23,
+		"stars": [
+			3,
+			3,
+			0,
+			1
+		],
+		"skillList": [
+			6,
+			7,
+			11101
+		],
+		"skillSequence": [
+			6,
+			6,
+			11101,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 11102
+	},
+	{
+		"monsterName": {
+			"hash": 574092077
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/Gun2",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/MonsterGun02",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster_GunV2V03",
+		"monsterLevel": 5,
+		"hp": 2650,
+		"attack": 31,
+		"defence": 23,
+		"resist": 23,
+		"stars": [
+			2,
+			1,
+			1,
+			1
+		],
+		"skillList": [
+			6,
+			7,
+			10301
+		],
+		"skillSequence": [
+			6,
+			6,
+			10301,
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 11201
+	},
+	{
+		"monsterName": {
+			"hash": -1253283425
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/StoneBoss",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/StoneBoss",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_StoneBoss",
+		"monsterLevel": 6,
+		"hp": 6400,
+		"attack": 74,
+		"defence": 35,
+		"resist": 14,
+		"stars": [
+			4,
+			3,
+			2,
+			1
+		],
+		"skillList": [
+			6,
+			7,
+			11201,
+			11202
+		],
+		"skillSequence": [
+			6,
+			6,
+			11201,
+			6,
+			7,
+			6,
+			11202,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 11202
+	},
+	{
+		"monsterName": {
+			"hash": -2118709393
+		},
+		"monsterIcon": "SpriteOutput/AvatarChibiIcons/214",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Hero/YaeSakura",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_Yae",
+		"monsterLevel": 8,
+		"hp": 9999,
+		"attack": 95,
+		"defence": 20,
+		"resist": 14,
+		"stars": [
+			4,
+			4,
+			1,
+			1
+		],
+		"skillList": [
+			11302,
+			11303,
+			11304,
+			11301,
+			11305
+		],
+		"skillSequence": [
+			11302,
+			11302,
+			11301,
+			11302,
+			11303,
+			11302,
+			11304
+		],
+		"isBig": false,
+		"isMirror": true,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 11301
+	},
+	{
+		"monsterName": {
+			"hash": -23833642
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/knight3",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/Monsterknight03",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster_Knight02",
+		"monsterLevel": 10,
+		"hp": 5300,
+		"attack": 69,
+		"defence": 25,
+		"resist": 25,
+		"stars": [
+			2,
+			2,
+			1,
+			1
+		],
+		"skillList": [
+			6,
+			7,
+			20101
+		],
+		"skillSequence": [
+			6,
+			6,
+			20101,
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 20101
+	},
+	{
+		"monsterName": {
+			"hash": 616817074
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/MonsterBall",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/MonsterBall01",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster_Ball01",
+		"monsterLevel": 11,
+		"hp": 6400,
+		"attack": 73,
+		"defence": 25,
+		"resist": 25,
+		"stars": [
+			2,
+			2,
+			1,
+			1
+		],
+		"skillList": [
+			6,
+			7,
+			20201
+		],
+		"skillSequence": [
+			6,
+			6,
+			20201,
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 20201
+	},
+	{
+		"monsterName": {
+			"hash": 616817074
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/MonsterBall",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/MonsterBall01",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster_Ball01",
+		"monsterLevel": 11,
+		"hp": 4800,
+		"attack": 73,
+		"defence": 25,
+		"resist": 25,
+		"stars": [
+			2,
+			2,
+			1,
+			1
+		],
+		"skillList": [
+			6,
+			7,
+			20201
+		],
+		"skillSequence": [
+			6,
+			6,
+			20201,
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 20301
+	},
+	{
+		"monsterName": {
+			"hash": 2010718984
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/MonsterBall3",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/MonsterBall03",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster_Ball03",
+		"monsterLevel": 12,
+		"hp": 8050,
+		"attack": 116,
+		"defence": 16,
+		"resist": 39,
+		"stars": [
+			3,
+			3,
+			1,
+			2
+		],
+		"skillList": [
+			6,
+			7,
+			20301
+		],
+		"skillSequence": [
+			6,
+			6,
+			20301,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 20302
+	},
+	{
+		"monsterName": {
+			"hash": 1603216784
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/RedSodier",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/RedSodier",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_RedSodier",
+		"monsterLevel": 12,
+		"hp": 9100,
+		"attack": 124,
+		"defence": 42,
+		"resist": 42,
+		"stars": [
+			3,
+			32,
+			2
+		],
+		"skillList": [
+			6,
+			20401,
+			20402
+		],
+		"skillSequence": [
+			6,
+			6,
+			20401,
+			6,
+			6,
+			20402
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 20401
+	},
+	{
+		"monsterName": {
+			"hash": -194727848
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/YStone",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/YStone",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_YStone",
+		"monsterLevel": 12,
+		"hp": 5200,
+		"attack": 173,
+		"defence": 39,
+		"resist": 0,
+		"stars": [
+			2,
+			4,
+			2,
+			0
+		],
+		"skillList": [
+			6,
+			7,
+			10901
+		],
+		"skillSequence": [
+			6,
+			6,
+			10901,
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 20501
+	},
+	{
+		"monsterName": {
+			"hash": 2010718984
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/MonsterBall3",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/MonsterBall03",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster_Ball03",
+		"monsterLevel": 13,
+		"hp": 8600,
+		"attack": 142,
+		"defence": 16,
+		"resist": 41,
+		"stars": [
+			3,
+			4,
+			1,
+			2
+		],
+		"skillList": [
+			6,
+			7,
+			20302
+		],
+		"skillSequence": [
+			6,
+			6,
+			20302,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 20502
+	},
+	{
+		"monsterName": {
+			"hash": 616817074
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/MonsterBall",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/MonsterBall01",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster_Ball01",
+		"monsterLevel": 12,
+		"hp": 6950,
+		"attack": 91,
+		"defence": 26,
+		"resist": 26,
+		"stars": [
+			2,
+			2,
+			1,
+			1
+		],
+		"skillList": [
+			6,
+			7,
+			20202
+		],
+		"skillSequence": [
+			6,
+			6,
+			20202,
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 20601
+	},
+	{
+		"monsterName": {
+			"hash": 1727432569
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/MonsterBall2",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/MonsterBall02",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster_Ball02",
+		"monsterLevel": 13,
+		"hp": 9850,
+		"attack": 142,
+		"defence": 41,
+		"resist": 16,
+		"stars": [
+			3,
+			4,
+			2,
+			1
+		],
+		"skillList": [
+			6,
+			7,
+			20601
+		],
+		"skillSequence": [
+			6,
+			6,
+			20601,
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 20602
+	},
+	{
+		"monsterName": {
+			"hash": 1942585774
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/Chest",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/Chest",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_Chest",
+		"monsterLevel": 13,
+		"hp": 99999,
+		"attack": 57,
+		"defence": 100,
+		"resist": 100,
+		"stars": [
+			5,
+			1,
+			5,
+			5
+		],
+		"skillList": [
+			8,
+			5
+		],
+		"skillSequence": [
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			5
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 20701
+	},
+	{
+		"monsterName": {
+			"hash": -194727848
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/YStone",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/YStone",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_YStone",
+		"monsterLevel": 13,
+		"hp": 6600,
+		"attack": 189,
+		"defence": 41,
+		"resist": 0,
+		"stars": [
+			2,
+			4,
+			2,
+			0
+		],
+		"skillList": [
+			6,
+			7,
+			10901
+		],
+		"skillSequence": [
+			6,
+			6,
+			10901,
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 20801
+	},
+	{
+		"monsterName": {
+			"hash": -1211697086
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/GreenSodier",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/GreenSodier",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_GreenSodier",
+		"monsterLevel": 14,
+		"hp": 9000,
+		"attack": 132,
+		"defence": 43,
+		"resist": 41,
+		"stars": [
+			3,
+			3,
+			2,
+			2
+		],
+		"skillList": [
+			6,
+			20801,
+			20802
+		],
+		"skillSequence": [
+			6,
+			6,
+			20801,
+			6,
+			6,
+			6,
+			20802
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 20802
+	},
+	{
+		"monsterName": {
+			"hash": 1727432569
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/MonsterBall2",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/MonsterBall02",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster_Ball02",
+		"monsterLevel": 13,
+		"hp": 6750,
+		"attack": 130,
+		"defence": 39,
+		"resist": 16,
+		"stars": [
+			2,
+			3,
+			2,
+			1
+		],
+		"skillList": [
+			6,
+			7,
+			20602
+		],
+		"skillSequence": [
+			6,
+			6,
+			20602,
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 20901
+	},
+	{
+		"monsterName": {
+			"hash": 1603216784
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/RedSodier",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/RedSodier",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_RedSodier",
+		"monsterLevel": 14,
+		"hp": 13850,
+		"attack": 151,
+		"defence": 43,
+		"resist": 43,
+		"stars": [
+			4,
+			3,
+			2,
+			2
+		],
+		"skillList": [
+			6,
+			20401,
+			20402
+		],
+		"skillSequence": [
+			6,
+			6,
+			20401,
+			6,
+			6,
+			20402
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 20902
+	},
+	{
+		"monsterName": {
+			"hash": 1942585774
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/Chest",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/Chest",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_Chest",
+		"monsterLevel": 14,
+		"hp": 99999,
+		"attack": 57,
+		"defence": 100,
+		"resist": 100,
+		"stars": [
+			5,
+			1,
+			5,
+			5
+		],
+		"skillList": [
+			8,
+			5
+		],
+		"skillSequence": [
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			5
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 21001
+	},
+	{
+		"monsterName": {
+			"hash": -2075083327
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/PurpleGargoyle",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/PurpleGargoyle",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_PurpleGargoyle",
+		"monsterLevel": 15,
+		"hp": 27400,
+		"attack": 169,
+		"defence": 27,
+		"resist": 27,
+		"stars": [
+			5,
+			4,
+			1,
+			1
+		],
+		"skillList": [
+			6,
+			7,
+			21101
+		],
+		"skillSequence": [
+			6,
+			6,
+			21101,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 21101
+	},
+	{
+		"monsterName": {
+			"hash": -413549224
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/DarkChest",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/DarkChest",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_DarkChest",
+		"monsterLevel": 15,
+		"hp": 84250,
+		"attack": 127,
+		"defence": 27,
+		"resist": 27,
+		"stars": [
+			4,
+			3,
+			2,
+			2
+		],
+		"skillList": [
+			21201,
+			21202
+		],
+		"skillSequence": [
+			21201,
+			21201,
+			21201,
+			21201,
+			21201,
+			21202
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 21201
+	},
+	{
+		"monsterName": {
+			"hash": -1122918576
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/Cerberus",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/Cerberus",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_Cerberus",
+		"monsterLevel": 16,
+		"hp": 32500,
+		"attack": 173,
+		"defence": 28,
+		"resist": 28,
+		"stars": [
+			5,
+			4,
+			1,
+			1
+		],
+		"skillList": [
+			6,
+			21303,
+			21301,
+			21302
+		],
+		"skillSequence": [
+			6,
+			6,
+			21303,
+			6,
+			21301,
+			6,
+			6,
+			21302
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 21202
+	},
+	{
+		"monsterName": {
+			"hash": 1523254507
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/knight4",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/Monsterknight04",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster_Knight03",
+		"monsterLevel": 20,
+		"hp": 7950,
+		"attack": 484,
+		"defence": 30,
+		"resist": 30,
+		"stars": [
+			2,
+			5,
+			2,
+			2
+		],
+		"skillList": [
+			6,
+			7,
+			10801
+		],
+		"skillSequence": [
+			6,
+			6,
+			10801,
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 30101
+	},
+	{
+		"monsterName": {
+			"hash": -23833642
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/knight3",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/Monsterknight03",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster_Knight02",
+		"monsterLevel": 20,
+		"hp": 13700,
+		"attack": 186,
+		"defence": 30,
+		"resist": 30,
+		"stars": [
+			3,
+			2,
+			2,
+			2
+		],
+		"skillList": [
+			6,
+			7,
+			20101
+		],
+		"skillSequence": [
+			6,
+			6,
+			20101,
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 30102
+	},
+	{
+		"monsterName": {
+			"hash": 2010718984
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/MonsterBall3",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/MonsterBall03",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster_Ball03",
+		"monsterLevel": 21,
+		"hp": 12950,
+		"attack": 279,
+		"defence": 18,
+		"resist": 45,
+		"stars": [
+			3,
+			3,
+			1,
+			3
+		],
+		"skillList": [
+			6,
+			7,
+			20302
+		],
+		"skillSequence": [
+			6,
+			6,
+			20302,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 30201
+	},
+	{
+		"monsterName": {
+			"hash": -2075083327
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/PurpleGargoyle",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/PurpleGargoyle",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_PurpleGargoyle",
+		"monsterLevel": 21,
+		"hp": 24150,
+		"attack": 298,
+		"defence": 30,
+		"resist": 30,
+		"stars": [
+			4,
+			3,
+			2,
+			2
+		],
+		"skillList": [
+			6,
+			7,
+			21101
+		],
+		"skillSequence": [
+			6,
+			6,
+			21101,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 30202
+	},
+	{
+		"monsterName": {
+			"hash": -1313745982
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/GreenGargoyle",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/GreenGargoyle",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_GreenGargoyle",
+		"monsterLevel": 22,
+		"hp": 29450,
+		"attack": 321,
+		"defence": 31,
+		"resist": 31,
+		"stars": [
+			4,
+			3,
+			2,
+			2
+		],
+		"skillList": [
+			6,
+			7,
+			30301
+		],
+		"skillSequence": [
+			6,
+			6,
+			30301,
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 30301
+	},
+	{
+		"monsterName": {
+			"hash": 1727432569
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/MonsterBall2",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/MonsterBall02",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster_Ball02",
+		"monsterLevel": 21,
+		"hp": 13800,
+		"attack": 301,
+		"defence": 47,
+		"resist": 19,
+		"stars": [
+			3,
+			3,
+			3,
+			1
+		],
+		"skillList": [
+			6,
+			7,
+			20602
+		],
+		"skillSequence": [
+			6,
+			6,
+			20602,
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 30401
+	},
+	{
+		"monsterName": {
+			"hash": -1313745982
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/GreenGargoyle",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/GreenGargoyle",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_GreenGargoyle",
+		"monsterLevel": 22,
+		"hp": 25750,
+		"attack": 321,
+		"defence": 31,
+		"resist": 31,
+		"stars": [
+			4,
+			3,
+			2,
+			2
+		],
+		"skillList": [
+			6,
+			7,
+			30301
+		],
+		"skillSequence": [
+			6,
+			6,
+			30301,
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 30402
+	},
+	{
+		"monsterName": {
+			"hash": -192390716
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/GrassStone",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/GrassStone",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_GrassStone",
+		"monsterLevel": 22,
+		"hp": 16700,
+		"attack": 433,
+		"defence": 56,
+		"resist": 9,
+		"stars": [
+			3,
+			4,
+			3,
+			0
+		],
+		"skillList": [
+			6,
+			7,
+			30501
+		],
+		"skillSequence": [
+			6,
+			6,
+			30501,
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 30501
+	},
+	{
+		"monsterName": {
+			"hash": -1211697086
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/GreenSodier",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/GreenSodier",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_GreenSodier",
+		"monsterLevel": 23,
+		"hp": 15800,
+		"attack": 303,
+		"defence": 50,
+		"resist": 47,
+		"stars": [
+			3,
+			3,
+			3,
+			3
+		],
+		"skillList": [
+			6,
+			20801,
+			20802
+		],
+		"skillSequence": [
+			6,
+			6,
+			20801,
+			6,
+			6,
+			20802
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 30601
+	},
+	{
+		"monsterName": {
+			"hash": -192390716
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/GrassStone",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/GrassStone",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_GrassStone",
+		"monsterLevel": 23,
+		"hp": 20050,
+		"attack": 433,
+		"defence": 56,
+		"resist": 9,
+		"stars": [
+			3,
+			4,
+			3,
+			0
+		],
+		"skillList": [
+			6,
+			7,
+			30501
+		],
+		"skillSequence": [
+			6,
+			6,
+			30501,
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 30602
+	},
+	{
+		"monsterName": {
+			"hash": 1942585774
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/Chest",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/Chest",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_Chest",
+		"monsterLevel": 23,
+		"hp": 999999,
+		"attack": 139,
+		"defence": 100,
+		"resist": 100,
+		"stars": [
+			5,
+			1,
+			5,
+			5
+		],
+		"skillList": [
+			8,
+			5
+		],
+		"skillSequence": [
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			5
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 30701
+	},
+	{
+		"monsterName": {
+			"hash": -96151920
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/RedGargoyle",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/RedGargoyle",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_RedGargoyle",
+		"monsterLevel": 23,
+		"hp": 33450,
+		"attack": 370,
+		"defence": 32,
+		"resist": 32,
+		"stars": [
+			5,
+			4,
+			2,
+			2
+		],
+		"skillList": [
+			6,
+			7,
+			30801
+		],
+		"skillSequence": [
+			6,
+			6,
+			30801,
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 30801
+	},
+	{
+		"monsterName": {
+			"hash": -1313745982
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/GreenGargoyle",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/GreenGargoyle",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_GreenGargoyle",
+		"monsterLevel": 24,
+		"hp": 26950,
+		"attack": 396,
+		"defence": 32,
+		"resist": 32,
+		"stars": [
+			4,
+			4,
+			2,
+			2
+		],
+		"skillList": [
+			6,
+			7,
+			30301
+		],
+		"skillSequence": [
+			6,
+			6,
+			30301,
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 30901
+	},
+	{
+		"monsterName": {
+			"hash": -96151920
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/RedGargoyle",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/RedGargoyle",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_RedGargoyle",
+		"monsterLevel": 25,
+		"hp": 35950,
+		"attack": 396,
+		"defence": 32,
+		"resist": 32,
+		"stars": [
+			4,
+			4,
+			2,
+			2
+		],
+		"skillList": [
+			6,
+			7,
+			30801
+		],
+		"skillSequence": [
+			6,
+			6,
+			30801,
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 30902
+	},
+	{
+		"monsterName": {
+			"hash": 1942585774
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/Chest",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/Chest",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_Chest",
+		"monsterLevel": 25,
+		"hp": 999999,
+		"attack": 139,
+		"defence": 100,
+		"resist": 100,
+		"stars": [
+			5,
+			1,
+			5,
+			5
+		],
+		"skillList": [
+			8,
+			5
+		],
+		"skillSequence": [
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			5
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 31001
+	},
+	{
+		"monsterName": {
+			"hash": 1603216784
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/RedSodier",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/RedSodier",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_RedSodier",
+		"monsterLevel": 25,
+		"hp": 22800,
+		"attack": 396,
+		"defence": 51,
+		"resist": 51,
+		"stars": [
+			4,
+			4,
+			3,
+			3
+		],
+		"skillList": [
+			6,
+			20401,
+			20402
+		],
+		"skillSequence": [
+			6,
+			6,
+			20401,
+			6,
+			6,
+			20402
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 31101
+	},
+	{
+		"monsterName": {
+			"hash": -96151920
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/RedGargoyle",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/RedGargoyle",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_RedGargoyle",
+		"monsterLevel": 26,
+		"hp": 35950,
+		"attack": 396,
+		"defence": 32,
+		"resist": 32,
+		"stars": [
+			5,
+			4,
+			2,
+			2
+		],
+		"skillList": [
+			6,
+			7,
+			30801
+		],
+		"skillSequence": [
+			6,
+			6,
+			30801,
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 31102
+	},
+	{
+		"monsterName": {
+			"hash": -413549224
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/DarkChest",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/DarkChest",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_DarkChest",
+		"monsterLevel": 26,
+		"hp": 999999,
+		"attack": 297,
+		"defence": 32,
+		"resist": 32,
+		"stars": [
+			4,
+			3,
+			2,
+			2
+		],
+		"skillList": [
+			31101,
+			31102
+		],
+		"skillSequence": [
+			31101,
+			31101,
+			31101,
+			31101,
+			31101,
+			31102
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 31201
+	},
+	{
+		"monsterName": {
+			"hash": 1733606543
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/BatOff",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/BatOff",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_BatOff",
+		"monsterLevel": 27,
+		"hp": 44400,
+		"attack": 465,
+		"defence": 33,
+		"resist": 33,
+		"stars": [
+			5,
+			5,
+			2,
+			2
+		],
+		"skillList": [
+			6,
+			31201,
+			31202,
+			31203
+		],
+		"skillSequence": [
+			6,
+			6,
+			31202,
+			6,
+			31201,
+			6,
+			6,
+			31203
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 31202
+	},
+	{
+		"monsterName": {
+			"hash": 1733606543
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/BatBoss",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/BatBoss",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_BatOn",
+		"monsterLevel": 27,
+		"hp": 44400,
+		"attack": 465,
+		"defence": 33,
+		"resist": 33,
+		"stars": [
+			5,
+			5,
+			2,
+			2
+		],
+		"skillList": [
+			6,
+			31204,
+			31202,
+			31205
+		],
+		"skillSequence": [
+			6,
+			6,
+			31205,
+			6,
+			31204,
+			6,
+			6,
+			31202
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 31203
+	},
+	{
+		"monsterName": {
+			"hash": 574086395
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/Axe3",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/MonsterAxe03",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster_AxeV2V02",
+		"monsterLevel": 6,
+		"hp": 2150,
+		"attack": 44,
+		"defence": 23,
+		"resist": 23,
+		"stars": [
+			2,
+			1,
+			1,
+			1
+		],
+		"skillList": [
+			6,
+			7,
+			10201
+		],
+		"skillSequence": [
+			6,
+			6,
+			10201,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 40101
+	},
+	{
+		"monsterName": {
+			"hash": 574092077
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/Gun2",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/MonsterGun02",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster_GunV2V03",
+		"monsterLevel": 6,
+		"hp": 4200,
+		"attack": 44,
+		"defence": 23,
+		"resist": 23,
+		"stars": [
+			3,
+			1,
+			1,
+			1
+		],
+		"skillList": [
+			6,
+			7,
+			10301
+		],
+		"skillSequence": [
+			6,
+			6,
+			10301,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 40102
+	},
+	{
+		"monsterName": {
+			"hash": 1957729042
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/Stone",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/Stone",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_Stone",
+		"monsterLevel": 7,
+		"hp": 2800,
+		"attack": 51,
+		"defence": 35,
+		"resist": 0,
+		"stars": [
+			2,
+			1,
+			2,
+			0
+		],
+		"skillList": [
+			6,
+			7,
+			10401
+		],
+		"skillSequence": [
+			6,
+			6,
+			10401,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 40201
+	},
+	{
+		"monsterName": {
+			"hash": 325298560
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/knight",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/Monsterknight01",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster_Knight01",
+		"monsterLevel": 7,
+		"hp": 2700,
+		"attack": 51,
+		"defence": 23,
+		"resist": 23,
+		"stars": [
+			2,
+			1,
+			1,
+			1
+		],
+		"skillList": [
+			6,
+			7,
+			10601
+		],
+		"skillSequence": [
+			6,
+			6,
+			10601,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 40202
+	},
+	{
+		"monsterName": {
+			"hash": 574087617
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/Car",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/Monster01",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster01",
+		"monsterLevel": 8,
+		"hp": 2300,
+		"attack": 43,
+		"defence": 0,
+		"resist": 24,
+		"stars": [
+			2,
+			1,
+			0,
+			1
+		],
+		"skillList": [
+			6,
+			7
+		],
+		"skillSequence": [
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 40301
+	},
+	{
+		"monsterName": {
+			"hash": -1675590761
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/Car3",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/Monster03",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster03",
+		"monsterLevel": 8,
+		"hp": 7100,
+		"attack": 96,
+		"defence": 0,
+		"resist": 24,
+		"stars": [
+			4,
+			3,
+			0,
+			1
+		],
+		"skillList": [
+			6,
+			7,
+			11101
+		],
+		"skillSequence": [
+			6,
+			6,
+			11101,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 40302
+	},
+	{
+		"monsterName": {
+			"hash": 1957729042
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/Stone",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/Stone",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_Stone",
+		"monsterLevel": 9,
+		"hp": 3600,
+		"attack": 65,
+		"defence": 36,
+		"resist": 0,
+		"stars": [
+			3,
+			2,
+			2,
+			0
+		],
+		"skillList": [
+			6,
+			7,
+			10401
+		],
+		"skillSequence": [
+			6,
+			6,
+			10401,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 40401
+	},
+	{
+		"monsterName": {
+			"hash": -194727848
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/YStone",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/YStone",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_YStone",
+		"monsterLevel": 9,
+		"hp": 8200,
+		"attack": 108,
+		"defence": 43,
+		"resist": 0,
+		"stars": [
+			4,
+			3,
+			2,
+			0
+		],
+		"skillList": [
+			6,
+			7,
+			10901
+		],
+		"skillSequence": [
+			6,
+			6,
+			10901,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 40402
+	},
+	{
+		"monsterName": {
+			"hash": -23833642
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/knight3",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/Monsterknight03",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster_Knight02",
+		"monsterLevel": 10,
+		"hp": 5700,
+		"attack": 62,
+		"defence": 25,
+		"resist": 25,
+		"stars": [
+			3,
+			2,
+			1,
+			1
+		],
+		"skillList": [
+			6,
+			7,
+			20101
+		],
+		"skillSequence": [
+			6,
+			6,
+			20101,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 40501
+	},
+	{
+		"monsterName": {
+			"hash": -1253283425
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/StoneBoss",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/StoneBoss",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_StoneBoss",
+		"monsterLevel": 10,
+		"hp": 14550,
+		"attack": 108,
+		"defence": 38,
+		"resist": 15,
+		"stars": [
+			5,
+			3,
+			2,
+			1
+		],
+		"skillList": [
+			6,
+			7,
+			11201,
+			11202
+		],
+		"skillSequence": [
+			6,
+			6,
+			11201,
+			6,
+			7,
+			6,
+			6,
+			11202,
+			6,
+			7
+		],
+		"isBig": true,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 40502
+	},
+	{
+		"monsterName": {
+			"hash": 574086395
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/Axe3",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/MonsterAxe03",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster_AxeV2V02",
+		"monsterLevel": 15,
+		"hp": 5200,
+		"attack": 104,
+		"defence": 26,
+		"resist": 26,
+		"stars": [
+			1,
+			1,
+			2,
+			2
+		],
+		"skillList": [
+			6,
+			7,
+			10201
+		],
+		"skillSequence": [
+			6,
+			6,
+			10201,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 40601
+	},
+	{
+		"monsterName": {
+			"hash": -23833642
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/knight3",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/Monsterknight03",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster_Knight02",
+		"monsterLevel": 16,
+		"hp": 10600,
+		"attack": 86,
+		"defence": 26,
+		"resist": 26,
+		"stars": [
+			2,
+			1,
+			2,
+			2
+		],
+		"skillList": [
+			6,
+			7,
+			20101
+		],
+		"skillSequence": [
+			6,
+			6,
+			20101,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 40602
+	},
+	{
+		"monsterName": {
+			"hash": -194727848
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/YStone",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/YStone",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_YStone",
+		"monsterLevel": 17,
+		"hp": 11800,
+		"attack": 211,
+		"defence": 49,
+		"resist": 0,
+		"stars": [
+			2,
+			3,
+			3,
+			0
+		],
+		"skillList": [
+			6,
+			7,
+			10901
+		],
+		"skillSequence": [
+			6,
+			6,
+			10901,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 40701
+	},
+	{
+		"monsterName": {
+			"hash": 616817074
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/MonsterBall",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/MonsterBall01",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster_Ball01",
+		"monsterLevel": 17,
+		"hp": 13500,
+		"attack": 169,
+		"defence": 27,
+		"resist": 27,
+		"stars": [
+			2,
+			2,
+			2,
+			2
+		],
+		"skillList": [
+			6,
+			7,
+			20202
+		],
+		"skillSequence": [
+			6,
+			6,
+			20202,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 40702
+	},
+	{
+		"monsterName": {
+			"hash": 1603216784
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/RedSodier",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/RedSodier",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_RedSodier",
+		"monsterLevel": 18,
+		"hp": 11100,
+		"attack": 203,
+		"defence": 45,
+		"resist": 45,
+		"stars": [
+			2,
+			3,
+			3,
+			3
+		],
+		"skillList": [
+			6,
+			20401,
+			20402
+		],
+		"skillSequence": [
+			6,
+			6,
+			20401,
+			6,
+			6,
+			20402
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 40801
+	},
+	{
+		"monsterName": {
+			"hash": 2010718984
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/MonsterBall3",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/MonsterBall03",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster_Ball03",
+		"monsterLevel": 18,
+		"hp": 17450,
+		"attack": 254,
+		"defence": 17,
+		"resist": 42,
+		"stars": [
+			3,
+			3,
+			2,
+			2
+		],
+		"skillList": [
+			6,
+			7,
+			20302
+		],
+		"skillSequence": [
+			6,
+			6,
+			20302,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 40802
+	},
+	{
+		"monsterName": {
+			"hash": -1211697086
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/GreenSodier",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/GreenSodier",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_GreenSodier",
+		"monsterLevel": 19,
+		"hp": 15350,
+		"attack": 210,
+		"defence": 46,
+		"resist": 44,
+		"stars": [
+			3,
+			3,
+			3,
+			3
+		],
+		"skillList": [
+			6,
+			20801,
+			20802
+		],
+		"skillSequence": [
+			6,
+			6,
+			20801,
+			6,
+			6,
+			20802
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 40901
+	},
+	{
+		"monsterName": {
+			"hash": 1727432569
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/MonsterBall2",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/MonsterBall02",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster_Ball02",
+		"monsterLevel": 19,
+		"hp": 20450,
+		"attack": 300,
+		"defence": 44,
+		"resist": 17,
+		"stars": [
+			4,
+			5,
+			3,
+			1
+		],
+		"skillList": [
+			6,
+			7,
+			20602
+		],
+		"skillSequence": [
+			6,
+			6,
+			20602,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 40902
+	},
+	{
+		"monsterName": {
+			"hash": -1840356549
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/BlueSodier",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/BlueSodier",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_BlueSodier",
+		"monsterLevel": 20,
+		"hp": 14300,
+		"attack": 223,
+		"defence": 54,
+		"resist": 54,
+		"stars": [
+			3,
+			3,
+			4,
+			4
+		],
+		"skillList": [
+			6,
+			41001,
+			41002
+		],
+		"skillSequence": [
+			6,
+			6,
+			41001,
+			6,
+			6,
+			41002
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 41001
+	},
+	{
+		"monsterName": {
+			"hash": -1122918576
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/Cerberus",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/Cerberus",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_Cerberus",
+		"monsterLevel": 20,
+		"hp": 46250,
+		"attack": 279,
+		"defence": 30,
+		"resist": 30,
+		"stars": [
+			5,
+			4,
+			2,
+			2
+		],
+		"skillList": [
+			6,
+			21303,
+			21301,
+			21302
+		],
+		"skillSequence": [
+			6,
+			6,
+			21303,
+			6,
+			21301,
+			6,
+			6,
+			21302
+		],
+		"isBig": true,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 41002
+	},
+	{
+		"monsterName": {
+			"hash": 616817074
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/MonsterBall",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/MonsterBall01",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster_Ball01",
+		"monsterLevel": 24,
+		"hp": 14950,
+		"attack": 396,
+		"defence": 32,
+		"resist": 32,
+		"stars": [
+			2,
+			2,
+			2,
+			2
+		],
+		"skillList": [
+			6,
+			7,
+			20202
+		],
+		"skillSequence": [
+			6,
+			6,
+			20202,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 41101
+	},
+	{
+		"monsterName": {
+			"hash": -192390716
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/GrassStone",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/GrassStone",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_GrassStone",
+		"monsterLevel": 25,
+		"hp": 18250,
+		"attack": 495,
+		"defence": 58,
+		"resist": 10,
+		"stars": [
+			2,
+			3,
+			3,
+			0
+		],
+		"skillList": [
+			6,
+			7,
+			30501
+		],
+		"skillSequence": [
+			6,
+			6,
+			30501,
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 41102
+	},
+	{
+		"monsterName": {
+			"hash": 574092077
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/Gun2",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/MonsterGun02",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster_GunV2V03",
+		"monsterLevel": 24,
+		"hp": 15400,
+		"attack": 452,
+		"defence": 53,
+		"resist": 53,
+		"stars": [
+			2,
+			3,
+			3,
+			3
+		],
+		"skillList": [
+			6,
+			7,
+			10301
+		],
+		"skillSequence": [
+			6,
+			6,
+			10301,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 41201
+	},
+	{
+		"monsterName": {
+			"hash": -96151920
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/RedGargoyle",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/RedGargoyle",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_RedGargoyle",
+		"monsterLevel": 25,
+		"hp": 24250,
+		"attack": 452,
+		"defence": 33,
+		"resist": 33,
+		"stars": [
+			3,
+			3,
+			2,
+			2
+		],
+		"skillList": [
+			6,
+			7,
+			30801
+		],
+		"skillSequence": [
+			6,
+			6,
+			30801,
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 41202
+	},
+	{
+		"monsterName": {
+			"hash": -1313745982
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/GreenGargoyle",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/GreenGargoyle",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_GreenGargoyle",
+		"monsterLevel": 25,
+		"hp": 20250,
+		"attack": 510,
+		"defence": 34,
+		"resist": 34,
+		"stars": [
+			3,
+			3,
+			2,
+			2
+		],
+		"skillList": [
+			6,
+			7,
+			30301
+		],
+		"skillSequence": [
+			6,
+			6,
+			30301,
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 41301
+	},
+	{
+		"monsterName": {
+			"hash": 1603216784
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/RedSodier",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/RedSodier",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_RedSodier",
+		"monsterLevel": 25,
+		"hp": 22850,
+		"attack": 510,
+		"defence": 54,
+		"resist": 54,
+		"stars": [
+			3,
+			3,
+			3,
+			3
+		],
+		"skillList": [
+			6,
+			20401,
+			20402
+		],
+		"skillSequence": [
+			6,
+			6,
+			20401,
+			6,
+			6,
+			20402
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 41302
+	},
+	{
+		"monsterName": {
+			"hash": 574086395
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/Axe3",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/MonsterAxe03",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster_AxeV2V02",
+		"monsterLevel": 26,
+		"hp": 14300,
+		"attack": 407,
+		"defence": 35,
+		"resist": 35,
+		"stars": [
+			2,
+			2,
+			2,
+			2
+		],
+		"skillList": [
+			6,
+			7,
+			10201
+		],
+		"skillSequence": [
+			6,
+			6,
+			7,
+			6,
+			10201
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 41401
+	},
+	{
+		"monsterName": {
+			"hash": -194727848
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/YStone",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/YStone",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_YStone",
+		"monsterLevel": 26,
+		"hp": 35550,
+		"attack": 678,
+		"defence": 63,
+		"resist": 0,
+		"stars": [
+			4,
+			4,
+			3,
+			0
+		],
+		"skillList": [
+			6,
+			7,
+			41402
+		],
+		"skillSequence": [
+			6,
+			6,
+			41402,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 41402
+	},
+	{
+		"monsterName": {
+			"hash": 1733606543
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/BatOff",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/BatOff",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_BatOff",
+		"monsterLevel": 27,
+		"hp": 52750,
+		"attack": 627,
+		"defence": 35,
+		"resist": 35,
+		"stars": [
+			5,
+			4,
+			2,
+			2
+		],
+		"skillList": [
+			6,
+			31201,
+			31202,
+			31203
+		],
+		"skillSequence": [
+			6,
+			6,
+			31202,
+			6,
+			31201,
+			6,
+			6,
+			31203
+		],
+		"isBig": true,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 41501
+	},
+	{
+		"monsterName": {
+			"hash": 1733606543
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/BatBoss",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/BatBoss",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_BatOn",
+		"monsterLevel": 27,
+		"hp": 52750,
+		"attack": 627,
+		"defence": 35,
+		"resist": 35,
+		"stars": [
+			5,
+			4,
+			2,
+			2
+		],
+		"skillList": [
+			6,
+			31204,
+			31202,
+			31205
+		],
+		"skillSequence": [
+			6,
+			6,
+			31205,
+			6,
+			31204,
+			6,
+			6,
+			31202
+		],
+		"isBig": true,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 41502
+	},
+	{
+		"monsterName": {
+			"hash": 1727432569
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/MonsterBall2",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/MonsterBall02",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster_Ball02",
+		"monsterLevel": 26,
+		"hp": 26200,
+		"attack": 501,
+		"defence": 53,
+		"resist": 21,
+		"stars": [
+			2,
+			4,
+			3,
+			1
+		],
+		"skillList": [
+			6,
+			7,
+			20602
+		],
+		"skillSequence": [
+			6,
+			6,
+			20602,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 41601
+	},
+	{
+		"monsterName": {
+			"hash": -2075083327
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/PurpleGargoyle",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/PurpleGargoyle",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_PurpleGargoyle",
+		"monsterLevel": 27,
+		"hp": 34950,
+		"attack": 573,
+		"defence": 35,
+		"resist": 35,
+		"stars": [
+			3,
+			3,
+			2,
+			2
+		],
+		"skillList": [
+			6,
+			7,
+			21101
+		],
+		"skillSequence": [
+			6,
+			6,
+			21101,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 41602
+	},
+	{
+		"monsterName": {
+			"hash": -23833642
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/knight3",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/Monsterknight03",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster_Knight02",
+		"monsterLevel": 27,
+		"hp": 38650,
+		"attack": 358,
+		"defence": 35,
+		"resist": 35,
+		"stars": [
+			3,
+			1,
+			2,
+			2
+		],
+		"skillList": [
+			6,
+			7,
+			20101
+		],
+		"skillSequence": [
+			6,
+			6,
+			20101,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 41701
+	},
+	{
+		"monsterName": {
+			"hash": -96151920
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/RedGargoyle",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/RedGargoyle",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_RedGargoyle",
+		"monsterLevel": 28,
+		"hp": 48050,
+		"attack": 573,
+		"defence": 35,
+		"resist": 35,
+		"stars": [
+			4,
+			3,
+			2,
+			2
+		],
+		"skillList": [
+			6,
+			7,
+			41702
+		],
+		"skillSequence": [
+			6,
+			6,
+			41702,
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 41702
+	},
+	{
+		"monsterName": {
+			"hash": -1211697086
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/GreenSodier",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/GreenSodier",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_GreenSodier",
+		"monsterLevel": 27,
+		"hp": 26200,
+		"attack": 501,
+		"defence": 56,
+		"resist": 53,
+		"stars": [
+			2,
+			3,
+			3,
+			3
+		],
+		"skillList": [
+			6,
+			20801,
+			20802
+		],
+		"skillSequence": [
+			6,
+			6,
+			20801,
+			6,
+			6,
+			20802
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 41801
+	},
+	{
+		"monsterName": {
+			"hash": 2010718984
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/MonsterBall3",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/MonsterBall03",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster_Ball03",
+		"monsterLevel": 27,
+		"hp": 34950,
+		"attack": 716,
+		"defence": 21,
+		"resist": 53,
+		"stars": [
+			3,
+			4,
+			1,
+			3
+		],
+		"skillList": [
+			6,
+			7,
+			20302
+		],
+		"skillSequence": [
+			6,
+			6,
+			20302,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 41802
+	},
+	{
+		"monsterName": {
+			"hash": -192390716
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/GrassStone",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/GrassStone",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_GrassStone",
+		"monsterLevel": 27,
+		"hp": 42250,
+		"attack": 823,
+		"defence": 63,
+		"resist": 11,
+		"stars": [
+			3,
+			5,
+			3,
+			1
+		],
+		"skillList": [
+			6,
+			7,
+			30501
+		],
+		"skillSequence": [
+			6,
+			6,
+			30501,
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 41901
+	},
+	{
+		"monsterName": {
+			"hash": -1313745982
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/GreenGargoyle",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/GreenGargoyle",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_GreenGargoyle",
+		"monsterLevel": 28,
+		"hp": 59900,
+		"attack": 659,
+		"defence": 35,
+		"resist": 35,
+		"stars": [
+			4,
+			4,
+			2,
+			2
+		],
+		"skillList": [
+			6,
+			7,
+			41902
+		],
+		"skillSequence": [
+			6,
+			6,
+			41902,
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 41902
+	},
+	{
+		"monsterName": {
+			"hash": -1840356549
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/BlueSodier",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/BlueSodier",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_BlueSodier",
+		"monsterLevel": 27,
+		"hp": 31100,
+		"attack": 494,
+		"defence": 63,
+		"resist": 63,
+		"stars": [
+			2,
+			2,
+			3,
+			3
+		],
+		"skillList": [
+			6,
+			41001,
+			41002
+		],
+		"skillSequence": [
+			6,
+			6,
+			41001,
+			6,
+			6,
+			41002
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 42001
+	},
+	{
+		"monsterName": {
+			"hash": -1253283425
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/StoneBoss",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/StoneBoss",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_StoneBoss",
+		"monsterLevel": 28,
+		"hp": 94850,
+		"attack": 658,
+		"defence": 53,
+		"resist": 21,
+		"stars": [
+			5,
+			4,
+			3,
+			1
+		],
+		"skillList": [
+			6,
+			7,
+			42002,
+			11202,
+			11203
+		],
+		"skillSequence": [
+			6,
+			6,
+			42002,
+			6,
+			7,
+			6,
+			11203,
+			6,
+			11202,
+			6,
+			7
+		],
+		"isBig": true,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 42002
+	},
+	{
+		"monsterName": {
+			"hash": 574086395
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/Axe3",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/MonsterAxe03",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster_AxeV2V02",
+		"monsterLevel": 27,
+		"hp": 12950,
+		"attack": 430,
+		"defence": 35,
+		"resist": 35,
+		"stars": [
+			1,
+			2,
+			2,
+			2
+		],
+		"skillList": [
+			6,
+			7,
+			10201
+		],
+		"skillSequence": [
+			6,
+			6,
+			7,
+			6,
+			10201
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 42101
+	},
+	{
+		"monsterName": {
+			"hash": -192390716
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/GrassStone",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/GrassStone",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_GrassStone",
+		"monsterLevel": 28,
+		"hp": 22200,
+		"attack": 716,
+		"defence": 63,
+		"resist": 11,
+		"stars": [
+			2,
+			4,
+			3,
+			1
+		],
+		"skillList": [
+			6,
+			7,
+			30501
+		],
+		"skillSequence": [
+			6,
+			6,
+			30501,
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 42102
+	},
+	{
+		"monsterName": {
+			"hash": -96151920
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/RedGargoyle",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/RedGargoyle",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_RedGargoyle",
+		"monsterLevel": 28,
+		"hp": 29950,
+		"attack": 573,
+		"defence": 35,
+		"resist": 35,
+		"stars": [
+			2,
+			3,
+			2,
+			2
+		],
+		"skillList": [
+			6,
+			7,
+			41702
+		],
+		"skillSequence": [
+			6,
+			6,
+			41702,
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 42103
+	},
+	{
+		"monsterName": {
+			"hash": -23833642
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/knight3",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/Monsterknight03",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster_Knight02",
+		"monsterLevel": 27,
+		"hp": 16550,
+		"attack": 358,
+		"defence": 35,
+		"resist": 35,
+		"stars": [
+			1,
+			1,
+			2,
+			2
+		],
+		"skillList": [
+			6,
+			7,
+			20101
+		],
+		"skillSequence": [
+			6,
+			6,
+			20101,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 42201
+	},
+	{
+		"monsterName": {
+			"hash": 1727432569
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/MonsterBall2",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/MonsterBall02",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster_Ball02",
+		"monsterLevel": 28,
+		"hp": 26200,
+		"attack": 573,
+		"defence": 53,
+		"resist": 21,
+		"stars": [
+			2,
+			3,
+			3,
+			1
+		],
+		"skillList": [
+			6,
+			7,
+			42202
+		],
+		"skillSequence": [
+			6,
+			6,
+			42202,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 42202
+	},
+	{
+		"monsterName": {
+			"hash": -1211697086
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/GreenSodier",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/GreenSodier",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_GreenSodier",
+		"monsterLevel": 28,
+		"hp": 24950,
+		"attack": 501,
+		"defence": 56,
+		"resist": 53,
+		"stars": [
+			2,
+			3,
+			3,
+			3
+		],
+		"skillList": [
+			6,
+			20801,
+			20802
+		],
+		"skillSequence": [
+			6,
+			6,
+			20801,
+			6,
+			6,
+			20802
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 42203
+	},
+	{
+		"monsterName": {
+			"hash": 1957729042
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/Stone",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/Stone",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_Stone",
+		"monsterLevel": 28,
+		"hp": 25900,
+		"attack": 716,
+		"defence": 63,
+		"resist": 0,
+		"stars": [
+			2,
+			4,
+			3,
+			0
+		],
+		"skillList": [
+			6,
+			7,
+			42301
+		],
+		"skillSequence": [
+			6,
+			6,
+			42301,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 42301
+	},
+	{
+		"monsterName": {
+			"hash": -194727848
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/YStone",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/YStone",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_YStone",
+		"monsterLevel": 28,
+		"hp": 32250,
+		"attack": 716,
+		"defence": 73,
+		"resist": 0,
+		"stars": [
+			3,
+			4,
+			4,
+			0
+		],
+		"skillList": [
+			6,
+			7,
+			41402
+		],
+		"skillSequence": [
+			6,
+			6,
+			41402,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 42302
+	},
+	{
+		"monsterName": {
+			"hash": -1313745982
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/GreenGargoyle",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/GreenGargoyle",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_GreenGargoyle",
+		"monsterLevel": 29,
+		"hp": 56800,
+		"attack": 687,
+		"defence": 45,
+		"resist": 45,
+		"stars": [
+			4,
+			4,
+			2,
+			2
+		],
+		"skillList": [
+			6,
+			7,
+			41902
+		],
+		"skillSequence": [
+			6,
+			6,
+			41902,
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 42303
+	},
+	{
+		"monsterName": {
+			"hash": 616817074
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/MonsterBall",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/MonsterBall01",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster_Ball01",
+		"monsterLevel": 27,
+		"hp": 17400,
+		"attack": 564,
+		"defence": 55,
+		"resist": 35,
+		"stars": [
+			2,
+			3,
+			3,
+			2
+		],
+		"skillList": [
+			6,
+			7,
+			20202
+		],
+		"skillSequence": [
+			6,
+			6,
+			20202,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 42401
+	},
+	{
+		"monsterName": {
+			"hash": -2075083327
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/PurpleGargoyle",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/PurpleGargoyle",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_PurpleGargoyle",
+		"monsterLevel": 28,
+		"hp": 34950,
+		"attack": 630,
+		"defence": 60,
+		"resist": 50,
+		"stars": [
+			3,
+			4,
+			3,
+			3
+		],
+		"skillList": [
+			6,
+			7,
+			21101
+		],
+		"skillSequence": [
+			6,
+			6,
+			21101,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 42402
+	},
+	{
+		"monsterName": {
+			"hash": 1603216784
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/RedSodier",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/RedSodier",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_RedSodier",
+		"monsterLevel": 29,
+		"hp": 46450,
+		"attack": 630,
+		"defence": 81,
+		"resist": 71,
+		"stars": [
+			3,
+			4,
+			4,
+			4
+		],
+		"skillList": [
+			6,
+			20401,
+			20402
+		],
+		"skillSequence": [
+			6,
+			6,
+			20401,
+			6,
+			6,
+			20402
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 42403
+	},
+	{
+		"monsterName": {
+			"hash": -1840356549
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/BlueSodier",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/BlueSodier",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_BlueSodier",
+		"monsterLevel": 28,
+		"hp": 20750,
+		"attack": 473,
+		"defence": 63,
+		"resist": 63,
+		"stars": [
+			2,
+			2,
+			3,
+			3
+		],
+		"skillList": [
+			6,
+			41001,
+			41002
+		],
+		"skillSequence": [
+			6,
+			6,
+			41001,
+			6,
+			6,
+			41002
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 42501
+	},
+	{
+		"monsterName": {
+			"hash": -1211697086
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/GreenSodier",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/GreenSodier",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_GreenSodier",
+		"monsterLevel": 29,
+		"hp": 39950,
+		"attack": 551,
+		"defence": 56,
+		"resist": 53,
+		"stars": [
+			3,
+			3,
+			3,
+			3
+		],
+		"skillList": [
+			6,
+			20801,
+			20802
+		],
+		"skillSequence": [
+			6,
+			6,
+			20801,
+			6,
+			6,
+			20802
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 42502
+	},
+	{
+		"monsterName": {
+			"hash": -1122918576
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/Cerberus",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/Cerberus",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_Cerberus",
+		"monsterLevel": 30,
+		"hp": 71150,
+		"attack": 591,
+		"defence": 85,
+		"resist": 75,
+		"stars": [
+			5,
+			4,
+			4,
+			4
+		],
+		"skillList": [
+			6,
+			21303,
+			21301,
+			21302,
+			42503
+		],
+		"skillSequence": [
+			6,
+			21303,
+			6,
+			21301,
+			6,
+			6,
+			21302,
+			6,
+			42503
+		],
+		"isBig": true,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 42503
+	},
+	{
+		"monsterName": {
+			"hash": -23833642
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/knight3",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/Monsterknight03",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster_Knight02",
+		"monsterLevel": 28,
+		"hp": 20750,
+		"attack": 558,
+		"defence": 35,
+		"resist": 35,
+		"stars": [
+			2,
+			4,
+			2,
+			2
+		],
+		"skillList": [
+			6,
+			7,
+			20101
+		],
+		"skillSequence": [
+			6,
+			6,
+			20101,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 42601
+	},
+	{
+		"monsterName": {
+			"hash": 2010718984
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/MonsterBall3",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/MonsterBall03",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster_Ball03",
+		"monsterLevel": 28,
+		"hp": 22450,
+		"attack": 537,
+		"defence": 21,
+		"resist": 53,
+		"stars": [
+			2,
+			4,
+			2,
+			3
+		],
+		"skillList": [
+			6,
+			7,
+			42602
+		],
+		"skillSequence": [
+			6,
+			6,
+			42602,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 42602
+	},
+	{
+		"monsterName": {
+			"hash": -1313745982
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/GreenGargoyle",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/GreenGargoyle",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_GreenGargoyle",
+		"monsterLevel": 29,
+		"hp": 33700,
+		"attack": 573,
+		"defence": 35,
+		"resist": 35,
+		"stars": [
+			3,
+			4,
+			2,
+			2
+		],
+		"skillList": [
+			6,
+			7,
+			41902
+		],
+		"skillSequence": [
+			6,
+			6,
+			41902,
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 42603
+	},
+	{
+		"monsterName": {
+			"hash": 1523254507
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/knight4",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/Monsterknight04",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster_Knight03",
+		"monsterLevel": 28,
+		"hp": 26500,
+		"attack": 358,
+		"defence": 35,
+		"resist": 35,
+		"stars": [
+			2,
+			2,
+			2,
+			2
+		],
+		"skillList": [
+			6,
+			7,
+			10801
+		],
+		"skillSequence": [
+			6,
+			6,
+			10801,
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 42701
+	},
+	{
+		"monsterName": {
+			"hash": 1957729042
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/Stone",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/Stone",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_Stone",
+		"monsterLevel": 28,
+		"hp": 19000,
+		"attack": 430,
+		"defence": 53,
+		"resist": 0,
+		"stars": [
+			2,
+			2,
+			3,
+			0
+		],
+		"skillList": [
+			6,
+			7,
+			42301
+		],
+		"skillSequence": [
+			6,
+			6,
+			42301,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 42702
+	},
+	{
+		"monsterName": {
+			"hash": -1211697086
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/GreenSodier",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/GreenSodier",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_GreenSodier",
+		"monsterLevel": 29,
+		"hp": 33700,
+		"attack": 501,
+		"defence": 56,
+		"resist": 53,
+		"stars": [
+			3,
+			4,
+			3,
+			3
+		],
+		"skillList": [
+			6,
+			20801,
+			20802
+		],
+		"skillSequence": [
+			6,
+			6,
+			20801,
+			6,
+			6,
+			20802
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 42703
+	},
+	{
+		"monsterName": {
+			"hash": 1727432569
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/MonsterBall2",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/MonsterBall02",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster_Ball02",
+		"monsterLevel": 28,
+		"hp": 29950,
+		"attack": 501,
+		"defence": 53,
+		"resist": 21,
+		"stars": [
+			2,
+			4,
+			3,
+			1
+		],
+		"skillList": [
+			6,
+			7,
+			20602
+		],
+		"skillSequence": [
+			6,
+			6,
+			20602,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 42801
+	},
+	{
+		"monsterName": {
+			"hash": -194727848
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/YStone",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/YStone",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_YStone",
+		"monsterLevel": 29,
+		"hp": 32250,
+		"attack": 430,
+		"defence": 63,
+		"resist": 30,
+		"stars": [
+			3,
+			2,
+			3,
+			2
+		],
+		"skillList": [
+			6,
+			7,
+			41402
+		],
+		"skillSequence": [
+			6,
+			6,
+			41402,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 42802
+	},
+	{
+		"monsterName": {
+			"hash": -96151920
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/RedGargoyle",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/RedGargoyle",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_RedGargoyle",
+		"monsterLevel": 30,
+		"hp": 49900,
+		"attack": 573,
+		"defence": 65,
+		"resist": 45,
+		"stars": [
+			4,
+			4,
+			3,
+			2
+		],
+		"skillList": [
+			6,
+			7,
+			41702
+		],
+		"skillSequence": [
+			6,
+			6,
+			41702,
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 42803
+	},
+	{
+		"monsterName": {
+			"hash": 616817074
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/MonsterBall",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/MonsterBall01",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster_Ball01",
+		"monsterLevel": 29,
+		"hp": 32250,
+		"attack": 458,
+		"defence": 35,
+		"resist": 35,
+		"stars": [
+			3,
+			3,
+			2,
+			2
+		],
+		"skillList": [
+			6,
+			7,
+			42801
+		],
+		"skillSequence": [
+			6,
+			6,
+			42801,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 42901
+	},
+	{
+		"monsterName": {
+			"hash": -192390716
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/GrassStone",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/GrassStone",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_GrassStone",
+		"monsterLevel": 29,
+		"hp": 36950,
+		"attack": 573,
+		"defence": 63,
+		"resist": 11,
+		"stars": [
+			3,
+			4,
+			3,
+			1
+		],
+		"skillList": [
+			6,
+			7,
+			30501
+		],
+		"skillSequence": [
+			6,
+			6,
+			30501,
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 42902
+	},
+	{
+		"monsterName": {
+			"hash": -2075083327
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/PurpleGargoyle",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/PurpleGargoyle",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_PurpleGargoyle",
+		"monsterLevel": 30,
+		"hp": 74900,
+		"attack": 745,
+		"defence": 85,
+		"resist": 75,
+		"stars": [
+			4,
+			5,
+			4,
+			4
+		],
+		"skillList": [
+			6,
+			7,
+			21101
+		],
+		"skillSequence": [
+			6,
+			6,
+			21101,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 42903
+	},
+	{
+		"monsterName": {
+			"hash": -1840356549
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/BlueSodier",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/BlueSodier",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_BlueSodier",
+		"monsterLevel": 30,
+		"hp": 27650,
+		"attack": 430,
+		"defence": 63,
+		"resist": 63,
+		"stars": [
+			2,
+			2,
+			3,
+			3
+		],
+		"skillList": [
+			6,
+			41001,
+			43001
+		],
+		"skillSequence": [
+			6,
+			6,
+			41001,
+			6,
+			6,
+			43001
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 43001
+	},
+	{
+		"monsterName": {
+			"hash": 1733606543
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/BatOff",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/BatOff",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_BatOff",
+		"monsterLevel": 30,
+		"hp": 82850,
+		"attack": 627,
+		"defence": 60,
+		"resist": 45,
+		"stars": [
+			5,
+			5,
+			3,
+			2
+		],
+		"skillList": [
+			6,
+			31201,
+			31202,
+			43002
+		],
+		"skillSequence": [
+			6,
+			6,
+			31202,
+			6,
+			31201,
+			6,
+			6,
+			43002
+		],
+		"isBig": true,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 43002
+	},
+	{
+		"monsterName": {
+			"hash": 1733606543
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/BatBoss",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/BatBoss",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_BatOn",
+		"monsterLevel": 30,
+		"hp": 82850,
+		"attack": 627,
+		"defence": 60,
+		"resist": 45,
+		"stars": [
+			5,
+			5,
+			3,
+			2
+		],
+		"skillList": [
+			6,
+			31204,
+			43003,
+			31205
+		],
+		"skillSequence": [
+			6,
+			6,
+			31205,
+			6,
+			31204,
+			6,
+			6,
+			43003
+		],
+		"isBig": true,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 43003
+	},
+	{
+		"monsterName": {
+			"hash": 574087617
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/Car",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/Monster01",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster01",
+		"monsterLevel": 1,
+		"hp": 3250,
+		"attack": 53,
+		"defence": 20,
+		"resist": 20,
+		"stars": [
+			2,
+			1,
+			1,
+			2
+		],
+		"skillList": [
+			6,
+			7
+		],
+		"skillSequence": [
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 90001
+	},
+	{
+		"monsterName": {
+			"hash": 574087617
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/Car",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/Monster01",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster01",
+		"monsterLevel": 5,
+		"hp": 6200,
+		"attack": 92,
+		"defence": 23,
+		"resist": 23,
+		"stars": [
+			2,
+			1,
+			1,
+			2
+		],
+		"skillList": [
+			6,
+			7
+		],
+		"skillSequence": [
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 90002
+	},
+	{
+		"monsterName": {
+			"hash": 574087617
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/Car",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/Monster01",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster01",
+		"monsterLevel": 10,
+		"hp": 11950,
+		"attack": 173,
+		"defence": 25,
+		"resist": 25,
+		"stars": [
+			2,
+			1,
+			1,
+			2
+		],
+		"skillList": [
+			6,
+			7
+		],
+		"skillSequence": [
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 90003
+	},
+	{
+		"monsterName": {
+			"hash": 574087617
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/Car",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/Monster01",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster01",
+		"monsterLevel": 15,
+		"hp": 19700,
+		"attack": 289,
+		"defence": 28,
+		"resist": 28,
+		"stars": [
+			2,
+			1,
+			1,
+			2
+		],
+		"skillList": [
+			6,
+			7
+		],
+		"skillSequence": [
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 90004
+	},
+	{
+		"monsterName": {
+			"hash": 574087617
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/Car",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/Monster01",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster01",
+		"monsterLevel": 20,
+		"hp": 29600,
+		"attack": 438,
+		"defence": 30,
+		"resist": 30,
+		"stars": [
+			2,
+			1,
+			1,
+			2
+		],
+		"skillList": [
+			6,
+			7
+		],
+		"skillSequence": [
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 90005
+	},
+	{
+		"monsterName": {
+			"hash": 574087617
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/Car",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/Monster01",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster01",
+		"monsterLevel": 25,
+		"hp": 40600,
+		"attack": 625,
+		"defence": 33,
+		"resist": 33,
+		"stars": [
+			2,
+			1,
+			1,
+			2
+		],
+		"skillList": [
+			6,
+			7
+		],
+		"skillSequence": [
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 90006
+	},
+	{
+		"monsterName": {
+			"hash": 574087617
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/Car",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/Monster01",
+		"monsterPrefabPath": "UI/Menus/Widget/DiceyDungeon/Portrait/SummerEvent_Monster01",
+		"monsterLevel": 30,
+		"hp": 53500,
+		"attack": 842,
+		"defence": 35,
+		"resist": 35,
+		"stars": [
+			2,
+			1,
+			1,
+			2
+		],
+		"skillList": [
+			6,
+			7
+		],
+		"skillSequence": [
+			6,
+			6,
+			7
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 90007
+	},
+	{
+		"monsterName": {
+			"hash": 1942585774
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/Chest",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/Chest",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_Chest",
+		"monsterLevel": 3,
+		"hp": 99999,
+		"attack": 16,
+		"defence": 20,
+		"resist": 20,
+		"stars": [
+			5,
+			1,
+			1,
+			1
+		],
+		"skillList": [
+			8,
+			5
+		],
+		"skillSequence": [
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			5
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 110101
+	},
+	{
+		"monsterName": {
+			"hash": 1942585774
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/Chest",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/Chest",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_Chest",
+		"monsterLevel": 7,
+		"hp": 99999,
+		"attack": 29,
+		"defence": 20,
+		"resist": 20,
+		"stars": [
+			5,
+			1,
+			1,
+			1
+		],
+		"skillList": [
+			8,
+			5
+		],
+		"skillSequence": [
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			5
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 120101
+	},
+	{
+		"monsterName": {
+			"hash": 1942585774
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/Chest",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/Chest",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_Chest",
+		"monsterLevel": 13,
+		"hp": 999999,
+		"attack": 57,
+		"defence": 20,
+		"resist": 20,
+		"stars": [
+			5,
+			1,
+			1,
+			1
+		],
+		"skillList": [
+			8,
+			5
+		],
+		"skillSequence": [
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			5
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 130101
+	},
+	{
+		"monsterName": {
+			"hash": 1942585774
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/Chest",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/Chest",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_Chest",
+		"monsterLevel": 17,
+		"hp": 999999,
+		"attack": 83,
+		"defence": 20,
+		"resist": 20,
+		"stars": [
+			5,
+			1,
+			1,
+			1
+		],
+		"skillList": [
+			8,
+			5
+		],
+		"skillSequence": [
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			5
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 140101
+	},
+	{
+		"monsterName": {
+			"hash": 1942585774
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/Chest",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/Chest",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_Chest",
+		"monsterLevel": 23,
+		"hp": 9999999,
+		"attack": 139,
+		"defence": 20,
+		"resist": 20,
+		"stars": [
+			5,
+			1,
+			1,
+			1
+		],
+		"skillList": [
+			8,
+			5
+		],
+		"skillSequence": [
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			5
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 150101
+	},
+	{
+		"monsterName": {
+			"hash": 1942585774
+		},
+		"monsterIcon": "SpriteOutput/MatchThree/Portrait/EnemyHead/Chest",
+		"monsterFigurePath": "SpriteOutput/MatchThree/Portrait/Enemy/Chest",
+		"monsterPrefabPath": "UI/Menus/Widget/MatchThree/Portrait/MatchThree_Chest",
+		"monsterLevel": 27,
+		"hp": 9999999,
+		"attack": 180,
+		"defence": 20,
+		"resist": 20,
+		"stars": [
+			5,
+			1,
+			1,
+			1
+		],
+		"skillList": [
+			8,
+			5
+		],
+		"skillSequence": [
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			8,
+			5
+		],
+		"isBig": false,
+		"isMirror": false,
+		"shieldOffset": 0,
+		"DataImpl": {},
+		"monsterID": 160101
+	}
+]

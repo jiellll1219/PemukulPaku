@@ -1,0 +1,254 @@
+[
+	{
+		"BuffName": "Ability_LevelEU_WeatherIce",
+		"IconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Ice",
+		"BuffNameText": {
+			"hash": -1068671536
+		},
+		"BuffDescText": {
+			"hash": -1351092138
+		},
+		"DataImpl": {},
+		"BuffID": 1
+	},
+	{
+		"BuffName": "Ability_LevelEU_WeatherFire",
+		"IconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Fire",
+		"BuffNameText": {
+			"hash": -1068671535
+		},
+		"BuffDescText": {
+			"hash": -1351092137
+		},
+		"DataImpl": {},
+		"BuffID": 2
+	},
+	{
+		"BuffName": "Ability_LevelEU_WeatherThunder",
+		"IconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Thunder",
+		"BuffNameText": {
+			"hash": -1068671534
+		},
+		"BuffDescText": {
+			"hash": -1351092136
+		},
+		"DataImpl": {},
+		"BuffID": 3
+	},
+	{
+		"BuffName": "Ability_LevelEU_WeatherPhysical",
+		"IconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Physics",
+		"BuffNameText": {
+			"hash": -1068671533
+		},
+		"BuffDescText": {
+			"hash": -1351092135
+		},
+		"DataImpl": {},
+		"BuffID": 4
+	},
+	{
+		"BuffName": "Ability_LevelEU_WeatherEmpty",
+		"IconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Quantum",
+		"BuffNameText": {
+			"hash": -1068671532
+		},
+		"BuffDescText": {
+			"hash": -1351092134
+		},
+		"DataImpl": {},
+		"BuffID": 5
+	},
+	{
+		"BuffName": "Ability_LevelEU_WeatherFar",
+		"IconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Damage",
+		"BuffNameText": {
+			"hash": -1068671531
+		},
+		"BuffDescText": {
+			"hash": -1351092133
+		},
+		"DataImpl": {},
+		"BuffID": 6
+	},
+	{
+		"BuffName": "Ability_LevelEU_WeatherEmpty",
+		"IconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Restraint",
+		"BuffNameText": {
+			"hash": -1068671530
+		},
+		"BuffDescText": {
+			"hash": -1351092132
+		},
+		"DataImpl": {},
+		"BuffID": 7
+	},
+	{
+		"BuffName": "Ability_LevelEU_Low_WeatherElement",
+		"IconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Element",
+		"BuffNameText": {
+			"hash": -1068671529
+		},
+		"BuffDescText": {
+			"hash": -1351092131
+		},
+		"DataImpl": {},
+		"BuffID": 8
+	},
+	{
+		"BuffName": "Ability_LevelEU_Low_WeatherPhysical",
+		"IconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Physics",
+		"BuffNameText": {
+			"hash": -1068671528
+		},
+		"BuffDescText": {
+			"hash": -1351092130
+		},
+		"DataImpl": {},
+		"BuffID": 9
+	},
+	{
+		"BuffName": "Ability_LevelEU_Low_WeatherFar",
+		"IconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Damage",
+		"BuffNameText": {
+			"hash": 1230920800
+		},
+		"BuffDescText": {
+			"hash": 1065816730
+		},
+		"DataImpl": {},
+		"BuffID": 10
+	},
+	{
+		"BuffName": "Ability_LevelEU_WeatherEmpty",
+		"IconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Burn",
+		"BuffNameText": {
+			"hash": 1230920801
+		},
+		"BuffDescText": {
+			"hash": 1065816731
+		},
+		"DataImpl": {},
+		"BuffID": 11
+	},
+	{
+		"BuffName": "Ability_LevelEU_WeatherEmpty",
+		"IconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Paralyze",
+		"BuffNameText": {
+			"hash": 1230920802
+		},
+		"BuffDescText": {
+			"hash": 1065816732
+		},
+		"DataImpl": {},
+		"BuffID": 12
+	},
+	{
+		"BuffName": "Ability_LevelEU_WeatherEmpty",
+		"IconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Kill",
+		"BuffNameText": {
+			"hash": 1230920803
+		},
+		"BuffDescText": {
+			"hash": 1065816733
+		},
+		"DataImpl": {},
+		"BuffID": 13
+	},
+	{
+		"BuffName": "Ability_LevelEU_WeatherEmpty",
+		"IconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Imaginary",
+		"BuffNameText": {
+			"hash": 1230920804
+		},
+		"BuffDescText": {
+			"hash": 1065816734
+		},
+		"DataImpl": {},
+		"BuffID": 14
+	},
+	{
+		"BuffName": "Ability_LevelEU_WeatherEmpty",
+		"IconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_ShieldUp",
+		"BuffNameText": {
+			"hash": 1230920805
+		},
+		"BuffDescText": {
+			"hash": 1065816735
+		},
+		"DataImpl": {},
+		"BuffID": 15
+	},
+	{
+		"BuffName": "Ability_LevelEU_WeatherBleed",
+		"IconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Bleed",
+		"BuffNameText": {
+			"hash": 1230920806
+		},
+		"BuffDescText": {
+			"hash": 1065816736
+		},
+		"DataImpl": {},
+		"BuffID": 16
+	},
+	{
+		"BuffName": "Ability_LevelEU_WeatherFrozen",
+		"IconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Frozen",
+		"BuffNameText": {
+			"hash": 1230920807
+		},
+		"BuffDescText": {
+			"hash": 1065816737
+		},
+		"DataImpl": {},
+		"BuffID": 17
+	},
+	{
+		"BuffName": "Ability_LevelEU_WeatherMeele",
+		"IconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Meele",
+		"BuffNameText": {
+			"hash": 1230920808
+		},
+		"BuffDescText": {
+			"hash": 1065816738
+		},
+		"DataImpl": {},
+		"BuffID": 18
+	},
+	{
+		"BuffName": "Ability_LevelEU_Low_WeatherMelee",
+		"IconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Meele",
+		"BuffNameText": {
+			"hash": 1230920809
+		},
+		"BuffDescText": {
+			"hash": 1065816739
+		},
+		"DataImpl": {},
+		"BuffID": 19
+	},
+	{
+		"BuffName": "Ability_LevelEU_WeatherMultiElement",
+		"IconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_MultiElement",
+		"BuffNameText": {
+			"hash": 1230920831
+		},
+		"BuffDescText": {
+			"hash": 1065816761
+		},
+		"DataImpl": {},
+		"BuffID": 20
+	},
+	{
+		"BuffName": "Ability_LevelEU_WeatherEmpty",
+		"IconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Summon",
+		"BuffNameText": {
+			"hash": 1230920832
+		},
+		"BuffDescText": {
+			"hash": 1065816762
+		},
+		"DataImpl": {},
+		"BuffID": 21
+	}
+]

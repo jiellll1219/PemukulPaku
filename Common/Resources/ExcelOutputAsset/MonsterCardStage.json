@@ -1,0 +1,5075 @@
+[
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"Wave1": [],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301001
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"Wave1": [],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301002
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"Wave1": [
+			{
+				"Level": 1,
+				"Slot": 1,
+				"Star": 1,
+				"UniqueID": 998298
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 1,
+				"EffectID": 100005
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301003
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"Wave1": [
+			{
+				"Level": 1,
+				"Slot": 1,
+				"Star": 1,
+				"UniqueID": 998298
+			},
+			{
+				"Level": 1,
+				"Slot": 2,
+				"Star": 1,
+				"UniqueID": 998298
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 1,
+				"EffectID": 100005
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301004
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"Wave1": [
+			{
+				"Level": 5,
+				"Slot": 1,
+				"Star": 1,
+				"UniqueID": 998298
+			},
+			{
+				"Level": 5,
+				"Slot": 2,
+				"Star": 1,
+				"UniqueID": 998275
+			},
+			{
+				"Level": 5,
+				"Slot": 3,
+				"Star": 1,
+				"UniqueID": 998298
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 1,
+				"EffectID": 100005
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301005
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"Wave1": [],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301006
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"Wave1": [
+			{
+				"Level": 4,
+				"Slot": 1,
+				"Star": 1,
+				"UniqueID": 998298
+			},
+			{
+				"Level": 11,
+				"Slot": 2,
+				"Star": 2,
+				"UniqueID": 998295
+			},
+			{
+				"Level": 4,
+				"Slot": 3,
+				"Star": 1,
+				"UniqueID": 998298
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301007
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"Wave1": [
+			{
+				"Level": 3,
+				"Slot": 1,
+				"Star": 1,
+				"UniqueID": 998298
+			},
+			{
+				"Level": 3,
+				"Slot": 2,
+				"Star": 1,
+				"UniqueID": 998275
+			},
+			{
+				"Level": 3,
+				"Slot": 3,
+				"Star": 1,
+				"UniqueID": 998298
+			},
+			{
+				"Level": 3,
+				"Slot": 4,
+				"Star": 1,
+				"UniqueID": 998287
+			},
+			{
+				"Level": 3,
+				"Slot": 5,
+				"Star": 1,
+				"UniqueID": 998287
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 1,
+				"EffectID": 100012
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301008
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"Wave1": [
+			{
+				"Level": 8,
+				"Slot": 1,
+				"Star": 1,
+				"UniqueID": 998287
+			},
+			{
+				"Level": 11,
+				"Slot": 2,
+				"Star": 2,
+				"UniqueID": 998286
+			},
+			{
+				"Level": 8,
+				"Slot": 3,
+				"Star": 1,
+				"UniqueID": 998287
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301009
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"Wave1": [
+			{
+				"Level": 6,
+				"Slot": 1,
+				"Star": 1,
+				"UniqueID": 998298
+			},
+			{
+				"Level": 6,
+				"Slot": 2,
+				"Star": 1,
+				"UniqueID": 998278
+			},
+			{
+				"Level": 6,
+				"Slot": 3,
+				"Star": 1,
+				"UniqueID": 998298
+			},
+			{
+				"Level": 6,
+				"Slot": 4,
+				"Star": 1,
+				"UniqueID": 998276
+			},
+			{
+				"Level": 6,
+				"Slot": 5,
+				"Star": 1,
+				"UniqueID": 998276
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 1,
+				"EffectID": 100012
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301010
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"Wave1": [
+			{
+				"Level": 5,
+				"Slot": 1,
+				"Star": 1,
+				"UniqueID": 998275
+			},
+			{
+				"Level": 11,
+				"Slot": 2,
+				"Star": 2,
+				"UniqueID": 998286
+			},
+			{
+				"Level": 5,
+				"Slot": 3,
+				"Star": 1,
+				"UniqueID": 998275
+			},
+			{
+				"Level": 5,
+				"Slot": 4,
+				"Star": 1,
+				"UniqueID": 998287
+			},
+			{
+				"Level": 5,
+				"Slot": 5,
+				"Star": 1,
+				"UniqueID": 998287
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 1,
+				"EffectID": 100012
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301011
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"Wave1": [
+			{
+				"Level": 8,
+				"Slot": 1,
+				"Star": 1,
+				"UniqueID": 998275
+			},
+			{
+				"Level": 8,
+				"Slot": 2,
+				"Star": 1,
+				"UniqueID": 998298
+			},
+			{
+				"Level": 8,
+				"Slot": 3,
+				"Star": 1,
+				"UniqueID": 998275
+			},
+			{
+				"Level": 8,
+				"Slot": 4,
+				"Star": 1,
+				"UniqueID": 998293
+			},
+			{
+				"Level": 8,
+				"Slot": 5,
+				"Star": 1,
+				"UniqueID": 998293
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 1,
+				"EffectID": 100012
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301012
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"Wave1": [
+			{
+				"Level": 6,
+				"Slot": 1,
+				"Star": 1,
+				"UniqueID": 998298
+			},
+			{
+				"Level": 11,
+				"Slot": 2,
+				"Star": 2,
+				"UniqueID": 998286
+			},
+			{
+				"Level": 6,
+				"Slot": 3,
+				"Star": 1,
+				"UniqueID": 998298
+			},
+			{
+				"Level": 6,
+				"Slot": 4,
+				"Star": 1,
+				"UniqueID": 998275
+			},
+			{
+				"Level": 6,
+				"Slot": 5,
+				"Star": 1,
+				"UniqueID": 998275
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 1,
+				"EffectID": 100012
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301013
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"Wave1": [],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301014
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"Wave1": [
+			{
+				"Level": 8,
+				"Slot": 1,
+				"Star": 1,
+				"UniqueID": 998287
+			},
+			{
+				"Level": 9,
+				"Slot": 2,
+				"Star": 1,
+				"UniqueID": 998286
+			},
+			{
+				"Level": 8,
+				"Slot": 3,
+				"Star": 1,
+				"UniqueID": 998287
+			},
+			{
+				"Level": 8,
+				"Slot": 4,
+				"Star": 1,
+				"UniqueID": 998287
+			},
+			{
+				"Level": 8,
+				"Slot": 5,
+				"Star": 1,
+				"UniqueID": 998287
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 1,
+				"EffectID": 100012
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301015
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"Wave1": [
+			{
+				"Level": 7,
+				"Slot": 1,
+				"Star": 1,
+				"UniqueID": 998288
+			},
+			{
+				"Level": 7,
+				"Slot": 3,
+				"Star": 1,
+				"UniqueID": 998288
+			},
+			{
+				"Level": 7,
+				"Slot": 4,
+				"Star": 1,
+				"UniqueID": 998287
+			},
+			{
+				"Level": 7,
+				"Slot": 5,
+				"Star": 1,
+				"UniqueID": 998287
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 1,
+				"EffectID": 100012
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301016
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"Wave1": [
+			{
+				"Level": 8,
+				"Slot": 1,
+				"Star": 1,
+				"UniqueID": 998287
+			},
+			{
+				"Level": 9,
+				"Slot": 2,
+				"Star": 1,
+				"UniqueID": 998286
+			},
+			{
+				"Level": 8,
+				"Slot": 3,
+				"Star": 1,
+				"UniqueID": 998287
+			},
+			{
+				"Level": 8,
+				"Slot": 4,
+				"Star": 1,
+				"UniqueID": 998293
+			},
+			{
+				"Level": 8,
+				"Slot": 5,
+				"Star": 1,
+				"UniqueID": 998293
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 1,
+				"EffectID": 100012
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301017
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"Wave1": [
+			{
+				"Level": 5,
+				"Slot": 1,
+				"Star": 1,
+				"UniqueID": 998298
+			},
+			{
+				"Level": 5,
+				"Slot": 3,
+				"Star": 1,
+				"UniqueID": 998298
+			}
+		],
+		"Wave2": [
+			{
+				"Level": 11,
+				"Slot": 2,
+				"Star": 2,
+				"UniqueID": 998280
+			}
+		],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301018
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"Wave1": [
+			{
+				"Level": 4,
+				"Slot": 1,
+				"Star": 1,
+				"UniqueID": 998275
+			},
+			{
+				"Level": 11,
+				"Slot": 2,
+				"Star": 2,
+				"UniqueID": 998288
+			},
+			{
+				"Level": 4,
+				"Slot": 3,
+				"Star": 1,
+				"UniqueID": 998275
+			},
+			{
+				"Level": 4,
+				"Slot": 4,
+				"Star": 1,
+				"UniqueID": 998298
+			},
+			{
+				"Level": 4,
+				"Slot": 5,
+				"Star": 1,
+				"UniqueID": 998298
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 1,
+				"EffectID": 100012
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301019
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"Wave1": [
+			{
+				"Level": 10,
+				"Slot": 1,
+				"Star": 1,
+				"UniqueID": 998288
+			},
+			{
+				"Level": 11,
+				"Slot": 2,
+				"Star": 2,
+				"UniqueID": 998288
+			},
+			{
+				"Level": 10,
+				"Slot": 3,
+				"Star": 1,
+				"UniqueID": 998288
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301020
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"Wave1": [
+			{
+				"Level": 3,
+				"Slot": 1,
+				"Star": 1,
+				"UniqueID": 998286
+			},
+			{
+				"Level": 3,
+				"Slot": 3,
+				"Star": 1,
+				"UniqueID": 998286
+			}
+		],
+		"Wave2": [
+			{
+				"Level": 11,
+				"Slot": 2,
+				"Star": 2,
+				"UniqueID": 998290
+			}
+		],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301021
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"Wave1": [
+			{
+				"Level": 21,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998294
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301022
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"Wave1": [],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301023
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"Wave1": [
+			{
+				"Level": 10,
+				"Slot": 1,
+				"Star": 1,
+				"UniqueID": 998286
+			},
+			{
+				"Level": 10,
+				"Slot": 2,
+				"Star": 1,
+				"UniqueID": 998288
+			},
+			{
+				"Level": 10,
+				"Slot": 3,
+				"Star": 1,
+				"UniqueID": 998286
+			},
+			{
+				"Level": 10,
+				"Slot": 4,
+				"Star": 1,
+				"UniqueID": 998276
+			},
+			{
+				"Level": 10,
+				"Slot": 5,
+				"Star": 1,
+				"UniqueID": 998276
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301024
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"Wave1": [
+			{
+				"Level": 5,
+				"Slot": 1,
+				"Star": 1,
+				"UniqueID": 998287
+			},
+			{
+				"Level": 5,
+				"Slot": 3,
+				"Star": 1,
+				"UniqueID": 998287
+			}
+		],
+		"Wave2": [
+			{
+				"Level": 13,
+				"Slot": 2,
+				"Star": 2,
+				"UniqueID": 998289
+			}
+		],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301025
+	},
+	{
+		"StageType": 3,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"Wave1": [
+			{
+				"Level": 1,
+				"Slot": 1,
+				"Star": 1,
+				"UniqueID": 998275
+			},
+			{
+				"Level": 11,
+				"Slot": 2,
+				"Star": 2,
+				"UniqueID": 998295
+			},
+			{
+				"Level": 1,
+				"Slot": 3,
+				"Star": 1,
+				"UniqueID": 998275
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": true,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 652121,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301051
+	},
+	{
+		"StageType": 3,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"Wave1": [
+			{
+				"Level": 10,
+				"Slot": 1,
+				"Star": 1,
+				"UniqueID": 998286
+			},
+			{
+				"Level": 11,
+				"Slot": 2,
+				"Star": 2,
+				"UniqueID": 998288
+			},
+			{
+				"Level": 10,
+				"Slot": 3,
+				"Star": 1,
+				"UniqueID": 998286
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": true,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 652122,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301052
+	},
+	{
+		"StageType": 3,
+		"StageScene": "Stage_Elysion_Garden_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 16,
+				"Slot": 1,
+				"Star": 2,
+				"UniqueID": 998275
+			},
+			{
+				"Level": 16,
+				"Slot": 2,
+				"Star": 2,
+				"UniqueID": 998283
+			},
+			{
+				"Level": 16,
+				"Slot": 3,
+				"Star": 2,
+				"UniqueID": 998275
+			},
+			{
+				"Level": 16,
+				"Slot": 4,
+				"Star": 2,
+				"UniqueID": 998285
+			},
+			{
+				"Level": 16,
+				"Slot": 5,
+				"Star": 2,
+				"UniqueID": 998285
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": true,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 652123,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301053
+	},
+	{
+		"StageType": 3,
+		"StageScene": "Stage_Elysion_Garden_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 25,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998283
+			},
+			{
+				"Level": 25,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998279
+			},
+			{
+				"Level": 25,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998283
+			},
+			{
+				"Level": 25,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998285
+			},
+			{
+				"Level": 25,
+				"Slot": 5,
+				"Star": 3,
+				"UniqueID": 998285
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": true,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 652124,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301054
+	},
+	{
+		"StageType": 3,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 30,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998297
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": true,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 652125,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301055
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Elysion_Garden_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 30,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998239
+			},
+			{
+				"Level": 30,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998235
+			},
+			{
+				"Level": 30,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998233
+			},
+			{
+				"Level": 30,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998234
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301101
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Elysion_Garden_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 21,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998285
+			},
+			{
+				"Level": 21,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998285
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301102
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Elysion_Garden_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 19,
+				"Slot": 2,
+				"Star": 2,
+				"UniqueID": 998283
+			},
+			{
+				"Level": 19,
+				"Slot": 4,
+				"Star": 2,
+				"UniqueID": 998285
+			},
+			{
+				"Level": 19,
+				"Slot": 5,
+				"Star": 2,
+				"UniqueID": 998285
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301103
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Elysion_Garden_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 14,
+				"Slot": 1,
+				"Star": 2,
+				"UniqueID": 998293
+			},
+			{
+				"Level": 14,
+				"Slot": 2,
+				"Star": 2,
+				"UniqueID": 998293
+			},
+			{
+				"Level": 14,
+				"Slot": 3,
+				"Star": 2,
+				"UniqueID": 998293
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301104
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Elysion_Garden_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 14,
+				"Slot": 1,
+				"Star": 2,
+				"UniqueID": 998283
+			},
+			{
+				"Level": 14,
+				"Slot": 2,
+				"Star": 2,
+				"UniqueID": 998283
+			},
+			{
+				"Level": 14,
+				"Slot": 3,
+				"Star": 2,
+				"UniqueID": 998283
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301105
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Elysion_Garden_MonsterCard",
+		"Wave1": [],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301106
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Elysion_Garden_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 11,
+				"Slot": 1,
+				"Star": 2,
+				"UniqueID": 998288
+			},
+			{
+				"Level": 21,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998285
+			},
+			{
+				"Level": 11,
+				"Slot": 3,
+				"Star": 2,
+				"UniqueID": 998288
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301107
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Elysion_Garden_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 17,
+				"Slot": 1,
+				"Star": 2,
+				"UniqueID": 998283
+			},
+			{
+				"Level": 21,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998282
+			},
+			{
+				"Level": 17,
+				"Slot": 3,
+				"Star": 2,
+				"UniqueID": 998283
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301108
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Elysion_Garden_MonsterCard",
+		"Wave1": [],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301109
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Elysion_Garden_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 11,
+				"Slot": 1,
+				"Star": 2,
+				"UniqueID": 998285
+			},
+			{
+				"Level": 21,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998287
+			},
+			{
+				"Level": 11,
+				"Slot": 3,
+				"Star": 2,
+				"UniqueID": 998285
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301110
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Elysion_Garden_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 14,
+				"Slot": 1,
+				"Star": 2,
+				"UniqueID": 998283
+			},
+			{
+				"Level": 14,
+				"Slot": 2,
+				"Star": 2,
+				"UniqueID": 998288
+			},
+			{
+				"Level": 14,
+				"Slot": 3,
+				"Star": 2,
+				"UniqueID": 998283
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301111
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Elysion_Garden_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 16,
+				"Slot": 1,
+				"Star": 2,
+				"UniqueID": 998286
+			},
+			{
+				"Level": 26,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998285
+			},
+			{
+				"Level": 16,
+				"Slot": 3,
+				"Star": 2,
+				"UniqueID": 998286
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301112
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Elysion_Garden_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 38,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998284
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301113
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Elysion_Garden_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 15,
+				"Slot": 1,
+				"Star": 2,
+				"UniqueID": 998283
+			},
+			{
+				"Level": 15,
+				"Slot": 2,
+				"Star": 2,
+				"UniqueID": 998282
+			},
+			{
+				"Level": 15,
+				"Slot": 3,
+				"Star": 2,
+				"UniqueID": 998283
+			},
+			{
+				"Level": 15,
+				"Slot": 4,
+				"Star": 2,
+				"UniqueID": 998285
+			},
+			{
+				"Level": 15,
+				"Slot": 5,
+				"Star": 2,
+				"UniqueID": 998285
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301114
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Elysion_Garden_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 15,
+				"Slot": 1,
+				"Star": 2,
+				"UniqueID": 998282
+			},
+			{
+				"Level": 15,
+				"Slot": 2,
+				"Star": 2,
+				"UniqueID": 998278
+			},
+			{
+				"Level": 15,
+				"Slot": 3,
+				"Star": 2,
+				"UniqueID": 998282
+			},
+			{
+				"Level": 15,
+				"Slot": 4,
+				"Star": 2,
+				"UniqueID": 998285
+			},
+			{
+				"Level": 15,
+				"Slot": 5,
+				"Star": 2,
+				"UniqueID": 998285
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301115
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Elysion_Garden_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 15,
+				"Slot": 1,
+				"Star": 2,
+				"UniqueID": 998282
+			},
+			{
+				"Level": 21,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998285
+			},
+			{
+				"Level": 15,
+				"Slot": 3,
+				"Star": 2,
+				"UniqueID": 998282
+			},
+			{
+				"Level": 15,
+				"Slot": 4,
+				"Star": 2,
+				"UniqueID": 998282
+			},
+			{
+				"Level": 15,
+				"Slot": 5,
+				"Star": 2,
+				"UniqueID": 998282
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301116
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Elysion_Garden_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 13,
+				"Slot": 1,
+				"Star": 2,
+				"UniqueID": 998288
+			},
+			{
+				"Level": 13,
+				"Slot": 2,
+				"Star": 2,
+				"UniqueID": 998283
+			},
+			{
+				"Level": 13,
+				"Slot": 3,
+				"Star": 2,
+				"UniqueID": 998288
+			},
+			{
+				"Level": 13,
+				"Slot": 4,
+				"Star": 2,
+				"UniqueID": 998285
+			},
+			{
+				"Level": 13,
+				"Slot": 5,
+				"Star": 2,
+				"UniqueID": 998285
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301117
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Elysion_Garden_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 40,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998279
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301118
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Elysion_Garden_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 40,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998300
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301119
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Elysion_Garden_MonsterCard",
+		"Wave1": [],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301120
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Elysion_Garden_MonsterCard",
+		"Wave1": [],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301121
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Elysion_Garden_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 20,
+				"Slot": 1,
+				"Star": 2,
+				"UniqueID": 998285
+			},
+			{
+				"Level": 20,
+				"Slot": 2,
+				"Star": 2,
+				"UniqueID": 998288
+			},
+			{
+				"Level": 20,
+				"Slot": 3,
+				"Star": 2,
+				"UniqueID": 998285
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301122
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Elysion_Garden_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 21,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998279
+			},
+			{
+				"Level": 21,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998285
+			},
+			{
+				"Level": 21,
+				"Slot": 5,
+				"Star": 3,
+				"UniqueID": 998285
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301123
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Elysion_Garden_MonsterCard",
+		"Wave1": [],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301124
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Elysion_Garden_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 30,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998284
+			},
+			{
+				"Level": 30,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998279
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301125
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 30,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998239
+			},
+			{
+				"Level": 30,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998235
+			},
+			{
+				"Level": 30,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998233
+			},
+			{
+				"Level": 30,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998234
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301201
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 30,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998239
+			},
+			{
+				"Level": 30,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998235
+			},
+			{
+				"Level": 30,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998233
+			},
+			{
+				"Level": 30,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998234
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301202
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 18,
+				"Slot": 1,
+				"Star": 2,
+				"UniqueID": 998282
+			},
+			{
+				"Level": 15,
+				"Slot": 2,
+				"Star": 2,
+				"UniqueID": 998278
+			},
+			{
+				"Level": 18,
+				"Slot": 3,
+				"Star": 2,
+				"UniqueID": 998282
+			},
+			{
+				"Level": 18,
+				"Slot": 4,
+				"Star": 2,
+				"UniqueID": 998288
+			},
+			{
+				"Level": 18,
+				"Slot": 5,
+				"Star": 2,
+				"UniqueID": 998288
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301203
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 21,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998285
+			},
+			{
+				"Level": 21,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998275
+			},
+			{
+				"Level": 21,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998285
+			},
+			{
+				"Level": 21,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998293
+			},
+			{
+				"Level": 21,
+				"Slot": 5,
+				"Star": 3,
+				"UniqueID": 998293
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301204
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 21,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998275
+			},
+			{
+				"Level": 21,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998275
+			},
+			{
+				"Level": 21,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998275
+			},
+			{
+				"Level": 21,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998295
+			},
+			{
+				"Level": 21,
+				"Slot": 5,
+				"Star": 3,
+				"UniqueID": 998295
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301205
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 23,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998288
+			},
+			{
+				"Level": 23,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998288
+			},
+			{
+				"Level": 23,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998288
+			},
+			{
+				"Level": 23,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998285
+			},
+			{
+				"Level": 23,
+				"Slot": 5,
+				"Star": 3,
+				"UniqueID": 998285
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301206
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 24,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998286
+			},
+			{
+				"Level": 33,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998298
+			},
+			{
+				"Level": 24,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998286
+			},
+			{
+				"Level": 24,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998287
+			},
+			{
+				"Level": 24,
+				"Slot": 5,
+				"Star": 3,
+				"UniqueID": 998287
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301207
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301208
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 21,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998293
+			},
+			{
+				"Level": 21,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998293
+			},
+			{
+				"Level": 21,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998293
+			},
+			{
+				"Level": 21,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998295
+			},
+			{
+				"Level": 21,
+				"Slot": 5,
+				"Star": 3,
+				"UniqueID": 998295
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301209
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 23,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998282
+			},
+			{
+				"Level": 23,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998288
+			},
+			{
+				"Level": 23,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998282
+			},
+			{
+				"Level": 23,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998283
+			},
+			{
+				"Level": 23,
+				"Slot": 5,
+				"Star": 3,
+				"UniqueID": 998283
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301210
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301211
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 40,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998274
+			},
+			{
+				"Level": 40,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998274
+			},
+			{
+				"Level": 40,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998274
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301212
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 25,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998278
+			},
+			{
+				"Level": 25,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998278
+			},
+			{
+				"Level": 25,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998285
+			},
+			{
+				"Level": 25,
+				"Slot": 5,
+				"Star": 3,
+				"UniqueID": 998285
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301213
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 21,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998288
+			},
+			{
+				"Level": 21,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998288
+			},
+			{
+				"Level": 21,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998288
+			},
+			{
+				"Level": 21,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998293
+			},
+			{
+				"Level": 21,
+				"Slot": 5,
+				"Star": 3,
+				"UniqueID": 998293
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301214
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 30,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998297
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301215
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 21,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998275
+			},
+			{
+				"Level": 29,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998288
+			},
+			{
+				"Level": 21,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998275
+			},
+			{
+				"Level": 21,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998293
+			},
+			{
+				"Level": 21,
+				"Slot": 5,
+				"Star": 3,
+				"UniqueID": 998293
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301216
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301217
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 27,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998287
+			},
+			{
+				"Level": 27,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998282
+			},
+			{
+				"Level": 27,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998287
+			},
+			{
+				"Level": 27,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998283
+			},
+			{
+				"Level": 27,
+				"Slot": 5,
+				"Star": 3,
+				"UniqueID": 998283
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301218
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 28,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998298
+			},
+			{
+				"Level": 28,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998285
+			},
+			{
+				"Level": 28,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998298
+			},
+			{
+				"Level": 28,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998286
+			},
+			{
+				"Level": 28,
+				"Slot": 5,
+				"Star": 3,
+				"UniqueID": 998286
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301219
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 35,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998301
+			},
+			{
+				"Level": 35,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998300
+			},
+			{
+				"Level": 35,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998299
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301220
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301221
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 35,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998274
+			},
+			{
+				"Level": 35,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998274
+			},
+			{
+				"Level": 35,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998274
+			},
+			{
+				"Level": 35,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998293
+			},
+			{
+				"Level": 35,
+				"Slot": 5,
+				"Star": 3,
+				"UniqueID": 998293
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301222
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 35,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998291
+			},
+			{
+				"Level": 35,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998293
+			},
+			{
+				"Level": 35,
+				"Slot": 5,
+				"Star": 3,
+				"UniqueID": 998293
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301223
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 30,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998288
+			},
+			{
+				"Level": 30,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998288
+			},
+			{
+				"Level": 30,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998288
+			},
+			{
+				"Level": 30,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998285
+			},
+			{
+				"Level": 30,
+				"Slot": 5,
+				"Star": 3,
+				"UniqueID": 998285
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301224
+	},
+	{
+		"StageType": 1,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 25,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998297
+			},
+			{
+				"Level": 25,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998295
+			},
+			{
+				"Level": 25,
+				"Slot": 5,
+				"Star": 3,
+				"UniqueID": 998295
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301225
+	},
+	{
+		"StageType": 2,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"Wave1": [
+			{
+				"Level": 21,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998323
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301301
+	},
+	{
+		"StageType": 2,
+		"StageScene": "Stage_Elysion_Garden_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 30,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998324
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301302
+	},
+	{
+		"StageType": 2,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 30,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998325
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301303
+	},
+	{
+		"StageType": 2,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 30,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998252
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301304
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"Wave1": [
+			{
+				"Level": 17,
+				"Slot": 2,
+				"Star": 2,
+				"UniqueID": 998296
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 1,
+				"EffectID": 100001
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301501
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"Wave1": [
+			{
+				"Level": 11,
+				"Slot": 1,
+				"Star": 2,
+				"UniqueID": 998288
+			},
+			{
+				"Level": 11,
+				"Slot": 2,
+				"Star": 2,
+				"UniqueID": 998288
+			},
+			{
+				"Level": 11,
+				"Slot": 3,
+				"Star": 2,
+				"UniqueID": 998288
+			},
+			{
+				"Level": 11,
+				"Slot": 4,
+				"Star": 2,
+				"UniqueID": 998288
+			},
+			{
+				"Level": 11,
+				"Slot": 5,
+				"Star": 2,
+				"UniqueID": 998288
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 1,
+				"EffectID": 100004
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301502
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"Wave1": [
+			{
+				"Level": 31,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998278
+			},
+			{
+				"Level": 11,
+				"Slot": 4,
+				"Star": 2,
+				"UniqueID": 998293
+			},
+			{
+				"Level": 11,
+				"Slot": 5,
+				"Star": 2,
+				"UniqueID": 998293
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 1,
+				"EffectID": 100005
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301503
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"Wave1": [
+			{
+				"Level": 41,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998275
+			},
+			{
+				"Level": 31,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998285
+			},
+			{
+				"Level": 31,
+				"Slot": 5,
+				"Star": 3,
+				"UniqueID": 998285
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 1,
+				"EffectID": 100003
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301504
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"Wave1": [
+			{
+				"Level": 13,
+				"Slot": 1,
+				"Star": 2,
+				"UniqueID": 998286
+			},
+			{
+				"Level": 13,
+				"Slot": 3,
+				"Star": 2,
+				"UniqueID": 998286
+			},
+			{
+				"Level": 13,
+				"Slot": 4,
+				"Star": 2,
+				"UniqueID": 998286
+			},
+			{
+				"Level": 13,
+				"Slot": 5,
+				"Star": 2,
+				"UniqueID": 998286
+			}
+		],
+		"Wave2": [
+			{
+				"Level": 33,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998290
+			}
+		],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 1,
+				"EffectID": 100013
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301505
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"Wave1": [
+			{
+				"Level": 18,
+				"Slot": 1,
+				"Star": 2,
+				"UniqueID": 998301
+			},
+			{
+				"Level": 18,
+				"Slot": 2,
+				"Star": 2,
+				"UniqueID": 998275
+			},
+			{
+				"Level": 18,
+				"Slot": 3,
+				"Star": 2,
+				"UniqueID": 998301
+			},
+			{
+				"Level": 18,
+				"Slot": 4,
+				"Star": 2,
+				"UniqueID": 998295
+			},
+			{
+				"Level": 18,
+				"Slot": 5,
+				"Star": 2,
+				"UniqueID": 998295
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 1,
+				"EffectID": 100002
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301506
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"Wave1": [
+			{
+				"Level": 24,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998285
+			},
+			{
+				"Level": 24,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998282
+			},
+			{
+				"Level": 24,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998285
+			},
+			{
+				"Level": 24,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998283
+			},
+			{
+				"Level": 24,
+				"Slot": 5,
+				"Star": 3,
+				"UniqueID": 998283
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 1,
+				"EffectID": 100012
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301507
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"Wave1": [
+			{
+				"Level": 45,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998300
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 1,
+				"EffectID": 100005
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301508
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"Wave1": [
+			{
+				"Level": 25,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998301
+			},
+			{
+				"Level": 25,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998301
+			},
+			{
+				"Level": 25,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998301
+			},
+			{
+				"Level": 25,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998301
+			},
+			{
+				"Level": 25,
+				"Slot": 5,
+				"Star": 3,
+				"UniqueID": 998301
+			}
+		],
+		"Wave2": [
+			{
+				"Level": 25,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998288
+			},
+			{
+				"Level": 25,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998288
+			},
+			{
+				"Level": 25,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998288
+			}
+		],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 1,
+				"EffectID": 100013
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301509
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"Wave1": [
+			{
+				"Level": 40,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998299
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 2,
+				"EffectID": 100017
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301510
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"Wave1": [
+			{
+				"Level": 45,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998284
+			},
+			{
+				"Level": 45,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998279
+			},
+			{
+				"Level": 45,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998284
+			},
+			{
+				"Level": 45,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998285
+			},
+			{
+				"Level": 45,
+				"Slot": 5,
+				"Star": 3,
+				"UniqueID": 998285
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 1,
+				"EffectID": 100003
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301511
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"Wave1": [
+			{
+				"Level": 40,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998290
+			},
+			{
+				"Level": 40,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998289
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 1,
+				"EffectID": 100009
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301512
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"Wave1": [
+			{
+				"Level": 30,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998293
+			},
+			{
+				"Level": 40,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998291
+			},
+			{
+				"Level": 30,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998293
+			},
+			{
+				"Level": 30,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998293
+			},
+			{
+				"Level": 30,
+				"Slot": 5,
+				"Star": 3,
+				"UniqueID": 998293
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 1,
+				"EffectID": 100013
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301513
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"Wave1": [
+			{
+				"Level": 30,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998282
+			},
+			{
+				"Level": 60,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998285
+			},
+			{
+				"Level": 30,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998282
+			},
+			{
+				"Level": 30,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998282
+			},
+			{
+				"Level": 30,
+				"Slot": 5,
+				"Star": 3,
+				"UniqueID": 998282
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 1,
+				"EffectID": 100004
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301514
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Battle_Castal_Forest",
+		"Wave1": [
+			{
+				"Level": 35,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998294
+			},
+			{
+				"Level": 35,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998295
+			},
+			{
+				"Level": 35,
+				"Slot": 5,
+				"Star": 3,
+				"UniqueID": 998295
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 1,
+				"EffectID": 100002
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301515
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Elysion_Garden_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 55,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998274
+			},
+			{
+				"Level": 55,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998274
+			},
+			{
+				"Level": 55,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998274
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 1,
+				"EffectID": 100001
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301516
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Elysion_Garden_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 35,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998288
+			},
+			{
+				"Level": 35,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998288
+			},
+			{
+				"Level": 35,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998288
+			},
+			{
+				"Level": 35,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998288
+			},
+			{
+				"Level": 35,
+				"Slot": 5,
+				"Star": 3,
+				"UniqueID": 998288
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 1,
+				"EffectID": 100013
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301517
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Elysion_Garden_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 50,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998292
+			},
+			{
+				"Level": 35,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998277
+			},
+			{
+				"Level": 35,
+				"Slot": 5,
+				"Star": 3,
+				"UniqueID": 998277
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 1,
+				"EffectID": 100003
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301518
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Elysion_Garden_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 50,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998297
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 2,
+				"EffectID": 100017
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301519
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Elysion_Garden_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 45,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998300
+			},
+			{
+				"Level": 45,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998299
+			},
+			{
+				"Level": 45,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998300
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 1,
+				"EffectID": 100002
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301520
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Elysion_Garden_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 35,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998282
+			},
+			{
+				"Level": 55,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998298
+			},
+			{
+				"Level": 35,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998282
+			},
+			{
+				"Level": 35,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998293
+			},
+			{
+				"Level": 35,
+				"Slot": 5,
+				"Star": 3,
+				"UniqueID": 998293
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 2,
+				"EffectID": 100014
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301521
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Elysion_Garden_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 60,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998284
+			},
+			{
+				"Level": 60,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998280
+			},
+			{
+				"Level": 60,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998284
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 1,
+				"EffectID": 100010
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301522
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Elysion_Garden_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 40,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998285
+			},
+			{
+				"Level": 40,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998282
+			},
+			{
+				"Level": 40,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998285
+			},
+			{
+				"Level": 40,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998285
+			},
+			{
+				"Level": 40,
+				"Slot": 5,
+				"Star": 3,
+				"UniqueID": 998285
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 1,
+				"EffectID": 100004
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301523
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Elysion_Garden_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 35,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998276
+			},
+			{
+				"Level": 60,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998300
+			},
+			{
+				"Level": 35,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998276
+			},
+			{
+				"Level": 35,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998293
+			},
+			{
+				"Level": 35,
+				"Slot": 5,
+				"Star": 3,
+				"UniqueID": 998293
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 1,
+				"EffectID": 100011
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301524
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Elysion_Garden_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 45,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998274
+			},
+			{
+				"Level": 45,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998274
+			},
+			{
+				"Level": 45,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998274
+			},
+			{
+				"Level": 45,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998299
+			},
+			{
+				"Level": 45,
+				"Slot": 5,
+				"Star": 3,
+				"UniqueID": 998299
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 1,
+				"EffectID": 100001
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301525
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Elysion_Garden_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 60,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998279
+			},
+			{
+				"Level": 60,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998279
+			},
+			{
+				"Level": 60,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998279
+			},
+			{
+				"Level": 60,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998283
+			},
+			{
+				"Level": 60,
+				"Slot": 5,
+				"Star": 3,
+				"UniqueID": 998283
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 1,
+				"EffectID": 100005
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301526
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Elysion_Garden_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 47,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998294
+			},
+			{
+				"Level": 47,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998297
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 1,
+				"EffectID": 100003
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301527
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Elysion_Garden_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 21,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998298
+			},
+			{
+				"Level": 60,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998298
+			},
+			{
+				"Level": 21,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998298
+			},
+			{
+				"Level": 21,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998298
+			},
+			{
+				"Level": 21,
+				"Slot": 5,
+				"Star": 3,
+				"UniqueID": 998298
+			}
+		],
+		"Wave2": [
+			{
+				"Level": 60,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998296
+			},
+			{
+				"Level": 21,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998295
+			},
+			{
+				"Level": 21,
+				"Slot": 5,
+				"Star": 3,
+				"UniqueID": 998295
+			}
+		],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 1,
+				"EffectID": 100013
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301528
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Elysion_Garden_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 60,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998275
+			},
+			{
+				"Level": 60,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998275
+			},
+			{
+				"Level": 60,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998275
+			},
+			{
+				"Level": 60,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998286
+			},
+			{
+				"Level": 60,
+				"Slot": 5,
+				"Star": 3,
+				"UniqueID": 998286
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 1,
+				"EffectID": 100004
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301529
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Elysion_Garden_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 33,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998296
+			},
+			{
+				"Level": 33,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998296
+			},
+			{
+				"Level": 33,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998296
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301530
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 45,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998297
+			},
+			{
+				"Level": 45,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998295
+			},
+			{
+				"Level": 45,
+				"Slot": 5,
+				"Star": 3,
+				"UniqueID": 998295
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 2,
+				"EffectID": 100017
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301531
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 45,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998299
+			},
+			{
+				"Level": 45,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998299
+			},
+			{
+				"Level": 45,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998299
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 2,
+				"EffectID": 100017
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301532
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 40,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998280
+			},
+			{
+				"Level": 40,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998291
+			},
+			{
+				"Level": 40,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998280
+			},
+			{
+				"Level": 40,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998277
+			},
+			{
+				"Level": 40,
+				"Slot": 5,
+				"Star": 3,
+				"UniqueID": 998277
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 1,
+				"EffectID": 100013
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301533
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 30,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998282
+			},
+			{
+				"Level": 30,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998282
+			},
+			{
+				"Level": 30,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998282
+			},
+			{
+				"Level": 30,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998295
+			},
+			{
+				"Level": 30,
+				"Slot": 5,
+				"Star": 3,
+				"UniqueID": 998295
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 2,
+				"EffectID": 100006
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301534
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 10,
+				"Slot": 3,
+				"Star": 1,
+				"UniqueID": 998292
+			}
+		],
+		"Wave2": [
+			{
+				"Level": 60,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998296
+			}
+		],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 2,
+				"EffectID": 100017
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301535
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 36,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998297
+			},
+			{
+				"Level": 36,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998289
+			},
+			{
+				"Level": 36,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998297
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 1,
+				"EffectID": 100005
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301536
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 32,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998294
+			},
+			{
+				"Level": 32,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998280
+			},
+			{
+				"Level": 32,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998294
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 2,
+				"EffectID": 100017
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301537
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 60,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998275
+			},
+			{
+				"Level": 60,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998275
+			},
+			{
+				"Level": 60,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998275
+			},
+			{
+				"Level": 60,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998282
+			},
+			{
+				"Level": 60,
+				"Slot": 5,
+				"Star": 3,
+				"UniqueID": 998282
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 1,
+				"EffectID": 100002
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301538
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 47,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998274
+			},
+			{
+				"Level": 47,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998291
+			},
+			{
+				"Level": 47,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998274
+			},
+			{
+				"Level": 47,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998293
+			},
+			{
+				"Level": 47,
+				"Slot": 5,
+				"Star": 3,
+				"UniqueID": 998293
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 2,
+				"EffectID": 100017
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301539
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 42,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998277
+			},
+			{
+				"Level": 42,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998296
+			},
+			{
+				"Level": 42,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998277
+			},
+			{
+				"Level": 42,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998299
+			},
+			{
+				"Level": 42,
+				"Slot": 5,
+				"Star": 3,
+				"UniqueID": 998299
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301540
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 50,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998300
+			},
+			{
+				"Level": 50,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998300
+			},
+			{
+				"Level": 50,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998300
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 2,
+				"EffectID": 100017
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301541
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 58,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998297
+			}
+		],
+		"Wave2": [
+			{
+				"Level": 58,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998294
+			}
+		],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 2,
+				"EffectID": 100017
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301542
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 60,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998283
+			},
+			{
+				"Level": 60,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998283
+			},
+			{
+				"Level": 60,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998283
+			},
+			{
+				"Level": 60,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998299
+			},
+			{
+				"Level": 60,
+				"Slot": 5,
+				"Star": 3,
+				"UniqueID": 998299
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 1,
+				"EffectID": 100013
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301543
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 60,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998284
+			},
+			{
+				"Level": 60,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998280
+			},
+			{
+				"Level": 60,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998284
+			},
+			{
+				"Level": 60,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998280
+			},
+			{
+				"Level": 60,
+				"Slot": 5,
+				"Star": 3,
+				"UniqueID": 998280
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 1,
+				"EffectID": 100002
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301544
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 10,
+				"Slot": 2,
+				"Star": 1,
+				"UniqueID": 998324
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 2,
+				"EffectID": 100017
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301545
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 48,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998290
+			},
+			{
+				"Level": 48,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998290
+			},
+			{
+				"Level": 48,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998290
+			},
+			{
+				"Level": 48,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998295
+			},
+			{
+				"Level": 48,
+				"Slot": 5,
+				"Star": 3,
+				"UniqueID": 998295
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 1,
+				"EffectID": 100013
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301546
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 50,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998300
+			},
+			{
+				"Level": 50,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998296
+			},
+			{
+				"Level": 50,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998300
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 2,
+				"EffectID": 100017
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301547
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 56,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998291
+			},
+			{
+				"Level": 56,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998291
+			},
+			{
+				"Level": 56,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998291
+			},
+			{
+				"Level": 56,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998277
+			},
+			{
+				"Level": 56,
+				"Slot": 5,
+				"Star": 3,
+				"UniqueID": 998277
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 1,
+				"EffectID": 100009
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301548
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 45,
+				"Slot": 1,
+				"Star": 3,
+				"UniqueID": 998300
+			},
+			{
+				"Level": 45,
+				"Slot": 2,
+				"Star": 3,
+				"UniqueID": 998289
+			},
+			{
+				"Level": 45,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998300
+			},
+			{
+				"Level": 45,
+				"Slot": 4,
+				"Star": 3,
+				"UniqueID": 998299
+			},
+			{
+				"Level": 45,
+				"Slot": 5,
+				"Star": 3,
+				"UniqueID": 998299
+			}
+		],
+		"Wave2": [],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 1,
+				"EffectID": 100001
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": true,
+		"DataImpl": {},
+		"StageID": 10301549
+	},
+	{
+		"StageType": 4,
+		"StageScene": "Stage_Austria_Town_MonsterCard",
+		"Wave1": [
+			{
+				"Level": 60,
+				"Slot": 3,
+				"Star": 3,
+				"UniqueID": 998297
+			}
+		],
+		"Wave2": [
+			{
+				"Level": 13,
+				"Slot": 2,
+				"Star": 2,
+				"UniqueID": 998324
+			}
+		],
+		"Wave3": [],
+		"StageTime": 120,
+		"StageEffect": [
+			{
+				"EffectSide": 2,
+				"EffectID": 100017
+			}
+		],
+		"IsSweep": false,
+		"SweepNeedChallengeNum": 3,
+		"SweepRewardID": 0,
+		"IsNextStage": false,
+		"DataImpl": {},
+		"StageID": 10301550
+	}
+]

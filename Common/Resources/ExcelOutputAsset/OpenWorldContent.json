@@ -1,0 +1,138 @@
+[
+	{
+		"JudgeType": 0,
+		"ContentJudgeWeight": 40,
+		"BeginTime": "2019-11-25 04:00:00",
+		"EndTime": "2035-12-31 03:59:59",
+		"ContentTitle": {
+			"hash": -1953966144
+		},
+		"ContentIconPath": "SpriteOutput/StateIcon/State_Quest",
+		"ContentRewardShow": 961301,
+		"ContentDesc": {
+			"hash": 29357579
+		},
+		"DataImpl": {},
+		"ID": 1,
+		"MapID": 1
+	},
+	{
+		"JudgeType": 0,
+		"ContentJudgeWeight": 40,
+		"BeginTime": "2019-11-25 04:00:00",
+		"EndTime": "2035-12-31 03:59:59",
+		"ContentTitle": {
+			"hash": -1953966140
+		},
+		"ContentIconPath": "SpriteOutput/StateIcon/State_Quest",
+		"ContentRewardShow": 961304,
+		"ContentDesc": {
+			"hash": 29357583
+		},
+		"DataImpl": {},
+		"ID": 1,
+		"MapID": 2
+	},
+	{
+		"JudgeType": 0,
+		"ContentJudgeWeight": 40,
+		"BeginTime": "2019-11-25 04:00:00",
+		"EndTime": "2035-12-31 03:59:59",
+		"ContentTitle": {
+			"hash": -1953966114
+		},
+		"ContentIconPath": "SpriteOutput/StateIcon/State_Quest",
+		"ContentRewardShow": 961307,
+		"ContentDesc": {
+			"hash": 29357609
+		},
+		"DataImpl": {},
+		"ID": 1,
+		"MapID": 401
+	},
+	{
+		"JudgeType": 0,
+		"ContentJudgeWeight": 40,
+		"BeginTime": "2019-11-25 04:00:00",
+		"EndTime": "2035-12-31 03:59:59",
+		"ContentTitle": {
+			"hash": -1953966114
+		},
+		"ContentIconPath": "SpriteOutput/StateIcon/State_Quest",
+		"ContentRewardShow": 961307,
+		"ContentDesc": {
+			"hash": 29357610
+		},
+		"DataImpl": {},
+		"ID": 1,
+		"MapID": 601
+	},
+	{
+		"JudgeType": 3,
+		"ContentJudgeWeight": 30,
+		"BeginTime": "2019-11-25 04:00:00",
+		"EndTime": "2020-03-09 03:59:59",
+		"ContentTitle": {
+			"hash": -1953966142
+		},
+		"ContentIconPath": "SpriteOutput/StateIcon/State_Event",
+		"ContentRewardShow": 961302,
+		"ContentDesc": {
+			"hash": 29357581
+		},
+		"DataImpl": {},
+		"ID": 3,
+		"MapID": 1
+	},
+	{
+		"JudgeType": 1,
+		"ContentJudgeWeight": 30,
+		"BeginTime": "2019-11-25 04:00:00",
+		"EndTime": "2020-03-09 03:59:59",
+		"ContentTitle": {
+			"hash": -1953966141
+		},
+		"ContentIconPath": "SpriteOutput/StateIcon/State_Collect",
+		"ContentRewardShow": 961303,
+		"ContentDesc": {
+			"hash": 29357582
+		},
+		"DataImpl": {},
+		"ID": 4,
+		"MapID": 1
+	},
+	{
+		"JudgeType": 1,
+		"ContentJudgeWeight": 30,
+		"BeginTime": "2019-11-25 04:00:00",
+		"EndTime": "2020-03-09 03:59:59",
+		"ContentTitle": {
+			"hash": -1953966138
+		},
+		"ContentIconPath": "SpriteOutput/StateIcon/State_Collect",
+		"ContentRewardShow": 961305,
+		"ContentDesc": {
+			"hash": 29357585
+		},
+		"DataImpl": {},
+		"ID": 4,
+		"MapID": 2
+	},
+	{
+		"JudgeType": 0,
+		"ContentJudgeWeight": 30,
+		"BeginTime": "2019-11-25 04:00:00",
+		"EndTime": "2020-03-09 03:59:59",
+		"ContentTitle": {
+			"hash": -1953966137
+		},
+		"ContentIconPath": "SpriteOutput/StateIcon/State_Fire",
+		"ContentRewardShow": 961306,
+		"ContentDesc": {
+			"hash": 29357586
+		},
+		"DataImpl": {},
+		"ID": 5,
+		"MapID": 2
+	}
+]

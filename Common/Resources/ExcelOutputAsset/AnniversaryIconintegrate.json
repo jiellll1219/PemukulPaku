@@ -1,0 +1,71 @@
+[
+	{
+		"IconX": -310,
+		"IconY": -141,
+		"IconTitle": {
+			"hash": -447476927
+		},
+		"StartTime": {
+			"TimeStampForBakedReader": 1666843200
+		},
+		"EndTime": {
+			"TimeStampForBakedReader": 1670472000
+		},
+		"IconGo": "<type=\"81|2090\" text=\"\"/>",
+		"IconImage": "event/Immediately/ActivityPage/6.1_AnniversaryPanel_iconC_truecolor",
+		"IconScheduleID": 52,
+		"IconRule": {
+			"hash": -1329178590
+		},
+		"MinPlayerLevel": 25,
+		"MaxPlayerLevel": 88,
+		"DataImpl": {},
+		"IconID": 1
+	},
+	{
+		"IconX": 71,
+		"IconY": -165,
+		"IconTitle": {
+			"hash": 1797955344
+		},
+		"StartTime": {
+			"TimeStampForBakedReader": 1668074400
+		},
+		"EndTime": {
+			"TimeStampForBakedReader": 1670472000
+		},
+		"IconGo": "<type=\"1076|1001\" text=\"\"/>",
+		"IconImage": "event/Immediately/ActivityPage/6.1_AnniversaryPanel_iconB_truecolor",
+		"IconScheduleID": 51,
+		"IconRule": {
+			"hash": 0
+		},
+		"MinPlayerLevel": 30,
+		"MaxPlayerLevel": 88,
+		"DataImpl": {},
+		"IconID": 2
+	},
+	{
+		"IconX": 312,
+		"IconY": 78,
+		"IconTitle": {
+			"hash": -1326533522
+		},
+		"StartTime": {
+			"TimeStampForBakedReader": 1669284000
+		},
+		"EndTime": {
+			"TimeStampForBakedReader": 1670472000
+		},
+		"IconGo": "<type=\"142|0\" text=\"\"/>",
+		"IconImage": "event/Immediately/ActivityPage/6.1_AnniversaryPanel_iconA_truecolor",
+		"IconScheduleID": 53,
+		"IconRule": {
+			"hash": 0
+		},
+		"MinPlayerLevel": 50,
+		"MaxPlayerLevel": 88,
+		"DataImpl": {},
+		"IconID": 3
+	}
+]
