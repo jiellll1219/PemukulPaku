@@ -26,16 +26,6 @@ jobs:
       uses: actions/setup-dotnet@v3
       with:
         dotnet-version: 6.0.x
-    - name: Download Resources
-      run: "git clone https://github.com/jiellll1219/PemukulPaku-Resources"
-    - name: CD Resources folder
-      run: cd ./PemukulPaku-Resources
-    - name: remove Resources
-      run: mv ./ExcelOutputAsset ../Common/Resources
-    - name: remove Proto.cs
-      run: mv ./Proto.cs ../Common/Resources
-    - name: cd
-      run: cd ../
     - name: Restore dependencies
       run: dotnet restore
     - name: Build
