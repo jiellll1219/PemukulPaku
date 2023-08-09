@@ -27,9 +27,15 @@ jobs:
       with:
         dotnet-version: 6.0.x
     - name: Download Resources
-      run: "curl -o Proto.zip -A 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36' --header 'Accept-Encoding: gzip,deflate' https://rafi12.cyou/files/Proto.zip"
-    - name: Unzip Resources
-      run: unzip -n Proto.zip -d Common
+      run: "git clone https://github.com/jiellll1219/PemukulPaku-Resources"
+    - name: CD Resources folder
+      run: cd ./PemukulPaku-Resources
+    - name: remove Resources
+      run: mv ./ExcelOutputAsset ../Common/Resources
+    - name: remove Proto.cs
+      run: mv ./Proto.cs ../Common/Resources
+    - name: cd
+      run: cd ../
     - name: Restore dependencies
       run: dotnet restore
     - name: Build
