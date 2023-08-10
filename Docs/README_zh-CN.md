@@ -1,8 +1,3 @@
-
-<div align="center"><a href="https://discord.gg/fbsRYc7bBA"><img alt="Discord - Server for Lesser Konwn Anime Games" src="https://i.imgtg.com/2023/06/08/O5Lt2S.jpg"></a></div>
-
-
-[EN](../README.md) | [简中](Docs/README_zh-CN.md) | [繁中](README_zh-TW.md)
 # PemukulPaku  
 崩坏三的私有服务器实现，但是在see sharp(C#)中实现  
 ## 快速开始  
