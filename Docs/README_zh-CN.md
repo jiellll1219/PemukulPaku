@@ -10,11 +10,8 @@ A private server implementation for a third impact game but made in see sharp
 * 阅读文章的能力  
 * GitHub 账户   
 * [.NET 6 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)   
-在命令行运行如下命令   
-```
-dotnet dev-certs https --trust
-```
-* [MongoDB](https://www.mongodb.com/try/download/community)  
+* [MongoDB](https://www.mongodb.com/try/download/community)
+    
 **快速开始*  
 克隆存储库  
 ```
@@ -42,6 +39,8 @@ git clone https://github.com/rafi1212122/PemukulPaku.git
 [Fiddler](https://github.com/rafi1212122/PemukulPaku/wiki/Starting#connecting-to-the-server)     
 若出现 ``为了账号安全，请重新输入密码``，可尝试使用mitmproxy    
 ## 使用Fiddler    
+* 注意：此Fiddler脚本仅限于6.7可用且6.7没有可用的缓存文件，此脚本也不支持从缓存响应，更高版本且使用缓存响应请使用mitmproxy
+  
 1.运行 Fiddler Classic,  开启解密http通信 ``Tools-options-Https-勾选Decrypt HTTPS traffic``并将端口设为任意未占用端口``Tools-options-Https-Connections``  
 2.点击Fiddler Script，并填入以下内容   
 ```
@@ -60,14 +59,14 @@ static function OnBeforeRequest(oS: Session) {
 ```
 ##  使用mitmproxy  
 
-1.从[这里](https://gist.github.com/rafi1212122/5cc76297d6cf6396de5fc572d1e55812#file-proxy-py)获取proxy.py  
+1.从[这里](https://github.com/jiellll1219/Pemukul-OtherFiles/tree/main/MitmScripts))获取proxy.py  
 2.在proxy.py所在目录运行 `mitmdump -s proxy.py -k`命令  
 3.设置系统代理为你所设置的端口，默认为 ``127.0.0.1:8080``  
 4.信任CA证书   
  * mitmproxy 的 CA 证书通常存放在 `%USERPROFILE%\ .mitmproxy` 或者浏览器访问 ``http://mitm.it``下载证书,如果你访问该地址后看到了 ``If you can see this, traffic is not passing through mitmproxy.``说明mitmproxy配置有误，请重新配置
  * 双击安装证书，或者运行 ``certutil -addstore root %USERPROFILE%\.mitmproxy\mitmproxy-ca-cert.p12``命令  
 
-了解更多[GitHub wiki](https://github.com/rafi1212122/PemukulPaku/wiki)   
+了解更多[GitHub wiki](https://web.archive.org/web/20230616060829/https://github.com/rafi1212122/PemukulPaku/wiki/))   
 
 ## GM 命令  
 * **在哪里输入命令？**\  
