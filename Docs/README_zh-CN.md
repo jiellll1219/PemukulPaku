@@ -4,7 +4,7 @@
 
 [EN](../README.md) | [简中](Docs/README_zh-CN.md) | [繁中](README_zh-TW.md)
 # PemukulPaku  
-A private server implementation for a third impact game but made in see sharp  
+崩坏三的私有服务器实现，但是在see sharp(C#)中实现  
 ## 快速开始  
 **前提条件*  
 * 阅读文章的能力  
