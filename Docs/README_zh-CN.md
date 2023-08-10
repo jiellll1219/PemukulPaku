@@ -7,12 +7,12 @@
 * [.NET 6 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)   
 * [MongoDB](https://www.mongodb.com/try/download/community)
     
-**快速开始*  
+## *快速开始*  
 克隆存储库  
 ```
 git clone https://github.com/rafi1212122/PemukulPaku.git
 ```
-
+请忽略以下操作
 从[这里](https://github.com/rafi1212122/PemukulPaku/actions)下载最新action.   
 进入PemukulPaku文件夹，将下载的action解压到该文件夹下  
 下载资源文件 [resources](https://anonfiles.com/bf2cR4u1z7/Resources_7z)  并将其解压放置在 `Common\Resources`目录下   
@@ -21,10 +21,9 @@ git clone https://github.com/rafi1212122/PemukulPaku.git
 │   └───Resources
 │       └───ExcelOutputAsset
 │       └───Proto.cs
-
-
 ```
-**运行服务*   
+忽略结束
+## *运行服务*   
 1.运行 PemukulPaku.exe    
 **在运行前请确保MongoDB服务已经正确启动**  
 **连接至服务器*    
@@ -33,7 +32,7 @@ git clone https://github.com/rafi1212122/PemukulPaku.git
 [mitmproxy](https://mitmproxy.org/)  
 [Fiddler](https://github.com/rafi1212122/PemukulPaku/wiki/Starting#connecting-to-the-server)     
 若出现 ``为了账号安全，请重新输入密码``，可尝试使用mitmproxy    
-## 使用Fiddler    
+### 使用Fiddler    
 * 注意：此Fiddler脚本仅限于6.7可用且6.7没有可用的缓存文件，此脚本也不支持从缓存响应，更高版本且使用缓存响应请使用mitmproxy
   
 1.运行 Fiddler Classic,  开启解密http通信 ``Tools-options-Https-勾选Decrypt HTTPS traffic``并将端口设为任意未占用端口``Tools-options-Https-Connections``  
@@ -52,7 +51,7 @@ static function OnBeforeRequest(oS: Session) {
 }
 }
 ```
-##  使用mitmproxy  
+### 使用mitmproxy  
 
 1.从[这里](https://github.com/jiellll1219/Pemukul-OtherFiles/tree/main/MitmScripts))获取proxy.py  
 2.在proxy.py所在目录运行 `mitmdump -s proxy.py -k`命令  
@@ -82,7 +81,6 @@ static function OnBeforeRequest(oS: Session) {
     * 例如:  
     - `give avatars`   
 
-了解更多[development](https://github.com/rafi1212122/PemukulPaku/wiki/Development)  
-
+了解更多[Wiki](https://web.archive.org/web/20230616060829/https://github.com/rafi1212122/PemukulPaku/wiki/) （虽然不会比这里更多）
 ## 支持  
 加入[Discord server](https://discord.gg/fbsRYc7bBA) or 提交GitHub issue  
