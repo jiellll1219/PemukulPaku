@@ -5,7 +5,7 @@ server side is compiled in Actions
 Actions中已编译服务端  
 Actionsでコンパイルされたサービス端末  
 
-[简中](Docs/README_zh-CN.md) [繁中](Docs/README_zh-TW.md) [EN](README.md) [日本語](Docs/README_jp.md)  
+[简中](Docs/README_zh-CN.md) [繁中](Docs/README_zh-TW.md) [EN](Docs/README_en.md) [日本語](Docs/README_jp.md)  
 # PemukulPaku
 associated [repository](https://github.com/jiellll1219/Pemukul-OtherFiles)  
 相关联的[仓库](https://github.com/jiellll1219/Pemukul-OtherFiles)  
